@@ -1,0 +1,13 @@
+categories:
+  - title: Элем
+    subcategories:
+      - title: Гайд
+        url: /guides/elemental/guide.html
+  - title: Энх
+    subcategories:
+      - title: Гайд
+        url: /guides/enhancement/guide.html
+  - title: Рестор
+    subcategories:
+      - title: Гайд
+        url: /guides/restoration/guide.html
