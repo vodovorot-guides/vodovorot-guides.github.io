@@ -9,11 +9,15 @@ layout: default
       <p class="post-meta">
         {%- if page.last_update -%}
           <time class="dt-updated" datetime="{{ page.last_update | date_to_xmlschema }}" itemprop="dateUpdated">
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            Последнее обновление: {{ page.last_update | date: date_format }}
+            {%- assign months = "января|февраля|марта|апреля|мая|июня|июля|августа|сентября|октября|ноября|декабря" | split: "|" -%}
+            {%- assign m = page.last_update | date: "%-m" | minus: 1 -%}
+            {%- assign day = page.last_update | date: "%-d" -%}
+            {%- assign month = months[m] -%}
+            {%- assign year = page.last_update | date: "%Y" -%}
+            Последнее обновление: {{ day }} {{ month }}, {{ year }}
           </time>
         {%- endif -%}
-        {%- if page.last_update and page.game_version -%}
+        {%- if page.last_update and page.wow -%}
           <span name="devider">•&nbsp;</span>
         {%- endif -%}
         {%- if page.wow -%}

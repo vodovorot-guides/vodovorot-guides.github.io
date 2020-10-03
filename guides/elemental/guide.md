@@ -1,7 +1,7 @@
 ---
 title: Гайд на элема
 layout: page
-last_update: 3.10.2020
+last_update: 2020-10-03 
 wow: 8.3.0
 toc: true
 ---

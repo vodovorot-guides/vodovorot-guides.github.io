@@ -56,16 +56,6 @@ a.dropdown-item:visited {
   padding-right: 0px;
   margin-right: 5px;
 }
-// change footer distribution to 40%, 60%
-.footer-col-1 {
-  width: -webkit-calc(40% - ( #{$spacing-unit} / 2));
-  width: calc(40% - ( #{$spacing-unit} / 2));
-}
-.footer-col-2 {
-  width: -webkit-calc(60% - ( #{$spacing-unit} / 2));
-  width: calc(60% - ( #{$spacing-unit} / 2));
-}
-
 
 // Side menu for all pages within a category. Lists all siblings
 .side-menu {
@@ -141,4 +131,61 @@ ul {
 }
 .accordion .card:first-of-type, .card:last-of-type {
   border-bottom: 1px solid $grey-color-dark;
+}
+
+// Side menu for all pages within a category. Lists all siblings
+.side-menu {
+  //background-color: $grey-color-dark;
+  margin-left: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  padding-top: $spacing-unit / 2;
+  padding-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2 ;
+  position: fixed;
+  right: 5%;
+  border-left: 3px solid $grey-color;
+}
+@media only screen and (max-width: 1150px) {
+  .side-menu { // hide side menu if we have to assume it would probably overlap the content
+    display: none;
+  }
+}
+@media only screen and (min-width: 1300px) {
+  .side-menu { // adjust position to be closer to content
+    right: 10%;
+  }
+}
+@media only screen and (min-width: 1500px) {
+  .side-menu { // adjust position to be closer to content
+    right: 15%;
+  }
+}
+@media only screen and (min-width: 1700px) {
+  .side-menu { // adjust position to be closer to content
+    right: 20%;
+  }
+}
+@media only screen and (min-width: 1950px) { // +50px to ensure no overlap
+  .side-menu { // adjust position to be closer to content
+    right: 25%;
+  }
+}
+
+pre code, code { // readd this to override bootstraps once again
+  color: $text-color;
+}
+
+// set ul to always show squares
+ul {
+  list-style-type: square;
+}
+
+.footer-col-1 {
+  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+  width:         calc(35% - (#{$spacing-unit} / 2));
+}
+.footer-col-2 {
+  text-align: right;
+  width: -webkit-calc(65% - (#{$spacing-unit} / 2));
+  width:         calc(65% - (#{$spacing-unit} / 2));
 }

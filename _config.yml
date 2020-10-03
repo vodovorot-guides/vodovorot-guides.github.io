@@ -16,12 +16,13 @@
 title: Водоворот 
 email: d.belyakin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Водоворот, Шаманы, Амани
-  Аниме, Кпоп, не забыть тут поменять все
+  Гайды для шаманов World of Warcraft
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  vodovorot-guides
+rss: RSS фид
+discord_servername: Водоворот
+discord_invite: https://discord.gg/dt6xMHh
 
 # Build settings
 markdown: kramdown
@@ -43,6 +44,3 @@ paginate: 5
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-minima:
-  skin: dark
