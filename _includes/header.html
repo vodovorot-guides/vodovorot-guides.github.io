@@ -24,7 +24,11 @@
               <a class="nav-link dropdown-toggle" role="button" href="#" id="{{ category.title }}"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ category.title }}</a>
               <div class="dropdown-menu" aria-labelledby="{{ category.title }}">
                 {%- for subcategory in category.subcategories -%}
+                {%- if subcategory.title == "divider" -%}
+                  <div class="dropdown-divider"></div>
+                {%- else -%}
                   <a class="dropdown-item" href="{{ subcategory.url }}">{{ subcategory.title }}</a>
+                {%- endif -%}
                 {%- endfor -%}
               </div>
             </li>

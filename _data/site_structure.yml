@@ -7,6 +7,7 @@ categories:
         url: /guides/elemental/tldr.html
       - title: Новинки Shadowlands
         url: /guides/elemental/shadowlands.html
+      - title: divider
       - title: Ковенанты
         url: /guides/elemental/covenants.html
       - title: Таланты
@@ -28,6 +29,7 @@ categories:
       - title: Weakauras
         url: /guides/elemental/weakauras.html
       - title: FAQ
+      - title: divider
         url: /guides/elemental/faq.html
       - title: Мифик+
         url: /guides/elemental/mythicplus.html
@@ -43,6 +45,7 @@ categories:
         url: /guides/enhancement/tldr.html
       - title: Новинки Shadowlands
         url: /guides/enhancement/shadowlands.html
+      - title: divider
       - title: Ковенанты
         url: /guides/enhancement/covenants.html
       - title: Таланты
@@ -65,6 +68,7 @@ categories:
         url: /guides/enhancement/weakauras.html
       - title: FAQ
         url: /guides/enhancement/faq.html
+      - title: divider
       - title: Мифик+
         url: /guides/enhancement/mythicplus.html
       - title: Рейд
@@ -79,6 +83,7 @@ categories:
         url: /guides/restoration/tldr.html
       - title: Новинки Shadowlands
         url: /guides/restoration/shadowlands.html
+      - title: divider
       - title: Ковенанты
         url: /guides/restoration/covenants.html
       - title: Таланты
@@ -101,6 +106,7 @@ categories:
         url: /guides/restoration/weakauras.html
       - title: FAQ
         url: /guides/restoration/faq.html
+      - title: divider
       - title: Мифик+
         url: /guides/restoration/mythicplus.html
       - title: Рейд
