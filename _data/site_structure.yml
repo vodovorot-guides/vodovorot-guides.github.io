@@ -1,13 +1,109 @@
 categories:
   - title: Элем
     subcategories:
-      - title: Гайд
-        url: /guides/elemental/guide.html
+      - title: Препатч
+        url: /guides/elemental/prepatch.html
+      - title: Кратко и быстро
+        url: /guides/elemental/tldr.html
+      - title: Новинки Shadowlands
+        url: /guides/elemental/shadowlands.html
+      - title: Ковенанты
+        url: /guides/elemental/covenants.html
+      - title: Таланты
+        url: /guides/elemental/talents.html
+      - title: Легендарки
+        url: /guides/elemental/legendaries.html
+      - title: Проводники
+        url: /guides/elemental/soulbinds.html
+      - title: Ротация
+        url: /guides/elemental/rotation.html
+      - title: Статы
+        url: /guides/elemental/stats.html
+      - title: Тринкеты
+        url: /guides/elemental/trinkets.html
+      - title: Шмот
+        url: /guides/elemental/gear.html
+      - title: Расходники
+        url: /guides/elemental/consumables.html
+      - title: Weakauras
+        url: /guides/elemental/weakauras.html
+      - title: FAQ
+        url: /guides/elemental/faq.html
+      - title: Мифик+
+        url: /guides/elemental/mythicplus.html
+      - title: Рейд
+        url: /guides/elemental/raid.html
+      - title: PVP
+        url: /guides/elemental/pvp.html
   - title: Энх
     subcategories:
-      - title: Гайд
-        url: /guides/enhancement/guide.html
+      - title: Препатч
+        url: /guides/enhancement/prepatch.html
+      - title: Кратко и быстро
+        url: /guides/enhancement/tldr.html
+      - title: Новинки Shadowlands
+        url: /guides/enhancement/shadowlands.html
+      - title: Ковенанты
+        url: /guides/enhancement/covenants.html
+      - title: Таланты
+        url: /guides/enhancement/talents.html
+      - title: Легендарки
+        url: /guides/enhancement/legendaries.html
+      - title: Проводники
+        url: /guides/enhancement/soulbinds.html
+      - title: Ротация
+        url: /guides/enhancement/rotation.html
+      - title: Статы
+        url: /guides/enhancement/stats.html
+      - title: Тринкеты
+        url: /guides/enhancement/trinkets.html
+      - title: Шмот
+        url: /guides/enhancement/gear.html
+      - title: Расходники
+        url: /guides/enhancement/consumables.html
+      - title: Weakauras
+        url: /guides/enhancement/weakauras.html
+      - title: FAQ
+        url: /guides/enhancement/faq.html
+      - title: Мифик+
+        url: /guides/enhancement/mythicplus.html
+      - title: Рейд
+        url: /guides/enhancement/raid.html
+      - title: PVP
+        url: /guides/enhancement/pvp.html
   - title: Рестор
     subcategories:
-      - title: Гайд
-        url: /guides/restoration/guide.html
+      - title: Препатч
+        url: /guides/restoration/prepatch.html
+      - title: Кратко и быстро
+        url: /guides/restoration/tldr.html
+      - title: Новинки Shadowlands
+        url: /guides/restoration/shadowlands.html
+      - title: Ковенанты
+        url: /guides/restoration/covenants.html
+      - title: Таланты
+        url: /guides/restoration/talents.html
+      - title: Легендарки
+        url: /guides/restoration/legendaries.html
+      - title: Проводники
+        url: /guides/restoration/soulbinds.html
+      - title: Ротация
+        url: /guides/restoration/rotation.html
+      - title: Статы
+        url: /guides/restoration/stats.html
+      - title: Тринкеты
+        url: /guides/restoration/trinkets.html
+      - title: Шмот
+        url: /guides/restoration/gear.html
+      - title: Расходники
+        url: /guides/restoration/consumables.html
+      - title: Weakauras
+        url: /guides/restoration/weakauras.html
+      - title: FAQ
+        url: /guides/restoration/faq.html
+      - title: Мифик+
+        url: /guides/restoration/mythicplus.html
+      - title: Рейд
+        url: /guides/restoration/raid.html
+      - title: PVP
+        url: /guides/restoration/pvp.html
