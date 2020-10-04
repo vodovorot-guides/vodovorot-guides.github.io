@@ -30,7 +30,7 @@ plugins:
   - jekyll-feed
   - jekyll-pages
 
-paginate: 5
+paginate: 6
 show_excerpts: true
 excerpt_separator: <!--more-->
 
