@@ -167,14 +167,9 @@ ul {
   right: 5%;
   border-left: 3px solid $grey-color;
 }
-@media only screen and (max-width: 1150px) {
+@media only screen and (max-width: 1330px) {
   .side-menu { // hide side menu if we have to assume it would probably overlap the content
     display: none;
-  }
-}
-@media only screen and (min-width: 1300px) {
-  .side-menu { // adjust position to be closer to content
-    right: 5%;
   }
 }
 @media only screen and (min-width: 1500px) {
