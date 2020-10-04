@@ -1,5 +1,136 @@
-lb: <a href="https://ru.wowhead.com/spell=51505" target="blank">Выброс лавы</a>
-ch: <a href="https://ru.wowhead.com/spell=1064" target="blank">Цепное исцеление</a>
+# Shaman
+ch: <a href="https://shadowlands.wowhead.com/spell=1064" target="blank">Цепное исцеление</a>
+fs: <a href="https://shadowlands.wowhead.com/spell=188389" target="blank">Огненный шок</a>
+ftw: <a href="https://shadowlands.wowhead.com/spell=318038" target="blank">Оружие языка пламени</a>
+ebt: <a href="https://shadowlands.wowhead.com/spell=8004" target="blank">Тотем оков земли</a>
+primal: <a href="https://shadowlands.wowhead.com/spell=73899" target="blank">Стихийный удар</a>
+rez: <a href="https://shadowlands.wowhead.com/spell=20608" target="blank">Реинкарнация</a>
+ls: <a href="https://shadowlands.wowhead.com/spell=192106" target="blank">Щит молний</a>
+wolf: <a href="https://shadowlands.wowhead.com/spell=2645" target="blank">Призрачный волк</a>
+hs: <a href="https://shadowlands.wowhead.com/spell=8004" target="blank">Исцеляющий всплеск</a>
+ws: <a href="https://shadowlands.wowhead.com/spell=57994" target="blank">Пронизывающий ветер</a>
+ct: <a href="https://shadowlands.wowhead.com/spell=192058" target="blank">Тотем конденсации</a>
+cl: <a href="https://shadowlands.wowhead.com/spell=188443" target="blank">Цепная молния</a>
+htt: <a href="https://shadowlands.wowhead.com/spell=5394" target="blank">Тотем исцеляющего потока</a>
+igor: <a href="https://shadowlands.wowhead.com/spell=198103" target="blank">Элементаль земли</a>
+purge: <a href="https://shadowlands.wowhead.com/spell=57994" target="blank">Пронизывающий ветер</a>
+tremor: <a href="https://shadowlands.wowhead.com/spell=8143" target="blank">Тотем трепета</a>
+bl: <a href="https://shadowlands.wowhead.com/spell=2825" target="blank">Жажда крови</a>
+hero: <a href="https://shadowlands.wowhead.com/spell=32182" target="blank">Героизм</a>
+as: <a href="https://shadowlands.wowhead.com/spell=108271" target="blank">Астральный сдвиг</a>
+as2: <a href="https://shadowlands.wowhead.com/spell=343196" target="blank">Астральный сдвиг (ранг 2)</a>
+hex: <a href="https://shadowlands.wowhead.com/spell=51514" target="blank">Сглаз</a>
+hex2: <a href="https://shadowlands.wowhead.com/spell=343198" target="blank">Сглаз (ранг 2)</a>
+
+# Elem
+lb: <a href="https://shadowlands.wowhead.com/spell=51505" target="blank">Выброс лавы</a>
+es: <a href="https://shadowlands.wowhead.com/spell=8042" target="blank">Земной шок</a>
+ms: <a href="https://shadowlands.wowhead.com/spell=343725" target="blank">Водоворот</a>
+cleance: <a href="https://shadowlands.wowhead.com/spell=51886" target="blank">Очищение духа</a>
+critdamage: <a href="https://shadowlands.wowhead.com/spell=60188" target="blank">Неистовство стихий</a>
+lava_surge: <a href="https://shadowlands.wowhead.com/spell=77756" target="blank">Волна лавы</a>
+fe: <a href="https://shadowlands.wowhead.com/spell=198067" target="blank">Элементаль огня</a>
+quake: <a href="https://shadowlands.wowhead.com/spell=61882" target="blank">Землетрясение</a>
+cl2_ele: <a href="https://shadowlands.wowhead.com/spell=231722" target="blank">Цепная молния (ранг 2)</a>
+swg: <a href="https://shadowlands.wowhead.com/spell=79206" target="blank">Благосклонность предков</a>
+thunder: <a href="https://shadowlands.wowhead.com/spell=51490" target="blank">Гром и молния</a>
+critdamage2: <a href="https://shadowlands.wowhead.com/spell=343190" target="blank">Неистовство стихий</a>
+fe2: <a href="https://shadowlands.wowhead.com/spell=343226" target="blank">Элементаль огня (ранг 2)</a>
+elem_mastery: <a href="https://shadowlands.wowhead.com/spell=168534" target="blank">Искусность: волнение стихий</a>
+
+# Elem Talents
+er: <a href="https://shadowlands.wowhead.com/spell=170374" target="blank">Возмущение земли</a>
+eote: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank">Эхо стихий</a>
+discharge: <a href="https://shadowlands.wowhead.com/spell=342243" target="blank">Статический разряд</a>
+afs: <a href="https://shadowlands.wowhead.com/spell=273221" target="blank">Повторный толчок</a>
+ecs: <a href="https://shadowlands.wowhead.com/spell=320125" target="blank">Вторящий шок</a>
+eb: <a href="https://shadowlands.wowhead.com/spell=117014" target="blank">Удар духов стихии</a>
+spirit_wolf: <a href="https://shadowlands.wowhead.com/spell=260878" target="blank">Дух волка</a>
+eshield: <a href="https://shadowlands.wowhead.com/spell=974" target="blank">Щит земли</a>
+static: <a href="https://shadowlands.wowhead.com/spell=265046" target="blank">Статический разряд</a>
+mote: <a href="https://shadowlands.wowhead.com/spell=16166" target="blank">Властелин стихий</a>
+storm: <a href="https://shadowlands.wowhead.com/spell=192249" target="blank">Элементаль бури</a>
+lmt: <a href="https://shadowlands.wowhead.com/spell=192222" target="blank">Тотем жидкой магмы</a>
+ng: <a href="https://shadowlands.wowhead.com/spell=30884" target="blank">Страж природы</a>
+ag: <a href="https://shadowlands.wowhead.com/spell=108281" target="blank">Наставления предков</a>
+wrt: <a href="https://shadowlands.wowhead.com/spell=192077" target="blank">Тотем ветряного порыва</a>
+sop: <a href="https://shadowlands.wowhead.com/spell=262303" target="blank">Прилив мощи</a>
+primal: <a href="https://shadowlands.wowhead.com/spell=117013" target="blank">Повелитель изначальных стихий</a>
+if: <a href="https://shadowlands.wowhead.com/spell=210714" target="blank">Ледяная ярость</a>
+up: <a href="https://shadowlands.wowhead.com/spell=260895" target="blank">Безграничная мощь</a>
+sk: <a href="https://shadowlands.wowhead.com/spell=191634" target="blank">Хранитель бурь</a>
+asc_ele: <a href="https://shadowlands.wowhead.com/spell=114050" target="blank">Перерождение</a>
+
+# Enhance
+enh_mastery: <a href="https://shadowlands.wowhead.com/spell=77223" target="blank">Искусность: великая сила стихий</a>
+ww: <a href="https://shadowlands.wowhead.com/spell=33757" target="blank">Оружие неистовства ветра</a>
+ll: <a href="https://shadowlands.wowhead.com/spell=60103" target="blank">Вскипание лавы</a>
+ss: <a href="https://shadowlands.wowhead.com/spell=17364" target="blank">Удар бури</a>
+ll2: <a href="https://shadowlands.wowhead.com/spell=334033" target="blank">Вскипание лавы (ранг 2)</a>
+sb: <a href="https://shadowlands.wowhead.com/spell=201845" target="blank">Вестник шторма</a>
+mw: <a href="https://shadowlands.wowhead.com/spell=187880" target="blank">Оружие Водоворота</a>
+feral: <a href="https://shadowlands.wowhead.com/spell=51533" target="blank">Дух дикого зверя</a>
+crush: <a href="https://shadowlands.wowhead.com/spell=187874" target="blank">Сокрушающая молния</a>
+sb2: <a href="https://shadowlands.wowhead.com/spell=319930" target="blank">Вестник шторма (ранг 2)</a>
+spirit_walk: <a href="https://shadowlands.wowhead.com/spell=58875" target="blank">Поступь духа</a>
+wt: <a href="https://shadowlands.wowhead.com/spell=8512" target="blank">Тотем неистовства ветра</a>
+cl2enh: <a href="https://shadowlands.wowhead.com/spell=334308" target="blank">Цепная молния (ранг 2)</a>
+wt2: <a href="https://shadowlands.wowhead.com/spell=343211" target="blank">Тотем неистовства ветра (ранг 2)</a>
+
+# Enhance Talents
+lf: <a href="https://shadowlands.wowhead.com/spell=334046" target="blank">Хлещущее пламя</a>
+fw: <a href="https://shadowlands.wowhead.com/spell=262647" target="blank">Неистовые ветра</a>
+flurry: <a href="https://shadowlands.wowhead.com/spell=344357" target="blank">Грозовой шквал</a>
+hh: <a href="https://shadowlands.wowhead.com/spell=201900" target="blank">Горячая рука</a>
+is: <a href="https://shadowlands.wowhead.com/spell=342240" target="blank">Ледяной удар</a>
+ea: <a href="https://shadowlands.wowhead.com/spell=210853" target="blank">Атака стихий</a>
+hs: <a href="https://shadowlands.wowhead.com/spell=334195" target="blank">Буря с градом</a>
+fn: <a href="https://shadowlands.wowhead.com/spell=333974" target="blank">Кольцо огня</a>
+fl: <a href="https://shadowlands.wowhead.com/spell=196884" target="blank">Свирепый выпад</a>
+cs: <a href="https://shadowlands.wowhead.com/spell=192246" target="blank">Сокрушающая буря</a>
+sk_enh: <a href="https://shadowlands.wowhead.com/spell=320137" target="blank">Хранитель бурь</a>
+sunder: <a href="https://shadowlands.wowhead.com/spell=197214" target="blank">Раскол</a>
+spirits: <a href="https://shadowlands.wowhead.com/spell=262624" target="blank">Духи стихий</a>
+spike: <a href="https://shadowlands.wowhead.com/spell=188089" target="blank">Земляной шип</a>
+asc_enh: <a href="https://shadowlands.wowhead.com/spell=114051" target="blank">Перерождение</a>
+
 # Resto
-hw: <a href="https://ru.wowhead.com/spell=77472" target="blank">Волна исцеления</a>
-riptide: <a href="https://ru.wowhead.com/spell=61295" target="blank">Быстрина</a>
+
+massres: <a href="https://shadowlands.wowhead.com/spell=" target="blank">Древнее видение</a>
+resto_mastery: <a href="https://shadowlands.wowhead.com/spell=77226" target="blank">Искусность: глубокое исцеление</a>
+riptide: <a href="https://shadowlands.wowhead.com/spell=61295" target="blank">Быстрина</a>
+dispel: <a href="https://shadowlands.wowhead.com/spell=77130" target="blank">Возрождение духа</a>
+tw: <a href="https://shadowlands.wowhead.com/spell=51564" target="blank">Приливные волны</a>
+hw: <a href="https://shadowlands.wowhead.com/spell=77472" target="blank">Волна исцеления</a>
+tw2: <a href="https://shadowlands.wowhead.com/spell=231785" target="blank">Приливные волны (ранг 2)</a>
+rain: <a href="https://shadowlands.wowhead.com/spell=73920" target="blank">Целительный ливень</a>
+resurgence: <a href="https://shadowlands.wowhead.com/spell=16196" target="blank">Упоение</a>
+mtt: <a href="https://shadowlands.wowhead.com/spell=16191" target="blank">Тотем прилива маны</a>
+water_shield: <a href="https://shadowlands.wowhead.com/spell=52127" target="blank">Водный щит</a>
+slt: <a href="https://shadowlands.wowhead.com/spell=98008" target="blank">Тотем духовной связи</a>
+htt: <a href="https://shadowlands.wowhead.com/spell=108280" target="blank">Тотем целительного прилива</a>
+mtt2: <a href="https://shadowlands.wowhead.com/spell=343182" target="blank">Тотем прилива маны (ранг 2)</a>
+htt2: <a href="https://shadowlands.wowhead.com/spell=343205" target="blank">Тотем целительного прилива (ранг 2)</a>
+
+# Resto Talents
+
+torrent: <a href="https://shadowlands.wowhead.com/spell=200072" target="blank">Поток</a>
+undulation: <a href="https://shadowlands.wowhead.com/spell=200071" target="blank">Пульсация</a>
+ul: <a href="https://shadowlands.wowhead.com/spell=733685" target="blank">Высвободить чары жизни</a>
+eote_resto: <a href="https://shadowlands.wowhead.com/spell=108283" target="blank">Эхо стихий</a>
+deluge: <a href="https://shadowlands.wowhead.com/spell=200076" target="blank">Наводнение</a>
+soe: <a href="https://shadowlands.wowhead.com/spell=320746" target="blank">Вздымающаяся земля</a>
+egt: <a href="https://shadowlands.wowhead.com/spell=51485" target="blank">Тотем хватки земли</a>
+vigor: <a href="https://shadowlands.wowhead.com/spell=207401" target="blank">Энергия Предков</a>
+ewt: <a href="https://shadowlands.wowhead.com/spell=198838" target="blank">Тотем земляной стены</a>
+apt: <a href="https://shadowlands.wowhead.com/spell=207399" target="blank">Тотем защиты Предков</a>
+gs: <a href="https://shadowlands.wowhead.com/spell=192088" target="blank">Благосклонный дух</a>
+ff: <a href="https://shadowlands.wowhead.com/spell=280614" target="blank">Стремительные волны</a>
+downpour: <a href="https://shadowlands.wowhead.com/spell=207778" target="blank">Ливневый дождь</a>
+cbt: <a href="https://shadowlands.wowhead.com/spell=157153" target="blank">Тотем разразившегося ливня</a>
+high_tide: <a href="https://shadowlands.wowhead.com/spell=157154" target="blank">Прилив</a>
+wellspring: <a href="https://shadowlands.wowhead.com/spell=197995" target="blank">Родник</a>
+asc_resto: <a href="https://shadowlands.wowhead.com/spell=114052" target="blank">Перерождение</a>
+
+
+
