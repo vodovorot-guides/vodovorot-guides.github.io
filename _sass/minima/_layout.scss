@@ -175,7 +175,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  //padding: $spacing-unit 0;
 //  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
 //  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
 //  margin-right: auto;
@@ -190,8 +190,9 @@
 //    padding-right: $spacing-unit / 2;
 //    padding-left: $spacing-unit / 2;
 //  }
-  background-color: $content-bg-color;
+  //background-color: $content-bg-color;
   flex: 1;
+  display: flex;
 }
 
 .page-heading {
