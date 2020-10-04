@@ -4,21 +4,18 @@
 
 @import "minima";
 
-.site-header {
-  background-color: $background-color-darker;
-  border-top: 5px solid $background-color-darker;
-}
-.site-footer {
-  background-color: $background-color-dark;
-}
-
 // Top menu fixes
 nav.navbar {
   padding: 0rem 0rem;
 }
 .nav-link { // Fix top menu hover
   margin-right: 20px;
-  color: $text-color;
+  //color: $text-color;
+  color: #f8fdfb;
+  -webkit-text-stroke: 0.5px #1e87b4;
+  text-shadow: 0 0 10px #1e87b4;
+  font-size: 20px;
+  font-weight: 450;
   //border-bottom: 1px solid $background-color;
 }
 .nav-link:hover { // Fix top menu hover
@@ -26,7 +23,8 @@ nav.navbar {
   color: $text-color;
 }
 .nav-link:visited {
-  color: $text-color;
+  //color: $text-color;
+  color: #f8fdfb;
 }
 button.navbar-toggler {
   border-color: rgba(255, 255, 255, 0.1)
@@ -37,25 +35,25 @@ button.navbar-toggler {
 // Top menu color fixes
 .dropdown-menu {
   color: $text-color;
-  background: $background-color;
+  background: $header-bg-color;
   border: 1px solid $grey-color;
 }
 
 .dropdown-menu-ele {
   color: $text-color;
-  background: $background-color-darker;
+  background: $header-bg-color;
   border: 1px solid $grey-color;
 }
 
 .dropdown-menu-enh {
   color: $text-color;
-  background: $background-color-darker;
+  background: $header-bg-color;
   border: 1px solid $grey-color;
 }
 
 .dropdown-menu-resto {
   color: $text-color;
-  background: $background-color-darker;
+  background: $header-bg-color;
   border: 1px solid $grey-color;
 }
 
