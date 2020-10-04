@@ -1,11 +1,11 @@
-<header class="site-header" role="banner">
+<header class="site-header sticky-top" role="banner">
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
 
-    <nav class="navbar sticky-top navbar-expand-sm">
+    <nav class="navbar navbar-expand-sm">
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
         <!--<img src="/assets/img/logos/sk.png" style="float:left; max-height:50px;" />{{ site.title | escape }}</a> -->
         <img src="/assets/img/logos/sk.png" style="float:left; max-height:60px;" /></a>
