@@ -2,16 +2,19 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="footer-heading" style="text-align:right;">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper row">
       <div class="footer-col footer-col-1">
-        {%- include social.html -%}
+        <a href="{{ site.discord_invite }}" target="blank"><img src="{{ '/assets/img/logos/discord.png' | relative_url }}" class="mh-50" alt="Водоворот" style="vertical-align: text-top;"/></a>
       </div>
 
       <div class="footer-col footer-col-2">
-        <p>{{- site.description | escape -}}</p>
+        <a href="https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg"><img src="{{ '/assets/img/logos/youtube.png' | relative_url }}" class="mh-50" alt="Amani Youtube" style="vertical-align: text-top;" /></a>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <a href="https://www.patreon.com/amani_vodovorot"><img src="assets/img/logos/patreon.png" class="mh-50" alt="Amani Youtube" style="vertical-align: text-top;"/></a>
       </div>
     </div>
 

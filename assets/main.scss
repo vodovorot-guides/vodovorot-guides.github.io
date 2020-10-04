@@ -201,14 +201,21 @@ ul {
   width: -webkit-calc(35% - (#{$spacing-unit} / 2));
   width:         calc(35% - (#{$spacing-unit} / 2));
 }
+
 .footer-col-2 {
-  text-align: right;
-  float: right;
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+  width:         calc(30% - (#{$spacing-unit} / 2));
+  text-align: center;
   margin-left: auto;
-  width: -webkit-calc(65% - (#{$spacing-unit} / 2));
-  width:         calc(65% - (#{$spacing-unit} / 2));
+  margin-right: auto;
 }
 
+.footer-col-3 {
+  text-align: right;
+  float: right;
+  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+  width:         calc(35% - (#{$spacing-unit} / 2));
+}
 .row {
     margin-right: 0;
 }

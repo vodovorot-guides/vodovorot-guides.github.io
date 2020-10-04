@@ -3,6 +3,27 @@ layout: default
 ---
 
 <div class="home">
+  <div class="title">
+    <h1 class="title-heading">{{- site.description | escape -}}</h1>
+    <img src="assets/img/logos/sk_full.png" />
+    <div class="container guide-img-block">
+      <div class="row row-img">
+        <div class="col-sm guide-img">
+          <a href="/"><img src="assets/img/placeholder.png" class="rounded" /></a>
+          <div class="centered-over-img">Гайды на Элема</div>
+        </div>
+        <div class="col-sm guide-img">
+          <a href="/"><img src="assets/img/placeholder.png" class="rounded" /></a>
+          <div class="centered-over-img">Гайды на Энха</div>
+        </div>
+        <div class="col-sm guide-img">
+          <a href="/"><img src="assets/img/placeholder.png" class="rounded" /></a>
+          <div class="centered-over-img">Гайды на Рестора</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -10,7 +31,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Блог" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
