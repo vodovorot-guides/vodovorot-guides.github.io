@@ -31,6 +31,8 @@ plugins:
   - jekyll-pages
 
 paginate: 5
+show_excerpts: true
+excerpt_separator: <!--more-->
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -5,7 +5,11 @@
 @import "minima";
 
 .site-header {
-  border-top: 5px solid $background-color;
+  background-color: $background-color-darker;
+  border-top: 5px solid $background-color-darker;
+}
+.site-footer {
+  background-color: $background-color-dark;
 }
 
 // Top menu fixes
@@ -15,7 +19,7 @@ nav.navbar {
 .nav-link { // Fix top menu hover
   margin-right: 20px;
   color: $text-color;
-  border-bottom: 1px solid $background-color;
+  //border-bottom: 1px solid $background-color;
 }
 .nav-link:hover { // Fix top menu hover
   border-bottom: 1px solid $grey-color-light;
@@ -36,6 +40,25 @@ button.navbar-toggler {
   background: $background-color;
   border: 1px solid $grey-color;
 }
+
+.dropdown-menu-ele {
+  color: $text-color;
+  background: $background-color-darker;
+  border: 1px solid $grey-color;
+}
+
+.dropdown-menu-enh {
+  color: $text-color;
+  background: $background-color-darker;
+  border: 1px solid $grey-color;
+}
+
+.dropdown-menu-resto {
+  color: $text-color;
+  background: $background-color-darker;
+  border: 1px solid $grey-color;
+}
+
 .dropdown-item {
   color: $text-color;
   line-height: $spacing-unit;
@@ -47,6 +70,7 @@ a.dropdown-item:visited {
   color: $grey-color;
   background-color: $background-color;
 }
+
 .dropdown-toggle::after { // adjust drop down arrow to be slightly lower
   vertical-align: 0.18em;
 }

@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
 
-    <nav class="navbar navbar-expand-sm navbar-light">
+    <nav class="navbar navbar-expand-sm">
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -15,6 +15,15 @@
         <ul class="navbar-nav ml-auto">
 
           {%- for category in site.data.site_structure.categories -%}
+          {%- if category.title == "Элем" -%}
+            {%- assign menubg_override = "dropdown-menu-ele" -%}
+          {%- elsif category.title == "Энх" -%}
+            {%- assign menubg_override = "dropdown-menu-enh" -%}
+          {%- elsif category.title == "Рестор" -%}
+            {%- assign menubg_override = "dropdown-menu-resto" -%}
+          {%- else -%}
+            {%- assign menubg_override = "" -%}
+          {%- endif -%}
             {%- if category.url -%}
               <li class="nav-item">
                 <a class="nav-link" href="{{ category.url }}">{{ category.title }}</a>
@@ -22,7 +31,7 @@
             {%- else -%}
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" role="button" href="#" id="{{ category.title }}"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ category.title }}</a>
-              <div class="dropdown-menu" aria-labelledby="{{ category.title }}">
+              <div class="{{ menubg_override }} dropdown-menu" aria-labelledby="{{ category.title }}">
                 {%- for subcategory in category.subcategories -%}
                 {%- if subcategory.title == "divider" -%}
                   <div class="dropdown-divider"></div>

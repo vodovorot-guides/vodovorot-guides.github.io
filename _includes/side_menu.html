@@ -8,7 +8,11 @@
         <ul>
 
           {%- for sibling in main_category.subcategories -%}
+          {%- if sibling.title != "divider" -%}
             <li><a class="side-menu-link" href="{{- sibling.url -}}">{{- sibling.title -}}</a></li>
+          {%- else -%}
+            <hr style="background-color:#828282">
+          {%- endif -%}
           {%- endfor -%}
 
         </ul>
