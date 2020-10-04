@@ -95,7 +95,6 @@ spike: <a href="https://shadowlands.wowhead.com/spell=188089" target="blank">З�
 asc_enh: <a href="https://shadowlands.wowhead.com/spell=114051" target="blank">Перерождение</a>
 
 # Resto
-
 massres: <a href="https://shadowlands.wowhead.com/spell=" target="blank">Древнее видение</a>
 resto_mastery: <a href="https://shadowlands.wowhead.com/spell=77226" target="blank">Искусность: глубокое исцеление</a>
 riptide: <a href="https://shadowlands.wowhead.com/spell=61295" target="blank">Быстрина</a>
@@ -113,7 +112,6 @@ mtt2: <a href="https://shadowlands.wowhead.com/spell=343182" target="blank">То
 htt2: <a href="https://shadowlands.wowhead.com/spell=343205" target="blank">Тотем целительного прилива (ранг 2)</a>
 
 # Resto Talents
-
 torrent: <a href="https://shadowlands.wowhead.com/spell=200072" target="blank">Поток</a>
 undulation: <a href="https://shadowlands.wowhead.com/spell=200071" target="blank">Пульсация</a>
 ul: <a href="https://shadowlands.wowhead.com/spell=733685" target="blank">Высвободить чары жизни</a>
@@ -131,6 +129,3 @@ cbt: <a href="https://shadowlands.wowhead.com/spell=157153" target="blank">То�
 high_tide: <a href="https://shadowlands.wowhead.com/spell=157154" target="blank">Прилив</a>
 wellspring: <a href="https://shadowlands.wowhead.com/spell=197995" target="blank">Родник</a>
 asc_resto: <a href="https://shadowlands.wowhead.com/spell=114052" target="blank">Перерождение</a>
-
-
-
