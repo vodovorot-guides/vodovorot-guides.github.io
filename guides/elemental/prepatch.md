@@ -26,7 +26,7 @@ toc: true
 • Азерит: {{ site.data.spells.potential }} х3, {{ site.data.spells.harmony }} х3  
 • Сущности против одной цели:   
 
-Большой слот: {{ site.data.spells.condenced }}  
+Большой слот: {{ site.data.spells.condensed }}  
 Малые слоты: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}  
 
 • Сущности на АОЕ:  
@@ -149,7 +149,7 @@ toc: true
 
 • Сущности против одной цели:   
 
-Большой слот: {{ site.data.spells.condenced }} либо {{ site.data.spells.vop }} (если вы все еще планируете играть через {{ site.data.spells.storm }}). 
+Большой слот: {{ site.data.spells.condensed }} либо {{ site.data.spells.vop }} (если вы все еще планируете играть через {{ site.data.spells.storm }}). 
 Малые слоты: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}  
 
 • Сущности на АОЕ:  
