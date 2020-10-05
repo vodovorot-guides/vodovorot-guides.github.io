@@ -144,6 +144,7 @@ toc: true
 Малые слоты: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}  
 
 • Сущности на АОЕ:  
+
 Большой слот: {{ site.data.spells.bote }} (если через {{ site.data.spells.storm }}) или {{ site.data.spells.iris }}.  
 Малые слоты: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}, {{ site.data.spells.protocol }}, {{ site.data.spells.vop }} (только со взятым {{ site.data.spells.storm }}).
 
