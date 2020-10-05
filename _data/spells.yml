@@ -37,6 +37,9 @@ thunder: <a href="https://shadowlands.wowhead.com/spell=51490" target="blank">Г
 critdamage2: <a href="https://shadowlands.wowhead.com/spell=343190" target="blank">Неистовство стихий</a>
 fe2: <a href="https://shadowlands.wowhead.com/spell=343226" target="blank">Элементаль огня (ранг 2)</a>
 elem_mastery: <a href="https://shadowlands.wowhead.com/spell=168534" target="blank">Искусность: волнение стихий</a>
+meteor: <a href="https://shadowlands.wowhead.com/spell=117588" target="blank">Метеорит</a>
+eye_storm: <a href="https://shadowlands.wowhead.com/spell=157375" target="blank">Око шторма</a>
+lava_beam: <a href="https://shadowlands.wowhead.com/spell=114074" target="blank">Поток лавы</a>
 
 # Elem Talents
 er: <a href="https://shadowlands.wowhead.com/spell=170374" target="blank">Возмущение земли</a>
@@ -60,6 +63,8 @@ if: <a href="https://shadowlands.wowhead.com/spell=210714" target="blank">Лед
 up: <a href="https://shadowlands.wowhead.com/spell=260895" target="blank">Безграничная мощь</a>
 sk: <a href="https://shadowlands.wowhead.com/spell=191634" target="blank">Хранитель бурь</a>
 asc_ele: <a href="https://shadowlands.wowhead.com/spell=114050" target="blank">Перерождение</a>
+call_the_thunder: <a href="https://ru.wowhead.com/spell=260897" target="blank">Призыв грома</a>
+
 
 # Enhance
 enh_mastery: <a href="https://shadowlands.wowhead.com/spell=77223" target="blank">Искусность: великая сила стихий</a>
@@ -129,3 +134,12 @@ cbt: <a href="https://shadowlands.wowhead.com/spell=157153" target="blank">То�
 high_tide: <a href="https://shadowlands.wowhead.com/spell=157154" target="blank">Прилив</a>
 wellspring: <a href="https://shadowlands.wowhead.com/spell=197995" target="blank">Родник</a>
 asc_resto: <a href="https://shadowlands.wowhead.com/spell=114052" target="blank">Перерождение</a>
+
+# Useless BFA 
+condensed: <a href="https://shadowlands.wowhead.com/azerite-essence-power/condensed-life-force-55" target="blank">Концентрированная жизненная сила</a>
+iris: <a href="https://shadowlands.wowhead.com/azerite-essence-power/essence-of-the-focusing-iris-19" target="blank">Сущность радужного кристалла</a>
+vop: <a href="https://shadowlands.wowhead.com/azerite-essence-power/vision-of-perfection-81" target="blank">Видение совершенства</a>
+conflict: <a href="https://shadowlands.wowhead.com/azerite-essence-power/conflict-and-strife-123" target="blank">Раздор и противостояние</a>
+breath: <a href="https://shadowlands.wowhead.com/azerite-essence-power/breath-of-the-dying-135" target="blank">Вздох умирающего</a>
+protocol: <a href="https://shadowlands.wowhead.com/azerite-essence-power/purification-protocol-31" target="blank">Протокол очищения</a>
+
