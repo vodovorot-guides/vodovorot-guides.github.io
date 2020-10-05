@@ -145,7 +145,7 @@ toc: true
 
 # Азеритовые трейты
 
-Лучшими азеритовыми трейтами снова стали {{ site.data.spells.potential }}, {{ site.data.spells.harmony }} и {{ site.data.spells.lava_shock }}, как и во времена патчей 8.1 и 8.2. {{ site.data.spells.darkness }} хоть и работает в препатче, но в целом оно хуже чем {{ site.data.spells.harmony }}, поэтому из двух этих трейтов мы берем именно её.
+Лучшими азеритовыми трейтами снова стали {{ site.data.spells.potential }}, {{ site.data.spells.harmony }} и {{ site.data.spells.lava_shock }}, как и во времена патчей 8.1 и 8.2. {{ site.data.spells.darkness }} хоть и работает в препатче, но в целом оно хуже чем {{ site.data.spells.harmony }}, поэтому из двух этих трейтов мы берем именно гармонию.
 
 # Сущности Сердца Азерот
 
