@@ -23,7 +23,7 @@ toc: true
 * Симкрафт не работает до релиза.  
 * Таланты против одной цели: [2211132](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mT1M)  
 * Таланты на АОЕ: [2212122](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mTCM)  
-* Азерит: {{ site.data.spells.potential }} х3, {{ site.data.spells.harmony }} х3  
+* Азерит: 3x {{ site.data.spells.potential }}, 3x {{ site.data.spells.harmony }}  
 * Сущности против одной цели:   
   * Большой слот: {{ site.data.spells.condensed }}  
   * Малые слоты: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}  
