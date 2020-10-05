@@ -21,8 +21,8 @@ toc: true
 Если вы не хотите читать эту статью целиком, то вот выжимка основной информации:
 
 • Симкрафт не работает до релиза.  
-• Таланты против одной цели: 2211132  
-• Таланты на АОЕ: 2212122  
+• Таланты против одной цели: [2211132](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mT1M)  
+• Таланты на АОЕ: [2212122](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mTCM)  
 • Азерит: {{ site.data.spells.potential }} х3, {{ site.data.spells.harmony }} х3  
 • Сущности против одной цели:   
 
