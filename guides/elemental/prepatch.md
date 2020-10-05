@@ -25,12 +25,11 @@ toc: true
 * Таланты на АОЕ: [2212122](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mTCM)  
 * Азерит: {{ site.data.spells.potential }} х3, {{ site.data.spells.harmony }} х3  
 * Сущности против одной цели:   
-
 Большой слот: {{ site.data.spells.condensed }}  
 Малые слоты: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}  
 
 * Сущности на АОЕ:  
-Большой слот: {{ site.data.spells.bote }} (если через {{ site.data.spells.storm }}) или {{ site.data.spells.iris }}.  
+Большой слот: {{ site.data.spells.bote }} (если через {{ site.data.spells.storm }}) или {{ site.data.spells.iris }}  
 Малые слоты: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}, {{ site.data.spells.protocol }}  
 
 * Статы: Критический удар = Скорость = Универсальность >>> Искусность
