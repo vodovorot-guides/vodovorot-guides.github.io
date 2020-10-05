@@ -108,14 +108,18 @@ toc: true
 
 # Таланты
 
-Таланты против одной цели: 
+**Таланты против одной цели, вариант первый:** 
 
-![](/assets/img/talents_prepatch_st1.png) либо ![](/assets/img/talents_prepatch_st2.png)
+![](/assets/img/talents_prepatch_st1.png)
+
+**Таланты против одной цели, вариант второй:** 
+
+![](/assets/img/talents_prepatch_st2.png)
 
 
 Первый вариант через {{ site.data.spells.ecs }} и {{ site.data.spells.sk }} дает нам достаточно сильно бурстить в одну цель раз в минуту, а второй вариант через {{ site.data.spells.eb }} и {{ site.data.spells.asc_ele }} дает ощутимый бурст раз в 3 минуты (который отлично сочетается с азеритовыми трейтами {{ site.data.spells.potential }}). Но вариант через {{ site.data.spells.asc_ele }}зависит от времени боя, то есть на 3:30 он может быть сильнее билда через {{ site.data.spells.sk }}, а на 5:50 уже слабее.
 
-Таланты на АОЕ:
+**Таланты на АОЕ:**
 
 ![](/assets/img/talents_prepatch_aoe1.png)
 
