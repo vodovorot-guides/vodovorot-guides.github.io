@@ -36,7 +36,7 @@ swg: <a href="https://shadowlands.wowhead.com/spell=79206" target="blank">Бла
 thunder: <a href="https://shadowlands.wowhead.com/spell=51490" target="blank">Гром и молния</a>
 critdamage2: <a href="https://shadowlands.wowhead.com/spell=343190" target="blank">Неистовство стихий</a>
 fe2: <a href="https://shadowlands.wowhead.com/spell=343226" target="blank">Элементаль огня (ранг 2)</a>
-elem_mastery: <a href="https://shadowlands.wowhead.com/spell=168534" target="blank">Искусность\: волнение стихий</a>
+elem_mastery: <a href="https://shadowlands.wowhead.com/spell=168534" target="blank">Искусность/: волнение стихий</a>
 meteor: <a href="https://shadowlands.wowhead.com/spell=117588" target="blank">Метеорит</a>
 eye_storm: <a href="https://shadowlands.wowhead.com/spell=157375" target="blank">Око шторма</a>
 lava_beam: <a href="https://shadowlands.wowhead.com/spell=114074" target="blank">Поток лавы</a>
@@ -67,7 +67,7 @@ call_the_thunder: <a href="https://ru.wowhead.com/spell=260897" target="blank">�
 
 
 # Enhance
-enh_mastery: <a href="https://shadowlands.wowhead.com/spell=77223" target="blank">Искусность\: великая сила стихий</a>
+enh_mastery: <a href="https://shadowlands.wowhead.com/spell=77223" target="blank">Искусность/: великая сила стихий</a>
 ww: <a href="https://shadowlands.wowhead.com/spell=33757" target="blank">Оружие неистовства ветра</a>
 ll: <a href="https://shadowlands.wowhead.com/spell=60103" target="blank">Вскипание лавы</a>
 ss: <a href="https://shadowlands.wowhead.com/spell=17364" target="blank">Удар бури</a>
@@ -101,7 +101,7 @@ asc_enh: <a href="https://shadowlands.wowhead.com/spell=114051" target="blank">�
 
 # Resto
 massres: <a href="https://shadowlands.wowhead.com/spell=" target="blank">Древнее видение</a>
-resto_mastery: <a href="https://shadowlands.wowhead.com/spell=77226" target="blank">Искусность\: глубокое исцеление</a>
+resto_mastery: <a href="https://shadowlands.wowhead.com/spell=77226" target="blank">Искусность/: глубокое исцеление</a>
 riptide: <a href="https://shadowlands.wowhead.com/spell=61295" target="blank">Быстрина</a>
 dispel: <a href="https://shadowlands.wowhead.com/spell=77130" target="blank">Возрождение духа</a>
 tw: <a href="https://shadowlands.wowhead.com/spell=51564" target="blank">Приливные волны</a>
