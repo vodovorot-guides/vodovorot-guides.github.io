@@ -17,15 +17,6 @@
         <ul class="navbar-nav ml-auto">
 
           {%- for category in site.data.site_structure.categories -%}
-          {%- if category.title == "Элем" -%}
-            {%- assign menubg_override = "dropdown-menu-ele" -%}
-          {%- elsif category.title == "Энх" -%}
-            {%- assign menubg_override = "dropdown-menu-enh" -%}
-          {%- elsif category.title == "Рестор" -%}
-            {%- assign menubg_override = "dropdown-menu-resto" -%}
-          {%- else -%}
-            {%- assign menubg_override = "" -%}
-          {%- endif -%}
             {%- if category.url -%}
               <li class="nav-item">
                 <a class="nav-link" href="{{ category.url }}">{{ category.title }}</a>
@@ -33,15 +24,21 @@
             {%- else -%}
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" role="button" href="#" id="{{ category.title }}"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ category.title }}</a>
-              <div class="{{ menubg_override }} dropdown-menu" aria-labelledby="{{ category.title }}">
+              <ul class="dropdown-menu">
                 {%- for subcategory in category.subcategories -%}
-                {%- if subcategory.title == "divider" -%}
-                  <div class="dropdown-divider"></div>
+                {%- if subcategory.url -%}
+                  <li><a class="dropdown-item" href="{{ subcategory.url }}">{{ subcategory.title }}</a></li>
                 {%- else -%}
-                  <a class="dropdown-item" href="{{ subcategory.url }}">{{ subcategory.title }}</a>
+                  <li><a class="dropdown-item" href="#">{{ subcategory.title }} &raquo</a>
+                  <ul class="submenu dropdown-menu">
+                  {%- for subsubcategory in subcategory.subsubcategories -%}
+                    <li><a class="dropdown-item" href="{{ subsubcategory.url }}">{{ subsubcategory.title }}</a></li>
+                  {%- endfor -%}
+                  </ul></li>
                 {%- endif -%}
+
                 {%- endfor -%}
-              </div>
+              </ul>
             </li>
             {%- endif -%}
           {%- endfor -%}

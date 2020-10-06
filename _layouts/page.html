@@ -27,8 +27,8 @@ layout: default
     {%- endif -%}
   </header>
 
+  {%- include side_menu.html -%}
   <div class="post-content">
-    {%- include side_menu.html -%}
     {%- if page.toc == true -%}
       <h3>Содержание</h3>
       {%- include toc.html html=content class="toc" h_max=3 -%}

@@ -1,23 +1,24 @@
 {%- for main_category in site.data.site_structure.categories -%}
   {%- for sub_category in main_category.subcategories -%}
 
-    {%- if sub_category.url == page.url -%}
+    {%- if sub_category.subsubcategories -%}
+    {%- for sub_sub_category in sub_category.subsubcategories -%}
+
+    {%- if sub_sub_category.url == page.url -%}
 
       <div class="side-menu">
         <h3>{{- main_category.title -}}</h3>
         <ul>
 
-          {%- for sibling in main_category.subcategories -%}
-          {%- if sibling.title != "divider" -%}
+          {%- for sibling in sub_category.subsubcategories -%}
             <li><a class="side-menu-link" href="{{- sibling.url -}}">{{- sibling.title -}}</a></li>
-          {%- else -%}
-            <hr style="background-color:#828282">
-          {%- endif -%}
           {%- endfor -%}
 
         </ul>
 
       </div>
+    {%- endif -%}
+    {%- endfor -%}
     {%- endif -%}
 
   {%- endfor -%}

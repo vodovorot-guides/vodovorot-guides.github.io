@@ -309,10 +309,13 @@ img {
   }
 }
 
+
 .post-content {
   margin-bottom: $spacing-unit;
 
   h1 {
+    padding-top: 200px;
+    margin-top: -200px;
     @include relative-font-size(2.2);
 
     @include media-query($on-laptop) {
@@ -321,6 +324,8 @@ img {
   }
 
   h2 {
+    padding-top: 200px;
+    margin-top: -200px;
     @include relative-font-size(1.7);
 
     @include media-query($on-laptop) {
@@ -328,7 +333,10 @@ img {
     }
   }
 
+
   h3 {
+    padding-top: 200px;
+    margin-top: -200px;
     @include relative-font-size(1.425);
 
     @include media-query($on-laptop) {
@@ -337,6 +345,8 @@ img {
   }
 
   h4 {
+    padding-top: 200px;
+    margin-top: -200px;
     @include relative-font-size(1.15);
 
     @include media-query($on-laptop) {
@@ -344,3 +354,4 @@ img {
     }
   }
 }
+
