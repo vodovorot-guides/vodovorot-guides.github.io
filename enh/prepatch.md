@@ -20,20 +20,20 @@ toc: true
 
 # Кратко и быстро
 
-• Симкрафт не работает до релиза.  
-• Таланты против одной цели: [1111133](https://shadowlands.wowhead.com/talent-calc/shaman/enhancement/mI1c)  
-• Таланты на АОЕ: [2112133](https://shadowlands.wowhead.com/talent-calc/shaman/enhancement/mN2c)  
-• Азерит: 3x {{ site.data.spells.harmony }},1x {{ site.data.spells.gromoraan }}, 1x {{ site.data.spells.burya }}, 1x {{ site.data.spells.otgolosok }}.
-• Сущности против одной цели:  
-* Большой слот: {{ site.data.spells.condensed }}  
-* Малые слоты: {{ site.data.spells.tigel }}, {{ site.data.spells.bote }}, {{ site.data.spells.iris }}, {{ site.data.spells.conflict }}, {{ site.data.spells.breath }} или {{ site.data.spells.bezdna }}.
+* Симкрафт не работает до релиза.  
+* Таланты против одной цели: [1111133](https://shadowlands.wowhead.com/talent-calc/shaman/enhancement/mI1c)  
+* Таланты на АОЕ: [2112133](https://shadowlands.wowhead.com/talent-calc/shaman/enhancement/mN2c)  
+* Азерит: 3x {{ site.data.spells.harmony }},1x {{ site.data.spells.gromoraan }}, 1x {{ site.data.spells.burya }}, 1x {{ site.data.spells.otgolosok }}.
+* Сущности против одной цели:  
+  * Большой слот: {{ site.data.spells.condensed }}  
+  * Малые слоты: {{ site.data.spells.tigel }}, {{ site.data.spells.bote }}, {{ site.data.spells.iris }}, {{ site.data.spells.conflict }}, {{ site.data.spells.breath }} или {{ site.data.spells.bezdna }}.
 
-• Сущности на АОЕ:  
-* Большой слот: {{ site.data.spells.bote }}
-* Малые слоты: {{ site.data.spells.iris }}, {{ site.data.spells.conflict }}, {{ site.data.spells.bezdna }}, {{ site.data.spells.protocol }} или {{ site.data.spells.tigel }}.
+* Сущности на АОЕ:  
+  * Большой слот: {{ site.data.spells.bote }}
+  * Малые слоты: {{ site.data.spells.iris }}, {{ site.data.spells.conflict }}, {{ site.data.spells.bezdna }}, {{ site.data.spells.protocol }} или {{ site.data.spells.tigel }}.
 
-• Статы: Скорость > Искусность (АОЕ) > Крит = Универсальность > Искусность (Соло цель).
-• Не забывайте про {{ site.data.spells.crush }} против соло цели.
+* Статы: Скорость > Искусность (АОЕ) > Крит = Универсальность > Искусность (Соло цель).
+* Не забывайте использовать {{ site.data.spells.crush }} как филлер даже в бою против одной цели.
 
 # Изменения способностей
 
