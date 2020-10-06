@@ -124,7 +124,6 @@ a {
   }
 }
 
-
 /**
  * Blockquotes
  */
@@ -132,7 +131,7 @@ blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
+  //@include relative-font-size(1.125);
   letter-spacing: -1px;
   font-style: italic;
 
@@ -140,8 +139,6 @@ blockquote {
     margin-bottom: 0;
   }
 }
-
-
 
 /**
  * Code formatting
@@ -186,8 +183,8 @@ pre {
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+    //padding-right: $spacing-unit / 2;
+    //padding-left: $spacing-unit / 2;
   }
 }
 
@@ -195,6 +192,10 @@ pre {
     flex: 1;
     background-color: $content-bg-color;
     padding: $spacing-unit 40px;
+  @include media-query($on-laptop) {
+      padding-left: 10px;
+      padding-right: 10px;
+  }
 }
 
 

@@ -23,7 +23,7 @@
               </li>
             {%- else -%}
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" role="button" href="#" id="{{ category.title }}"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ category.title }}</a>
+              <a class="nav-link dropdown-toggle" role="button" href="#" id="{{ category.title }}"  data-toggle="dropdown">{{ category.title }}</a>
               <ul class="dropdown-menu">
                 {%- for subcategory in category.subcategories -%}
                 {%- if subcategory.url -%}
