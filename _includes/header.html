@@ -29,7 +29,7 @@
                 {%- if subcategory.url -%}
                   <li><a class="dropdown-item" href="{{ subcategory.url }}">{{ subcategory.title }}</a></li>
                 {%- else -%}
-                  <li><a class="dropdown-item" href="#">{{ subcategory.title }} &raquo</a>
+                  <li><a class="dropdown-item dropdown-toggle" href="#">{{ subcategory.title }} </a>
                   <ul class="submenu dropdown-menu">
                   {%- for subsubcategory in subcategory.subsubcategories -%}
                     <li><a class="dropdown-item" href="{{ subsubcategory.url }}">{{ subsubcategory.title }}</a></li>
