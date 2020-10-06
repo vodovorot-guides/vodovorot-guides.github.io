@@ -225,10 +225,10 @@ img {
 .title-heading {
   @include relative-font-size(1.2);
   text-align: center;
-  color: white;
-  -webkit-text-stroke: 0.5px #1e87b4;
-  -webkit-font-smoothing: antialiased;
-  text-shadow: 0 0 10px #1e87b4;
+  color: #ddd;
+  //-webkit-text-stroke: 0.5px #1e87b4;
+  //-webkit-font-smoothing: antialiased;
+  text-shadow: 0 0 8px #0098ff;
 }
 
 .title {
