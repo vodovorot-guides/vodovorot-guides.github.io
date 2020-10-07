@@ -118,7 +118,7 @@ toc: true
 
 ![](/assets/img/talents_prepatch_st2.png)
 
-Первый вариант через {{ site.data.spells.ecs }} и {{ site.data.spells.sk }} дает нам достаточно сильно бурстить в одну цель раз в минуту, а второй вариант через {{ site.data.spells.eb }} и {{ site.data.spells.asc_ele }} дает ощутимый бурст раз в 3 минуты (который отлично сочетается с азеритовыми трейтами {{ site.data.spells.potential }}). Но вариант через {{ site.data.spells.asc_ele }}зависит от времени боя, то есть на 3:30 он может быть сильнее билда через {{ site.data.spells.sk }}, а на 5:50 уже слабее.
+Первый вариант через {{ site.data.spells.ecs }} и {{ site.data.spells.sk }} дает нам достаточно сильно бурстить в одну цель раз в минуту, а второй вариант через {{ site.data.spells.eb }} и {{ site.data.spells.asc_ele }} дает ощутимый бурст раз в 3 минуты (который отлично сочетается с азеритовыми трейтами {{ site.data.spells.potential }}). Но вариант через {{ site.data.spells.asc_ele }} зависит от времени боя, то есть на 3:30 он может быть сильнее билда через {{ site.data.spells.sk }}, а на 5:50 уже слабее.
 
 **Таланты на АОЕ:**
 
