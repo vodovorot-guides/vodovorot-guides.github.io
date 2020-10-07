@@ -20,9 +20,12 @@ toc: true
 
 **Если вы не хотите читать эту статью целиком, то вот выжимка основной информации:**
 
+<a href="https://shadowlands.wowhead.com/spell=343198" target="blank" data-wh-icon-size="medium" ></a>
+
 * Симкрафт не работает до релиза.  
-* Таланты против одной цели: [2211132](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mT1M)  
-* Таланты на АОЕ: [2212122](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mTCM)  
+* Таланты против одной цели: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=320125" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=210714" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=191634" target="blank" data-wh-icon-size="medium" ></a> [(Ссылка на Wowhead)](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mT1M)  
+
+* Таланты на АОЕ: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=320125" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=192249" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=117013" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=191634" target="blank" data-wh-icon-size="medium" ></a> [(Ссылка на Wowhead)](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mTCM)  
 * Азерит: 3x {{ site.data.spells.potential }}, 3x {{ site.data.spells.harmony }}  
 * Сущности против одной цели:   
   * Большой слот: {{ site.data.spells.condensed }}  
