@@ -1,4 +1,25 @@
 categories:
+  - title: Общее
+    subcategories:
+      - title: Сокращения
+        url: /common/abbrevs.html
+      - title: Макросы
+        url: /common/macros.html
+      - title: QE Live
+        url: /common/qelive.html
+        disabled: true
+      - title: WarcraftLogs
+        url: /common/wcl.html
+        disabled: true
+      - title: Raidbots
+        url: /common/raidbots.html
+        disabled: true
+      - title: WoW Analyzer
+        url: /common/wowa.html
+        disabled: true
+      - title: Почему логи хилов не важны
+        url: /common/heallogs.html
+        disabled: true
   - title: Элем
     subcategories:
       - title: Препатч Shadowlands
