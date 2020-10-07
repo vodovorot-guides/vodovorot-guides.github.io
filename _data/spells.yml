@@ -119,7 +119,7 @@ slt: <a href="https://shadowlands.wowhead.com/spell=98008" target="blank">Тот
 htt: <a href="https://shadowlands.wowhead.com/spell=108280" target="blank">Тотем целительного прилива</a>
 mtt2: <a href="https://shadowlands.wowhead.com/spell=343182" target="blank">Тотем прилива маны (ранг 2)</a>
 htt2: <a href="https://shadowlands.wowhead.com/spell=343205" target="blank">Тотем целительного прилива (ранг 2)</a>
-resto_passive: <a href="https://ru.wowhead.com/spell=137039" target="blank">Шаман - Исцеление</a>
+resto_passive: <a href="https://shadowlands.wowhead.com/spell=137039" target="blank">Шаман - Исцеление</a>
 
 # Resto Talents
 torrent: <a href="https://shadowlands.wowhead.com/spell=200072" target="blank">Поток</a>
