@@ -27,12 +27,33 @@
               <ul class="dropdown-menu">
                 {%- for subcategory in category.subcategories -%}
                 {%- if subcategory.url -%}
+
+                {%- if subcategory.divided -%}
+                  <li class="dropdown-divider"></li>
+                {%- endif -%}
+
+                {%- if subcategory.disabled -%}
+                  <li><span class="dropdown-item disabled">{{ subcategory.title }}</span></li>
+                {%- else -%}
                   <li><a class="dropdown-item" href="{{ subcategory.url }}">{{ subcategory.title }}</a></li>
+                {%- endif -$%}
+
+
                 {%- else -%}
                   <li><a class="dropdown-item dropdown-toggle" href="#">{{ subcategory.title }} </a>
                   <ul class="submenu dropdown-menu">
                   {%- for subsubcategory in subcategory.subsubcategories -%}
+
+                  {%- if subcategory.divided -%}
+                    <li class="dropdown-divider"></li>
+                  {%- endif -%}
+
+                  {%- if subsubcategory.disabled -%}
+                    <li><span class="dropdown-item disabled">{{ subsubcategory.title }}</span></li>
+                  {%- else -%}
                     <li><a class="dropdown-item" href="{{ subsubcategory.url }}">{{ subsubcategory.title }}</a></li>
+                  {%- endif -%}
+
                   {%- endfor -%}
                   </ul></li>
                 {%- endif -%}

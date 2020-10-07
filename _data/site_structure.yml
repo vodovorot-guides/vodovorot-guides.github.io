@@ -1,14 +1,14 @@
 categories:
   - title: Элем
     subcategories:
-      - title: Препатч
+      - title: Препатч Shadowlands
         url: /ele/prepatch.html
       - title: Кратко и быстро
         url: /ele/tldr.html
-      - title: Новинки Shadowlands
-        url: /ele/shadowlands.html
       - title: Гайд
         subsubcategories:
+        - title: Вступление
+          url: /ele/intro.html
         - title: Ковенанты
           url: /ele/covenants.html
         - title: Таланты
@@ -19,34 +19,40 @@ categories:
           url: /ele/soulbinds.html
         - title: Ротация
           url: /ele/rotation.html
-        - title: Статы
-          url: /ele/stats.html
-        - title: Тринкеты
+          disabled: true
+        - title: Статы и BiS вещи
+          url: /ele/stats_and_gear.html
+          disabled: true
+        - title: Аксессуары
           url: /ele/trinkets.html
-        - title: Шмот
-          url: /ele/gear.html
-        - title: Расходники
+          disabled: true
+        - title: Расходные предметы
           url: /ele/consumables.html
-        - title: Weakauras
-          url: /ele/weakauras.html
+          disabled: true
+      - title: Weakauras
+        url: /ele/weakauras.html
       - title: FAQ
         url: /ele/faq.html
+      - title: Замок Нафрия
+        url: /ele/nathria.html
+        disabled: true
+        divided: true
       - title: Мифик+
         url: /ele/mythicplus.html
-      - title: Рейд
-        url: /ele/raid.html
+        disabled: true
       - title: PVP
         url: /ele/pvp.html
+        disabled: true
   - title: Энх
     subcategories:
-      - title: Препатч
+      - title: Препатч Shadowlands
         url: /enh/prepatch.html
       - title: Кратко и быстро
         url: /enh/tldr.html
-      - title: Новинки Shadowlands
-        url: /enh/shadowlands.html
       - title: Гайд
         subsubcategories:
+        - title: Вступление
+          url: /enh/intro.html
         - title: Ковенанты
           url: /enh/covenants.html
         - title: Таланты
@@ -57,34 +63,40 @@ categories:
           url: /enh/soulbinds.html
         - title: Ротация
           url: /enh/rotation.html
-        - title: Статы
-          url: /enh/stats.html
-        - title: Тринкеты
+          disabled: true
+        - title: Статы и BiS вещи
+          url: /enh/stats_and_gear.html
+          disabled: true
+        - title: Аксессуары
           url: /enh/trinkets.html
-        - title: Шмот
-          url: /enh/gear.html
-        - title: Расходники
+          disabled: true
+        - title: Расходные предметы
           url: /enh/consumables.html
-        - title: Weakauras
-          url: /enh/weakauras.html
+          disabled: true
+      - title: Weakauras
+        url: /enh/weakauras.html
       - title: FAQ
         url: /enh/faq.html
+      - title: Замок Нафрия
+        url: /enh/nathria.html
+        disabled: true
+        divided: true
       - title: Мифик+
         url: /enh/mythicplus.html
-      - title: Рейд
-        url: /enh/raid.html
+        disabled: true
       - title: PVP
         url: /enh/pvp.html
+        disabled: true
   - title: Рестор
     subcategories:
-      - title: Препатч
+      - title: Препатч Shadowlands
         url: /resto/prepatch.html
       - title: Кратко и быстро
         url: /resto/tldr.html
-      - title: Новинки Shadowlands
-        url: /resto/shadowlands.html
       - title: Гайд
         subsubcategories:
+        - title: Вступление
+          url: /resto/intro.html
         - title: Ковенанты
           url: /resto/covenants.html
         - title: Таланты
@@ -95,21 +107,27 @@ categories:
           url: /resto/soulbinds.html
         - title: Ротация
           url: /resto/rotation.html
-        - title: Статы
-          url: /resto/stats.html
-        - title: Тринкеты
+          disabled: true
+        - title: Статы и BiS вещи
+          url: /resto/stats_and_gear.html
+          disabled: true
+        - title: Аксессуары
           url: /resto/trinkets.html
-        - title: Шмот
-          url: /resto/gear.html
-        - title: Расходники
+          disabled: true
+        - title: Расходные предметы
           url: /resto/consumables.html
-        - title: Weakauras
-          url: /resto/weakauras.html
+          disabled: true
+      - title: Weakauras
+        url: /resto/weakauras.html
       - title: FAQ
         url: /resto/faq.html
+      - title: Замок Нафрия
+        url: /resto/nathria.html
+        disabled: true
+        divided: true
       - title: Мифик+
         url: /resto/mythicplus.html
-      - title: Рейд
-        url: /resto/raid.html
+        disabled: true
       - title: PVP
         url: /resto/pvp.html
+        disabled: true
