@@ -20,10 +20,10 @@ toc: true
 
 **Если вы не хотите читать эту статью целиком, то вот выжимка основной информации:**
 
-<a href="https://shadowlands.wowhead.com/spell=343198" target="blank" data-wh-icon-size="medium" ></a>
+<a href="https://shadowlands.wowhead.com/spell=343198" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=343198" target="blank" data-wh-icon-size="small" ></a> <a href="https://shadowlands.wowhead.com/spell=343198" target="blank" data-wh-icon-size="tiny" ></a>
 
 * Симкрафт не работает до релиза.  
-* Таланты против одной цели: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=320125" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=210714" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=191634" target="blank" data-wh-icon-size="medium" ></a> [(Ссылка на Wowhead)](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mT1M)  
+* Таланты против одной цели: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank" data-wh-icon-size="small" ></a> <a href="https://shadowlands.wowhead.com/spell=320125" target="blank" data-wh-icon-size="small" ></a> <a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a> <a href="https://shadowlands.wowhead.com/spell=16166" target="blank" data-wh-icon-size="small" ></a> <a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a> <a href="https://shadowlands.wowhead.com/spell=210714" target="blank" data-wh-icon-size="small" ></a> <a href="https://shadowlands.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на Wowhead)](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mT1M)  
 
 * Таланты на АОЕ: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=320125" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=192249" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=117013" target="blank" data-wh-icon-size="medium" ></a> <a href="https://shadowlands.wowhead.com/spell=191634" target="blank" data-wh-icon-size="medium" ></a> [(Ссылка на Wowhead)](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mTCM)  
 * Азерит: 3x {{ site.data.spells.potential }}, 3x {{ site.data.spells.harmony }}  
@@ -64,8 +64,6 @@ toc: true
 • {{ site.data.spells.ftw }} и {{ site.data.spells.primal }} – бесполезные способность для элема. Находится в книге заклинаний для прокачки до 10 уровня, чтобы показать весь будущий арсенал шамана. Нет никакого смысла выставлять эти способности на панель скиллов.
 
 # Изменения талантов
-
-**Рассмотрим новые и измененные таланты:**
 
 • {{ site.data.spells.discharge }} – крайне слабый талант, если рассматривать его как активную способность с кулдауном в 30 сек. Он поражает всего одну цель и наносит урона меньше, чем пассивное {{ site.data.spells.er }} в этом же тире талантов, а соседство с {{ site.data.spells.eote }} не дает ему никаких шансов.  
 
@@ -112,7 +110,7 @@ toc: true
 
 # Таланты
 
-Помните, что в отсутствие Симкрафта на Бете все расчеты проводились вручную и могут быть не полностью точны.
+> Помните, что в отсутствие Симкрафта на Бете все расчеты проводились вручную и могут быть не полностью точны.
 
 **Таланты против одной цели, вариант первый:** 
 
