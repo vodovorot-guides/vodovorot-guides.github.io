@@ -20,6 +20,8 @@ toc: true
 
 # Кратко и быстро
 
+Если вы не хотите читать эту статью целиком, то вот выжимка основной информации:
+
 * Симкрафт не работает до релиза.  
 * Таланты против одной цели: <a href="https://shadowlands.wowhead.com/spell=334046" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=344357" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=210853" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=197214" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=114051" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/enhancement/mI1c)  
 
