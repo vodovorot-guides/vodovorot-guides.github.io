@@ -152,7 +152,6 @@ toc: true
 #showtooltip
 /use 13
 ~~~
-  
 ~~~
 #showtooltip
 /use 14
