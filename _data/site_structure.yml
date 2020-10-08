@@ -5,6 +5,7 @@ categories:
         url: /ele/prepatch.html
       - title: Кратко и быстро
         url: /ele/tldr.html
+        disabled: true
       - title: Гайд
         subsubcategories:
         - title: Вступление
@@ -13,6 +14,7 @@ categories:
           url: /ele/covenants.html
         - title: Таланты
           url: /ele/talents.html
+          disabled: true
         - title: Легендарки
           url: /ele/legendaries.html
         - title: Проводники
@@ -33,6 +35,7 @@ categories:
         url: /ele/weakauras.html
       - title: FAQ
         url: /ele/faq.html
+        disabled: true
       - title: Замок Нафрия
         url: /ele/nathria.html
         disabled: true
@@ -49,6 +52,7 @@ categories:
         url: /enh/prepatch.html
       - title: Кратко и быстро
         url: /enh/tldr.html
+        disabled: true
       - title: Гайд
         subsubcategories:
         - title: Вступление
@@ -57,6 +61,7 @@ categories:
           url: /enh/covenants.html
         - title: Таланты
           url: /enh/talents.html
+          disabled: true
         - title: Легендарки
           url: /enh/legendaries.html
         - title: Проводники
@@ -77,6 +82,7 @@ categories:
         url: /enh/weakauras.html
       - title: FAQ
         url: /enh/faq.html
+        disabled: true
       - title: Замок Нафрия
         url: /enh/nathria.html
         disabled: true
@@ -93,6 +99,7 @@ categories:
         url: /resto/prepatch.html
       - title: Кратко и быстро
         url: /resto/tldr.html
+        disabled: true
       - title: Гайд
         subsubcategories:
         - title: Вступление
@@ -101,6 +108,7 @@ categories:
           url: /resto/covenants.html
         - title: Таланты
           url: /resto/talents.html
+          disabled: true
         - title: Легендарки
           url: /resto/legendaries.html
         - title: Проводники
@@ -121,6 +129,7 @@ categories:
         url: /resto/weakauras.html
       - title: FAQ
         url: /resto/faq.html
+        disabled: true
       - title: Замок Нафрия
         url: /resto/nathria.html
         disabled: true
@@ -135,18 +144,18 @@ categories:
     subcategories:
       - title: Сокращения
         url: /common/abbrevs.html
-      - title: Макросы
+      - title: Полезные макросы
         url: /common/macros.html
-      - title: QE Live
+      - title: QE Live – калькулятор для Рестора
         url: /common/qelive.html
         disabled: true
-      - title: WarcraftLogs
+      - title: Руководство по WarcraftLogs
         url: /common/wcl.html
         disabled: true
-      - title: Raidbots
+      - title: Руководство по Raidbots
         url: /common/raidbots.html
         disabled: true
-      - title: WoW Analyzer
+      - title: Руководство по WoW Analyzer
         url: /common/wowa.html
         disabled: true
       - title: Почему логи хилов не важны
