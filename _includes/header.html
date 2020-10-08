@@ -23,8 +23,8 @@
               </li>
             {%- else -%}
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" role="button" href="#" id="{{ category.title }}"  data-toggle="dropdown">{{ category.title }}</a>
-              <ul class="dropdown-menu">
+              <a class="nav-link dropdown-toggle" role="button" href="#" id="{{ category.title }}"  data-toggle="dropdown" data-display="static">{{ category.title }}</a>
+              <ul class="dropdown-menu dropdown-menu-right dropdown-menu-xl-left">
                 {%- for subcategory in category.subcategories -%}
                 {%- if subcategory.url -%}
 
