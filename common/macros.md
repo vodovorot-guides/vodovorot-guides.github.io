@@ -39,7 +39,6 @@ toc: true
 #showtooltip
 /cast  [@=target,harm,exists] [@player] Элементаль огня
 ~~~
-  
 ~~~
 #showtooltip
 /cast  [@=target,harm,exists] [@player] Элементаль земли
