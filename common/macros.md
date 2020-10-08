@@ -89,6 +89,24 @@ toc: true
 /cast [talent:6/3] Ледяная ярость
 ~~~
 
+# Энх
+
+* В зависимости от выбранного таланта использует {{ site.data.spells.sk_enh }} или {{ site.data.spells.sunder }}:  
+
+~~~
+#showtooltip
+/cast [talent:6/2] Хранитель бурь
+/cast [talent:6/3] Раскол
+~~~
+
+* В зависимости от выбранного таланта использует {{ site.data.spells.spike }} или {{ site.data.spells.asc_enh }}:  
+
+~~~
+#showtooltip
+/cast [talent:7/2] Земляной шип
+/cast [talent:7/3] Перерождение
+~~~
+
 # Рестор
 
 * Мастер–макрос для атакующих заклинания для Рестора, позволяет атаковать даже в цель союзника под вашим маусовером. Не рекомендуется использовать в ПвП:  
@@ -98,7 +116,7 @@ toc: true
 /cast [@mouseover, exists, harm, nodead] [@mouseovertarget, exists, harm, nodead] [@targettarget, exists, harm, nodead] [exists, harm, nodead] Молния
 ~~~
 
-* В зависимости от выбранного таланта использует {{ site.data.spells.ewt }} или {{ site.data.spells.apt }}:  
+* В зависимости от выбранного таланта использует {{ site.data.spells.ewt }} или {{ site.data.spells.apt }} на землю под курсором:  
 
 ~~~
 #showtooltip
