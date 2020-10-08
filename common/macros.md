@@ -2,27 +2,25 @@
 title: Полезные макросы для шамана
 layout: page
 last_update: 2020-10-08 
-wow: 8.3.0
+wow: 9.0.0
 toc: true
 ---
 
 # Все специализации
 
 * Универсальный маусовер макрос для атакующих заклинаний. Если у вас есть противник под курсором – кинет в него, иначе в вашу цель. Удобно развешивать {{ site.data.spells.fs }} не меняя текущей цели. Можно использовать для  {{ site.data.spells.lb }}﻿, {{ site.data.spells.lvb }}, {{ site.data.spells.purge }} и других заклинаний:
-
 ~~~
 #showtooltip  
 /cast [@mouseover,harm,exists][] Огненный шок
 ~~~
 
 * Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
-
 ~~~
 #showtooltip 
 /cast [@focus,exists,nodead,harm] [@boss1,exists,nodead,harm] Огненный шок
 ~~~
 
-* Этот макрос позволяет кинуть {{ site.data.spells.fs }} на соседнюю цель, не меняя вашей текущей. Выбирается ближайшая к вам цель, в сторону которой направлена камера:  
+* Этот макрос позволяет кинуть {{ site.data.spells.fs }} на соседнюю цель, не меняя вашей текущей. Выбирается ближайшая к вам цель, в сторону которой направлена камера:
 ~~~
 #showtooltip  
 /targetenemy  
@@ -31,14 +29,12 @@ toc: true
 ~~~
 
 * Маусовер макрос для лечащих заклинаний. Можно использовать для {{ site.data.spells.hs }}, {{ site.data.spells.cleance }} и других:  
-
 ~~~
 #showtooltip 
 /cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
 ~~~
 
 * Позволяет вызвать  {{ site.data.spells.fe }} / {{ site.data.spells.igor }} без наличия вражеской цели. Не пуллит босса при использовании!  
-
 ~~~
 #showtooltip
 /cast  [@=target,harm,exists] [@player] Элементаль огня
@@ -50,7 +46,6 @@ toc: true
 ~~~
 
 * Применяет {{ site.data.spells.wrt }} прямо прямо под вашего персонажа, позволяя сразу получить бонус скорости и не терять времени на установку тотема:  
-
 ~~~
 #showtooltip
 /stopcasting
@@ -58,13 +53,11 @@ toc: true
 ~~~
 
 * Позволяет вынести {{ site.data.spells.rez }} на панель заклинаний чтобы следить за временем восстановления:  
-
 ~~~
 #showtooltip Реинкарнация
 ~~~
 
-* Вне боя использует {{ site.data.spells.ressurect }} (для Рестора замените на {{ site.data.spells.mass_res }}), а в бою – инженерский батл-рес {{ site.data.spells.engi_res }}:  
-
+* Вне боя использует {{ site.data.spells.ressurect }} (для Рестора замените на {{ site.data.spells.mass_res }}), а в бою – инженерский батл-рес {{ site.data.spells.engi_res }}: 
 ~~~
 #showtooltip
 /use [combat] Нестабильный манипулятор темпорального потока; [nocombat] Дух предков
@@ -73,14 +66,12 @@ toc: true
 # Элем
 
 * Позволяет кастовать {{ site.data.spells.quake }} под курсор, избавляя от лишнего клика мышкой:  
-
 ~~~
 #showtooltip
 /cast [@cursor] Землетрясение
 ~~~
 
 * Использование {{ site.data.spells.meteor }}, {{ site.data.spells.eye_storm }} или {{ site.data.spells.harden_skin }} одной кнопкой, в зависимости от вызванного вами элементаля с талантом {{ site.data.spells.primal }}. При взятом таланте {{ site.data.spells.if }} использует её:  
-
 ~~~
 #showtooltip
 /cast [talent:6/2] [pet:Изначальный элементаль огня] Метеорит
@@ -92,7 +83,6 @@ toc: true
 # Энх
 
 * В зависимости от выбранного таланта использует {{ site.data.spells.sk_enh }} или {{ site.data.spells.sunder }}:  
-
 ~~~
 #showtooltip
 /cast [talent:6/2] Хранитель бурь
@@ -100,7 +90,6 @@ toc: true
 ~~~
 
 * В зависимости от выбранного таланта использует {{ site.data.spells.spike }} или {{ site.data.spells.asc_enh }}:  
-
 ~~~
 #showtooltip
 /cast [talent:7/2] Земляной шип
@@ -110,14 +99,12 @@ toc: true
 # Рестор
 
 * Мастер–макрос для атакующих заклинания для Рестора, позволяет атаковать даже в цель союзника под вашим маусовером. Не рекомендуется использовать в ПвП:  
-
 ~~~
 #showtooltip 
 /cast [@mouseover, exists, harm, nodead] [@mouseovertarget, exists, harm, nodead] [@targettarget, exists, harm, nodead] [exists, harm, nodead] Молния
 ~~~
 
 * В зависимости от выбранного таланта использует {{ site.data.spells.ewt }} или {{ site.data.spells.apt }} на землю под курсором:  
-
 ~~~
 #showtooltip
 /cast [@cursor] [talent:4/2] Тотем земляной стены
@@ -127,7 +114,6 @@ toc: true
 # Универсальные и полезные макросы
 
 * Основной макрос для взятия цели в фокус. Первое нажатие берет в фокус цель под маусовером или в таргете. Если нажать без маусовера или таргета, то очищает фокус:  
-
 ~~~
 /focus [target=mouseover,exists][exists]
 /stopmacro [target=mouseover,exists][exists]
@@ -135,21 +121,18 @@ toc: true
 ~~~
 
 * Ставит на землю метку "Череп". Меняйте цифру на конце макроса для других меток:  
-
 ~~~
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
 /click DropDownList1Button1
 ~~~
 
 * Стереть все метки, поставленные на землю:  
-
 ~~~
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
 /click DropDownList1Button9
 ~~~
 
 * Три маунта одной кнопкой, в зависимости от вашего местонахождения. Замените названия на ваших любимых маунтов. Вместо плавающего можно поставить {{ site.data.spells.waterwalking }}:  
-
 ~~~
 #showtooltip
 /cast [flyable] Яростная буря предсказателя; [swimming] Лазурный водный долгоног; Яростный боевой ящер
@@ -157,7 +140,6 @@ toc: true
 ~~~
 
 * Способности через модификатор:  
-
 ~~~
 #showtooltip
 /use [mod:ctrl] умение 4;[mod:alt] умение 3;[mod:shift] умение 2;умение 1
@@ -167,7 +149,6 @@ toc: true
 
 
 * Использование активных (прожимных) Аксессуаров с панели заклинаний:  
-
 ~~~
 #showtooltip
 /use 13
@@ -185,7 +166,6 @@ toc: true
 ~~~
 
 * Использование инженерского {{ site.data.spells.planer }}:  
-
 ~~~
 #showtooltip
 /cancelaura Нитроускорители
