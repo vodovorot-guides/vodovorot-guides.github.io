@@ -19,18 +19,23 @@ toc: true
 
 Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
 
+~~~
+
 #showtooltip 
 /cast [@focus,exists,nodead,harm] [@boss1,exists,nodead,harm] Огненный шок
 
----
+~~~
 
 Этот макрос позволяет кинуть {{ site.data.spells.fs }} на соседнюю цель, не меняя вашей текущей. Выбирается ближайшая к вам цель, в сторону которой направлена камера:
 
-#showtooltip
-/targetenemy
-/cast Огненный шок
-/targetlasttarget
+~~~
 
+> #showtooltip  
+> /targetenemy  
+> /cast Огненный шок  
+> /targetlasttarget  
+
+~~~
 
 Маусовер макрос для лечащих заклинаний. Можно использовать для {{ site.data.spells.hs }}, {{ site.data.spells.cleance }} и других.
 
