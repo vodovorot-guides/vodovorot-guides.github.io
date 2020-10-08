@@ -146,16 +146,16 @@ categories:
         url: /common/abbrevs.html
       - title: Полезные макросы
         url: /common/macros.html
-      - title: QE Live – калькулятор для Рестора
+      - title: QE Live
         url: /common/qelive.html
         disabled: true
-      - title: Руководство по WarcraftLogs
+      - title: WarcraftLogs
         url: /common/wcl.html
         disabled: true
-      - title: Руководство по Raidbots
+      - title: Raidbots
         url: /common/raidbots.html
         disabled: true
-      - title: Руководство по WoW Analyzer
+      - title: WoW Analyzer
         url: /common/wowa.html
         disabled: true
       - title: Почему логи хилов не важны
