@@ -5,7 +5,7 @@ ch: <a href="https://shadowlands.wowhead.com/spell=1064" target="blank">Цепн
 fs: <a href="https://shadowlands.wowhead.com/spell=188389" target="blank">Огненный шок</a>
 ftw: <a href="https://shadowlands.wowhead.com/spell=318038" target="blank">Оружие языка пламени</a>
 ebt: <a href="https://shadowlands.wowhead.com/spell=8004" target="blank">Тотем оков земли</a>
-primal_elem: <a href="https://shadowlands.wowhead.com/spell=73899" target="blank">Стихийный удар</a>
+primal: <a href="https://shadowlands.wowhead.com/spell=73899" target="blank">Стихийный удар</a>
 rez: <a href="https://shadowlands.wowhead.com/spell=20608" target="blank">Реинкарнация</a>
 ls: <a href="https://shadowlands.wowhead.com/spell=192106" target="blank">Щит молний</a>
 wolf: <a href="https://shadowlands.wowhead.com/spell=2645" target="blank">Призрачный волк</a>
@@ -64,7 +64,7 @@ ng: <a href="https://shadowlands.wowhead.com/spell=30884" target="blank">Стр�
 ag: <a href="https://shadowlands.wowhead.com/spell=108281" target="blank">Наставления предков</a>
 wrt: <a href="https://shadowlands.wowhead.com/spell=192077" target="blank">Тотем ветряного порыва</a>
 sop: <a href="https://shadowlands.wowhead.com/spell=262303" target="blank">Прилив мощи</a>
-primal: <a href="https://shadowlands.wowhead.com/spell=117013" target="blank">Повелитель изначальных стихий</a>
+primal_elem: <a href="https://shadowlands.wowhead.com/spell=117013" target="blank">Повелитель изначальных стихий</a>
 if: <a href="https://shadowlands.wowhead.com/spell=210714" target="blank">Ледяная ярость</a>
 up: <a href="https://shadowlands.wowhead.com/spell=260895" target="blank">Безграничная мощь</a>
 sk: <a href="https://shadowlands.wowhead.com/spell=191634" target="blank">Хранитель бурь</a>
