@@ -5,7 +5,7 @@ ch: <a href="https://shadowlands.wowhead.com/spell=1064" target="blank">Цепн
 fs: <a href="https://shadowlands.wowhead.com/spell=188389" target="blank">Огненный шок</a>
 ftw: <a href="https://shadowlands.wowhead.com/spell=318038" target="blank">Оружие языка пламени</a>
 ebt: <a href="https://shadowlands.wowhead.com/spell=8004" target="blank">Тотем оков земли</a>
-primal: <a href="https://shadowlands.wowhead.com/spell=73899" target="blank">Стихийный удар</a>
+primal_elem: <a href="https://shadowlands.wowhead.com/spell=73899" target="blank">Стихийный удар</a>
 rez: <a href="https://shadowlands.wowhead.com/spell=20608" target="blank">Реинкарнация</a>
 ls: <a href="https://shadowlands.wowhead.com/spell=192106" target="blank">Щит молний</a>
 wolf: <a href="https://shadowlands.wowhead.com/spell=2645" target="blank">Призрачный волк</a>
@@ -39,7 +39,7 @@ quake: <a href="https://shadowlands.wowhead.com/spell=61882" target="blank">Зе
 cl2_ele: <a href="https://shadowlands.wowhead.com/spell=231722" target="blank">Цепная молния (ранг 2)</a>
 swg: <a href="https://shadowlands.wowhead.com/spell=79206" target="blank">Благосклонность предков</a>
 thunder: <a href="https://shadowlands.wowhead.com/spell=51490" target="blank">Гром и молния</a>
-critdamage2: <a href="https://shadowlands.wowhead.com/spell=343190" target="blank">Неистовство стихий</a>
+critdamage2: <a href="https://shadowlands.wowhead.com/spell=343190" target="blank">Неистовство стихий (ранг 2)</a>
 fe2: <a href="https://shadowlands.wowhead.com/spell=343226" target="blank">Элементаль огня (ранг 2)</a>
 elem_mastery: <a href="https://shadowlands.wowhead.com/spell=168534" target="blank">Волнение стихий</a>
 meteor: <a href="https://shadowlands.wowhead.com/spell=117588" target="blank">Метеорит</a>
