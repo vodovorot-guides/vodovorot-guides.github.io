@@ -3,13 +3,13 @@ categories:
     subcategories:
       - title: Препатч Shadowlands
         url: /ele/prepatch.html
-      - title: Кратко и быстро
-        url: /ele/tldr.html
-        disabled: true
       - title: Гайд
         subsubcategories:
         - title: Вступление
           url: /ele/intro.html
+        - title: Кратко и быстро
+          url: /ele/tldr.html
+          disabled: true
         - title: Ковенанты
           url: /ele/covenants.html
         - title: Таланты
@@ -50,13 +50,13 @@ categories:
     subcategories:
       - title: Препатч Shadowlands
         url: /enh/prepatch.html
-      - title: Кратко и быстро
-        url: /enh/tldr.html
-        disabled: true
       - title: Гайд
         subsubcategories:
         - title: Вступление
           url: /enh/intro.html
+        - title: Кратко и быстро
+          url: /enh/tldr.html
+          disabled: true
         - title: Ковенанты
           url: /enh/covenants.html
         - title: Таланты
@@ -97,13 +97,13 @@ categories:
     subcategories:
       - title: Препатч Shadowlands
         url: /resto/prepatch.html
-      - title: Кратко и быстро
-        url: /resto/tldr.html
-        disabled: true
       - title: Гайд
         subsubcategories:
         - title: Вступление
           url: /resto/intro.html
+        - title: Кратко и быстро
+          url: /resto/tldr.html
+          disabled: true
         - title: Ковенанты
           url: /resto/covenants.html
         - title: Таланты
@@ -140,7 +140,7 @@ categories:
       - title: PVP
         url: /resto/pvp.html
         disabled: true
-  - title: Общее
+  - title: Инфо
     subcategories:
       - title: Сокращения
         url: /common/abbrevs.html
