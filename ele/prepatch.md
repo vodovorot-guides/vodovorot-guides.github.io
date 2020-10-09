@@ -77,7 +77,7 @@ toc: true
 
 • {{ site.data.spells.as2 }} – открывается на 54 уровне.  
 
-• {{ site.data.spells.hex }} – открывается на 56 уровне.  
+• {{ site.data.spells.hex2 }} – открывается на 56 уровне.  
 
 • {{ site.data.spells.fe2 }} – открывается на 58 уровне.  
 
