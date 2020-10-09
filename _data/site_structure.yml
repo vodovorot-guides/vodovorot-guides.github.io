@@ -146,6 +146,9 @@ categories:
         url: /common/abbrevs.html
       - title: Полезные макросы
         url: /common/macros.html
+      - title: Количество целей заклинаний
+        url: /common/target_cap.html
+        disabled: true
       - title: QE Live
         url: /common/qelive.html
         disabled: true
