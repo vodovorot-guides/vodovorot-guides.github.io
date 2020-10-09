@@ -18,7 +18,7 @@ toc: true
 
 # Кратко и быстро
 
-**Если вы не хотите читать эту статью целиком, то вот выжимка основной информации:**
+**Основные моменты из статьи:**
 
 * Симкрафт не работает до релиза.  
 * Таланты против одной цели: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=320125" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=16166" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=210714" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mT1M)  
