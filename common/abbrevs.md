@@ -11,25 +11,22 @@ toc: true
 
 # Общие сокращения
 
-| **DPS, ДПС** | – Damage per Second, Урон в секунду.  | 
-----------------------------------------------------------------
-| **HPS, ХПС** | – Healing per Second, Лечение в секунду.  | 
-| **AoE** | – Area of Effect, урон по области. Заклинания с уроном по области, например {{ site.data.spells.quake }}, а также бой против множества целей.  | 
-| **ST, СТ** | – Single Target, Соло цель – бой против одной цели.  | 
-| **Cleave, Клив** | – обычно применяется в контексте боя против 2–3 рядом стоящих целей, а также заклинания с таким действием.  | 
-| **Funneling** | – Клив разрозненных целей, бой с несколькими разрозненными целями.  | 
-| **Spread, Спред** | – находиться на расстоянии друг от друга.  | 
-| **СС, Crowd Control, Контроль** | – заклинания и способности, которые прерывают действие цели, например {{ site.data.spells.hex }}.  | 
-| **Diminishing Returns, Диминишинг** | – прогрессивное снижение эффективности какого–либо параметра. Может применяться как к контролю, так и к характеристикам.  | 
-| **Stats, Статы** | – Характеристики.  | 
-| **Haste, Хаст** | – Скорость.  | 
-| **Vers, Верса** | – Универсальность.  | 
-| **Crit, Крит** | – Критический удар.  | 
-| **Mastery, Мастери** | – Искусность.  | 
-| **Spell power, SPD, СПД** | – Сила заклинаний.| 
-| **Cap, Кап** | – Максимальное значение определенного параметра.  | 
-
-
+**DPS, ДПС** – Damage per Second, Урон в секунду.  
+**HPS, ХПС** – Healing per Second, Лечение в секунду.  
+**AoE** – Area of Effect, урон по области. Заклинания с уроном по области, например {{ site.data.spells.quake }}, а также бой против множества целей.  
+**ST, СТ** – Single Target, Соло цель – бой против одной цели.  
+**Cleave, Клив** – обычно применяется в контексте боя против 2–3 рядом стоящих целей, а также заклинания с таким действием.  
+**Funneling** – Клив разрозненных целей, бой с несколькими разрозненными целями.  
+**Spread, Спред** – находиться на расстоянии друг от друга.  
+**СС, Crowd Control, Контроль** – заклинания и способности, которые прерывают действие цели, например {{ site.data.spells.hex }}.  
+**Diminishing Returns, Диминишинг** – прогрессивное снижение эффективности какого–либо параметра. Может применяться как к контролю, так и к характеристикам.  
+**Stats, Статы** – Характеристики.  
+**Haste, Хаст** – Скорость.  
+**Vers, Верса** – Универсальность.  
+**Crit, Крит** – Критический удар.  
+**Mastery, Мастери** – Искусность.  
+**Spell power, SPD, СПД** – Сила заклинаний.
+**Cap, Кап** – Максимальное значение определенного параметра.  
 **BiS, БиС** – Лучшая вещь, какую можно надеть в данный слот.  
 **CD, КД** – Время восстановления.  
 **GCD, ГКД** – Общее время восстановления, вызываемое почти всеми способностями.  
@@ -68,20 +65,22 @@ toc: true
 
 # Ковенанты
 
-{{ site.data.covenants.vt }} – Vesper Totem, VT, Vesper, Веспер, Тотем Кирий.  
-{{ site.data.covenants.steward }} – Summon Steward, Steward, Совушек.  
-{{ site.data.covenants.phial }} – Phial of Serenity, Phial, Фиал, Флакон, ХилкаКирий.  
+* {{ site.data.covenants.vt }} – Vesper Totem, VT, Vesper, Веспер, Тотем Кирий.  
+* {{ site.data.covenants.steward }} – Summon Steward, Steward, Совушек.  
+* {{ site.data.covenants.phial }} – Phial of Serenity, Phial, Фиал, Флакон, ХилкаКирий.  
 
-{{ site.data.covenants.ch }} – Chain Harvest, Harvest, CH, Харвест, Жатва, Красная цепнуха.  
-{{ site.data.covenants.door }} – Door of Shadows, DoS, Телепорт, Врата, ТП Вентиров.  
+* {{ site.data.covenants.ch }} – Chain Harvest, Harvest, CH, Харвест, Жатва, Красная цепнуха.  
+* {{ site.data.covenants.door }} – Door of Shadows, DoS, Телепорт, Врата, ТП Вентиров.  
 
-{{ site.data.covenants.pw }} – Primordial Wave, Pwave, PW, ПВ, Вейв, Волна Некров.  
-{{ site.data.covenants.fleshcraft }} – Fleshcraft, FC, Флешкрафт, ФК, Щит Некров.  
+* {{ site.data.covenants.pw }} – Primordial Wave, Pwave, PW, ПВ, Вейв, Волна Некров.  
+* {{ site.data.covenants.fleshcraft }} – Fleshcraft, FC, Флешкрафт, ФК, Щит Некров.  
 
-{{ site.data.covenants.ft }} – Fae Transfusion, FT, Fae, ФТ, Трансфьюжен, Чаннел Феечек.  
-{{ site.data.covenants.soulshape }} – Soulshape, SS, Лисичка, Блинк Феечек.  
+* {{ site.data.covenants.ft }} – Fae Transfusion, FT, Fae, ФТ, Трансфьюжен, Чаннел Феечек.  
+* {{ site.data.covenants.soulshape }} – Soulshape, SS, Лисичка, Блинк Феечек.  
 
 # Элем
+
+## Способности
 
 {{ site.data.spells.es }} – Earth Shock, ES (одно из значений), Ерсшок, ЕШ, ЗШ, Шок (одно из значений).  
 {{ site.data.spells.ms }} – Maelstrom, MS, МС, МШ, Энергия.  
@@ -93,6 +92,8 @@ toc: true
 {{ site.data.spells.quake }} – Earthquake, EQ, ЕК, Квака, Землетряс.  
 {{ site.data.spells.swg }} – Spiritwalker's Grace, SWG, СВГ, Спиритволк, Каст на ходу.  
 {{ site.data.spells.thunder }} – Thunderstorm, Тандер, Откидывание, Отброс.  
+
+## Таланты
 
 {{ site.data.spells.er }} – Earthen Rage, Шипы.  
 {{ site.data.spells.eote }} – Echo of the Elements, EotE, Эхо (одно из значений).  
@@ -144,7 +145,7 @@ toc: true
 {{ site.data.spells.fl }} – Feral Lunge, FL, Лунг, Рывок, Чардж, Наскок.  
 {{ site.data.spells.wrt }} – Wind Rush Totem, WRT, ВРТ, Хаст тотем, Тотем на скорость.  
 {{ site.data.spells.cs }} – Crashing Storm, CS, Крашинг, Шторм, лужа от КЛ.  
-{{ site.data.spells.sk_enh }} – Stormkeeper, SK, Keeper, СК, Штормкипер, Кипер.
+{{ site.data.spells.sk_enh }} – Stormkeeper, SK, Keeper, СК, Штормкипер, Кипер.  
 {{ site.data.spells.sunder }} – Sundering, Сандер.  
 {{ site.data.spells.spirits }} – Elemental Spirits, ElS, Бафф волков.  
 {{ site.data.spells.spike }} – Earthen Spike, ES (Одно из значений), Спайк, Шип.  
@@ -185,5 +186,3 @@ toc: true
 {{ site.data.spells.high_tide }} – High Tide, HT, ХТ, Хай тайд.  
 {{ site.data.spells.wellspring }} – Wellspring, WP, Веллспринг.  
 {{ site.data.spells.asc_resto }} – Ascendance, Asc, Асц, Мужик.  
-
-
