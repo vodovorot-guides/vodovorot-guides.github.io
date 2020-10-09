@@ -119,7 +119,7 @@ toc: true
 /clearfocus
 ~~~
 
-* Ставит на землю метку "Череп". Меняйте цифру на конце макроса для других меток:  
+* Ставит на землю метку «Череп». Меняйте цифру на конце макроса для других меток:  
 ~~~
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
 /click DropDownList1Button1
