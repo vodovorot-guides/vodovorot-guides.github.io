@@ -149,16 +149,16 @@ categories:
       - title: Количество целей заклинаний
         url: /common/target_cap.html
         disabled: true
-      - title: QE Live
+      - title: QE Live – гайд
         url: /common/qelive.html
         disabled: true
-      - title: WarcraftLogs
+      - title: WarcraftLogs – гайд
         url: /common/wcl.html
         disabled: true
-      - title: Raidbots
+      - title: Raidbots – гайд
         url: /common/raidbots.html
         disabled: true
-      - title: WoW Analyzer
+      - title: WoW Analyzer – гайд
         url: /common/wowa.html
         disabled: true
       - title: Почему логи хилов не важны
