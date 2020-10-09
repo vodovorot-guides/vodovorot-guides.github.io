@@ -144,7 +144,7 @@ categories:
     subcategories:
       - title: Сокращения
         url: /common/abbrevs.html
-      - title: Полезные макросы
+      - title: Макросы
         url: /common/macros.html
       - title: Количество целей заклинаний
         url: /common/target_cap.html
