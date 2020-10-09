@@ -155,14 +155,30 @@ code {
   padding: 1px 5px;
 }
 
+code > button.copy-btn {
+    position: absolute;
+    top:0;
+    right:0;
+    display: none;
+    border: 0;
+}
+
+pre:hover > code > button.copy-btn {
+    display: block;
+}
+
+
+
 pre {
   padding: 8px 12px;
+  position: relative;
 
   > code {
     border: 0;
     padding-right: 0;
     padding-left: 0;
     white-space: pre-line;
+    word-break: break-word;
   }
 }
 
