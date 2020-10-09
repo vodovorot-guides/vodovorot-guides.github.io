@@ -161,12 +161,14 @@ code > button.copy-btn {
     right:0;
     display: none;
     border: 0;
+  @include media-query($on-laptop) {
+    display: block;
+  }
 }
 
 pre:hover > code > button.copy-btn {
     display: block;
 }
-
 
 
 pre {
