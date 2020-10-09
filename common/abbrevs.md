@@ -4,6 +4,7 @@ layout: page
 last_update: 2020-10-09 
 wow: 9.0.0
 toc: true
+author: Амани
 ---
 # Общие сокращения
 

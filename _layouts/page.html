@@ -18,10 +18,14 @@ layout: default
           </time>
         {%- endif -%}
         {%- if page.last_update and page.wow -%}
-          <span name="devider">•&nbsp;</span>
+          <span name="devider" class="devider">•&nbsp;</span>
         {%- endif -%}
         {%- if page.wow -%}
           для <span itemprop="game_version">{{ page.wow }}</span>
+        {%- endif -%}
+        {%- if page.author -%}
+          {%- if page.last_update or page.wow -%}<br/>{%- endif -%}
+         Автор: {{ page.author }} 
         {%- endif -%}
       </p>
     {%- endif -%}
