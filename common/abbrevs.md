@@ -100,7 +100,7 @@ toc: true
 * {{ site.data.spells.ecs }} – Echoing Shock, EcS, Эхоинг шок, Эхо шок.  
 * {{ site.data.spells.eb }} – Elemental Blast, EB, УДС.  
 * {{ site.data.spells.spirit_wolf }} – Spirit Wolf, SW, Пассивка на волка.  
-* {{ site.data.spells.eshield }} – Earth Shield, ES (одно из значений), Земляной щит, Земля, Щит (одно из значений).  
+* {{ site.data.spells.eshield }} – Earth Shield, ES (одно из значений), Земляной щит, Ерсшилд.
 * {{ site.data.spells.static }} – Static Charge, SC, Стан тотем, АоЕ стан, Стан.  
 * {{ site.data.spells.mote }} – Master of the Elements, Mote, Моте.  
 * {{ site.data.spells.storm }} – Storm Elemental, Storm ele, Storm, Шторм элем, Буря, Элем молний, Борис.  
