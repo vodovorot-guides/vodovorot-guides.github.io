@@ -1,11 +1,10 @@
 ---
-title: Рестор в препатче Shadowlands.
+title: Рестор в препатче Shadowlands
 layout: page
 last_update: 2020-10-03 
-wow: 9.0.0
+wow: 9.0.1
 toc: true
-author: Амани. Оригинал: Niseko
-
+author: Амани. Оригинал Niseko
 ---
 
 # Вступление
