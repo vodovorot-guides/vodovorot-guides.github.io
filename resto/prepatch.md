@@ -1,10 +1,10 @@
 ---
-title: Рестор в препатче Shadowlands.
+title: Элем в препатче Shadowlands.
 layout: page
 last_update: 2020-10-03 
 wow: 9.0.0
 toc: true
-author: Амани. Оригинал: Niseko.
+author: Амани. Оригинал: Niseko
 
 ---
 
