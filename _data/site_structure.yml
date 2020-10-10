@@ -15,7 +15,7 @@ categories:
         - title: Легендарки
           url: /ele/legendaries.html
         - title: Проводники
-          url: /ele/soulbinds.html
+          url: /ele/conduits.html
         - title: Таланты
           url: /ele/talents.html
           disabled: true
@@ -59,7 +59,7 @@ categories:
         - title: Легендарки
           url: /enh/legendaries.html
         - title: Проводники
-          url: /enh/soulbinds.html
+          url: /enh/conduits.html
         - title: Таланты
           url: /enh/talents.html
           disabled: true
@@ -103,7 +103,7 @@ categories:
         - title: Легендарки
           url: /resto/legendaries.html
         - title: Проводники
-          url: /resto/soulbinds.html
+          url: /resto/conduits.html
         - title: Таланты
           url: /resto/talents.html
           disabled: true
