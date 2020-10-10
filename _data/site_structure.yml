@@ -99,7 +99,7 @@ categories:
           url: /resto/tldr.html
           disabled: true
         - title: Ковенанты
-          url: /resto/covenants.html=
+          url: /resto/covenants.html
         - title: Легендарки
           url: /resto/legendaries.html
         - title: Проводники
