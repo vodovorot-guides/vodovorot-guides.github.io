@@ -4,7 +4,7 @@ layout: page
 last_update: 2020-10-03 
 wow: 9.0.0
 toc: true
-author: Амани. Оригинал: Gistwiki 
+author: Амани. Оригинал: Gistwiki
 
 ---
 
