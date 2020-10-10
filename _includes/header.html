@@ -40,11 +40,11 @@
 
 
                 {%- else -%}
-                  <li><a class="dropdown-item dropdown-toggle" href="#">{{ subcategory.title }} </a>
+                  <li><span class="dropdown-item dropdown-toggle" id="subcat">{{ subcategory.title }} </span>
                   <ul class="submenu dropdown-menu">
                   {%- for subsubcategory in subcategory.subsubcategories -%}
 
-                  {%- if subcategory.divided -%}
+                  {%- if subsubcategory.divided -%}
                     <li class="dropdown-divider"></li>
                   {%- endif -%}
 

@@ -52,6 +52,12 @@ button.navbar-toggler {
 	.dropdown-menu li{
 		position: relative;
 	}
+    .navbar .nav-item > .dropdown-menu { display: none; }
+	.navbar .nav-item:hover .nav-link{ color: #fff;  }
+	.navbar .nav-item:hover > .dropdown-menu {  display: block; }    
+	.navbar .nav-item > .dropdown-menu{ margin-top:0; }
+
+
 	.nav-item .submenu{ 
 		display: none;
 		position: absolute;
@@ -65,7 +71,20 @@ button.navbar-toggler {
 		display: block;
 	}
 }
-    
+.smart-scroll{
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+.scrolled-down{
+   transform:translateY(-100%); transition: all 0.3s ease-in-out;
+}
+.scrolled-up{
+   transform:translateY(0); transition: all 0.3s ease-in-out;
+}
+
  @media (max-width: 576px) {
      .dropdown-menu {
          margin: 0 10px;
@@ -241,4 +260,8 @@ ul {
 
 span.devider {
     margin: 0 5px;
+}
+
+.wowhead-tooltip > table > tbody > tr:nth-child(2) {
+    background-color: transparent;
 }
