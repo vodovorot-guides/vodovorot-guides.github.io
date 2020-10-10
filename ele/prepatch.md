@@ -9,11 +9,11 @@ author: "Амани. Оригинал: Gistwiki"
 
 # Вступление
 
-Во время альфа- и бета-тестирования Элем шаман прошел через множество больших изменений, таких как ввод и удаление Сверкания, но в итоге мы все равно вернулись к Энергии {{ site.data.spells.ms }}. Основа нашей специализации не изменилась – генерируем ресурс с помощью {{ site.data.spells.lb }} и {{ site.data.spells.lvb }} (а также талантами {{ site.data.spells.if }} и {{ site.data.spells.eb }}), и тратим на {{ site.data.spells.es }}. На АОЕ основным генератором становится {{ site.data.spells.cl }}, а спендером – {{ site.data.spells.quake }}.
+Во время альфа- и бета-тестирования Элем шаман прошел через множество больших изменений, таких как ввод и удаление Сверкания, но в итоге мы все равно вернулись к Энергии Водоворота. Основа нашей специализации не изменилась – генерируем ресурс с помощью {{ site.data.spells.lb }} и {{ site.data.spells.lvb }} (а также талантами {{ site.data.spells.if }} и {{ site.data.spells.eb }}), и тратим на {{ site.data.spells.es }}. На АОЕ основным генератором становится {{ site.data.spells.cl }}, а спендером – {{ site.data.spells.quake }}.
 
-Главное отличие Элема в препатче от его версии в 8.3 связано с удалением системы оскверненных предметов, они же «корапты». Благодаря тому, что в 8.3 у нас была возможность разогнать наш показатель Критического удара до значений выше 80%, самым популярным и эффективным вариантом сборки был так называемый «мем-билд», который практически полностью исключал Выброс лавы из нашей ротации (не считая мгновенных проков). Но после выхода препатча это останется в прошлом – элем, по сути, вернется к геймплею времен патчей 8.1 и 8.2 (Битва за Дазар’алор и Вечный Дворец). 
+Главное отличие Элема в препатче от его версии в 8.3 связано с удалением системы оскверненных предметов, они же «корапты». Благодаря тому, что в 8.3 у нас была возможность разогнать наш показатель Критического удара до значений выше 80%, самым популярным и эффективным вариантом сборки был так называемый «мем-билд», который практически полностью исключал {{ site.data.spells.lvb }} из нашей ротации (не считая мгновенных проков {{ site.data.spells.lava_surge }}). Но после выхода препатча это останется в прошлом – Элем, по сути, возвращается к геймплею времен патчей 8.1 и 8.2 (Битва за Дазар’алор и Вечный Дворец). 
 
-Между тем, Азеритовые трейты и сущности Сердца Азерот будут работать в препатче, так как отключаются они только на территориях Темных Земель. Они не так сильно меняют наш геймплей как корапты, но возврат к стандартному билду повлияет на их выбор. 
+Между тем, в препатче будут работать Азеритовые трейты и сущности Сердца Азерот, а отключатся они только на территориях Темных Земель. Они не так сильно меняют наш геймплей как корапты, однако на их выбор повлияет возврат к стандартному билду. 
 
 Еще один важный момент – в препатче не будет поддержки Симкрафта (как и [Raidbots.com](https://www.raidbots.com/simbot), который является его web-оболочкой), так что можно заниматься филкрафтом сколько захочется, никто не осудит =)
 
@@ -21,20 +21,20 @@ author: "Амани. Оригинал: Gistwiki"
 
 **Основные моменты из статьи:**
 
-* Симкрафт не работает до релиза.  
-* Таланты против одной цели: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=320125" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=16166" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=210714" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mT1M)  
+* **Симкрафт не работает до релиза.**  
+* **Таланты против одной цели**: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=320125" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=16166" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=210714" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mT1M)  
 
-* Таланты на АОЕ: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=320125" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=192249" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=117013" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mTCM)  
-* Азерит: 3x {{ site.data.spells.potential }}, 3x {{ site.data.spells.harmony }}  
-* Сущности против одной цели:   
-  * Большой слот: {{ site.data.spells.condensed }}  
-  * Малые слоты: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}  
+* **Таланты на АОЕ**: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=320125" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=192249" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=117013" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mTCM)  
+* **Азерит**: 3x {{ site.data.spells.potential }}, 3x {{ site.data.spells.harmony }}  
+* **Сущности против одной цели**:   
+  * **Большой сло**: {{ site.data.spells.condensed }}  
+  * **Малые слоты**: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}  
 
-* Сущности на АОЕ:  
-  * Большой слот: {{ site.data.spells.bote }} (если через {{ site.data.spells.storm }}) или {{ site.data.spells.iris }}  
-  * Малые слоты: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}, {{ site.data.spells.protocol }}  
+* **Сущности на АОЕ**:  
+  * **Большой слот**: {{ site.data.spells.bote }} (если через {{ site.data.spells.storm }}) или {{ site.data.spells.iris }}  
+  * **Малые слоты**: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}, {{ site.data.spells.protocol }}  
 
-* Статы: Критический удар = Скорость = Универсальность >>> Искусность
+* **Статы**: Критический удар = Скорость = Универсальность >>> Искусность
 
 # Изменения способностей
 
@@ -68,7 +68,7 @@ author: "Амани. Оригинал: Gistwiki"
 
 • {{ site.data.spells.hst }} – мгновенно кастуется и имеет сниженный ГКД, как и у всех тотемов (1 сек.). Стоит достаточно мало маны. Этот тотем будет полезен на перебежках, а также в соло контенте.
 
-• {{ site.data.spells.ls }} – этот щит будет полезен на прокачке и в ПВП, за счет генерации Энергии {{ site.data.spells.ms }}. Его урон крайне слаб, а срабатывает он только от прямых атак, то есть практически бесполезен в рейде и Мифик+.
+• {{ site.data.spells.ls }} – этот щит будет полезен на прокачке и в ПВП, за счет генерации Энергии Водоворота. Его урон крайне слаб, а срабатывает он только от прямых атак, то есть практически бесполезен в рейде и Мифик+.
 
 • {{ site.data.spells.ftw }} и {{ site.data.spells.primal }} – бесполезные способности для элема. Находятся в книге заклинаний для прокачки до 10 уровня, чтобы показать весь будущий арсенал шамана. Нет никакого смысла выставлять эти способности на панель скиллов.
 
@@ -102,11 +102,11 @@ author: "Амани. Оригинал: Gistwiki"
 
 Эта комбинация ощутимо усиливает наш АОЕ бурст раз в минуту, но требует не менее 4 целей для активации.
 
-• {{ site.data.spells.eb }} – талант был перенесен из первого тира во второй, и он больше не конкурирует с {{ site.data.spells.eote }}. В Shadowlands урон этого заклинания был повышен (с 63% до 140% от силы заклинаний), а также добавлена генерация Энергии {{ site.data.spells.ms }} – базово 30 ед., и 45 ед. энергии с проком искусности. 
+• {{ site.data.spells.eb }} – талант был перенесен из первого тира во второй, и он больше не конкурирует с {{ site.data.spells.eote }}. В Shadowlands урон этого заклинания был повышен (с 63% до 140% от силы заклинаний), а также добавлена генерация Энергии Водоворота – базово 30 ед., и 45 ед. энергии с проком искусности. 
 
 • {{ site.data.spells.if }} – этот талант получил существенное усиление по сравнению с BFA (базовый урон вырос с 55% до 82.5%, а бафф повышен с 200% до 300%), и теперь это наш самый лучший вариант в этом тире для боя против одной цели. Но в Мифик+ этот талант все также неэффективен. Урон {{ site.data.spells.frs }} под усилением от {{ site.data.spells.if }} практически сравнивается с уроном {{ site.data.spells.es }}.
 
-• {{ site.data.spells.asc_ele }} – добавлен новый эффект при активации – обновляет {{ site.data.spells.fs }} на всех целях и использует на них {{ site.data.spells.lvb }}. Будет полезно на клив боях. При активном {{ site.data.spells.fe }} длительность {{ site.data.spells.fs }} при активации {{ site.data.spells.asc_ele }} увеличивается до 36 сек. {{ site.data.spells.lvb }} при активации дают Энергию {{ site.data.spells.ms }}.
+• {{ site.data.spells.asc_ele }} – добавлен новый эффект при активации – обновляет {{ site.data.spells.fs }} на всех целях и использует на них {{ site.data.spells.lvb }}. Будет полезно на клив боях. При активном {{ site.data.spells.fe }} длительность {{ site.data.spells.fs }} при активации {{ site.data.spells.asc_ele }} увеличивается до 36 сек. {{ site.data.spells.lvb }} при активации дают Энергию Водоворота.
 
 В теории этот талант может быть лучше чем {{ site.data.spells.sk }}, особенно в препатче, но его эффективность зависит от времени боя. Плюс он все также бесполезен на АОЕ, так как {{ site.data.spells.lava_beam }} мало чем отличается от {{ site.data.spells.cl }}.
 
@@ -151,7 +151,7 @@ author: "Амани. Оригинал: Gistwiki"
 
 # Ротация
 
-В бою против одной цели все осталось без изменений. Не уходим в оверкап Энергии {{ site.data.spells.ms }}, поддерживаем {{ site.data.spells.fs }}, используем {{ site.data.spells.es }}, а все остальные заклинаний отдаем по кулдауну. Если нечего больше кастовать – {{ site.data.spells.lb }}.
+В бою против одной цели все осталось без изменений. Не уходим в оверкап Энергии Водоворота, поддерживаем {{ site.data.spells.fs }}, используем {{ site.data.spells.es }}, а все остальные заклинаний отдаем по кулдауну. Если нечего больше кастовать – {{ site.data.spells.lb }}.
 
 На АОЕ все немного интереснее. В связи с увеличением базового урона {{ site.data.spells.lvb }} и наличия Азеритового трейта {{ site.data.spells.potential }}, мы станем использовать {{ site.data.spells.lvb }} на АОЕ гораздо активнее.
 Кастуем его без прока в бою против 1-4 целей, и на 5 целей по проку (при взятом таланте {{ site.data.spells.mote }}) или при передвижении. Сокращение длительности {{ site.data.spells.fs }} не позволит поддерживать его более чем на 3 целях, однако с активным {{ site.data.spells.fe }} эта проблема решается, так как шоки становятся в два раза дольше.
