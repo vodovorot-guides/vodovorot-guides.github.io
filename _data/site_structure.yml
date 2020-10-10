@@ -139,7 +139,6 @@ categories:
         url: /common/macros.html
       - title: Количество целей заклинаний
         url: /common/target_cap.html
-        disabled: true
       - title: QE Live – гайд
         url: /common/qelive.html
         disabled: true
