@@ -110,7 +110,7 @@ author: Амани
 * {{ site.data.spells.ag }} – Ancestral Guidance, AG, Наставления, АГ.  
 * {{ site.data.spells.wrt }} – Wind Rush Totem, WRT, ВРТ, Хаст тотем, Тотем на скорость.  
 * {{ site.data.spells.sop }} – Surge of Power, SoP, Соп, Прилив (одно из значений), Мощь, Сурдж (одно из значений).  
-* {{ site.data.spells.primal }} – Primal Elementalist, Primal, PE, Примал, Усиленные элемы.  
+* {{ site.data.spells.primal_elem }} – Primal Elementalist, Primal, PE, Примал, Усиленные элемы.  
 * {{ site.data.spells.if }} – Icefury, IF, ИФ, Айсфьюри.  
 * {{ site.data.spells.up }} – Unlimited Power, UP, «та отстойная пассивка из последнего тира».  
 * {{ site.data.spells.sk }} – Stormkeeper, SK, Keeper, СК, Штормкипер, Кипер.  
