@@ -67,45 +67,42 @@ author: "Амани. Перевод: Wishko. Оригинал: Wowhead."
 
 ## Элем
 
-* {{ site.data.spells.ch }} – максимум 3 цели.  
-* {{ site.data.spells.cl }} – максимум 5 целей.  
-* {{ site.data.spells.quake }} – софт-кап на 20 целей.  
-
-* {{ site.data.spells.eye_storm }} – максимум 6 целей.  
-* {{ site.data.spells.lava_beam }} – максимум 5 целей.  
-* {{ site.data.spells.lmt }} – софт-кап на 20 целей.  
-* {{ site.data.spells.meteor }} – максимум 8 целей.  
+* {{ site.data.spells.ch }} – максимум **3** цели.  
+* {{ site.data.spells.cl }} – максимум **5** целей.  
+* {{ site.data.spells.quake }} – софт-кап на **20** целей.  
+* {{ site.data.spells.eye_storm }} – максимум **6** целей.  
+* {{ site.data.spells.lava_beam }} – максимум **5** целей.  
+* {{ site.data.spells.lmt }} – софт-кап на **20** целей.  
+* {{ site.data.spells.meteor }} – максимум **8** целей.  
 
 ## Энх
 
-* {{ site.data.spells.ch }} – максимум 3 цели.  
-* {{ site.data.spells.cl }} – максимум 3 цели.  
-* {{ site.data.spells.crush }} при использовании – масштабируется по квадратному корню. Урон от бафф имеет софт-кап на 20 целей.  
-
-* {{ site.data.spells.cs }} – софт-кап на 20 целей.  
-* {{ site.data.spells.fn }} – максимум 6 целей за один {{ site.data.spells.fs }}.  
-* {{ site.data.spells.hailstorm }} – максимум 6 целей.  
-* {{ site.data.spells.sunder }} – софт-кап на 20 целей.  
+* {{ site.data.spells.ch }} – максимум **3** цели.  
+* {{ site.data.spells.cl }} – максимум **3** цели.  
+* {{ site.data.spells.crush }} при использовании – масштабируется по квадратному корню. Урон от бафф имеет софт-кап на **20** целей.  
+* {{ site.data.spells.cs }} – софт-кап на **20** целей.  
+* {{ site.data.spells.fn }} – максимум **6** целей за один {{ site.data.spells.fs }}.  
+* {{ site.data.spells.hailstorm }} – максимум **6** целей.  
+* {{ site.data.spells.sunder }} – софт-кап на **20** целей.  
 
 ## Рестор
 
-* {{ site.data.spells.ch }} – максимум 4 цели.  
-* {{ site.data.spells.cl }} – максимум 3 цели.  
-* {{ site.data.spells.rain }} – максимум 6 целей.  
+* {{ site.data.spells.ch }} – максимум **4** цели.  
+* {{ site.data.spells.cl }} – максимум **3** цели.  
+* {{ site.data.spells.rain }} – максимум **6** целей.  
 * {{ site.data.spells.htt }} – без ограничения.  
 * {{ site.data.spells.slt }} – без ограничения.  
-* {{ site.data.spells.cs }} – софт-кап на 20 целей.  
-
+* {{ site.data.spells.cs }} – софт-кап на **20** целей.  
 * {{ site.data.spells.apt }} – без ограничения.  
-* {{ site.data.spells.asc_resto }} – софт-кап на 1 цель.  
-* {{ site.data.spells.cbt }} – софт-кап на 1 цель.  
-* {{ site.data.spells.downpour }} – максимум 6 целей.  
+* {{ site.data.spells.asc_resto }} – софт-кап на **1** цель.  
+* {{ site.data.spells.cbt }} – софт-кап на **1** цель.  
+* {{ site.data.spells.downpour }} – максимум **6** целей.  
 * {{ site.data.spells.ewt }} – без ограничения.  
-* {{ site.data.spells.soe }} – максимум 6 целей.  
-* {{ site.data.spells.wellspring }} – софт-кап на 6 целей.  
+* {{ site.data.spells.soe }} – максимум **6** целей.  
+* {{ site.data.spells.wellspring }} – софт-кап на **6** целей.  
 
 ## Ковенанты
 
-* {{ site.data.covenants.vt }} – максимум 6 целей.  
-* {{ site.data.covenants.ch }} – максимум 5 целей для урона + максимум 5 целей для отхила.  
-* {{ site.data.covenants.ft }} – нанесение урона – софт-кап на 1 цель. Отхил – софт-кап на 4 цели.
+* {{ site.data.covenants.vt }} – максимум **6** целей.  
+* {{ site.data.covenants.ch }} – максимум **5** целей для урона + максимум **5** целей для отхила.  
+* {{ site.data.covenants.ft }} – нанесение урона – софт-кап на **1** цель. Отхил – софт-кап на **4** цели.
