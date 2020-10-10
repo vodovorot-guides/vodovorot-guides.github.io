@@ -1,5 +1,5 @@
 ---
-title: Ковенанты
+title: Обзор Ковенантов
 layout: page
 last_update: 2020-10-03 
 wow: 9.0.1
