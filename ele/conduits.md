@@ -1,5 +1,5 @@
 ---
-title: Проводники – Элем
+title: Проводники – Элем Шаман
 layout: page
 last_update: 2020-10-11  
 wow: 9.0.1
