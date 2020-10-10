@@ -9,11 +9,15 @@ author: Амани
 
 # Все специализации
 
-* Универсальный маусовер макрос для атакующих заклинаний. Если у вас есть противник под курсором – кинет в него, иначе в вашу цель. Удобно развешивать {{ site.data.spells.fs }} не меняя текущей цели. Можно использовать для  {{ site.data.spells.lb }}﻿, {{ site.data.spells.lvb }}, {{ site.data.spells.purge }} и других заклинаний:
+* Универсальный маусовер макрос для атакующих заклинаний. Если у вас есть противник под курсором – кинет в него, иначе в вашу цель. Удобно развешивать {{ site.data.spells.fs }} не меняя текущей цели. Можно использовать для  {{ site.data.spells.lb }}, {{ site.data.spells.lvb }}, {{ site.data.spells.purge }} и других заклинаний:
 ~~~
 #showtooltip  
 /cast [@mouseover,harm,exists][] Огненный шок
 ~~~
+
+
+
+
 
 * Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
 ~~~
@@ -63,13 +67,13 @@ author: Амани
 /use [combat] Нестабильный манипулятор темпорального потока; [nocombat] Дух предков
 ~~~
 
-# Элем
-
-* Позволяет кастовать {{ site.data.spells.quake }} под курсор, избавляя от лишнего клика мышкой:  
+* Позволяет кастовать АоЕ заклинания (например {{ site.data.spells.quake }} и {{ site.data.spells.rain }}) сразу на место под курсором, избавляя от лишнего клика мышкой:  
 ~~~
 #showtooltip
 /cast [@cursor] Землетрясение
 ~~~
+
+# Элем
 
 * Использование {{ site.data.spells.meteor }}, {{ site.data.spells.eye_storm }} или {{ site.data.spells.harden_skin }} одной кнопкой, в зависимости от вызванного вами элементаля с талантом {{ site.data.spells.primal_elem }}. При взятом таланте {{ site.data.spells.if }} использует её:  
 ~~~
@@ -98,7 +102,12 @@ author: Амани
 
 # Рестор
 
-* Мастер–макрос для атакующих заклинания для Рестора, позволяет атаковать даже в цель союзника под вашим маусовером. Не рекомендуется использовать в ПвП:  
+* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.riptide }} + {{ site.data.spells.fs }}, {{ site.data.spells.dispel }} + {{ site.data.spells.purge }} и другие:
+~~~
+/use [@mouseover,nodead,harm]Огненный шок;[@mouseover,nodead,help]Быстрина;[@target,nodead,harm]Огненный шок;[@target,nodead,help][@player] Быстрина
+~~~
+
+* Маусовер для атакующих заклинания для Рестора, позволяет атаковать даже в цель союзника под вашим маусовером. Не рекомендуется использовать в ПвП:  
 ~~~
 #showtooltip 
 /cast [@mouseover, exists, harm, nodead] [@mouseovertarget, exists, harm, nodead] [@targettarget, exists, harm, nodead] [exists, harm, nodead] Молния
@@ -109,6 +118,13 @@ author: Амани
 #showtooltip
 /cast [@cursor] [talent:4/2] Тотем земляной стены
 /cast [@cursor] [talent:4/3] Тотем защиты предков
+~~~
+
+* В зависимости от выбранного таланта использует {{ site.data.spells.wellspring }} или {{ site.data.spells.asc_resto }}:  
+~~~
+#showtooltip
+/cast [talent:7/2] Родник
+/cast [talent:3/3] Перерождение
 ~~~
 
 # Универсальные и полезные макросы
@@ -130,6 +146,13 @@ author: Амани
 ~~~
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
 /click DropDownList1Button9
+~~~
+
+* Использовать одновременно {{ site.data.spells.waterwalking }} и призыв маунта. Замените название маунта 
+~~~
+#showtooltip Яростная буря предсказателя
+/cast [nomounted,nocombat] Хождение по воде
+/cast Яростная буря предсказателя
 ~~~
 
 * Три маунта одной кнопкой, в зависимости от вашего местонахождения. Замените названия на ваших любимых маунтов. Вместо плавающего можно поставить {{ site.data.spells.waterwalking }}:  
