@@ -5,7 +5,6 @@ last_update: 2020-10-06
 wow: 9.0.0
 toc: true
 author: Амани. Оригинал: Wordup
-
 ---
 
 # Вступление
