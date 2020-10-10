@@ -27,12 +27,12 @@ author: "Амани. Оригинал: Gistwiki"
 * **Таланты на АОЕ**: <a href="https://shadowlands.wowhead.com/spell=333919" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=320125" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=192249" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=117013" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/elemental/mTCM)  
 * **Азерит**: 3x {{ site.data.spells.potential }}, 3x {{ site.data.spells.harmony }}  
 * **Сущности против одной цели**:   
-  * **Большой сло**: {{ site.data.spells.condensed }}  
-  * **Малые слоты**: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}  
+  * Большой слот: {{ site.data.spells.condensed }}  
+  * Малые слоты: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}  
 
 * **Сущности на АОЕ**:  
-  * **Большой слот**: {{ site.data.spells.bote }} (если через {{ site.data.spells.storm }}) или {{ site.data.spells.iris }}  
-  * **Малые слоты**: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}, {{ site.data.spells.protocol }}  
+  * Большой слот: {{ site.data.spells.bote }} (если через {{ site.data.spells.storm }}) или {{ site.data.spells.iris }}  
+  * Малые слоты: {{ site.data.spells.breath }}, {{ site.data.spells.conflict }}, {{ site.data.spells.iris }}, {{ site.data.spells.protocol }}  
 
 * **Статы**: Критический удар = Скорость = Универсальность >>> Искусность
 
