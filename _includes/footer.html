@@ -2,21 +2,32 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-    <h2 class="footer-heading" style="text-align:right;">{{ site.title | escape }}</h2>
 
-    <div class="footer-col-wrapper row">
-      <div class="footer-col footer-col-1">
-        <a href="{{ site.discord_invite }}" target="blank"><img src="{{ '/assets/img/logos/discord.png' | relative_url }}" class="mh-50" alt="Водоворот" style="vertical-align: text-top;"/></a>
+    <div class="d-flex justify-contend-between">
+      <!-- <div class="footer-col footer-col-1"> -->
+        <div class="col">
+        <a href="{{ site.discord_invite }}" target="blank">
+          <img src="{{ '/assets/img/logos/discord.png' | relative_url }}" class="float-left" alt="Водоворот" style="vertical-align: text-top;"/>
+        </a>
       </div>
 
-      <div class="footer-col footer-col-2">
-        <a href="https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg"><img src="{{ '/assets/img/logos/youtube.png' | relative_url }}" class="mh-50" alt="Amani Youtube" style="vertical-align: text-top;" /></a>
+      <!-- <div class="footer-col footer-col-2"> -->
+        <div class="col">
+        <a href="https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg">
+          <img src="{{ '/assets/img/logos/youtube.png' | relative_url }}" class="mx-auto d-block" alt="Amani Youtube" style="vertical-align: text-top;" />
+        </a>
       </div>
 
-      <div class="footer-col footer-col-3">
-        <a href="https://www.patreon.com/amani_vodovorot"><img src="/assets/img/logos/patreon.png" class="mh-50" alt="Patreon" style="vertical-align: text-top;"/></a>
+      <!-- <div class="footer-col footer-col-3"> -->
+        <div class="col">
+        <a href="https://www.patreon.com/amani_vodovorot">
+          <img src="/assets/img/logos/patreon-long.png" alt="Patreon" class="float-right" style="vertical-align: text-top;"/>
+        </a>
       </div>
     </div>
+
+    <h2 class="footer-heading" style="text-align:center;">&copy; {{ site.title | escape }}</h2>
+    <h3 class="footer-copyright" style="text-align:center;">Logo art by Fortune K, copyright by Blizzard Entertainment</h3>
 
   </div>
 

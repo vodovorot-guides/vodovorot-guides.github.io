@@ -112,7 +112,13 @@
 }
 
 .footer-heading {
-  @include relative-font-size(1.125);
+  @include relative-font-size(1.0);
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit / 4;
+}
+
+.footer-copyright {
+  @include relative-font-size(0.7);
   margin-bottom: $spacing-unit / 2;
 }
 
