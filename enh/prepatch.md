@@ -21,20 +21,20 @@ author: "Амани. Оригинал: Wordup"
 
 **Основные моменты из статьи:**
 
-* Симкрафт не работает до релиза.  
-* Таланты против одной цели: <a href="https://shadowlands.wowhead.com/spell=334046" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=344357" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=210853" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=197214" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=114051" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/enhancement/mI1c)  
+* **Симкрафт не работает до релиза**.  
+* **Таланты против одной цели**: <a href="https://shadowlands.wowhead.com/spell=334046" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=344357" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=210853" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=197214" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=114051" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/enhancement/mI1c)  
 
-* Таланты на АОЕ: <a href="https://shadowlands.wowhead.com/spell=334046" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=262647" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=334195" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=197214" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=114051" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/enhancement/mN2c)  
-* Азерит: 3x {{ site.data.spells.harmony }},1x {{ site.data.spells.gromoraan }}, 1x {{ site.data.spells.burya }}, 1x {{ site.data.spells.otgolosok }}.
-* Сущности против одной цели:  
+* **Таланты на АОЕ**: <a href="https://shadowlands.wowhead.com/spell=334046" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=262647" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=334195" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=197214" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=114051" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/enhancement/mN2c)  
+* **Азерит**: 3x {{ site.data.spells.harmony }},1x {{ site.data.spells.gromoraan }}, 1x {{ site.data.spells.burya }}, 1x {{ site.data.spells.otgolosok }}.
+* **Сущности против одной цели**:  
   * Большой слот: {{ site.data.spells.condensed }}  
   * Малые слоты: {{ site.data.spells.tigel }}, {{ site.data.spells.bote }}, {{ site.data.spells.iris }}, {{ site.data.spells.conflict }}, {{ site.data.spells.breath }} или {{ site.data.spells.bezdna }}.
 
-* Сущности на АОЕ:  
+* **Сущности на АОЕ**:  
   * Большой слот: {{ site.data.spells.bote }}
   * Малые слоты: {{ site.data.spells.iris }}, {{ site.data.spells.conflict }}, {{ site.data.spells.bezdna }}, {{ site.data.spells.protocol }} или {{ site.data.spells.tigel }}.
 
-* Статы: Скорость > Искусность (АОЕ) > Крит = Универсальность > Искусность (Соло цель).
+* **Статы**: Скорость > Искусность (АОЕ) > Крит = Универсальность > Искусность (Соло цель).
 * Не забывайте использовать {{ site.data.spells.crush }} как филлер даже в бою против одной цели.
 
 # Изменения способностей
