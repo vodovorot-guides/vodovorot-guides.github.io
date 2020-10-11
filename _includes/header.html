@@ -7,7 +7,6 @@
 
     <nav class="navbar navbar-expand-sm">
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-        <!--<img src="/assets/img/logos/sk.png" style="float:left; max-height:50px;" />{{ site.title | escape }}</a> -->
         <img src="/assets/img/logos/sk.png" style="float:left; max-height:60px;" /></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -17,16 +16,15 @@
         <ul class="navbar-nav ml-auto">
 
           {%- for category in site.data.site_structure.categories -%}
-            {%- if category.url -%}
-              <li class="nav-item">
-                <a class="nav-link" href="{{ category.url }}">{{ category.title }}</a>
-              </li>
-            {%- else -%}
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" role="button" href="#" id="{{ category.title }}"  data-toggle="dropdown" data-display="static">{{ category.title }}</a>
+              {%- if category.url -%}
+              <a class="nav-link dropdown-toggle" role="button" href="{{ category.url }}" id="{{ category.title }}" data-toggle="dropdown" data-display="static">{{ category.title }}</a>
+              {%- else -%}
+              <span class="nav-link dropdown-toggle" role="button" id="{{ category.title }}" data-toggle="dropdown" data-display="static">{{ category.title }}</span>
+              {%- endif -%}
               <ul class="dropdown-menu dropdown-menu-right dropdown-menu-xl-left">
                 {%- for subcategory in category.subcategories -%}
-                {%- if subcategory.url -%}
+                {%- if subcategory.url and subcategory.subsubcategories == nil -%}
 
                 {%- if subcategory.divided -%}
                   <li class="dropdown-divider"></li>
@@ -36,11 +34,15 @@
                   <li><span class="dropdown-item disabled">{{ subcategory.title }}</span></li>
                 {%- else -%}
                   <li><a class="dropdown-item" href="{{ subcategory.url }}">{{ subcategory.title }}</a></li>
-                {%- endif -$%}
+                {%- endif -%}
 
 
                 {%- else -%}
-                  <li><span class="dropdown-item dropdown-toggle" id="subcat">{{ subcategory.title }} </span>
+                  {%- if subcategory.url -%}
+                  <li><a class="dropdown-item dropdown-toggle" href="{{ subcategory.url }}" id="subcat">{{ subcategory.title }} </a>
+                  {%- else -%}
+                  <li><span class="dropdown-item dropdown-toggle">{{ subcategory.title }} </span>
+                  {%- endif -%}
                   <ul class="submenu dropdown-menu">
                   {%- for subsubcategory in subcategory.subsubcategories -%}
 
@@ -61,7 +63,6 @@
                 {%- endfor -%}
               </ul>
             </li>
-            {%- endif -%}
           {%- endfor -%}
         </ul>
       </div>

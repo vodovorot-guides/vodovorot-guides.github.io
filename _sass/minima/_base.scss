@@ -159,8 +159,11 @@ code > button.copy-btn {
     position: absolute;
     top:0;
     right:0;
-    display: none;
+    //display: none;
+    display: block;
     border: 0;
+    margin-top: 1px;
+    margin-right: 1px;
   @include media-query($on-laptop) {
     display: block;
   }

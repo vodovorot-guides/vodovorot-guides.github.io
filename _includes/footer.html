@@ -38,22 +38,26 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js"></script>
 
   <script>
-    $(document).on('click', '#subcat', function (e) {
-        e.preventDefault();
+    $(document).on("click", ".dropdown-menu", function (e) {
         e.stopPropagation();
     });
 
     function onResize() {
         // make it as accordion for smaller screens
         if ($(window).width() < 992) {
-            $('.dropdown-menu span').click(function(e){
+            $(".dropdown-menu a").click(function(e){
                 //e.preventDefault();
-                if($(this).next('.submenu').length){
-                    $(this).next('.submenu').toggle();
+                if($(this).next(".submenu").length){
+                    e.preventDefault();
+                    $(this).next(".submenu").toggle();
                 }
-                $('.dropdown').on('hide.bs.dropdown', function () {
-                    $(this).find('.submenu').hide();
+                $(".dropdown").on("hide.bs.dropdown", function () {
+                    $(this).find(".submenu").hide();
                 })
+            });
+        } else {
+            $(".navbar-nav > .nav-item > a.nav-link").click(function(e){
+                window.location = $(this).attr("href");
             });
         }
         
@@ -61,19 +65,19 @@
 
             $("header.sticky-top").removeClass("sticky-top");
             $("header.site-header").addClass("smart-scroll");
-            $('body').css('padding-top', $('.navbar').outerHeight() + 'px');
+            $("body").css("padding-top", $(".navbar").outerHeight() + "px");
 
             // detect scroll top or down
-            if ($('.smart-scroll').length > 0) { // check if element exists
+            if ($(".smart-scroll").length > 0) { // check if element exists
                 var last_scroll_top = 0;
-                $(window).on('scroll', function() {
+                $(window).on("scroll", function() {
                     scroll_top = $(this).scrollTop();
                     if(scroll_top < last_scroll_top) {
-                        $('.smart-scroll').removeClass('scrolled-down').addClass('scrolled-up');
+                        $(".smart-scroll").removeClass("scrolled-down").addClass("scrolled-up");
                     }
                     else {
                         if (last_scroll_top > 60) {
-                            $('.smart-scroll').removeClass('scrolled-up').addClass('scrolled-down');
+                            $(".smart-scroll").removeClass("scrolled-up").addClass("scrolled-down");
                         }
                     }
                     last_scroll_top = scroll_top;
@@ -85,7 +89,7 @@
                 $("header.site-header").removeClass("scrolled-down");
                 $("header.site-header").removeClass("scrolled-up");
                 $("header.site-header").addClass("sticky-top");
-                $('body').css('padding-top', 0);
+                $("body").css("padding-top", 0);
             }
         }
     }

@@ -1,9 +1,11 @@
 categories:
   - title: Элем
+    url: /ele/intro.html
     subcategories:
       - title: Препатч Shadowlands
         url: /ele/prepatch.html
       - title: Гайд
+        url: /ele/intro.html
         subsubcategories:
         - title: Вступление
           url: /ele/intro.html
@@ -43,11 +45,14 @@ categories:
       - title: PVP
         url: /ele/pvp.html
         disabled: true
+
   - title: Энх
+    url: /enh/intro.html
     subcategories:
       - title: Препатч Shadowlands
         url: /enh/prepatch.html
       - title: Гайд
+        url: /enh/intro.html
         subsubcategories:
         - title: Вступление
           url: /enh/intro.html
@@ -87,11 +92,14 @@ categories:
       - title: PVP
         url: /enh/pvp.html
         disabled: true
+
   - title: Рестор
+    url: /resto/intro.html
     subcategories:
       - title: Препатч Shadowlands
         url: /resto/prepatch.html
       - title: Гайд
+        url: /resto/intro.html
         subsubcategories:
         - title: Вступление
           url: /resto/intro.html
@@ -131,6 +139,7 @@ categories:
       - title: PVP
         url: /resto/pvp.html
         disabled: true
+
   - title: Инфо
     subcategories:
       - title: Сокращения
