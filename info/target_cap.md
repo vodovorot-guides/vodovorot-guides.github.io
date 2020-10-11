@@ -96,7 +96,6 @@ author: "Amani. Перевод: Wishko. Оригинал: Wowhead."
 * {{ site.data.spells.rain }} – хард-кап на **6** целей.  
 * {{ site.data.spells.htt }} – без ограничения.  
 * {{ site.data.spells.slt }} – без ограничения.  
-* {{ site.data.spells.cs }} – софт-кап на **20** целей.  
 * {{ site.data.spells.apt }} – без ограничения.  
 * {{ site.data.spells.asc_resto }} – софт-кап на **1** цель.  
 * {{ site.data.spells.cbt }} – софт-кап на **1** цель.  
