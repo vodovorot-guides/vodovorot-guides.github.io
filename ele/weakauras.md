@@ -9,10 +9,10 @@ author: Haelrail, Amani
 
 Ниже представлены WA, обновленные под Shadowlands, и которые точно работают на русской версии игры:
 
-* [От Alliejelly](https://wago.io/AsCQQgZeh)
+* [От Puer](https://wago.io/oYKpx6zVN)
 
 <p align="center">
-<img src="https://media.wago.io/screenshots/AsCQQgZeh/5f7ecfeffe4e786a06d84612.png" width="30%"> 
+<img src="https://media.wago.io/screenshots/oYKpx6zVN/5f736991f0043c08b974051b.gif" width="30%"> 
 </p>
 
 * [От Afenar](https://wago.io/Afenar_Shaman)
@@ -27,14 +27,14 @@ author: Haelrail, Amani
 <img src="https://media.wago.io/screenshots/rkjS7FNW7/5f74ba17d2e79f530ec0fc28.png" width="30%"> 
 </p>
 
-* [От Puer](https://wago.io/oYKpx6zVN)
-
-<p align="center">
-<img src="https://media.wago.io/screenshots/oYKpx6zVN/5f736991f0043c08b974051b.gif" width="30%"> 
-</p>
-
 * [От Amani](https://wago.io/tSFO3ZOD8)
 
 <p align="center">
 <img src="https://i.imgur.com/Ol7XyRr.png" width="30%"> 
+</p>
+
+* [От Alliejelly](https://wago.io/AsCQQgZeh)
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/AsCQQgZeh/5f7ecfeffe4e786a06d84612.png" width="30%"> 
 </p>
