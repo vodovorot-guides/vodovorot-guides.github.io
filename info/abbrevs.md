@@ -2,9 +2,9 @@
 title: Сокращения и аббревиатуры
 layout: page
 last_update: 2020-10-09 
-wow: 9.0.0
+wow: 9.0.1
 toc: true
-author: Амани
+author: Amani
 ---
 # Общие сокращения
 
