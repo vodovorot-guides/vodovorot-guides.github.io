@@ -8,4 +8,4 @@ author: Amani
 
 Данный раздел будет обновлен после **14 октября**, так как ожидаются различные фиксы и тюнинг легендарных сил. А пока вы можете посмотреть видео на эту тему:
 
-[![Shadowlands Legendaries](/assets/img/legendary_video.png)](https://youtu.be/De5MLStsvnk)
+{% include youtube.html id="De5MLStsvnk" %}
