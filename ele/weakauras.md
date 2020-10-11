@@ -21,16 +21,16 @@ author: Haelrail, Amani
 <img src="https://media.wago.io/screenshots/rJhu7HoMM/5de6dc8d47210c03e3bf7438.gif" width="30%"> 
 </p>
 
-* [От Publik](https://wago.io/rkjS7FNW7)
-
-<p align="center">
-<img src="https://media.wago.io/screenshots/rkjS7FNW7/5f74ba17d2e79f530ec0fc28.png" width="30%"> 
-</p>
-
 * [От Amani](https://wago.io/tSFO3ZOD8)
 
 <p align="center">
 <img src="https://i.imgur.com/Ol7XyRr.png" width="30%"> 
+</p>
+
+* [От Publik](https://wago.io/rkjS7FNW7)
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/rkjS7FNW7/5f74ba17d2e79f530ec0fc28.png" width="30%"> 
 </p>
 
 * [От Alliejelly](https://wago.io/AsCQQgZeh)
