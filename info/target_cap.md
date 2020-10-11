@@ -2,9 +2,9 @@
 title: Ограничение на количество целей
 layout: page
 last_update: 2020-10-09 
-wow: 9.0.0
+wow: 9.0.1
 toc: true
-author: "Амани. Перевод: Wishko. Оригинал: Wowhead."
+author: "Amani. Перевод: Wishko. Оригинал: Wowhead."
 ---
 # Вступление
 
