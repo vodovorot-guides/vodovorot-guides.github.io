@@ -30,7 +30,7 @@ author: Amani, Haelrail
 <img src="https://i.imgur.com/lXn3NWJ.png" width="30%"> 
 </p>
 
-[Тотем разразившегося ливня от Niseko:](https://wago.io/lqLj_pm5g):
+[Тотем разразившегося ливня от Niseko:](https://i.imgur.com/3UVq6B8.png):
 {: style="text-align: center;"}
 
 <p align="center">
