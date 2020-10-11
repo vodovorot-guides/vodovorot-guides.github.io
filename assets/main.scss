@@ -16,10 +16,8 @@ nav.navbar {
     text-shadow: 0 0 6px #0098ff;
     font-size: 20px;
     font-weight: 450;
-    border-bottom: 1px solid $header-bg-color;
 }
 .nav-link:hover { // Fix top menu hover
-    border-bottom: 1px solid $grey-color-light;
     color: $text-color;
 }
 .nav-link:visited {
@@ -279,4 +277,13 @@ span.devider {
     width: 100%;
     height: 100%;
     border: 0;
+}
+
+.guide-pic {
+    box-shadow: 0 0 10px 0 black;
+    border: 1px solid transparent; 
+}
+
+.guide-pic:hover {
+    border: 1px solid $brand-color; 
 }
