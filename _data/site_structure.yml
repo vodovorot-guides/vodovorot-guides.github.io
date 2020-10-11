@@ -134,23 +134,23 @@ categories:
   - title: Инфо
     subcategories:
       - title: Сокращения
-        url: /common/abbrevs.html
+        url: /info/abbrevs.html
       - title: Макросы
-        url: /common/macros.html
+        url: /info/macros.html
       - title: Количество целей заклинаний
-        url: /common/target_cap.html
+        url: /info/target_cap.html
       - title: QE Live – гайд
-        url: /common/qelive.html
+        url: /info/qelive.html
         disabled: true
       - title: WarcraftLogs – гайд
-        url: /common/wcl.html
+        url: /info/wcl.html
         disabled: true
       - title: Raidbots – гайд
-        url: /common/raidbots.html
+        url: /info/raidbots.html
         disabled: true
       - title: WoW Analyzer – гайд
-        url: /common/wowa.html
+        url: /info/wowa.html
         disabled: true
       - title: Почему логи хилов не важны
-        url: /common/heallogs.html
+        url: /info/heallogs.html
         disabled: true
