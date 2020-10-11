@@ -9,6 +9,8 @@ author: Amani
 
 * [Alliejelly Elemental](https://wago.io/AsCQQgZeh)
 
+![](https://media.wago.io/screenshots/AsCQQgZeh/5f7ecfeffe4e786a06d84612.png =200x)
+
 <img src="https://media.wago.io/screenshots/AsCQQgZeh/5f7ecfeffe4e786a06d84612.png"> 
 
 * Afenar | Shaman | Shadowlands
