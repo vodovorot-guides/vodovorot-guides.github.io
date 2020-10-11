@@ -7,3 +7,7 @@ toc: true
 ---
 
 В разработке
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/De5MLStsvnk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
