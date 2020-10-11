@@ -14,7 +14,6 @@ categories:
           url: /ele/covenants.html
         - title: Легендарки
           url: /ele/legendaries.html
-          disabled: true
         - title: Проводники
           url: /ele/conduits.html
         - title: Таланты
@@ -59,7 +58,6 @@ categories:
           url: /enh/covenants.html
         - title: Легендарки
           url: /enh/legendaries.html
-          disabled: true
         - title: Проводники
           url: /enh/conduits.html
         - title: Таланты
@@ -104,7 +102,6 @@ categories:
           url: /resto/covenants.html
         - title: Легендарки
           url: /resto/legendaries.html
-          disabled: true
         - title: Проводники
           url: /resto/conduits.html
         - title: Таланты
