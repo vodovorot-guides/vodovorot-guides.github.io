@@ -17,7 +17,7 @@ author: Amani
 
 ## Спековые
 
-{{ site.data.conduits.swirls }} – использование {{ site.data.spells.hst }} или {{ site.data.spells.cbt }} увеличивает эффективность исцеления трех следующих {{ site.data.spells.hs }}, {{ site.data.spells.hw }} или {{ site.data.spells.riptide }} на **20-40%**.
+{{ site.data.conduits.swirls }} – использование {{ site.data.spells.hst }} или {{ site.data.spells.cbt }} увеличивает эффективность исцеления трех следующих способностей {{ site.data.spells.hs }}, {{ site.data.spells.hw }} или {{ site.data.spells.riptide }} на **20-40%**.
 
 * На 7 раге отхил повышается на **29%**.  
 * Поможет для отхила одиночных целей.  
