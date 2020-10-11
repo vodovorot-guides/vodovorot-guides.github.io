@@ -38,6 +38,8 @@ author: "Amani. Оригинал: Gistwiki"
 
 {% include button.html name="Weakauras для Элем Шамана в Препатче" link="/ele/weakauras.html" %}  
 
+<p></p>
+
 # Изменения способностей
 
 • {{ site.data.spells.fe }} – пассивный эффект был полностью переработан. Теперь во время действия {{ site.data.spells.fe }}, наш {{ site.data.spells.fs }} наносит периодический урон на 25% чаще. На 58 уровне добавляется новый эффект, {{ site.data.spells.fe2 }}, который увеличивает длительность всех наложенных {{ site.data.spells.fs }} в два раза, то есть до 36 секунд.
@@ -154,8 +156,6 @@ author: "Amani. Оригинал: Gistwiki"
 
 На АОЕ все немного интереснее. В связи с увеличением базового урона {{ site.data.spells.lvb }} и наличия Азеритового трейта {{ site.data.spells.potential }}, мы станем использовать {{ site.data.spells.lvb }} на АОЕ гораздо активнее.
 Кастуем его без прока в бою против 1-4 целей, и на 5 целей по проку {{ site.data.spells.lava_surge }} (при взятом таланте {{ site.data.spells.mote }}) или при передвижении. Но сокращение длительности {{ site.data.spells.fs }} не позволит поддерживать его более чем на 3 целях.
-
-{% include button.html name="Weakauras для Элем Шамана в Препатче" link="/ele/weakauras.html" %}  
 
 # Характеристики
 
