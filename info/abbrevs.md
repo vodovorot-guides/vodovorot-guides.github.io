@@ -24,7 +24,7 @@ author: Amani
 * **Vers, Верса** – Универсальность.  
 * **Crit, Крит** – Критический удар.  
 * **Mastery, Мастери** – Искусность.  
-* **Spell power, SPD, СПД** – Сила заклинаний.
+* **Spell Power, SP, SPD, СП, СПД** – Сила заклинаний.
 * **Cap, Кап** – Максимальное значение определенного параметра.  
 * **BiS, БиС** – Лучшая вещь, какую можно надеть в данный слот.  
 * **CD, КД** – Время восстановления.  
@@ -32,7 +32,7 @@ author: Amani
 * **HP, ХП** – Уровень здоровья.  
 * **DoT, Дот** – Damage over Time – Способность, наносящая урон в течение времени, например {{ site.data.spells.fs }}.  
 * **HoT, Хот** – Healing over Time – Способность, восстанавливающая здоровье в течение времени, например {{ site.data.spells.riptide }}.  
-* **Каст, Cast** – заклинание, процесс чтения, применения заклинания.  
+* **Cast, Каст** – заклинание, процесс чтения, применения заклинания.  
 * **Interrupt, Интерапт** – прерывание заклинания, например {{ site.data.spells.ws }}.  
 * **Smart Heal, Смарт Хил** – АоЕ заклинания лечения, которые в первую очередь выбирают наиболее раненых союзников, например {{ site.data.spells.ch }}.
 * **Alt, Альт** – второй (третий, четвёртый) и не основной персонаж.  
@@ -66,7 +66,7 @@ author: Amani
 
 * {{ site.data.covenants.vt }} – Vesper Totem, VT, Vesper, Веспер, Тотем Кирий.  
 * {{ site.data.covenants.steward }} – Summon Steward, Steward, Совушек.  
-* {{ site.data.covenants.phial }} – Phial of Serenity, Phial, Фиал, Флакон, ХилкаКирий.  
+* {{ site.data.covenants.phial }} – Phial of Serenity, Phial, Фиал, Флакон, Хилка Кирий.  
 
 * {{ site.data.covenants.ch }} – Chain Harvest, Harvest, CH, Харвест, Жатва, Красная цепнуха.  
 * {{ site.data.covenants.door }} – Door of Shadows, DoS, Телепорт, Врата, ТП Вентиров.  
@@ -76,6 +76,11 @@ author: Amani
 
 * {{ site.data.covenants.ft }} – Fae Transfusion, FT, Fae, ФТ, Трансфьюжен, Чаннел Феечек.  
 * {{ site.data.covenants.soulshape }} – Soulshape, SS, Лисичка, Блинк Феечек.  
+
+* {{ site.data.conduits.dirge }} – Elisian Dirge, ED, Дирж, Панихида.
+* {{ site.data.conduits.fae }} – Essential Extraction, EE, Экстракция.
+* {{ site.data.conduits.wave }} – Tumbling Waves, TW, Прок волны.
+* {{ site.data.conduits.harvest }} – Lavish Harvest, LH, Лавиш харвест, ЛХ.
 
 # Элем
 
