@@ -55,6 +55,9 @@
                     $(this).find('.submenu').hide();
                 })
             });
+        }
+        
+        if ($(window).width() < 576) {
 
             $("header.sticky-top").removeClass("sticky-top");
             $("header.site-header").addClass("smart-scroll");
@@ -69,7 +72,9 @@
                         $('.smart-scroll').removeClass('scrolled-down').addClass('scrolled-up');
                     }
                     else {
-                        $('.smart-scroll').removeClass('scrolled-up').addClass('scrolled-down');
+                        if (last_scroll_top > 60) {
+                            $('.smart-scroll').removeClass('scrolled-up').addClass('scrolled-down');
+                        }
                     }
                     last_scroll_top = scroll_top;
                 });
