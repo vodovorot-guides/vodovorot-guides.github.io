@@ -9,7 +9,7 @@ author: Амани
 
 # Все специализации
 
-* Универсальный маусовер макрос для атакующих заклинаний. Если у вас есть противник под курсором – кинет в него, иначе в вашу цель. Удобно развешивать {{ site.data.spells.fs }} не меняя текущей цели. Можно использовать для  {{ site.data.spells.lb }}, {{ site.data.spells.lvb }}, {{ site.data.spells.purge }} и других заклинаний:
+* Универсальный маусовер макрос для атакующих заклинаний. Если у вас есть противник под курсором – кинет в него, иначе в вашу цель. Удобно развешивать {{ site.data.spells.fs }} не меняя текущей цели. Можно использовать для таких заклинаний как {{ site.data.spells.lb }}, {{ site.data.spells.lvb }}, {{ site.data.spells.purge }} и других:
 ~~~
 #showtooltip  
 /cast [@mouseover,harm,exists][] Огненный шок
@@ -33,7 +33,7 @@ author: Амани
 /targetlasttarget  
 ~~~
 
-* Маусовер макрос для лечащих заклинаний. Можно использовать для {{ site.data.spells.hs }}, {{ site.data.spells.cleance }} и других:  
+* Маусовер макрос для лечащих заклинаний. Можно использовать для таких заклинаний как {{ site.data.spells.hs }}, {{ site.data.spells.cleance }} и других:  
 ~~~
 #showtooltip 
 /cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
