@@ -20,8 +20,14 @@ author: "Amani. Оригинал: Niseko"
 * **Таланты**: <a href="https://shadowlands.wowhead.com/spell=73685" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=108283" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=198838" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=192077" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=157153" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=157154" target="blank" data-wh-icon-size="small" ></a>  [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/restoration/mA9z)  
 
 * **Азерит**: 3x {{ site.data.spells.darkness }} + {{ site.data.spells.shores }} и {{ site.data.spells.spouting }} для хила или {{ site.data.spells.potential }} для урона.
-* **Сущности** такие же как и в 8.3 (подробнее внизу статьи).  
+* **Сущности** такие же как и в 8.3 (подробнее в конце статьи).  
 * **Статы**: Уровень предмета > Критический удар = Универсальность > Искусность = Скорость.
+
+<p></p>
+
+{% include button.html name="Weakauras для Рестор Шамана в Препатче" link="/resto/weakauras.html" %}  
+
+<p></p>
 
 # Изменения способностей и талантов
 
