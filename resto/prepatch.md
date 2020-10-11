@@ -9,9 +9,9 @@ author: "Amani. Оригинал: Niseko"
 
 # Вступление
 
-В сравнении с другими нашими специализациями, Рестор шаман получил наименьшее количество изменений. Несколько новых способностей, один ~~бесполезный~~ талант и изменение соотношения отхила у большинства заклинаний – на этом перечень новинок в препатче заканчивается.
+По сравнении с другими нашими специализациями, Рестор шаман получил наименьшее количество изменений. Несколько новых способностей, один ~~бесполезный~~ талант и изменение соотношения отхила у большинства заклинаний – на этом перечень новинок в препатче заканчивается.
 
-Но несмотря на такой скромный список изменений, есть и приятные моменты. Мы получили повышение урона большинства основных способностей, среди новых заклинаний есть достаточно полезный для рейда {{ site.data.spells.mtt }}, а также {{ site.data.spells.frs }}, который можно использовать и для урона, и для замедления. {{ site.data.spells.eshield }} поможет держать здоровье танка, как и увеличение значений отхила от {{ site.data.spells.hw }} и {{ site.data.spells.hs }}. А в последнем тире талантов мы больше не ограничены одним вариантом – {{ site.data.spells.high_tide }}, а можем выбирать {{ site.data.spells.asc_resto }} или {{ site.data.spells.wellspring }} без ущерба для хпс.
+Но несмотря на такой скромный список изменений, есть и приятные моменты. Мы получили повышение урона большинства основных способностей, среди новых заклинаний есть достаточно полезный для рейда {{ site.data.spells.mtt }}, а также {{ site.data.spells.frs }}, который можно использовать и для урона, и для замедления. {{ site.data.spells.eshield }} поможет держать здоровье танка, как и увеличение значений отхила от способностей {{ site.data.spells.hw }} и {{ site.data.spells.hs }}. А в последнем тире талантов мы больше не ограничены одним вариантом – {{ site.data.spells.high_tide }}, а можем выбирать {{ site.data.spells.asc_resto }} или {{ site.data.spells.wellspring }} без ущерба для хпс.
 
 Главное что нас ждет в препатче – отсутствие порчи. Рестор шаманы собирают корапты на статы, как например {{ site.data.spells.versatile }} или {{ site.data.spells.severe }}, а значит нас ждет достаточно резкое снижение характеристик, по сравнению с 8.3. Но Азеритовые трейты и Сущности Сердца Азерот все еще работают в препатче, хоть и никаких изменений в их выборе не будет.
 
@@ -19,8 +19,8 @@ author: "Amani. Оригинал: Niseko"
 
 * **Таланты**: <a href="https://shadowlands.wowhead.com/spell=73685" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=108283" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=198838" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=192077" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=157153" target="blank" data-wh-icon-size="small" ></a><a href="https://shadowlands.wowhead.com/spell=157154" target="blank" data-wh-icon-size="small" ></a>  [(Ссылка на калькулятор талантов).](https://shadowlands.wowhead.com/talent-calc/shaman/restoration/mA9z)  
 
-* **Азерит**: 3x {{ site.data.spells.darkness }} + {{ site.data.spells.shores }} и {{ site.data.spells.spouting }} для хила или {{ site.data.spells.lvb }} для урона.
-* **Сущности** такие же как и в 8.3.   
+* **Азерит**: 3x {{ site.data.spells.darkness }} + {{ site.data.spells.shores }} и {{ site.data.spells.spouting }} для хила или {{ site.data.spells.potential }} для урона.
+* **Сущности** такие же как и в 8.3 (подробнее внизу статьи).  
 * **Статы**: Уровень предмета > Критический удар = Универсальность > Искусность = Скорость.
 
 # Изменения способностей и талантов
@@ -29,7 +29,7 @@ author: "Amani. Оригинал: Niseko"
 
 • {{ site.data.spells.riptide }} – первоначальный отхил увеличен на **75%** (суммарное количество исцеления увеличилось на **31%**).  
 
-• {{ site.data.spells.torrent }} – увеличивает первоначальных отхил {{ site.data.spells.riptide }} на **20%** вместо **30%**.  
+• {{ site.data.spells.torrent }} – увеличивает первоначальный отхил {{ site.data.spells.riptide }} на **20%** вместо **30%**.  
 
 • {{ site.data.spells.ch }} – отхил увеличен на **10%**, стоимость маны возросла с 25% до 30% от базовой маны.  
 
