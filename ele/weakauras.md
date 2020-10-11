@@ -8,10 +8,8 @@ author: Amani
 [По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/elemental) можно найти список всех WA для Элема в Shadowlands. Не забудьте переключить справа «Expansion Filter» на «Shadowlands Beta»!
 
 * [Alliejelly Elemental](https://wago.io/AsCQQgZeh)
-
-![](https://media.wago.io/screenshots/AsCQQgZeh/5f7ecfeffe4e786a06d84612.png =200x)
-
-<img src="https://media.wago.io/screenshots/AsCQQgZeh/5f7ecfeffe4e786a06d84612.png"> 
+<p align="center" width="70%">
+  <img src="https://media.wago.io/screenshots/AsCQQgZeh/5f7ecfeffe4e786a06d84612.png"> 
 
 * Afenar | Shaman | Shadowlands
 https://wago.io/Afenar_Shaman
