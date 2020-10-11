@@ -13,7 +13,7 @@ author: Amani, Haelrail
 {: style="text-align: center;"}
 
 <p align="center">
-<img src="https://media.wago.io/screenshots/rJhu7HoMM/5de67a9311968835b4d9c948.gif" width="30%"> 
+<img src="/assets/img/afenar_enh.gif" width="30%"> 
 </p>
 
 [Сборка от Publik](https://wago.io/rkxMuyLZX)
