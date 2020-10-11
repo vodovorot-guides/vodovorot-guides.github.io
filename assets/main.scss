@@ -111,50 +111,7 @@ a.dropdown-item:visited {
     margin-right: 5px;
 }
 
-// Side menu for all pages within a category. Lists all siblings
-.side-menu {
-    //background-color: $grey-color-dark;
-    margin-left: $spacing-unit;
-    margin-bottom: $spacing-unit;
-    padding-top: $spacing-unit / 2;
-    padding-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2 ;
-    position: fixed;
-    right: 5%;
-    border-left: 3px solid $grey-color;
-    h3 {
-        @include relative-font-size(1.425);
 
-        @include media-query($on-laptop) {
-            @include relative-font-size(1.275);
-        }
-    }
-}
-@media only screen and (max-width: 1150px) {
-    .side-menu { // hide side menu if we have to assume it would probably overlap the content
-        display: none;
-    }
-}
-@media only screen and (min-width: 1300px) {
-    .side-menu { // adjust position to be closer to content
-        right: 10%;
-    }
-}
-@media only screen and (min-width: 1500px) {
-    .side-menu { // adjust position to be closer to content
-        right: 15%;
-    }
-}
-@media only screen and (min-width: 1700px) {
-    .side-menu { // adjust position to be closer to content
-        right: 20%;
-    }
-}
-@media only screen and (min-width: 1950px) { // +50px to ensure no overlap
-    .side-menu { // adjust position to be closer to content
-        right: 25%;
-    }
-}
 pre code, code { // readd this to override bootstraps once again
     color: $text-color;
 }
@@ -199,26 +156,35 @@ ul {
     //background-color: $grey-color-dark;
     margin-left: $spacing-unit;
     margin-bottom: $spacing-unit;
+    margin-top: 20px;
     padding-top: $spacing-unit / 2;
     padding-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2 ;
     position: fixed;
     right: 5%;
     border-left: 3px solid $grey-color;
+    h3 {
+        @include relative-font-size(1.425);
+
+        @include media-query($on-laptop) {
+            @include relative-font-size(1.275);
+        }
+    }
 }
-@media only screen and (max-width: 1330px) {
+
+@media only screen and (max-width: 1350px) {
     .side-menu { // hide side menu if we have to assume it would probably overlap the content
         display: none;
     }
 }
 @media only screen and (min-width: 1500px) {
     .side-menu { // adjust position to be closer to content
-        right: 10%;
+        right: 9%;
     }
 }
 @media only screen and (min-width: 1700px) {
     .side-menu { // adjust position to be closer to content
-        right: 15%;
+        right: 14%;
     }
 }
 @media only screen and (min-width: 1950px) { // +50px to ensure no overlap

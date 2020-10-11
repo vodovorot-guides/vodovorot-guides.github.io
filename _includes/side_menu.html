@@ -7,11 +7,19 @@
     {%- if sub_sub_category.url == page.url -%}
 
       <div class="side-menu">
-        <h3>{{- main_category.title -}}</h3>
+        <h3>{{- main_category.title -}} - Гайд</h3>
         <ul>
 
           {%- for sibling in sub_category.subsubcategories -%}
+            {%- if sibling.url == page.url -%}
+            <li><b><a class="side-menu-link" href="{{- sibling.url -}}">{{- sibling.title -}}</a></b></li>
+            {%- else -%}
+            {%- if sibling.disabled == true -%}
+            <li><span class="side-menu-link" style="color:rgb(158, 150, 137)">{{- sibling.title -}}</span></li>
+            {%- else -%}
             <li><a class="side-menu-link" href="{{- sibling.url -}}">{{- sibling.title -}}</a></li>
+            {%- endif -%}
+            {%- endif -%}
           {%- endfor -%}
 
         </ul>
