@@ -25,7 +25,7 @@ categories:
         - title: Статы и BiS вещи
           url: /ele/stats_and_gear.html
           disabled: true
-        - title: Расходные предметы
+        - title: Расходники
           url: /ele/consumables.html
           disabled: true
       - title: Weakauras
@@ -69,7 +69,7 @@ categories:
         - title: Статы и BiS вещи
           url: /enh/stats_and_gear.html
           disabled: true
-        - title: Расходные предметы
+        - title: Расходники
           url: /enh/consumables.html
           disabled: true
       - title: Weakauras
@@ -113,7 +113,7 @@ categories:
         - title: Статы и BiS вещи
           url: /resto/stats_and_gear.html
           disabled: true
-        - title: Расходные предметы
+        - title: Расходники
           url: /resto/consumables.html
           disabled: true
       - title: Weakauras
