@@ -107,7 +107,7 @@ author: Amani
 /use [@mouseover,nodead,harm]Огненный шок;[@mouseover,nodead,help]Быстрина;[@target,nodead,harm]Огненный шок;[@target,nodead,help][@player] Быстрина
 ~~~
 
-* Маусовер для атакующих заклинания для Рестора, позволяет атаковать даже в цель союзника под вашим маусовером. Не рекомендуется использовать в ПвП:  
+* Маусовер для атакующих заклинания для Рестора, позволяет атаковать даже в цель союзника под маусовером. Не рекомендуется использовать в ПвП:  
 ~~~
 #showtooltip 
 /cast [@mouseover, exists, harm, nodead] [@mouseovertarget, exists, harm, nodead] [@targettarget, exists, harm, nodead] [exists, harm, nodead] Молния
