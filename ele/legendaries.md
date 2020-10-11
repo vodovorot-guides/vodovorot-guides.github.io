@@ -8,4 +8,4 @@ toc: true
 
 В разработке
 
-[![test1](https://img.youtube.com/De5MLStsvnk.jpg)](https://youtu.be/De5MLStsvnk "test2")
+[![test1](/assets/img/legendary_video.png)](https://youtu.be/De5MLStsvnk)
