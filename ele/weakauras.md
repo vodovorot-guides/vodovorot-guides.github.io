@@ -9,7 +9,7 @@ author: Haelrail, Amani
 
 Ниже представлены сборки WA, обновленные под Shadowlands, и которые точно работают на русской версии игры:
 
-[От Puer](https://wago.io/oYKpx6zVN)
+<div align="center">[От Puer](https://wago.io/oYKpx6zVN)</div>
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/oYKpx6zVN/5f736991f0043c08b974051b.gif" width="30%"> 
