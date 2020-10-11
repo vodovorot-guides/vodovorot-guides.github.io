@@ -19,7 +19,7 @@ author: Amani
 
 Если вам интересно узнать про главную особенность будущего дополнения, а именно **Ковенанты**, то рекомендуем заглянуть в следующую статью:
 
-{% include button.html name="Ковенанты для Энх Шамана" link="/resto/covenants.html" %}  
+{% include button.html name="Ковенанты для Рестор Шамана" link="/resto/covenants.html" %}  
 
 <p></p>
 
