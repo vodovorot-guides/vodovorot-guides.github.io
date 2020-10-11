@@ -253,3 +253,12 @@ span.devider {
 .guide-pic:hover {
     border: 1px solid $brand-color; 
 }
+.guide-btn {
+    color: $brand-color;
+    border-color: $brand-color;
+}
+
+.guide-btn:hover {
+    background-color: $brand-color;
+    border-color: $brand-color;
+}
