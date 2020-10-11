@@ -3,7 +3,7 @@ title: Weakauras для Элем Шамана
 layout: page
 last_update: 2020-10-11
 wow: 9.0.1
-author: Haelrail, Amani 
+author: Amani, Haelrail
 ---
 [По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/elemental) можно найти список всех WA для Элема в Shadowlands. Не забудьте переключить справа **«Expansion Filter»** на **«Shadowlands Beta»**!
 
