@@ -27,7 +27,7 @@ author: Amani, Haelrail
 {: style="text-align: center;"}
 
 <p align="center">
-<img src="https://media.wago.io/screenshots/sJy_uW-Sq/5f5cd077eb4e921af0b8415f.png" width="30%"> 
+<img src="https://i.imgur.com/1NGL8mR.png" width="30%"> 
 </p>
 
 [Напоминание на обновление инчантов после смерти](https://wago.io/ImbueWarning)
