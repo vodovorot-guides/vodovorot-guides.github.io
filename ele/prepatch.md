@@ -36,6 +36,8 @@ author: "Amani. Оригинал: Gistwiki"
 
 * **Статы**: Критический удар = Скорость = Универсальность >>> Искусность
 
+<p></p>
+
 {% include button.html name="Weakauras для Элем Шамана в Препатче" link="/ele/weakauras.html" %}  
 
 <p></p>
