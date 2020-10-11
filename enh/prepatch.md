@@ -37,6 +37,12 @@ author: "Amani. Оригинал: Wordup"
 * **Статы**: Скорость > Искусность (АОЕ) > Крит = Универсальность > Искусность (Соло цель).
 * Не забывайте использовать {{ site.data.spells.crush }} как филлер даже в бою против одной цели.
 
+<p></p>
+
+{% include button.html name="Weakauras для Энх Шамана в Препатче" link="/enh/weakauras.html" %}  
+
+<p></p>
+
 # Изменения способностей
 
 • {{ site.data.spells.mw }} – замена Энергии Водоворота. {{ site.data.spells.mw }} прокает и от {{ site.data.spells.ww }}, и от способностей, увеличивая шанс прока за каждую пораженную цель. Тратятся эти стаки на {{ site.data.spells.lb }} в одну цель, {{ site.data.spells.cl }} на АОЕ и на {{ site.data.spells.hs }} или {{ site.data.spells.ch }} для отхила. А вот на {{ site.data.spells.hex }} стаки {{ site.data.spells.mw }} не работают. Урон и отхил увеличивается максимум от 5 стаков, но накопить можно вплоть до 10.
