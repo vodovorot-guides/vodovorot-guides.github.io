@@ -8,6 +8,4 @@ toc: true
 
 В разработке
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/De5MLStsvnk" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![test1](https://img.youtube.com/De5MLStsvnk.jpg)](https://youtu.be/De5MLStsvnk "test2")
