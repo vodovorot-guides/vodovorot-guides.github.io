@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  <div class="title">
-    <h1 class="title-heading">{{- site.description_long | escape -}}</h1>
-  </div>
+  <!-- <div class="title"> -->
+  <!--   <h1 class="title-heading">{{- site.description_long | escape -}}</h1> -->
+  <!-- </div> -->
   {%- if site.posts.size > 0  and paginator.previous_page == nil -%}
     <ul class="post-list">
       {%- assign post = paginator.posts | first -%}
@@ -23,6 +23,11 @@ layout: default
           </h3>
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
+            {%- if post.excerpt -%}
+            <a href="{{ post.url | relative_url }}">
+              Читать далее
+            </a>
+            {%- endif -%}
           {%- endif -%}
         </li>
     </ul>
@@ -66,7 +71,14 @@ layout: default
             </a>
           </h3>
           {%- if site.show_excerpts -%}
+          <div class="post-excerpt">
             {{ post.excerpt }}
+          </div>
+            {%- if post.excerpt != post.content -%}
+            <a href="{{ post.url | relative_url }}">
+              Читать далее
+            </a>
+            {%- endif -%}
           {%- endif -%}
         </li>
       {%- endfor -%}

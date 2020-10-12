@@ -293,7 +293,7 @@ img {
 
 .post-link {
   display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.6);
 }
 
 
@@ -361,3 +361,47 @@ img {
   }
 }
 
+
+.post-excerpt {
+
+  h1 {
+    padding-top: 200px;
+    margin-top: -200px;
+    @include relative-font-size(1.5);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.3);
+    }
+  }
+
+  h2 {
+    padding-top: 200px;
+    margin-top: -200px;
+    @include relative-font-size(1.3);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.0);
+    }
+  }
+
+
+  h3 {
+    padding-top: 200px;
+    margin-top: -200px;
+    @include relative-font-size(1.2);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.0);
+    }
+  }
+
+  h4 {
+    padding-top: 200px;
+    margin-top: -200px;
+    @include relative-font-size(1.15);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.0);
+    }
+  }
+}
