@@ -95,7 +95,7 @@ author: "Amani. Оригинал: Gistwiki"
 
 Например, если использовать {{ site.data.spells.sk }}, а затем {{ site.data.spells.ecs }} и {{ site.data.spells.lb }}, то поглотится один стак {{ site.data.spells.sk }}, вылетит обычная {{ site.data.spells.lb }} и следом за ней дублированная {{ site.data.spells.lb }}, которая получит усиление за счет оставшегося стака от {{ site.data.spells.sk }}. Однако если использовать {{ site.data.spells.sk }}, потом сразу же {{ site.data.spells.lb }}, и только потом {{ site.data.spells.ecs }}, то дублированная {{ site.data.spells.lb }} будет не усилена баффом от {{ site.data.spells.sk }}.
 
-> **Важно!** На Бете на данный момент есть баг, из-за которого повторная {{ site.data.spells.lb }} от {{ site.data.spells.sk }} поглощает бафф от {{ site.data.spells.ecs }}. Но на ПТР препатча все работает так, как описано выше.
+> **Важно!** На Бете на данный момент есть баг, из-за которого повторная {{ site.data.spells.lb }} от {{ site.data.spells.ecs }} поглощает бафф от {{ site.data.spells.sk }}. Но на ПТР препатча все работает так, как описано выше.
 
 На АОЕ все еще интереснее. Так как дублированное заклинание вылетает не сразу, у нас есть возможность скастовать на одно {{ site.data.spells.quake }} больше при использовании {{ site.data.spells.sk }} и {{ site.data.spells.ecs }}. Порядок действий будет следующим:
 
