@@ -5,6 +5,10 @@ helmet: <a href="https://shadowlands.wowhead.com/item=172325" target="blank">Ш�
 crit_scroll: <a href="https://shadowlands.wowhead.com/item=173161" target="blank">Депеша критического удара</a>
 reminder_item: <a href="https://shadowlands.wowhead.com/item=183346" target="blank">Воспоминание о напоминании предков</a>
 
+# Legion
+leg_norgannon: <a href="https://shadowlands.wowhead.com/item=132455" target="blank">Предвидение Норганнона</a>
+
+
 # General
 jailer: <a href="https://shadowlands.wowhead.com/spell=339058" target="blank">Третье око Тюремщика</a>
 sacrifice: <a href="https://shadowlands.wowhead.com/spell=338743" target="blank">Жертвование здоровьем</a>
