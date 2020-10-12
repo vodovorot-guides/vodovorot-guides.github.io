@@ -5,7 +5,7 @@ last_update: 2020-10-11
 wow: 9.0.1
 author: Amani
 ---
-## Гайд по Рестор Шаману в Shadowlands!
+## Гайд по Шаману Исцеления в Shadowlands!
 
 > **Об авторе:** этот гайд написан **Amani**, админом официального шаманского Discord-сервера [«Водоворот»](https://discord.gg/8Bag6kT), а также автором видео на [YouTube канале](https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg) и многих других руководств по шаману. 
 
