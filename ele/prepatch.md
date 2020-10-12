@@ -138,17 +138,23 @@ author: "Amani. Оригинал: Gistwiki"
 
 **Таланты против одной цели, вариант первый:** 
 
-![](/assets/img/talents_prepatch_st1.png)
+<p align="center">
+<img src="/assets/img/talents_prepatch_st1.png"> 
+</p>
 
 **Таланты против одной цели, вариант второй:** 
 
-![](/assets/img/talents_prepatch_st2.png)
+<p align="center">
+<img src="/assets/img/talents_prepatch_st2.png"> 
+</p>
 
 Первый вариант через {{ site.data.spells.ecs }} и {{ site.data.spells.sk }} позволяет нам достаточно сильно бурстить в одну цель раз в минуту, а второй вариант через {{ site.data.spells.eb }} и {{ site.data.spells.asc_ele }} дает ощутимый бурст раз в 3 минуты (который отлично сочетается с азеритовыми трейтами {{ site.data.spells.potential }}). Но вариант через {{ site.data.spells.asc_ele }} зависит от времени боя, то есть на 3:30 он может быть сильнее билда через {{ site.data.spells.sk }}, а на 5:50 уже слабее.
 
 **Таланты на АОЕ:**
 
-![](/assets/img/talents_prepatch_aoe1.png)
+<p align="center">
+<img src="/assets/img/talents_prepatch_aoe1.png"> 
+</p>
 
 Данный набор талантов позволяет достаточно сильно бурстить раз в минуту за счет {{ site.data.spells.ecs }} и {{ site.data.spells.sk }}. Однако, талант {{ site.data.spells.afs }} в целом дает больше кастов {{ site.data.spells.quake }}, но они растянуты по времени. Аналогичная ситуация и с талантами 4 тира. {{ site.data.spells.storm }} ориентирован на бурст урон, в отличие от {{ site.data.spells.mote }}.
 
