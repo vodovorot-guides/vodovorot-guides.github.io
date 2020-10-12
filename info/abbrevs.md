@@ -174,7 +174,7 @@ author: Amani
 ## Таланты
 
 * {{ site.data.spells.torrent }} – Torrent, Торрент.  
-* {{ site.data.spells.undulation }} – Undulation, Ундулейшн.  
+* {{ site.data.spells.undulation }} – Undulation, UD, Ундулейшн.  
 * {{ site.data.spells.ul }} – Unleash Life, UL, УЛ, Анлиш.  
 * {{ site.data.spells.eote_resto }} – Echo of the Elements, EotE, Echo, Эхо.  
 * {{ site.data.spells.deluge }} – Deluge, Делюга.  
