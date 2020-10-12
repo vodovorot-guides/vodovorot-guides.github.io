@@ -55,11 +55,13 @@
 
              $(".navbar-collapse").on("show.bs.collapse", function () {
                  $("body").css("overflow", "hidden");
+                 $("header").css("overflow", "auto");
                  //$("header").css("height", "100%");
              });
 
              $(".navbar-collapse").on("hide.bs.collapse", function () {
                  $("body").css("overflow", "auto");
+                 $("header").css("overflow", "hidden");
                  //$("header").css("height", "60px");
              });
 
