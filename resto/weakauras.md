@@ -34,7 +34,7 @@ author: Amani, Haelrail
 {: style="text-align: center;"}
 
 <p align="center">
-<img src="https://i.imgur.com/3UVq6B8.png" width="30%"> 
+<img src="https://i.imgur.com/k5DWJ1H.png" width="30%"> 
 </p>
 
 
