@@ -17,7 +17,6 @@ title: Stormkeeper
 email: d.belyakin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Добро пожаловать на Stormkeeper.ru – специализированный ресурс для Шаманов в World of Warcraft.
-  <p></p>
   Здесь вы можете найти большое количество гайдов и руководств, которые подготовлены для вас опытными шаманами с Discord-сервера «Водоворот» при поддержке таких сообщесттв как «Earthshrine» и «Ancestral Guidance».
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
