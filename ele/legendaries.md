@@ -78,10 +78,6 @@ author: Amani
 * Слоты: Пояс, Ступни.
 
 # Только для Элема
-eogs: <a href="https://shadowlands.wowhead.com/spell=336215" target="blank">Отголоски Великого Раскола</a>
-ee: <a href="https://shadowlands.wowhead.com/spell=336730" target="blank">Равновесие стихий</a>
-fire: <a href="https://shadowlands.wowhead.com/spell=336734" target="blank">Огненная гибель “Усмирителя небес”</a>
-lava: <a href="https://shadowlands.wowhead.com/spell=336063" target="blank">Всплеск лавы говорящего с ветром</a>
 
 {{ site.data.legend.eogs }} — аналог  легендарки из Legion – {{ site.data.legend.leg_eogs }}, только там {{ site.data.spells.quake }} становилось бесплатным под баффом. Сейчас нам необходимо после {{ site.data.spells.es }} успеть набрать 60 ед. Энергии Водоворота за 12 секунд, чтобы использовать {{ site.data.spells.quake }}. Но тем не менее на данный момент это практически единственный наш выбор на АоЕ и в Мифик+, особенно если есть приоритетная цель для способности {{ site.data.spells.es }}.  
 * Источник: Подземелье Та Сторона – Мве'зала. 
