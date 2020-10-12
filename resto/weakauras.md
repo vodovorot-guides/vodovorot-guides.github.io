@@ -9,28 +9,28 @@ author: Amani, Haelrail
 
 Ниже представлены сборки WA, обновленные под Shadowlands, и которые точно работают на русской версии игры:
 
-[Сборка от Afenar (только для 1920х1080):](https://wago.io/Rshaman_AfenarUI):
+[Сборка от Afenar (только для 1920х1080):](https://wago.io/Rshaman_AfenarUI)
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/Bkq2WSszM/5ce8d59538f58d0c0e4ac12f.gif" width="30%"> 
 </p>
 
-[Сборка от Publik](https://wago.io/rJKNS-LZ7):
+[Сборка от Publik](https://wago.io/rJKNS-LZ7)
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/rJKNS-LZ7/5f72bd6f47448614ab8d4dfb.png" width="30%"> 
 </p>
 
-[Талант Прилив от Niseko:](https://wago.io/AsCQQgZeh):
+[Талант Прилив от Niseko:](https://wago.io/AsCQQgZeh)
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://i.imgur.com/lXn3NWJ.png" width="30%"> 
 </p>
 
-[Тотем разразившегося ливня от Niseko:](https://wago.io/lqLj_pm5g):
+[Тотем разразившегося ливня от Niseko:](https://wago.io/lqLj_pm5g)
 {: style="text-align: center;"}
 
 <p align="center">
