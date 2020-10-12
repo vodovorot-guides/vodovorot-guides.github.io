@@ -148,7 +148,9 @@ author: "Amani. Оригинал: Gistwiki"
 <img src="/assets/img/talents_prepatch_st2.png" width="100%"> 
 </p>
 
-Первый вариант через {{ site.data.spells.ecs }} и {{ site.data.spells.sk }} позволяет нам достаточно сильно бурстить в одну цель раз в минуту, а второй вариант через {{ site.data.spells.eb }} и {{ site.data.spells.asc_ele }} дает ощутимый бурст раз в 3 минуты (который отлично сочетается с азеритовыми трейтами {{ site.data.spells.potential }}). Но вариант через {{ site.data.spells.asc_ele }} зависит от времени боя, то есть на 3:30 он может быть сильнее билда через {{ site.data.spells.sk }}, а на 5:50 уже слабее.
+Первый вариант через {{ site.data.spells.ecs }} и {{ site.data.spells.sk }} позволяет нам достаточно сильно бурстить в одну цель раз в минуту, а второй вариант через {{ site.data.spells.eb }} и {{ site.data.spells.asc_ele }} дает ощутимый бурст раз в 3 минуты (который отлично сочетается с азеритовыми трейтами {{ site.data.spells.potential }}). Но вариант через {{ site.data.spells.asc_ele }} зависит от времени боя, то есть на 3:30 он может быть сильнее билда через {{ site.data.spells.sk }}, а на 5:50 уже слабее.  
+
+Талант {{ site.data.spells.eb }} может браться и без {{ site.data.spells.asc_ele }}, но по грубым тестам он показывает результат хуже, чем {{ site.data.spells.ecs }} в сочетании с талантом {{ site.data.spells.sk }}. Но на препатче это не так важно, и ничто не помешает вам его использовать.
 
 **Таланты на АОЕ:**
 
