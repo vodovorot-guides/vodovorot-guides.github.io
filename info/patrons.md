@@ -6,7 +6,9 @@ wow: 9.0.1
 author: Amani
 ---
 
-> Здесь будет список поддержавших проект.
+**Поддержавшие проект:**
+
+* **Царап**
 
 **Над сайтом работают:**
 
@@ -20,7 +22,7 @@ author: Amani
 
 * **Sorumond**
 * **Shikki**
-* **Sozzin**
+* **Sozzzin**
 * **Marhosias**
 * **Haelrail**
 * **Katana**
