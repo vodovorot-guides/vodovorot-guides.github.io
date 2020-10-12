@@ -1,7 +1,7 @@
 ---
 title: Рестор в препатче Shadowlands
 layout: page
-last_update: 2020-10-03 
+last_update: 2020-10-12 
 wow: 9.0.1
 toc: true
 author: "Amani. Оригинал: Niseko"
