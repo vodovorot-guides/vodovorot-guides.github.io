@@ -94,3 +94,7 @@ author: Amani
 {{ site.data.legend.lava }} — крайне сомнительная легендарка. Дает прок {{ site.data.spells.lava_surge }} и усиливает {{ site.data.spells.lvb }} после каждого применения {{ site.data.spells.es }}, но по эффективности это проигрывает всем другим легендаркам Элема.
 * Источник: Мировой босс – Валинор. 
 * Слоты: Ступни, Спина.
+
+# Видео-обзор всех легендарок
+
+{% include youtube.html id="De5MLStsvnk" %}
