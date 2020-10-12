@@ -67,16 +67,12 @@ author: Amani
 * {{ site.data.covenants.vt }} – Vesper Totem, VT, Vesper, Веспер, Тотем Кирий.  
 * {{ site.data.covenants.steward }} – Summon Steward, Steward, Совушек.  
 * {{ site.data.covenants.phial }} – Phial of Serenity, Phial, Фиал, Флакон, Хилка Кирий.  
-
 * {{ site.data.covenants.ch }} – Chain Harvest, Harvest, CH, Харвест, Жатва, Красная цепнуха.  
 * {{ site.data.covenants.door }} – Door of Shadows, DoS, Телепорт, Врата, ТП Вентиров.  
-
 * {{ site.data.covenants.pw }} – Primordial Wave, Pwave, PW, ПВ, Вейв, Волна Некров.  
 * {{ site.data.covenants.fleshcraft }} – Fleshcraft, FC, Флешкрафт, ФК, Щит Некров.  
-
 * {{ site.data.covenants.ft }} – Fae Transfusion, FT, Fae, ФТ, Трансфьюжен, Чаннел Феечек.  
 * {{ site.data.covenants.soulshape }} – Soulshape, SS, Лисичка, Блинк Феечек.  
-
 * {{ site.data.conduits.dirge }} – Elisian Dirge, ED, Дирж, Панихида.
 * {{ site.data.conduits.fae }} – Essential Extraction, EE, Экстракция.
 * {{ site.data.conduits.wave }} – Tumbling Waves, TW, Прок волны.
