@@ -16,7 +16,7 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/oYKpx6zVN/5f736991f0043c08b974051b.gif" width="30%"> 
 </p>
 
-[Сборка от Afenar:](https://wago.io/Afenar_Shaman)
+[Сборка от Afenar (только для 1920х1080):](https://wago.io/Afenar_Shaman)
 {: style="text-align: center;"}
 
 <p align="center">
