@@ -51,7 +51,7 @@ button.navbar-toggler {
         position: relative;
     }
     .navbar .nav-item > .dropdown-menu { display: none; }
-    .navbar .nav-item:hover .nav-link{ color: #fff;  }
+    .navbar .nav-item:hover { color: #fff;  }
     .navbar .nav-item:hover > .dropdown-menu {  display: block; }    
     .navbar .nav-item > .dropdown-menu{ margin-top:0; }
 
@@ -227,10 +227,6 @@ ul {
         list-style-type: square;
     }
 
-    ul > li:hover > ul {
-        color: $brand-color;
-    }
-
     .nav-link {
         text-shadow: none;
         font-weight: 400;
@@ -239,6 +235,10 @@ ul {
         font-size: 16px;
         display: unset;
         padding: 0;
+    }
+
+    .nav-link:hover {
+        color: #fff;
     }
     .nav-link.active {
         background-color: transparent;
