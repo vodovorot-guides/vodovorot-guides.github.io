@@ -9,7 +9,7 @@ author: Amani, Haelrail
 
 Ниже представлены сборки WA, обновленные под Shadowlands, и которые точно работают на русской версии игры:
 
-[Сборка от Afenar (только для 1920х1080)](https://wago.io/Rshaman_AfenarUI):
+[Сборка от Afenar (только для 1920х1080):](https://wago.io/Rshaman_AfenarUI):
 {: style="text-align: center;"}
 
 <p align="center">
