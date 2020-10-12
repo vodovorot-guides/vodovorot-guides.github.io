@@ -163,7 +163,7 @@ categories:
       - title: Почему логи хилов не важны
         url: /info/heallogs.html
         disabled: true
-        divided: true
       - title: Авторы и благодарности
         url: /info/patrons.html
         disabled: true
+        divided: true
