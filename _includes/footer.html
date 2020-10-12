@@ -4,21 +4,18 @@
   <div class="wrapper">
 
     <div class="d-flex justify-contend-between">
-      <!-- <div class="footer-col footer-col-1"> -->
         <div class="col">
         <a href="{{ site.discord_invite }}" target="blank">
           <img src="{{ '/assets/img/logos/discord.png' | relative_url }}" class="float-left" alt="Водоворот" style="vertical-align: text-top;"/>
         </a>
       </div>
 
-      <!-- <div class="footer-col footer-col-2"> -->
         <div class="col">
         <a href="https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg">
           <img src="{{ '/assets/img/logos/youtube.png' | relative_url }}" class="mx-auto d-block" alt="Amani Youtube" style="vertical-align: text-top;" />
         </a>
       </div>
 
-      <!-- <div class="footer-col footer-col-3"> -->
         <div class="col">
         <a href="https://www.patreon.com/amani_vodovorot">
           <img src="/assets/img/logos/patreon-long.png" alt="Patreon" class="float-right" style="vertical-align: text-top;"/>
@@ -55,6 +52,17 @@
                     $(this).find(".submenu").hide();
                 })
             });
+
+             $(".navbar-collapse").on("show.bs.collapse", function () {
+                 $("body").css("overflow", "hidden");
+                 //$("header").css("height", "100%");
+             });
+
+             $(".navbar-collapse").on("hide.bs.collapse", function () {
+                 $("body").css("overflow", "auto");
+                 //$("header").css("height", "60px");
+             });
+
         } else {
             $(".navbar-nav > .nav-item > a.nav-link").click(function(e){
                 window.location = $(this).attr("href");
