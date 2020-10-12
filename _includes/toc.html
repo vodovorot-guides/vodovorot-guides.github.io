@@ -67,9 +67,12 @@
         {% unless include.item_class == blank %}
             {% capture listItemClass %}{:.{{ include.item_class | replace: '%level%', headerLevel }}}{% endcapture %}
         {% endunless %}
+        {% unless include.a_class == blank %}
+            {% capture aItemClass %}{:.{{ include.a_class }}}{% endcapture %}
+        {% endunless %}
 
         {% capture my_toc %}{{ my_toc }}
-{{ space }}{{ listModifier }} {{ listItemClass }} [{% if include.sanitize %}{{ header | strip_html }}{% else %}{{ header }}{% endif %}](#{{ html_id }}){% endcapture %}
+{{ space }}{{ listModifier }} {{ listItemClass }} [{% if include.sanitize %}{{ header | strip_html }}{% else %}{{ header }}{% endif %}](#{{ html_id }}){{ aItemClass }}{% endcapture %}
 
     {% endfor %}
 

@@ -31,6 +31,7 @@ layout: default
     {%- endif -%}
   </header>
 
+  {%- assign page_content=content -%}
   <!-- {%- include side_menu.html -%} -->
   <div class="post-content">
     {%- if page.toc == true -%}
@@ -41,6 +42,5 @@ layout: default
     {%- endif -%}
     {{ content }}
   </div>
-
 
 </article>

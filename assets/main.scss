@@ -154,15 +154,16 @@ ul {
 // Side menu for all pages within a category. Lists all siblings
 .side-menu {
     //background-color: $grey-color-dark;
-    margin-left: $spacing-unit;
-    margin-bottom: $spacing-unit;
-    margin-top: 20px;
-    padding-top: $spacing-unit / 2;
-    padding-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2 ;
-    position: fixed;
-    right: 5%;
+    margin-left: $spacing-unit !important;
+    margin-bottom: $spacing-unit !important;
+    margin-top: 20px !important;
+    padding-top: $spacing-unit / 2 !important;
+    padding-bottom: $spacing-unit / 2 !important;
+    padding-left: $spacing-unit / 2 !important;
+    position: fixed !important;
+    right: 1% !important;
     border-left: 3px solid $grey-color;
+    width: 360px !important;
     h3 {
         @include relative-font-size(1.425);
 
@@ -172,26 +173,81 @@ ul {
     }
 }
 
-@media only screen and (max-width: 1350px) {
+@media only screen and (max-width: 1590px) {
     .side-menu { // hide side menu if we have to assume it would probably overlap the content
-        display: none;
+        display: none !important;
     }
 }
-@media only screen and (min-width: 1500px) {
+
+
+@media only screen and (min-width: 1670px) {
     .side-menu { // adjust position to be closer to content
-        right: 9%;
+        right: 4% !important;
     }
 }
-@media only screen and (min-width: 1700px) {
+
+@media only screen and (min-width: 1750px) {
     .side-menu { // adjust position to be closer to content
-        right: 14%;
+        right: 6% !important;
     }
 }
+
 @media only screen and (min-width: 1950px) { // +50px to ensure no overlap
     .side-menu { // adjust position to be closer to content
-        right: 20%;
+        right: 10% !important;
     }
 }
+
+@media only screen and (min-width: 2150px) { // +50px to ensure no overlap
+    .side-menu { // adjust position to be closer to content
+        right: 14% !important;
+    }
+}
+
+@media only screen and (min-width: 2350px) { // +50px to ensure no overlap
+    .side-menu { // adjust position to be closer to content
+        right: 18% !important;
+    }
+}
+
+@media only screen and (min-width: 2550px) { // +50px to ensure no overlap
+    .side-menu { // adjust position to be closer to content
+        right: 18% !important;
+    }
+}
+
+@media only screen and (min-width: 2750px) { // +50px to ensure no overlap
+    .side-menu { // adjust position to be closer to content
+        right: 18% !important;
+    }
+}
+
+.side-toc {
+    ul {
+        list-style-type: square;
+    }
+
+    ul > li:hover > ul {
+        color: $brand-color;
+    }
+
+    .nav-link {
+        text-shadow: none;
+        font-weight: 400;
+        text-decoration: none;
+        color: $brand-color;
+        font-size: 16px;
+        display: unset;
+        padding: 0;
+    }
+    .nav-link.active {
+        background-color: transparent;
+        color: $brand-color;
+        font-weight: bolder;
+    }
+    display: block;
+}
+
 
 pre code, code { // readd this to override bootstraps once again
     color: $text-color;

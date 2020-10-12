@@ -35,6 +35,10 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js"></script>
 
   <script>
+    $(window).click(function() {
+        $(".collapse").collapse("hide");
+    });
+    
     $(document).on("click", ".dropdown-menu", function (e) {
         e.stopPropagation();
     });
@@ -61,7 +65,7 @@
 
              $(".navbar-collapse").on("hide.bs.collapse", function () {
                  $("body").css("overflow", "auto");
-                 $("header").css("overflow", "hidden");
+                 $("header").css("overflow", "");
                  //$("header").css("height", "60px");
              });
 
