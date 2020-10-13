@@ -16,7 +16,7 @@
 title: Stormkeeper 
 email: d.belyakin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Гайды для Шаманов в World of Warcraft.
+  Гайды для Шаманов в World of Warcraft
 description_long: >-
   Добро пожаловать на Stormkeeper.ru – специализированный ресурс для Шаманов в World of Warcraft!
 baseurl: "" # the subpath of your site, e.g. /blog
