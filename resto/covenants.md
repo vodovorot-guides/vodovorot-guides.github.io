@@ -82,7 +82,7 @@ author: Amani
 {{ site.data.covenants.pw }} – излечивает одну цель и накладывает на неё {{ site.data.spells.riptide }}. Применяется мгновенно. Время восстановления 45 сек. Следующая {{ site.data.spells.hw }} также применится ко всем целям под {{ site.data.spells.riptide }} с 60% эффективности.
 
 * Отлично сочетается с легендаркой {{ site.data.legend.riptide }}, увеличивая количество отхиленных целей с помощью {{ site.data.spells.hw }}.  
-* Также сочетается с талантами {{ site.data.spells.eote_resto }} (больше {{ site.data.spells.riptide }} перед кастом {{ site.data.covenants.pw }}) и {{ site.data.legends.deluge }}.  
+* Также сочетается с талантами {{ site.data.spells.eote_resto }} (больше {{ site.data.spells.riptide }} перед кастом {{ site.data.covenants.pw }}) и {{ site.data.spells.deluge }}.  
 * Отлично заряжает {{ site.data.spells.cbt }}, особенно с проводником {{ site.data.conduits.swirls }}.
 * Лучше всего себя показывает во время боя, когда рейд стоит далеко друг от друга.  
 * Полностью отсутствует дамаг потенциал. При применении к противнику накладывает {{ site.data.spells.fs }}, но {{ site.data.spells.lvb }} не дублируется.
