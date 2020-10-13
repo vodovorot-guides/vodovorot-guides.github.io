@@ -28,4 +28,4 @@ author: Amani
 * **Haelrail**
 * **Katana**
 * **Kruzer**
-* **Всему Discord серверу [«Водоворот»**](https://discordapp.com/invite/zTQhBn8)
+* **Всему Discord серверу** [**«Водоворот»**](https://discordapp.com/invite/zTQhBn8)
