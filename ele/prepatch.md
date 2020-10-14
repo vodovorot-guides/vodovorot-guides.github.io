@@ -1,5 +1,5 @@
 ---
-title: Элем в препатче Shadowlands
+title: Шаман Стихии в препатче Shadowlands
 layout: page
 last_update: 2020-10-14
 wow: 9.0.1
