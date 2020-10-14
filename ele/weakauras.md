@@ -1,5 +1,5 @@
 ---
-title: Weakauras для Элем Шамана
+title: Weakauras для Шамана Стихии
 layout: page
 last_update: 2020-10-11
 wow: 9.0.1
