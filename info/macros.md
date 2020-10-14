@@ -15,10 +15,6 @@ author: Amani
 /cast [@mouseover,harm,exists][] Огненный шок
 ~~~
 
-
-
-
-
 * Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
 ~~~
 #showtooltip 
@@ -85,6 +81,12 @@ author: Amani
 ~~~
 
 # Энх
+
+* Использование {{ site.data.spells.ww }} и {{ site.data.spells.ftw }} на одной кнопке:  
+~~~
+#showtooltip
+/castsequence Оружие неистовства ветра, Оружие языка пламени
+~~~
 
 * В зависимости от выбранного таланта использует {{ site.data.spells.sk_enh }} или {{ site.data.spells.sunder }}:  
 ~~~
