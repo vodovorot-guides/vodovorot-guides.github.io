@@ -167,6 +167,21 @@ author: "Amani. Оригинал: Gistwiki"
 На АОЕ все немного интереснее. В связи с увеличением базового урона {{ site.data.spells.lvb }} и наличия Азеритового трейта {{ site.data.spells.potential }}, мы станем использовать {{ site.data.spells.lvb }} на АОЕ гораздо активнее.
 Кастуем его без прока в бою против 1-4 целей, и на 5 целей по проку {{ site.data.spells.lava_surge }} (при взятом таланте {{ site.data.spells.mote }}) или при передвижении. Но сокращение длительности {{ site.data.spells.fs }} не позволит поддерживать его более чем на 3 целях.
 
+## Открывающая ротация
+
+В бою против одной цели, при игре в основном билде через {{ site.data.spells.ecs }} и {{ site.data.spells.sk }}, опенер будет выглядеть следующим образом:
+
+1. {{ site.data.spells.sk }} 
+2. {{ site.data.spells.lvb }} 
+3. {{ site.data.spells.fs }} 
+4. {{ site.data.spells.fe }} 
+5. {{ site.data.spells.ecs }} 
+6. {{ site.data.spells.lb }} 
+7. {{ site.data.spells.if }} 
+8. {{ site.data.spells.lvb }} 
+9. {{ site.data.spells.lb }} 
+10. Дальше согласно приоритетам.
+
 # Характеристики
 
 В препатче приоритет характеристик вернулся к тому же значению, которое было до ввода кораптов:
