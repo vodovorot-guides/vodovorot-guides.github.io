@@ -1,5 +1,5 @@
 ---
-title: Weakauras для Энх Шамана
+title: Weakauras для Шамана Совершенствования
 layout: page
 last_update: 2020-10-11
 wow: 9.0.1
