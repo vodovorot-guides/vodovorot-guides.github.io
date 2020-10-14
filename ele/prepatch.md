@@ -24,7 +24,7 @@ author: "Amani. Оригинал: Gistwiki"
 * **Симкрафт не работает до релиза.**  
 * **Таланты против одной цели**: <a href="https://ru.wowhead.com/spell=333919" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=320125" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://ru.wowhead.com/talent-calc/shaman/elemental/mT1M)  
 
-* **Таланты на АОЕ**: <a href="https://ru.wowhead.com/spell=333919" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=320125" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=192249" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=117013" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://ru.wowhead.com/talent-calc/shaman/elemental/mTCM)  
+* **Таланты на АОЕ**: <a href="https://ru.wowhead.com/spell=333919" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=273221" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=117013" target="blank" data-wh-icon-size="small" ></a><a href="https://ru.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" ></a> [(Ссылка на калькулятор талантов).](https://ru.wowhead.com/talent-calc/shaman/elemental/mTCM)  
 * **Азерит**: 3x {{ site.data.spells.potential }}, 3x {{ site.data.spells.harmony }}  
 * **Сущности против одной цели**:   
   * Большой слот: {{ site.data.spells.condensed }}  
@@ -155,10 +155,10 @@ author: "Amani. Оригинал: Gistwiki"
 **Таланты на АОЕ:**
 
 <p align="center">
-<img src="/assets/img/talents_prepatch_aoe1.png" width="100%"> 
+<img src="/assets/img/talents_prepatch_aoe3.png" width="100%"> 
 </p>
 
-Данный набор талантов позволяет достаточно сильно бурстить раз в минуту за счет {{ site.data.spells.ecs }} и {{ site.data.spells.sk }}. Однако, талант {{ site.data.spells.afs }} в целом дает больше кастов {{ site.data.spells.quake }}, но они растянуты по времени. Аналогичная ситуация и с талантами 4 тира. {{ site.data.spells.storm }} ориентирован на бурст урон, в отличие от {{ site.data.spells.mote }}.
+Данный набор талантов в препатче показывает наилучший результат. Альтернативный вариант через {{ site.data.spells.ecs }} и {{ site.data.spells.sk }} позволяет достаточно сильно бурстить раз в минуту. Однако, талант {{ site.data.spells.afs }} в целом дает больше кастов {{ site.data.spells.quake }}.
 
 # Ротация
 
