@@ -124,7 +124,7 @@ author: Amani
 ~~~
 #showtooltip
 /cast [talent:7/2] Родник
-/cast [talent:3/3] Перерождение
+/cast [talent:7/3] Перерождение
 ~~~
 
 # Универсальные и полезные макросы
