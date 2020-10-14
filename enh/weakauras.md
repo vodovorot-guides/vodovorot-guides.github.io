@@ -9,6 +9,13 @@ author: Amani, Haelrail
 
 Ниже представлены сборки WA, обновленные под Shadowlands, и которые точно работают на русской версии игры:
 
+[Сборка от kr3b5:](https://wago.io/krebsEnhancement)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/4yz3N1TG7/5cd447b65589871081e0b068.gif" width="30%"> 
+</p>
+
 [Сборка от Afenar (только для 1920х1080):](https://wago.io/Afenar_Shaman)
 {: style="text-align: center;"}
 
