@@ -150,7 +150,7 @@ author: Amani
 /click DropDownList1Button9
 ~~~
 
-* Использовать одновременно {{ site.data.spells.waterwalking }} и призыв случайного маунта из избранного. 
+* Использовать одновременно {{ site.data.spells.waterwalking }} и призыв случайного избранного маунта: 
 ~~~
 #showtooltip Яростная буря предсказателя
 /cast [nomounted,nocombat] Хождение по воде
