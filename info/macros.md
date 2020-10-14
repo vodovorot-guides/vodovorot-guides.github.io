@@ -150,11 +150,11 @@ author: Amani
 /click DropDownList1Button9
 ~~~
 
-* Использовать одновременно {{ site.data.spells.waterwalking }} и призыв маунта. Замените название маунта 
+* Использовать одновременно {{ site.data.spells.waterwalking }} и призыв случайного маунта из избранного. 
 ~~~
 #showtooltip Яростная буря предсказателя
 /cast [nomounted,nocombat] Хождение по воде
-/cast Яростная буря предсказателя
+/run C_MountJournal.SummonByID(0)
 ~~~
 
 * Три маунта одной кнопкой, в зависимости от вашего местонахождения. Замените названия на ваших любимых маунтов. Вместо плавающего можно поставить {{ site.data.spells.waterwalking }}:  
