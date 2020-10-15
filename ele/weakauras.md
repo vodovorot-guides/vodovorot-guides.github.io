@@ -30,12 +30,11 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/oYKpx6zVN/5f736991f0043c08b974051b.gif" width=350x> 
 </p>
 
-
 [Сборка от Amani:](https://wago.io/tSFO3ZOD8)
 {: style="text-align: center;"}
 
 <p align="center">
-<img src="https://media.wago.io/screenshots/tSFO3ZOD8/5f88a8bc6dd196034e89bb97.png" width=350x> 
+<img src="https://media.wago.io/screenshots/tSFO3ZOD8/5f88a9616dd196034e89deb7.png" width=350x> 
 </p>
 
 [Сборка от Publik:](https://wago.io/rkjS7FNW7)
