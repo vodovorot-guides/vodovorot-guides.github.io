@@ -35,7 +35,7 @@ author: Amani, Haelrail
 {: style="text-align: center;"}
 
 <p align="center">
-<img src="https://i.imgur.com/Ol7XyRr.png" width="30%"> 
+<img src="https://media.wago.io/screenshots/tSFO3ZOD8/5f88a8bc6dd196034e89bb97.png" width=350x> 
 </p>
 
 [Сборка от Publik:](https://wago.io/rkjS7FNW7)
