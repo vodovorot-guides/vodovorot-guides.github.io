@@ -69,18 +69,18 @@ author: Amani
 /cast [@cursor] Землетрясение
 ~~~
 
-# Элем
+# Стихии
 
 * Использование {{ site.data.spells.meteor }}, {{ site.data.spells.eye_storm }} или {{ site.data.spells.harden_skin }} одной кнопкой, в зависимости от вызванного вами элементаля с талантом {{ site.data.spells.primal_elem }}. При взятом таланте {{ site.data.spells.if }} использует её:  
 ~~~
 #showtooltip
-/cast [talent:6/2] [pet:Изначальный элементаль огня] Метеорит
-/cast [talent:6/2] [pet:Изначальный элементаль бури] Око шторма
-/cast [talent:6/2] [pet:Изначальный элементаль земли] Каменные доспехи
-/cast [talent:6/3] Ледяная ярость
+/cast [@mouseover,exists][] [talent:6/2] [pet] Метеорит
+/cast [@mouseover,harm,exists][] [talent:6/2] [pet] Око шторма
+/cast [talent:6/2] [pet] Каменные доспехи
+/cast [@mouseover,harm,exists][] [talent:6/3] Ледяная ярость
 ~~~
 
-# Энх
+# Совершенствование
 
 * Использование {{ site.data.spells.ww }} и {{ site.data.spells.ftw }} на одной кнопке:  
 ~~~
@@ -102,7 +102,7 @@ author: Amani
 /cast [talent:7/3] Перерождение
 ~~~
 
-# Рестор
+# Исцеление
 
 * Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.riptide }} + {{ site.data.spells.fs }}, {{ site.data.spells.dispel }} + {{ site.data.spells.purge }} и другие:
 ~~~
