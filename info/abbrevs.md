@@ -82,7 +82,7 @@ author: Amani
 * {{ site.data.conduits.wave }} – Tumbling Waves, TW, Прок волны.
 * {{ site.data.conduits.harvest }} – Lavish Harvest, LH, Лавиш харвест, ЛХ.
 
-# Элем
+# Стихии
 
 ## Способности
 
@@ -121,7 +121,7 @@ author: Amani
 * {{ site.data.spells.sk }} – Stormkeeper, SK, Keeper, СК, Штормкипер, Кипер.  
 * {{ site.data.spells.asc_ele }} – Ascendance, Asc, Асц, Мужик.  
 
-# Энх
+# Совершенствование
 
 ## Способности
 
@@ -159,7 +159,7 @@ author: Amani
 * {{ site.data.spells.spike }} – Earthen Spike, ES (Одно из значений), Спайк, Шип.  
 * {{ site.data.spells.asc_enh }} – Ascendance, Asc, Асц, Мужик.  
 
-# Рестор
+# Исцеление
 
 ## Способности
 
