@@ -149,11 +149,19 @@ author: Amani
 /click DropDownList1Button9
 ~~~
 
-* Использовать одновременно {{ site.data.spells.waterwalking }} и призыв случайного избранного маунта: 
+* Использовать одновременно {{ site.data.spells.waterwalking }} (без ГКД) и призыв случайного избранного маунта: 
 ~~~
 #showtooltip Яростная буря предсказателя
 /cast [nomounted,nocombat] Хождение по воде
 /run C_MountJournal.SummonByID(0)
+~~~
+
+* Три маунта одной кнопкой, в зависимости от вашего местонахождения. Замените названия на ваших любимых маунтов:
+~~~
+#showtooltip 
+/cast [nomounted,nocombat] Хождение по воде
+/cast [swimming] Багровый бурунный конек; [noflyable] Механоцикл модели W;   [flyable] Яростная буря предсказателя;
+/dismount [mounted]
 ~~~
 
 * Способности через модификатор:  
