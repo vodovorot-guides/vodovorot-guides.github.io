@@ -129,6 +129,7 @@ author: "Amani. Оригинал: Wordup"
 * {{ site.data.spells.fn }} – 6 целей, перемножается на количество противников с наложенным {{ site.data.spells.fs }}.
 * {{ site.data.spells.hailstorm }} – 6 целей.
 * {{ site.data.spells.sunder }} – софт-кап на 20 целей. 
+* {{ site.data.spells.asc_enh }} – софт-кап на 20 целей. 
 
 В итоге Энхи практически не почувствуют ограничения на количества целей на АОЕ. {{ site.data.spells.crush }}, наша основная способность на АОЕ, работает как и прежде. Эффект {{ site.data.spells.gathering }} все также дает 5% увеличения урона для {{ site.data.spells.ss }}, так что помимо АОЕ мы также наносим хороший урон по приоритетной цели. Подробнее про ограничение количества целей на АОЕ [в этой статье](https://stormkeeper.ru/info/target_cap.html).
 
