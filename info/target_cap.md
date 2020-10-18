@@ -88,6 +88,7 @@ author: "Amani. Перевод: Wishko. Оригинал: Wowhead."
 * {{ site.data.spells.fn }} – хард-кап на **6** целей за один {{ site.data.spells.fs }}.  
 * {{ site.data.spells.hailstorm }} – хард-кап на **6** целей.  
 * {{ site.data.spells.sunder }} – софт-кап на **20** целей.  
+* {{ site.data.spells.asc_enh }} – софт-кап на **20** целей. 
 
 ## Рестор
 
