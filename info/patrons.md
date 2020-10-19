@@ -17,6 +17,7 @@ author: Amani
 * **Максим Абламов**
 * **Oloriell**
 * **Талиссия**
+* **Mirshab78**
 
 **Над сайтом работают:**
 
@@ -33,6 +34,5 @@ author: Amani
 * **Sozzzin**
 * **Marhosias**
 * **Haelrail**
-* **Katana**
 * **Kruzer**
 * **Всему Discord серверу** [**«Водоворот»**](https://discordapp.com/invite/zTQhBn8)
