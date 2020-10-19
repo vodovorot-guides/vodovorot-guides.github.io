@@ -37,7 +37,7 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/rJKNS-LZ7/5f72bd6f47448614ab8d4dfb.png" width=350x> 
 </p>
 
-[Талант Прилив от Niseko:](https://wago.io/AsCQQgZeh)
+[Талант Прилив от Niseko:](https://wago.io/rk7idBBoX)
 {: style="text-align: center;"}
 
 <p align="center">
