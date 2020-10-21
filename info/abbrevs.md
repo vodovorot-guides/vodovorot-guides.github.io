@@ -1,7 +1,7 @@
 ---
 title: Сокращения и аббревиатуры
 layout: page
-last_update: 2020-10-09 
+last_update: 2020-10-21
 wow: 9.0.1
 toc: true
 author: Amani
@@ -13,6 +13,8 @@ author: Amani
 * **Enhance, Enh, Энханс, Энх** – шаман в специализации «Совершенствование».
 * **Elemental, Elem, Ele, Элем** – шаман в специализации «Стихии».
 * **Restoration, Resto, Рестор** – шаман в специализации «Исцеление».
+* **Simcraft, Симкрафт, Сим** – инструмент расчёта урона на основе симуляции боев. Пример – сайты [Raidbots](https://www.raidbots.com/simbot) и [Simulationcraft](https://www.simulationcraft.org/).
+* **Feelcraft, Филкрафт** – подбирать предметы, таланты и проч. на основе собственных «ощущений», игнорируя расчеты эффективности (противоположность Симкрафту).
 * **DPS, ДПС** – Damage per Second, Урон в секунду.  
 * **HPS, ХПС** – Healing per Second, Лечение в секунду.  
 * **AoE** – Area of Effect, урон по области. Заклинания с уроном по области, например {{ site.data.spells.quake }}, а также бой против множества целей.  
