@@ -20,6 +20,12 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {%- if page.toc == true -%}
+      <h3>Содержание</h3>
+      {%- include toc.html html=content class="toc" h_max=3 -%}
+      <hr>
+      <br>
+    {%- endif -%}
     {{ content }}
   </div>
 
