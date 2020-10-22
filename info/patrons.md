@@ -1,7 +1,7 @@
 ---
 title: Авторы и благодарности
 layout: page
-last_update: 2020-10-12 
+last_update: 2020-10-22 
 wow: 9.0.1
 author: Amani
 ---
@@ -18,6 +18,7 @@ author: Amani
 * **Oloriell**
 * **Талиссия**
 * **Mirshab78**
+* **Katana**
 
 **Над сайтом работают:**
 
