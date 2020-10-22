@@ -1,7 +1,7 @@
 ---
 title: Шаман Стихии в препатче Shadowlands
 layout: page
-last_update: 2020-10-14
+last_update: 2020-10-22
 wow: 9.0.1
 toc: true
 author: "Amani. Оригинал: Gistwiki"
@@ -103,6 +103,16 @@ author: "Amani. Оригинал: Gistwiki"
 5. Кастуем третье {{ site.data.spells.quake }}.  
 
 Эта комбинация ощутимо усиливает наш АОЕ бурст раз в минуту, но требует не менее 4 целей для активации.
+
+В итоге приоритет заклинаний для усиления их с помощью таланта {{ site.data.spells.ecs }} выглядит так:
+
+**В бою против одной цели:**
+1. {{ site.data.spells.lb }} под баффом от {{ site.data.spells.sk }}
+2. {{ site.data.spells.lvb }}
+
+**На АоЕ:**
+1. {{ site.data.spells.cl }} под баффом от {{ site.data.spells.sk }}
+2. {{ site.data.spells.quake }}
 
 • {{ site.data.spells.eb }} – талант был перенесен из первого тира во второй, и он больше не конкурирует с {{ site.data.spells.eote }}. В Shadowlands урон этого заклинания был повышен (с 63% до 140% от силы заклинаний), а также добавлена генерация Энергии Водоворота – базово 30 ед., и 45 ед. энергии с проком искусности. 
 
