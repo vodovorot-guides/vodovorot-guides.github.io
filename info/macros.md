@@ -62,13 +62,13 @@ author: Amani
 /use [combat] Нестабильный манипулятор темпорального потока; [nocombat] Дух предков
 ~~~
 
+# Стихии
+
 * Позволяет кастовать АоЕ заклинания (например {{ site.data.spells.quake }} и {{ site.data.spells.rain }}) сразу на место под курсором, избавляя от лишнего клика мышкой:  
 ~~~
 #showtooltip
 /cast [@cursor] Землетрясение
 ~~~
-
-# Стихии
 
 * Использование {{ site.data.spells.meteor }}, {{ site.data.spells.eye_storm }} или {{ site.data.spells.harden_skin }} одной кнопкой, в зависимости от вызванного вами элементаля с талантом {{ site.data.spells.primal_elem }}. При взятом таланте {{ site.data.spells.if }} использует её:  
 ~~~
@@ -77,6 +77,21 @@ author: Amani
 /cast [@mouseover,harm,exists][] [talent:6/2] [pet] Око шторма
 /cast [talent:6/2] [pet] Каменные доспехи
 /cast [@mouseover,harm,exists][] [talent:6/3] Ледяная ярость
+
+* В зависимости от выбранного таланта использует {{ site.data.spells.ecs }} или {{ site.data.spells.eb }}:  
+~~~
+#showtooltip
+/cast [talent:2/2] Вторящий шок
+/cast [talent:2/3] Удар духов стихий
+~~~
+
+* В зависимости от выбранного таланта использует {{ site.data.spells.sk }} или {{ site.data.spells.asc_ele }}:  
+~~~
+#showtooltip
+/cast [talent:7/2] Хранитель бурь
+/cast [talent:7/3] Перерождение
+~~~
+
 ~~~
 
 # Совершенствование
