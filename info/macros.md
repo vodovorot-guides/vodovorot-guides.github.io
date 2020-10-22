@@ -92,8 +92,6 @@ author: Amani
 /cast [talent:7/3] Перерождение
 ~~~
 
-~~~
-
 # Совершенствование
 
 * Использование {{ site.data.spells.ww }} и {{ site.data.spells.ftw }} на одной кнопке:  
