@@ -77,6 +77,7 @@ author: Amani
 /cast [@mouseover,harm,exists][] [talent:6/2] [pet] Око шторма
 /cast [talent:6/2] [pet] Каменные доспехи
 /cast [@mouseover,harm,exists][] [talent:6/3] Ледяная ярость
+~~~
 
 * В зависимости от выбранного таланта использует {{ site.data.spells.ecs }} или {{ site.data.spells.eb }}:  
 ~~~
