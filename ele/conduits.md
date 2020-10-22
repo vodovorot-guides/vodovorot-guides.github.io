@@ -1,7 +1,7 @@
 ---
 title: Проводники – Шаман Стихии
 layout: page
-last_update: 2020-10-11  
+last_update: 2020-10-22  
 wow: 9.0.1
 toc: true
 author: Amani
