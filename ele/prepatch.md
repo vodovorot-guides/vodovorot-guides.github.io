@@ -147,15 +147,11 @@ author: "Amani. Оригинал: Gistwiki"
 
 **Таланты против одной цели, вариант первый:** 
 
-<p align="center">
-<img src="/assets/img/talents_prepatch_st1.png" width="100%"> 
-</p>
+{% include ele_talents.html active="2201032" %}
 
 **Таланты против одной цели, вариант второй:** 
 
-<p align="center">
-<img src="/assets/img/talents_prepatch_st2.png" width="100%"> 
-</p>
+{% include ele_talents.html active="2301033" %}
 
 Первый вариант через {{ site.data.spells.ecs }} и {{ site.data.spells.sk }} позволяет нам достаточно сильно бурстить в одну цель раз в минуту, а второй вариант через {{ site.data.spells.eb }} и {{ site.data.spells.asc_ele }} дает ощутимый бурст раз в 3 минуты (который отлично сочетается с азеритовыми трейтами {{ site.data.spells.potential }}). Но вариант через {{ site.data.spells.asc_ele }} зависит от времени боя, то есть на 3:30 он может быть сильнее билда через {{ site.data.spells.sk }}, а на 5:50 уже слабее.  
 
@@ -163,9 +159,7 @@ author: "Amani. Оригинал: Gistwiki"
 
 **Таланты на АОЕ:**
 
-<p align="center">
-<img src="/assets/img/talents_prepatch_aoe3.png" width="100%"> 
-</p>
+{% include ele_talents.html active="2101022" %}
 
 Данный набор талантов в препатче показывает наилучший результат. Альтернативный вариант через {{ site.data.spells.ecs }} и {{ site.data.spells.sk }} позволяет достаточно сильно бурстить раз в минуту. Однако, талант {{ site.data.spells.afs }} в целом дает больше кастов {{ site.data.spells.quake }}.
 

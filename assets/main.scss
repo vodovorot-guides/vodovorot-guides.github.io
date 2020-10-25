@@ -350,3 +350,84 @@ header {
 .dropdown-divider {
     border-color: #828282;
 }
+
+.talents-table {
+    line-height: 0.75em;
+
+    td {
+        //max-width: 60px;
+        width: 31%;
+        height: 60px;
+        text-align: left;
+        vertical-align: middle;
+        padding: 0;
+        background-color: #2e3444;
+        border: 1px solid #363a3b;
+    }
+
+    td.talent-active {
+        background-color: #393f56 !important;
+        border: 1px double $brand-color;
+    }
+
+    td:not(.talent-active) {
+        a {
+            -webkit-filter: grayscale(100%);
+            filter: grayscale(100%);
+            color: gray;
+        }
+        a:hover {
+            -webkit-filter: unset;
+            filter: unset;
+            color: $brand-color;
+        }
+    }
+
+    th {
+        max-width: 10px;
+        background-color: #2e3444;
+        border: 1px solid #363a3b;
+        vertical-align: middle;
+        color: #d1cdab;
+    }
+
+    a {
+        font-size: 0.9em;
+    }
+
+    span.iconmedium {
+        margin-left: 10px;
+        margin-right: 10px;
+        position: relative;
+        display: inline-block;
+    }
+
+    span:not([class]) {
+        display: inline-block;
+        vertical-align: middle;
+        max-width: 150px;
+    }
+
+    .iconmedium del {
+        background-image: none !important;
+    }
+}
+
+@media (max-width: 800px) {
+    .talents-table {
+        th {
+            display: none;
+        }
+
+        td {
+            text-align: center;
+            vertical-align: top;
+            height: 65px;
+        }
+
+        span:not([class]) {
+            display: block;
+            max-width: 100%;
+        }
+    }
+}

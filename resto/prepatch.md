@@ -121,9 +121,7 @@ author: "Amani. Оригинал: Niseko"
 
 **Таланты для рейда:**
 
-<p align="center">
-<img src="/assets/img/talents_prepatch_resto1.png" width="100%"> 
-</p>
+{% include resto_talents.html active="3102031" %}
 
 **Альтернативы:**
 
@@ -135,10 +133,7 @@ author: "Amani. Оригинал: Niseko"
 
 **Таланты для Мифик+:**
 
-<p align="center">
-<img src="/assets/img/talents_prepatch_resto2.png" width="100%"> 
-</p>
-
+{% include resto_talents.html active="3102033" %}
 
 Билд для Мифик+ мало чем отличается от рейдового, но есть несколько вариантов для усиления отхила по одной цели:
 

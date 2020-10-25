@@ -162,9 +162,7 @@ author: "Amani. Оригинал: Wordup"
 
 **Таланты для боя против одной цели:**
 
-<p align="center">
-<img src="/assets/img/talents_prepatch_st3.png" width="100%"> 
-</p>
+{% include enh_talents.html active="1101033" %}
 
 **Альтернативы и заметки:**
 
@@ -176,9 +174,7 @@ author: "Amani. Оригинал: Wordup"
 
 **Таланты на АОЕ:**
 
-<p align="center">
-<img src="/assets/img/talents_prepatch_aoe2.png" width="100%"> 
-</p>
+{% include enh_talents.html active="2102033" %}
 
 Наша основная задача на АОЕ – иметь в запасе стаки {{ site.data.spells.mw }} под каждый кулдаун способности {{ site.data.spells.frs }}, для максимальной пользы от таланта {{ site.data.spells.hailstorm }}. Таланты {{ site.data.spells.sunder }} и {{ site.data.spells.asc_enh }} являются наиболее универсальным выбором в своих тирах, так как не имеют ограничения на количество целей (в отличие от {{ site.data.spells.sk }}) и не зависят от рандома (в отличие от {{ site.data.spells.spirits }}).
 
