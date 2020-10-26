@@ -1,7 +1,7 @@
 ---
 title: Полезные макросы для шамана
 layout: page
-last_update: 2020-10-14 
+last_update: 2020-10-27
 wow: 9.0.1
 toc: true
 author: Amani
@@ -34,6 +34,11 @@ author: Amani
 #showtooltip 
 /cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
 ~~~
+
+* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.cl }} + {{ site.data.spells.ch }}, {{ site.data.spells.cleance }} + {{ site.data.spells.purge }} и другие:
+~~~
+#showtooltip Цепная молния
+/use [@mouseover,nodead,harm]Цепная молния;[@mouseover,nodead,help]Цепное исцеление;[@target,nodead,harm]Цепная молния;[@target,nodead,help][@player] Цепное исцеление~~~
 
 * Позволяет вызвать  {{ site.data.spells.fe }} / {{ site.data.spells.igor }} без наличия вражеской цели. Не пуллит босса при использовании!  
 ~~~
@@ -119,6 +124,7 @@ author: Amani
 
 * Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.riptide }} + {{ site.data.spells.fs }}, {{ site.data.spells.dispel }} + {{ site.data.spells.purge }} и другие:
 ~~~
+#showtooltip Быстрина
 /use [@mouseover,nodead,harm]Огненный шок;[@mouseover,nodead,help]Быстрина;[@target,nodead,harm]Огненный шок;[@target,nodead,help][@player] Быстрина
 ~~~
 
