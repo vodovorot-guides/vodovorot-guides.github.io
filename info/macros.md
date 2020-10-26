@@ -39,6 +39,7 @@ author: Amani
 ~~~
 #showtooltip Цепная молния
 /use [@mouseover,nodead,harm]Цепная молния;[@mouseover,nodead,help]Цепное исцеление;[@target,nodead,harm]Цепная молния;[@target,nodead,help][@player] Цепное исцеление~~~
+~~~
 
 * Позволяет вызвать  {{ site.data.spells.fe }} / {{ site.data.spells.igor }} без наличия вражеской цели. Не пуллит босса при использовании!  
 ~~~
