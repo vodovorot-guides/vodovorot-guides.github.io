@@ -1,7 +1,7 @@
 ---
 title: Авторы и благодарности
 layout: page
-last_update: 2020-10-27
+last_update: 2020-11-01
 wow: 9.0.1
 author: Amani
 ---
@@ -10,19 +10,23 @@ author: Amani
 
 * **Йанто**
 * **Амада**
+
 * **Царап**
 * **Октян**
 * **Gardash**  
 * **Vini**
+
 * **Максим Абламов**
 * **Oloriell**
 * **Талиссия**
 * **Mirshab78**
 * **Katana**
 * **Карни**
-* **Qswerty**
+* **Теслашот**
 * **ayami**
 * **Дирич**
+* **mihaellle**
+* **Nabbi**
 
 **Над сайтом работают:**
 
