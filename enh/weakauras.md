@@ -1,7 +1,7 @@
 ---
 title: Weakauras для Шамана Совершенствования
 layout: page
-last_update: 2020-10-24
+last_update: 2020-11-02
 wow: 9.0.1
 author: Amani, Haelrail
 ---
@@ -9,19 +9,18 @@ author: Amani, Haelrail
 
 Ниже представлены сборки WA, обновленные под Shadowlands, и которые точно работают на русской версии игры:
 
+[Сборка от Afenar:](https://wago.io/Afenar_Shaman)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/rJhu7HoMM/5f85e27255162321b362dd10.gif" width=350x> 
+</p>
 
 [Сборка от Kontraos:](https://wago.io/hHBnrMiuy)
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/hHBnrMiuy/5f89e627878b591b4ce4ff1b.png" width=350x> 
-</p>
-
-[Сборка от Afenar:](https://wago.io/Afenar_Shaman)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://media.wago.io/screenshots/rJhu7HoMM/5f85e27255162321b362dd10.gif" width=350x> 
 </p>
 
 [Сборка от Luxthos (3 группы):](https://wago.io/Hkc9ktj4X)
