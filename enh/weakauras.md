@@ -9,12 +9,6 @@ author: Amani, Haelrail
 
 Ниже представлены сборки WA, обновленные под Shadowlands, и которые точно работают на русской версии игры:
 
-[Сборка от kr3b5:](https://wago.io/krebsEnhancement)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://media.wago.io/screenshots/4yz3N1TG7/5cd447b65589871081e0b068.gif" width=350x> 
-</p>
 
 [Сборка от Kontraos:](https://wago.io/hHBnrMiuy)
 {: style="text-align: center;"}
@@ -44,6 +38,13 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/rkxMuyLZX/5f74b81bd2e79f530ec0cfa1.png" width=350x> 
 </p>
 
+[Сборка от kr3b5:](https://wago.io/krebsEnhancement)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/4yz3N1TG7/5cd447b65589871081e0b068.gif" width=350x> 
+</p>
+
 [Стихии волков от таланта Духи стихий:](https://wago.io/sJy_uW-Sq)
 {: style="text-align: center;"}
 
@@ -51,9 +52,9 @@ author: Amani, Haelrail
 <img src="https://i.imgur.com/1NGL8mR.png" width=350x> 
 </p>
 
-[Напоминание на обновление инчантов после смерти:](https://wago.io/ImbueWarning)
+[Инчанты на оружие:](https://wago.io/iBEOl6LFb)
 {: style="text-align: center;"}
 
 <p align="center">
-<img src="https://i.imgur.com/Yv8jjaZ.png" width=350x> 
+<img src="https://i.imgur.com/dbVdLkp.png" width=350x> 
 </p>
