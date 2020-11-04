@@ -1,7 +1,7 @@
 ---
 title: Ограничение на количество целей
 layout: page
-last_update: 2020-10-29
+last_update: 2020-11-04
 wow: 9.0.1
 toc: true
 author: "Amani. Перевод: Wishko. Оригинал: Wowhead."
@@ -69,7 +69,7 @@ author: "Amani. Перевод: Wishko. Оригинал: Wowhead."
 * {{ site.data.spells.ct }} – без ограничения целей.  
 * {{ site.data.spells.ebt }} – без ограничения целей.  
 
-## Элем
+## Стихии
 
 * {{ site.data.spells.ch }} – хард-кап на **3** цели.  
 * {{ site.data.spells.cl }} – хард-кап на **5** целей.  
@@ -79,7 +79,7 @@ author: "Amani. Перевод: Wishko. Оригинал: Wowhead."
 * {{ site.data.spells.lmt }} – софт-кап на **20** целей.  
 * {{ site.data.spells.meteor }} – хард-кап на **8** целей.  
 
-## Энх
+## Совершенствование
 
 * {{ site.data.spells.ch }} – хард-кап на **3** цели.  
 * {{ site.data.spells.cl }} – хард-кап на **3** цели.  
@@ -90,7 +90,7 @@ author: "Amani. Перевод: Wishko. Оригинал: Wowhead."
 * {{ site.data.spells.sunder }} – софт-кап на **20** целей.  
 * {{ site.data.spells.asc_enh }} – софт-кап на **20** целей. 
 
-## Рестор
+## Исцеление
 
 * {{ site.data.spells.ch }} – хард-кап на **4** цели.  
 * {{ site.data.spells.cl }} – хард-кап на **3** цели.  
