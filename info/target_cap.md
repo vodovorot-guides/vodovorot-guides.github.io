@@ -102,7 +102,7 @@ author: "Amani. Перевод: Wishko. Оригинал: Wowhead."
 * {{ site.data.spells.cbt }} – софт-кап на **1** цель.  
 * {{ site.data.spells.downpour }} – хард-кап на **6** целей.  
 * {{ site.data.spells.ewt }} – без ограничения.  
-* {{ site.data.spells.soe }} – хард-кап на **6** целей.  
+* {{ site.data.spells.soe }} – хард-кап на **3** цели.  
 * {{ site.data.spells.wellspring }} – софт-кап на **6** целей.  
 
 ## Ковенанты
