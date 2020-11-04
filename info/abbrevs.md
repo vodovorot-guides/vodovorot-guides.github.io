@@ -1,7 +1,7 @@
 ---
 title: Сокращения и аббревиатуры
 layout: page
-last_update: 2020-10-21
+last_update: 2020-11-04
 wow: 9.0.1
 toc: true
 author: Amani
@@ -60,7 +60,7 @@ author: Amani
 * {{ site.data.spells.ch }} – Chain Heal, CH, Чайник (одно из значений), Цепнуха (одно из значений).  
 * {{ site.data.spells.cl }} – Chain Lightning, CL, КЛ, Чайник (одно из значений), Цепнуха (одно из значений).  
 * {{ site.data.spells.hst }} – Healing Stream Totem, HST, ХСТ, Тотемчик, Малыш.  
-* {{ site.data.spells.igor }} – Earth Elemental, Earth, Элем земли, Игорь.  
+* {{ site.data.spells.igor }} – Earth Elemental, Earth, Steve, Элем земли, Игорь, Стив.  
 * {{ site.data.spells.purge }} – Purge, Пурдж, Диспел (одно из значений), Очищение.  
 * {{ site.data.spells.hex }} – Hex, Хекс, Лягушка.  
 * {{ site.data.spells.as }} – Astral Shift, AS, Shift, АС, Шифт, Астрал, Сейв, Личка.  
