@@ -30,9 +30,9 @@ toc: true
  Flametongue Weapon – На один час усиливает оружие силой огня, в результате чего каждая атака в ближнем наносит дополнительный урон от огня.  
  Lightning Shield – На 30 минут окружает вас щитом молний, который наносит урон от сил природы атакующим вас в ближнем бою противникам.  
 
-## ЗАклинания со временем восстановления
+## Заклинания со временем восстановления
 
- Healing Tide Totem – Вы призываее рядом собой тотем, который излучает импульсы, восстанавливающие здоровье всем союзникам каждые пару секунд.  
+ Healing Tide Totem – Вы призываее рядом собой тотем, который излучает импульсы, восстанавливающие здоровье всем союзникам каждые несколько секунд.  
  Spirit Link Totem – Вы призываете в указанном месте тотем, который в небольшом радиусе снижает весь получаемый союзниками урон и перераспределяет запас здоровья целей так,   чтобы все они имели одинаковый процент максимального запаса здоровья.  
  Spiritwalker's Grace – Позволяет вам применять заклинания на ходу.  
  Mana Tide Totem – Вы призываете рядом с собой тотем, который увеличивает регенерацию маны вам и ближайшим союзникам.  
@@ -68,7 +68,7 @@ toc: true
 
 # Приоритет заклинаний в рейде
 
-1. Поддерживайте Earth Shield, в идеале – на танке.
+1. Поддерживайте Earth Shield, желательно на танке.
 2. Поддерживайте на себе Water Shield.
 3. Используйте Riptide по кулдауну и поддерживайте ХоТ на активном танке.
 4. Используйте Healing Stream / Cloudburst Totem (в зависимости от выбранного таланта) так часто, как это возможно. Повторное применение Cloudburst Totem высвободит накопленное исцеление, используйте это чтобы спасти жизнь союзников в нужный момент или чтобы предотвратить избыточное исцеление от тотема.
@@ -79,7 +79,7 @@ toc: true
 9. Тратьте Tidal Waves для исцеления одной цели; Healing Surge для быстрого и обильного лечения, либо Healing Wave как более эффективный по мане вариант.
 10. Кастуйте Healing Wave в качестве эффективного по мане заклинания, чтобы исцелить небольшое количество здоровья. 
 11. Используйте Spirit Link перед получением большого количества АоЕ урона, и Healing Tide Totem после его получения.
-12. По желанию, в свободное от лечения время применяйте на противников Flame Shock и тратьте проки Lava Surge на Lava Burst, нанося урон боссу. Не забывайте, что эти заклинания стоят ману и распоряжаться ей надо с умом.
+12. Если нечего хилить – кастуйте Flame Shock и тратьте проки Lava Surge на Lava Burst. Не забывайте, что эти заклинания стоят ману и распоряжаться ей надо с умом.
 13. Если Lava Burst на кулдауне, а хилить все еще нечего, используйте Lightning Bolt или Chain Lightning.
 
 > За счет Искусности Шамана Исцеления – Deep Healing, всегда старайтесь выбирать для ваших заклинаний наиболее раненую цель. Обращайте внимание на расположение союзников, так как это очень важно для эффективного использования Chain Heal.
@@ -92,4 +92,37 @@ toc: true
 На длинных боях имеет смысл экономить ману и использовать больше Healing Wave и меньше Healing Surge. Не зацикливайтесь на этом порядке и адекватно реагируйте на получаемый группой урон, как указано выше в приоритетах для рейда.
 Наносите урон при любом удобном случае, поддерживая Flame Shock на самых живучих целях и используйте Lava Burst по кулдауну. 
 
+# Мощные способности, «Бурсты»
 
+ Healing Tide Totem – каждые 2 сек. производит импульсы, которые исцеляют всех союзников в радиусе 40 м. от тотема. В это время Шаман может продолжать использовать другие заклинания, что очень полезно во время получения рейдом большого количества урона, а также во время активного передвижения. Используйте эту способность в те моменты, когда рейд получает большое количество урона или если множество союзников имеют малое количество здоровья. Во время установки тотема мгновенно проходит один импульс исцеления, поэтому не стоит ставить его до получения урона, во избежание оверхила.
+
+ Spirit Link Totem – уникальная способность, аналогов которой нет ни у одного другого класса. Вы призываете в указанном месте тотем, который в радиусе 10 м. снижает весь получаемый союзниками урон на 10% и перераспределяет запас здоровья целей так, чтобы все они имели одинаковый процент максимального запаса здоровья. Это очень мощная способность, которая способна спасти множество союзников, особенно в сочетании с талантом Ascendance и другими АоЕ заклинаниями. Используйте Spirit Link Totem когда рейд стоит кучно и получает большое количество урона, как разового, так и растянутого по времени. В Мифик+ этот тотем может использоваться для спасения жизни танка, мгновенно подняв его здоровье за счет здоровья союзников. Spirit Link Totem очень хорошо сочетается со способностью Охотников на демонов – Darkness, полностью убирая его случайный эффект и превращая эту способность в 20% снижение всего урона для рейда.
+ 
+# Защитные способности
+
+ Astral Shift – наша единственная базовая защитная способность. Снижает весь получаемый урон на 40% на 12 секунд и не имеет ГКД. Учитывая короткий кулдаун в полторы минуты, эту способность можно использовать достаточно часто перед получением урона. Достаточно долгое время действия позволяет снижать урон от различных ДоТ заклинаний и поможет пережить перебежки, когда способность хилить ограничена.
+ 
+# Вспомогательные способности 
+
+Шаман Исцеления обладает большим количеством различных «Utility» заклинаний, которые будут полезны в рейде и подземельях.
+
+ Bloodlust / Heroism increases the party or raid's haste by a significant margin. Its use should be coordinated with raid leaders or with the party as a whole.
+ 
+ Hex is a powerful single-target crowd control option. It is somewhat resistant to damage so it can be used even if the target is affected by DoTs or if DPS are using AoE abilities near it. Note that enemy players affected by  Hex still retain complete control of their characters' movement.
+ 
+ Purge is an offensive dispel and can be used to remove beneficial spell effects from enemies. This has many applications in PvP. Its use in PvE is typically more rare, but very impactful - for example, removing  Catalyzed from Ember of Taeshalash adds during the Aggramar encounter in Antorus, the Burning Throne.
+ 
+ Wind Shear is a ranged interrupt on an extremely short cooldown. Restoration Shamans are the only healer that retained a true interrupt in Legion. It is a powerful tool for leveling, questing, PvP, and dungeons. Its usefulness in raids is fight-dependent and composition-dependent, but it can be excellent for raid trash or when your raid finds itself short on DPS capable of interrupting.
+ 
+ Ghost Wolf is a mobility spell that transforms the player into a wolf increasing movement speed by 30%. It can be used indoors and outdoors, in or out of combat. If you are in a situation where you need to use  Ghost Wolf to get somewhere quickly, try to minimize your time spent under its effect as you are unable to cast most spells in your wolf form.
+ 
+ Spiritwalker's Grace allows the Shaman to cast while moving for 15 seconds. This is useful for continuing to heal while the raid or party is repositioning or dodging mechanics.
+ Water Walking can be cast on any friendly player (including the  Shaman) and allows that player to walk over the surface of water for 10 minutes or until they take damage.  Mounting up under  Water Walking's effects transfers those effects to the mount. While some dungeons do contain bodies of water,  Water Walking is mostly used in open world exploration.
+ 
+ Far Sight allows the Shaman to view events and objects very far away. This can be useful in scouting out the location of treasures. It is mostly a flavor spell.
+ 
+ Tremor Totem is an AoE dispel for Fear, Charm and Sleep effects. Chances to use this will be rare, but in those situations, it will be powerful.
+ 
+ Earth Elemental is a high health, high armor Elemental which taunts and tank enemies for a minute or until he dies, however, he will not taunt if there is a tank attacking the enemy. The Earth Elemental can be used in dungeons to prevent wipes after a tank death.
+ 
+Other utility spells are available through Talents, as described in the following section.
