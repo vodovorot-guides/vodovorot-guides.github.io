@@ -43,10 +43,3 @@ author: Amani, Haelrail
 <p align="center">
 <img src="https://media.wago.io/screenshots/rkjS7FNW7/5f74ba17d2e79f530ec0fc28.png" width=350x> 
 </p>
-
-[Сборка от Alliejelly:](https://wago.io/AsCQQgZeh)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://media.wago.io/screenshots/AsCQQgZeh/5f7ecfeffe4e786a06d84612.png" width=350x> 
-</p>
