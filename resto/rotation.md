@@ -1,5 +1,5 @@
 ---
-title: Ротация
+title: Способности Шамана Исцеления
 layout: page
 last_update: 2020-11-11
 wow: 9.0.2
