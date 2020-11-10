@@ -160,7 +160,7 @@ author: "Amani. Оригинал: Niseko"
 Однако у таланта {{ site.data.spells.wellspring }} есть одно важное отличие – все избыточное исцеление по целям со 100% здоровья снижается **до 25%**, чтобы не возникало несбалансированных ситуаций с талантом {{ site.data.spells.cbt }}. Это можно увидеть на следующем графике:
 
 <p align="center" width="100%">
-    <img src="/assets/img/wellspring.png"> 
+    <img src="/assets/img/wellspring.jpg"> 
 </p>
 
 ## Щит земли
