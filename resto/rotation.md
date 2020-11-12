@@ -168,7 +168,7 @@ author: "Amani. Оригинал: Niseko"
 * {{ site.data.spells.riptide }}
 * {{ site.data.spells.hs }} для поглощения стака {{ site.data.spells.tw22 }}
 * {{ site.data.spells.hw }}
-* Любое другое заклинание
+* Любое другое заклинание;
 * {{ site.data.spells.riptide }}, у которой как раз закончился кулдаун.
 
 На длинных боях имеет смысл экономить ману и использовать больше {{ site.data.spells.hw }} и меньше {{ site.data.spells.hs }}.
