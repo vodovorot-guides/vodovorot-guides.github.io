@@ -8,7 +8,7 @@ author: "Amani, Haelrail. Оригинал: Niseko"
 ---
 # Таланты для Рейда
 
-{% include resto_talents.html active="3112031" %}
+{% include resto_talents.html active="3112331" %}
 
 **Альтернативы:**
 
@@ -20,7 +20,7 @@ author: "Amani, Haelrail. Оригинал: Niseko"
 
 # Таланты для Мифик+
 
-{% include resto_talents.html active="3112033" %}
+{% include resto_talents.html active="3112133" %}
 
 Билд для Мифик+ мало чем отличается от рейдового, но есть несколько вариантов для усиления отхила по одной цели:
 
