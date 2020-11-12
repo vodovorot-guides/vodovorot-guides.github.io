@@ -114,10 +114,8 @@ categories:
           url: /resto/conduits.html
         - title: Таланты
           url: /resto/talents.html
-          disabled: true
         - title: Ротация
           url: /resto/rotation.html
-          disabled: true
         - title: Статы и BiS вещи
           url: /resto/stats_and_gear.html
           disabled: true
