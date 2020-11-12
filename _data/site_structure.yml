@@ -112,9 +112,9 @@ categories:
           url: /resto/legendaries.html
         - title: Проводники
           url: /resto/conduits.html
-        - title: Ротация
+        - title: Способности и ротация
           url: /resto/rotation.html
-        - title: Таланты
+        - title: Таланты и билды
           url: /resto/talents.html
         - title: Статы и BiS вещи
           url: /resto/stats_and_gear.html
