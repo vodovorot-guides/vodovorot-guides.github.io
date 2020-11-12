@@ -21,10 +21,9 @@ author: Amani
 * **ayami**
 * **mihaellle**
 * **Mirshab78**
+* **Nabbi**
 * **Oloriell**
 * **Talissia**
-* **Дирич**
-* **Карни**
 * **Дирич**
 * **Сэм [Катана]**
 * **Теслашот**
@@ -39,9 +38,9 @@ author: Amani
 
 **Отдельное спасибо тем, кто помогал в вычитке текстов и тестировании работоспособности сайта:**
 
+* **Sozzzin**
 * **Sorumond**
 * **Shikki**
-* **Sozzzin**
 * **Marhosias**
 * **Haelrail**
 * **Kruzer**
