@@ -9,7 +9,7 @@ author: Amani
 
 Выход дополнения Shadowlands все ближе, и наш раздел с гайдами начинает активно пополняться статьями.
 
-Сегодня на очереди – Рестор Шаман, и вас ждут две новых статьи – [Ротация](https://stormkeeper.ru/resto/rotation.html) и [Таланты](https://stormkeeper.ru/resto/talents.html).
+Сегодня на очереди – Рестор Шаман, и вас ждут две новых стaтьи – [Ротация](https://stormkeeper.ru/resto/rotation.html) и [Таланты](https://stormkeeper.ru/resto/talents.html).
 
 <!--more-->
 
