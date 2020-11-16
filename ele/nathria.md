@@ -112,7 +112,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Use {{ site.data.spell.hex }} on Shades of Bargast as assigned.
 
 **Notes:**
-- From beta testing, Shades of Bargast gained additional Destabilize stacks for each unique crowd control effect on them. If intended, then use {{ site.data.spell.capacitor_totem}} on them as well.
+- From beta testing, Shades of Bargast gained additional Destabilize stacks for each unique crowd control effect on them. If intended, then use {{ site.data.spell.capacitor_totem }} on them as well.
 
 </div>
 </div>
@@ -144,28 +144,28 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on priority targets.
-- Use {{ site.data.spell.earthquake} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Utilize Spiritwalker's Grace or instant casts for Ember Blast.
 - If talented, hold Primal Storm Elemental for incoming add waves.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) for Crimson Flurry (from Bleakwing Assassins) and Ember Blast (from Shade of Kael'thas) as needed.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if PE talented) for Crimson Flurry (from Bleakwing Assassins) and Ember Blast (from Shade of Kael'thas) as needed.
 - If talented, {{ site.data.talent.spirit_wolf }} allows you to mitigate damage from Soul Pedestals.
 
 **Healing:**
 - If there is any downtime between add phases, support your raid with off-healing through Healing Stream Totem, Chain Heal, and Healing Surge.
-- If talented, you can use {{ site.data.talent.earth_shield}} on Kael'thas for additional healing.
+- If talented, you can use {{ site.data.talent.earth_shield }} on Kael'thas for additional healing.
 - On Mythic difficulty, support healing through Cloak of Absorption with Healing Surge as needed.
 
 **Utilities:**
 - Interrupt Vulgar Brand and Scornful Blast from Vile Occultists as assigned.
 - Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.thunderstorm }} on Reborn Phoenixes as needed.
-- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.capacitor_totem}} on Soul Infusers as needed.
+- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.capacitor_totem }} on Soul Infusers as needed.
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help kite away from Reborn Phoenixes.
 
 **Notes:**
 - This encounter has various phases of priority and AoE damage, with priority damage even moreso on Mythic difficulty. Determine how you need to prioritize your damage to serve your raid team.
-- If using Primal Earth Elemental for {{ site.data.spell.harden_skin}}, make sure it is not picking up adds and interfering with your tanks.
+- If using Primal Earth Elemental for {{ site.data.spell.harden_skin }}, make sure it is not picking up adds and interfering with your tanks.
 
 </div>
 </div>
@@ -257,7 +257,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / AoE / Funnel
 
 **Talents:**
-* **15**: {{ site.datat.talent.echo_of_the_elements}}
+* **15**: {{ site.datat.talent.echo_of_the_elements }}
 * 2 - EcS
 * **45**: {{ site.data.talent.spirit_wolf }}/ES
 * 1 - MotE
@@ -271,7 +271,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the Harnessed Specter add.
-- Use {{ site.data.spell.earthquake} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Pool Maelstrom for incoming add spawns. If Echoes of Great Sundering is equipped, hold a proc for an incoming add spawn as well.
 - Utilize Spiritwalker's Grace or instant casts as needed when targeted with Shared Suffering.
 
@@ -322,7 +322,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} as needed for Dark Recital or as mechanics become overwhelming with increasing damage from Oppressive Atmosphere.
-- {{ site.data.talent.spirit_wolf}} can help you move quickly or mitigate damage from Scarlet Letter, Unstoppable Charge, Castellan's Cadre, and Dancing Fools. {{ site.data.talent.earth_shield}} can offer you HPS against the constant damage from Oppressive Atmosphere alone.
+- {{ site.data.talent.spirit_wolf }} can help you move quickly or mitigate damage from Scarlet Letter, Unstoppable Charge, Castellan's Cadre, and Dancing Fools. {{ site.data.talent.earth_shield }} can offer you HPS against the constant damage from Oppressive Atmosphere alone.
 
 **Utilities:**
 - Interrupt Bolt of Power from Baroness Frieda as assigned.
