@@ -1,0 +1,113 @@
+# Shriekwing
+echolocation: <a href="https://ru.wowhead.com/spell=342074" target="blank">Эхолокация</a>
+bloodcurdling_shriek: <a href="https://ru.wowhead.com/spell=330711" target="blank">Леденящий кровь визг</a>
+reverberating_scream: <a href="https://ru.wowhead.com/spell=344111" target="blank">Раскатистый крик</a> #НетНаЛайве
+echoing_screech: <a href="https://ru.wowhead.com/spell=342863" target="blank">Отдающийся эхом визг</a>
+sonar_shriek: <a href="https://ru.wowhead.com/spell=340047" target="blank">Ультразвуковой визг</a>
+shriekwing: <a href="https://ru.wowhead.com/npc=172145" target="blank">Визгунья</a>
+
+# Huntsman Altimor
+vicious_lunge: <a href="https://ru.wowhead.com/spell=334939" target="blank">Жестокий рывок</a>
+petrifying_howl: <a href="https://ru.wowhead.com/spell=334852" target="blank">Обращающий в камень вой</a>
+sinseeker: <a href="https://ru.wowhead.com/spell=335114" target="blank">Искатель греха</a>
+shatter_shot: <a href="https://ru.wowhead.com/spell=338593" target="blank">Дробящий выстрел</a>
+shattering_stone: <a href="https://ru.wowhead.com/spell=334932" target="blank">Каменные осколки</a> #НоЭтоНеТочно
+pierce_soul: <a href="https://ru.wowhead.com/spell=338609" target="blank">Пронзание души</a>
+shades_of_bargast: <a href="https://ru.wowhead.com/spell=334757" target="blank">Тени Баргаста</a>
+destabilize: <a href="https://ru.wowhead.com/spell=334695" target="blank">Дестабилизация</a>
+bargast: <a href="https://ru.wowhead.com/npc=169457" target="blank">Баргаст</a>
+margore: <a href="https://ru.wowhead.com/npc=165067" target="blank">Маргор</a>
+hecutis: <a href="https://ru.wowhead.com/npc=169458" target="blank">Гекутис</a>
+
+# Sun King's Salvation
+ember_blast: <a href="https://ru.wowhead.com/spell=325877" target="blank">Взрывоопасные угли</a>
+crimson_flurry: <a href="https://ru.wowhead.com/spell=326583" target="blank">Алый шквал</a>
+vulgar_brand: <a href="https://ru.wowhead.com/spell=333002" target="blank">Грубое клеймо</a>
+scornful_blast: <a href="https://ru.wowhead.com/spell=325590" target="blank">Взрыв презрения</a>
+soul_pedestal: <a href="https://ru.wowhead.com/npc=173382" target="blank">Постамент душ</a>
+kaelthas_sunstrider: <a href="https://ru.wowhead.com/npc=165759" target="blank">Кель'тас Солнечный Скиталец </a>
+vile_occultist: <a href="https://ru.wowhead.com/npc=165763" target="blank">Гнусная оккультистка</a>
+soul_infuser: <a href="https://ru.wowhead.com/npc=165762" target="blank">Насыщательница душ</a>
+reborn_phoenix: <a href="https://ru.wowhead.com/npc=168962" target="blank">Возрожденный феникс</a>
+
+# Artificer Xy'mox
+glyph_of_destruction: <a href="https://ru.wowhead.com/spell=325361" target="blank">Символ разрушения</a>
+seed_of_extinction: <a href="https://ru.wowhead.com/spell=329090" target="blank">Семя истребления</a>
+hyperlight_spark: <a href="https://ru.wowhead.com/spell=325399" target="blank">Вспышка гиперсвета</a>
+aura_of_dread: <a href="https://ru.wowhead.com/spell=340870" target="blank">Аура ужаса</a>
+dimensional_tear: <a href="https://ru.wowhead.com/spell=328437" target="blank">Пространственный разрыв</a>
+edge_of_annihilation: <a href="https://ru.wowhead.com/spell=328880" target="blank">Грань Аннигиляции</a>
+possession: <a href="https://ru.wowhead.com/spell=327414" target="blank">Одержимость</a>
+fleeting_spirit: <a href="https://ru.wowhead.com/npc=168317" target="blank">Недолговечный дух</a>
+
+# Hungering Destroyer
+volatile_ejection: <a href="https://ru.wowhead.com/spell=334266" target="blank">Нестабильный выброс</a>
+consume: <a href="https://ru.wowhead.com/spell=334522" target="blank">Поглощение</a>
+gluttonous_miasma: <a href="https://ru.wowhead.com/spell=329298" target="blank">Ненасытные миазмы</a>
+expunge: <a href="https://ru.wowhead.com/spell=329742" target="blank">Истребление</a>
+desolate: <a href="https://ru.wowhead.com/spell=329455" target="blank">Опустошение</a>
+
+# Lady Inerva Darkvein
+shared_suffering: <a href="https://ru.wowhead.com/spell=324983" target="blank">Разделенные муки</a>
+change_of_heart: <a href="https://ru.wowhead.com/spell=325384" target="blank">Изменение намерений</a>
+bottled_anima: <a href="https://ru.wowhead.com/spell=325769" target="blank">Анима в бутылке</a>
+loose_anima: <a href="https://ru.wowhead.com/spell=325184" target="blank">Высвобожденная анима</a>
+condemn: <a href="https://ru.wowhead.com/spell=334017" target="blank">Порицание</a>
+harnessed_specter: <a href="https://ru.wowhead.com/npc=170199" target="blank">Обузданный призрак</a>
+conjured_manifestation: <a href="https://ru.wowhead.com/npc=173484" target="blank">Сотворенное воплощение</a>
+
+# The Council of Blood
+danse_macabre: <a href="https://ru.wowhead.com/spell=328497" target="blank">Пляска смерти</a>
+anima_fountain: <a href="https://ru.wowhead.com/spell=327475" target="blank">Фонтан анимы</a>
+waltz_of_blood: <a href="https://ru.wowhead.com/spell=327619" target="blank">Кровавый вальс</a>
+dark_recital: <a href="https://ru.wowhead.com/spell=331634" target="blank">Темный бал</a>
+dancing_fever: <a href="https://ru.wowhead.com/spell=347350" target="blank">Танцевальная лихорадка</a> #НетНаЛайве
+oppressive_atmosphere: <a href="https://ru.wowhead.com/spell=334909" target="blank">Гнетущая атмосфера</a>
+scarlet_letter: <a href="https://ru.wowhead.com/spell=331708" target="blank">Алое письмо</a>
+unstoppable_charge: <a href="https://ru.wowhead.com/spell=334948" target="blank">Неудержимый натиск</a>
+castellans_cadre: <a href="https://ru.wowhead.com/spell=330965" target="blank">Помощники кастеляна</a>
+dancing_fools: <a href="https://ru.wowhead.com/spell=330964" target="blank">Танцующие болваны</a>
+bolt_of_power: <a href="https://ru.wowhead.com/spell=323538" target="blank">Стрела силы</a>
+baroness_frieda: <a href="https://ru.wowhead.com/npc=166969" target="blank">Баронесса Фрида</a>
+
+# Sludgefist
+destructive_impact: <a href="https://ru.wowhead.com/spell=332969" target="blank">Разрушительный удар</a>
+destructive_stomp: <a href="https://ru.wowhead.com/spell=332318" target="blank">Разрушительный топот</a>
+falling_rubble: <a href="https://ru.wowhead.com/spell=332572" target="blank">Падающие обломки</a>
+chain_slam: <a href="https://ru.wowhead.com/spell=335354" target="blank">Цепной удар</a>
+seismic_shift: <a href="https://ru.wowhead.com/spell=340803" target="blank">Сейсмический сдвиг</a>
+colossal_roar: <a href="https://ru.wowhead.com/spell=332687" target="blank">Громогласный рев</a>
+chain_link: <a href="https://ru.wowhead.com/spell=335300" target="blank">Звено цепи</a>
+collapsing_foundation: <a href="https://ru.wowhead.com/spell=332197" target="blank">Обрушение стен</a>
+
+# Stone Legion Generals
+wicked_blade: <a href="https://ru.wowhead.com/spell=333387" target="blank">Гибельный клинок</a>
+seismic_upheaval: <a href="https://ru.wowhead.com/spell=334500" target="blank">Сейсмическая дрожь</a>
+reverberating_eruption: <a href="https://ru.wowhead.com/spell=344500" target="blank">Раскатистое извержение</a> 
+pulverizing_meteor: <a href="https://ru.wowhead.com/spell=339728" target="blank">Измельчающий метеорит</a>
+heart_hemorrhage: <a href="https://ru.wowhead.com/spell=334771" target="blank">Рана в сердце</a>
+wicked_laceration: <a href="https://ru.wowhead.com/spell=333913" target="blank">Зловещая рана</a>
+heart_rend: <a href="https://ru.wowhead.com/spell=334765" target="blank">Разрыватель сердец</a>
+stonegale_effigy: <a href="https://ru.wowhead.com/spell=342985" target="blank">Идол штормов</a>
+shattering_blast: <a href="https://ru.wowhead.com/spell=332683" target="blank">Сокрушительный взрыв</a>
+
+# Sire Denathrius
+feeding_time: <a href="https://ru.wowhead.com/spell=327089" target="blank">Время кормления</a>
+night_hunter: <a href="https://ru.wowhead.com/spell=327796" target="blank">Ночной охотник</a>
+wracking_pain: <a href="https://ru.wowhead.com/spell=329181" target="blank">Нестерпимая боль</a>
+fatal_finesse: <a href="https://ru.wowhead.com/spell=332797" target="blank">Смертоносная искусность</a>
+smoldering_ire: <a href="https://ru.wowhead.com/spell=336008" target="blank">Тлеющий гнев</a>
+blood_price: <a href="https://ru.wowhead.com/spell=326851" target="blank">Кровавая цена</a>
+cleansing_pain: <a href="https://ru.wowhead.com/spell=326707" target="blank">Очищающая боль</a>
+crimson_chorus: <a href="https://ru.wowhead.com/spell=329711" target="blank">Алый хор</a>
+impale: <a href="https://ru.wowhead.com/spell=329974" target="blank">Пригвождение</a>
+burden_of_sin: <a href="https://ru.wowhead.com/spell=326699" target="blank">Бремя греха</a>
+carnage: <a href="https://ru.wowhead.com/spell=329875" target="blank">Бойня</a>
+march_of_the_penitent: <a href="https://ru.wowhead.com/spell=328276" target="blank">Марш кающихся</a>
+ravage: <a href="https://ru.wowhead.com/spell=327123" target="blank">Разорение</a>
+massacre: <a href="https://ru.wowhead.com/spell=330137" target="blank">Резня</a>
+hand_of_destruction: <a href="https://ru.wowhead.com/spell=330627" target="blank">Длань разрушения</a>
+shattering_pain: <a href="https://ru.wowhead.com/spell=332619" target="blank">Сокрушительная боль</a>
+echo_of_sin: <a href="https://ru.wowhead.com/npc=167999" target="blank">Эхо греха</a>
+sire_denathrius: <a href="https://ru.wowhead.com/npc=168938" target="blank">Сир Денатрий</a>
+remornia: <a href="https://ru.wowhead.com/npc=168156" target="blank">Реморния</a>
