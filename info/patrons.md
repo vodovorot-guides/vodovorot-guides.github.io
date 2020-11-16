@@ -9,15 +9,13 @@ author: Amani
 **Поддержавшие проект:**
 
 * **Чеширский Котэ**
-
 * **Йанто**
 * **Амада**
-
 * **Царап**
 * **Октян**
 * **Gardash**  
 * **Vini**
-
+* **Lem**
 * **ayami**
 * **mihaellle**
 * **Mirshab78**
@@ -40,6 +38,7 @@ author: Amani
 * **Sozzzin**
 * **Sorumond**
 * **Shikki**
+* **Зачем**
 * **Marhosias**
 * **Haelrail**
 * **Kruzer**
