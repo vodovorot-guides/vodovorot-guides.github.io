@@ -38,7 +38,7 @@ author: Amani
 * Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.cl }} + {{ site.data.spells.ch }}, {{ site.data.spells.cleance }} + {{ site.data.spells.purge }} и другие:
 ~~~
 #showtooltip Цепная молния
-/use [@mouseover,nodead,harm]Цепная молния;[@mouseover,nodead,help]Цепное исцеление;[@target,nodead,harm]Цепная молния;[@target,nodead,help][@player] Цепное исцеление~~~
+/use [@mouseover,nodead,harm]Цепная молния;[@mouseover,nodead,help]Цепное исцеление;[@target,nodead,harm]Цепная молния;[@target,nodead,help][@player] Цепное исцеление
 ~~~
 
 * Позволяет вызвать  {{ site.data.spells.fe }} / {{ site.data.spells.igor }} без наличия вражеской цели. Не пуллит босса при использовании!  
@@ -122,12 +122,6 @@ author: Amani
 ~~~
 
 # Исцеление
-
-* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.riptide }} + {{ site.data.spells.fs }}, {{ site.data.spells.dispel }} + {{ site.data.spells.purge }} и другие:
-~~~
-#showtooltip Быстрина
-/use [@mouseover,nodead,harm]Огненный шок;[@mouseover,nodead,help]Быстрина;[@target,nodead,harm]Огненный шок;[@target,nodead,help][@player] Быстрина
-~~~
 
 * Маусовер для атакующих заклинания для Рестора, позволяет атаковать даже в цель союзника под маусовером. Не рекомендуется использовать в ПвП:  
 ~~~
