@@ -38,7 +38,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Talents:**
 * **15**: {{ site.datat.talent.echo_of_the_elements }}
 * **30**: {{ site.data.talent.echoing_shock }} or {{ site.data.talent.elemental_blast }}
-* **45**: {{ site.data.talent.spirit_wolf }} OR {{site.data.talent.earth_shield }}
+* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
 * **75**: {{ site.data.talent.wind_rush_totem }}
 * **90**: {{ site.data.talent.icefury }}
@@ -303,7 +303,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / Funnel
 
 **Talents:**
-* **15**: {{site.datat.talent.echo_of_the_elements }}
+* **15**: {{ site.datat.talent.echo_of_the_elements }}
 * 2 - EcS
 * **45**: {{ site.data.talent.spirit_wolf }}/ES
 * 1 - MotE
@@ -377,7 +377,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** AoE / Cleave
 
 **Talents:**
-* **15**: {{site.datat.talent.echo_of_the_elements }}
+* **15**: {{ site.datat.talent.echo_of_the_elements }}
 * 2 - EcS
 * **45**: {{ site.data.talent.spirit_wolf }}/ES
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -391,7 +391,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
-- Use {{ site.data.spell.earthquake} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - If Echoes of Great Sundering is equipped, prepare a proc for incoming waves of adds.
 - Utilize Spiritwalker's Grace or instant casts as needed when targeted by Wicked Blade, Seismic Upheaval, and Reverberating Eruption.
 
@@ -422,7 +422,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** ST / Cleave / Spread Cleave
 
 **Talents:**
-* **15**: {{site.datat.talent.echo_of_the_elements }}
+* **15**: {{ site.datat.talent.echo_of_the_elements }}
 * 2 - EcS
 * **45**: {{ site.data.talent.spirit_wolf }}/ES
 * **60**: {{ site.data.talent.master_of_the_elements }}
