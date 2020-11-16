@@ -109,7 +109,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - On Mythic difficulty, utilize your healing abilities as needed to keep yourself and nearby members healthy for the impending Pierced Soul adds when soaking Sinseeker during Bargast.
 
 **Utilities:**
-- Use {{ site.data.spell.hex} on Shades of Bargast as assigned.
+- Use {{ site.data.spell.hex }} on Shades of Bargast as assigned.
 
 **Notes:**
 - From beta testing, Shades of Bargast gained additional Destabilize stacks for each unique crowd control effect on them. If intended, then use {{ site.data.spell.capacitor_totem}} on them as well.
