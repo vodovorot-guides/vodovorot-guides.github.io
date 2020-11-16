@@ -26,7 +26,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">
-        <div class="card-header" id="ataldazar">
+        <div class="card-header" id="shriekwing">
             <div data-toggle="collapse" data-target="#shriekwing-collapse" aria-expanded="true" aria-controls="shriekwing-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
         </div>
         <div id="shriekwing-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
@@ -72,7 +72,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
+<div class="card-header" id="altimor">
 <div data-toggle="collapse" data-target="#altimor-collapse" aria-expanded="true" aria-controls="altimor-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
 </div>
 <div id="altimor-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
@@ -120,7 +120,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
+<div class="card-header" id="salvation">
 <div data-toggle="collapse" data-target="#salvation-collapse" aria-expanded="true" aria-controls="salvation-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
 </div>
 <div id="salvation-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
@@ -173,7 +173,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
+<div class="card-header" id="artificer">
 <div data-toggle="collapse" data-target="#artificer-collapse" aria-expanded="true" aria-controls="artificer-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
 </div>
 <div id="artificer-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
@@ -247,7 +247,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
+<div class="card-header" id="darkvein">
 <div data-toggle="collapse" data-target="#darkvein-collapse" aria-expanded="true" aria-controls="darkvein-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
 </div>
 <div id="darkvein-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
@@ -292,7 +292,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
+<div class="card-header" id="council">
 <div data-toggle="collapse" data-target="#council-collapse" aria-expanded="true" aria-controls="council-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
 </div>
 <div id="council-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
@@ -366,7 +366,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
+<div class="card-header" id="generals">
 <div data-toggle="collapse" data-target="#generals-collapse" aria-expanded="true" aria-controls="generals-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
 </div>
 <div id="generals-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
@@ -411,7 +411,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
+<div class="card-header" id="denathrius">
 <div data-toggle="collapse" data-target="#denathrius-collapse" aria-expanded="true" aria-controls="denathrius-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
 </div>
 <div id="denathrius-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
