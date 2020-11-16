@@ -36,13 +36,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
-- 2 - EotE
-- 2/3 - EcS or EB
-- 1/2 - SW or ES
-- 1 - MotE
-- 3 - WRT
-- 3 - IF
-- 2 - SK
+* **15**: {{site.datat.talent.echo_of_the_elements}}
+* **30**: {{ site.data.talent.echoing_shock }} or {{ site.data.talent.elemental_blast }}
+* **45**: {{ site.data.talent.spirit_wolf }} OR {{site.data.talent.earth_shield}}
+* **60**: {{ site.data.talent.master_of_the_elements }}
+* **75**: {{ site.data.talent.wind_rush_totem }}
+* **90**: {{ site.data.talent.icefury }}
+* **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - Windspeaker's Lava Resurgence
@@ -54,7 +54,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} for Bloodcurdling Shriek and Reverberating Scream as needed.
-- Spirit Wolf can help your survivability during intermission. Earth Shield can offer HPS against the constant damage from Reverberating Scream.
+- {{ site.data.talent.spirit_wolf}} can help your survivability during intermission. {{ site.data.talent.earth_shield}} can offer HPS against the constant damage from Reverberating Scream.
 
 **Healing:**
 - Phase 2 is a great opportunity to support your raid with off-healing through Healing Stream Totem, Chain Heal, and Healing Surge as needed.
@@ -82,8 +82,8 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Cleave / Spread Cleave
 
 **Talents:**
-- 2 - EotE
-- 2 - EcS
+* **15**: {{site.datat.talent.echo_of_the_elements}}
+* **30**: {{ site.data.talent.echoing_shock }}
 - 1 - SW
 - 1 - MotE
 - 1 - NG
@@ -97,19 +97,19 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the active pet.
-- Use Earthquake when the boss and active pet are stacked together.
+- Use {{ site.data.spell.earthquake} when the boss and active pet are stacked together.
 - Utilize Spiritwalker's Grace or instant casts for Vicious Lunge and Petrifying Howl, as well as for Sinseeker and Shatter Shot on Mythic difficulty.
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) for Vicious Lunge and Shattering Stone as needed.
 
-- If talented, Spirit Wolf can help your survivability against Sinseeker as needed as well as navigating Petrifying Howl.
+- If talented, {{ site.data.talent.spirit_wolf}} can help your survivability against Sinseeker as needed as well as navigating Petrifying Howl.
 
 **Healing:**
 - On Mythic difficulty, utilize your healing abilities as needed to keep yourself and nearby members healthy for the impending Pierced Soul adds when soaking Sinseeker during Bargast.
 
 **Utilities:**
-- Use Hex on Shades of Bargast as assigned.
+- Use {{ site.data.spell.hex} on Shades of Bargast as assigned.
 
 **Notes:**
 - From beta testing, Shades of Bargast gained additional Destabilize stacks for each unique crowd control effect on them. If intended, then use {{ site.data.spell.capacitor_totem}} on them as well.
@@ -130,9 +130,9 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** AoE / Cleave
 
 **Talents:**
-- 2 - EotE
-- 2 - EcS
-- 1 - SW
+* **15**: {{site.data.talent.echo_of_the_elements}}
+* **30**: {{ site.data.talent.echoing_shock }}
+* **45**: {{ site.data.talent.spirit_wolf }}
 - 1/2 - MotE/SE
 - 1/3 - NG/WRT
 - 2 - PE
@@ -144,17 +144,17 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on priority targets.
-- Use Earthquake when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Utilize Spiritwalker's Grace or instant casts for Ember Blast.
 - If talented, hold Primal Storm Elemental for incoming add waves.
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) for Crimson Flurry (from Bleakwing Assassins) and Ember Blast (from Shade of Kael'thas) as needed.
-- If talented, Spirit Wolf allows you to mitigate damage from Soul Pedestals.
+- If talented, {{ site.data.talent.spirit_wolf}} allows you to mitigate damage from Soul Pedestals.
 
 **Healing:**
 - If there is any downtime between add phases, support your raid with off-healing through Healing Stream Totem, Chain Heal, and Healing Surge.
-- If talented, you can use Earth Shield on Kael'thas for additional healing.
+- If talented, you can use {{ site.data.talent.earth_shield}} on Kael'thas for additional healing.
 - On Mythic difficulty, support healing through Cloak of Absorption with Healing Surge as needed.
 
 **Utilities:**
@@ -183,9 +183,9 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / Spread Cleave
 
 **Talents:**
-* 2 - EotE
-* 2 - EcS
-* 1/2 - SW/ES
+* **15**: {{site.data.talent.echo_of_the_elements}}
+* **30**: {{ site.data.talent.echoing_shock }}
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
 * 1 - MotE
 * 3 - WRT
 * 3 - IF
@@ -200,7 +200,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} as needed for Glyph of Destruction and Seed of Extinction.
-- Spirit Wolf allows you to better navigate the mechanics from each relic. Earth Shield can offer HPS against constant damage (i.e. Hyperlight Spark, Glyph of Destruction, Withering Touch, and Aura of Dread).
+- {{ site.data.talent.spirit_wolf}} allows you to better navigate the mechanics from each relic. {{ site.data.talent.earth_shield}} can offer HPS against constant damage (i.e. Hyperlight Spark, Glyph of Destruction, Withering Touch, and Aura of Dread).
 
 **Utilities:**
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members place Dimensional Tears, move Seeds of Extinction, and avoid Edge of Annihilation.
@@ -213,9 +213,9 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
-* 2 - EotE
-* 2/3 - EcS/EB
-* 1 - SW
+* **15**: {{site.data.talent.echo_of_the_elements}}
+* **30**: {{ site.data.talent.echoing_shock }} OR EB
+* **45**: {{ site.data.talent.spirit_wolf }}
 * 1 - MotE
 * 1/3 - NG/WRT
 * 3 - IF
@@ -230,7 +230,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} as needed for any overlapping mechanics between Gluttonous Miasma, Expunge, and Desolate.
-- If talented, Spirit Wolf can be used to mitigate Consume when you are out of range of the boss, and the increased movement speed will improve your Expunge placements.
+- If talented, {{ site.data.talent.spirit_wolf}} can be used to mitigate Consume when you are out of range of the boss, and the increased movement speed will improve your Expunge placements.
 
 **Healing:**
 - Make sure you are healthy before Expunge is cast. Support your raid members with off-healing if any are dangerously low.
@@ -239,7 +239,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position Volatile Ejection or run away from Consume.
 
 **Notes:**
-- Remember that when you are affected by Gluttonous Miasma, Earth Shield and {{ site.data.talent.natures_guardian }} will not be useful if talented.
+- Remember that when you are affected by Gluttonous Miasma, {{ site.data.talent.earth_shield}} and {{ site.data.talent.natures_guardian }} will not be useful if talented.
 
 </div>
 </div>
@@ -257,9 +257,9 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / AoE / Funnel
 
 **Talents:**
-* 2 - EotE
+* **15**: {{site.datat.talent.echo_of_the_elements}}
 * 2 - EcS
-* 1/2 - SW/ES
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
 * 1 - MotE
 * 1 - NG
 * 2 - PE
@@ -271,13 +271,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the Harnessed Specter add.
-- Use Earthquake when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Pool Maelstrom for incoming add spawns. If Echoes of Great Sundering is equipped, hold a proc for an incoming add spawn as well.
 - Utilize Spiritwalker's Grace or instant casts as needed when targeted with Shared Suffering.
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} as needed for Change of Heart and Bottled Anima vials.
-- Spirit Wolf can be used to mitigate damage from Loose Anima (if channeling) or to run out and soak far away Bottled Anima vials. Earth Shield can offer you HPS because of the constant damage from Loose Anima.
+- {{ site.data.talent.spirit_wolf}} can be used to mitigate damage from Loose Anima (if channeling) or to run out and soak far away Bottled Anima vials. {{ site.data.talent.earth_shield}} can offer you HPS because of the constant damage from Loose Anima.
 
 **Utilities:**
 - Interrupt Condemn as assigned.
@@ -303,9 +303,9 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / Funnel
 
 **Talents:**
-* 2 - EotE
+* **15**: {{site.datat.talent.echo_of_the_elements}}
 * 2 - EcS
-* 1/2 - SW/ES
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
 * 1 - MotE
 * 1/3 - NG/WRT
 * 2 - PE
@@ -322,7 +322,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} as needed for Dark Recital or as mechanics become overwhelming with increasing damage from Oppressive Atmosphere.
-- Spirit Wolf can help you move quickly or mitigate damage from Scarlet Letter, Unstoppable Charge, Castellan's Cadre, and Dancing Fools. Earth Shield can offer you HPS against the constant damage from Oppressive Atmosphere alone.
+- {{ site.data.talent.spirit_wolf}} can help you move quickly or mitigate damage from Scarlet Letter, Unstoppable Charge, Castellan's Cadre, and Dancing Fools. {{ site.data.talent.earth_shield}} can offer you HPS against the constant damage from Oppressive Atmosphere alone.
 
 **Utilities:**
 - Interrupt Bolt of Power from Baroness Frieda as assigned.
@@ -334,9 +334,9 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
-* 2 - EotE
+* **15**: {{site.datat.talent.echo_of_the_elements}}
 * 2 - EcS
-* 1/2 - SW/ES
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
 * 1 - MotE
 * 1/3 - NG/WRT
 * 3 - IF
@@ -352,13 +352,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} as needed for Colossal Roar and Destructive Impact.
-- Because you will take constant damage from Chain Link and Collapsing Foundation, Earth Shield is a good talent option for HPS.
+- Because you will take constant damage from Chain Link and Collapsing Foundation, {{ site.data.talent.earth_shield}} is a good talent option for HPS.
 
 **Utilities:**
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position out of Destructive Stomp or Falling Rubble.
 
 **Notes:**
-- Because of the Chain Link mechanic, be careful about your time spent in Ghost Wolf, especially if you are paired with a player less mobile.
+- Because of the Chain Link mechanic, be careful about your time spent in {{ site.data.spell.ghost_wolf}, especially if you are paired with a player less mobile.
 
 </div>
 </div>
@@ -377,10 +377,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** AoE / Cleave
 
 **Talents:**
-* 2 - EotE
+* **15**: {{site.datat.talent.echo_of_the_elements}}
 * 2 - EcS
-* 1/2 - SW/ES
-* 1 - MotE
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
+* **60**: {{ site.data.talent.master_of_the_elements }}
 * 1/3 - NG/WRT
 * 2 - PE
 * 2 - SK
@@ -391,13 +391,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
-- Use Earthquake when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - If Echoes of Great Sundering is equipped, prepare a proc for incoming waves of adds.
 - Utilize Spiritwalker's Grace or instant casts as needed when targeted by Wicked Blade, Seismic Upheaval, and Reverberating Eruption.
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) as needed for Pulverizing Meteor and Heart Hemorrhage.
-- Because you may take constant damage from Wicked Laceration and Heart Rend, Earth Shield is a good talent option for HPS.
+- Because you may take constant damage from Wicked Laceration and Heart Rend, {{ site.data.talent.earth_shield}} is a good talent option for HPS.
 
 **Utilities:**
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members running for Stonegale Effigy or Shattering Blast.
@@ -422,10 +422,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** ST / Cleave / Spread Cleave
 
 **Talents:**
-* 2 - EotE
+* **15**: {{site.datat.talent.echo_of_the_elements}}
 * 2 - EcS
-* 1/2 - SW/ES
-* 1 - MotE
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
+* **60**: {{ site.data.talent.master_of_the_elements }}
 * 3 - WRT
 * 1/2 - IF/PE
 * 2 - SK
@@ -441,7 +441,7 @@ Phase 1:
 
 Phase 2:
 - Maintain {{ site.data.spell.flame_shock }} on Sire Denathrius, Remornia, and any additional adds as you can.
-- Use Earthquake when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Depending on timings, you may pool Maelstrom and hold CDs to optimize the Wracking Pain debuff on enemies.
 
 Phase 3:
@@ -458,7 +458,7 @@ Phase 3:
 - Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) as needed for Fatal Finesse or Smoldering Ire.
 
 \---
-- This encounter is very movement demanding, so the additional movement from Spirit Wolf can be beneficial in each phase. Burden of Sin, Carnage, Crimson Chorus, and Fatal Finesse are all constant sources of damage that can allow HPS from Earth Shield.
+- This encounter is very movement demanding, so the additional movement from {{ site.data.talent.spirit_wolf}} can be beneficial in each phase. Burden of Sin, Carnage, Crimson Chorus, and Fatal Finesse are all constant sources of damage that can allow HPS from {{ site.data.talent.earth_shield}}.
 
 **Healing:**
 Intermission:
@@ -475,13 +475,13 @@ Phase 3:
 - Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid members navigate Shattering Pain, Hand of Destruction, Ravage, and Massacre.
 
 **Notes:**
-- Because of Ghost Wolf, you will not be slowed during March of the Penitent in Phase 1, but you must be in Ghost Wolf form before the phase begins. Consider not clearing any Burden of Sin stacks during this phase.
+- Because of {{ site.data.spell.ghost_wolf}, you will not be slowed during March of the Penitent in Phase 1, but you must be in {{ site.data.spell.ghost_wolf} form before the phase begins. Consider not clearing any Burden of Sin stacks during this phase.
 - If using Primal Earth Elemental for {{ site.data.spell.harden_skin}}, make sure it is not picking up adds and interfering with your tanks.
 
 # Miscellaneous Tips
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
-- Time spent in Ghost Wolf is time spent not doing damage. Practice proactive movement and utilizing Spiritwalker's Grace and instant casts as much as you can for movement heavy encounters.
+- Time spent in {{ site.data.spell.ghost_wolf} is time spent not doing damage. Practice proactive movement and utilizing Spiritwalker's Grace and instant casts as much as you can for movement heavy encounters.
 
 - When talenting Primal Elementalist, always remember you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun (Pulverize) through Earth Elemental.
 
@@ -489,8 +489,8 @@ Phase 3:
 
 - As kill times become faster on farm, Ancestral Reminder may be a competitive legendary to use for some bosses.
 
-          </div>
-        </div>
-    </div>
+</div>
+</div>
+</div>
 </div>
 </div>
