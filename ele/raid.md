@@ -28,7 +28,7 @@ The tips and recommendations listed here are based on educated opinions from bet
         <div class="card-header" id="ataldazar">
             <div data-toggle="collapse" data-target="#shriekwing-collapse" aria-expanded="true" aria-controls="shriekwing-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
         </div>
-        <div id="shriekwing-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+        <div id="shriekwing-collapse" class="collapse" aria-labelledby="shriekwing" data-parent="#accordion">
           <div class="card-body" markdown="1">   
 
 ## Shriekwing
@@ -74,7 +74,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 <div class="card-header" id="ataldazar">
 <div data-toggle="collapse" data-target="#altimor-collapse" aria-expanded="true" aria-controls="altimor-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
 </div>
-<div id="altimor-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+<div id="altimor-collapse" class="collapse" aria-labelledby="altimor" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
 ## Huntsman Altimor
@@ -122,7 +122,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 <div class="card-header" id="ataldazar">
 <div data-toggle="collapse" data-target="#salvation-collapse" aria-expanded="true" aria-controls="salvation-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
 </div>
-<div id="salvation-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+<div id="salvation-collapse" class="collapse" aria-labelledby="salvation" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
 ## Sun King's Salvation
@@ -175,7 +175,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 <div class="card-header" id="ataldazar">
 <div data-toggle="collapse" data-target="#artificer-collapse" aria-expanded="true" aria-controls="artificer-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
 </div>
-<div id="artificer-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+<div id="artificer-collapse" class="collapse" aria-labelledby="artificer" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
 ## Artificer Xy'mox
@@ -249,7 +249,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 <div class="card-header" id="ataldazar">
 <div data-toggle="collapse" data-target="#darkvein-collapse" aria-expanded="true" aria-controls="darkvein-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
 </div>
-<div id="darkvein-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+<div id="darkvein-collapse" class="collapse" aria-labelledby="darkvein" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
 ## Lady Inerva Darkvein
