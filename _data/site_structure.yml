@@ -12,18 +12,18 @@ categories:
         - title: Кратко и быстро
           url: /ele/tldr.html
           disabled: true
-        - title: Ковенанты
-          url: /ele/covenants.html
-        - title: Легендарки
-          url: /ele/legendaries.html
-        - title: Проводники
-          url: /ele/conduits.html
         - title: Способности и ротация
           url: /ele/rotation.html
           disabled: true
         - title: Таланты и билды
           url: /ele/talents.html
           disabled: true
+        - title: Ковенанты
+          url: /ele/covenants.html
+        - title: Легендарки
+          url: /ele/legendaries.html
+        - title: Проводники
+          url: /ele/conduits.html
         - title: Статы и BiS вещи
           url: /ele/stats_and_gear.html
           disabled: true
@@ -59,18 +59,18 @@ categories:
         - title: Кратко и быстро
           url: /enh/tldr.html
           disabled: true
-        - title: Ковенанты
-          url: /enh/covenants.html
-        - title: Легендарки
-          url: /enh/legendaries.html
-        - title: Проводники
-          url: /enh/conduits.html
         - title: Способности и ротация
           url: /enh/rotation.html
           disabled: true
         - title: Таланты и билды
           url: /enh/talents.html
           disabled: true
+        - title: Ковенанты
+          url: /enh/covenants.html
+        - title: Легендарки
+          url: /enh/legendaries.html
+        - title: Проводники
+          url: /enh/conduits.html
         - title: Статы и BiS вещи
           url: /enh/stats_and_gear.html
           disabled: true
@@ -106,16 +106,16 @@ categories:
         - title: Кратко и быстро
           url: /resto/tldr.html
           disabled: true
+        - title: Способности и ротация
+          url: /resto/rotation.html
+        - title: Таланты и билды
+          url: /resto/talents.html
         - title: Ковенанты
           url: /resto/covenants.html
         - title: Легендарки
           url: /resto/legendaries.html
         - title: Проводники
           url: /resto/conduits.html
-        - title: Способности и ротация
-          url: /resto/rotation.html
-        - title: Таланты и билды
-          url: /resto/talents.html
         - title: Статы и BiS вещи
           url: /resto/stats_and_gear.html
           disabled: true
