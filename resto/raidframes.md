@@ -1,12 +1,11 @@
 ---
-title: Рейдовые фреймы
+title: Шаман Стихии в препатче Shadowlands
 layout: page
-last_update: 2020-11-17
-wow: 9.0.2
+last_update: 2020-11-18
+wow: 9.0.1
 toc: true
 author: "Amani, Haelrail, Omeja, Langrim"
 ---
-
 
 # Вступление 
 
@@ -31,8 +30,9 @@ author: "Amani, Haelrail, Omeja, Langrim"
 Есть три основных аддона, которые подходят под эти требования, и которые пользуются наибольшей популярностью у игроков – **ElvUI**, **VuhDo** и **Grid2**.
 
 Все эти аддоны можно настроить так, что они будут выглядеть практически идентично:
-<p align="center" width="100%">
-    <img src=https://imgur.com/AYTtoH9.png> 
+
+<p align="center">
+<img src="https://imgur.com/AYTtoH9.png" width=350x> 
 </p>
 
 По сути, они выполняют одни и те же функции, а отличия заключаются в удобстве настройки и различных нюансах и мелочах, которые мы разберем далее. Главное, что следует понимать – выбор между **ElvUI**, **VuhDo** и **Grid2** чаще всего заключается в том, чьи настройки вам наиболее понятны и интуитивны. 
@@ -50,6 +50,9 @@ author: "Amani, Haelrail, Omeja, Langrim"
 
 # ElvUI
 
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/668009359346761748/778347758158610442/unknown.png"> 
+</p>
 
 Этот аддон является полной заменой **всему интерфейсу**, и у этого есть и свои плюсы, и свои минусы. Вам не придется настраивать десяток различных аддонов, потому что все будет в одном месте. Но если вы хотите получить от ElvUI только рейд-фреймы, то придется отключить весь остальной функционал, что обычно не имеет смысла.
 
@@ -65,10 +68,54 @@ author: "Amani, Haelrail, Omeja, Langrim"
 
 Ниже представлены различные **профили ElvUI**, которые вы можете загрузить по ссылкам. Больше профилей можно найти на [Wago.io](https://wago.io/elvui).
 
-<details><summary><i>Нажмите, чтобы увидеть список профилей <b>ElvUI</b></i></summary>
-Undmo https://pastebin.com/MnPVAKbk
+<details open markdown=1><summary><i>Cписок профилей <b>ElvUI:</b></i></summary>
+<br>
+**Cвяжитесь c Amani#0001 в [Discord](https://discordapp.com/invite/zTQhBn8) если вы хотите поделиться своим профилем.**
+
+[**Undmo:**](https://wago.io/KkufMW9Np) + [**иконки ХоТ**](https://pastebin.com/h1fRJcAp)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/775683849614655500/778015402739105862/unknown.png" width=400x> 
+</p>
+
+[**Christi:**](https://wago.io/XAftH1U3U)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/775683849614655500/778362491826208768/unknown.png" width=400x> 
+</p>
+
+[**Omeja:**](https://wago.io/zKQJr1J6q)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/628683700116258816/774250687504580608/unknown.png" width=400x> 
+</p>
+
+[**Mono:**](https://wago.io/HC-6Jgdgk)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/775683849614655500/778376225563344926/unknown.png" width=400x> 
+</p>
+
+[**Andru:**](https://wago.io/58pXDuR-s)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/775683849614655500/778370665924526120/unknown.png" width=400x> 
+</p>
+
+[**Andrew N Bradford:**](https://wago.io/jcXyHwnvy)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/775683849614655500/778368974056456202/unknown.png" width=400x> 
+</p>
 
 </details>
+
 
 <br>
 
@@ -88,11 +135,16 @@ Grid2 является специализированным аддоном, ко
 
 Поэтому просто загрузить готовый профиль и сразу пойти его использовать не всегда получится, предварительно следует проверить его работоспособность.
 
+<details open markdown=1><summary><i>Cписок профилей <b>Grid2:</b></i></summary>
+<br>
+**Cвяжитесь c Amani#0001 в [Discord](https://discordapp.com/invite/zTQhBn8) если вы хотите поделиться своим профилем.**
 
-<details><summary><i>Нажмите, чтобы увидеть список профилей <b>Grid2</b></i></summary>
-https://wago.io/NisekoGrid2_  
-https://wago.io/CGUucjsUe  
-https://pastebin.com/NyjPmqyk  
+[**Niseko:**](https://wago.io/NisekoGrid2_)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/743959777905868930/778371724831227944/unknown.png" width=400x> 
+</p>
 
 </details>
 
@@ -108,11 +160,28 @@ https://pastebin.com/NyjPmqyk
 
 VuhDo имеет **встроенную поддержку** назначения клавиш, включая кнопки мыши, так что вам не потребуется ставить [Clique](https://www.curseforge.com/wow/addons/clique) или использовать макросы. Но эти назначения будут работать только на рейд-фреймы, в отличие от [Clique](https://www.curseforge.com/wow/addons/clique) и макросов.
 
-К сожалению, несмотря на то что VuhDo поддерживает передачу профилей, многие вещи при этом теряются – например, настройки баффов или дебаффов. Поэтому **передавать профили на VuhDo часто не имеет смысла**, так как неизвестно насколько точной будет полученная информация.
+К сожалению, несмотря на то что VuhDo поддерживает передачу профилей, многие вещи при этом теряются – например, настройки баффов или дебаффов. Поэтому **передавать профили на VuhDo часто не имеет смысла**, так как неизвестно насколько точной будет полученная информация. И хотя на [Wago.io](https://wago.io/vuhdo/class-roles/healing) есть соответствующий раздел для VuhDo, будте внимательны при импорте профилей и добавляйте вручную то, что не перенеслось.
 
 Лучший вариант – разобраться в настройках и сделать все самостоятельно.
 
-<details><summary><i>Нажмите, чтобы увидеть примеры <b>VuhDo</b></i></summary>
+<details open markdown=1><summary><i>Cписок профилей <b>VuhDo:</b></i></summary>
+<br>
+**Cвяжитесь c Amani#0001 в [Discord](https://discordapp.com/invite/zTQhBn8) если вы хотите поделиться своим профилем.**
+
+[**Jayare:**](https://wago.io/nXQqnHwkm)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/nXQqnHwkm/5f7f292b49cd10461ffad1b5.jpg" width=400x> 
+</p>
+
+[**Snipi:**](https://wago.io/imrphHL0O)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/778015730217648148/778380469523316796/unknown.png" width=400x> 
+</p>
+
 
 </details>
 
