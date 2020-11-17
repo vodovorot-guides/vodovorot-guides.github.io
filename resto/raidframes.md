@@ -183,13 +183,6 @@ VuhDo имеет **встроенную поддержку** назначени�
 <img src="https://media.wago.io/screenshots/nXQqnHwkm/5f7f292b49cd10461ffad1b5.jpg" width=400x> 
 </p>
 
-[**Snipi:**](https://wago.io/imrphHL0O)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/778015730217648148/778380469523316796/unknown.png" width=400x> 
-</p>
-
 </details>
 
 <br>
