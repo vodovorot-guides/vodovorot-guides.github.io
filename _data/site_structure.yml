@@ -18,11 +18,11 @@ categories:
           url: /ele/legendaries.html
         - title: Проводники
           url: /ele/conduits.html
-        - title: Таланты
-          url: /ele/talents.html
-          disabled: true
-        - title: Ротация
+        - title: Способности и ротация
           url: /ele/rotation.html
+          disabled: true
+        - title: Таланты и билды
+          url: /ele/talents.html
           disabled: true
         - title: Статы и BiS вещи
           url: /ele/stats_and_gear.html
@@ -65,11 +65,11 @@ categories:
           url: /enh/legendaries.html
         - title: Проводники
           url: /enh/conduits.html
-        - title: Таланты
-          url: /enh/talents.html
-          disabled: true
-        - title: Ротация
+        - title: Способности и ротация
           url: /enh/rotation.html
+          disabled: true
+        - title: Таланты и билды
+          url: /enh/talents.html
           disabled: true
         - title: Статы и BiS вещи
           url: /enh/stats_and_gear.html
@@ -124,6 +124,8 @@ categories:
           disabled: true
         - title: Weakauras
           url: /resto/weakauras.html
+      - title: Рейдовые фреймы
+        url: /resto/raidframes.html
       - title: FAQ
         url: /resto/faq.html
         disabled: true
@@ -146,21 +148,6 @@ categories:
         url: /info/macros.html
       - title: Количество целей заклинаний
         url: /info/target_cap.html
-      - title: QE Live – гайд
-        url: /info/qelive.html
-        disabled: true
-      - title: WarcraftLogs – гайд
-        url: /info/wcl.html
-        disabled: true
-      - title: Raidbots – гайд
-        url: /info/raidbots.html
-        disabled: true
-      - title: WoW Analyzer – гайд
-        url: /info/wowa.html
-        disabled: true
-      - title: Почему логи хилов не важны
-        url: /info/heallogs.html
-        disabled: true
       - title: Авторы и благодарности
         url: /info/patrons.html
         divided: true
