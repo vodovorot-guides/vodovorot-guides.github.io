@@ -1,5 +1,5 @@
 ---
-title: Шаман Стихии в препатче Shadowlands
+title: Рейдовые фреймы
 layout: page
 last_update: 2020-11-18
 wow: 9.0.1
