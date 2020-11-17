@@ -107,13 +107,6 @@ author: "Amani, Haelrail, Omeja, Langrim"
 <img src="https://cdn.discordapp.com/attachments/775683849614655500/778370665924526120/unknown.png" width=400x> 
 </p>
 
-[**Andrew N Bradford:**](https://wago.io/jcXyHwnvy)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/775683849614655500/778368974056456202/unknown.png" width=400x> 
-</p>
-
 </details>
 
 
