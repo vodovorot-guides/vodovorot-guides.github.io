@@ -18,9 +18,9 @@ categories:
         - title: Таланты и билды
           url: /ele/talents.html
           disabled: true
-        - title: Ковенанты
+        - title: Выбор ковенанта
           url: /ele/covenants.html
-        - title: Легендарки
+        - title: Легендарные предметы
           url: /ele/legendaries.html
         - title: Проводники
           url: /ele/conduits.html
@@ -65,9 +65,9 @@ categories:
         - title: Таланты и билды
           url: /enh/talents.html
           disabled: true
-        - title: Ковенанты
+        - title: Выбор ковенанта
           url: /enh/covenants.html
-        - title: Легендарки
+        - title: Легендарные предметы
           url: /enh/legendaries.html
         - title: Проводники
           url: /enh/conduits.html
@@ -110,9 +110,9 @@ categories:
           url: /resto/rotation.html
         - title: Таланты и билды
           url: /resto/talents.html
-        - title: Ковенанты
+        - title: Выбор ковенанта
           url: /resto/covenants.html
-        - title: Легендарки
+        - title: Легендарные предметы
           url: /resto/legendaries.html
         - title: Проводники
           url: /resto/conduits.html
