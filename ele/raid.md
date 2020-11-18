@@ -5,208 +5,30 @@ last_update: 2020-10-03
 wow: 8.3.0
 ---
 
-# Introduction
-This guide was made possible by:
+# Вступление
 
-- Altenna (Discord: JudgeJames#0001 \| [Twitch](https://www.twitch.tv/judgejames) \| [Twitter](https://twitter.com/_judgejames_))
-- Amani (Discord: Amani#0001 \| [Discord Server](https://discordapp.com/invite/zTQhBn8) \| [YouTube](https://www.youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg))
-- Cayna (Discord: cayna#0103 \| [Twitch](https://www.twitch.tv/cayna))
-- HawkCorrigan (Discord: HawkCorrigan#1811)
-- Sheffy (Discord: Sheffy#4928 \| [Twitch](https://www.twitch.tv/sheffywow) \| [Twitter](https://twitter.com/SheffyWoW))
+* Подробный гайд про легендарные предметы можно найти по этой ссылке: [Гайд от Медифк](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMNZkXt5mDot7SXx6My6sHZd6EfoI0lEdpK0F8q3pnSEgPfya_gCAcTKUye2XhgjmM57URlcipuxAS/pubhtml#) 
 
-Information on this page is written with the assumption that you understand the new priority list, talents, and legendary items introduced in Shadowlands. If you have not done so, we highly recommend reading our other resources to learn about them!
+* Калькулятор легендарных предметов доступен [по этой ссылке.](https://shadowlands.wowhead.com/legendary-calc/shaman)
 
-The tips and recommendations listed here are based on educated opinions from beta testing as well as reviewing logs and videos, so strategies can change as we develop a better understanding of each fight or as the spec and bosses are tuned. If you have any disagreements, feedback, or questions, please feel welcome to reach out to the team.
-# Bosses
+* Основной ресурс для крафта легендарки – {{ site.data.legend.soul_ash }}. Он добывается в Торгасте и имеет ограничение на получение в неделю.
 
-<p style="color:red">Click/tap on a dungeon's header image to expand it.</p>
+* Специальные «силы» для легендарки, например {{ site.data.legend.reminder_item }}, выбиваются из различного типа контента – Рейд, Подземелья, Мировые боссы, ПвП. Шанс на выпадение – **100%** вероятностью, и эти силы доступны всем персонажам на аккаунте.
 
-<hr>
-<div class="dungeon-accordion">
-  <div id="accordion">
-    <div class="card">
-        <div class="card-header" id="ataldazar">
-            <div data-toggle="collapse" data-target="#shriekwing-collapse" aria-expanded="true" aria-controls="shriekwing-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
-        </div>
-        <div id="shriekwing-collapse" class="collapse" aria-labelledby="shriekwing" data-parent="#accordion">
-          <div class="card-body" markdown="1">   
+* Помимо реагента {{ site.data.legend.soul_ash }} и легендарной силы, для крафта также потребуется заготовка предмета (типа {{ site.data.legend.helmet }}), которая покупается на аукционе.
 
-## Shriekwing
+* Можно выбрать желаемые характеристики на легендарном предмете. Для этого используются свитки начертателей, например {{ site.data.legend.crit_scroll }}.
 
-**Boss Fight Profile:** Single-Target
+* Легендарные предметы имеют **четыре** уровня градации (**«тира»**). Они отличаются уровнем предмета (**190**, **210**, **225** и **235**) и количеством характеристик, сама легендарная особенность не усиливается.
 
-**Talents:**
-* **15**: {{ site.datat.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }} or {{ site.data.talent.elemental_blast }}
-* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* **75**: {{ site.data.talent.wind_rush_totem }}
-* **90**: {{ site.data.talent.icefury }}
-* **100**: {{ site.data.talent.stormkeeper }}
+* Легендарку нельзя никак распылить и вернуть за неё реагенты. 
 
-**Potential Legendaries:**
-- Windspeaker's Lava Resurgence
-- Elemental Equilibrium
+* Классовые легендарки можно скрафтить на выбор в **два слота** экипировки. Так как последние два босса в Замке Нафрия дают лут выше на **7 ilvl**, нам следует подбирать слот для легендарки исходя из лут-таблицы.
 
-**Damage:**
-- Utilize Spiritwalker's Grace or instant casts if targeted with Echolocation.
-- If possible, pool Maelstrom on Shriekwing during Phase 2, but do not be reckless for it.
+* Не стоит кратфтить леги в слот перчаток и плаща – c **Генералов Каменного легиона**, предпоследнего босса Замка Нафрия, выпадают предметы с отличными характеристиками в эти слоты – {{ site.data.loot.182991 }} и {{ site.data.loot.183032 }}.
 
-**Defensives:**
-- Use {{ site.data.spell.astral_shift }} for Bloodcurdling Shriek and Reverberating Scream as needed.
-- {{ site.data.talent.spirit_wolf }} can help your survivability during intermission. {{ site.data.talent.earth_shield }} can offer HPS against the constant damage from Reverberating Scream.
+* С **Сира Денатрия** падают наплечники и кольцо, но оба они с **Искусностью** – {{ site.data.loot.183003 }} и {{ site.data.loot.183036 }}. Но так как** Интеллект** снова является одной из лучших характеристик, а на кольце гораздо больше **Скорости**, крафт в эти слоты также не рекомендуется.
 
-**Healing:**
-- Phase 2 is a great opportunity to support your raid with off-healing through Healing Stream Totem, Chain Heal, and Healing Surge as needed.
-
-**Utilities:**
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members with Echolocation, Echoing Shreek, or throughout Phase 2.
-
-**Notes:**
-- The damage patterns for this fight are either small trickles or very lethal. As such, {{ site.data.talent.natures_guardian }} may not prove useful, and {{ site.data.talent.wind_rush_totem }} will offer better survivability for you and your raid.
-- Because Sonar Shriek is a Horrify and not a Fear, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
-        
-</div>
-</div>
-</div>
-
-<div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#altimor-collapse" aria-expanded="true" aria-controls="altimor-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
-</div>
-<div id="altimor-collapse" class="collapse" aria-labelledby="altimor" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
-
-## Huntsman Altimor
-
-**Boss Fight Profile:** Cleave / Spread Cleave
-
-**Talents:**
-* **15**: {{ site.datat.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }}
-- 1 - SW
-- 1 - MotE
-- 1 - NG
-- 2 - PE
-- 2 - SK
-
-**Potential Legendaries:**
-- Skybreaker's Fiery Demise
-- Echoes of Great Sundering
-- Elemental Equilibrium
-
-**Damage:**
-- Maintain {{ site.data.spell.flame_shock }} on the boss and the active pet.
-- Use {{ site.data.spell.earthquake}} when the boss and active pet are stacked together.
-- Utilize Spiritwalker's Grace or instant casts for Vicious Lunge and Petrifying Howl, as well as for Sinseeker and Shatter Shot on Mythic difficulty.
-
-**Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if PE talented) for Vicious Lunge and Shattering Stone as needed.
-
-- If talented, {{ site.data.talent.spirit_wolf }} can help your survivability against Sinseeker as needed as well as navigating Petrifying Howl.
-
-**Healing:**
-- On Mythic difficulty, utilize your healing abilities as needed to keep yourself and nearby members healthy for the impending Pierced Soul adds when soaking Sinseeker during Bargast.
-
-**Utilities:**
-- Use {{ site.data.spell.hex }} on Shades of Bargast as assigned.
-
-**Notes:**
-- From beta testing, Shades of Bargast gained additional Destabilize stacks for each unique crowd control effect on them. If intended, then use {{ site.data.spell.capacitor_totem }} on them as well.
-
-</div>
-</div>
-</div>
-
-<div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#salvation-collapse" aria-expanded="true" aria-controls="salvation-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
-</div>
-<div id="salvation-collapse" class="collapse" aria-labelledby="salvation" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
-
-## Sun King's Salvation
-
-**Boss Fight Profile:** AoE / Cleave
-
-**Talents:**
-* **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }}
-* **45**: {{ site.data.talent.spirit_wolf }}
-- 1/2 - MotE/SE
-- 1/3 - NG/WRT
-- 2 - PE
-- 2 - SK
-
-**Potential Legendaries:**
-- Skybreaker's Fiery Demise
-- Echoes of Great Sundering
-
-**Damage:**
-- Maintain {{ site.data.spell.flame_shock }} on priority targets.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
-- Utilize Spiritwalker's Grace or instant casts for Ember Blast.
-- If talented, hold Primal Storm Elemental for incoming add waves.
-
-**Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if PE talented) for Crimson Flurry (from Bleakwing Assassins) and Ember Blast (from Shade of Kael'thas) as needed.
-- If talented, {{ site.data.talent.spirit_wolf }} allows you to mitigate damage from Soul Pedestals.
-
-**Healing:**
-- If there is any downtime between add phases, support your raid with off-healing through Healing Stream Totem, Chain Heal, and Healing Surge.
-- If talented, you can use {{ site.data.talent.earth_shield }} on Kael'thas for additional healing.
-- On Mythic difficulty, support healing through Cloak of Absorption with Healing Surge as needed.
-
-**Utilities:**
-- Interrupt Vulgar Brand and Scornful Blast from Vile Occultists as assigned.
-- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.thunderstorm }} on Reborn Phoenixes as needed.
-- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.capacitor_totem }} on Soul Infusers as needed.
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help kite away from Reborn Phoenixes.
-
-**Notes:**
-- This encounter has various phases of priority and AoE damage, with priority damage even moreso on Mythic difficulty. Determine how you need to prioritize your damage to serve your raid team.
-- If using Primal Earth Elemental for {{ site.data.spell.harden_skin }}, make sure it is not picking up adds and interfering with your tanks.
-
-</div>
-</div>
-</div>
-
-<div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#artificer-collapse" aria-expanded="true" aria-controls="artificer-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
-</div>
-<div id="artificer-collapse" class="collapse" aria-labelledby="artificer" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
-
-## Artificer Xy'mox
-
-**Boss Fight Profile:** Single-Target / Spread Cleave
-
-**Talents:**
-* **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }}
-* **45**: {{ site.data.talent.spirit_wolf }}/ES
-* 1 - MotE
-* 3 - WRT
-* 3 - IF
-* 2 - SK
-
-**Potential Legendaries:**
-- Windspeaker's Lava Resurgence
-- Elemental Equilibrium
-
-**Damage:**
-- This is a very movement heavy fight, so be proactive with your instant casts and use Spiritwalker's Grace liberally.
-
-**Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for Glyph of Destruction and Seed of Extinction.
-- {{ site.data.talent.spirit_wolf }} allows you to better navigate the mechanics from each relic. {{ site.data.talent.earth_shield }} can offer HPS against constant damage (i.e. Hyperlight Spark, Glyph of Destruction, Withering Touch, and Aura of Dread).
-
-**Utilities:**
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members place Dimensional Tears, move Seeds of Extinction, and avoid Edge of Annihilation.
-
-**Notes:**
-- Because the Possession from Fleeting Spirits is a mind control and not a Charm, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
 
 ## Hungering Destroyer
 
