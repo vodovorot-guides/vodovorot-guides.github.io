@@ -32,7 +32,6 @@ categories:
           disabled: true
       - title: Weakauras
         url: /ele/weakauras.html
-        disabled: true
       - title: Замок Нафрия
         url: /ele/nathria.html
         disabled: true
