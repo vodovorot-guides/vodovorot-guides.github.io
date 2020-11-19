@@ -30,10 +30,8 @@ categories:
         - title: Расходники
           url: /ele/consumables.html
           disabled: true
-        - title: Weakauras
-          url: /ele/weakauras.html
-      - title: FAQ
-        url: /ele/faq.html
+      - title: Weakauras
+        url: /ele/weakauras.html
         disabled: true
       - title: Замок Нафрия
         url: /ele/nathria.html
@@ -77,11 +75,8 @@ categories:
         - title: Расходники
           url: /enh/consumables.html
           disabled: true
-        - title: Weakauras
-          url: /enh/weakauras.html
-      - title: FAQ
-        url: /enh/faq.html
-        disabled: true
+      - title: Weakauras
+        url: /enh/weakauras.html
       - title: Замок Нафрия
         url: /enh/nathria.html
         disabled: true
@@ -122,13 +117,10 @@ categories:
         - title: Расходники
           url: /resto/consumables.html
           disabled: true
-        - title: Weakauras
-          url: /resto/weakauras.html
+      - title: Weakauras
+        url: /resto/weakauras.html
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
-      - title: FAQ
-        url: /resto/faq.html
-        disabled: true
       - title: Замок Нафрия
         url: /resto/nathria.html
         disabled: true
