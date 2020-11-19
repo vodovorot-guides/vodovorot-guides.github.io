@@ -33,7 +33,7 @@ author: Amani
 
 * Выбор слота для крафта носит рекомендательный характер и основан на [таблице лута от Amani](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy).
 
-# Легендарки элема
+# Спековые легендарки
 
 **{{ site.data.legend.lava }}** – дает прок {{ site.data.spells.lava_surge }} и усиливает {{ site.data.spells.lvb }} на **20%** после каждого применения {{ site.data.spells.es }}.
 
@@ -127,6 +127,8 @@ author: Amani
 * Потенциально наносит хороший урон на АоЕ.
 
 # Общие легендарки
+
+> Практически бесполезные для Элема легендарки.
 
 **{{ site.data.legend.jailer }}** – специальная легендарка для фарма Утробы.  
 * **Источник**: Квестовая цепочка.  
