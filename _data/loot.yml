@@ -1,4 +1,52 @@
+# Лут с ластов
 cloak1: <a href="https://ru.wowhead.com/item=183032" target="blank">Гордый плащ каменного генерала</a>
 gloves1: <a href="https://ru.wowhead.com/item=182991" target="blank">Рукавицы присягнувшего солдата</a>
 shoulder1: <a href="https://ru.wowhead.com/item=183003" target="blank">Наплечье фатального финала</a>
 ring1: <a href="https://ru.wowhead.com/item=183036" target="blank">Царственная печатка сира Денатрия</a>
+
+# Инчант
+## Оружие 
+Enchant_Weapon_Lightless_Force: <a href="https://ru.wowhead.com/item=172370" target="blank">Чары для оружия - сумрачная сила</a>
+Ascended_Vigor: <a href="https://ru.wowhead.com/item=172365" target="blank">Неутомимость перерожденных"</a>
+## Нагрудник 
+Enchant_Chest_Eternal_Stats: <a href="https://ru.wowhead.com/item=177962" target="blank">Чары для нагрудника - вечные характеристики</a>
+Enchant_Chest_Eternal_Bulwark: <a href="https://ru.wowhead.com/item=172418" target="blank">Чары для нагрудника - вечный оплот</a>
+## Сапоги
+Enchant_Boots_Eternal_Agility: <a href="https://ru.wowhead.com/item=172419" target="blank">Чары для обуви – вечная ловкость</a>
+## Плащ
+Enchant_Cloak_Fortified_Leech: <a href="https://ru.wowhead.com/item=172412" target="blank">Чары для плаща – повышенное самоисцеление</a>
+Enchant_Cloak_Fortified_Avoidance: <a href="https://ru.wowhead.com/item=172411" target="blank">Чары для плаща – повышенное избежание</a>
+## Кольцо
+Enchant_Ring_Tenet_of_Versatility: <a href="https://ru.wowhead.com/item=172364" target="blank">Чары для кольца "Догмат универсальности"</a>
+Enchant_Ring_Tenet_of_Haste: <a href="https://ru.wowhead.com/item=172364" target="blank">Чары для кольца "Догмат скорости"</a>
+
+# Ювелирное дело
+Deadly_Jewel_Cluster: <a href="https://ru.wowhead.com/item=173127" target="blank">Композиция самоцветов смертоносности</a>
+Versatile_Jewel_Cluster: <a href="https://ru.wowhead.com/item=173129" target="blank">Композиция самоцветов универсальности</a>
+Quick_Jewel_Cluster: <a href="https://ru.wowhead.com/item=173128" target="blank">Композиция самоцветов стремительности</a>
+
+# Кулинария
+Feast_of_Gluttonous_Hedonism: <a href="https://ru.wowhead.com/item=172043" target="blank">Пиршество гедонистического обжорства</a>
+Tenebrous_Crown_Roast_Aspic: <a href="https://ru.wowhead.com/item=172045" target="blank">Заливное "Темная корона"</a>
+Smothered_Shank: <a href="https://ru.wowhead.com/item=172062" target="blank">Тушеная рулька</a>
+Steak_a_la_Mode: <a href="https://ru.wowhead.com/item=172051" target="blank">Стейк с овощами</a>
+Phantasmal_Souffle_and_Fries: <a href="https://ru.wowhead.com/item=172041" target="blank">Фантомное суфле с жареной картошкой</a>
+Infused_Endmire_Fruit: <a href="https://ru.wowhead.com/item=182592" target="blank">Насыщенный фрукт Гиблотопи</a>
+
+# Алхимия
+Eternal_Flask: <a href="https://ru.wowhead.com/item=171280" target="blank">Настой вечности</a>
+
+Shadowcore_Oil: <a href="https://ru.wowhead.com/item=171285" target="blank">Масло теневого ядра</a>
+
+Potion_of_Phantom_Fire: <a href="https://ru.wowhead.com/item=171349" target="blank">Зелье фантомного огня</a>
+Potion_of_Empowered_Exorcisms: <a href="https://ru.wowhead.com/item=171352" target="blank">Зелье усиленного экзорцизма</a>
+Potion_of_Deathly_Fixation: <a href="https://ru.wowhead.com/item=171351" target="blank">Зелье смертельной фиксации</a>
+Potion_of_Spectral_Agility: <a href="https://ru.wowhead.com/item=171270" target="blank">Зелье призрачной ловкости</a>
+
+Spiritual_Healing_Potion: <a href="https://ru.wowhead.com/item=171267" target="blank">Духовное зелье исцеления</a>
+Phial_of_Serenity: <a href="https://ru.wowhead.com/item=177278" target="blank">Флакон безмятежности</a>
+Potion_of_the_Psychopomps_Speed: <a href="https://ru.wowhead.com/item=184090" target="blank">Зелье скорости психопомпа</a>
+Potion_of_the_Hidden_Spirit: <a href="https://ru.wowhead.com/item=171266" target="blank">Зелье скрытого духа</a>
+
+# Кожевничество 
+Heavy_Desolate_Armor_Kit: <a href="https://ru.wowhead.com/item=171437" target="blank">Накладки для доспехов из толстой могильной кожи</a>
