@@ -9,7 +9,7 @@ author: Amani
 
 # Вступление
 
-* Подробный гайд про легендарные предметы можно найти по этой ссылке: [Гайд от Медифк](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMNZkXt5mDot7SXx6My6sHZd6EfoI0lEdpK0F8q3pnSEgPfya_gCAcTKUye2XhgjmM57URlcipuxAS/pubhtml#) 
+* Подробный гайд про легендарные предметы можно найти по этой ссылке: [гайд от Медифк](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMNZkXt5mDot7SXx6My6sHZd6EfoI0lEdpK0F8q3pnSEgPfya_gCAcTKUye2XhgjmM57URlcipuxAS/pubhtml#) 
 
 * Калькулятор легендарных предметов доступен [по этой ссылке.](https://shadowlands.wowhead.com/legendary-calc/shaman)
 
@@ -33,7 +33,7 @@ author: Amani
 
 * Выбор слота для крафта носит рекомендательный характер и основан на [таблице лута от Amani](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy).
 
-# Легендарки Элема
+# Легендарки элема
 
 **{{ site.data.legend.lava }}** – дает прок {{ site.data.spells.lava_surge }} и усиливает {{ site.data.spells.lvb }} на **20%** после каждого применения {{ site.data.spells.es }}.
 
