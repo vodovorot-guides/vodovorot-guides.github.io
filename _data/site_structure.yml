@@ -7,11 +7,8 @@ categories:
       - title: Гайд
         url: /ele/intro.html
         subsubcategories:
-        - title: Вступление
+        - title: Основная информация
           url: /ele/intro.html
-        - title: Кратко и быстро
-          url: /ele/tldr.html
-          disabled: true
         - title: Способности и ротация
           url: /ele/rotation.html
           disabled: true
@@ -51,11 +48,8 @@ categories:
       - title: Гайд
         url: /enh/intro.html
         subsubcategories:
-        - title: Вступление
+        - title: Основная информация
           url: /enh/intro.html
-        - title: Кратко и быстро
-          url: /enh/tldr.html
-          disabled: true
         - title: Способности и ротация
           url: /enh/rotation.html
           disabled: true
@@ -95,11 +89,8 @@ categories:
       - title: Гайд
         url: /resto/intro.html
         subsubcategories:
-        - title: Вступление
+        - title: Основная информация
           url: /resto/intro.html
-        - title: Кратко и быстро
-          url: /resto/tldr.html
-          disabled: true
         - title: Способности и ротация
           url: /resto/rotation.html
         - title: Таланты и билды
