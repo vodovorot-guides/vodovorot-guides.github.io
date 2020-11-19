@@ -1,8 +1,10 @@
 ---
-title: Рейд
+title: Легендарные силы – Шаман Стихии
 layout: page
-last_update: 2020-10-03 
-wow: 8.3.0
+last_update: 2020-11-19
+wow: 9.0.2
+toc: true
+author: Amani
 ---
 
 # Вступление
@@ -23,296 +25,137 @@ wow: 8.3.0
 
 * Легендарку нельзя никак распылить и вернуть за неё реагенты. 
 
-* Классовые легендарки можно скрафтить на выбор в **два слота** экипировки. Так как последние два босса в Замке Нафрия дают лут выше на **7 ilvl**, нам следует подбирать слот для легендарки исходя из лут-таблицы.
+* Классовые легендарки можно скрафтить на выбор в **два слота** экипировки. Так как последние два босса в Замке Нафрия дают лут выше на **7 ilvl**, нам следует подбирать слот для легендарки исходя из [лут-таблицы](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy).
 
-* Не стоит кратфтить леги в слот перчаток и плаща – c **Генералов Каменного легиона**, предпоследнего босса Замка Нафрия, выпадают предметы с отличными характеристиками в эти слоты – {{ site.data.loot.gloves1 }} и {{ site.data.loot.cloak1 }}.
+* Не стоит кратфтить леги в слот перчаток и плаща – c Генералов Каменного легиона, предпоследнего босса Замка Нафрия, выпадают предметы с отличными характеристиками в эти слоты – {{ site.data.loot.gloves1 }} и {{ site.data.loot.cloak1 }}.
 
-* С **Сира Денатрия** падают наплечники и кольцо, но оба они с **Искусностью** – {{ site.data.loot.shoulder1 }} и {{ site.data.loot.ring1 }}. Но так как** Интеллект** снова является одной из лучших характеристик, а на кольце гораздо больше **Скорости**, крафт в эти слоты также не рекомендуется.
+* С Сира Денатрия падают наплечники и кольцо, но оба они с Искусностью – {{ site.data.loot.shoulder1 }} и {{ site.data.loot.ring1 }}. Но так как **Интеллект** снова является одной из лучших характеристик, а на кольце гораздо больше Скорости, крафт в эти слоты также не рекомендуется.
 
+* Выбор слота для крафта носит рекомендательный характер и основан на [таблице лута от Amani](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy).
 
-## Hungering Destroyer
+# Легендарки Элема
 
-**Boss Fight Profile:** Single-Target
+**{{ site.data.legend.lava }}** – дает прок {{ site.data.spells.lava_surge }} и усиливает {{ site.data.spells.lvb }} на **20%** после каждого применения {{ site.data.spells.es }}.
 
-**Talents:**
-* **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }} OR EB
-* **45**: {{ site.data.talent.spirit_wolf }}
-* 1 - MotE
-* 1/3 - NG/WRT
-* 3 - IF
-* 2 - SK
+* **Лучшая легендарка в бою против одной цели.**
+* **Источник:** Мировой босс – Валинор. 
+* **Слоты:** **Ступни**, ~~Спина~~.
 
-**Potential Legendaries:**
-- Windspeaker's Lava Resurgence
-- Elemental Equilibrium
+* Значительно обходит другие легендарки в бою против одной цели.
+* С талантом {{ site.data.spells.afs }} можно уйти в оверкап энергии Водоворота, поэтому лучше использовать {{ site.data.spells.ecs }} или {{ site.data.spells.eb }}.
+* При использовании таланта {{ site.data.spells.ecs }} дублированный {{ site.data.spells.lvb }} **НЕ БУДЕТ** усилен на **20%**, так как считается за отдельное заклинание.
+* А вот дублированные {{ site.data.spells.lvb }} от способности Некролордов, {{ site.data.covenants.pw }}, **БУДУТ** усилены на **20%**
+* Хорошо скалируется от **Искусности** и очень слабо от **Критического удара**. 
+* Не рекомендуется использовать в **Мифик+**.
+* В **рейде** используется на всех боях против одной цели – Визгунья, Изобретатель Зи'мокс, Алчущий разрушитель, Леди Инерва Дарквейн, Совет Крови, Грязешмяк.
 
-**Damage:**
-- Utilize Spiritwalker's Grace or instant casts when spreading for Volatile Ejection and running from Consume.
+**{{ site.data.legend.eogs }}** – после использования {{ site.data.spells.es }} увеличивает урон от следующего {{ site.data.spells.quake }} на **175%**.
 
-**Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for any overlapping mechanics between Gluttonous Miasma, Expunge, and Desolate.
-- If talented, {{ site.data.talent.spirit_wolf }} can be used to mitigate Consume when you are out of range of the boss, and the increased movement speed will improve your Expunge placements.
+* **Лучшая легендарка на АоЕ.** 
+* **Источник получения**: Подземелье Та Сторона – Мве'зала. 
+* **Слоты**: **Плечо**, ~~Кисти рук~~. 
 
-**Healing:**
-- Make sure you are healthy before Expunge is cast. Support your raid members with off-healing if any are dangerously low.
+* Длительность баффа после применения {{ site.data.spells.es }} составляет **15** секунд.
+* Сочетается с талантом {{ site.data.spells.afs }}, который и так является нашим лучшим выбором на АоЕ.
+* {{ site.data.spells.es }} с этой легендаркой лучше использовать не сразу на **60** ед. энергии Водоворота, а ближе к **90**, чтобы бафф не успел в случае чего спасть.
+* Хорошо скалируется от **Критического удара**.
+* Используется в **рейде** на АоЕ боях – Ловчий Альтимор, Спасение Солнечного Короля, Леди Инерва Дарквейн, **Генералы Каменного легиона**.
+* Лучший вариант в **Мифик+**, но обращайте внимание на аффиксы и уровень ключа – если танк часто кайтит мобов, то эффективность этой легендарки резко падает.
 
-**Utilities:**
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position Volatile Ejection or run away from Consume.
 
-**Notes:**
-- Remember that when you are affected by Gluttonous Miasma, {{ site.data.talent.earth_shield }} and {{ site.data.talent.natures_guardian }} will not be useful if talented.
+**{{ site.data.legend.fire }}** – повышает шанс Критического удара {{ site.data.spells.fs }} на **50%** и каждый критический тик этой способности снижает кулдаун {{ site.data.spells.fe }} / {{ site.data.spells.storm }} на **1** секунду.
 
-</div>
-</div>
-</div>
+* **Лучшая легендарка на кливе разрозненных целей.** 
+* **Источник**: Замок Нафрия – сир Денатрий. 
+* **Слоты**: **Грудь**, ~~Палец~~.
 
-<div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#darkvein-collapse" aria-expanded="true" aria-controls="darkvein-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
-</div>
-<div id="darkvein-collapse" class="collapse" aria-labelledby="darkvein" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+* В бою против **3-4** целей, время восстановления {{ site.data.spells.fe }} сокращается до **45-55** секунд. 
+* Сочетается со способностью Некролордов {{ site.data.covenants.pw }} и с талантом {{ site.data.spells.primal_elem }}.
+* Гораздо лучше работает с {{ site.data.spells.fe }}, нежели чем с {{ site.data.spells.storm }}, за счет скорости тиков {{ site.data.spells.fs }}.
+* Хорошо скалируется от **Скорости**.
+* Может использоваться в **Мифик+** на неделях с определенными аффиксами, когда танк постоянно кайтит мобов и {{ site.data.spells.quake }} не эффективно.
+* Одна из лучших легендарок для **рейда**, используется на следующих боссах – Ловчий Альтимор, Спасение Солнечного Короля, Совет Крови, **Генералы Каменного легиона** и **Сир Денатрий**.
 
-## Lady Inerva Darkvein
+**{{ site.data.legend.ee }}** – бафф на **15%** всего урона на **10** секунд каждые **30** секунд.
 
-**Boss Fight Profile:** Single-Target / AoE / Funnel
+* **Источник**: Башня Торгаст. 
+* **Слоты**: **Ступни**, ~~Ноги~~.
 
-**Talents:**
-* **15**: {{ site.datat.talent.echo_of_the_elements }}
-* 2 - EcS
-* **45**: {{ site.data.talent.spirit_wolf }}/ES
-* 1 - MotE
-* 1 - NG
-* 2 - PE
-* 2 - SK
+* Эффект срабатывает от {{ site.data.spells.eb }} и {{ site.data.spells.ecs }}. 
+* Является самой универсальной легендаркой, но проигрывает специализированным под тип боя.
 
-**Potential Legendaries:**
-- Windspeaker's Lava Resurgence
-- Echoes of Great Sundering
+# Классовые легендарки
 
-**Damage:**
-- Maintain {{ site.data.spell.flame_shock }} on the boss and the Harnessed Specter add.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
-- Pool Maelstrom for incoming add spawns. If Echoes of Great Sundering is equipped, hold a proc for an incoming add spawn as well.
-- Utilize Spiritwalker's Grace or instant casts as needed when targeted with Shared Suffering.
+**{{ site.data.legend.reminder }}** – продлевает время действия {{ site.data.spells.bl }} / {{ site.data.spells.hero }} на **20** секунд и увеличивает Скорость дополнительно на **10%**.
 
-**Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for Change of Heart and Bottled Anima vials.
-- {{ site.data.talent.spirit_wolf }} can be used to mitigate damage from Loose Anima (if channeling) or to run out and soak far away Bottled Anima vials. {{ site.data.talent.earth_shield }} can offer you HPS because of the constant damage from Loose Anima.
+* **Источник**: Замок Нафрия – Генералы Каменного легиона.  
+* **Слоты**: **Запястья**, ~~Палец~~.
 
-**Utilities:**
-- Interrupt Condemn as assigned.
+* Аналог легендарки из **Legion** – {{ site.data.legend.leg_reminder }}. 
+* Будет тем полезнее, чем короче бой. 
+* В начале освоения рейда – один из самых слабых вариантов.
+* Эта лега может быть полезна тем, кто играет сразу на нескольких спеках.
 
-**Notes:**
-- Because Shaman have the lowest CD interrupt, two Shaman and a tank make an ideal interrupt rotation for a Conjured Manifestation add.
-- If using Primal Earth Elemental for {{ site.data.spell.harden_skin }}, make sure it is not picking up adds and interfering with your tanks.
+**{{ site.data.legend.deeply }}** – применение {{ site.data.spells.lvb }} имеет **7%** шанс вызвать эффект {{ site.data.spells.asc_ele }} на **6** секунд.
 
-</div>
-</div>
-</div>
+* **Источник**: Сундук с еженедельными наградами.  
+* **Слоты**: **Голова**, ~~Плечо~~.
 
-<div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#council-collapse" aria-expanded="true" aria-controls="council-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
-</div>
-<div id="council-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+* Аналог легендарки из **Legion** – {{ site.data.legend.leg_smoldering }}, но с порезанным шансом срабатывания и длительностью. 
+* При проке вызывает срабатывание эффекта как при активации таланта {{ site.data.spells.asc_ele }} – обновление {{ site.data.spells.fs }} и применение к ним {{ site.data.spells.lvb }}.
+* Срабатывает непосредственно от каста {{ site.data.spells.lvb }}, не срабатывает от проков легендарки и от Искусности.
+* Крайне зависит от рандома, шанс срабатывания абсолютно случаен.
+* Может найти применение на кливе разрозненных целей.
 
+**{{ site.data.legend.chains }}** – применение {{ site.data.spells.ch }} делает следующую {{ site.data.spells.cl }} мгновенной и сильнее на **50%**. Применение {{ site.data.spells.cl }} делает следующую {{ site.data.spells.ch }} мгновенным и бесплатным по мане.
 
-## The Council of Blood
+* **Источник**: Покупается за очки чести.  
+* **Слоты**: **Шея**, ~~Грудь~~.
 
-**Boss Fight Profile:** Single-Target / Funnel
+* Можно мгновенно кастовать {{ site.data.spells.ch }} и {{ site.data.spells.cl }} одну за другой.
+* Каждый бафф висит **20** секунд.
+* Сочетается с талантом {{ site.data.spells.sk }}, так как прок перегрузки будет с увеличенным уроном.
+* Крайне ситуативная легендарка, может найти применение в **ПвП** или в случае необходимости активно сапортить.
 
-**Talents:**
-* **15**: {{ site.datat.talent.echo_of_the_elements }}
-* 2 - EcS
-* **45**: {{ site.data.talent.spirit_wolf }}/ES
-* 1 - MotE
-* 1/3 - NG/WRT
-* 2 - PE
-* 2 - SK
-
-**Potential Legendaries:**
-- Skybreaker's Fiery Demise
-- Windspeaker's Lava Resurgence
-
-**Damage:**
-- Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
-- During the Danse Macabre, the bosses are still targetable even with 99% damage reduction. Continue maintaining {{ site.data.spell.flame_shock }}. If Skybreaker's Fiery Demise is equipped, this will especially be a major boon.
-- Utilize Spiritwalker's Grace or instant casts as needed for Anima Fountain, Waltz of Blood, Dark Recital, and Dancing Fever (on Mythic difficulty).
+**{{ site.data.legend.stone }}** – {{ site.data.spells.igor }} постоянно производит {{ site.data.spells.quake }}.
 
-**Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for Dark Recital or as mechanics become overwhelming with increasing damage from Oppressive Atmosphere.
-- {{ site.data.talent.spirit_wolf }} can help you move quickly or mitigate damage from Scarlet Letter, Unstoppable Charge, Castellan's Cadre, and Dancing Fools. {{ site.data.talent.earth_shield }} can offer you HPS against the constant damage from Oppressive Atmosphere alone.
+* **Источник**: Подземелье Чертоги Покаяния – Эшелон.  
+* **Слоты**: **Ступни**, ~~Пояс~~.
 
-**Utilities:**
-- Interrupt Bolt of Power from Baroness Frieda as assigned.
-
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position for Danse Macabre, Anima Fountain, Waltz of Blood.
-
-## Sludgefist
-
-**Boss Fight Profile:** Single-Target
-
-**Talents:**
-* **15**: {{ site.datat.talent.echo_of_the_elements }}
-* 2 - EcS
-* **45**: {{ site.data.talent.spirit_wolf }}/ES
-* 1 - MotE
-* 1/3 - NG/WRT
-* 3 - IF
-* 2 - SK
-
-**Potential Legendaries:**
-- Windspeaker's Lava Resurgence
-- Elemental Equilibrium
-
-**Damage:**
-- Destructive Impact occurs nearly every minute. If Stormkeeper is talented, it is a good idea to line up the cast with each Destructive Impact.
-- Utilize Spiritwalker's Grace or instant casts as needed for Destructive Stomp, Falling Rubble, Chain Slam, and Seismic Shift (on Mythic difficulty).
-
-**Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for Colossal Roar and Destructive Impact.
-- Because you will take constant damage from Chain Link and Collapsing Foundation, {{ site.data.talent.earth_shield }} is a good talent option for HPS.
-
-**Utilities:**
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position out of Destructive Stomp or Falling Rubble.
-
-**Notes:**
-- Because of the Chain Link mechanic, be careful about your time spent in {{ site.data.spell.ghost_wolf }}, especially if you are paired with a player less mobile.
-
-</div>
-</div>
-</div>
-
-<div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#generals-collapse" aria-expanded="true" aria-controls="generals-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
-</div>
-<div id="generals-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
-
+* Под действием этой легендарки {{ site.data.spells.igor }} начинает активно забирать на себя аггро и очень быстро умирает.
+* На данный момент, вызов {{ site.data.spells.igor }} с этой легендаркой поглощает заряд {{ site.data.spells.mote }}, увеличивая урон {{ site.data.spells.quake }} на **20%** на все время действия.
+* Потенциально наносит хороший урон на АоЕ.
 
-## Stone Legion Generals
+# Общие легендарки
 
-**Boss Fight Profile:** AoE / Cleave
+**{{ site.data.legend.jailer }}** – специальная легендарка для фарма Утробы.  
+* **Источник**: Квестовая цепочка.  
+* **Слоты**: Голова, Плечи, Пояс.
 
-**Talents:**
-* **15**: {{ site.datat.talent.echo_of_the_elements }}
-* 2 - EcS
-* **45**: {{ site.data.talent.spirit_wolf }}/ES
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* 1/3 - NG/WRT
-* 2 - PE
-* 2 - SK
+**{{ site.data.legend.phantasma }}** – специальная легендарка для фарма Башни Торгаст.  
+* **Источник**: Башня Торгаст.  
+* **Слоты**: Шея, Запястья, Спина.
 
-**Potential Legendaries:**
-- Echoes of Great Sundering
-- Skybreaker's Fiery Demise
+**{{ site.data.legend.eonar }}** – достаточно сомнительная «саппорт» легендарка, которая повышает урон одному союзнику.  
+* **Источник**: Уважение у Дикой Охоты.  
+* **Слоты**: Пояс, Запястья, Палец.
 
-**Damage:**
-- Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
-- If Echoes of Great Sundering is equipped, prepare a proc for incoming waves of adds.
-- Utilize Spiritwalker's Grace or instant casts as needed when targeted by Wicked Blade, Seismic Upheaval, and Reverberating Eruption.
+**{{ site.data.legend.maw }}** – пока что эта легендарка выглядит сомнительной и бесполезной.  
+* **Источник**: Уважение у Неумирающей армии.  
+* **Слоты**: Ноги, Ступни, Кисти рук.
 
-**Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if PE talented) as needed for Pulverizing Meteor and Heart Hemorrhage.
-- Because you may take constant damage from Wicked Laceration and Heart Rend, {{ site.data.talent.earth_shield }} is a good talent option for HPS.
+**{{ site.data.legend.norgannon }}** – аналог легендарного предмета из Legion – {{ site.data.legend.leg_norgannon }}, но вместо рандомного прока – стакающийся бафф.  
+* **Источник**: Уважение у Двора жнецов.  
+* **Слоты**: Ноги, Ступни, Спина.
 
-**Utilities:**
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members running for Stonegale Effigy or Shattering Blast.
+**{{ site.data.legend.arbitr }}** – пригодится хилам в том случае, если необходимо наносить дополнительный урон. Чем больше людей в рейде с такой легендаркой – тем лучше.  
+* **Источник**: Уважение у Нераскаявшихся.  
+* **Слоты**: Запястья, Кисти рук, Палец.
 
-**Notes:**
-- If using Primal Earth Elemental for {{ site.data.spell.harden_skin }}, make sure it is not picking up adds and interfering with your tanks.
+**{{ site.data.legend.sacrifice }}** – потенциально полезная для танков легендарка, так как и снижает получаемый урон, и наносит его в ответ.  
+* **Источник**: Сундук с еженедельными наградами.  
+* **Слоты**: Голова, Плечо, Грудь.
 
-</div>
-</div>
-</div>
-
-<div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#denathrius-collapse" aria-expanded="true" aria-controls="denathrius-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
-</div>
-<div id="denathrius-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
-
-
-## Sire Denathrius
-
-**Boss Fight Profile:** ST / Cleave / Spread Cleave
-
-**Talents:**
-* **15**: {{ site.datat.talent.echo_of_the_elements }}
-* 2 - EcS
-* **45**: {{ site.data.talent.spirit_wolf }}/ES
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* 3 - WRT
-* 1/2 - IF/PE
-* 2 - SK
-
-**Potential Legendaries:**
-- Skybreaker's Fiery Demise
-- Echoes of Great Sundering
-
-**Damage:**
-Phase 1:
-- Pool Maelstrom for Echo of Sin adds. If talented, hold Stormkeeper for them as well.
-- Use Spiritwalker's Grace or instant casts as needed when targeted by Feeding Time (Night Hunter on Heroic/Mythic).
-
-Phase 2:
-- Maintain {{ site.data.spell.flame_shock }} on Sire Denathrius, Remornia, and any additional adds as you can.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
-- Depending on timings, you may pool Maelstrom and hold CDs to optimize the Wracking Pain debuff on enemies.
-
-Phase 3:
-- Use Spiritwalker's Grace or instant casts as needed when targeted by Fatal Finesse and soaking Smoldering Ire.
-
-**Defensives:**
-Phase 1:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if PE talented) as needed for Feeding Time (Night Hunter on Heroic/Mythic), Blood Price, or Cleansing Pain.
-
-Phase 2:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if PE talented) as needed for Impale or increasing Crimson Chorus stacks.
-
-Phase 3:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if PE talented) as needed for Fatal Finesse or Smoldering Ire.
-
-\---
-- This encounter is very movement demanding, so the additional movement from {{ site.data.talent.spirit_wolf }} can be beneficial in each phase. Burden of Sin, Carnage, Crimson Chorus, and Fatal Finesse are all constant sources of damage that can allow HPS from {{ site.data.talent.earth_shield }}.
-
-**Healing:**
-Intermission:
-- As you will likely make it ahead of your raid during March of the Penitent, it is a good opportunity to briefly off-heal your fellow raid members after your Burden of Sin stacks drop.
-
-**Utilities:**
-Phase 1:
-- Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid position out of Ravage.
-
-Phase 2:
-- Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid avoid Massacre and Hand of Destruction.
-
-Phase 3:
-- Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid members navigate Shattering Pain, Hand of Destruction, Ravage, and Massacre.
-
-**Notes:**
-- Because of {{ site.data.spell.ghost_wolf }}, you will not be slowed during March of the Penitent in Phase 1, but you must be in {{ site.data.spell.ghost_wolf }} form before the phase begins. Consider not clearing any Burden of Sin stacks during this phase.
-- If using Primal Earth Elemental for {{ site.data.spell.harden_skin }}, make sure it is not picking up adds and interfering with your tanks.
-
-# Miscellaneous Tips
-- GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
-
-- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilizing Spiritwalker's Grace and instant casts as much as you can for movement heavy encounters.
-
-- When talenting Primal Elementalist, always remember you have an additional defensive ({{ site.data.spell.harden_skin }}) and single target stun (Pulverize) through Earth Elemental.
-
-- Recall that Stampeding Roar is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
-
-- As kill times become faster on farm, Ancestral Reminder may be a competitive legendary to use for some bosses.
-
-</div>
-</div>
-</div>
-</div>
-</div>
+**{{ site.data.legend.sefuz }}** – аналог легендарного кольца из Legion – {{ site.data.legend.leg_sephuz }}, но вместо бонусной скорости дает все вторичные характеристики. Может пригодиться в тех боях, где нужно постоянно контролить или сбивать касты, но в целом эффективность этой легендарки ниже, чем у оригинала.  
+* **Источник**: Покупается за очки чести.  
+* **Слоты**: Шея, Плечо, Грудь.
