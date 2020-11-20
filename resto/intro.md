@@ -60,7 +60,7 @@ toc: true
 * Может пригодиться в **Рейде** за счет механики избегания смерти – {{ site.data.covenants.podtender }}
 * Как **оффспек** не подходит ни Элему, ни Энху.
 
-{% include button.html name="Полный разбор Вентиров" link="/resto/covenants.html##ночной-народец" %}  
+{% include button.html name="Полный разбор Ночного Народца" link="/resto/covenants.html##ночной-народец" %}  
 
 # Лучшие проводники
 
