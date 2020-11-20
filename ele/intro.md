@@ -16,7 +16,7 @@ toc: true
 
 ## <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
-* Классовая способность – {{ site.data.covenants.pw }}. Дополнительный {{ site.data.spells.fs }} и дублирование {{ site.data.spells.lvb }} по всем целям с дебаффом.
+* Классовая способность – {{ site.data.covenants.pw }}. Дополнительный {{ site.data.spells.fs }} и дублирование {{ site.data.spells.lvb }} по всем целям с этим дебаффом.
 * Общая способность – {{ site.data.covenants.fleshcraft }}. Щит на **20-50%** от максимального хп раз в **2** минуты.
 * Лучший медиум – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZlAQUocQYSBSl_BhUs8gYhFSg9Bg). Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSl_BhUs8gYhFSg9Bg). Кликните на имя медиума, чтобы посмотреть пример прокачки.
 
@@ -58,8 +58,8 @@ toc: true
 
 ## <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
-* Классовая способность – {{ site.data.covenants.ft }}. Потокове заклинание со временем произнесения **3** секунды и кулдауном **2** минуты.
-* Общая способность – {{ site.data.covenants.soulshape }}. Мгновенный телепорт на **15** метров и ускорение скорости передвижения.
+* Классовая способность – {{ site.data.covenants.ft }}. Потоковое заклинание со временем произнесения **3** секунды и кулдауном **2** минуты.
+* Общая способность – {{ site.data.covenants.soulshape }}. Мгновенный телепорт на **15** метров и увеличение скорости передвижения.
 * Лучший медиум – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AplmEgUpmQYVLO8GIgUoPQYlKDYG). Альтернативный вариант – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSl_BhUs7wYhFSg9Bg). Кликните на имя медиума, чтобы посмотреть пример прокачки.
 
 * Основная способность наносит очень мало урона на АоЕ, но хороша в бою против одной цели. Не рекомендуется для **Мифик+**.
@@ -139,4 +139,4 @@ toc: true
 
 <p></p>
 
-Сайт находите в активной разработке. Обо всех найденных ошибках вы можете сообщить в дискорд **Amani#0001**. Найти меня можно на Discord-сервере [«Водоворот»](https://discord.gg/8Bag6kT).
+Сайт находится в активной разработке. Обо всех найденных ошибках вы можете сообщить в дискорд **Amani#0001**. Найти меня можно на Discord-сервере [«Водоворот»](https://discord.gg/8Bag6kT).
