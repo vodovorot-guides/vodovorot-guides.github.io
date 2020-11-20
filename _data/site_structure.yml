@@ -17,10 +17,10 @@ categories:
           disabled: true
         - title: Выбор ковенанта
           url: /ele/covenants.html
-        - title: Легендарные предметы
-          url: /ele/legendaries.html
         - title: Проводники
           url: /ele/conduits.html
+        - title: Легендарные предметы
+          url: /ele/legendaries.html
         - title: Статы и BiS вещи
           url: /ele/stats_and_gear.html
           disabled: true
@@ -58,10 +58,10 @@ categories:
           disabled: true
         - title: Выбор ковенанта
           url: /enh/covenants.html
-        - title: Легендарные предметы
-          url: /enh/legendaries.html
         - title: Проводники
           url: /enh/conduits.html
+        - title: Легендарные предметы
+          url: /enh/legendaries.html
         - title: Статы и BiS вещи
           url: /enh/stats_and_gear.html
           disabled: true
@@ -97,10 +97,10 @@ categories:
           url: /resto/talents.html
         - title: Выбор ковенанта
           url: /resto/covenants.html
-        - title: Легендарные предметы
-          url: /resto/legendaries.html
         - title: Проводники
           url: /resto/conduits.html
+        - title: Легендарные предметы
+          url: /resto/legendaries.html
         - title: Статы и BiS вещи
           url: /resto/stats_and_gear.html
           disabled: true
