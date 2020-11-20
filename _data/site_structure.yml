@@ -29,14 +29,14 @@ categories:
           disabled: true
       - title: Weakauras
         url: /ele/weakauras.html
-      - title: Замок Нафрия
+      - title: Замок Нафрия (скоро)
         url: /ele/nathria.html
         disabled: true
         divided: true
-      - title: Мифик+
+      - title: Мифик+ (в разработке)
         url: /ele/mythicplus.html
         disabled: true
-      - title: PVP
+      - title: PVP (ищем авторов)
         url: /ele/pvp.html
         disabled: true
 
@@ -70,14 +70,14 @@ categories:
           disabled: true
       - title: Weakauras
         url: /enh/weakauras.html
-      - title: Замок Нафрия
+      - title: Замок Нафрия (в разработке)
         url: /enh/nathria.html
         disabled: true
         divided: true
-      - title: Мифик+
+      - title: Мифик+ (в разработке)
         url: /enh/mythicplus.html
         disabled: true
-      - title: PVP
+      - title: PVP (ищем авторов)
         url: /enh/pvp.html
         disabled: true
 
@@ -111,14 +111,14 @@ categories:
         url: /resto/weakauras.html
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
-      - title: Замок Нафрия
+      - title: Замок Нафрия (в разработке)
         url: /resto/nathria.html
         disabled: true
         divided: true
-      - title: Мифик+
+      - title: Мифик+ (в разработке)
         url: /resto/mythicplus.html
         disabled: true
-      - title: PVP
+      - title: PVP (ищем авторов)
         url: /resto/pvp.html
         disabled: true
 
