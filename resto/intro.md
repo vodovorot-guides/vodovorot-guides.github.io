@@ -1,7 +1,7 @@
 ---
 title: Основная информация – Шаман Исцеления
 layout: page
-last_update: 2020-10-20 
+last_update: 2020-11-20 
 wow: 9.0.2
 author: Amani
 toc: true
@@ -26,6 +26,8 @@ toc: true
 
 {% include button.html name="Полный разбор Некролордов" link="/resto/covenants.html#некролорды" %}  
 
+<p></p>
+
 ## <span style="color:#68ccef;font-size:1em;">Кирии</span>
 
 * Классовая способность – {{ site.data.covenants.vt }}. АоЕ отхил и урон в радиусе **8** метров с кулдауном в **1** минуту.
@@ -37,6 +39,8 @@ toc: true
 * Подходит для **оффспека** и Элема, и Энха.
 
 {% include button.html name="Полный разбор Кирий" link="/resto/covenants.html#кирии" %}  
+
+<p></p>
 
 ## <span style="color:#ff4040;font-size:1em;">Вентиры</span>
 
@@ -50,6 +54,8 @@ toc: true
 
 {% include button.html name="Полный разбор Вентиров" link="/resto/covenants.html#вентиры" %}  
 
+<p></p>
+
 ## <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
 * Классовая способность – {{ site.data.covenants.ft }}. Потокове заклинание со временем произнесения **3** секунды и кулдауном **2** минуты.
@@ -62,6 +68,8 @@ toc: true
 
 {% include button.html name="Полный разбор Ночного Народца" link="/resto/covenants.html##ночной-народец" %}  
 
+<p></p>
+
 # Лучшие проводники
 
 * {{ site.data.conduits.swirls }} – **лучший проводник**, ставим его **в первую очередь**. Усиливает отхил одной цели и отлично заряжает {{ site.data.spells.cbt }}.
@@ -72,6 +80,7 @@ toc: true
 
 {% include button.html name="Полный разбор проводников" link="/resto/conduits.html" %}  
 
+<p></p>
 
 # Лучшие легендарные предметы
 
@@ -82,6 +91,8 @@ toc: true
 * {{ site.data.legend.chains }} – также **отлично подходит для Мифик+**. Ориентирована больше на нанесение урона, а не на отхил.
 
 {% include button.html name="Полный разбор легендарных предметов" link="/resto/conduits.html" %}  
+
+<p></p>
 
 # Таланты
 
@@ -102,6 +113,8 @@ toc: true
 
 {% include button.html name="Полный разбор талантов" link="/resto/conduits.html" %}  
 
+<p></p>
+
 # Характеристики
 
 * **Лут-таблица** с удобной сортировкой по характеристикам доступна [по этой ссылке](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy).
@@ -120,19 +133,15 @@ toc: true
 
 {% include button.html name="Расходные предметы (в разработке)" link="/resto/consumables.html" %}  
 
-
+<p></p>
 
 # Интерфейс
 
-* Полезные **WeakAuras** можно найти [этом разделе](/resto/weakauras.html).
+* Полезные **WeakAuras** можно найти в [этом разделе](/resto/weakauras.html).
 
 * Базовую информацию про **рейдовые фреймы** можно найти [этом разделе](/resto/raidframes.html).
 
 <hr>
-
-<p></p>
-
-<p></p>
 
 <p></p>
 
