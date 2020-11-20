@@ -66,7 +66,7 @@ toc: true
 * Может пригодиться в **Рейде** за счет механики избегания смерти – {{ site.data.covenants.podtender }}
 * Как **оффспек** не подходит ни Рестору, ни Энху.
 
-{% include button.html name="Полный разбор Ночного Народца" link="/ele/covenants.html##ночной-народец" %}  
+{% include button.html name="Полный разбор Ночного Народца" link="/ele/covenants.html#ночной-народец" %}  
 
 <p></p>
 
@@ -90,7 +90,7 @@ toc: true
 
 * {{ site.data.legend.fire }} – лучшая легендарка для **клива разрозненных целей**. 
 
-{% include button.html name="Полный разбор легендарных предметов" link="/ele/conduits.html" %}  
+{% include button.html name="Полный разбор легендарных предметов" link="/ele/legendaries.html" %}  
 
 <p></p>
 
@@ -103,7 +103,7 @@ toc: true
 * **45 уровень:** {{ site.data.spells.if }} лучший выбор для боя против одной цели. {{ site.data.spells.primal_elem }} используем на АоЕ и в **Мифик+**.
 
 
-{% include button.html name="Полный разбор талантов (в разработке)" link="/ele/conduits.html" %}  
+{% include button.html name="Полный разбор талантов (в разработке)" link="/ele/talents.html" %}  
 
 <p></p>
 
