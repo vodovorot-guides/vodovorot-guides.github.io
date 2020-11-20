@@ -10,7 +10,7 @@ toc: true
 
 # Выбор ковенанта
 
-* <span style="color:#ff4040;font-size:1em;">Вентиры</span> и <span style="color:#68ccef;font-size:1em;">Кирии</span>  – лучший выбор практически для всех типов контента.
+* <span style="color:#ff4040;font-size:1em;">Вентиры</span> или <span style="color:#68ccef;font-size:1em;">Кирии</span>  – лучший выбор практически для всех типов контента.
 * <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> – хороший урон в бою против одной цели, но слабый на АоЕ. Может пригодиться за счет **«cheat-death»** на освоении рейда – {{ site.data.covenants.podtender }}.
 * <span style="color:#40bf40;font-size:1em;">Некролорды</span> – самый слабый вариант на АоЕ и крайне сомнительный в бою против одной цели. Не рекомендуется.
 
