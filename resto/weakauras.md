@@ -16,6 +16,13 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/Hkc9ktj4X/5f83ecaa3114431b32b29967.gif" width=350x> 
 </p>
 
+[Сборка от Growl-Reich:](https://wago.io/_Rf9PV-kv)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/668009359346761748/779431658176643072/unknown.png" width=350x> 
+</p>
+
 [Сборка от Afenar:](https://wago.io/Rshaman_AfenarUI)
 {: style="text-align: center;"}
 
