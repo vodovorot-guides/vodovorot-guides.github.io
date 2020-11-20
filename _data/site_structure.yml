@@ -124,9 +124,9 @@ categories:
 
   - title: Инфо
     subcategories:
-      - title: Сокращения
+      - title: Сокращения и аббревиатуры
         url: /info/abbrevs.html
-      - title: Макросы
+      - title: Полезные макросы
         url: /info/macros.html
       - title: Количество целей заклинаний
         url: /info/target_cap.html
