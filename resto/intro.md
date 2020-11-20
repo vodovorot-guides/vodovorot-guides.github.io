@@ -67,7 +67,7 @@ toc: true
 * Может пригодиться в **Рейде** за счет механики избегания смерти – {{ site.data.covenants.podtender }}
 * Как **оффспек** не подходит ни Элему, ни Энху.
 
-{% include button.html name="Полный разбор Ночного Народца" link="/resto/covenants.html##ночной-народец" %}  
+{% include button.html name="Полный разбор Ночного Народца" link="/resto/covenants.html#ночной-народец" %}  
 
 <p></p>
 
@@ -93,7 +93,7 @@ toc: true
 
 * Лучшие характеристики для легендарки – **Критический удар** и **Универсальность**.
 
-{% include button.html name="Полный разбор легендарных предметов" link="/resto/conduits.html" %}  
+{% include button.html name="Полный разбор легендарных предметов" link="/resto/legendaries.html" %}  
 
 <p></p>
 
@@ -114,7 +114,7 @@ toc: true
 * **35 уровень:** Все три таланта играбельны, выбор зависит от уровня Мифик+ и недельных модификаторов. {{ site.data.spells.ewt }} является наиболее универсальным вариантом.  
 * **40 уровень:** {{ site.data.spells.ng }} является стандартным выбором для Мифик+, если отдельные подземелья не требуют иного.
 
-{% include button.html name="Полный разбор талантов" link="/resto/conduits.html" %}  
+{% include button.html name="Полный разбор талантов" link="/resto/talents.html" %}  
 
 <p></p>
 
