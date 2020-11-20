@@ -60,7 +60,7 @@ toc: true
 ## <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
 * Классовая способность – {{ site.data.covenants.ft }}. Потоковое заклинание со временем произнесения **3** секунды и кулдауном **2** минуты.
-* Общая способность – {{ site.data.covenants.soulshape }}. Мгновенный телепорт на **15** метров и ускорение скорости передвижения.
+* Общая способность – {{ site.data.covenants.soulshape }}. Мгновенный телепорт на **15** метров и увеличение скорости передвижения.
 * Лучший медиум – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AplmEgUpowYVKacGIgUoPQYlKDYG). Альтернативный вариант – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSmjBhUppwYhFSg9Bg). Кликните на имя медиума, чтобы посмотреть пример прокачки.
 
 * Основная способность годится только для нанесения урона по одной цели и имеет очень слабый отхил с радиусом действия **8** метров вокруг персонажа.
