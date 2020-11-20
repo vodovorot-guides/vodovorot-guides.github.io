@@ -106,7 +106,7 @@ toc: true
 
 * Узнать про все способности и приоритет заклинаний можно в [на этой странице](/ele/rotation.html).
 
-{% include button.html name="Способности и ротация" link="/ele/rotation.html" %}  
+{% include button.html name="Способности и ротация (в разработке)" link="/ele/rotation.html" %}  
 
 <p></p>
 
