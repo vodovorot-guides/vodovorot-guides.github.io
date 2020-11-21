@@ -31,6 +31,8 @@ author: Amani
 
 * Выбор слота для крафта носит рекомендательный характер и основан на [таблице лута от Amani](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy).
 
+* Рекомендованные слоты для крафта легендарки выделены **жирным** шрифтом, а нежелательные – ~~зачеркнуты~~.
+
 # Спековые легендарки
 
 {{ site.data.legend.riptide }} – каждое **4** применение способности {{ site.data.spells.riptide }} также кастует её на соседнюю цель.
