@@ -1,7 +1,7 @@
 ---
 title: Сокращения и аббревиатуры
 layout: page
-last_update: 2020-11-04
+last_update: 2020-11-21
 wow: 9.0.1
 toc: true
 author: Amani
@@ -58,7 +58,7 @@ author: Amani
 * {{ site.data.spells.ws }} – Wind Shear, WS, Интерапт, Сбивалка, Ветер.  
 * {{ site.data.spells.frs }} – Frost Shock, FrS, Фрост шок, Фрост.  
 * {{ site.data.spells.ch }} – Chain Heal, CH, Чайник (одно из значений), Цепнуха (одно из значений).  
-* {{ site.data.spells.cl }} – Chain Lightning, CL, КЛ, Чайник (одно из значений), Цепнуха (одно из значений).  
+* {{ site.data.spells.cl }} – Chain Lightning, CL, КЛ (одно из значений), Чайник (одно из значений), Цепнуха (одно из значений).  
 * {{ site.data.spells.hst }} – Healing Stream Totem, HST, ХСТ, Тотемчик, Малыш.  
 * {{ site.data.spells.igor }} – Earth Elemental, Earth, Steve, Элем земли, Игорь, Стив.  
 * {{ site.data.spells.purge }} – Purge, Пурдж, Диспел (одно из значений), Очищение.  
@@ -133,7 +133,7 @@ author: Amani
 * {{ site.data.spells.sb }} – Stormbringer, SB, Вестник, Прок СС.  
 * {{ site.data.spells.mw }} – Maelstrom Weapon, MW, Водоворот, Стаки.  
 * {{ site.data.spells.feral }} – Feral Spirit, FS, Волки.  
-* {{ site.data.spells.crush }} – Crash Lightning, CL (одно из значений), КЛ, Краш.  
+* {{ site.data.spells.crush }} – Crash Lightning, CL (одно из значений), КЛ (одно из значений), Краш.  
 * {{ site.data.spells.spirit_walk }} – Spirit Walk, SW, Спринт.  
 * {{ site.data.spells.wt }} – Windfury Totem, WT, ВФ тотем.  
 
