@@ -202,7 +202,7 @@ author: Amani
 
 * Для пропуска групп врагов в Мифик+ использовать его вряд-ли получится, так как дальность телепорта довольно маленькая.  
 
-# <span style="color:#ff4040;font-size:1em;">Медиумы</span>
+## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
 
 Лучший медиум в начале дополнения – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSl_BhVF-gYhFSg9Bg), за счет {{ site.data.covenants.seeker }}.
 
