@@ -91,7 +91,7 @@ author: Amani, Gistwiki
 18. {{ site.data.covenants.ch }}
 19. {{ site.data.spells.lb }}
 
-<details markdown=1><summary><i>Основы базовой ротации для новичков:</i></summary>
+<details markdown=1><summary><i>Основы базовой ротации для новичков</i></summary>
 
 <p></p>
 
