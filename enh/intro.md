@@ -89,7 +89,7 @@ toc: true
 
 * Классовая способность – {{ site.data.covenants.pw }}. Дополнительный {{ site.data.spells.fs }} и дублирование {{ site.data.spells.lb }} по всем целям с этим дебаффом.
 * Общая способность – {{ site.data.covenants.fleshcraft }}. Щит на **20-50%** от максимального хп раз в **2** минуты.
-* Лучший медиум – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZlAQUocQYRFSmSBiEVKD0G). Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSmOBhUpkgYhFSg9Bg).
+* Лучший медиум – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZlAQUocQYSBSmOBhUpkgYhFSg9Bg). Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSmOBhUpkgYhFSg9Bg).
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Эмени.</i></summary>
 
