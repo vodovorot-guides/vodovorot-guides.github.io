@@ -66,14 +66,17 @@ author: Amani, Wordup
 
 1. {{ site.data.spells.wt }} – если тотем не активен.
 2. {{ site.data.spells.frs }} с баффом {{ site.data.spells.hailstorm }}
-3. {{ site.data.spells.sunder }} на максимально возможное количество целей.
-4. {{ site.data.spells.cl }} при **5+** стаках {{ site.data.spells.mw }}
-5. {{ site.data.spells.crush }}
-6. {{ site.data.spells.ss }}
-7. {{ site.data.spells.ll }}
+3. {{ site.data.spells.feral }}
+4. {{ site.data.spells.sunder }} на максимально возможное количество целей.
+5. {{ site.data.spells.asc }} и {{ site.data.spells.windstrike }} по кулдауну.
+6. {{ site.data.spells.cl }} при **5+** стаках {{ site.data.spells.mw }}
+7. {{ site.data.spells.crush }}
+8. {{ site.data.spells.ss }}
+9. {{ site.data.spells.ll }}
 
 * {{ site.data.spells.fs }} на АоЕ не используется.
 * Способности ковенантов следует используются по кулдауну. {{ site.data.covenants.ch }} только на **5+** стаках {{ site.data.spells.mw }}.
+
 
 # Влияние легендарных предметов
 
