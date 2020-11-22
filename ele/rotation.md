@@ -114,6 +114,24 @@ author: Amani, Gistwiki
 9. {{ site.data.spells.quake }} если у вас **60** и более ед. энергии Водоворота.
 10. {{ site.data.spells.cl }}.
 
-# Влияние легендарных предметов
+# Влияние легендарных предметов на ротацию
 
 Данный раздел находится в разработке.
+
+# Приоритет для баффа Властелин стихий
+
+**Основное правило** – придерживайте {{ site.data.spells.es }}, чтобы скастовать его с баффом от {{ site.data.spells.mote }}. Это заклинание не имеет кулдауна и у нас есть окно между **60** и **100** энергии Водоворота для его использования.
+
+Придерживание других заклинаний ради баффа {{ site.data.spells.mote }} может привести к потери урона.
+
+Приоритет заклинаний для баффа {{ site.data.spells.mote }}:
+
+1. {{ site.data.covenants.ft }}
+2. {{ site.data.spells.quake }} на **2** и более целях.
+3. {{ site.data.spells.lb }} под баффом {{ site.data.spells.sk }}
+4. {{ site.data.spells.es }}
+5. {{ site.data.spells.eb }}
+6. {{ site.data.spells.frs }} под баффом {{ site.data.spells.if }}
+7. {{ site.data.spells.if }}
+8. {{ site.data.spells.lb }}
+9. {{ site.data.spells.frs }}
