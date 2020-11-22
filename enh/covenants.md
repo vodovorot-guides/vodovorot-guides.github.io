@@ -286,12 +286,9 @@ author: Amani
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Изобретателя чумы Марилет.</i></summary>
 
 <p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_24.png"> 
+    <img src="/assets/img/Soulbinds/Screenshot_25.png"> 
 </p>
 
 </details>
 
 <p></p>
-
-
-
