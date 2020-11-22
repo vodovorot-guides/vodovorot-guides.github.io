@@ -276,7 +276,7 @@ author: Amani
 
 <p></p>
 
-Альтернативный вариант – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSl_BhUs7wYhFSg9Bg). Ночной народец может стать топовым выбором из-за её пассивки на «cheat-death» – {{ site.data.covenants.podtender }}.
+Альтернативный вариант – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSl_BhUs7wYhFSg9Bg). Ночной народец может стать топовым выбором из-за её пассивки на **«cheat-death»** – {{ site.data.covenants.podtender }}.
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Безумного герцога Нии.</i></summary>
 
