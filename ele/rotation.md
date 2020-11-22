@@ -85,6 +85,7 @@ toc: true
 14. {{ site.data.spells.lvb }} по кулдауну.
 15. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
 16. {{ site.data.spells.es }} если у вас **60** и более ед. энергии Водоворота.
+  *  При взятом таланте {{ site.data.spells.mote }}, придерживайте использование {{ site.data.spells.es }}, если до окончания кулдауна {{ site.data.spells.lvb }} осталось 1-2 ГКД.
 17. {{ site.data.spells.frs }} под баффами от {{ site.data.spells.if }}.
 18. {{ site.data.covenants.ch }}
 19. {{ site.data.spells.lb }}
