@@ -42,7 +42,7 @@ author: Amani
 {{ site.data.conduits.cold }} – {{ site.data.spells.frs }} с вероятностью **20-35%** дает два заряда {{ site.data.spells.mw }}.
 
 * На **7** ранге шанс составляет **27%**.  
-* С талантом {{ site.data.spells.hailstorm }}, так как каждый {{ site.data.spells.frs }} имеет отдельный шанс на возврат стаков {{ site.data.spells.mw }}.  
+* Сочетается с талантом {{ site.data.spells.hailstorm }}, так как каждый {{ site.data.spells.frs }} имеет отдельный шанс на возврат стаков {{ site.data.spells.mw }}.  
 * Так как наше АоЕ в большой степени ограничено кулдауном {{ site.data.spells.frs }}, дополнительные стаки {{ site.data.spells.mw }} не дадут ощутимого прироста ДПС.
 
 ## Ковенанты
