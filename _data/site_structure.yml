@@ -4,7 +4,7 @@ categories:
     subcategories:
       - title: Изменения в Shadowlands
         url: /ele/prepatch.html
-      - title: Гайд
+      - title: Руководство
         url: /ele/intro.html
         subsubcategories:
         - title: Основная информация
@@ -41,7 +41,7 @@ categories:
     subcategories:
       - title: Изменения в Shadowlands
         url: /enh/prepatch.html
-      - title: Гайд
+      - title: Руководство
         url: /enh/intro.html
         subsubcategories:
         - title: Основная информация
@@ -78,7 +78,7 @@ categories:
     subcategories:
       - title: Изменения в Shadowlands
         url: /resto/prepatch.html
-      - title: Гайд
+      - title: Руководство
         url: /resto/intro.html
         subsubcategories:
         - title: Основная информация
