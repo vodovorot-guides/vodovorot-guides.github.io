@@ -274,7 +274,7 @@ author: Amani
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Эмени.</i></summary>
 
 <p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_14.png"> 
+    <img src="/assets/img/Soulbinds/Screenshot_13.png"> 
 </p>
 
 </details>
