@@ -1,5 +1,5 @@
 ---
-title: Шаман Исцеления в препатче Shadowlands
+title: Изменения Шамана Исцеления в Shadowlands
 layout: page
 last_update: 2020-10-17
 wow: 9.0.1
