@@ -17,7 +17,7 @@ author: Amani, Gistwiki
 2. {{ site.data.spells.fe }} за **3.5** секунды до пула.
 3. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
-4. {{ site.data.covenants.pw }}
+4. {{ site.data.covenants.pw }} – накладывает в том числе {{ site.data.spells.fs }}
 5. {{ site.data.spells.lvb }}
 6. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
 7. {{ site.data.spells.lvb }}
