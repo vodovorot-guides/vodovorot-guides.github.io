@@ -130,8 +130,9 @@ author: Amani, Gistwiki
 2. {{ site.data.spells.quake }} на **2** и более целях.
 3. {{ site.data.spells.lb }} под баффом {{ site.data.spells.sk }}
 4. {{ site.data.spells.es }}
-5. {{ site.data.spells.eb }}
-6. {{ site.data.spells.frs }} под баффом {{ site.data.spells.if }}
+5. {{ site.data.spells.frs }} под баффом {{ site.data.spells.if }}
+6. {{ site.data.spells.eb }} 
+  * **Важно!** {{ site.data.spells.eb }} используется всегда по кулдауну, вне зависимости от наличия или отсутствия баффа {{ site.data.spells.mote }}.
 7. {{ site.data.spells.if }}
 8. {{ site.data.spells.lb }}
 9. {{ site.data.spells.frs }}
