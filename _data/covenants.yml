@@ -13,10 +13,19 @@ door: <a href="https://ru.wowhead.com/spell=300728" target="blank">Врата т
 
 # Soulbinds
 
-# Necrolords
-
+# Kyrian
 lead: <a href="https://ru.wowhead.com/spell=342156" target="blank">Образец для подражания</a>
+meditation: <a href="https://ru.wowhead.com/spell=328266" target="blank">Боевая медитация</a>
+
+# Necrolords
+lead: <a href="https://ru.wowhead.com/spell=342156" target="blank">Образец для подражания</a>
+
+# Venthyr
+seeker: <a href="https://ru.wowhead.com/spell=331586" target="blank">Поиск острых ощущений</a>
+zont: <a href="https://ru.wowhead.com/spell=336239" target="blank">Успокаивающая тень</a>
 
 
 # Night Fae
+grove: <a href="https://ru.wowhead.com/spell=322721" target="blank">Оздоровление рощи</a>
 podtender: <a href="https://ru.wowhead.com/spell=319217" target="blank">Защитный стручок</a>
+
