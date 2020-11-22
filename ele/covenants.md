@@ -269,7 +269,7 @@ author: Amani
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Творца снов.</i></summary>
 
 <p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_8.png"> 
+    <img src="/assets/img/Soulbinds/Screenshot_7.png"> 
 </p>
 
 </details>
@@ -278,10 +278,10 @@ author: Amani
 
 Альтернативный вариант – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSl_BhUs7wYhFSg9Bg). Ночной народец может стать топовым выбором из-за её пассивки на **«cheat-death»** – {{ site.data.covenants.podtender }}.
 
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Безумного герцога Нии.</i></summary>
+<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Нии.</i></summary>
 
 <p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_7.png"> 
+    <img src="/assets/img/Soulbinds/Screenshot_8.png"> 
 </p>
 
 </details>
