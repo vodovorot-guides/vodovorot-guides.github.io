@@ -11,7 +11,6 @@ categories:
           url: /ele/intro.html
         - title: Способности и ротация
           url: /ele/rotation.html
-          disabled: true
         - title: Таланты и билды
           url: /ele/talents.html
           disabled: true
