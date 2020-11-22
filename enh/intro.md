@@ -18,7 +18,15 @@ toc: true
 
 * Классовая способность – {{ site.data.covenants.ch }}. Гибрид способностей {{ site.data.spells.cl }} и {{ site.data.spells.ch }} с хорошим уроном и отхилом.
 * Общая способность – {{ site.data.covenants.door }}. Телепорт на **35** метров со временем произнесения **1.5** секунд.
-* Лучший медиум – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQYVKIAGEQUpjgYhFSg9Bg). Альтернативный вариант – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/ApbgEQUpjgYiBSg9BhUoNgY). Кликните на имя медиума, чтобы посмотреть пример прокачки.
+* Лучший медиум – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQYVKIAGEQUpjgYhFSg9Bg). Альтернативный вариант – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSmOBhUpkgYhFSg9Bg).
+
+<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Наджии.</i></summary>
+
+<p align="center" width="100%">
+    <img src="/assets/img/Soulbinds/Screenshot_9.png"> 
+</p>
+
+</details>
 
 * Отличный и универсальный выбор для всех типов контента – **Рейд**, **Мифик+**, и **PvP**.
 * С помощью {{ site.data.spells.mw }} сокращается время произнесения до мгновенного и увеличивается урон и отхил способности **в два раза**.
@@ -32,7 +40,16 @@ toc: true
 
 * Классовая способность – {{ site.data.covenants.vt }}. АоЕ урон и отхил в радиусе **8** метров с кулдауном в **1** минуту.
 * Общая способность – {{ site.data.covenants.phial }}. Один раз за бой восстанавливает **20%** хп и снимает кровотечения, болезни, яды и проклятия.
-* Лучший медиум – [Пелагий](https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/shaman/ApbuARUocQYSBSmOBhUs7gYhFSg9Bg). Кликните на имя медиума, чтобы посмотреть пример прокачки.
+* Лучший медиум – [Пелагий](https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/shaman/ApbuARUocQYSBSmOBhUs7gYhFSg9Bg). Альтернативный вариант – [Клейя](https://ru.wowhead.com/soulbind-calc/kyrian/kleia/shaman/ApZqAQUocQYRBSmOBiIVKD0GJSg2Bg).
+
+
+<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Пелагия.</i></summary>
+
+<p align="center" width="100%">
+    <img src="/assets/img/Soulbinds/Screenshot_11.png"> 
+</p>
+
+</details>
 
 * Отличный выбор для **Мифик+** как за счет неплохого СТ и АоЕ урона, так и за счет снятия неприятных дебаффов.
 * В **PvP** тотем очень быстро умирает, поэтому не рекомендуется на высоком рейтинге.
@@ -46,7 +63,15 @@ toc: true
 
 * Классовая способность – {{ site.data.covenants.ft }}. Потоковое заклинание со временем произнесения **3** секунды и кулдауном **2** минуты.
 * Общая способность – {{ site.data.covenants.soulshape }}. Мгновенный телепорт на **15** метров и увеличение скорости передвижения.
-* Лучший медиум – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/ArqmAQUocQYRBSmOBiIVKD0GJSgsBg). Кликните на имя медиума, чтобы посмотреть пример прокачки.
+* Лучший медиум – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/ArqmAQUocQYRBSmOBiIVKD0GJSgsBg). Альтернативный вариант – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSmOBhUpkgYhFSg9Bg). 
+
+<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Творца снов.</i></summary>
+
+<p align="center" width="100%">
+    <img src="/assets/img/Soulbinds/Screenshot_12.png"> 
+</p>
+
+</details>
 
 * Основная способность наносит очень мало урона на АоЕ, но хороша в бою против одной цели. Не рекомендуется для **Мифик+**.
 * Может пригодиться в **Рейде** за счет механики избегания смерти – {{ site.data.covenants.podtender }}
@@ -60,7 +85,17 @@ toc: true
 
 * Классовая способность – {{ site.data.covenants.pw }}. Дополнительный {{ site.data.spells.fs }} и дублирование {{ site.data.spells.lb }} по всем целям с этим дебаффом.
 * Общая способность – {{ site.data.covenants.fleshcraft }}. Щит на **20-50%** от максимального хп раз в **2** минуты.
-* Лучший медиум – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZgAQUocQYRBSmOBiEVKD0G). Кликните на имя медиума, чтобы посмотреть пример прокачки.
+* Лучший медиум – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZlAQUocQYRFSmSBiEVKD0G). Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSmOBhUpkgYhFSg9Bg).
+
+<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Эмени.</i></summary>
+
+<p align="center" width="100%">
+    <img src="/assets/img/Soulbinds/Screenshot_13.png"> 
+</p>
+
+</details>
+
+<p></p>
 
 * Не рекомендуется ни в каком типе контента, так как принуждает играть в не самом эффективном билде через {{ site.data.spells.fs }} и {{ site.data.spells.sk_enh }}.
 * Не имеет саппорт потенциала.
