@@ -269,7 +269,7 @@ author: Amani
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-Лучший медиум в начале дополнения – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZgAQUocQYRBSmOBiEVKD0G), за счет трейта {{ site.data.covenants.lead }}. Он увеличивает наш Интеллект после каждого применения {{ site.data.covenants.pw }}, а также бафает наших союзников.
+Лучший медиум в начале дополнения – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZgAQUocQYRBSmOBiEVKD0G), за счет трейта {{ site.data.covenants.lead }}. Он увеличивает наш Ловкость после каждого применения {{ site.data.covenants.pw }}, а также бафает наших союзников.
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Эмени.</i></summary>
 
