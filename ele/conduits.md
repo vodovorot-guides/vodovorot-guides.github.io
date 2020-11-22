@@ -63,8 +63,9 @@ author: Amani
 {{ site.data.conduits.wave }} – дает **20-40%** шанс на то, что {{ site.data.covenants.pw }} не потребует времени на восстановление.
 
 * На **7** ранге шанс составляет **29%**.  
-* 
-* Перед повторным кастом {{ site.data.covenants.pw }} необходимо использовать {{ site.data.spells.riptide }}, так как баффы не стакаются.  
+
+* Перед повторным кастом {{ site.data.covenants.pw }} необходимо использовать {{ site.data.spells.lvb }}, так как баффы не стакаются.  
+* Так же не забывайте про бафф на Интеллект от медиума **Эмени** – {{ site.data.covenants.lead }}. 
 
 {{ site.data.conduits.fae }} – сокращает время восстановления способности {{ site.data.covenants.ft }} на **25-40%**.  
 
