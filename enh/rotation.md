@@ -38,7 +38,7 @@ author: Amani, Wordup
 4. {{ site.data.spells.windstrike }} при активном {{ site.data.spells.asc_enh }}
 5. {{ site.data.spells.eb }} по кулдауну, при **5+** стаках {{ site.data.spells.mw }}
 6. {{ site.data.spells.lb }} при **8+** стаках {{ site.data.spells.mw }}
-7. {{ site.data.spells.eb }} во время прока {{ site.data.spells.hh }} или при отсутствии дебаффа на цели от {{ site.data.spells.lf }}
+7. {{ site.data.spells.eb }} во время прока {{ site.data.spells.hh }} или при отсутствии дебаффа {{ site.data.spells.lf }}
 8. {{ site.data.spells.fs }} – если отсутствует на цели. 
 9. {{ site.data.spells.ss }}
 10. {{ site.data.spells.feral }}
