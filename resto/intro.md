@@ -19,7 +19,17 @@ toc: true
 
 * Классовая способность – {{ site.data.covenants.pw }}. Дополнительная {{ site.data.spells.riptide }} и отхил разрозненных целей.
 * Общая способность – {{ site.data.covenants.fleshcraft }}. Щит на **20-50%** от максимального хп раз в **2** минуты.
-* Лучший медиум – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZlAQUocQYSBSmjBhUs8gYhFSg9Bg). Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSmjBhUs8gYhFSg9Bg). Кликните на имя медиума, чтобы посмотреть пример прокачки.
+* Лучший медиум – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZlAQUocQYSBSmjBhUs8gYhFSg9Bg). Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSmjBhUs8gYhFSg9Bg). 
+
+<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Эмени.</i></summary>
+
+<p align="center" width="100%">
+    <img src="/assets/img/Soulbinds/Screenshot_14.png"> 
+</p>
+
+</details>
+
+<p></p>
 
 * Лучший выбор для **Рейда**, так как перекрывает слабую сторону Рестор Шамана – отхил разрозненных целей.
 * Основная способность практически не наносит урона, поэтому не рекомендуется для **пуша** ключей.
@@ -29,25 +39,21 @@ toc: true
 
 <p></p>
 
-## <span style="color:#68ccef;font-size:1em;">Кирии</span>
-
-* Классовая способность – {{ site.data.covenants.vt }}. АоЕ отхил и урон в радиусе **8** метров с кулдауном в **1** минуту.
-* Общая способность – {{ site.data.covenants.phial }}. Один раз за бой восстанавливает **20%** хп и снимает кровотечения, болезни, яды и проклятия.
-* Лучший медиум – [Пелагий](https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/shaman/ApbuARUocQYSBSmjBhUs7gYhFSg9Bg). Альтернативный вариант – [Клейя](https://ru.wowhead.com/soulbind-calc/kyrian/kleia/shaman/ApZlAQUocQYSBSmjBhUs7gYhFSg9Bg). Кликните на имя медиума, чтобы посмотреть пример прокачки.
-
-* Отличный выбор для **Мифик+** как за счет урона, так и за счет снятия неприятных дебаффов.
-* В **Рейде** не очень удобно использовать тотем за счет маленького радиуса. К тому же это еще один АоЕ отхил, с которым у нас и так нет проблем. 
-* Подходит для **оффспека** и Элема, и Энха.
-
-{% include button.html name="Полный разбор Кирий" link="/resto/covenants.html#кирии" %}  
-
-<p></p>
-
 ## <span style="color:#ff4040;font-size:1em;">Вентиры</span>
 
 * Классовая способность – {{ site.data.covenants.ch }}. Гибрид способностей {{ site.data.spells.ch }} и {{ site.data.spells.cl }} с хорошим отхилом и уроном.
 * Общая способность – {{ site.data.covenants.door }}. Телепорт на **35** метров со временем произнесения **1.5** секунд.
-* Лучший медиум – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSmjBhUppwYhFSg9Bg). Альтернативный вариант – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSmjBhUppwYhFSg9Bg). Кликните на имя медиума, чтобы посмотреть пример прокачки.
+* Лучший медиум – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSmjBhUppwYhFSg9Bg). Альтернативный вариант – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSmjBhUppwYhFSg9Bg). К
+
+<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Наджии.</i></summary>
+
+<p align="center" width="100%">
+    <img src="/assets/img/Soulbinds/Screenshot_17.png"> 
+</p>
+
+</details>
+
+<p></p>
 
 * Отличный выбор для **Мифик+**
 * Хорошо себя показывает в том числе и в **Рейде**.
@@ -57,11 +63,46 @@ toc: true
 
 <p></p>
 
+
+## <span style="color:#68ccef;font-size:1em;">Кирии</span>
+
+* Классовая способность – {{ site.data.covenants.vt }}. АоЕ отхил и урон в радиусе **8** метров с кулдауном в **1** минуту.
+* Общая способность – {{ site.data.covenants.phial }}. Один раз за бой восстанавливает **20%** хп и снимает кровотечения, болезни, яды и проклятия.
+* Лучший медиум – [Пелагий](https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/shaman/ApbuARUocQYSBSmjBhUs7gYhFSg9Bg). Альтернативный вариант – [Клейя](https://ru.wowhead.com/soulbind-calc/kyrian/kleia/shaman/ApZqAQUocQYRBSmjBiIVKD0GJSg2Bg).
+
+<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Пелагия.</i></summary>
+
+<p align="center" width="100%">
+    <img src="/assets/img/Soulbinds/Screenshot_16.png"> 
+</p>
+
+</details>
+
+<p></p>
+
+* Отличный выбор для **Мифик+** как за счет урона, так и за счет снятия неприятных дебаффов.
+* В **Рейде** не очень удобно использовать тотем за счет маленького радиуса. К тому же это еще один АоЕ отхил, с которым у нас и так нет проблем. 
+* Подходит для **оффспека** и Элема, и Энха.
+
+{% include button.html name="Полный разбор Кирий" link="/resto/covenants.html#кирии" %}  
+
+<p></p>
+
 ## <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
 * Классовая способность – {{ site.data.covenants.ft }}. Потоковое заклинание со временем произнесения **3** секунды и кулдауном **2** минуты.
 * Общая способность – {{ site.data.covenants.soulshape }}. Мгновенный телепорт на **15** метров и увеличение скорости передвижения.
-* Лучший медиум – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AplmEgUpowYVKacGIgUoPQYlKDYG). Альтернативный вариант – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSmjBhUppwYhFSg9Bg). Кликните на имя медиума, чтобы посмотреть пример прокачки.
+* Лучший медиум – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AplmEgUpowYVKacGIgUoPQYlKDYG). Альтернативный вариант – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSmjBhUppwYhFSg9Bg).
+
+<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Творца снов.</i></summary>
+
+<p align="center" width="100%">
+    <img src="/assets/img/Soulbinds/Screenshot_19.png"> 
+</p>
+
+</details>
+
+<p></p>
 
 * Основная способность годится только для нанесения урона по одной цели и имеет очень слабый отхил с радиусом действия **8** метров вокруг персонажа.
 * Может пригодиться в **Рейде** за счет механики избегания смерти – {{ site.data.covenants.podtender }}
