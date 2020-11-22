@@ -23,6 +23,7 @@ toc: true
 8. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
 9. {{ site.data.spells.es }}
 10. {{ site.data.spells.if }}
+11. Продолжаем обычную ротацию.
 
 * <span style="color:#ff4040;font-size:1em;">Вентиры</span>, <span style="color:#68ccef;font-size:1em;">Кирии</span> и <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> с теми же талантами:
 
@@ -39,6 +40,7 @@ toc: true
 10. {{ site.data.spells.es }}
 11. {{ site.data.spells.if }}
 12. {{ site.data.covenants.ch }} / {{ site.data.covenants.ft }}
+13. Продолжаем обычную ротацию.
 
 * **Нажмите на выпадающие списки, чтобы увидеть другие варианты опенеров:**
 
@@ -55,6 +57,7 @@ toc: true
 7. {{ site.data.spells.ecs }}
 8. {{ site.data.spells.lvb }}
 9. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
+10. Продолжаем обычную ротацию.
 
 > Да, мы используем подряд {{ site.data.spells.fs }} и {{ site.data.covenants.pw }}, который тоже накладывает {{ site.data.spells.fs }}. К сожалению, это лучший вариант ротации на данный момент, если не брать талант {{ site.data.spells.eb }}.
 
