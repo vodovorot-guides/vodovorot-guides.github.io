@@ -4,6 +4,7 @@ layout: page
 last_update: 2020-11-22 
 wow: 9.0.2
 toc: true
+author: Amani
 ---
 
 # Открывающая ротация, «Opener»
