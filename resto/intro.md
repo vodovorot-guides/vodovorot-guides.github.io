@@ -6,7 +6,7 @@ wow: 9.0.2
 author: Amani
 toc: true
 ---
-> **Об авторе:** этот гайд написан **Amani**, админом крупнейшего русскоязычного шаманского Discord сообщества [«Водоворот»](https://discord.gg/8Bag6kT), а также автором видео на [YouTube канале](https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg) и многих других руководств по шаману. 
+> **Об авторе:** этот гайд написан **Amani**, теорикрафтером, админом крупнейшего русскоязычного шаманского Discord сообщества [«Водоворот»](https://discord.gg/8Bag6kT), а также автором видео на [YouTube канале](https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg) и многих других руководств по шаману. 
 
 # Выбор ковенанта
 
