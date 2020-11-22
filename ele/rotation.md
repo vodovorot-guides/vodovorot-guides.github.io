@@ -56,6 +56,8 @@ toc: true
 8. {{ site.data.spells.lvb }}
 9. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
 
+> Да, мы используем подряд {{ site.data.spells.fs }} и {{ site.data.covenants.pw }}, который тоже накладывает {{ site.data.spells.fs }}. К сожалению, это лучший вариант ротации на данный момент, если не брать талант {{ site.data.spells.eb }}.
+
 </details>
 
 <p></p>
