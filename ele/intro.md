@@ -10,9 +10,24 @@ toc: true
 
 # Выбор ковенанта
 
-* <span style="color:#40bf40;font-size:1em;">Некролорды</span> – лучше всего подойдут для **Рейда** и **PvP**.
-* <span style="color:#68ccef;font-size:1em;">Кирии</span> и <span style="color:#ff4040;font-size:1em;">Вентиры</span> – хороши для **Мифик+** и в целом универсальны.
-* <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> – хороший урон в бою против одной цели, но слабый на АоЕ. Может пригодиться за счет **«cheat-death»** на освоении рейда – {{ site.data.covenants.podtender }}.
+**В зависимости от контента:**
+
+* **<span style="color:#40bf40;font-size:1em;">Некролорды</span>** – **отлично** для рейда, **хороши** для Мифик+, **отлично** для PvP.
+
+* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **хороши** для рейда, **отлично** для Мифик+, **средне** для PvP.
+
+* **<span style="color:#ff4040;font-size:1em;">Вентиры</span>** – **средне** для рейда, **хороши** для Мифик+, **отлично** для PvP.
+
+* **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **хороши** для рейда, **средне** для Мифик+, **средне** для PvP.
+
+**При игре на нескольких специализациях:**
+
+* **Элем** + **Энх**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+
+* **Элем** + **Рестор**: <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
+
+* **Элем** + **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+
 
 ## <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
