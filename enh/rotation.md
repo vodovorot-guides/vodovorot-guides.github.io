@@ -44,7 +44,7 @@ author: Amani, Wordup
 10. {{ site.data.spells.feral }}
 11. {{ site.data.spells.sunder }}
 12. {{ site.data.spells.fs }} – если до спадения осталось менее **5.4** секунд.
-13. {{ site.data.spells.frs }}
+13. {{ site.data.spells.frs }} – вне зависимости от наличия или отсутствия баффа от {{ site.data.spells.hailstorm }}.
 14. {{ site.data.spells.ll }}
 15. {{ site.data.spells.crush }}
 16. {{ site.data.spells.lb }} при **5+** стаках {{ site.data.spells.mw }}
