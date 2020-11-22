@@ -68,7 +68,7 @@ author: Amani, Wordup
 2. {{ site.data.spells.frs }} с баффом {{ site.data.spells.hailstorm }}
 3. {{ site.data.spells.feral }}
 4. {{ site.data.spells.sunder }} на максимально возможное количество целей.
-5. {{ site.data.spells.asc }} и {{ site.data.spells.windstrike }} по кулдауну.
+5. {{ site.data.spells.asc_enh }} и {{ site.data.spells.windstrike }} по кулдауну.
 6. {{ site.data.spells.cl }} при **5+** стаках {{ site.data.spells.mw }}
 7. {{ site.data.spells.crush }}
 8. {{ site.data.spells.ss }}
