@@ -48,7 +48,6 @@ categories:
           url: /enh/intro.html
         - title: Способности и ротация
           url: /enh/rotation.html
-          disabled: true
         - title: Таланты и билды
           url: /enh/talents.html
           disabled: true
