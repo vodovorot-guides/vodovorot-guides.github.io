@@ -24,9 +24,6 @@ categories:
         - title: Статы и BiS вещи
           url: /ele/stats_and_gear.html
           disabled: true
-        - title: Расходники
-          url: /ele/consumables.html
-          disabled: true
       - title: Weakauras
         url: /ele/weakauras.html
       - title: Замок Нафрия
@@ -65,9 +62,6 @@ categories:
         - title: Статы и BiS вещи
           url: /enh/stats_and_gear.html
           disabled: true
-        - title: Расходники
-          url: /enh/consumables.html
-          disabled: true
       - title: Weakauras
         url: /enh/weakauras.html
       - title: Замок Нафрия
@@ -103,9 +97,6 @@ categories:
           url: /resto/legendaries.html
         - title: Статы и BiS вещи
           url: /resto/stats_and_gear.html
-          disabled: true
-        - title: Расходники
-          url: /resto/consumables.html
           disabled: true
       - title: Weakauras
         url: /resto/weakauras.html
