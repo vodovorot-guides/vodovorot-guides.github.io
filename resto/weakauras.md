@@ -32,6 +32,14 @@ author: Amani, Haelrail
 
 **Различные сборки WeakAuras:**
 
+
+[Сборка от Omeja:](https://wago.io/jUWUuuBOT)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/jUWUuuBOT/5fb3e4713cfb6437e9dbbe81.png" width=350x> 
+</p>
+
 [Сборка от Luxthos (3 группы):](https://wago.io/Hkc9ktj4X)
 {: style="text-align: center;"}
 
