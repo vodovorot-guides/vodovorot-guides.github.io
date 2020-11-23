@@ -1,8 +1,8 @@
 ---
 title: Weakauras для Шамана Совершенствования
 layout: page
-last_update: 2020-11-02
-wow: 9.0.1
+last_update: 2020-11-22
+wow: 9.0.2
 author: Amani, Haelrail
 ---
 [По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/enhancement) можно найти список всех WA для Энха в Shadowlands. 
