@@ -62,7 +62,7 @@ author: Amani
 
 * Максимум время восстановления может снизиться на **50** секунд, то есть до **40** секунд.
 
-* Очень сильно хилит, по возможности старайтесь использовать когда рейд не на полном здоровье.
+* Очень сильно хилит, по возможности старайтесь использовать, когда рейд не на полном здоровье.
 
 * В первую очередь исцеляет самые раненые цели, то есть является «улучшенным смарт-хилом».
 
@@ -211,7 +211,7 @@ author: Amani
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-Ночной народец обладает самыми сильными медиумами из всех ковенантов, учитывая [невыдающиеся проводники Энх Шамана]https://stormkeeper.ru/enh/conduits.html).
+Ночной народец обладает самыми сильными медиумами из всех ковенантов, учитывая [невыдающиеся проводники Энх Шамана](https://stormkeeper.ru/enh/conduits.html).
 
 Лучший медиум в начале дополнения – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/ArqmAQUocQYRBSmOBiIVKD0GJSgsBg), за счет {{ site.data.covenants.grove }}.
 
@@ -269,7 +269,7 @@ author: Amani
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-Лучший медиум в начале дополнения – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZgAQUocQYRBSmOBiEVKD0G), за счет трейта {{ site.data.covenants.lead }}. Он увеличивает наш Ловкость после каждого применения {{ site.data.covenants.pw }}, а также бафает наших союзников.
+Лучший медиум в начале дополнения – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZgAQUocQYRBSmOBiEVKD0G), за счет трейта {{ site.data.covenants.lead }}. Он увеличивает нашу Ловкость после каждого применения {{ site.data.covenants.pw }}, а также бафает наших союзников.
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Эмени.</i></summary>
 
