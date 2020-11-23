@@ -56,7 +56,7 @@ toc: true
 
 * Классовая способность – {{ site.data.covenants.ch }}. Гибрид способностей {{ site.data.spells.ch }} и {{ site.data.spells.cl }} с хорошим отхилом и уроном.
 * Общая способность – {{ site.data.covenants.door }}. Телепорт на **35** метров со временем произнесения **1.5** секунд.
-* Лучший медиум – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSmjBhUppwYhFSg9Bg). Альтернативный вариант – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSmjBhUppwYhFSg9Bg). К
+* Лучший медиум – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSmjBhUppwYhFSg9Bg). Альтернативный вариант – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSmjBhUppwYhFSg9Bg).
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Наджии.</i></summary>
 
