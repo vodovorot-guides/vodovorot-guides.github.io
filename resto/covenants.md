@@ -65,14 +65,13 @@ author: Amani
 
 * Отхил от дублированных {{ site.data.spells.hw }} **НЕ** увеличивается от таланта {{ site.data.spells.ul }}, усилится только первая {{ site.data.spells.hw }}.
 
-* Однако, есть возможность усилить все дублированные {{ site.data.spells.hw }} с помощью таланта {{ site.data.spells.undulation }}. Для этого надо сделать так, чтобы {{ site.data.spells.hw }} после {{ site.data.covenants.pw }} была **второй** по счету, тогда все дублированные {{ site.data.spells.hw }} станут как-бы **третьими** и получат **50%** увеличение отхила. [WeakAura для отслеживания Пульсации](https://wago.io/HJ6r_zMBz).
+* Однако, есть возможность усилить все дублированные {{ site.data.spells.hw }} с помощью таланта {{ site.data.spells.undulation }}. Для этого надо сделать так, чтобы {{ site.data.spells.hw }} после {{ site.data.covenants.pw }} была **второй** по счету, тогда все дублированные {{ site.data.spells.hw }} станут как-бы **третьими** и получат увеличение отхила на **50%**. WeakAura для отслеживания {{ site.data.spells.undulation }} можно найти [по этой ссылке](https://wago.io/HJ6r_zMBz).
 
 * Тоже самое касается способности {{ site.data.spells.eshield }} – оно увеличит исцеление на **20%** только по одной цели, а не на все дублированные.
 
 * У {{ site.data.covenants.pw }} практически полностью отсутствует потенциал нанесения урона. При применении к противнику накладывает {{ site.data.spells.fs }}, но {{ site.data.spells.lvb }} не дублируется.
 
 * {{ site.data.conduits.wave }} – проводник, усиливающий эту способность. Дает шанс сбросить кулдаун {{ site.data.covenants.pw }} при её использовании. 
-
 
 ## <span style="color:#40bf40;font-size:1em;">Скульптор плоти</span>
 
