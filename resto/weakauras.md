@@ -7,7 +7,7 @@ author: Amani, Haelrail
 ---
 [По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/restoration) можно найти список всех WA для Рестора в Shadowlands.
 
-**Важные заклинания для отслеживания:**
+# Важные заклинания для отслеживания
 
 [Талант Прилив от Niseko:](https://wago.io/rk7idBBoX)
 {: style="text-align: center;"}
@@ -30,7 +30,7 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/HJ6r_zMBz/5a64d09b0d3afb30f0b83730.gif" width=350x> 
 </p>
 
-**Различные сборки WeakAuras:**
+# Различные сборки WeakAuras
 
 
 [Сборка от Omeja:](https://wago.io/jUWUuuBOT)
