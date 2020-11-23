@@ -2,8 +2,6 @@ categories:
   - title: Элем
     url: /ele/intro.html
     subcategories:
-      - title: Изменения в Shadowlands
-        url: /ele/prepatch.html
       - title: Руководство
         url: /ele/intro.html
         subsubcategories:
@@ -23,6 +21,8 @@ categories:
         - title: Статы и BiS вещи
           url: /ele/stats_and_gear.html
           disabled: true
+      - title: Изменения в Shadowlands
+        url: /ele/prepatch.html
       - title: Weakauras
         url: /ele/weakauras.html
       - title: Замок Нафрия
@@ -39,8 +39,6 @@ categories:
   - title: Энх
     url: /enh/intro.html
     subcategories:
-      - title: Изменения в Shadowlands
-        url: /enh/prepatch.html
       - title: Руководство
         url: /enh/intro.html
         subsubcategories:
@@ -60,6 +58,8 @@ categories:
         - title: Статы и BiS вещи
           url: /enh/stats_and_gear.html
           disabled: true
+      - title: Изменения в Shadowlands
+        url: /enh/prepatch.html
       - title: Weakauras
         url: /enh/weakauras.html
       - title: Замок Нафрия
@@ -76,8 +76,6 @@ categories:
   - title: Рестор
     url: /resto/intro.html
     subcategories:
-      - title: Изменения в Shadowlands
-        url: /resto/prepatch.html
       - title: Руководство
         url: /resto/intro.html
         subsubcategories:
@@ -96,6 +94,8 @@ categories:
         - title: Статы и BiS вещи
           url: /resto/stats_and_gear.html
           disabled: true
+      - title: Изменения в Shadowlands
+        url: /resto/prepatch.html
       - title: Weakauras
         url: /resto/weakauras.html
       - title: Рейдовые фреймы
