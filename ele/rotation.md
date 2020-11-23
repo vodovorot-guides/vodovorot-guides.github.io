@@ -9,22 +9,23 @@ author: Amani, Gistwiki
 
 # Открывающая ротация, «Opener»
 
-**Варианты опенеров:**
+**Опенер в билде через {{ site.data.spells.eb }} и {{ site.data.spells.if }}:**
 
-* Ковенант <span style="color:#40bf40;font-size:1em;">Некролордов</span>, с талантами {{ site.data.spells.eote }}, {{ site.data.spells.eb }}, {{ site.data.spells.if }} и {{ site.data.spells.sk }}:
-
-1. {{ site.data.spells.sk }} за **5** секунд до пула.
-2. {{ site.data.spells.fe }} за **3.5** секунды до пула.
-3. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
+1. *{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула, если вы присягнули <span style="color:#68ccef;font-size:1em;">Кириям</span>.*
+2. {{ site.data.spells.sk }} за **5** секунд до пула.
+3. {{ site.data.spells.fe }} за **3.5** секунды до пула.
+4. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
-4. {{ site.data.covenants.pw }} – накладывает в том числе {{ site.data.spells.fs }}
-5. {{ site.data.spells.lvb }}
-6. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
-7. {{ site.data.spells.lvb }}
-8. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
-9. {{ site.data.spells.es }}
-10. {{ site.data.spells.if }}
-11. Продолжаем обычную ротацию.
+5. {{ site.data.spells.fs }} *либо {{ site.data.covenants.pw }}, если вы присягнули <span style="color:#40bf40;font-size:1em;">Некролордам</span>.*
+6. {{ site.data.spells.lvb }}
+7. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
+8. {{ site.data.spells.lvb }}
+9. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
+10. {{ site.data.spells.es }}
+11. {{ site.data.spells.if }}
+12. *{{ site.data.covenants.ch }}, если вы присягнули <span style="color:#ff4040;font-size:1em;">Вентирам</span>.*
+13. *{{ site.data.covenants.ft }}, если вы присягнули <span style="color:#a330c9;font-size:1em;">Ночному Народцу</span>.*
+14. Продолжаем обычную ротацию.
 
 * <span style="color:#ff4040;font-size:1em;">Вентиры</span>, <span style="color:#68ccef;font-size:1em;">Кирии</span> и <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> с теми же талантами:
 
@@ -40,7 +41,6 @@ author: Amani, Gistwiki
 9. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
 10. {{ site.data.spells.es }}
 11. {{ site.data.spells.if }}
-12. {{ site.data.covenants.ch }} / {{ site.data.covenants.ft }}
 13. Продолжаем обычную ротацию.
 
 * **Нажмите на выпадающие списки, чтобы увидеть другие варианты опенеров:**
