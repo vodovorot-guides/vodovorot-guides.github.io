@@ -27,7 +27,7 @@ author: Amani, Gistwiki
 13. {{ site.data.covenants.ft }} (<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>).
 14. Продолжаем обычную ротацию.
 
-**Опенер в билде через {{ site.data.spells.ecs }} с ковенанте <span style="color:#40bf40;font-size:1em;">Некролордов</span>:**
+**Опенер в билде через {{ site.data.spells.ecs }} в ковенанте <span style="color:#40bf40;font-size:1em;">Некролордов</span>:**
 
 1. {{ site.data.spells.sk }} за **5** секунд до пула.
 2. {{ site.data.spells.fe }} за **3.5** секунды до пула.
