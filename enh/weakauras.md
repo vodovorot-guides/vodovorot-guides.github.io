@@ -5,9 +5,7 @@ last_update: 2020-11-02
 wow: 9.0.1
 author: Amani, Haelrail
 ---
-[По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/enhancement) можно найти список всех WA для Энха в Shadowlands. Не забудьте переключить справа **«Expansion Filter»** на **«Shadowlands Beta»**!
-
-Ниже представлены сборки WA, обновленные под Shadowlands, и которые точно работают на русской версии игры:
+[По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/enhancement) можно найти список всех WA для Энха в Shadowlands. 
 
 [Сборка от Afenar:](https://wago.io/Afenar_Shaman)
 {: style="text-align: center;"}
