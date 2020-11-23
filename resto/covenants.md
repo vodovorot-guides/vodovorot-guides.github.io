@@ -45,7 +45,7 @@ author: Amani
     <img src="/assets/img/necro_idle1.png"> 
 </p>
 
-## <span style="color:#40bf40;font-size:1em;">Первозданная волна </span>
+## <span style="color:#40bf40;font-size:1em;">Первозданная волна</span>
 
 **{{ site.data.covenants.pw }}** – излечивает одну цель и накладывает на неё {{ site.data.spells.riptide }}. Следующая {{ site.data.spells.hw }} также применится ко **всем целям** под {{ site.data.spells.riptide }} c **60%** от своего изначального исцеления, включая основную.
 
