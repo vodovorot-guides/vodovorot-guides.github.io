@@ -5,7 +5,9 @@ last_update: 2020-11-22
 wow: 9.0.2
 author: Amani, Haelrail
 ---
-[По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/restoration) можно найти список всех WA для Рестора в Shadowlands. Не забудьте переключить справа **«Expansion Filter»** на **«Shadowlands Beta»**!
+[По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/restoration) можно найти список всех WA для Рестора в Shadowlands.
+
+**Важные заклинания для отслеживания:**
 
 [Талант Прилив от Niseko:](https://wago.io/rk7idBBoX)
 {: style="text-align: center;"}
@@ -28,7 +30,7 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/HJ6r_zMBz/5a64d09b0d3afb30f0b83730.gif" width=350x> 
 </p>
 
-Ниже представлены сборки WA, обновленные под Shadowlands, и которые точно работают на русской версии игры:
+**Различные сборки WeakAuras:**
 
 [Сборка от Luxthos (3 группы):](https://wago.io/Hkc9ktj4X)
 {: style="text-align: center;"}
