@@ -1,11 +1,11 @@
 ---
 title: Weakauras для Шамана Стихии
 layout: page
-last_update: 2020-11-01
-wow: 9.0.1
+last_update: 2020-11-22
+wow: 9.0.2
 author: Amani, Haelrail
 ---
-[По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/elemental) можно найти список всех WA для Элема в Shadowlands. Не забудьте переключить справа **«Expansion Filter»** на **«Shadowlands Beta»**!
+[По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/elemental) можно найти список всех WA для Элема в Shadowlands.
 
 Ниже представлены сборки WA, обновленные под Shadowlands, и которые точно работают на русской версии игры:
 
