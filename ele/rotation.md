@@ -69,7 +69,7 @@ author: Amani, Gistwiki
 # Бой против одной цели
 
 1. {{ site.data.spells.fs }} – если отсутствует на цели. 
-  * Не используйте {{ site.data.spells.fs }}, если на вас более **20** стаков {{ site.data.spells.wind_gust }} при активном {{ site.data.spells.storm }}
+  * Не используйте {{ site.data.spells.fs }}, если на вас **20** стаков {{ site.data.spells.wind_gust }} при активном {{ site.data.spells.storm }}
 2. {{ site.data.spells.fe }}, {{ site.data.spells.storm }} и {{ site.data.spells.igor }} по кулдауну.
   * Если у вас взят талант {{ site.data.spells.primal_elem }}, вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
 3. {{ site.data.spells.es }}, если следующее ваше заклинание накопит больше **100** ед. энергии Водоворота.
