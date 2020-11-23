@@ -1,6 +1,6 @@
 ---    
 layout: post    
-title: "Обновление раздетов на сайте"    
+title: "Обновление разделов на сайте"    
 categories: shadowlands  
 author: Amani
 ---    
