@@ -7,8 +7,6 @@ author: Amani, Haelrail
 ---
 [По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/elemental) можно найти список всех WA для Элема в Shadowlands.
 
-Ниже представлены сборки WA, обновленные под Shadowlands, и которые точно работают на русской версии игры:
-
 [Сборка от Amani:](https://wago.io/KbqSzg3ps)
 {: style="text-align: center;"}
 
