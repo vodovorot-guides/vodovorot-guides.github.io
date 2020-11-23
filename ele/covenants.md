@@ -45,7 +45,7 @@ author: Amani
     <img src="/assets/img/necro_idle1.png"> 
 </p>
 
-## <span style="color:#40bf40;font-size:1em;">Первозданная волна </span>
+## <span style="color:#40bf40;font-size:1em;">Первозданная волна</span>
 
 **{{ site.data.covenants.pw }}** – поражает одну цель, нанося противнику **65%** урона от силы заклинаний и накладывая на него {{ site.data.spells.fs }}. Следующий {{ site.data.spells.lvb }} также применится ко **всем целям** под {{ site.data.spells.fs }} c **80%** от своего изначального урона, включая основную.
 
