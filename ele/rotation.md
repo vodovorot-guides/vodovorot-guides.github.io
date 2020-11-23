@@ -127,6 +127,6 @@ author: Amani, Gistwiki
 5. {{ site.data.spells.frs }} под баффом {{ site.data.spells.if }}
 6. {{ site.data.spells.eb }} 
   * **Важно!** {{ site.data.spells.eb }} используется всегда по кулдауну, вне зависимости от наличия или отсутствия баффа {{ site.data.spells.mote }}.
-7. {{ site.data.spells.if }}
-8. {{ site.data.spells.lb }}
+7. {{ site.data.spells.lb }}
+8. {{ site.data.spells.if }}
 9. {{ site.data.spells.frs }}
