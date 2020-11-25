@@ -26,7 +26,7 @@ author: Amani
 А здесь – про **легендарные предметы**:
 
 * **Элем** – [Легендарные предметы](https://stormkeeper.ru/ele/legendaries.html)
-* **Энх** – [Легендарные предмет](<https://stormkeeper.ru/enh/legendaries.html)
+* **Энх** – [Легендарные предмет](https://stormkeeper.ru/enh/legendaries.html)
 * **Рестор** – [Легендарные предметы](https://stormkeeper.ru/resto/legendaries.html)
 
 Так же были добавлены обновленные **листы приоритетов** для Элема и Энха:
