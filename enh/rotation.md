@@ -29,7 +29,6 @@ author: Amani, Wordup
 7. {{ site.data.spells.asc_enh }} и сразу же {{ site.data.spells.windstrike }}
 8. Продолжаем обычную ротацию.
 
-
 # Бой против одной цели
 
 **Основы базовых приоритетов без учета талантов и ковенантов:**
@@ -46,29 +45,31 @@ author: Amani, Wordup
 10. {{ site.data.spells.lb }} при **5+** стаках {{ site.data.spells.mw }}
 11. {{ site.data.spells.wt }} если все другие способности недоступны.
 
-**Список приоритетов со всеми основнми талантами, за небольшим исключением наиболее слабых вариантов:**
+**Список приоритетов со всеми основными талантами, за исключением наиболее слабых вариантов:**
 
 1. {{ site.data.spells.wt }} если тотем не активен и вы **не** используете легендарку {{ site.data.legend.doom }}
-2. {{ site.data.spells.fs }} если отсутствует на цели.
-3. {{ site.data.spells.feral }} для генерации стаков {{ site.data.spells.mw }}
-4. {{ site.data.spells.ll }} при отсутствии дебаффа {{ site.data.spells.lf }}
-5. {{ site.data.spells.wt }} если доступен бафф от легенедарки {{ site.data.legend.doom }}
-6. {{ site.data.spells.asc_enh }}
-7. {{ site.data.spells.windstrike }} при активном {{ site.data.spells.asc_enh }}
-8. {{ site.data.covenants.vt }} (<span style="color:#68ccef;font-size:1em;">Кирии</span>)
-9. {{ site.data.spells.spike }}
-10. {{ site.data.spells.eb }} по кулдауну, при **5+** стаках {{ site.data.spells.mw }}
-11. {{ site.data.covenants.ch }} (<span style="color:#ff4040;font-size:1em;">Вентиры</span>) при **5+** стаках {{ site.data.spells.mw }}
-12. {{ site.data.spells.lb }} при **8+** стаках {{ site.data.spells.mw }}
-13. {{ site.data.spells.ll }} во время прока {{ site.data.spells.hh }}
-14. {{ site.data.spells.ss }}
-15. {{ site.data.spells.ll }}
-16. {{ site.data.spells.crush }}
-17. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
-18. {{ site.data.spells.frs }} 
-19. {{ site.data.spells.sunder }}
-20. {{ site.data.spells.lb }} при **5+** стаках {{ site.data.spells.mw }}
-21. {{ site.data.spells.wt }} если все другие способности недоступны.
+2. {{ site.data.covenants.pw }} (<span style="color:#40bf40;font-size:1em;">Некролорды</span>)
+3. {{ site.data.spells.fs }} если отсутствует на цели.
+4. {{ site.data.spells.feral }} для генерации стаков {{ site.data.spells.mw }}
+5. {{ site.data.spells.ll }} при отсутствии дебаффа {{ site.data.spells.lf }}
+6. {{ site.data.spells.wt }} если возможно получить бафф от легенедарки {{ site.data.legend.doom }}
+7. {{ site.data.spells.asc_enh }}
+8. {{ site.data.spells.windstrike }} при активном {{ site.data.spells.asc_enh }}
+9. {{ site.data.covenants.vt }} (<span style="color:#68ccef;font-size:1em;">Кирии</span>)
+10. {{ site.data.spells.spike }}
+11. {{ site.data.covenants.ft }} (<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>)
+12. {{ site.data.spells.eb }} по кулдауну, при **5+** стаках {{ site.data.spells.mw }}
+13. {{ site.data.covenants.ch }} (<span style="color:#ff4040;font-size:1em;">Вентиры</span>) при **5+** стаках {{ site.data.spells.mw }}
+14. {{ site.data.spells.lb }} при **8+** стаках {{ site.data.spells.mw }}
+15. {{ site.data.spells.ll }} во время прока {{ site.data.spells.hh }}
+16. {{ site.data.spells.ss }}
+17. {{ site.data.spells.ll }}
+18. {{ site.data.spells.crush }}
+19. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
+20. {{ site.data.spells.frs }} 
+21. {{ site.data.spells.sunder }}
+22. {{ site.data.spells.lb }} при **5+** стаках {{ site.data.spells.mw }}
+23. {{ site.data.spells.wt }} если все другие способности недоступны.
 
 **Важные замечания:**
 
@@ -78,7 +79,7 @@ author: Amani, Wordup
 
 * Не стоит тратить стаки {{ site.data.spells.mw }} на {{ site.data.spells.lb }} сразу же, как только вы набрали **5** стаков. Так как максимум возможно набрать **10** стаков, используйте сначала другие способности, чтобы начать их кулдаун. 
 
-* Чтобы было меньше простоев, ваша задача – сначала использовать способности с коротким кулдауном, а уже затем с долгим. Это отражено в списке приоритетов.
+* Для уменьшения количества простоев следует сначала использовать способности с коротким кулдауном, а уже затем с долгим. Это отражено в списке приоритетов.
 
 # Бой на АоЕ
 
