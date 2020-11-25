@@ -128,7 +128,8 @@ toc: true
 
 # Лучшие проводники
 
-* {{ site.data.conduits.call }} – **лучший проводник**, ставим его **в первую очередь** и никогда не меняем. 
+* {{ site.data.conduits.call }} – **лучший проводник** для любого типа боя.
+* {{ site.data.conduits.wave }} – **отличный проводник** для АоЕ, если вы в ковенанте <span style="color:#40bf40;font-size:1em;">Некролордов</span>.
 * {{ site.data.conduits.wave }} / {{ site.data.conduits.dirge }} / {{ site.data.conduits.fae }} / {{ site.data.conduits.harvest }} – ставим **во второй слот** проводник ковенанта.
 * {{ site.data.conduits.pyroclastic_shock }} – используем в бою против одной цели, если вы состоите в ковенанте <span style="color:#ff4040;font-size:1em;">Вентиров</span>.
 
