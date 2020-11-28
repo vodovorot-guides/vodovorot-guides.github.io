@@ -18,7 +18,7 @@ categories:
           url: /ele/conduits.html
         - title: Легендарные предметы
           url: /ele/legendaries.html
-        - title: Статы и BiS вещи
+        - title: Характеристики
           url: /ele/stats_and_gear.html
           disabled: true
       - title: Изменения в Shadowlands
@@ -55,7 +55,7 @@ categories:
           url: /enh/conduits.html
         - title: Легендарные предметы
           url: /enh/legendaries.html
-        - title: Статы и BiS вещи
+        - title: Характеристики
           url: /enh/stats_and_gear.html
           disabled: true
       - title: Изменения в Shadowlands
@@ -91,7 +91,7 @@ categories:
           url: /resto/conduits.html
         - title: Легендарные предметы
           url: /resto/legendaries.html
-        - title: Статы и BiS вещи
+        - title: Характеристики
           url: /resto/stats_and_gear.html
           disabled: true
       - title: Изменения в Shadowlands
