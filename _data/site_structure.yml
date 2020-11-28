@@ -19,7 +19,7 @@ categories:
         - title: Легендарные предметы
           url: /ele/legendaries.html
         - title: Характеристики
-          url: /ele/stats_and_gear.html
+          url: /ele/stats.html
           disabled: true
       - title: Изменения в Shadowlands
         url: /ele/prepatch.html
@@ -56,7 +56,7 @@ categories:
         - title: Легендарные предметы
           url: /enh/legendaries.html
         - title: Характеристики
-          url: /enh/stats_and_gear.html
+          url: /enh/stats.html
           disabled: true
       - title: Изменения в Shadowlands
         url: /enh/prepatch.html
@@ -92,7 +92,7 @@ categories:
         - title: Легендарные предметы
           url: /resto/legendaries.html
         - title: Характеристики
-          url: /resto/stats_and_gear.html
+          url: /resto/stats.html
           disabled: true
       - title: Изменения в Shadowlands
         url: /resto/prepatch.html
