@@ -185,7 +185,7 @@ toc: true
 
 * **Лут-таблица** с удобной сортировкой по характеристикам доступна [по этой ссылке](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy).
 
-{% include button.html name="Подробности про характеристики (в разработке)" link="/resto/stats_and_gear.html" %}  
+{% include button.html name="Подробности про характеристики (в разработке)" link="/resto/stats.html" %}  
 
 <p></p>
 
