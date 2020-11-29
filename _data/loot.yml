@@ -10,10 +10,13 @@ Enchant_Weapon_Lightless_Force: <a href="https://ru.wowhead.com/item=172370" tar
 Ascended_Vigor: <a href="https://ru.wowhead.com/item=172365" target="blank">Чары для оружия - неутомимость перерожденных</a>
 Sinful_Revelation: <a href="https://ru.wowhead.com/item=172368" target="blank">Чары для оружия – греховное откровение</a>
 Celestial_Guidance: <a href="https://ru.wowhead.com/item=172366" target="blank">Чары для оружия – небесное наставление</a>
+Eternal_Grace: <a href="https://ru.wowhead.com/item=172367" target="blank">Чары для оружия – вечная милость</a>
 
 ## Нагрудник 
 Enchant_Chest_Eternal_Stats: <a href="https://ru.wowhead.com/item=177962" target="blank">Чары для нагрудника - вечные характеристики</a>
 Enchant_Chest_Eternal_Bulwark: <a href="https://ru.wowhead.com/item=172418" target="blank">Чары для нагрудника - вечный оплот</a>
+Eternal_Skirmish: <a href="https://ru.wowhead.com/item=177659" target="blank">Чары для нагрудника - вечная схватка</a>
+Eternal_Bounds: <a href="https://ru.wowhead.com/item=177715" target="blank">Чары для нагрудника - Вечные границы</a>
 ## Сапоги
 Enchant_Boots_Eternal_Agility: <a href="https://ru.wowhead.com/item=172419" target="blank">Чары для обуви – вечная ловкость</a>
 ## Плащ
@@ -23,6 +26,8 @@ Enchant_Cloak_Fortified_Speed: <a href="https://ru.wowhead.com/item=172410" targ
 ## Кольцо
 Enchant_Ring_Tenet_of_Versatility: <a href="https://ru.wowhead.com/item=172364" target="blank">Чары для кольца "Догмат универсальности"</a>
 Enchant_Ring_Tenet_of_Haste : <a href="https://ru.wowhead.com/item=172364" target="blank">Чары для кольца "Догмат скорости"</a>
+Enchant_Ring_Tenet_of_Crit : <a href="https://ru.wowhead.com/item=172361" target="blank">Чары для кольца "Догмат критического удара"</a>
+
 #Наручи
 Eternal_Intellect: <a href="https://ru.wowhead.com/item=172415" target="blank">Чары для наручей - вечный интеллект</a>
 
@@ -39,18 +44,23 @@ Smothered_Shank: <a href="https://ru.wowhead.com/item=172062" target="blank">Т�
 Steak_a_la_Mode: <a href="https://ru.wowhead.com/item=172051" target="blank">Стейк с овощами</a>
 Phantasmal_Souffle_and_Fries: <a href="https://ru.wowhead.com/item=172041" target="blank">Фантомное суфле с жареной картошкой</a>
 Infused_Endmire_Fruit: <a href="https://ru.wowhead.com/item=182592" target="blank">Насыщенный фрукт Гиблотопи</a>
+Spinefin_Souffle: <a href="https://ru.wowhead.com/item=172041" target="blank">Cуфле из иглотелой пираньи с картошкой</a>
 
 # Алхимия
 Eternal_Flask: <a href="https://ru.wowhead.com/item=171280" target="blank">Настой вечности</a>
 Flask_of_Power: <a href="https://ru.wowhead.com/item=171276" target="blank">Призрачный настой силы</a>
 
 Shadowcore_Oil: <a href="https://ru.wowhead.com/item=171285" target="blank">Масло теневого ядра</a>
+Embalmer: <a href="https://ru.wowhead.com/item=171286" target="blank">Масло бальзамировщика</a>
 
 Potion_of_Phantom_Fire: <a href="https://ru.wowhead.com/item=171349" target="blank">Зелье фантомного огня</a>
 Potion_of_Empowered_Exorcisms: <a href="https://ru.wowhead.com/item=171352" target="blank">Зелье усиленного экзорцизма</a>
 Potion_of_Deathly_Fixation: <a href="https://ru.wowhead.com/item=171351" target="blank">Зелье смертельной фиксации</a>
 Potion_of_Spectral_Agility: <a href="https://ru.wowhead.com/item=171270" target="blank">Зелье призрачной ловкости</a>
 Potion_of_Spectral_Intellect: <a href="https://ru.wowhead.com/item=171273" target="blank">Зелье призрачного интеллекта</a>
+Spiritual_mana: <a href="https://ru.wowhead.com/item=171268" target="blank">Духовное зелье маны</a>
+Divine_Awakening: <a href="https://ru.wowhead.com/item=171350" target="blank">Зелье божественного пробуждения</a>
+Spiritual_Clarity: <a href="https://ru.wowhead.com/item=171272" target="blank">Зелье духовной ясности</a>
 
 
 Spiritual_Healing_Potion: <a href="https://ru.wowhead.com/item=171267" target="blank">Духовное зелье исцеления</a>
