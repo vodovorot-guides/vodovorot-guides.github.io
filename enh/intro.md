@@ -180,11 +180,24 @@ toc: true
 
 # Расходные предметы
 
-* Раздел будет дополнен в скором времени.
+* {{ site.data.loot.Enchant_Weapon_Lightless_Force }}
+* {{ site.data.loot.Celestial_Guidance }}
 
-{% include button.html name="Расходные предметы (в разработке)" link="/enh/consumables.html" %}  
+* {{ site.data.loot.Eternal_Skirmish }}
+* {{ site.data.loot.Enchant_Boots_Eternal_Agility }}
+* {{ site.data.loot.Enchant_Cloak_Fortified_Avoidance }}
+* {{ site.data.loot.Enchant_Cloak_Fortified_Speed }}
 
-<p></p>
+* {{ site.data.loot.Feast_of_Gluttonous_Hedonism }} – пир на Ловкость.
+* {{ site.data.loot.Tenebrous_Crown_Roast_Aspic }} – еда на Скорость.
+
+* {{ site.data.loot.Flask_of_Power }} – универсальный настой на Ловкость/Интеллект/Силу.
+
+* {{ site.data.loot.Potion_of_Spectral_Agility }} – боевое зелье.
+
+* {{ site.data.loot.Quick_Jewel_Cluster }} – камень на Скорость.
+
+**Важно!** Масла на оружие Шаман Совершенствования **НЕ** использует, так как они не счетаются с {{ site.data.spells.ww }} и {{ site.data.spells.ftw }}.
 
 # Интерфейс
 
