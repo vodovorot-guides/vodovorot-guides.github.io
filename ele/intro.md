@@ -184,10 +184,24 @@ toc: true
 
 # Расходные предметы
 
-* Раздел будет дополнен в скором времени.
+* {{ site.data.loot.Celestial_Guidance }} – универсальный чант, лучший вариант на АоЕ.
+* {{ site.data.loot.Sinful_Revelation }} – чуть лучше в бою против одной цели.
 
-{% include button.html name="Расходные предметы (в разработке)" link="/ele/consumables.html" %}  
+* {{ site.data.loot.Enchant_Chest_Eternal_Stats }}
+* {{ site.data.loot.Eternal_Intellect }}
+* {{ site.data.loot.Enchant_Ring_Tenet_of_Haste }}
+* {{ site.data.loot.Enchant_Cloak_Fortified_Speed }}
 
+* {{ site.data.loot.Feast_of_Gluttonous_Hedonism }} – пир на Интеллект.
+* {{ site.data.loot.Tenebrous_Crown_Roast_Aspic }} – еда на Скорость.
+
+* {{ site.data.loot.Flask_of_Power }} – универсальный настой на Интеллект/Ловкость/Силу.
+* {{ site.data.loot.Shadowcore_Oil }} – масло на оружие.
+
+* {{ site.data.loot.Potion_of_Deathly_Fixation }} – зелье для боя против одной цели.
+* {{ site.data.loot.Potion_of_Spectral_Ingellect }} – зелье на АоЕ
+
+* {{ site.data.loot.Quick_Jewel_Cluster }} – камни на Скорость.
 <p></p>
 
 # Интерфейс
