@@ -194,7 +194,7 @@ toc: true
 * {{ site.data.loot.Eternal_Grace }} – лучший вариант для отхила.
 * {{ site.data.loot.Celestial_Guidance }} – подходит и для лечения, и для нанесения урона.
 
-* {{ site.data.loot.Enchant_Chest_Eternal_Stats }}
+* {{ site.data.loot.Eternal_Bounds }}
 * {{ site.data.loot.Eternal_Intellect }}
 * {{ site.data.loot.Enchant_Ring_Tenet_of_Crit }}
 * {{ site.data.loot.Enchant_Cloak_Fortified_Leech }}
