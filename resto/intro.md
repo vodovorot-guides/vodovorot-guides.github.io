@@ -191,11 +191,26 @@ toc: true
 
 # Расходные предметы
 
-* Раздел будет дополнен в скором времени.
+* {{ site.data.loot.Eternal_Grace }} – лучший вариант для отхила.
+* {{ site.data.loot.Celestial_Guidance }} – подходит и для лечения, и для нанесения урона.
 
-{% include button.html name="Расходные предметы (в разработке)" link="/resto/consumables.html" %}  
+* {{ site.data.loot.Enchant_Chest_Eternal_Stats }}
+* {{ site.data.loot.Eternal_Intellect }}
+* {{ site.data.loot.Enchant_Ring_Tenet_of_Haste }}
+* {{ site.data.loot.Enchant_Cloak_Fortified_Speed }}
 
-<p></p>
+* {{ site.data.loot.Feast_of_Gluttonous_Hedonism }} – пир на Интеллект.
+* {{ site.data.loot.Spinefin_Souffle }} – еда на Критический удар.
+
+* {{ site.data.loot.Flask_of_Power }} – универсальный настой на Интеллект/Ловкость/Силу.
+* {{ site.data.loot.Embalmer }} – масло на оружие.
+
+* {{ site.data.loot.Spiritual_Clarity }} – если у вас есть возможность посидеть АФК 10 секунд.
+* {{ site.data.loot.Spiritual_mana }} – если мана нужна мгновенно или нет возможности сидеть АФК.
+* {{ site.data.loot.Divine_Awakening }} – дополнительный отхил, на случай если не будет потребности в мане.
+* {{ site.data.loot.Potion_of_Spectral_Intellect }} – подойдет и для отхила, и для нанесения урона.
+
+* {{ site.data.loot.Deadly_Jewel_Cluster }} – камень на Критический удар.
 
 # Интерфейс
 
