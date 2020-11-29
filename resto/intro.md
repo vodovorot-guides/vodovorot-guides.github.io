@@ -196,8 +196,8 @@ toc: true
 
 * {{ site.data.loot.Enchant_Chest_Eternal_Stats }}
 * {{ site.data.loot.Eternal_Intellect }}
-* {{ site.data.loot.Enchant_Ring_Tenet_of_Haste }}
-* {{ site.data.loot.Enchant_Cloak_Fortified_Speed }}
+* {{ site.data.loot.Enchant_Ring_Tenet_of_Crit }}
+* {{ site.data.loot.Enchant_Cloak_Fortified_Leech }}
 
 * {{ site.data.loot.Feast_of_Gluttonous_Hedonism }} – пир на Интеллект.
 * {{ site.data.loot.Spinefin_Souffle }} – еда на Критический удар.
