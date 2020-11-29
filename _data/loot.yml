@@ -7,7 +7,10 @@ ring1: <a href="https://ru.wowhead.com/item=183036" target="blank">Царств�
 # Инчант
 ## Оружие 
 Enchant_Weapon_Lightless_Force: <a href="https://ru.wowhead.com/item=172370" target="blank">Чары для оружия - сумрачная сила</a>
-Ascended_Vigor: <a href="https://ru.wowhead.com/item=172365" target="blank">Неутомимость перерожденных"</a>
+Ascended_Vigor: <a href="https://ru.wowhead.com/item=172365" target="blank">Чары для оружия - неутомимость перерожденных</a>
+Sinful_Revelation: <a href="https://ru.wowhead.com/item=172368" target="blank">Чары для оружия – греховное откровение</a>
+Celestial_Guidance: <a href="https://ru.wowhead.com/item=172366" target="blank">Чары для оружия – небесное наставление</a>
+
 ## Нагрудник 
 Enchant_Chest_Eternal_Stats: <a href="https://ru.wowhead.com/item=177962" target="blank">Чары для нагрудника - вечные характеристики</a>
 Enchant_Chest_Eternal_Bulwark: <a href="https://ru.wowhead.com/item=172418" target="blank">Чары для нагрудника - вечный оплот</a>
@@ -16,9 +19,13 @@ Enchant_Boots_Eternal_Agility: <a href="https://ru.wowhead.com/item=172419" targ
 ## Плащ
 Enchant_Cloak_Fortified_Leech: <a href="https://ru.wowhead.com/item=172412" target="blank">Чары для плаща – повышенное самоисцеление</a>
 Enchant_Cloak_Fortified_Avoidance: <a href="https://ru.wowhead.com/item=172411" target="blank">Чары для плаща – повышенное избежание</a>
+Enchant_Cloak_Fortified_Speed: <a href="https://ru.wowhead.com/item=172410" target="blank">Чары для плаща – повышенная скорость</a>
 ## Кольцо
 Enchant_Ring_Tenet_of_Versatility: <a href="https://ru.wowhead.com/item=172364" target="blank">Чары для кольца "Догмат универсальности"</a>
-Enchant_Ring_Tenet_of_Haste: <a href="https://ru.wowhead.com/item=172364" target="blank">Чары для кольца "Догмат скорости"</a>
+: <a href="https://ru.wowhead.com/item=172364" target="blank">Чары для кольца "Догмат скорости"</a>
+#Наручи
+Eternal_Intellect: <a href="https://ru.wowhead.com/item=172415" target="blank">Чары для наручей - вечный интеллект</a>
+
 
 # Ювелирное дело
 Deadly_Jewel_Cluster: <a href="https://ru.wowhead.com/item=173127" target="blank">Композиция самоцветов смертоносности</a>
@@ -35,6 +42,7 @@ Infused_Endmire_Fruit: <a href="https://ru.wowhead.com/item=182592" target="blan
 
 # Алхимия
 Eternal_Flask: <a href="https://ru.wowhead.com/item=171280" target="blank">Настой вечности</a>
+Flask_of_Power: <a href="https://ru.wowhead.com/item=171276" target="blank">Призрачный настой силы</a>
 
 Shadowcore_Oil: <a href="https://ru.wowhead.com/item=171285" target="blank">Масло теневого ядра</a>
 
@@ -42,11 +50,12 @@ Potion_of_Phantom_Fire: <a href="https://ru.wowhead.com/item=171349" target="bla
 Potion_of_Empowered_Exorcisms: <a href="https://ru.wowhead.com/item=171352" target="blank">Зелье усиленного экзорцизма</a>
 Potion_of_Deathly_Fixation: <a href="https://ru.wowhead.com/item=171351" target="blank">Зелье смертельной фиксации</a>
 Potion_of_Spectral_Agility: <a href="https://ru.wowhead.com/item=171270" target="blank">Зелье призрачной ловкости</a>
+Potion_of_Spectral_Ingellect: <a href="https://ru.wowhead.com/item=171273" target="blank">Зелье призрачного интеллекта</a>
+
 
 Spiritual_Healing_Potion: <a href="https://ru.wowhead.com/item=171267" target="blank">Духовное зелье исцеления</a>
 Phial_of_Serenity: <a href="https://ru.wowhead.com/item=177278" target="blank">Флакон безмятежности</a>
 Potion_of_the_Psychopomps_Speed: <a href="https://ru.wowhead.com/item=184090" target="blank">Зелье скорости психопомпа</a>
 Potion_of_the_Hidden_Spirit: <a href="https://ru.wowhead.com/item=171266" target="blank">Зелье скрытого духа</a>
 
-# Кожевничество 
-Heavy_Desolate_Armor_Kit: <a href="https://ru.wowhead.com/item=171437" target="blank">Накладки для доспехов из толстой могильной кожи</a>
+
