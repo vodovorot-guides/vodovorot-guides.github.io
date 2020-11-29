@@ -202,7 +202,6 @@ toc: true
 * {{ site.data.loot.Potion_of_Spectral_Intellect }} – зелье на АоЕ
 
 * {{ site.data.loot.Quick_Jewel_Cluster }} – камень на Скорость.
-<p></p>
 
 # Интерфейс
 
