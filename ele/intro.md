@@ -199,7 +199,7 @@ toc: true
 * {{ site.data.loot.Shadowcore_Oil }} – масло на оружие.
 
 * {{ site.data.loot.Potion_of_Deathly_Fixation }} – зелье для боя против одной цели.
-* {{ site.data.loot.Potion_of_Spectral_Ingellect }} – зелье на АоЕ
+* {{ site.data.loot.Potion_of_Spectral_Intellect }} – зелье на АоЕ
 
 * {{ site.data.loot.Quick_Jewel_Cluster }} – камень на Скорость.
 <p></p>
