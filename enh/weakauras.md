@@ -7,6 +7,31 @@ author: Amani, Haelrail
 ---
 [По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/enhancement) можно найти список всех WA для Энха в Shadowlands. 
 
+# Важные способности для отслеживания
+
+[Шкала стаков оружия Водоворота:](https://wago.io/3adqlFNy2)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/3adqlFNy2/5f3c7596d2c5a7357fa40108.gif" width=350x> 
+</p>
+
+[Стихии волков от таланта Духи стихий:](https://wago.io/sJy_uW-Sq)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://i.imgur.com/1NGL8mR.png" width=350x> 
+</p>
+
+[Инчанты на оружие:](https://wago.io/iBEOl6LFb)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://i.imgur.com/dbVdLkp.png" width=350x> 
+</p>
+
+# Различные сборки WeakAuras
+
 [Сборка от Afenar:](https://wago.io/Afenar_Shaman)
 {: style="text-align: center;"}
 
@@ -42,16 +67,4 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/4yz3N1TG7/5cd447b65589871081e0b068.gif" width=350x> 
 </p>
 
-[Стихии волков от таланта Духи стихий:](https://wago.io/sJy_uW-Sq)
-{: style="text-align: center;"}
 
-<p align="center">
-<img src="https://i.imgur.com/1NGL8mR.png" width=350x> 
-</p>
-
-[Инчанты на оружие:](https://wago.io/iBEOl6LFb)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://i.imgur.com/dbVdLkp.png" width=350x> 
-</p>
