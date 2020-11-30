@@ -23,7 +23,7 @@ author: Amani, Haelrail
 <img src="https://i.imgur.com/1NGL8mR.png" width=350x> 
 </p>
 
-[Инчанты на оружие:](https://wago.io/iBEOl6LFb)
+[Чары на оружие:](https://wago.io/iBEOl6LFb)
 {: style="text-align: center;"}
 
 <p align="center">
