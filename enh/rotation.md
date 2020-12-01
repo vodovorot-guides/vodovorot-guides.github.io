@@ -55,21 +55,22 @@ author: Amani, Wordup
 6. {{ site.data.spells.wt }} если возможно получить бафф от легенедарки {{ site.data.legend.doom }}
 7. {{ site.data.spells.asc_enh }}
 8. {{ site.data.spells.windstrike }} при активном {{ site.data.spells.asc_enh }}
-9. {{ site.data.covenants.vt }} (<span style="color:#68ccef;font-size:1em;">Кирии</span>)
-10. {{ site.data.spells.spike }}
-11. {{ site.data.covenants.ft }} (<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>)
-12. {{ site.data.spells.eb }} по кулдауну, при **5+** стаках {{ site.data.spells.mw }}
-13. {{ site.data.covenants.ch }} (<span style="color:#ff4040;font-size:1em;">Вентиры</span>) при **5+** стаках {{ site.data.spells.mw }}
-14. {{ site.data.spells.lb }} при **8+** стаках {{ site.data.spells.mw }}
-15. {{ site.data.spells.ll }} во время прока {{ site.data.spells.hh }}
-16. {{ site.data.spells.ss }}
-17. {{ site.data.spells.ll }}
-18. {{ site.data.spells.crush }}
-19. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
-20. {{ site.data.spells.frs }} 
-21. {{ site.data.spells.sunder }}
-22. {{ site.data.spells.lb }} при **5+** стаках {{ site.data.spells.mw }}
-23. {{ site.data.spells.wt }} если все другие способности недоступны.
+9. {{ site.data.spells.frs }} с баффом от {{ site.data.spells.hailstorm }} 
+10. {{ site.data.covenants.vt }} (<span style="color:#68ccef;font-size:1em;">Кирии</span>)
+11. {{ site.data.spells.spike }}
+12. {{ site.data.covenants.ft }} (<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>)
+13. {{ site.data.spells.eb }} по кулдауну, при **5+** стаках {{ site.data.spells.mw }}
+14. {{ site.data.covenants.ch }} (<span style="color:#ff4040;font-size:1em;">Вентиры</span>) при **5+** стаках {{ site.data.spells.mw }}
+15. {{ site.data.spells.lb }} при **8+** стаках {{ site.data.spells.mw }}
+16. {{ site.data.spells.ll }} во время прока {{ site.data.spells.hh }}
+17. {{ site.data.spells.ss }}
+18. {{ site.data.spells.ll }}
+19. {{ site.data.spells.crush }}
+20. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
+21. {{ site.data.spells.frs }} 
+22. {{ site.data.spells.sunder }}
+23. {{ site.data.spells.lb }} при **5+** стаках {{ site.data.spells.mw }}
+24. {{ site.data.spells.wt }} если все другие способности недоступны.
 
 **Важные замечания:**
 
