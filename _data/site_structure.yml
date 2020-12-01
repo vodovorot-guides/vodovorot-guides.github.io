@@ -28,12 +28,6 @@ categories:
       - title: Замок Нафрия
         url: /ele/nathria.html
         divided: true
-      - title: Мифик+
-        url: /ele/mythicplus.html
-        disabled: true
-      - title: PVP
-        url: /ele/pvp.html
-        disabled: true
 
   - title: Энх
     url: /enh/intro.html
@@ -61,16 +55,6 @@ categories:
         url: /enh/prepatch.html
       - title: Weakauras
         url: /enh/weakauras.html
-      - title: Замок Нафрия
-        url: /enh/nathria.html
-        disabled: true
-        divided: true
-      - title: Мифик+
-        url: /enh/mythicplus.html
-        disabled: true
-      - title: PVP
-        url: /enh/pvp.html
-        disabled: true
 
   - title: Рестор
     url: /resto/intro.html
@@ -99,16 +83,6 @@ categories:
         url: /resto/weakauras.html
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
-      - title: Замок Нафрия
-        url: /resto/nathria.html
-        disabled: true
-        divided: true
-      - title: Мифик+
-        url: /resto/mythicplus.html
-        disabled: true
-      - title: PVP
-        url: /resto/pvp.html
-        disabled: true
 
   - title: Инфо
     subcategories:
