@@ -242,7 +242,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 **Нанесение урона:**
 - Поддерживайте {{ site.data.spells.fs }} на боссе и на {{ site.data.nathria.harnessed_specter }}.
 - Используйте {{ site.data.spells.quake }} когда рядом стоят две или более цели, а также {{ site.data.spells.cl }} если целей больше трех.
-- Набирайте энергию Водоворота перед спавном аддов. Если вы используете {{ site.data.legend.eogs }}, постарайтесь придержать прок этой легендарки под появление аддов.
+- Набирайте энергию Водоворота перед спавном аддов. Если вы используете {{ site.data.legend.eogs }}, постарайтесь придержать прок этой легендарки под их появление.
 - Используйте {{ site.data.spells.swg }} или мгновенные заклинания если вы стали целью {{ site.data.nathria.shared_suffering }}.
 
 **Защита и сейвы:**
@@ -346,7 +346,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 **Нанесение урона:**
 - Поддерживайте {{ site.data.spells.fs }} на максимально возможном количестве целей.
 - Используйте {{ site.data.spells.quake }} когда рядом стоят две или более цели, а также {{ site.data.spells.cl }} если целей больше трех.
-- Если вы используете {{ site.data.legend.eogs }}, постарайтесь придержать прок этой легендарки под появление аддов.
+- Если вы используете {{ site.data.legend.eogs }}, постарайтесь придержать прок этой легендарки под их появление.
 - Используйте {{ site.data.spells.swg }} или мгновенные заклинания под такие механики, как {{ site.data.nathria.wicked_blade }}, {{ site.data.nathria.seismic_upheaval }}, и {{ site.data.nathria.reverberating_eruption }}.
 
 **Защита и сейвы:**
