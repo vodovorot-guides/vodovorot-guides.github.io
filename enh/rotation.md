@@ -55,7 +55,7 @@ author: Amani, Wordup
 6. {{ site.data.spells.wt }} если возможно получить бафф от легенедарки {{ site.data.legend.doom }}
 7. {{ site.data.spells.asc_enh }}
 8. {{ site.data.spells.windstrike }} при активном {{ site.data.spells.asc_enh }}
-9. {{ site.data.spells.frs }} с баффом от {{ site.data.spells.hailstorm }} 
+9. {{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }} 
 10. {{ site.data.covenants.vt }} (<span style="color:#68ccef;font-size:1em;">Кирии</span>)
 11. {{ site.data.spells.spike }}
 12. {{ site.data.covenants.ft }} (<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>)
