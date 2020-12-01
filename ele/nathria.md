@@ -138,7 +138,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - При взятом таланте {{ site.data.spells.storm }}, придерживайте {{ site.data.spells.eye_storm }} под большую волну аддов.
 
 **Защита и сейвы:**
-- Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) на {{ site.data.nathria.crimson_flurry }} ( {{ site.data.nathria.bleakwing_assassin }}) и {{ site.data.nathria.ember_blast }} (от {{site.data.nathria.shade_of_kaelthas }}).
+- Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) на {{ site.data.nathria.crimson_flurry }} и {{ site.data.nathria.ember_blast }}.
 - {{ site.data.spells.spirit_wolf }} будет полезен для снижения урона от способности {{ site.data.nathria.soul_pedestal }}.
 
 **Лечение:**
