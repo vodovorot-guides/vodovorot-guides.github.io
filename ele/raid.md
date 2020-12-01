@@ -27,7 +27,9 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 - Несмотря на то, что топовым билдом по симкратфу идет сочетание талантов {{ site.data.spells.eb }} и {{ site.data.spells.if }}, эффективно использовать их вместе практичеси нереально, особенно с легендаркой {{ site.data.legend.lava }}.
 
-- Для боев с большим количеством передвижения рекомендуется сочетание {{ site.data.spells.ecs }} + {{ site.data.spells.if }}, а для всех остальных лучше взять {{ site.data.spells.eb }} + {{ site.data.spells.primal_elem }}.
+- Для боев против одной цели с большим количеством передвижения рекомендуется сочетание талантов {{ site.data.spells.ecs }} + {{ site.data.spells.if }}, а для всех остальных лучше взять {{ site.data.spells.eb }} + {{ site.data.spells.primal_elem }}.
+
+- В АоЕ мы точно используем {{ site.data.spells.primal_elem }}, а талант во втором тире остается на ваше усмотрение. И {{ site.data.spells.afs }} и {{ site.data.spells.ecs }} могут быть достаточно эффективны.
 
 # Боссы
 
