@@ -9,29 +9,36 @@ author: Amani, Haelrail
 
 # Важные заклинания для отслеживания
 
-[Талант Прилив от Niseko:](https://wago.io/rk7idBBoX)
+[Талант Прилив:](https://wago.io/rk7idBBoX)
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://i.imgur.com/lXn3NWJ.png" width=350x> 
 </p>
 
-[Тотем разразившегося ливня от Niseko:](https://wago.io/lqLj_pm5g)
+[Талант Тотем разразившегося ливня:](https://wago.io/lqLj_pm5g)
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://i.imgur.com/k5DWJ1H.png" width=350x> 
 </p>
 
-[Пульсация от Niseko:](https://wago.io/HJ6r_zMBz)
+[Талант Пульсация:](https://wago.io/HJ6r_zMBz)
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/HJ6r_zMBz/5a64d09b0d3afb30f0b83730.gif" width=350x> 
 </p>
 
-# Различные сборки WeakAuras
+[Проводник Кружащие потоки:](https://wago.io/cRt572g1H)
+{: style="text-align: center;"}
 
+<p align="center">
+<img src="https://media.wago.io/screenshots/cRt572g1H/5f4c4d8786f4b4306429dda4.png" width=350x> 
+</p>
+
+
+# Различные сборки WeakAuras
 
 [Сборка от Omeja:](https://wago.io/jUWUuuBOT)
 {: style="text-align: center;"}
