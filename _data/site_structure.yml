@@ -27,7 +27,6 @@ categories:
         url: /ele/weakauras.html
       - title: Замок Нафрия
         url: /ele/nathria.html
-        disabled: true
         divided: true
       - title: Мифик+
         url: /ele/mythicplus.html
