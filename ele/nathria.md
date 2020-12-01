@@ -394,7 +394,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 **Защита и сейвы:**
 
 Первая фаза:
-- Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) под {{ site.data.nathria.feeding_time }} (адды {{ site.data.nathria.night_hunter }} на Героической и Эпохальной сложностях), {{ site.data.nathria.blood_price }}, или {{ site.data.nathria.cleansing_pain }}.
+- Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) под {{ site.data.nathria.feeding_time }} (способность аддов {{ site.data.nathria.night_hunter }} на Героической и Эпохальной сложностях), {{ site.data.nathria.blood_price }}, или {{ site.data.nathria.cleansing_pain }}.
 
 Вторая фаза:
 - Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) под {{ site.data.nathria.impale }} или на большом количестве стаков {{ site.data.nathria.crimson_chorus }}.
