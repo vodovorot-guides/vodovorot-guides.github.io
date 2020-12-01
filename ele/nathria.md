@@ -11,7 +11,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 Вся информация в этом разделе подразумевает, что вы в курсе как работают заклинания, таланты и легендарки Шамана Стихии. Ознакомьтесь с соответствующими разделами перед прочтением.
 
-Вся информация была собрана на основе тестов рейда с беты, поэтому некоторые вещи могут рабтать иначе на живых серверах. Данный гайд будет обновляться и дополнятся. Если вы желаете поделиться какими-либо фишками или полезной информацией, свяжитесь с Amani#0001 в дискорде [«Водоворот»](https://discordapp.com/invite/zTQhBn8).
+Вся информация была собрана на основе тестов рейда с беты, поэтому некоторые вещи могут работать иначе на живых серверах. Данный гайд будет обновляться и дополняться. Если вы желаете поделиться какими-либо фишками или полезной информацией, свяжитесь с Amani#0001 в дискорде [«Водоворот»](https://discordapp.com/invite/zTQhBn8).
 
 # Основные моменты
 
@@ -21,15 +21,15 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 - При взятом таланте {{ site.data.spells.primal_elem }}, не забывайте про дополнительный сейв от {{ site.data.spells.igor }} – {{ site.data.spells.harden_skin }}, а также стан одной цели – {{ site.data.spells.pulverize }}.
 
-- Так как {{ site.data.spells.stampeding_roar }} ттеперь является базовой способностью друидов всех специализаций, нам не всегда нужно будет брать {{ site.data.spells.wrt }}, что дает нам альтернативу в пятом тире талантов.
+- Так как {{ site.data.spells.stampeding_roar }} теперь является базовой способностью друидов всех специализаций, нам не всегда нужно будет брать {{ site.data.spells.wrt }}, что дает нам альтернативу в пятом тире талантов.
 
 - На фарме боссов, когда бои станут быстрее, легендарка {{ site.data.legend.reminder }} будет достаточно полезной. Но в начале освоения она не лучший выбор.
 
-- Несмотря на то, что топовым билдом по симкратфу идет сочетание талантов {{ site.data.spells.eb }} и {{ site.data.spells.if }}, эффективно использовать их вместе практичеси нереально, особенно с легендаркой {{ site.data.legend.lava }}.
+- Несмотря на то, что топовым билдом по симкратфу идет сочетание талантов {{ site.data.spells.eb }} и {{ site.data.spells.if }}, эффективно использовать их вместе практически нереально, особенно с легендаркой {{ site.data.legend.lava }}.
 
 - Для боев против одной цели с большим количеством передвижения рекомендуется сочетание талантов {{ site.data.spells.ecs }} + {{ site.data.spells.if }}, а для всех остальных лучше взять {{ site.data.spells.eb }} + {{ site.data.spells.primal_elem }}.
 
-- В АоЕ мы точно используем {{ site.data.spells.primal_elem }}, а талант во втором тире остается на ваше усмотрение. И {{ site.data.spells.afs }} и {{ site.data.spells.ecs }} могут быть достаточно эффективны.
+- В АоЕ мы точно используем {{ site.data.spells.primal_elem }}, а талант во втором тире остается на ваше усмотрение. И {{ site.data.spells.afs }} и {{ site.data.spells.ecs }} могут быть достаточно эффективными.
 
 # Боссы
 
@@ -70,7 +70,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 
 **Заметки:**
-- Большиснтво абилок на этом боссе наносят летальный урон, поэтому {{ site.data.spells.ng }} вряд-ли вас спасет, а вот {{ site.data.spells.wrt }} будет крайне полезен.
+- Большинство абилок на этом боссе наносят летальный урон, поэтому {{ site.data.spells.ng }} вряд ли вас спасет, а вот {{ site.data.spells.wrt }} будет крайне полезен.
 - Так как {{ site.data.nathria.echoing_screech }} считается эффектом **Ужаса**, а не **Страха**, он не снимается с помощью {{ site.data.spells.tremor }}. *Возможно это изменилось после беты*.
 - Несмотря на большое количество передвижения, талант {{ site.data.spells.primal_elem }} может быть крайне эффективным в этом бою, так как переходка завершается ровно спустя **2:30** минут после пула, что повышает эффективность нашего {{ site.data.spells.fe }}.
         
@@ -133,13 +133,13 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Нанесение урона:**
 - Поддерживайте {{ site.data.spells.fs }} на приоритетных целях.
-- Используйте {{ site.data.spells.quake }} когда рядом стоят две или более цели, а также {{ site.data.spells.cl }} если целей больше трех.
+- Используйте {{ site.data.spells.quake }}, когда рядом стоят две или более цели, а также {{ site.data.spells.cl }}, если целей больше трех.
 - Используйте {{ site.data.spells.swg }} или мгновенные заклинания под {{ site.data.nathria.ember_blast }}.
 - При взятом таланте {{ site.data.spells.storm }}, придерживайте {{ site.data.spells.eye_storm }} под большую волну аддов.
 
 **Защита и сейвы:**
-- Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) на {{ site.data.nathria.crimson_flurry }} ( {{ site.data.nathria.bleakwing_assassin }}) and {{ site.data.nathria.ember_blast }} (from {{site.data.nathria.shade_of_kaelthas }}) as needed.
-- If talented, {{ site.data.spells.spirit_wolf }} allows you to mitigate damage from {{ site.data.nathria.soul_pedestal }}.
+- Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) на {{ site.data.nathria.crimson_flurry }} ( {{ site.data.nathria.bleakwing_assassin }}) и {{ site.data.nathria.ember_blast }} (от {{site.data.nathria.shade_of_kaelthas }}).
+- {{ site.data.spells.spirit_wolf }} будет полезен для снижения урона от способности {{ site.data.nathria.soul_pedestal }}.
 
 **Лечение:**
 - Во время простоя между волнами мобов, хильтесь с помощью {{ site.data.spells.hst }}, {{ site.data.spells.ch }}, и {{ site.data.spells.hs }}.
@@ -156,8 +156,8 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: {{ site.data.covenants.phial }} снимает эффект кровотечения от способности [Алый шквал](https://ru.wowhead.com/spell=341475), но **не снимает** эффект от [Уничтожения](https://ru.wowhead.com/spell=325442/).
 
 **Заметки:**
-- В этом бою будет множетсво фаз с различными аддами, которые отличаются по приоритету. Наносите урон в первую очередь по самым важным целям.
-- При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
+- В этом бою будет множество фаз с различными аддами, которые отличаются по приоритету. Наносите урон в первую очередь по самым важным целям.
+- При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь, что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
 
 ## Изобретатель Зи'мокс
 
@@ -216,7 +216,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - Убедитесь, что у вас полное здоровье перед применением боссом {{ site.data.nathria.expunge }}. Вы также можете отхиливать ваших союзников перед этим кастом.
 
 **Вспомогательные способности:**
-- Используйте {{ site.data.spells.wrt }} для помощи союзникам с{{ site.data.nathria.volatile_ejection }} и при убегании от {{ site.data.nathria.consume }}.
+- Используйте {{ site.data.spells.wrt }} для помощи союзникам с {{ site.data.nathria.volatile_ejection }} и при убегании от {{ site.data.nathria.consume }}.
 
 **Заметки:**
 - Помните, что когда вы находитесь под эффектом {{ site.data.nathria.gluttonous_miasma }}, {{ site.data.spells.eshield }} и {{ site.data.spells.ng }} бесполезны.
@@ -241,9 +241,9 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Нанесение урона:**
 - Поддерживайте {{ site.data.spells.fs }} на боссе и на {{ site.data.nathria.harnessed_specter }}.
-- Используйте {{ site.data.spells.quake }} когда рядом стоят две или более цели, а также {{ site.data.spells.cl }} если целей больше трех.
+- Используйте {{ site.data.spells.quake }}, когда рядом стоят две или более цели, а также {{ site.data.spells.cl }}, если целей больше трех.
 - Набирайте энергию Водоворота перед спавном аддов. Если вы используете {{ site.data.legend.eogs }}, постарайтесь придержать прок этой легендарки под их появление.
-- Используйте {{ site.data.spells.swg }} или мгновенные заклинания если вы стали целью {{ site.data.nathria.shared_suffering }}.
+- Используйте {{ site.data.spells.swg }} или мгновенные заклинания, если вы стали целью {{ site.data.nathria.shared_suffering }}.
 
 **Защита и сейвы:**
 - Используйте {{ site.data.spells.as }} под {{ site.data.nathria.change_of_heart }} и {{ site.data.nathria.bottled_anima }}.
@@ -254,7 +254,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Заметки:**
 - Так как у нас есть интерапт с самым коротким КД в игре – {{ site.data.spells.ws }}, два шамана и танк могут полностью перекрыть ротацию интераптов на аддах {{ site.data.nathria.conjured_manifestation }}.
-- При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
+- При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь, что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
 
 ## Совет Крови
 
@@ -285,7 +285,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Вспомогательные способности:**
 - Сбивайте касты {{ site.data.nathria.baroness_frieda }} – {{ site.data.nathria.bolt_of_power }}.
-- Используйте {{ site.data.spells.wrt }} чтобы помочь союзникам на таких механикакх, как {{ site.data.nathria.danse_macabre }}, {{ site.data.nathria.anima_fountain }} и {{ site.data.nathria.waltz_of_blood }}.
+- Используйте {{ site.data.spells.wrt }}, чтобы помочь союзникам на таких механиках, как {{ site.data.nathria.danse_macabre }}, {{ site.data.nathria.anima_fountain }} и {{ site.data.nathria.waltz_of_blood }}.
 
 **Заметки:**
 - Учитывая особенность боя – множество целей для {{ site.data.spells.fs }}, одна приоритетная цель и долгие переходки, потенциально может заиграть {{ site.data.spells.asc_ele }}, но это очень зависит от таймингов боя.
@@ -323,7 +323,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: {{ site.data.covenants.phial }} снимает эффект кровотечения от способности [Кровавая цепь](https://ru.wowhead.com/spell=339189) на Эпохальном уровне сложности.
 
 **Заметки:**
-- За счет механики {{ site.data.nathria.chain_link }} будьте осторожны при использовании {{ site.data.spell.ghost_wolf }}, особенно если вас связало с менее мобильным классом.
+- За счет механики {{ site.data.nathria.chain_link }} будьте осторожны при использовании {{ site.data.spells.wolf }}, особенно если вас связало с менее мобильным классом.
 
 ## Генералы Каменного легиона
 
@@ -345,7 +345,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Нанесение урона:**
 - Поддерживайте {{ site.data.spells.fs }} на максимально возможном количестве целей.
-- Используйте {{ site.data.spells.quake }} когда рядом стоят две или более цели, а также {{ site.data.spells.cl }} если целей больше трех.
+- Используйте {{ site.data.spells.quake }}, когда рядом стоят две или более цели, а также {{ site.data.spells.cl }}, если целей больше трех.
 - Если вы используете {{ site.data.legend.eogs }}, постарайтесь придержать прок этой легендарки под их появление.
 - Используйте {{ site.data.spells.swg }} или мгновенные заклинания под такие механики, как {{ site.data.nathria.wicked_blade }}, {{ site.data.nathria.seismic_upheaval }}, и {{ site.data.nathria.reverberating_eruption }}.
 
@@ -354,10 +354,10 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - Так как вы будете получать постоянный урон от {{ site.data.nathria.wicked_laceration }} и {{ site.data.nathria.heart_rend }}, {{ site.data.spells.eshield }} может быть хорошим вариантом для дополнительного отхила.
 
 **Вспомогательные способности:**
-- Испольщуйте {{ site.data.spells.wrt }} для помощи союзникам во время {{ site.data.nathria.stonegale_effigy }} или {{ site.data.nathria.shattering_blast }}.
+- Используйте {{ site.data.spells.wrt }} для помощи союзникам во время {{ site.data.nathria.stonegale_effigy }} или {{ site.data.nathria.shattering_blast }}.
 
 **Заметки:**
-- При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
+- При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь, что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
 
 ## Сир Денатрий
 
@@ -385,7 +385,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 Вторая фаза:
 - Поддерживайте {{ site.data.spells.fs }} на {{ site.data.nathria.sire_denathrius }}, {{ site.data.nathria.remornia }}, и на всех возможных аддах.
-- Используйте {{ site.data.spells.quake }} когда рядом стоят две или более цели, а также {{ site.data.spells.cl }} если целей больше трех.
+- Используйте {{ site.data.spells.quake }}, когда рядом стоят две или более цели, а также {{ site.data.spells.cl }}, если целей больше трех.
 - В зависимости от таймингов, вы можете придержать энергию Водоворота и кулдауны под применение боссом {{ site.data.nathria.wracking_pain }} на аддов.
 
 Третья фаза:
@@ -397,7 +397,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) под {{ site.data.nathria.feeding_time }} (адды {{ site.data.nathria.night_hunter }} на Героической и Эпохальной сложностях), {{ site.data.nathria.blood_price }}, или {{ site.data.nathria.cleansing_pain }}.
 
 Вторая фаза:
-- Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) под {{ site.data.nathria.impale }} или на большом количество стаков {{ site.data.nathria.crimson_chorus }}.
+- Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) под {{ site.data.nathria.impale }} или на большом количестве стаков {{ site.data.nathria.crimson_chorus }}.
 
 Третья фаза:
 - Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) под {{ site.data.nathria.fatal_finesse }} или {{ site.data.nathria.smoldering_ire }}.
@@ -407,7 +407,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 **Лечение:**
 
 Конец первой фазы:
-- Так как мы добегает до центра комнаты после {{ site.data.nathria.march_of_the_penitent }} практически самыми первыми, потратьте свободное время на лечение своих союзников.
+- Так как мы добегаем до центра комнаты после {{ site.data.nathria.march_of_the_penitent }} практически самыми первыми, потратьте свободное время на лечение своих союзников.
 
 **Вспомогательные способности:**
 
@@ -418,7 +418,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - Используйте {{ site.data.spells.wrt }} для избегания {{ site.data.nathria.massacre }} и {{ site.data.nathria.hand_of_destruction }}.
 
 Третья фаза:
-- Используйте {{ site.data.spells.wrt }} на таких механиках, как {{ site.data.nathria.shattering_pain }}, {{ site.data.nathria.hand_of_destruction }}, {{ site.data.nathria.ravage }}, and {{ site.data.nathria.massacre }}.
+- Используйте {{ site.data.spells.wrt }} на таких механиках, как {{ site.data.nathria.shattering_pain }}, {{ site.data.nathria.hand_of_destruction }}, {{ site.data.nathria.ravage }} и {{ site.data.nathria.massacre }}.
 
 **Способности ковенантов:**
 
@@ -426,5 +426,5 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Заметки:**
 - За счет того, что {{ site.data.spells.wolf }} не позволяет замедлить вас ниже **100%** скорости передвижения, Шаман может полностью игнорировать механику {{ site.data.nathria.march_of_the_penitent }} в конце первой фазы, а также игнорировать очищение стаков {{ site.data.nathria.burden_of_sin }} в течение всей фазы. Не забудьте зайти в форму {{ site.data.spells.wolf }} **до** начала переходки. 
-- При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
+- При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь, что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
 
