@@ -1,7 +1,7 @@
 ---
 title: Рейд Замок Нафрия – Шаман Стихии
 layout: page
-last_update: 2020-11-30
+last_update: 2020-12-01
 wow: 9.0.2
 toc: true
 author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
