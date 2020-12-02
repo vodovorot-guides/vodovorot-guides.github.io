@@ -179,7 +179,6 @@ ul {
     }
 }
 
-
 @media only screen and (min-width: 1670px) {
     .side-menu { // adjust position to be closer to content
         right: 4% !important;
@@ -219,6 +218,78 @@ ul {
 @media only screen and (min-width: 2750px) { // +50px to ensure no overlap
     .side-menu { // adjust position to be closer to content
         right: 18% !important;
+    }
+}
+
+.side-categorybar {
+    //background-color: $grey-color-dark;
+    margin-right: $spacing-unit !important;
+    margin-bottom: $spacing-unit !important;
+    margin-top: 20px !important;
+    padding-top: $spacing-unit / 2 !important;
+    padding-bottom: $spacing-unit / 2 !important;
+    padding-right: $spacing-unit + $spacing-unit / 2 !important;
+    position: fixed !important;
+    left: 1% !important;
+    border-right: 3px solid $grey-color;
+    width: 360px !important;
+    text-align: right;
+    ul { direction: rtl; }
+    ul li a { direction: ltr; unicode-bidi: embed; }
+    h3 {
+        @include relative-font-size(1.425);
+
+        @include media-query($on-laptop) {
+            @include relative-font-size(1.275);
+        }
+    }
+}
+
+@media only screen and (max-width: 1590px) {
+    .side-categorybar { // hide side menu if we have to assume it would probably overlap the content
+        display: none !important;
+    }
+}
+
+@media only screen and (min-width: 1670px) {
+    .side-categorybar { // adjust position to be closer to content
+        left: 4% !important;
+    }
+}
+
+@media only screen and (min-width: 1750px) {
+    .side-categorybar { // adjust position to be closer to content
+        left: 6% !important;
+    }
+}
+
+@media only screen and (min-width: 1950px) { // +50px to ensure no overlap
+    .side-categorybar { // adjust position to be closer to content
+        left: 10% !important;
+    }
+}
+
+@media only screen and (min-width: 2150px) { // +50px to ensure no overlap
+    .side-categorybar { // adjust position to be closer to content
+        left: 14% !important;
+    }
+}
+
+@media only screen and (min-width: 2350px) { // +50px to ensure no overlap
+    .side-categorybar { // adjust position to be closer to content
+        left: 18% !important;
+    }
+}
+
+@media only screen and (min-width: 2550px) { // +50px to ensure no overlap
+    .side-categorybar { // adjust position to be closer to content
+        left: 18% !important;
+    }
+}
+
+@media only screen and (min-width: 2750px) { // +50px to ensure no overlap
+    .side-categorybar { // adjust position to be closer to content
+        left: 18% !important;
     }
 }
 
