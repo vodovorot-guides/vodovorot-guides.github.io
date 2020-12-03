@@ -265,7 +265,7 @@ author: Amani
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-Лучший медиум в начале дополнения – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AplmEgUpmQYVLO8GIgUoPQYlKDYG), за счет {{ site.data.covenants.grove }}.
+Лучший медиум в начале дополнения – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSl_BhUs7wYhFSg9Bg), за счет {{ site.data.covenants.grove }}.
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Творца снов.</i></summary>
 
@@ -277,7 +277,7 @@ author: Amani
 
 <p></p>
 
-Альтернативный вариант – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSl_BhUs7wYhFSg9Bg). Ночной народец может стать топовым выбором из-за её пассивки на **«cheat-death»** – {{ site.data.covenants.podtender }}.
+Альтернативный вариант – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AplmEgUpmQYVLO8GIgUoPQYlKDYG). Ночной народец может стать топовым выбором из-за её пассивки на **«cheat-death»** – {{ site.data.covenants.podtender }}.
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Нии.</i></summary>
 
