@@ -218,7 +218,7 @@ author: Amani
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Творца снов.</i></summary>
 
 <p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_12.png"> 
+    <img src="/assets/img/Soulbinds/Screenshot_21.png"> 
 </p>
 
 </details>
@@ -230,7 +230,7 @@ author: Amani
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Нии.</i></summary>
 
 <p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_21.png"> 
+    <img src="/assets/img/Soulbinds/Screenshot_12.png"> 
 </p>
 
 </details>
