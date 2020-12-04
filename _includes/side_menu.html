@@ -8,7 +8,7 @@
     {%- if sub_sub_category.url == page.url -%}
       {%- assign is_guide = true -%}
 
-      <div class="side-menu" id="tocbar">
+      <div class="side-categorybar" id="categorybar">
         <h3>{{- main_category.title }} &ndash; Гайд</h3>
         <ul>
 
@@ -35,7 +35,6 @@
   {%- endfor -%}
 {%- endfor -%}
 
-{%- if is_guide == false -%}
     {%- if page.toc == true -%}
       <nav class="navbar side-menu side-toc" id="tocbar">
         <h3>Содержание</h3>
@@ -43,4 +42,3 @@
         {%- include toc.html html=pcontent class="nav .nav-pills .flex-column" a_class="nav-link" item_class="nav-item" h_max=3 -%}
       </nav>
     {%- endif -%}
-{%- endif -%}
