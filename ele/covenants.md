@@ -143,9 +143,7 @@ author: Amani
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Пелагия.</i></summary>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_3.png"> 
-</p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbuARUocQYSBSl_BhUs7gYhFSg9Bg"></a>
 
 </details>
 
@@ -155,9 +153,7 @@ author: Amani
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Клейи.</i></summary>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_4.png"> 
-</p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/ApZlAQUocQYSBSl_BhUs7gYhFSg9Bg"></a>
 
 </details>
 
@@ -205,9 +201,7 @@ author: Amani
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Наджии.</i></summary>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_5.png"> 
-</p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSl_BhVF-gYhFSg9Bg"></a>
 
 </details>
 
@@ -217,9 +211,7 @@ author: Amani
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Безумного герцога Теотара.</i></summary>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_6.png"> 
-</p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSl_BhVF-gYhFSg9Bg"></a>
 
 </details>
 
@@ -265,9 +257,7 @@ author: Amani
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Творца снов.</i></summary>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_8.png"> 
-</p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/ApZqAQUocQYSBSl_BhUs7wYhFSg9Bg"></a>
 
 </details>
 
@@ -277,9 +267,7 @@ author: Amani
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Нии.</i></summary>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_24.png"> 
-</p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/AplmEgUpmQYVLO8GIgUoPQYlKDYG"></a>
 
 </details>
 
