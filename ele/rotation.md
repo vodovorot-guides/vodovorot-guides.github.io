@@ -32,6 +32,7 @@ author: Amani, Gistwiki
 1. {{ site.data.spells.sk }} за **5** секунд до пула.
 2. {{ site.data.spells.fe }} за **3.5** секунды до пула.
 3. {{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
 4. {{ site.data.spells.fs }}
 5. {{ site.data.covenants.pw }}
 6. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
