@@ -41,7 +41,7 @@ author: Amani, Gistwiki
 9. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
 10. Продолжаем обычную ротацию.
 
-> Да, мы используем подряд {{ site.data.spells.fs }} и {{ site.data.covenants.pw }}, который тоже накладывает {{ site.data.spells.fs }}. К сожалению, это лучший вариант ротации на данный момент, если не брать талант {{ site.data.spells.eb }}.
+> Да, мы используем подряд {{ site.data.spells.fs }} и {{ site.data.covenants.pw }}, который тоже накладывает {{ site.data.spells.fs }}. К сожалению, это лучший вариант ротации на данный момент, если не брать талант {{ site.data.spells.eb }}. Это связано с тем, что у {{ site.data.covenants.pw }} есть время полета снаряда и эффект {{ site.data.spells.fs }} накладывается не сразу, в отличие от обычного {{ site.data.spells.fs }}.
 
 # Бой против одной цели
 
