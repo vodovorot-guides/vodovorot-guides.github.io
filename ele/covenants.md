@@ -81,21 +81,17 @@ author: Amani
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Эмени.</i></summary>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_1.png"> 
-</p>
+<a href="https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZlAQUocQYSBSl_BhUs8gYhFSg9Bg">Эмени-няшечка</a>
 
 </details>
 
 <p></p>
 
-Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSl_BhUs8gYhFSg9Bg).
+Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSl_BhUs8gYhFSg9Bg).
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Изобретателя чумы Марилет.</i></summary>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_2.png"> 
-</p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSl_BhUs8gYhFSg9Bg">Марилет</a>
 
 </details>
 
