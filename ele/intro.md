@@ -1,7 +1,7 @@
 ---
 title: Основная информация – Шаман Стихии
 layout: page
-last_update: 2020-11-20 
+last_update: 2020-12-06
 wow: 9.0.2
 author: Amani
 toc: true
@@ -198,8 +198,7 @@ toc: true
 * {{ site.data.loot.Flask_of_Power }} – универсальный настой на Интеллект/Ловкость/Силу.
 * {{ site.data.loot.Shadowcore_Oil }} – масло на оружие.
 
-* {{ site.data.loot.Potion_of_Deathly_Fixation }} – зелье для боя против одной цели.
-* {{ site.data.loot.Potion_of_Spectral_Intellect }} – зелье на АоЕ
+* {{ site.data.loot.Potion_of_Spectral_Intellect }} – боевое зелье. 
 
 * {{ site.data.loot.Quick_Jewel_Cluster }} – камень на Скорость.
 
