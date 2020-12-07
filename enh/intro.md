@@ -1,7 +1,7 @@
 ---
 title: Основная информация – Шаман Совершенствования
 layout: page
-last_update: 2020-11-21
+last_update: 2020-12-08
 wow: 9.0.2
 author: Amani
 toc: true
@@ -147,11 +147,10 @@ toc: true
 
 # Таланты
 
-{% include enh_talents.html active="2111132" %}
+{% include enh_talents.html active="2111133" %}
 
 * **30 и 40 уровни:** ситуативные таланты, выбирайте на ваше усмотрение.
 * **35 уровень:** {{ site.data.spells.ea }} является лучшим выбором для боя против **одной цели**, а {{ site.data.spells.hailstorm }} – для **АоЕ** и **Мифик+**.
-* **50 уровень:** {{ site.data.spells.spike }} – лучший вариант для боя против **одной цели** за счет сочетания с легендаркой {{ site.data.legend.doom }}. {{ site.data.spells.asc_enh }} является универсальным вариантом и для **АоЕ**, и для боя против **одной цели**.
 
 {% include button.html name="Полный разбор талантов (в разработке)" link="/enh/talents.html" %}  
 
