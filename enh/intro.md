@@ -160,7 +160,7 @@ toc: true
 
 * Узнать про все способности и их приоритет можно [на этой странице](/enh/rotation.html).
 
-{% include button.html name="Способности и ротация (в разработке)" link="/enh/rotation.html" %}  
+{% include button.html name="Способности и ротация" link="/enh/rotation.html" %}  
 
 <p></p>
 
