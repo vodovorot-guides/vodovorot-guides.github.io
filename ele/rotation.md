@@ -5,6 +5,8 @@ last_update: 2020-12-08
 wow: 9.0.2
 toc: true
 author: Amani, Gistwiki
+custom-javascript-list:
+    - "/assets/js/rotation_switches.js"
 ---
 
 # Открывающая ротация, «Opener»
