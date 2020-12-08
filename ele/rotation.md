@@ -95,6 +95,8 @@ author: Amani, Gistwiki
 * Поддерживайте {{ site.data.spells.fs }} на **3** целях.
 * Используйте {{ site.data.spells.quake }} вместо {{ site.data.spells.es }} для траты энергии Водоворота.
 
+* **Важно!** В бою против **2-3** целей кастуйте {{ site.data.spells.lvb }} по кулдауну даже без прока {{ site.data.spells.lava_surge }}
+
 # Бой на АоЕ против 4+ целей
 
 1. {{ site.data.spells.fe }}, {{ site.data.spells.storm }} и {{ site.data.spells.igor }} по кулдауну.
