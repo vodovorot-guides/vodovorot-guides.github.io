@@ -1,7 +1,7 @@
 ---
 title: Обзор Ковенантов – Шаман Стихии
 layout: page
-last_update: 2020-11-22
+last_update: 2020-12-08
 wow: 9.0.2
 toc: true
 author: Amani
@@ -257,7 +257,7 @@ author: Amani
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Нии.</i></summary>
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/ApZqAQUocQYSBSl_BhUs7wYhFSg9Bg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/ApZlAQUocQYRBSl_BiIVKD0GJSg2Bg"></a>
 
 </details>
 
