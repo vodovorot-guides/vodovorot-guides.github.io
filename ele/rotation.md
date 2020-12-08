@@ -111,6 +111,8 @@ author: Amani, Gistwiki
 9. {{ site.data.spells.quake }} если у вас **60** и более ед. энергии Водоворота.
 10. {{ site.data.spells.cl }}.
 
+* **Важно!** {{ site.data.covenants.pw }} <span style="color:#40bf40;font-size:1em;">Некролордов</span> следует кастовать сразу же после вступления в бой, а {{ site.data.spells.lvb }} следует использовать после **3-4** {{ site.data.spells.fs }} на целях.
+
 # Влияние легендарных предметов на ротацию
 
 Данный раздел находится в разработке.
