@@ -122,7 +122,7 @@ custom-javascript-list:
 1. {{ site.data.spells.fe }}, {{ site.data.spells.storm }} и {{ site.data.spells.igor }} по кулдауну.
   * Если у вас взят талант {{ site.data.spells.primal_elem }}, вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
 2. Поддерживайте {{ site.data.spells.fs }} на **1** цели для проков {{ site.data.spells.lava_surge }}, чтобы усиливать {{ site.data.spells.quake }} талантом {{ site.data.spells.mote }}.
-3. {{ site.data.spells.sk }} по кулдауну.
+3. {:.rotation_line_stormkeeper_on style="display:none;"}{{ site.data.spells.sk }} по кулдауну.
 4. {{ site.data.covenants.ch }} по кулдауну.
 5. {{ site.data.spells.ecs }} по кулдауну, если следующее за ним заклинание – {{ site.data.spells.quake }}.
 6. {{ site.data.covenants.vt }} / {{ site.data.covenants.ft }} по кулдауну.
