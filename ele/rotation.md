@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2020-11-22 
+last_update: 2020-12-08
 wow: 9.0.2
 toc: true
 author: Amani, Gistwiki
@@ -93,7 +93,7 @@ author: Amani, Gistwiki
 * Используйте {{ site.data.spells.cl }} вместо {{ site.data.spells.lb }} в бою против **3 и более** целей.
 * Если в талантах взят {{ site.data.spells.ecs }}, используйте его на {{ site.data.spells.quake }}.
 * Поддерживайте {{ site.data.spells.fs }} на **3** целях.
-* Используйте {{ site.data.spells.quake }} вместо {{ site.data.spells.es }} для траты энергии Водоворота.
+* Используйте {{ site.data.spells.quake }} вместо {{ site.data.spells.es }} для траты энергии Водоворота в бою против **2 и более** целей.
 
 * **Важно!** В бою против **2-3** целей кастуйте {{ site.data.spells.lvb }} по кулдауну даже без прока {{ site.data.spells.lava_surge }}
 
