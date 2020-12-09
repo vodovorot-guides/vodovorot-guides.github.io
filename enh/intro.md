@@ -184,6 +184,7 @@ toc: true
 
 * {{ site.data.loot.Eternal_Skirmish }}
 * {{ site.data.loot.Enchant_Boots_Eternal_Agility }}
+* {{ site.data.loot.Enchant_Ring_Tenet_of_Haste }}
 * {{ site.data.loot.Enchant_Cloak_Fortified_Avoidance }}
 * {{ site.data.loot.Enchant_Cloak_Fortified_Speed }}
 
@@ -196,7 +197,7 @@ toc: true
 
 * {{ site.data.loot.Quick_Jewel_Cluster }} – камень на Скорость.
 
-**Важно!** Масла на оружие Шаман Совершенствования **НЕ** использует, так как они не счетаются с {{ site.data.spells.ww }} и {{ site.data.spells.ftw }}.
+**Важно!** Заточки и масла на оружие Шаман Совершенствования **НЕ** использует, так как они не сочетаются с {{ site.data.spells.ww }} и {{ site.data.spells.ftw }}.
 
 # Интерфейс
 
