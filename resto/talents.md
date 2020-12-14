@@ -8,7 +8,7 @@ author: "Amani, Haelrail. Оригинал: Niseko"
 ---
 # Таланты для Рейда
 
-{% include resto_talents.html active="3112331" %}
+{% include resto_talents.html active="3112332" %}
 
 **Альтернативы:**
 
