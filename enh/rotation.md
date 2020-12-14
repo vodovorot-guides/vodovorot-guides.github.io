@@ -102,4 +102,11 @@ author: Amani, Wordup
 
 # Влияние легендарных предметов
 
-Данный раздел находится в разработке.
+Приоритет способностей в бою против **одной цели** под баффом от легендарки {{ site.data.legend.doom }}:
+
+1. {{ site.data.spells.windstrike }} при активном {{ site.data.spells.asc_enh }}
+2. {{ site.data.spells.ss }}
+3. {{ site.data.spells.crush }}
+4. Все остальные способности, согласно обычной ротации.
+
+
