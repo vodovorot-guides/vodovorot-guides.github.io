@@ -1,7 +1,7 @@
 ---
 title: Таланты Шамана Исцеления
 layout: page
-last_update: 2020-11-12 
+last_update: 2020-12-14
 wow: 9.0.2
 toc: true
 author: "Amani, Haelrail. Оригинал: Niseko"
