@@ -173,6 +173,8 @@ toc: true
 
 * **Лут-таблица** с удобной сортировкой по характеристикам доступна [по этой ссылке](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy).
 
+* [Симьтесь](https://www.raidbots.com/simbot) персонально для точных данных.
+
 {% include button.html name="Подробности про характеристики (в разработке)" link="/enh/stats.html" %}  
 
 <p></p>
