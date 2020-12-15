@@ -1,7 +1,7 @@
 ---
 title: Основная информация – Шаман Совершенствования
 layout: page
-last_update: 2020-12-08
+last_update: 2020-12-15
 wow: 9.0.2
 author: Amani
 toc: true
