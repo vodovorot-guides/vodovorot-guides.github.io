@@ -1,7 +1,7 @@
 ---
 title: Основная информация – Шаман Стихии
 layout: page
-last_update: 2020-12-06
+last_update: 2020-12-18
 wow: 9.0.2
 author: Amani
 toc: true
@@ -177,6 +177,8 @@ toc: true
 * **Искусность** – в бою против одной цели эта характеристика стала лучше, чем в прошлых дополнениях, за счет легендарки {{ site.data.legend.lava }}.
 
 * **Лут-таблица** с удобной сортировкой по характеристикам доступна [по этой ссылке](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy).
+
+* [Симьтесь](https://www.raidbots.com/simbot) персонально для точных данных.
 
 {% include button.html name="Подробности про характеристики (в разработке)" link="/ele/stats.html" %}  
 
