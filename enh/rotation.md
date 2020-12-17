@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Совершенствования
 layout: page
-last_update: 2020-11-22 
+last_update: 2020-12-18
 wow: 9.0.2
 toc: true
 author: Amani, Wordup
@@ -109,4 +109,5 @@ author: Amani, Wordup
 3. {{ site.data.spells.crush }}
 4. Все остальные способности, согласно обычной ротации.
 
+Приоритет способностей на **АоЕ** под баффом от легендарки {{ site.data.legend.doom }} **не меняется**, следуйте АоЕ ротации выше.
 
