@@ -132,8 +132,8 @@ author: Amani
 * В зависимости от выбранного таланта использует {{ site.data.spells.ewt }} или {{ site.data.spells.apt }} на землю под курсором:  
 ~~~
 #showtooltip
-/cast [@cursor] [talent:4/2] Тотем земляной стены
-/cast [@cursor] [talent:4/3] Тотем защиты предков
+/cast [@cursor,talent:4/2] Тотем земляной стены
+/cast [@cursor,talent:4/3] Тотем защиты Предков
 ~~~
 
 * В зависимости от выбранного таланта использует {{ site.data.spells.wellspring }} или {{ site.data.spells.asc_resto }}:  
