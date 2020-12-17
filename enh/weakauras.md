@@ -16,6 +16,13 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/3adqlFNy2/5f3c7596d2c5a7357fa40108.gif" width=350x> 
 </p>
 
+[Кулдаун и время действия баффа от легендарки Ветра рока:](https://wago.io/SjJtre8FO)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/SjJtre8FO/5fd360fffab2124dd4246c16.png" width=200x> 
+</p>
+
 [Стихии волков от таланта Духи стихий:](https://wago.io/sJy_uW-Sq)
 {: style="text-align: center;"}
 
@@ -39,6 +46,14 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/rJhu7HoMM/5f85e27255162321b362dd10.gif" width=350x> 
 </p>
 
+[Сборка от kr3b5:](https://wago.io/krebsEnhancement)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/4yz3N1TG7/5fb91986ff5bba046b74ef7f.gif" width=350x> 
+</p>
+
+
 [Сборка от Kontraos:](https://wago.io/hHBnrMiuy)
 {: style="text-align: center;"}
 
@@ -60,11 +75,5 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/rkxMuyLZX/5f74b81bd2e79f530ec0cfa1.png" width=350x> 
 </p>
 
-[Сборка от kr3b5:](https://wago.io/krebsEnhancement)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://media.wago.io/screenshots/4yz3N1TG7/5cd447b65589871081e0b068.gif" width=350x> 
-</p>
 
 
