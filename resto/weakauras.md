@@ -1,7 +1,7 @@
 ---
 title: Weakauras для Шамана Исцеления
 layout: page
-last_update: 2020-11-22
+last_update: 2020-12-17
 wow: 9.0.2
 author: Amani, Haelrail
 ---
