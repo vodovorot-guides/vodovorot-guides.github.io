@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2020-12-08
+last_update: 2020-12-17
 wow: 9.0.2
 toc: true
 author: Amani, Gistwiki
@@ -121,7 +121,7 @@ custom-javascript-list:
 
 * {{ site.data.legend.lava }} – не влияет на основную ротацию, просто кастуем усиленный {{ site.data.spells.lvb }} после каждого применения способности {{ site.data.spells.es }}. Бафф от этой легендарки работает на способность <span style="color:#40bf40;font-size:1em;">Некролордов</span> {{ site.data.covenants.pw }}, усиливая все выпущенные {{ site.data.spells.lvb }} на **20%**.
 
-* {{ site.data.legend.eogs }} – чередуем {{ site.data.spells.es }} и {{ site.data.spells.quake }} и в бою против **одной цели**, и на **АоЕ**. В бою против одной цели имеет смысл кастовать {{ site.data.spells.es }} не сразу на **60** энергии Водоворота, а ближе к **90**, чтобы вам было удобнее набрать энергию под {{ site.data.spells.quake }}, учитывая малое время действия баффа.
+* {{ site.data.legend.eogs }} – чередуем {{ site.data.spells.es }} и {{ site.data.spells.quake }} и в бою против **одной цели**, и на **АоЕ**. Всегда старайтесь бафнуть усиленное {{ site.data.spells.quake }} с помощью таланта {{ site.data.spells.mote }}.
 
 * {{ site.data.legend.fire }} – развешиваем {{ site.data.spells.fs }} на все доступные цели, даже на **АоЕ**
 
