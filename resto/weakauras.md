@@ -37,6 +37,13 @@ author: Amani, Haelrail
 <img src="https://media.wago.io/screenshots/cRt572g1H/5f4c4d8786f4b4306429dda4.png"> 
 </p>
 
+[Легендарка Изначальное сердце волн:](https://wago.io/jU2A7FqYt)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/jU2A7FqYt/5fc89e35ce9e066319f3cf4a.png"> 
+</p>
+
 
 # Различные сборки WeakAuras
 
