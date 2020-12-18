@@ -91,14 +91,14 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - {{ site.data.legend.fire }}
 
 **Нанесение урона:**
-- Поддерживайте {{ site.data.spells.fs }} на боссе и на активном питомце. Не развешивайте {{ site.data.spells.fs }} на копии аддов на 2 фазе, это может привести к вайпу.
+- Поддерживайте {{ site.data.spells.fs }} на боссе и на активном питомце. Не развешивайте {{ site.data.spells.fs }} на копии аддов на второй фазе, это может привести к вайпу.
 - Используйте {{ site.data.spells.quake }} когда босс и питомец стоят рядом.
 - Перед бурстом в копии аддов накопите Энергию Водоворота и придержите {{ site.data.spells.sk }}, а также подготовьте бафф от легендарки {{ site.data.legend.eogs }}.
 
 **Защита и сейвы:**
-- {{ site.data.spells.swg }} используйте на вынос {{ site.data.nathria.petrifying_howl }}.
-- Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) на {{ site.data.nathria.vicious_lunge }} и {{ site.data.nathria.shattering_stone }}.
-- Если вас назначили перекрывать первого {{ site.data.nathria.sinseeker }} (красная стрелка), то заранее займите позицию в нужной метке.
+- {{ site.data.spells.swg }} используйте на вынос {{ site.data.nathria.petrifying_howl }} (большой коричневый круг) на третьей фазе.
+- Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} в критические моменты или если на вас наложилось сразу несколько механик.
+- Если вас назначили перекрывать первый {{ site.data.nathria.sinseeker }} (красная стрелка), то заранее займите позицию в нужной метке.
 
 **Лечение:**
 - Вы можете подхиливать копии или союзников на последней фазе, если кто-то из ваших хилеров погиб.
