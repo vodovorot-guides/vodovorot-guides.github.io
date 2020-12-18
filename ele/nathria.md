@@ -33,7 +33,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 # Боссы
 
-## Визгунья
+## Визгунья (Эпохальный режим)
 
 **Тип боя:** Одна цель
 
@@ -50,8 +50,9 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - {{ site.data.legend.lava }}
 
 **Нанесение урона:**
-- Eсли вы стали целью {{ site.data.nathria.echolocation }}, то используйте {{ site.data.spells.swg }} или мгновенные заклинания.
-- По возможности набирайте энергию Водоворота на боссе во время переходки, но будьте осторожны и не увлекайтесь.
+- {{ site.data.spells.swg }} следует используйте только на {{ site.data.nathria.echolocation }} (вынос белого круга, куда пикирует летучая мышь и разливается кровь). Всегда относите {{ site.data.nathria.echolocation }} на край комнаты.
+- Во время переходки босс не получает урона и имеет полную неуязвимость, поэтому Энергию Водоворота набрать не получится.
+- Несмотря на большое количество передвижения, талант {{ site.data.spells.primal_elem }} может быть крайне эффективным в этом бою, так как переходка завершается ровно спустя **2:30** минут после пула, что повышает эффективность нашего {{ site.data.spells.fe }}.
 
 **Защита и сейвы:**
 - {{ site.data.spells.as }} можно использовать на [Волну крови](https://ru.wowhead.com/spell=345397/) или для экстренных перебежек по [Кровавому гною](https://ru.wowhead.com/spell=340324).
@@ -68,20 +69,17 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: {{ site.data.covenants.phial }} снимает эффект кровотечения от способности [Обескровливание](https://ru.wowhead.com/spell=328897).
 - <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>: используйте {{ site.data.covenants.fleshcraft }} на переходке.
 
-
 **Заметки:**
 - Большинство абилок на этом боссе наносят летальный урон, поэтому {{ site.data.spells.ng }} вряд ли вас спасет, а вот {{ site.data.spells.wrt }} будет крайне полезен.
-- Так как {{ site.data.nathria.echoing_screech }} считается эффектом **Ужаса**, а не **Страха**, он не снимается с помощью {{ site.data.spells.tremor }}. *Возможно это изменилось после беты*.
-- Несмотря на большое количество передвижения, талант {{ site.data.spells.primal_elem }} может быть крайне эффективным в этом бою, так как переходка завершается ровно спустя **2:30** минут после пула, что повышает эффективность нашего {{ site.data.spells.fe }}.
-        
+- Так как {{ site.data.nathria.echoing_screech }} считается эффектом **Ужаса**, а не **Страха**, он не снимается с помощью {{ site.data.spells.tremor }}. 
 
-## Ловчий Альтимор
+## Ловчий Альтимор (Эпохальный режим)
 
 **Тип боя:** Клив / Клив разрозненных целей
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.afs }} или {{ site.data.spells.ecs }}
+* **25**: {{ site.data.spells.eb }}
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.ng }}
@@ -89,30 +87,29 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
-- {{ site.data.legend.fire }}
 - {{ site.data.legend.eogs }}
+- {{ site.data.legend.fire }}
 
 **Нанесение урона:**
-- Поддерживайте {{ site.data.spells.fs }} на боссе и на активном питомце.
+- Поддерживайте {{ site.data.spells.fs }} на боссе и на активном питомце. Не развешивайте {{ site.data.spells.fs }} на копии аддов на 2 фазе, это может привести к вайпу.
 - Используйте {{ site.data.spells.quake }} когда босс и питомец стоят рядом.
-- Используйте {{ site.data.spells.swg }} или мгновенные заклинания под {{ site.data.nathria.vicious_lunge }} и {{ site.data.nathria.petrifying_howl }}, а также для {{ site.data.nathria.sinseeker }} и {{ site.data.nathria.shatter_shot }} на Эпохальной сложности.
+- Перед бурстом в копии аддов накопите Энергию Водоворота и придержите {{ site.data.spells.sk }}, а также подготовьте бафф от легендарки {{ site.data.legend.eogs }}.
 
 **Защита и сейвы:**
+- {{ site.data.spells.swg }} используйте на вынос {{ site.data.nathria.petrifying_howl }}.
 - Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) на {{ site.data.nathria.vicious_lunge }} и {{ site.data.nathria.shattering_stone }}.
-- Талант {{ site.data.spells.spirit_wolf }} даст дополнительную защиту против {{ site.data.nathria.sinseeker }}, а скорость передвижения будет полезна на {{ site.data.nathria.petrifying_howl }}.
+- Если вас назначили перекрывать первого {{ site.data.nathria.sinseeker }} (красная стрелка), то заранее займите позицию в нужной метке.
 
 **Лечение:**
-- На Эпохальной сложности используйте ваши способности лечения под {{ site.data.nathria.pierce_soul }} при наложении {{ site.data.nathria.sinseeker }} во время {{ site.data.nathria.bargast }}, так как в это время будет входить очень много урона.
+- Вы можете подхиливать копии или союзников на последней фазе, если кто-то из ваших хилеров погиб.
 
 **Вспомогательные способности:**
-- Используйте {{ site.data.spells.hex }} на {{ site.data.nathria.shades_of_bargast }}.
+- Используйте {{ site.data.spells.hex }} на {{ site.data.nathria.shades_of_bargast }}, как первоначальный контроль, так и во время бурста по ним, если другие контроли закончились.
+- Подойдет также {{ site.data.spells.ct }}, но рассчитывайте время его установки.
 
 **Способности ковенантов:**
 
 - <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: {{ site.data.covenants.phial }} снимает эффект кровотечения от способностей [Зазубренные когти](https://ru.wowhead.com/spell=334971) и [Страшная рана](https://ru.wowhead.com/spell=334960/).
-
-**Заметки:**
-- На бета тестировании {{ site.data.nathria.shades_of_bargast }} получали стаки {{ site.data.nathria.destabilize }} за каждый уникальный наложенный контроль на них. Если это останется на живых серверах, используйте на них также {{ site.data.spells.ct }}.
 
 ## Спасение Солнечного короля
 
