@@ -1,7 +1,7 @@
 ---
 title: Рейд Замок Нафрия – Шаман Стихии
 layout: page
-last_update: 2020-12-01
+last_update: 2020-12-21
 wow: 9.0.2
 toc: true
 author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
@@ -356,17 +356,19 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 **Заметки:**
 - При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь, что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
 
-## Сир Денатрий
+## Сир Денатрий (Героический)
+
+{% include youtube.html id="tMZsNSkDLm0" %}
 
 **Тип боя:** ST / Клив / Клив разрозненных целей
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.ecs }}
-* **30**: {{ site.data.spells.spirit_wolf }} или {{ site.data.spells.eshield }}
+* **25**: {{ site.data.spells.ecs }} или {{ site.data.spells.eb }}
+* **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.wrt }}
-* **45**: {{ site.data.spells.if }} или {{ site.data.spells.primal_elem }}
+* **45**: {{ site.data.spells.primal_elem }}
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
@@ -378,7 +380,9 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 Первая фаза:
 - Накопите энергию Водоворота и придержите {{ site.data.spells.sk }} перед спавном аддов {{ site.data.nathria.echo_of_sin }}.
-- Используйте {{ site.data.spells.swg }} или мгновенные заклинания под {{ site.data.nathria.feeding_time }} (адды {{ site.data.nathria.night_hunter }} на Героической и Эпохальной сложностях).
+- Второй заряд первого {{ site.data.spells.sk }} можно потратить на спавн аддов, даже если вы используете его за 5 секунд до пула.
+- {{ site.data.spells.swg }} лучше всего использовать под перебежку.
+- В конце первой фазы, как только вы добежали до центра комнаты, можно продолжать бить босса.
 
 Вторая фаза:
 - Поддерживайте {{ site.data.spells.fs }} на {{ site.data.nathria.sire_denathrius }}, {{ site.data.nathria.remornia }}, и на всех возможных аддах.
@@ -399,12 +403,12 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 Третья фаза:
 - Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) под {{ site.data.nathria.fatal_finesse }} или {{ site.data.nathria.smoldering_ire }}.
 
-- Во время всего боя будет очень много передвижения, поэтому дополнительная скорость от {{ site.data.spells.spirit_wolf }} будет достаточно полезна. А {{ site.data.spells.eshield }} даст хороший отхил за счет способностей {{ site.data.nathria.burden_of_sin }}, {{ site.data.nathria.carnage }}, {{ site.data.nathria.crimson_chorus }} и {{ site.data.nathria.fatal_finesse }}.
+- Во время всего боя будет очень много передвижения, поэтому дополнительная скорость от {{ site.data.spells.spirit_wolf }} будет достаточно полезна. 
 
 **Лечение:**
 
 Конец первой фазы:
-- Так как мы добегаем до центра комнаты после {{ site.data.nathria.march_of_the_penitent }} практически самыми первыми, потратьте свободное время на лечение своих союзников.
+- Если вы стопаете урон на первой фазе чтобы не перевести босса раньше времени, потратьте это время на лечение.
 
 **Вспомогательные способности:**
 
@@ -422,6 +426,6 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: {{ site.data.covenants.phial }} снимает эффект кровотечения от способности [Бойня](https://ru.wowhead.com/spell=329906).
 
 **Заметки:**
-- За счет того, что {{ site.data.spells.wolf }} не позволяет замедлить вас ниже **100%** скорости передвижения, Шаман может полностью игнорировать механику {{ site.data.nathria.march_of_the_penitent }} в конце первой фазы, а также игнорировать очищение стаков {{ site.data.nathria.burden_of_sin }} в течение всей фазы. Не забудьте зайти в форму {{ site.data.spells.wolf }} **до** начала переходки. 
+- За счет того, что {{ site.data.spells.wolf }} не позволяет замедлить вас ниже **100%** скорости передвижения, Шаман может полностью игнорировать механику {{ site.data.nathria.march_of_the_penitent }} в конце первой фазы, а также игнорировать очищение стаков {{ site.data.nathria.burden_of_sin }} в течение всей фазы. Не забудьте зайти в форму {{ site.data.spells.wolf }} **до** начала переходки, желательно на **71%** здоровья босса. 
 - При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь, что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
 
