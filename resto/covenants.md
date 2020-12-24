@@ -152,7 +152,7 @@ author: Amani
 
 Лучший медиум в начале дополнения – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSmjBhUppwYhFSg9Bg). 
 
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Наджии.</i></summary>
+<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Безумного герцога Теотара.</i></summary>
 
 <p align="center" width="100%">
     <img src="/assets/img/Soulbinds/Screenshot_18.png"> 
@@ -164,7 +164,7 @@ author: Amani
 
 Альтернативный вариант – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSmjBhUppwYhFSg9Bg).
 
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Безумного герцога Теотара.</i></summary>
+<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Наджии.</i></summary>
 
 <p align="center" width="100%">
     <img src="/assets/img/Soulbinds/Screenshot_17.png"> 
