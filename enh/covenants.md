@@ -1,7 +1,7 @@
 ---
 title: Обзор Ковенантов – Шаман Совершенствования
 layout: page
-last_update: 2020-11-22
+last_update: 2020-12-24
 wow: 9.0.2
 toc: true
 author: Amani
@@ -25,20 +25,19 @@ author: Amani
 
 * **<span style="color:#ff4040;font-size:1em;">Вентиры</span>** – **отлично** для рейда, **отлично** для Мифик+, **отлично** для PvP.
 
-* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **хороши** для рейда, **отлично** для Мифик+, **средне** для PvP.
+* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **средне** для рейда, **хороши** для Мифик+, **средне** для PvP.
 
-* **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **хороши** для рейда, **средне** для Мифик+, **средне** для PvP.
+* **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **средне** для рейда, **средне** для Мифик+, **средне** для PvP.
 
 * **<span style="color:#40bf40;font-size:1em;">Некролорды</span>** – **так себе** для рейда, **так себе** для Мифик+, **средне** для PvP.
 
 **При игре на нескольких специализациях:**
 
-* **Энх** + **Элем**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Энх** + **Элем**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
-* **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
-* **Энх** + **Элем** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
-
+* **Энх** + **Элем** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
 # <span style="color:#ff4040;font-size:1em;">Вентиры</span>
 
@@ -49,6 +48,8 @@ author: Amani
 ## <span style="color:#ff4040;font-size:1em;">Цепная жатва</span>
 
 **{{ site.data.covenants.ch }}** –  смесь двух наших заклинаний, {{ site.data.spells.cl }} и {{ site.data.spells.ch }}, но на **5** целей и с кулдауном в **полторы минуты**.
+
+* **Лучший ковенант** для Шамана Совершенствования.
 
 * {{ site.data.covenants.ch }} снижает время произнесения и увеличивает урон/отхил за счет {{ site.data.spells.mw }}.
 
