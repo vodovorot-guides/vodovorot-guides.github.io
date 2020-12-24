@@ -1,7 +1,7 @@
 ---
 title: Основная информация – Шаман Стихии
 layout: page
-last_update: 2020-12-18
+last_update: 2020-12-24
 wow: 9.0.2
 author: Amani
 toc: true
@@ -12,25 +12,25 @@ toc: true
 
 **В зависимости от контента:**
 
-* **<span style="color:#40bf40;font-size:1em;">Некролорды</span>** – **отлично** для рейда, **хороши** для Мифик+, **отлично** для PvP.
+* **<span style="color:#40bf40;font-size:1em;">Некролорды</span>** – **отлично** для рейда, **отлично** для Мифик+, **отлично** для PvP.
 
-* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **хороши** для рейда, **отлично** для Мифик+, **средне** для PvP.
+* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **средне** для рейда, **хорошо** для Мифик+, **средне** для PvP.
 
-* **<span style="color:#ff4040;font-size:1em;">Вентиры</span>** – **средне** для рейда, **хороши** для Мифик+, **отлично** для PvP.
+* **<span style="color:#ff4040;font-size:1em;">Вентиры</span>** – **средне** для рейда, **хорошо** для Мифик+, **средне** для PvP.
 
-* **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **хороши** для рейда, **средне** для Мифик+, **средне** для PvP.
+* **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **средне** для рейда, **средне** для Мифик+, **средне** для PvP.
 
 **При игре на нескольких специализациях:**
 
-* **Элем** + **Энх**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Элем** + **Энх**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
-* **Элем** + **Рестор**: <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
+* **Элем** + **Рестор**: <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
-* **Элем** + **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
-
+* **Элем** + **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
 ## <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
+* На данный момент – **лучший ковенант**.
 * Классовая способность – {{ site.data.covenants.pw }}. Дополнительный {{ site.data.spells.fs }} и дублирование {{ site.data.spells.lvb }} по всем целям с этим дебаффом.
 * Общая способность – {{ site.data.covenants.fleshcraft }}. Щит на **20-50%** от максимального хп раз в **2** минуты.
 * Лучший медиум – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZlAQUocQYSBSl_BhUs8gYhFSg9Bg). Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSl_BhUs8gYhFSg9Bg).
