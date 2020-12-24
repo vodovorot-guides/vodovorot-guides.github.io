@@ -1,7 +1,7 @@
 ---
 title: Обзор Ковенантов – Шаман Исцеления
 layout: page
-last_update: 2020-11-22
+last_update: 2020-12-24
 wow: 9.0.2
 toc: true
 author: Amani
@@ -150,24 +150,24 @@ author: Amani
 
 ## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
 
-Лучший медиум в начале дополнения – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSmjBhUppwYhFSg9Bg).
+Лучший медиум в начале дополнения – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSmjBhUppwYhFSg9Bg). 
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Наджии.</i></summary>
 
 <p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_17.png"> 
+    <img src="/assets/img/Soulbinds/Screenshot_18.png"> 
 </p>
 
 </details>
 
 <p></p>
 
-Альтернативный вариант – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSmjBhUppwYhFSg9Bg). 
+Альтернативный вариант – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSmjBhUppwYhFSg9Bg).
 
 <details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Безумного герцога Теотара.</i></summary>
 
 <p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_18.png"> 
+    <img src="/assets/img/Soulbinds/Screenshot_17.png"> 
 </p>
 
 </details>
