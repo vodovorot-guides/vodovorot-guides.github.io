@@ -1,7 +1,7 @@
 ---
 title: Основная информация – Шаман Исцеления
 layout: page
-last_update: 2020-12-14
+last_update: 2020-12-24
 wow: 9.0.2
 author: Amani
 toc: true
@@ -12,21 +12,21 @@ toc: true
 
 **В зависимости от контента:**
 
-* **<span style="color:#40bf40;font-size:1em;">Некролорды</span>** – **отлично** для рейда, **хороши** для Мифик+, **хороши** для PvP.
+* **<span style="color:#40bf40;font-size:1em;">Некролорды</span>** – **отлично** для рейда, **отлично** для Мифик+, **хороши** для PvP.
 
 * **<span style="color:#ff4040;font-size:1em;">Вентиры</span>** – **хороши** для рейда, **отлично** для Мифик+, **хороши** для PvP.
 
-* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **хороши** для рейда, **отлично** для Мифик+, **средне** для PvP.
+* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **средне** для рейда, **хороши** для Мифик+, **средне** для PvP.
 
 * **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **так себе** для рейда, **так себе** для Мифик+, **средне** для PvP.
 
 **При игре на нескольких специализациях:**
 
-* **Рестор** + **Элем**: <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
+* **Рестор** + **Элем**: <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
-* **Рестор** + **Энх**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Рестор** + **Энх**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
-* **Рестор** + **Элем** + **Энх**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Рестор** + **Элем** + **Энх**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
 ## <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
