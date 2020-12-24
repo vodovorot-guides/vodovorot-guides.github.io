@@ -1,7 +1,7 @@
 ---
 title: Основная информация – Шаман Совершенствования
 layout: page
-last_update: 2020-12-23
+last_update: 2020-12-24
 wow: 9.0.2
 author: Amani
 toc: true
@@ -14,19 +14,19 @@ toc: true
 
 * **<span style="color:#ff4040;font-size:1em;">Вентиры</span>** – **отлично** для рейда, **отлично** для Мифик+, **отлично** для PvP.
 
-* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **хороши** для рейда, **отлично** для Мифик+, **средне** для PvP.
+* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **средне** для рейда, **хороши** для Мифик+, **средне** для PvP.
 
-* **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **хороши** для рейда, **средне** для Мифик+, **средне** для PvP.
+* **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **средне** для рейда, **средне** для Мифик+, **средне** для PvP.
 
 * **<span style="color:#40bf40;font-size:1em;">Некролорды</span>** – **так себе** для рейда, **так себе** для Мифик+, **средне** для PvP.
 
 **При игре на нескольких специализациях:**
 
-* **Энх** + **Элем**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Энх** + **Элем**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
-* **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
-* **Энх** + **Элем** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Энх** + **Элем** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
 ## <span style="color:#ff4040;font-size:1em;">Вентиры</span>
 
@@ -42,7 +42,8 @@ toc: true
 
 </details>
 
-* Отличный и универсальный выбор для всех типов контента – **Рейд**, **Мифик+**, и **PvP**.
+* На данный момент – **лучший ковенант**.
+* Универсальный выбор для всех типов контента – **Рейд**, **Мифик+**, и **PvP**.
 * С помощью {{ site.data.spells.mw }} сокращается время произнесения до мгновенного и увеличивается урон и отхил способности **в два раза**.
 * Подходит для **оффспека** и Элема, и Рестора.
 
@@ -67,7 +68,7 @@ toc: true
 
 <p></p>
 
-* Отличный выбор для **Мифик+** как за счет неплохого СТ и АоЕ урона, так и за счет снятия неприятных дебаффов.
+* Хороший выбор для **Мифик+** как за счет неплохого СТ и АоЕ урона, так и за счет снятия неприятных дебаффов.
 * В **PvP** тотем очень быстро умирает, поэтому не рекомендуется на высоком рейтинге.
 * Подходит для **оффспека** и Элема, и Рестора.
 
