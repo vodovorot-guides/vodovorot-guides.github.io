@@ -1,7 +1,7 @@
 ---
 title: Обзор Ковенантов – Шаман Стихии
 layout: page
-last_update: 2020-12-08
+last_update: 2020-12-24
 wow: 9.0.2
 toc: true
 author: Amani
@@ -23,21 +23,21 @@ author: Amani
 
 **В зависимости от контента:**
 
-* **<span style="color:#40bf40;font-size:1em;">Некролорды</span>** – **отлично** для рейда, **хороши** для Мифик+, **отлично** для PvP.
+* **<span style="color:#40bf40;font-size:1em;">Некролорды</span>** – **отлично** для рейда, **отлично** для Мифик+, **отлично** для PvP.
 
-* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **хороши** для рейда, **отлично** для Мифик+, **средне** для PvP.
+* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **средне** для рейда, **хорошо** для Мифик+, **средне** для PvP.
 
-* **<span style="color:#ff4040;font-size:1em;">Вентиры</span>** – **средне** для рейда, **хороши** для Мифик+, **отлично** для PvP.
+* **<span style="color:#ff4040;font-size:1em;">Вентиры</span>** – **средне** для рейда, **хорошо** для Мифик+, **средне** для PvP.
 
-* **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **хороши** для рейда, **средне** для Мифик+, **средне** для PvP.
+* **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **средне** для рейда, **средне** для Мифик+, **средне** для PvP.
 
 **При игре на нескольких специализациях:**
 
-* **Элем** + **Энх**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Элем** + **Энх**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
-* **Элем** + **Рестор**: <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
+* **Элем** + **Рестор**: <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
-* **Элем** + **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> = <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Элем** + **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
 # <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
@@ -47,9 +47,9 @@ author: Amani
 
 ## <span style="color:#40bf40;font-size:1em;">Первозданная волна</span>
 
-**{{ site.data.covenants.pw }}** – поражает одну цель, нанося противнику **65%** урона от силы заклинаний и накладывая на него {{ site.data.spells.fs }}. Следующий {{ site.data.spells.lvb }} также применится ко **всем целям** под {{ site.data.spells.fs }} c **80%** от своего изначального урона, включая основную.
+**{{ site.data.covenants.pw }}** – поражает одну цель, нанося противнику **65%** урона от силы заклинаний и накладывая на него {{ site.data.spells.fs }}. Следующий {{ site.data.spells.lvb }} также применится ко **всем целям** под {{ site.data.spells.fs }} c **80%** от своего изначального урона, **включая основную**.
 
-* Лучшие показатели урона в бою против одной цели.
+* Лучшие показатели урона в бою против одной цели и на кливе.
 
 * Лучше всего себя показывает в бою против разрозненных целей, где необходимо поддерживать сразу несколько {{ site.data.spells.fs }}.  
 
