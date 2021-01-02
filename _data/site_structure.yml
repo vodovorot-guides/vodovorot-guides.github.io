@@ -76,7 +76,6 @@ categories:
           url: /resto/legendaries.html
         - title: Характеристики
           url: /resto/stats.html
-          disabled: true
       - title: Изменения в Shadowlands
         url: /resto/prepatch.html
       - title: Weakauras
