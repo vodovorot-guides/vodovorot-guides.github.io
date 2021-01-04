@@ -62,7 +62,7 @@ author: Amani
 #showtooltip Реинкарнация
 ~~~
 
-* Вне боя использует {{ site.data.spells.ressurect }} (для Рестора замените на {{ site.data.spells.mass_res }}), а в бою – инженерский батл-рес (Одноразовый спектросинхронный оживитель)[https://ru.wowhead.com/item=184308]: 
+* Вне боя использует {{ site.data.spells.ressurect }} (для Рестора замените на {{ site.data.spells.mass_res }}), а в бою – инженерский батл-рес [Одноразовый спектросинхронный оживитель](https://ru.wowhead.com/item=184308): 
 ~~~
 #showtooltip
 /use [combat] Одноразовый спектросинхронный оживитель; [nocombat] Дух предков
