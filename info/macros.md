@@ -62,10 +62,10 @@ author: Amani
 #showtooltip Реинкарнация
 ~~~
 
-* Вне боя использует {{ site.data.spells.ressurect }} (для Рестора замените на {{ site.data.spells.mass_res }}), а в бою – инженерский батл-рес {{ site.data.spells.engi_res }}: 
+* Вне боя использует {{ site.data.spells.ressurect }} (для Рестора замените на {{ site.data.spells.mass_res }}), а в бою – инженерский батл-рес (Одноразовый спектросинхронный оживитель)[https://ru.wowhead.com/item=184308]: 
 ~~~
 #showtooltip
-/use [combat] Нестабильный манипулятор темпорального потока; [nocombat] Дух предков
+/use [combat] Одноразовый спектросинхронный оживитель; [nocombat] Дух предков
 ~~~
 
 # Стихии
