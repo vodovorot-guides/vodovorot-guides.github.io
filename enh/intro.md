@@ -1,7 +1,7 @@
 ---
 title: Основная информация – Шаман Совершенствования
 layout: page
-last_update: 2020-12-24
+last_update: 2020-01-07
 wow: 9.0.2
 author: Amani
 toc: true
@@ -10,15 +10,9 @@ toc: true
 
 # Выбор ковенанта
 
-**В зависимости от контента:**
+На данный момент лучший ковенант для Энх шамана – **<span style="color:#ff4040;font-size:1em;">Вентиры</span>**. Отличный выбор как в **Рейд**, так и в **Мифик+** и **PvP**.
 
-* **<span style="color:#ff4040;font-size:1em;">Вентиры</span>** – **отлично** для рейда, **отлично** для Мифик+, **отлично** для PvP.
-
-* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **средне** для рейда, **хороши** для Мифик+, **средне** для PvP.
-
-* **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **средне** для рейда, **средне** для Мифик+, **средне** для PvP.
-
-* **<span style="color:#40bf40;font-size:1em;">Некролорды</span>** – **так себе** для рейда, **так себе** для Мифик+, **средне** для PvP.
+Другие ковенанты хуже примерно на 3-5% от общего урона, в зависимости от типа боя.
 
 **При игре на нескольких специализациях:**
 
@@ -26,111 +20,13 @@ toc: true
 
 * **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
-* **Энх** + **Элем** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
-
-## <span style="color:#ff4040;font-size:1em;">Вентиры</span>
-
-* Классовая способность – {{ site.data.covenants.ch }}. Гибрид способностей {{ site.data.spells.cl }} и {{ site.data.spells.ch }} с хорошим уроном и отхилом.
-* Общая способность – {{ site.data.covenants.door }}. Телепорт на **35** метров со временем произнесения **1.5** секунд.
-* Лучший медиум – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQYVKIAGEQUpjgYhFSg9Bg). Альтернативный вариант – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSmOBhUpkgYhFSg9Bg).
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Наджии.</i></summary>
-
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_9.png"> 
-</p>
-
-</details>
-
-* На данный момент – **лучший ковенант**.
-* Универсальный выбор для всех типов контента – **Рейд**, **Мифик+**, и **PvP**.
-* С помощью {{ site.data.spells.mw }} сокращается время произнесения до мгновенного и увеличивается урон и отхил способности **в два раза**.
-* Подходит для **оффспека** и Элема, и Рестора.
-
 {% include button.html name="Полный разбор Вентиров" link="/enh/covenants.html#вентиры" %}  
-
-<p></p>
-
-## <span style="color:#68ccef;font-size:1em;">Кирии</span>
-
-* Классовая способность – {{ site.data.covenants.vt }}. АоЕ урон и отхил в радиусе **8** метров с кулдауном в **1** минуту.
-* Общая способность – {{ site.data.covenants.phial }}. Один раз за бой восстанавливает **20%** хп и снимает кровотечения, болезни, яды и проклятия.
-* Лучший медиум – [Пелагий](https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/shaman/ApbuARUocQYSBSmOBhUs7gYhFSg9Bg). Альтернативный вариант – [Клейя](https://ru.wowhead.com/soulbind-calc/kyrian/kleia/shaman/ApZqAQUocQYRBSmOBiIVKD0GJSg2Bg).
-
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Пелагия.</i></summary>
-
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_11.png"> 
-</p>
-
-</details>
-
-<p></p>
-
-* Хороший выбор для **Мифик+** как за счет неплохого СТ и АоЕ урона, так и за счет снятия неприятных дебаффов.
-* В **PvP** тотем очень быстро умирает, поэтому не рекомендуется на высоком рейтинге.
-* Подходит для **оффспека** и Элема, и Рестора.
-
-{% include button.html name="Полный разбор Кирий" link="/enh/covenants.html#кирии" %}  
-
-<p></p>
-
-## <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
-
-* Классовая способность – {{ site.data.covenants.ft }}. Потоковое заклинание со временем произнесения **3** секунды и кулдауном **2** минуты.
-* Общая способность – {{ site.data.covenants.soulshape }}. Мгновенный телепорт на **15** метров и увеличение скорости передвижения.
-* Лучший медиум – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/ArqmAQUocQYRBSmOBiIVKD0GJSgsBg). Альтернативный вариант – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSmOBhUpkgYhFSg9Bg). 
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Творца снов.</i></summary>
-
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_12.png"> 
-</p>
-
-</details>
-
-<p></p>
-
-* Основная способность наносит очень мало урона на АоЕ, но хороша в бою против одной цели. Не рекомендуется для **Мифик+**.
-* Может пригодиться в **Рейде** за счет механики избегания смерти – {{ site.data.covenants.podtender }}
-* Как **оффспек** не особо подходит ни Элему, ни Рестору.
-
-{% include button.html name="Полный разбор Ночного Народца" link="/enh/covenants.html#ночной-народец" %}  
-
-<p></p>
-
-## <span style="color:#40bf40;font-size:1em;">Некролорды</span>
-
-* Классовая способность – {{ site.data.covenants.pw }}. Дополнительный {{ site.data.spells.fs }} и дублирование {{ site.data.spells.lb }} по всем целям с этим дебаффом.
-* Общая способность – {{ site.data.covenants.fleshcraft }}. Щит на **20-50%** от максимального хп раз в **2** минуты.
-* Лучший медиум – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZlAQUocQYSBSmOBhUpkgYhFSg9Bg). Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSmOBhUpkgYhFSg9Bg).
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Эмени.</i></summary>
-
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_13.png"> 
-</p>
-
-</details>
-
-<p></p>
-
-* Не рекомендуется ни в каком типе контента, так как принуждает играть в не самом эффективном билде через {{ site.data.spells.fs }} и {{ site.data.spells.sk_enh }}.
-* Не имеет саппорт потенциала.
-* Подходит для **оффспека** и Элема, и Рестора (лучший ковенант для этих специализаций).
-
-{% include button.html name="Полный разбор Некролордов" link="/enh/covenants.html#некролорды" %}  
-
-<p></p>
 
 # Лучшие проводники
 
 * {{ site.data.conduits.winds }} – **лучший проводник**, ставим в первую очередь и никогда не меняем. 
 * {{ site.data.conduits.magma }} – можно поставить **вторым** проводником для боя против **одной цели**.
 * {{ site.data.conduits.focused }} – можно поставить **вторым** проводником для **АоЕ** боев.
-
-* В целом, проводники Энха достаточно слабые, поэтому вместо второго проводника мы можем брать пассивку медиума, в зависимости от прокачки ковенанта.
 
 {% include button.html name="Полный разбор проводников" link="/enh/conduits.html" %}  
 
@@ -140,7 +36,7 @@ toc: true
 
 * {{ site.data.legend.doom }} – **лучшая легендарка** для всех видов контента.
 
-* Рекомендуемые характеристики для крафта – **Скорость** и **Универсальность** / **Критический удар**.
+* Рекомендуемые характеристики для крафта – **Скорость** и **Универсальность**.
 
 {% include button.html name="Полный разбор легендарных предметов" link="/enh/legendaries.html" %}  
 
