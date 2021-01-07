@@ -1,7 +1,7 @@
 ---
 title: Основная информация – Шаман Исцеления
 layout: page
-last_update: 2020-12-24
+last_update: 2021-01-07
 wow: 9.0.2
 author: Amani
 toc: true
@@ -10,15 +10,15 @@ toc: true
 
 # Выбор ковенанта
 
-**В зависимости от контента:**
+Лучший ковенант для рейда – **<span style="color:#40bf40;font-size:1em;">Некролорды</span>**. В ключах себя так-же отлично показывают **<span style="color:#ff4040;font-size:1em;">Вентиры</span>**.
 
-* **<span style="color:#40bf40;font-size:1em;">Некролорды</span>** – **отлично** для рейда, **отлично** для Мифик+, **хороши** для PvP.
+Разница между ковенантами примерно **2-4%** отхила, в зависимости от типа боя.
 
-* **<span style="color:#ff4040;font-size:1em;">Вентиры</span>** – **хороши** для рейда, **отлично** для Мифик+, **хороши** для PvP.
+<span style="color:#ff4040;font-size:1em;">Вентиры</span> гораздо проще в реализации и дают дополнительный урон, что полезно в Мифик+.
 
-* **<span style="color:#68ccef;font-size:1em;">Кирии</span>** – **средне** для рейда, **хороши** для Мифик+, **средне** для PvP.
+<span style="color:#40bf40;font-size:1em;">Некролорды</span> перекрывают слабую сторону Рестор шамана – отхил разрозненных целей.
 
-* **<span style="color:#a330c9;font-size:1em;">Ночной Народец</span>** – **так себе** для рейда, **так себе** для Мифик+, **средне** для PvP.
+<span style="color:#68ccef;font-size:1em;">Кирии</span> не очень удобны в использовании, а <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> дают очень мало лечения.
 
 **При игре на нескольких специализациях:**
 
@@ -26,102 +26,10 @@ toc: true
 
 * **Рестор** + **Энх**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
-* **Рестор** + **Элем** + **Энх**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
-
-## <span style="color:#40bf40;font-size:1em;">Некролорды</span>
-
-* Классовая способность – {{ site.data.covenants.pw }}. Дополнительная {{ site.data.spells.riptide }} и отхил разрозненных целей.
-* Общая способность – {{ site.data.covenants.fleshcraft }}. Щит на **20-50%** от максимального хп раз в **2** минуты.
-* Лучший медиум – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZlAQUocQYSBSmjBhUs8gYhFSg9Bg). Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSmjBhUs8gYhFSg9Bg). 
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Эмени.</i></summary>
-
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_14.png"> 
-</p>
-
-</details>
-
-<p></p>
-
-* Лучший выбор для **Рейда**, так как перекрывает слабую сторону Рестор Шамана – отхил разрозненных целей.
-* Основная способность практически не наносит урона, поэтому не рекомендуется для **пуша** ключей.
-* Подходит для **оффспека** Элема (лучший ковенант), но не Энха (худший ковенант).
 
 {% include button.html name="Полный разбор Некролордов" link="/resto/covenants.html#некролорды" %}  
 
-<p></p>
-
-## <span style="color:#ff4040;font-size:1em;">Вентиры</span>
-
-* Классовая способность – {{ site.data.covenants.ch }}. Гибрид способностей {{ site.data.spells.ch }} и {{ site.data.spells.cl }} с хорошим отхилом и уроном.
-* Общая способность – {{ site.data.covenants.door }}. Телепорт на **35** метров со временем произнесения **1.5** секунд.
-* Лучший медиум – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSmjBhUppwYhFSg9Bg). Альтернативный вариант – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSmjBhUppwYhFSg9Bg).
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Теотара.</i></summary>
-
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_18.png"> 
-</p>
-
-</details>
-
-<p></p>
-
-* Отличный выбор для **Мифик+**
-* Хорошо себя показывает в том числе и в **Рейде**.
-* Подходит для **оффспека** Энха, чуть хуже для рейдового Элема.
-
 {% include button.html name="Полный разбор Вентиров" link="/resto/covenants.html#вентиры" %}  
-
-<p></p>
-
-
-## <span style="color:#68ccef;font-size:1em;">Кирии</span>
-
-* Классовая способность – {{ site.data.covenants.vt }}. АоЕ отхил и урон в радиусе **8** метров с кулдауном в **1** минуту.
-* Общая способность – {{ site.data.covenants.phial }}. Один раз за бой восстанавливает **20%** хп и снимает кровотечения, болезни, яды и проклятия.
-* Лучший медиум – [Пелагий](https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/shaman/ApbuARUocQYSBSmjBhUs7gYhFSg9Bg). Альтернативный вариант – [Клейя](https://ru.wowhead.com/soulbind-calc/kyrian/kleia/shaman/ApZqAQUocQYRBSmjBiIVKD0GJSg2Bg).
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Пелагия.</i></summary>
-
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_16.png"> 
-</p>
-
-</details>
-
-<p></p>
-
-* Отличный выбор для **Мифик+** как за счет урона, так и за счет снятия неприятных дебаффов.
-* В **Рейде** не очень удобно использовать тотем за счет маленького радиуса. К тому же это еще один АоЕ отхил, с которым у нас и так нет проблем. 
-* Подходит для **оффспека** и Элема, и Энха.
-
-{% include button.html name="Полный разбор Кирий" link="/resto/covenants.html#кирии" %}  
-
-<p></p>
-
-## <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
-
-* Классовая способность – {{ site.data.covenants.ft }}. Потоковое заклинание со временем произнесения **3** секунды и кулдауном **2** минуты.
-* Общая способность – {{ site.data.covenants.soulshape }}. Мгновенный телепорт на **15** метров и увеличение скорости передвижения.
-* Лучший медиум – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AplmEgUpowYVKacGIgUoPQYlKDYG). Альтернативный вариант – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSmjBhUppwYhFSg9Bg).
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Творца снов.</i></summary>
-
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_19.png"> 
-</p>
-
-</details>
-
-<p></p>
-
-* Основная способность годится только для нанесения урона по одной цели и имеет очень слабый отхил с радиусом действия **8** метров вокруг персонажа.
-* Может пригодиться в **Рейде** за счет механики избегания смерти – {{ site.data.covenants.podtender }}
-* Как **оффспек** не подходит ни Элему, ни Энху.
-
-{% include button.html name="Полный разбор Ночного Народца" link="/resto/covenants.html#ночной-народец" %}  
 
 <p></p>
 
@@ -139,9 +47,8 @@ toc: true
 
 * {{ site.data.legend.riptide }} – **лучшая легендарка для Рейда**. Отличный вариант практически для любого боя, в том числе Мифик+.
 * {{ site.data.legend.mtt }} – **отличный выбор для Мифик+**. Дополнительный бурст отхил, который пригодится против модификатора первого сезона – {{ site.data.spells.prideful }}.
-* {{ site.data.legend.chains }} – также **отлично подходит для Мифик+**. Ориентирована больше на нанесение урона, а не на отхил.
 
-* Рекомендуемые характеристики для крафта – **Критический удар** и **Универсальность**.
+* Рекомендуемые характеристики для крафта – **Критический удар** и **Универсальность** для рейда и **Скорость** и **Универсальность** для Мифик+.
 
 {% include button.html name="Полный разбор легендарных предметов" link="/resto/legendaries.html" %}  
 
