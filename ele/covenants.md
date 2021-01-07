@@ -1,7 +1,7 @@
 ---
 title: Обзор Ковенантов – Шаман Стихии
 layout: page
-last_update: 2020-12-24
+last_update: 2021-01-08
 wow: 9.0.2
 toc: true
 author: Amani
@@ -16,8 +16,6 @@ author: Amani
 * Подробности про систему ковенантов можно прочитать в [этой статье](https://www.noob-club.ru/index.php?topic=63014.0).
 
 * Вся информация по ковенантам в удобном формате доступна в [гайде от Медифк](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMNZkXt5mDot7SXx6My6sHZd6EfoI0lEdpK0F8q3pnSEgPfya_gCAcTKUye2XhgjmM57URlcipuxAS/pubhtml).
-
-* В тексте ниже не рассмотрены медиумы, которые не доступны до максимальной прокачки ковенанта (приблизительно до **марта 2021 года**). Статья будет дополнена ближе к делу.
 
 # Выбор ковенанта
 
@@ -39,6 +37,8 @@ author: Amani
 
 * **Элем** + **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > > <span style="color:#40bf40;font-size:1em;">Некролорды</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
+Разница между ковенантами составляет примерно **2-5%** от общего урона, в зависимости от типа боя.
+
 # <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
 <p align="center" width="100%">
@@ -49,7 +49,7 @@ author: Amani
 
 **{{ site.data.covenants.pw }}** – поражает одну цель, нанося противнику **65%** урона от силы заклинаний и накладывая на него {{ site.data.spells.fs }}. Следующий {{ site.data.spells.lvb }} также применится ко **всем целям** под {{ site.data.spells.fs }} c **80%** от своего изначального урона, **включая основную**.
 
-* Лучшие показатели урона в бою против одной цели и на кливе.
+* **Лучший ковенант для Шамана Стихии на данный момент.**
 
 * Лучше всего себя показывает в бою против разрозненных целей, где необходимо поддерживать сразу несколько {{ site.data.spells.fs }}.  
 
@@ -77,23 +77,86 @@ author: Amani
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-Лучший медиум в начале дополнения – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZlAQUocQYSBSl_BhUs8gYhFSg9Bg), за счет трейта {{ site.data.covenants.lead }}. Он увеличивает наш Интеллект после каждого применения {{ site.data.covenants.pw }}, а также бафает наших союзников.
+**Эмени** – лучший медиум для Рейда, за счет трейта {{ site.data.covenants.lead }}, который увеличивает наш Интеллект после каждого применения {{ site.data.covenants.pw }}, а также бафает наших союзников. 
 
-<details><summary><i>Нажмите, чтобы увидеть пример прокачки Эмени.</i></summary>
+**Важно!** Основная характеристика для союзников от трейта {{ site.data.covenants.lead }} не учитывается в Симкрафте.
+
+> Для открытия Эмени необходимо пройти **третью** главу кампании ковенанта и выполнить квест [Мятежные души](https://ru.wowhead.com/quest=58665).
+
+Пример прокачки Эмени:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/ApZlAQUocQYSBSl_BhUs8gYhFSg9Bg"></a>
 
-</details>
-
 <p></p>
 
-Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSl_BhUs8gYhFSg9Bg).
+**Костоплав Гейрмир** – хорошо себя показывает за счет пассивного баффа на урон в размере **3%** – [Откровения мастера кузни](https://ru.wowhead.com/spell=326514), а также за счет последнего трейта на Критический удар – [Арсенал Гейрмир: оссеиновый самоцвет](https://ru.wowhead.com/spell=326572/).
 
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Изобретателя чумы Марилет.</i></summary>
+Пример прокачки Гейрмира:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/ApbqAQUocQQRBSl_BCIVKD0EJSg2BA"></a>
+
+**Изобретатель чумы Марилет** – самый слабый медиум Некролордов, но у него раньше других открывается два слота под проводники силы, что будет полезно в Мифик+. В рейде, даже с двумя проводниками силы, Марилет проигрывает Эмени.
+
+Пример прокачки Марилет:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSl_BhUs8gYhFSg9Bg"></a>
 
-</details>
+<p></p>
+
+
+# <span style="color:#ff4040;font-size:1em;">Вентиры</span>
+
+<p align="center" width="100%">
+    <img src="/assets/img/venthyr_idle1.png"> 
+</p>
+
+## <span style="color:#ff4040;font-size:1em;">Цепная жатва</span>
+
+**{{ site.data.covenants.ch }}** –  смесь двух наших заклинаний, {{ site.data.spells.cl }} и {{ site.data.spells.ch }}, но на **5** целей и с кулдауном в **полторы минуты**.
+
+* Наносит хороший урон на АоЕ, но крайне слабый в бою против одной цели.
+
+* Нанесение урона и отхил срабатывает одновременно.
+
+* Старайтесь придерживать эту способность, если в ближайшее время появятся дополнительные адды.
+
+* Снижает своё время восстановления на **5** секунд за каждое критическое попадание этой способностью, в том числе и от лечения.
+
+* Максимум время восстановления может снизиться на **50** секунд, то есть до **40** секунд.
+
+* В сочетании с талантом {{ site.data.spells.ag }} она очень сильно хилит, практически как рейд сейв.  
+
+* В первую очередь исцеляет самые раненые цели, то есть является «улучшенным смарт-хилом».
+
+* **Важно!** Хоть эта способность и выглядит так, будто она перескакивает от одной цели к другой, как {{ site.data.spells.cl }}, механика её работы кардинально отличается. По  сути это круговое АоЕ, которое лечит и дамажит **5** целей вокруг основной. Радиус действия – **20** метров вокруг первоначальной цели. 
+
+* {{ site.data.conduits.harvest }} – проводник, усиливающий эту способность. Увеличение шанса Критического удара как поднимает урон, так и потенциально снижает кулдаун {{ site.data.covenants.ch }}. Проводник практически бесполезен в бою против одной цели. 
+
+## <span style="color:#ff4040;font-size:1em;">Врата теней</span>
+
+**{{ site.data.covenants.door }}** – телепорт на **35** метров со временем произнесения **1.5** секунды.
+
+* Перемещение с помощью {{ site.data.covenants.door }} не агрит противников на своем пути.  
+
+* Для пропуска групп врагов в Мифик+ использовать его вряд ли получится, так как дальность телепорта довольно маленькая.  
+
+* С помощью трейта Наджии [Агент хаоса](https://ru.wowhead.com/spell=331576) можно дезориентировать врагов на **6** секунд, что является очень хорошим инструментом контроля в Мифик+.
+
+## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
+
+**Наджия, Клинок Туманов** 
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSl_BhVF-gYhFSg9Bg"></a>
+
+**Безумный герцог Теотар**
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSl_BhVF-gYhFSg9Bg"></a>
+
+**Генерал Дрейвен**
+
+В Мифик+ лучшим выбором трейта в последнем тире будет [Превосходство в тактике](https://ru.wowhead.com/spell=332753).
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/shaman/ApZlEgUpfwQVRfoEIgUoPQQVKDYE"></a>
 
 <p></p>
 
@@ -139,83 +202,22 @@ author: Amani
 
 ## <span style="color:#68ccef;font-size:1em;">Медиумы</span>
 
-Лучший медиум в начале дополнения – [Пелагий](https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/shaman/ApbuARUocQYSBSl_BhUs7gYhFSg9Bg), за счет первой пассивки на ДПС – {{ site.data.covenants.meditation }}.
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Пелагия.</i></summary>
+**Пелагий**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbuARUocQYSBSl_BhUs7gYhFSg9Bg"></a>
 
-</details>
+**Клейя**
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/ApZqAQUocQQRBSl_BCIVKD0EJSg2BA"></a>
+
+**Верховный автоматург Миканикос**
+
+В Мифик+ и на АоЕ боссах в рейде лучшим выбором трейта в последнем тире будет [Молот творения](https://ru.wowhead.com/spell=333935).
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/ApZlAQUocQQSBSl_BBUs7gQhFSg9BA"></a>
 
 <p></p>
 
-Альтернативный вариант – [Клейя](https://ru.wowhead.com/soulbind-calc/kyrian/kleia/shaman/ApZlAQUocQYSBSl_BhUs7gYhFSg9Bg)
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Клейи.</i></summary>
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/ApZlAQUocQYSBSl_BhUs7gYhFSg9Bg"></a>
-
-</details>
-
-<p></p>
-
-# <span style="color:#ff4040;font-size:1em;">Вентиры</span>
-
-<p align="center" width="100%">
-    <img src="/assets/img/venthyr_idle1.png"> 
-</p>
-
-## <span style="color:#ff4040;font-size:1em;">Цепная жатва</span>
-
-**{{ site.data.covenants.ch }}** –  смесь двух наших заклинаний, {{ site.data.spells.cl }} и {{ site.data.spells.ch }}, но на **5** целей и с кулдауном в **полторы минуты**.
-
-* Наносит очень хороший урон на АоЕ, но крайне слабый в бою против одной цели.
-
-* Нанесение урона и отхил срабатывает одновременно.
-
-* Старайтесь придерживать эту способность, если в ближайшее время появятся дополнительные адды.
-
-* Снижает своё время восстановления на **5** секунд за каждое критическое попадание этой способностью, в том числе и от лечения.
-
-* Максимум время восстановления может снизиться на **50** секунд, то есть до **40** секунд.
-
-* В сочетании с талантом {{ site.data.spells.ag }} она очень сильно хилит, практически как рейд сейв.  
-
-* В первую очередь исцеляет самые раненые цели, то есть является «улучшенным смарт-хилом».
-
-* **Важно!** Хоть эта способность и выглядит так, будто она перескакивает от одной цели к другой, как {{ site.data.spells.cl }}, механика её работы кардинально отличается. По  сути это круговое АоЕ, которое лечит и дамажит **5** целей вокруг основной. Радиус действия – **20** метров вокруг первоначальной цели. 
-
-* {{ site.data.conduits.harvest }} – проводник, усиливающий эту способность. Увеличение шанса Критического удара как поднимает урон, так и потенциально снижает кулдаун {{ site.data.covenants.ch }}. Проводник практически бесполезен в бою против одной цели. 
-
-## <span style="color:#ff4040;font-size:1em;">Врата теней</span>
-
-**{{ site.data.covenants.door }}** – телепорт на **35** метров со временем произнесения **1.5** секунды.
-
-* Перемещение с помощью {{ site.data.covenants.door }} не агрит противников на своем пути.  
-
-* Для пропуска групп врагов в Мифик+ использовать его вряд ли получится, так как дальность телепорта довольно маленькая.  
-
-## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
-
-Лучший медиум в начале дополнения – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSl_BhVF-gYhFSg9Bg), за счет {{ site.data.covenants.seeker }}.
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Наджии.</i></summary>
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSl_BhVF-gYhFSg9Bg"></a>
-
-</details>
-
-<p></p>
-
-Альтернативный вариант – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSl_BhVF-gYhFSg9Bg). 
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Безумного герцога Теотара.</i></summary>
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSl_BhVF-gYhFSg9Bg"></a>
-
-</details>
-
-<p></p>
 
 # <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
@@ -253,22 +255,19 @@ author: Amani
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-Лучший медиум в начале дополнения – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSl_BhUs7wYhFSg9Bg), за счет {{ site.data.covenants.grove }}.
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Нии.</i></summary>
+**Ния**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/ApZlAQUocQYRBSl_BiIVKD0GJSg2Bg"></a>
 
-</details>
-
-<p></p>
-
-Альтернативный вариант – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AplmEgUpmQYVLO8GIgUoPQYlKDYG). Ночной народец может стать топовым выбором из-за её пассивки на **«cheat-death»** – {{ site.data.covenants.podtender }}.
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Творца снов.</i></summary>
+**Творец Снов**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/ApqmEQUpfwYjBSg9BhUoNgYlKCwG"></a>
 
-</details>
+**Корейн**
+
+В Мифик+ и на АоЕ боссах в рейде лучшим выбором трейта в последнем тире будет [Первый удар](https://ru.wowhead.com/spell=325069).
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/ApZlAQUocQQSBSl_BBUs7wQhFSg9BA"></a>
+
 
 <p></p>
