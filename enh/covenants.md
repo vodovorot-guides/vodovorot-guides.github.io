@@ -1,7 +1,7 @@
 ---
 title: Обзор Ковенантов – Шаман Совершенствования
 layout: page
-last_update: 2020-12-24
+last_update: 2020-01-08
 wow: 9.0.2
 toc: true
 author: Amani
@@ -83,28 +83,20 @@ author: Amani
 
 ## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
 
-Лучший медиум в начале дополнения – [Наджия, Клинок Туманов](https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQYVKIAGEQUpjgYhFSg9Bg), за счет {{ site.data.covenants.seeker }}.
+**Наджия, Клинок Туманов**
 
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Наджии.</i></summary>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQQVKHoEEQUpjgQhFSg9BA"></a>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_9.png"> 
-</p>
+**Безумный герцог Теотар**
 
-</details>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/ApbqEQUpjgQjBSg9BBUoNgQlKCwE"></a>
 
-<p></p>
+**Генерал Дрейвен**
 
-Альтернативный вариант – [Безумный герцог Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSmOBhUpkgYhFSg9Bg). 
+В Мифик+ хорошим выбором таланта в последнем тире может быть [Превосходство в тактике](https://ru.wowhead.com/spell=332753).
 
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Безумного герцога Теотара.</i></summary>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/shaman/ApZvARUocQQRBSmOBCIFKD0EFSg2BA"></a>
 
-
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_22.png"> 
-</p>
-
-</details>
 
 <p></p>
 
@@ -132,7 +124,7 @@ author: Amani
 
 * Отхил срабатывает в том числе от установки {{ site.data.spells.hst }}.   
 
-* Тотем имеет всего **50** ед. здоровья, что делает очень проблематичным его использование в ПвП.  
+* Тотем имеет всего **50** ед. здоровья, что делает очень проблематичным его использование в PvP.  
 
 * {{ site.data.conduits.dirge }} – проводник, усиливающий эту способность. Увеличивает наносимый урон и исцеление по одной цели, которая находится ближе всех к {{ site.data.covenants.vt }}.
 
@@ -150,27 +142,20 @@ author: Amani
 
 ## <span style="color:#68ccef;font-size:1em;">Медиумы</span>
 
-Лучший медиум в начале дополнения – [Пелагий](https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/shaman/ApbuARUocQYSBSl_BhUs7gYhFSg9Bg), за счет первой пассивки на ДПС – {{ site.data.covenants.meditation }}.
+**Пелагий**
 
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Пелагия.</i></summary>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbmEgUpjgQVKZIEIhUoPQQlKDYE"></a>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_11.png"> 
-</p>
+**Клейя**
 
-</details>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/ApZqAQUocQQRBSmOBCIVKD0EJSg2BA"></a>
 
-<p></p>
+**Верховный автоматург Миканикос**
 
-Альтернативный вариант – [Клейя](https://ru.wowhead.com/soulbind-calc/kyrian/kleia/shaman/ApZqAQUocQYRBSmOBiIVKD0GJSg2Bg).
+В Мифик+ и на АоЕ боссах в рейде лучшим выбором трейта в последнем тире будет [Молот творения](https://ru.wowhead.com/spell=333935).
 
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Клейи.</i></summary>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/ApZlAQUocQQSBSmOBBUpkgQhFSg9BA"></a>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_23.png"> 
-</p>
-
-</details>
 
 <p></p>
 
@@ -212,29 +197,19 @@ author: Amani
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-Ночной народец обладает самыми сильными медиумами из всех ковенантов, учитывая [невыдающиеся проводники Энх Шамана](https://stormkeeper.ru/enh/conduits.html).
+**Ния**
 
-Лучший медиум в начале дополнения – [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/ApZqAQUocQYSBSmOBhUpkgYhFSg9Bg), за счет {{ site.data.covenants.grove }}.
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/ApZlAQUocQQRBSmOBCIVKD0EJSg2BA"></a>
 
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Нии.</i></summary>
+**Творец Снов**
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_21.png"> 
-</p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/ApqmEQUpjgQjBSg9BBUoNgQlKCwE"></a>
 
-</details>
+**Корейн**
 
-<p></p>
+В Мифик+ и на АоЕ боссах в рейде лучшим выбором трейта в последнем тире будет [Первый удар](https://ru.wowhead.com/spell=325069).
 
-Альтернативный вариант – [Творец Снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/ArqmAQUocQYRBSmOBiIVKD0GJSgsBg). Ночной народец может стать топовым выбором из-за её пассивки на **«cheat-death»** – {{ site.data.covenants.podtender }}.
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Творца снов.</i></summary>
-
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_12.png"> 
-</p>
-
-</details>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/ApZlAQUocQQSBSmOBBUpkgQhFSg9BA"></a>
 
 <p></p>
 
@@ -270,26 +245,16 @@ author: Amani
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-Лучший медиум в начале дополнения – [Эмени](https://ru.wowhead.com/soulbind-calc/necrolord/emeni/shaman/ApZgAQUocQYRBSmOBiEVKD0G), за счет трейта {{ site.data.covenants.lead }}. Он увеличивает нашу Ловкость после каждого применения {{ site.data.covenants.pw }}, а также бафает наших союзников.
+**Костоплав Гейрмир**
 
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Эмени.</i></summary>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/ApbqAQUocQQRBSmOBCIVKD0EJSg2BA"></a>
 
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_13.png"> 
-</p>
+**Эмени**
 
-</details>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/ApZlAQUocQQSBSmOBBUpkgQhFSg9BA"></a>
 
-<p></p>
+**Изобретатель чумы Марилет**
 
-Альтернативный вариант – [Изобретатель чумы Марилет](https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSmOBhUpkgYhFSg9Bg).
-
-<details markdown=1><summary><i>Нажмите, чтобы увидеть пример прокачки Изобретателя чумы Марилет.</i></summary>
-
-<p align="center" width="100%">
-    <img src="/assets/img/Soulbinds/Screenshot_25.png"> 
-</p>
-
-</details>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/ApbmEgUpjgQVKZIEIhUoPQQlKDYE"></a>
 
 <p></p>
