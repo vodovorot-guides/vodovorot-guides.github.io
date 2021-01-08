@@ -123,7 +123,6 @@ author: Amani
 
 * Использование {{ site.data.spells.bl }} на ближайшего союзника, при  игре с PvP-талантом [Шаманство](https://ru.wowhead.com/spell=193876/).
 ~~~
-#showtooltip
 /targetparty
 /cast Жажда крови
 /targetlastenemy
