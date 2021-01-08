@@ -1,7 +1,7 @@
 ---
 title: Обзор Ковенантов – Шаман Стихии
 layout: page
-last_update: 2021-01-08
+last_update: 2020-12-24
 wow: 9.0.2
 toc: true
 author: Amani
@@ -146,17 +146,17 @@ author: Amani
 
 **Наджия, Клинок Туманов** 
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApalAQUocQYSBSl_BhVF-gYhFSg9Bg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQQVKHoEEQUpfwQhFSg9BA"></a>
 
 **Безумный герцог Теотар**
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/Ar7lAQUocQYSBSl_BhVF-gYhFSg9Bg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/ApbqEQUpfwQjBSg9BBUoNgQlKCwE"></a>
 
 **Генерал Дрейвен**
 
 В Мифик+ лучшим выбором трейта в последнем тире будет [Превосходство в тактике](https://ru.wowhead.com/spell=332753).
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/shaman/ApZlEgUpfwQVRfoEIgUoPQQVKDYE"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/shaman/ApZvARUocQQRBSl_BCIFKD0EFSgsBA"></a>
 
 <p></p>
 
@@ -204,7 +204,7 @@ author: Amani
 
 **Пелагий**
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbuARUocQYSBSl_BhUs7gYhFSg9Bg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbuARUocQYSBSl_BhVF-gQhFSg9Bg"></a>
 
 **Клейя**
 
@@ -214,7 +214,7 @@ author: Amani
 
 В Мифик+ и на АоЕ боссах в рейде лучшим выбором трейта в последнем тире будет [Молот творения](https://ru.wowhead.com/spell=333935).
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/ApZlAQUocQQSBSl_BBUs7gQhFSg9BA"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/ApZlAQUocQQSBSl_BBVF-gQhFSg9BA"></a>
 
 <p></p>
 
@@ -267,7 +267,7 @@ author: Amani
 
 В Мифик+ и на АоЕ боссах в рейде лучшим выбором трейта в последнем тире будет [Первый удар](https://ru.wowhead.com/spell=325069).
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/ApZlAQUocQQSBSl_BBUs7wQhFSg9BA"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/ApZlAQUocQQSBSl_BBVF-gQhFSg9BA"></a>
 
 
 <p></p>
