@@ -91,7 +91,7 @@ author: Amani
 
 **Костоплав Гейрмир** – хорошо себя показывает за счет пассивного баффа на урон в размере **3%** – [Откровения мастера кузни](https://ru.wowhead.com/spell=326514), а также за счет последнего трейта на Критический удар – [Арсенал Гейрмир: оссеиновый самоцвет](https://ru.wowhead.com/spell=326572/).
 
-Пример прокачки Гейрмира:
+Пример прокачки Гейрмир:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/ApbqAQUocQQRBSl_BCIVKD0EJSg2BA"></a>
 
