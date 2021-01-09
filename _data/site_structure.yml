@@ -49,7 +49,6 @@ categories:
           url: /enh/legendaries.html
         - title: Характеристики
           url: /enh/stats.html
-          disabled: true
       - title: Изменения в Shadowlands
         url: /enh/prepatch.html
       - title: Weakauras
