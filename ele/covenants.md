@@ -77,7 +77,7 @@ author: Amani
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-**Эмени** – лучший медиум для Рейда, за счет трейта {{ site.data.covenants.lead }}, который увеличивает наш Интеллект после каждого применения {{ site.data.covenants.pw }}, а также бафает наших союзников. 
+**<span style="color:#40bf40;font-size:1em;">Эмени</span>** – лучший медиум для Рейда, за счет трейта {{ site.data.covenants.lead }}, который увеличивает наш Интеллект после каждого применения {{ site.data.covenants.pw }}, а также бафает наших союзников. 
 
 **Важно!** Основная характеристика для союзников от трейта {{ site.data.covenants.lead }} не учитывается в Симкрафте.
 
@@ -89,13 +89,13 @@ author: Amani
 
 <p></p>
 
-**Костоплав Гейрмир** – хорошо себя показывает за счет пассивного баффа на урон в размере **3%** – [Откровения мастера кузни](https://ru.wowhead.com/spell=326514), а также за счет последнего трейта на Критический удар – [Арсенал Гейрмир: оссеиновый самоцвет](https://ru.wowhead.com/spell=326572/).
+**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – хорошо себя показывает за счет пассивного баффа на урон в размере **3%** – [Откровения мастера кузни](https://ru.wowhead.com/spell=326514), а также за счет последнего трейта на Критический удар – [Арсенал Гейрмир: оссеиновый самоцвет](https://ru.wowhead.com/spell=326572/).
 
 Пример прокачки Гейрмир:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/ApbqAQUocQQRBSl_BCIVKD0EJSg2BA"></a>
 
-**Изобретатель чумы Марилет** – самый слабый медиум Некролордов, но у него раньше других открывается два слота под проводники силы, что будет полезно в Мифик+. В рейде, даже с двумя проводниками силы, Марилет проигрывает Эмени. WA для напоминания поглощения тел для баффа [Нестабильный растворитель](https://ru.wowhead.com/spell=323074) – [по этой ссылке](https://wago.io/B7QzVZ7BI).
+**<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – самый слабый медиум Некролордов, но у него раньше других открывается два слота под проводники силы, что будет полезно в Мифик+. В рейде, даже с двумя проводниками силы, Марилет проигрывает Эмени. WA для напоминания поглощения тел для баффа [Нестабильный растворитель](https://ru.wowhead.com/spell=323074) – [по этой ссылке](https://wago.io/B7QzVZ7BI).
 
 Пример прокачки Марилет:
 
@@ -144,15 +144,15 @@ author: Amani
 
 ## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
 
-**Наджия, Клинок Туманов** 
+**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQQVKHoEEQUpfwQhFSg9BA"></a>
 
-**Безумный герцог Теотар**
+**<span style="color:#ff4040;font-size:1em;">Безумный герцог Теотар</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/ApbqEQUpfwQjBSg9BBUoNgQlKCwE"></a>
 
-**Генерал Дрейвен**
+**<span style="color:#ff4040;font-size:1em;">Генерал Дрейвен</span>** 
 
 В Мифик+ лучшим выбором трейта в последнем тире будет [Превосходство в тактике](https://ru.wowhead.com/spell=332753).
 
@@ -202,15 +202,15 @@ author: Amani
 
 ## <span style="color:#68ccef;font-size:1em;">Медиумы</span>
 
-**Пелагий**
+**<span style="color:#68ccef;font-size:1em;">Пелагий</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbuARUocQYSBSl_BhVF-gQhFSg9Bg"></a>
 
-**Клейя**
+**<span style="color:#68ccef;font-size:1em;">Клейя</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/ApZqAQUocQQRBSl_BCIVKD0EJSg2BA"></a>
 
-**Верховный автоматург Миканикос**
+**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>**
 
 В Мифик+ и на АоЕ боссах в рейде лучшим выбором трейта в последнем тире будет [Молот творения](https://ru.wowhead.com/spell=333935).
 
@@ -255,15 +255,15 @@ author: Amani
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-**Ния**
+**<span style="color:#a330c9;font-size:1em;">Ния</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/ApZlAQUocQYRBSl_BiIVKD0GJSg2Bg"></a>
 
-**Творец Снов**
+**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/ApqmEQUpfwYjBSg9BhUoNgYlKCwG"></a>
 
-**Корейн**
+**<span style="color:#a330c9;font-size:1em;">Корейн</span>**
 
 В Мифик+ и на АоЕ боссах в рейде лучшим выбором трейта в последнем тире будет [Первый удар](https://ru.wowhead.com/spell=325069).
 
