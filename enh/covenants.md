@@ -83,15 +83,15 @@ author: Amani
 
 ## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
 
-**Наджия, Клинок Туманов**
+**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQQVKHoEEQUpjgQhFSg9BA"></a>
 
-**Безумный герцог Теотар**
+**<span style="color:#ff4040;font-size:1em;">Безумный герцог Теотар</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/ApbqEQUpjgQjBSg9BBUoNgQlKCwE"></a>
 
-**Генерал Дрейвен**
+**<span style="color:#ff4040;font-size:1em;">Генерал Дрейвен</span>**
 
 В Мифик+ хорошим выбором таланта в последнем тире может быть [Превосходство в тактике](https://ru.wowhead.com/spell=332753).
 
@@ -142,15 +142,15 @@ author: Amani
 
 ## <span style="color:#68ccef;font-size:1em;">Медиумы</span>
 
-**Пелагий**
+**<span style="color:#68ccef;font-size:1em;">Пелагий</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbmEgUpjgQVKZIEIhUoPQQlKDYE"></a>
 
-**Клейя**
+**<span style="color:#68ccef;font-size:1em;">Клейя</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/ApZqAQUocQQRBSmOBCIVKD0EJSg2BA"></a>
 
-**Верховный автоматург Миканикос**
+**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>**
 
 В Мифик+ и на АоЕ боссах в рейде лучшим выбором трейта в последнем тире будет [Молот творения](https://ru.wowhead.com/spell=333935).
 
@@ -197,15 +197,15 @@ author: Amani
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-**Ния**
+**<span style="color:#a330c9;font-size:1em;">Ния</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/ApZlAQUocQQRBSmOBCIVKD0EJSg2BA"></a>
 
-**Творец Снов**
+**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** 
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/ApqmEQUpjgQjBSg9BBUoNgQlKCwE"></a>
 
-**Корейн**
+**<span style="color:#a330c9;font-size:1em;">Корейн</span>**
 
 В Мифик+ и на АоЕ боссах в рейде лучшим выбором трейта в последнем тире будет [Первый удар](https://ru.wowhead.com/spell=325069).
 
@@ -245,15 +245,15 @@ author: Amani
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-**Костоплав Гейрмир**
+**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/ApbqAQUocQQRBSmOBCIVKD0EJSg2BA"></a>
 
-**Эмени**
+**<span style="color:#40bf40;font-size:1em;">Эмени</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/ApZlAQUocQQSBSmOBBUpkgQhFSg9BA"></a>
 
-**Изобретатель чумы Марилет**
+**<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/ApbmEgUpjgQVKZIEIhUoPQQlKDYE"></a>
 
