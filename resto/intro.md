@@ -29,6 +29,8 @@ toc: true
 
 {% include button.html name="Полный разбор Некролордов" link="/resto/covenants.html#некролорды" %}  
 
+<p></p>
+
 {% include button.html name="Полный разбор Вентиров" link="/resto/covenants.html#вентиры" %}  
 
 <p></p>
