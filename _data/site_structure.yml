@@ -20,7 +20,6 @@ categories:
           url: /ele/legendaries.html
         - title: Характеристики
           url: /ele/stats.html
-          disabled: true
       - title: Изменения в Shadowlands
         url: /ele/prepatch.html
       - title: Weakauras
