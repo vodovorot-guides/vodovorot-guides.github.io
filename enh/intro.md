@@ -72,7 +72,7 @@ toc: true
 
 * [Симьтесь](https://www.raidbots.com/simbot) персонально для точных данных.
 
-{% include button.html name="Подробности про характеристики (в разработке)" link="/enh/stats.html" %}  
+{% include button.html name="Подробности про характеристики" link="/enh/stats.html" %}  
 
 <p></p>
 
