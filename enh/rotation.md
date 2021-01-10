@@ -107,7 +107,8 @@ author: Amani, Wordup
 1. {{ site.data.spells.windstrike }} при активном {{ site.data.spells.asc_enh }}
 2. {{ site.data.spells.ss }}
 3. {{ site.data.spells.crush }}
-4. Все остальные способности, согласно обычной ротации.
+4. {{ site.data.spells.sunder }}
+5. Все остальные способности, согласно обычной ротации.
 
 Приоритет способностей на **АоЕ** под баффом от легендарки {{ site.data.legend.doom }} **не меняется**, следуйте АоЕ ротации выше.
 
