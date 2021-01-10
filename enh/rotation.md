@@ -19,15 +19,14 @@ author: Amani, Wordup
 
 # Открывающая ротация, «Opener»
 
-1. Прекаст {{ site.data.spells.sk_enh }}
-2. Прекаст {{ site.data.spells.wt }} максимально близко к боссу.
-  * При использовании легендарки {{ site.data.legend.doom }}, не ставьте {{ site.data.spells.wt }} заранее.
-3. {{ site.data.spells.fs }} по дороге к боссу.
-4. {{ site.data.spells.spike }} 
-5. {{ site.data.spells.ss }}
-6. {{ site.data.spells.feral }}
-7. {{ site.data.spells.asc_enh }} и сразу же {{ site.data.spells.windstrike }}
-8. Продолжаем обычную ротацию.
+При использовании легендарного предмета {{ site.data.legend.doom }}.
+
+1. {{ site.data.spells.fs }} по дороге к боссу.
+2. {{ site.data.spells.ss }}
+3. {{ site.data.spells.feral }}
+4. {{ site.data.spells.asc_enh }} и сразу же {{ site.data.spells.windstrike }}
+5. {{ site.data.spells.wt }}
+6. Продолжаем обычную ротацию.
 
 # Бой против одной цели
 
@@ -98,7 +97,6 @@ author: Amani, Wordup
 
 * {{ site.data.spells.fs }} на АоЕ не используется.
 * Способности ковенантов следует использовать по кулдауну. {{ site.data.covenants.ch }} только на **5+** стаках {{ site.data.spells.mw }}.
-
 
 # Влияние легендарных предметов
 
