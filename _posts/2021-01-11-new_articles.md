@@ -31,3 +31,4 @@ author: Amani
 
 <p></p>
 
+Не забывайте задавать ваши вопросы на сервере [Водоворот](https://discordapp.com/invite/zTQhBn8), а также заходите на [стрим Амани](https://www.youtube.com/AmaniZandalari).
