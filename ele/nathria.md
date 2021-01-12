@@ -1,7 +1,7 @@
 ---
 title: Рейд Замок Нафрия – Шаман Стихии
 layout: page
-last_update: 2020-12-21
+last_update: 2021-01-12
 wow: 9.0.2
 toc: true
 author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
@@ -111,59 +111,54 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 - <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: {{ site.data.covenants.phial }} снимает эффект кровотечения от способностей [Зазубренные когти](https://ru.wowhead.com/spell=334971) и [Страшная рана](https://ru.wowhead.com/spell=334960/).
 
-## Спасение Солнечного короля
+## Спасение Солнечного короля (Эпохальный режим)
 
 **Тип боя:** AoE / Клив
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.afs }} или {{ site.data.spells.ecs }}
+* **25**: {{ site.data.spells.afs }} или {{ site.data.spells.eb }}
 * **30**: {{ site.data.spells.spirit_wolf }}
-* **35**: {{ site.data.spells.mote }} или {{ site.data.spells.storm }}
+* **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.ng }} или {{ site.data.spells.wrt }}
 * **45**: {{ site.data.spells.primal_elem }}
 * **50**: {{ site.data.spells.sk }}
 
-**Легендарные предметы:**
+**Легендарные предметы**
 - {{ site.data.legend.fire }}
 - {{ site.data.legend.eogs }}
+- {{ site.data.legend.lava }} (да-да, это не ошибка)
 
-**Нанесение урона:**
-- Поддерживайте {{ site.data.spells.fs }} на приоритетных целях.
-- Используйте {{ site.data.spells.quake }}, когда рядом стоят две или более цели, а также {{ site.data.spells.cl }}, если целей больше трех.
-- Используйте {{ site.data.spells.swg }} или мгновенные заклинания под {{ site.data.nathria.ember_blast }}.
-- При взятом таланте {{ site.data.spells.storm }}, придерживайте {{ site.data.spells.eye_storm }} под большую волну аддов.
+**Первая фаза – лечение босса до 45%**
+- Суть этой фазы в Эпохальном режиме – оставить в живых первого большого адда, [Верховного истязателя Даритоса](https://ru.wowhead.com/npc=168973), прохилить босса до **45%** и перевести его на следующую фазу.
+- С пула следует отдать {{ site.data.spells.sk }} в стянутых аддов и сразу же начать прохиливать босса. Это ваша первоочередная задача, как и любого гибридного дамагера.
+- Не убейте [Верховного истязателя Даритоса](https://ru.wowhead.com/npc=168973) раньше времени, потому что его смерть вызывает спавн следующих аддов.
 
-**Защита и сейвы:**
-- Используйте {{ site.data.spells.as }} и {{ site.data.spells.harden_skin }} (при взятом {{ site.data.spells.primal_elem }}) на {{ site.data.nathria.crimson_flurry }} и {{ site.data.nathria.ember_blast }}.
-- {{ site.data.spells.spirit_wolf }} будет полезен для снижения урона от способности {{ site.data.nathria.soul_pedestal }}.
+**Вторая фаза – урон по боссу до 45%**
+- Вторая фаза начинается спустя примерно **50-60** секунд после начала боя.
+- На этой фазе, также как и на Героической сложности, будет два адда, [Возрожденный феникс](https://ru.wowhead.com/npc=168962). Если в вашем рейде их будут контролить при появлении, то не стоит развешивать на них {{ site.data.spells.fs }}. Однако если они просто замедлены, то стоит.
+- Самый важный момент этой фазе – каст абсорб щита, [Плащ пламени](https://ru.wowhead.com/spell=343026). Первый щит будет спустя **30** секунд после начала **второй фазы**, второй – сптся **60** секунд. Третьего щита не будет, так как босс должен переводиться раньше.
+- Рейд лидер распределяет бурсты вашего рейда в первый и второй щиты. Бурст шамана стихии включает в себя вызванного [Элементаля огня](https://ru.wowhead.com/spell=198067), наличие **60+** энергии Водоворота и комбинацию из способностей {{ site.data.spells.sk }}, {{ site.data.covenants.pw }}, {{ site.data.spells.es }} и {{ site.data.spells.lvb }}.
+- Во время всей второй фазы двигайтесь одним кемпом для распределения урона от [Взрывоопасных углей](https://ru.wowhead.com/spell=325877) и перебежек от [Пылающего потока](https://ru.wowhead.com/spell=329518). Не стоит заранее забегать вперед, это может привести к вайпу.
 
-**Лечение:**
-- Во время простоя между волнами мобов, хильтесь с помощью {{ site.data.spells.hst }}, {{ site.data.spells.ch }}, и {{ site.data.spells.hs }}.
-- Вы можете использовать {{ site.data.spells.eshield }} на {{ site.data.nathria.kaelthas_sunstrider }} для дополнительного отхила. Имейте в виду, что усиливается только ваш отхил, но не других игроков.
-- На Эпохальной сложности помогайте отхиливать [Плащ пламени](https://ru.wowhead.com/spell=343026/) с помощью {{ site.data.spells.hs }}.
+**Третья фаза – лечение босса до 90%**
+- Сразу после конца второй фазы спускается большой адд, [Скальный покоритель](https://ru.wowhead.com/npc=165764). До момента его появления стоит потратить всю ману на лечение босса.
+- В отличие от первой фазы, здесь будет большое количество аддов. Поддерживайте на них {{ site.data.spells.fs }} и заливайте АоЕ. Добивайте [Темнокрылых убийц](https://ru.wowhead.com/npc=167566) на низком уровне их здоровья, иначе они излечатся на **100%** ХП.
+- На этой фазе абсорб щит на боссе, [Плаща пламени](https://ru.wowhead.com/spell=343026), необходимо **прохиливать**. Отслеживайте время появления щита через DBM или BigWigs, чтобы у вас была мана к этому моменту. Помните, что полный столб маны с **0%** до **100%** мы регенерируем примерно за **25-30** секунд, так что не сливайте всю ману перед кастом [Плаща пламени](https://ru.wowhead.com/spell=343026).
+- Сбивайте касты [Гнусным оккультисткам](https://ru.wowhead.com/npc=165763), фокусите [Насыщательниц душ](https://ru.wowhead.com/npc=165762) (только тех, кого вы в данный момент не контролите), заливайте АоЕ [Докучливых бесов](https://ru.wowhead.com/npc=168700) и наносите основной урон с помощью {{ site.data.spells.lvb }} по [Скальному покорителю](https://ru.wowhead.com/npc=165764).
+- Примерно в середине этой фазы сдается {{ site.data.spells.bl }} / {{ site.data.spells.hero }}.
 
-**Вспомогательные способности:**
-- Cбивайте {{ site.data.nathria.vulgar_brand }} и {{ site.data.nathria.scornful_blast }}, которые кастуют {{ site.data.nathria.vile_occultist }}.
-- При необходимости используйте {{ site.data.spells.ebt }} и {{ site.data.spells.thunder }} на {{ site.data.nathria.reborn_phoenix }} и {{ site.data.nathria.soul_infuser }}.
-- Используйте {{ site.data.spells.wrt }} для кайта {{ site.data.nathria.reborn_phoenix }}.
+**Четвертая фаза – урон по боссу до 0%**
+- Практически ничем не отличается от второй фазы. Фокусите босса и кливайте аддов.
 
-**Способности ковенантов:**
+## Изобретатель Зи'мокс (Эпохальный режим)
 
-- <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: {{ site.data.covenants.phial }} снимает эффект кровотечения от способности [Алый шквал](https://ru.wowhead.com/spell=341475), но **не снимает** эффект от [Уничтожения](https://ru.wowhead.com/spell=325442/).
-
-**Заметки:**
-- В этом бою будет множество фаз с различными аддами, которые отличаются по приоритету. Наносите урон в первую очередь по самым важным целям.
-- При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь, что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
-
-## Изобретатель Зи'мокс
-
-**Тип боя:** Одна цель / Клив разрозненных целей
+**Тип боя:** Одна цель
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.ecs }}
-* **30**: {{ site.data.spells.spirit_wolf }} или {{ site.data.spells.eshield }}
+* **25**: {{ site.data.spells.eb}}
+* **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.wrt }}
 * **45**: {{ site.data.spells.if }}
@@ -171,52 +166,37 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Легендарные предметы:**
 - {{ site.data.legend.lava }}
-- {{ site.data.legend.fire }}
 
-**Нанесение урона:**
-- В этом бою будет очень много перебежек и перемещения, так что рассчитывайте ваши мгновенные заклинания и используйте {{ site.data.spells.swg }} в нужные моменты.
+- Во время боя будут пересекаться все механики из Героической сложности – преследование [Недолговечных духов](https://ru.wowhead.com/npc=168317/), вынос за пределы рейда [Семян истреления](https://ru.wowhead.com/spell=329090) и притяжка от [Грани Аннигиляции](https://ru.wowhead.com/spell=328880).
+- Весь бой завязан на строгих таймингах выноса различных механик и использования телепортов.
+- Если до вас дойдет [Недолговечный дух](https://ru.wowhead.com/npc=168317/), то это смертельно, контроль разума не спадает при получении урона.
+- Не попадайте в [Стазисные ловушки](https://ru.wowhead.com/spell=326271/). Они активируются не сразу, так что у вас будет время из них выйти.
+- Не попадайте под белые лучи – [Взрывающийся разломы](https://ru.wowhead.com/spell=329458). На Эпохальной сложности два луча или луч + любая другая механика убьют вас.
+- {{ site.data.spells.as }} оставляйте под дебафф [Иссушающее прикосновение](https://ru.wowhead.com/spell=340860). Этот дебафф наносит очень большой урон и при отсутствии [Астрального сдвига](https://ru.wowhead.com/spell=108271/) не стесняйтесь просить у хилов внешние сейвы.
+- **Важно!** С помощью {{ site.data.spells.wrt }} есть возможность полностью избежать притяжки от [Грани Аннигиляции](https://ru.wowhead.com/spell=328880). После начала притяжки ставьте тотем и бегите всем рейдом в сторону углубления у стены. Даже обычного бега без различных блинков и телепортов хватает, чтобы полностью избежать этой механики.
+- Используйте {{ site.data.spells.swg }} во время первой и третьей притяжки, либо во время убегания от духа.
 
-**Защита и сейвы:**
-- Используйте {{ site.data.spells.as }} под {{ site.data.nathria.glyph_of_destruction }} и {{ site.data.nathria.seed_of_extinction }}.
-- {{ site.data.spells.spirit_wolf }} будет крайне полезным талантом в этом бою за счет скорости передвижения и защиты от урона, но {{ site.data.spells.eshield }} пригодится против различных ДоТ эффектов на боссе, таких как {{ site.data.nathria.hyperlight_spark }}, {{ site.data.nathria.glyph_of_destruction }}, [Иссушающее прикосновение](https://ru.wowhead.com/spell=340860/) и {{ site.data.nathria.aura_of_dread }}.
-
-**Вспомогательные способности:**
-- Используйте {{ site.data.spells.wrt }} для помощи союзникам в установке {{ site.data.nathria.dimensional_tear }}, перемещения {{ site.data.nathria.seed_of_extinction }} и избегания {{ site.data.nathria.edge_of_annihilation }}.
-
-**Заметки:**
-- Посколько {{ site.data.nathria.possession }} от {{ site.data.nathria.fleeting_spirit }} считается **Контролем над разумом**, а не **Подчинением**, {{ site.data.spells.tremor }} будет против него бесполезен.
-
-## Алчущий разрушитель
+## Алчущий разрушитель (Эпохальная сложность)
 
 **Тип боя:** Одна цель
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.ecs }} или {{ site.data.spells.eb }}
+* **25**: {{ site.data.spells.eb }}
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
-* **40**: {{ site.data.spells.ng }} или {{ site.data.spells.wrt }}
+* **40**: {{ site.data.spells.wrt }}
 * **45**: {{ site.data.spells.if }}
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
 - {{ site.data.legend.lava }}
 
-**Нанесение урона:**
-- Используйте {{ site.data.spells.swg }} или мгновенные заклинания при спреде на {{ site.data.nathria.volatile_ejection }} и убегании от {{ site.data.nathria.consume }}.
 
-**Защита и сейвы:**
+- Крайне полезная WA для отслеживания группы игроков с дебаффом [PescorusMiasma](https://wago.io/PescorusMiasma).
+- Будьте осторожны при выносе [Нестабильного выброса](https://ru.wowhead.com/spell=334266), не заденьте других игроков.
 - Используйте {{ site.data.spells.as }} при наложении механик, например {{ site.data.nathria.gluttonous_miasma }}, {{ site.data.nathria.expunge }}, и {{ site.data.nathria.desolate }}.
-- {{ site.data.spells.spirit_wolf }} может использоваться для снижения урона от {{ site.data.nathria.consume }}, когда вы вне радиуса атаки босса, а увеличение скорости бега поможет правильно разместить {{ site.data.nathria.expunge }}.
-
-**Лечение:**
-- Убедитесь, что у вас полное здоровье перед применением боссом {{ site.data.nathria.expunge }}. Вы также можете отхиливать ваших союзников перед этим кастом.
-
-**Вспомогательные способности:**
-- Используйте {{ site.data.spells.wrt }} для помощи союзникам с {{ site.data.nathria.volatile_ejection }} и при убегании от {{ site.data.nathria.consume }}.
-
-**Заметки:**
-- Помните, что когда вы находитесь под эффектом {{ site.data.nathria.gluttonous_miasma }}, {{ site.data.spells.eshield }} и {{ site.data.spells.ng }} бесполезны.
+- Используйте {{ site.data.spells.wrt }} перед кастом [Поглощения](https://ru.wowhead.com/spell=334522/). Движение в сейв спот, как и установку тотема, следует начать сразу после применения боссом [Нестабильного выброса](https://ru.wowhead.com/spell=334266) перед набором **100** энергии боссом.
 
 ## Леди Инерва Дарквейн
 
@@ -224,11 +204,11 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.ecs }}
+* **25**: {{ site.data.spells.eb}}
 * **30**: {{ site.data.spells.spirit_wolf }} или {{ site.data.spells.eshield }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.ng }}
-* **45**: {{ site.data.spells.primal_elem }}
+* **45**: {{ site.data.spells.primal_elem }} или {{ site.data.spells.if }}
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
@@ -255,11 +235,11 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 ## Совет Крови
 
-**Тип боя:** Одна цель / Клив с приоритетной целью 
+**Тип боя:** Клив с приоритетной целью 
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.ecs }} или {{ site.data.spells.eb }}
+* **25**: {{ site.data.spells.eb }}
 * **30**: {{ site.data.spells.spirit_wolf }} или {{ site.data.spells.eshield }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.ng }} или {{ site.data.spells.wrt }}
@@ -293,7 +273,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.ecs }}
+* **25**: {{ site.data.spells.eb }}
 * **30**: {{ site.data.spells.spirit_wolf }} или {{ site.data.spells.eshield }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.ng }} или {{ site.data.spells.wrt }}
@@ -329,7 +309,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.afs }} или {{ site.data.spells.ecs }}
+* **25**: {{ site.data.spells.afs }} или {{ site.data.spells.eb }}
 * **30**: {{ site.data.spells.spirit_wolf }} или {{ site.data.spells.eshield }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.ng }} или {{ site.data.spells.wrt }}
@@ -364,7 +344,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.ecs }} или {{ site.data.spells.eb }}
+* **25**: {{ site.data.spells.eb }}
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.wrt }}
@@ -374,7 +354,6 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 **Легендарные предметы:**
 - {{ site.data.legend.fire }}
 - {{ site.data.legend.lava }}
-- {{ site.data.legend.eogs }}
 
 **Нанесение урона:**
 
