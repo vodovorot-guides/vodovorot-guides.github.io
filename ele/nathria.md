@@ -188,7 +188,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 - Крайне полезная WA для отслеживания группы игроков с дебаффом [PescorusMiasma](https://wago.io/PescorusMiasma).
 - Будьте осторожны при выносе [Нестабильного выброса](https://ru.wowhead.com/spell=334266), не заденьте других игроков.
 - Используйте {{ site.data.spells.as }} при наложении механик, например {{ site.data.nathria.gluttonous_miasma }}, {{ site.data.nathria.expunge }}, и {{ site.data.nathria.desolate }}.
-- Используйте {{ site.data.spells.wrt }} перед кастом [Поглощения](https://ru.wowhead.com/spell=334522/). Движение в сейв спот, как и установку тотема, следует начать сразу после применения боссом [Нестабильного выброса](https://ru.wowhead.com/spell=334266) перед набором **100** энергии боссом.
+- Используйте {{ site.data.spells.wrt }} перед кастом [Поглощения](https://ru.wowhead.com/spell=334522/). Движение в сейв спот, как и установку тотема, следует начать сразу после применения [Нестабильного выброса](https://ru.wowhead.com/spell=334266), когда энергия босса подходит к **100**.
 
 ## Леди Инерва Дарквейн
 
