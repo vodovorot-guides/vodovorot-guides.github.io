@@ -31,8 +31,8 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.ecs }} или {{ site.data.spells.eb }}
-* **30**: {{ site.data.spells.spirit_wolf }} или {{ site.data.spells.eshield }}
+* **25**: {{ site.data.spells.eb }}
+* **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.wrt }}
 * **45**: {{ site.data.spells.if }} или {{ site.data.spells.primal_elem }}
