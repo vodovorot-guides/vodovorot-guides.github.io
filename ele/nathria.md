@@ -223,7 +223,6 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Заметки:**
 - Так как у нас есть интерапт с самым коротким КД в игре – {{ site.data.spells.ws }}, два шамана и танк могут полностью перекрыть ротацию интераптов на аддах {{ site.data.nathria.conjured_manifestation }}.
-- При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь, что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
 
 ## Совет Крови
 
@@ -324,9 +323,6 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 **Вспомогательные способности:**
 - Используйте {{ site.data.spells.wrt }} для помощи союзникам во время {{ site.data.nathria.stonegale_effigy }} или {{ site.data.nathria.shattering_blast }}.
-
-**Заметки:**
-- При использовании {{ site.data.spells.primal_elem }} для баффа {{ site.data.spells.harden_skin }}, убедитесь, что вы не помешаете вашим танкам, так как {{ site.data.spells.igor }} будет их переагривать.
 
 ## Сир Денатрий (Героический)
 
