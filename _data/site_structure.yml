@@ -12,7 +12,7 @@ categories:
         - title: Таланты и билды
           url: /ele/talents.html
           disabled: true
-        - title: Обзор ковенантов
+        - title: Ковенанты и медиумы
           url: /ele/covenants.html
         - title: Проводники
           url: /ele/conduits.html
@@ -41,7 +41,7 @@ categories:
         - title: Таланты и билды
           url: /enh/talents.html
           disabled: true
-        - title: Обзор ковенантов
+        - title: Ковенанты и медиумы
           url: /enh/covenants.html
         - title: Проводники
           url: /enh/conduits.html
@@ -66,7 +66,7 @@ categories:
           url: /resto/rotation.html
         - title: Таланты и билды
           url: /resto/talents.html
-        - title: Обзор ковенантов
+        - title: Ковенанты и медиумы
           url: /resto/covenants.html
         - title: Проводники
           url: /resto/conduits.html
