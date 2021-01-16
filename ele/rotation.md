@@ -17,7 +17,7 @@ custom-javascript-list:
 2. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
 3. {{ site.data.spells.fe }}
-4. {{ site.data.covenants.pw }}
+4. {{ site.data.covenants.pw }} (или {{ site.data.spells.fs }}, если вы не <span style="color:#40bf40;font-size:1em;">Некролорд</span>)
 5. {{ site.data.spells.lvb }}
 6. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
 7. {{ site.data.spells.lvb }}
@@ -25,6 +25,22 @@ custom-javascript-list:
 9. {{ site.data.spells.es }}
 10. {{ site.data.spells.if }}
 11. Продолжаем обычную ротацию.
+
+**Опенер в билде через {{ site.data.spells.eb }} и {{ site.data.spells.if }} при использовании легендарки {{ site.data.legendaries.lava }}:**
+
+1. {{ site.data.spells.sk }} за **5** секунд до пула.
+2. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+3. {{ site.data.spells.fe }}
+4. {{ site.data.covenants.pw }} (или {{ site.data.spells.fs }}, если вы не <span style="color:#40bf40;font-size:1em;">Некролорд</span>)
+5. {{ site.data.spells.lvb }}
+6. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
+7. {{ site.data.spells.lvb }}
+8. {{ site.data.spells.es }}
+9. {{ site.data.spells.lvb }}
+10. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
+11. {{ site.data.spells.if }}
+12. Продолжаем обычную ротацию.
 
 > Призывайте до пула {{ site.data.spells.igor }} (перед {{ site.data.spells.sk }}), но только если вы не используете талант {{ site.data.spells.primal_elem }}. Помните, что {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
 
