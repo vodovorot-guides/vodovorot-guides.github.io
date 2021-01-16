@@ -26,7 +26,7 @@ custom-javascript-list:
 10. {{ site.data.spells.if }}
 11. Продолжаем обычную ротацию.
 
-**Опенер в билде через {{ site.data.spells.eb }} и {{ site.data.spells.if }} при использовании легендарки {{ site.data.legendaries.lava }}:**
+**Опенер в билде через {{ site.data.spells.eb }} и {{ site.data.spells.if }} при использовании легендарки {{ site.data.legend.lava }}:**
 
 1. {{ site.data.spells.sk }} за **5** секунд до пула.
 2. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
