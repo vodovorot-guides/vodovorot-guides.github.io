@@ -5,39 +5,39 @@ last_update: 2020-12-17
 wow: 9.0.2
 author: Amani, Haelrail
 ---
-[По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/restoration) можно найти список всех WA для Рестора в Shadowlands.
+[По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/restoration){:target="_blank"} можно найти список всех WA для Рестора в Shadowlands.
 
 # Важные заклинания для отслеживания
 
-[Талант Прилив:](https://wago.io/rk7idBBoX)
+[Талант Прилив:](https://wago.io/rk7idBBoX){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://i.imgur.com/lXn3NWJ.png" width=350x> 
 </p>
 
-[Талант Тотем разразившегося ливня:](https://wago.io/lqLj_pm5g)
+[Талант Тотем разразившегося ливня:](https://wago.io/lqLj_pm5g){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://i.imgur.com/k5DWJ1H.png" width=350x> 
 </p>
 
-[Талант Пульсация:](https://wago.io/HJ6r_zMBz)
+[Талант Пульсация:](https://wago.io/HJ6r_zMBz){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/HJ6r_zMBz/5a64d09b0d3afb30f0b83730.gif" width=350x> 
 </p>
 
-[Проводник Кружащие потоки:](https://wago.io/cRt572g1H)
+[Проводник Кружащие потоки:](https://wago.io/cRt572g1H){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/cRt572g1H/5f4c4d8786f4b4306429dda4.png"> 
 </p>
 
-[Легендарка Изначальное сердце волн:](https://wago.io/jU2A7FqYt)
+[Легендарка Изначальное сердце волн:](https://wago.io/jU2A7FqYt){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
@@ -47,42 +47,42 @@ author: Amani, Haelrail
 
 # Различные сборки WeakAuras
 
-[Сборка от Omeja:](https://wago.io/jUWUuuBOT)
+[Сборка от Omeja:](https://wago.io/jUWUuuBOT){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/jUWUuuBOT/5fb3e4713cfb6437e9dbbe81.png" width=350x> 
 </p>
 
-[Сборка от Luxthos (3 группы):](https://wago.io/Hkc9ktj4X)
+[Сборка от Luxthos (3 группы):](https://wago.io/Hkc9ktj4X){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/Hkc9ktj4X/5f83ecaa3114431b32b29967.gif" width=350x> 
 </p>
 
-[Сборка от Growl-Reich:](https://wago.io/_Rf9PV-kv)
+[Сборка от Growl-Reich:](https://wago.io/_Rf9PV-kv){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/668009359346761748/779431658176643072/unknown.png" width=350x> 
 </p>
 
-[Сборка от Afenar:](https://wago.io/Rshaman_AfenarUI)
+[Сборка от Afenar:](https://wago.io/Rshaman_AfenarUI){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/Bkq2WSszM/5ce8d59538f58d0c0e4ac12f.gif" width=350x> 
 </p>
 
-[Сборка от Ripli:](https://wago.io/YXFKJhgEP)
+[Сборка от Ripli:](https://wago.io/YXFKJhgEP){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/YXFKJhgEP/5f85c532f0043c08b969be19.png" width=350x> 
 </p>
 
-[Сборка от Publik](https://wago.io/rJKNS-LZ7)
+[Сборка от Publik](https://wago.io/rJKNS-LZ7){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
