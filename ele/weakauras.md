@@ -5,37 +5,37 @@ last_update: 2020-11-22
 wow: 9.0.2
 author: Amani, Haelrail
 ---
-[По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/elemental) можно найти список всех WA для Элема в Shadowlands.
+[По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/elemental){:target="_blank"} можно найти список всех WA для Элема в Shadowlands.
 
-[Сборка от Amani:](https://wago.io/KbqSzg3ps)
+[Сборка от Amani:](https://wago.io/KbqSzg3ps){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/KbqSzg3ps/5f9ec054093f490aeef17b9b.gif" width=350x> 
 </p>
 
-[Сборка от Afenar:](https://wago.io/Afenar_Shaman)
+[Сборка от Afenar:](https://wago.io/Afenar_Shaman){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/rJhu7HoMM/5de6dc8d47210c03e3bf7438.gif" width=350x> 
 </p>
 
-[Сборка от Puer:](https://wago.io/oYKpx6zVN)
+[Сборка от Puer:](https://wago.io/oYKpx6zVN){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/oYKpx6zVN/5f736991f0043c08b974051b.gif" width=350x> 
 </p>
 
-[Сборка от Luxthos (3 группы):](https://wago.io/Hkc9ktj4X)
+[Сборка от Luxthos (3 группы):](https://wago.io/Hkc9ktj4X){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/Hkc9ktj4X/5f83ecabb120d76a56890234.gif" width=350x> 
 </p>
 
-[Сборка от Publik:](https://wago.io/rkjS7FNW7)
+[Сборка от Publik:](https://wago.io/rkjS7FNW7){:target="_blank"}
 {: style="text-align: center;"}
 
 <p align="center">
