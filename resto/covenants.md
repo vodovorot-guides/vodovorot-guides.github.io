@@ -65,7 +65,7 @@ author: Amani
 
 * Отхил от дублированных {{ site.data.spells.hw }} **увеличивается** от таланта {{ site.data.spells.ul }}. То есть мы используем {{ site.data.spells.ul }} на первоначальную {{ site.data.spells.hw }} и все дублированные {{ site.data.spells.hw }} будут на **35%** сильнее.
 
-* Однако, есть возможность усилить все дублированные {{ site.data.spells.hw }} с помощью таланта {{ site.data.spells.undulation }}. Для этого надо сделать так, чтобы {{ site.data.spells.hw }} после {{ site.data.covenants.pw }} была **второй** по счету, тогда все дублированные {{ site.data.spells.hw }} станут как-бы **третьими** и получат увеличение отхила на **50%**. WeakAura для отслеживания {{ site.data.spells.undulation }} можно найти [по этой ссылке](https://wago.io/HJ6r_zMBz){:target="_blank"}.
+* Однако, есть возможность усилить все дублированные {{ site.data.spells.hw }} с помощью таланта {{ site.data.spells.undulation }}. Для этого надо сделать так, чтобы {{ site.data.spells.hw }} после {{ site.data.covenants.pw }} была **второй** по счету, тогда все дублированные {{ site.data.spells.hw }} станут как-бы **третьими** и получат увеличение отхила на **50%**. WeakAura для отслеживания {{ site.data.spells.undulation }} можно найти [по этой ссылке](https://wago.io/HJ6r_zMBz).
 
 * Тоже самое касается способности {{ site.data.spells.eshield }} – оно увеличит исцеление на **20%** только по одной цели, а не на все дублированные.
 
@@ -103,7 +103,7 @@ author: Amani
 
 **<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>**
 
-WA для напоминания поглощения тел для баффа [Нестабильный растворитель](https://ru.wowhead.com/spell=323074) – [по этой ссылке](https://wago.io/B7QzVZ7BI){:target="_blank"}.
+WA для напоминания поглощения тел для баффа [Нестабильный растворитель](https://ru.wowhead.com/spell=323074) – [по этой ссылке](https://wago.io/B7QzVZ7BI).
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/ApZmEgUpowQVKacEIhUoPQQlKDYE"></a>
 
