@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2020-12-17
+last_update: 2021-01-17
 wow: 9.0.2
 toc: true
 author: Amani, Gistwiki
@@ -69,11 +69,7 @@ custom-javascript-list:
 18. {{ site.data.covenants.ch }}
 19. {{ site.data.spells.lb }}
 
-<details markdown=1><summary><i>Основы базовой ротации для новичков</i></summary>
-
-<p></p>
-
-{% include ele_talents.html active="2311122" %}
+# Основы базовой ротации для новичков
 
 1. Поддерживайте на цели {{ site.data.spells.fs }} и обновляйте, когда до спадения остается менее **5** секунд.
 2. Используйте для сброса энергии Водоворота {{ site.data.spells.es }}.
@@ -82,34 +78,20 @@ custom-javascript-list:
 
 Все бурсты и взятые таланты следует использовать по кулдауну.
 
-</details>
-
-<p></p>
-
-
 # Бой на кливе против 2-3 целей
 
 Продолжаем использовать ротацию для **боя против одной цели**, со следующими изменениями:
 
+* Используйте {{ site.data.spells.lvb }} по кулдауну даже без прока {{ site.data.spells.lava_surge }}.
 * Используйте {{ site.data.spells.cl }} вместо {{ site.data.spells.lb }} в бою против **3 и более** целей.
-* Если в талантах взят {{ site.data.spells.ecs }}, используйте его на {{ site.data.spells.quake }}.
-* Поддерживайте {{ site.data.spells.fs }} на **3** целях.
+* Поддерживайте {{ site.data.spells.fs }} на **всех** целях.
 * Используйте {{ site.data.spells.quake }} вместо {{ site.data.spells.es }} для траты энергии Водоворота в бою против **2 и более** целей.
-
-* **Важно!** В бою против **2-3** целей кастуйте {{ site.data.spells.lvb }} по кулдауну даже без прока {{ site.data.spells.lava_surge }}
 
 # Бой на АоЕ против 4+ целей
 
-
-1. {{ site.data.spells.fe }}, {{ site.data.spells.storm }} и {{ site.data.spells.igor }} по кулдауну.
-  * Если у вас взят талант {{ site.data.spells.primal_elem }}, вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
-2. Поддерживайте {{ site.data.spells.fs }} на **1** цели для проков {{ site.data.spells.lava_surge }}, чтобы усиливать {{ site.data.spells.quake }} талантом {{ site.data.spells.mote }}.
-  * При использовании легендарки {{ site.data.legend.eogs }} стоит поддерживать {{ site.data.spells.fs }} на большем количестве целей, чтобы каждое усиленное {{ site.data.spells.quake }} было под баффом {{ site.data.spells.mote }}. Кастуйте {{ site.data.spells.lvb }} даже без прока {{ site.data.spells.lava_surge }} перед усиленным [Землетрясением](https://ru.wowhead.com/spell=61882)/
+1. {{ site.data.spells.fe }} и {{ site.data.spells.storm }} по кулдауну.
+2. Поддерживайте {{ site.data.spells.fs }} на самых жирных врагах для проков {{ site.data.spells.lava_surge }}.
 3. {{ site.data.spells.sk }} по кулдауну.
-4. {{ site.data.covenants.ch }} по кулдауну.
-5. {{ site.data.spells.ecs }} по кулдауну, если следующее за ним заклинание – {{ site.data.spells.quake }}.
-6. {{ site.data.covenants.vt }} / {{ site.data.covenants.ft }} по кулдауну.
-7. {{ site.data.spells.lmt }} по кулдауну.
 8. Если взяты таланты {{ site.data.spells.storm }} и {{ site.data.spells.primal_elem }}, используйте {{ site.data.spells.eye_storm }}. Убедитесь, что {{ site.data.spells.storm }} использовал на себя {{ site.data.spells.call_the_thunder }}!
 9. {{ site.data.spells.quake }} если у вас **60** и более ед. энергии Водоворота.
 10. {{ site.data.spells.cl }}.
@@ -118,11 +100,11 @@ custom-javascript-list:
 
 # Влияние легендарных предметов на ротацию
 
-* {{ site.data.legend.lava }} – кастуем усиленный {{ site.data.spells.lvb }} после каждого применения способности {{ site.data.spells.es }}. Бафф от этой легендарки работает на способность <span style="color:#40bf40;font-size:1em;">Некролордов</span> {{ site.data.covenants.pw }}, усиливая все выпущенные {{ site.data.spells.lvb }} на **20%**. На две цели заменяем {{ site.data.spells.quake }} на {{ site.data.spells.es }}.
+* {{ site.data.legend.lava }} – кастуем усиленный {{ site.data.spells.lvb }} после каждого применения способности {{ site.data.spells.es }}. Бафф от этой легендарки работает на способность <span style="color:#40bf40;font-size:1em;">Некролордов</span> {{ site.data.covenants.pw }}, усиливая все выпущенные {{ site.data.spells.lvb }} на **20%**. На две цели используем не {{ site.data.spells.quake }}, а {{ site.data.spells.es }}.
 
 * {{ site.data.legend.eogs }} – чередуем {{ site.data.spells.es }} и {{ site.data.spells.quake }} и в бою против **одной цели**, и на **АоЕ**. Всегда старайтесь бафнуть усиленное {{ site.data.spells.quake }} с помощью таланта {{ site.data.spells.mote }}.
 
-* {{ site.data.legend.fire }} – развешиваем {{ site.data.spells.fs }} на все доступные цели, даже на **АоЕ**
+* {{ site.data.legend.fire }} – развешиваем {{ site.data.spells.fs }} на все доступные цели.
 
 # Приоритет для баффа Властелин стихий
 
