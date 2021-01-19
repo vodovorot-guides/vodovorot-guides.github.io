@@ -188,6 +188,7 @@ author: Amani
 
 * Призывает в Утробе [Коридорный ужас](https://ru.wowhead.com/item=184166), а во всех остальных локациях – избранного маунта:
 ~~~
+/cast [nomounted,nocombat] Хождение по воде
 /run local ZoneName = GetRealZoneText(); if ZoneName == "Утроба"then C_MountJournal.SummonByID(1442) else C_MountJournal.SummonByID(0) end
 ~~~
 
