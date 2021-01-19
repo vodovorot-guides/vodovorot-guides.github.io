@@ -75,7 +75,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.ng }}
-* **45**: {{ site.data.spells.primal_elem }}
+* **45**: {{ site.data.spells.primal_elem }} или {{ site.data.spells.if }}
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
