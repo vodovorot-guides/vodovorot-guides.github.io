@@ -246,7 +246,7 @@ author: Amani
 * Каждую усиленную [Молнию](https://ru.wowhead.com/spell=188196) желательно бафать [Властелином стихий](https://ru.wowhead.com/spell=16166).
 * На **1-2** цели следует использовать [Молнию](https://ru.wowhead.com/spell=188196), а на **3+** уже [Цепную молнию](https://ru.wowhead.com/spell=188443), ка и во время обычной [ротации](https://stormkeeper.ru/ele/rotation.html).
 * Вы можете придерживать кулдаун [Хранителя бурь](https://ru.wowhead.com/spell=191634) под важные моменты боя, например сломанная колонная на [Грязешмяке](https://stormkeeper.ru/ele/nathria.html#%D0%B3%D1%80%D1%8F%D0%B7%D0%B5%D1%88%D0%BC%D1%8F%D0%BA] или на копии Баргаста в бою против [Ловчего Альтимора](https://stormkeeper.ru/ele/nathria.html#%D0%BB%D0%BE%D0%B2%D1%87%D0%B8%D0%B9-%D0%B0%D0%BB%D1%8C%D1%82%D0%B8%D0%BC%D0%BE%D1%80-%D1%8D%D0%BF%D0%BE%D1%85%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC).
-* Количество водоворота за каждую цель:
+* Количество энергии Водоворота за каждую цель:
 1. 11
 2. 20 
 3. 36
