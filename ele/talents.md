@@ -1,5 +1,5 @@
 ---
-title: Таланты Шамана Стиии
+title: Таланты Шамана Стихии
 layout: page
 last_update: 2021-01-20
 wow: 9.0.2
