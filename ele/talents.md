@@ -2,7 +2,7 @@
 title: Таланты Шамана Стиии
 layout: page
 last_update: 2021-01-20
-wow: 9.0.2.
+wow: 9.0.2
 toc: true
 author: Amani
 ---
