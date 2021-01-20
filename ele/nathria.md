@@ -81,6 +81,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 **Легендарные предметы:**
 - {{ site.data.legend.eogs }}
 - {{ site.data.legend.fire }}
+- {{ site.data.legend.lava }}
 
 **Нанесение урона:**
 - Поддерживайте {{ site.data.spells.fs }} на боссе и на активном питомце. Не развешивайте {{ site.data.spells.fs }} на копии аддов на второй фазе, это может привести к вайпу.
@@ -192,12 +193,12 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 ## Леди Инерва Дарквейн
 
-**Тип боя:** Одна цель / AoE / Клив с приоритетной целью
+**Тип боя:** Одна цель / Клив
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
 * **25**: {{ site.data.spells.eb}}
-* **30**: {{ site.data.spells.spirit_wolf }} или {{ site.data.spells.eshield }}
+* **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.ng }}
 * **45**: {{ site.data.spells.primal_elem }} или {{ site.data.spells.if }}
