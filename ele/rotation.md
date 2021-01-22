@@ -94,7 +94,7 @@ custom-javascript-list:
 
 Продолжаем использовать ротацию для **боя против одной цели**, со следующими изменениями:
 
-* Кастуйте {{ site.data.spells.lvb }} по кулдауну, даже без прока {{ site.data.spells.lava_surge }}.
+* Кастуйте {{ site.data.spells.lvb }} по кулдауну, даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
 * Поддерживайте {{ site.data.spells.fs }} на обоих целях.
 * Используйте {{ site.data.spells.quake }} вместо {{ site.data.spells.es }} для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 * Кастуйте [Молнию](https://ru.wowhead.com/spell=188196) как филлер, когда остальные способности не доступны. 
@@ -105,7 +105,7 @@ custom-javascript-list:
 
 Продолжаем использовать ротацию для **боя против одной цели**, со следующими изменениями:
 
-* Кастуйте {{ site.data.spells.lvb }} по кулдауну, даже без прока {{ site.data.spells.lava_surge }}.
+* Кастуйте {{ site.data.spells.lvb }} по кулдауну, даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
 * Поддерживайте {{ site.data.spells.fs }} на трех целях.
 * Используйте {{ site.data.spells.quake }} вместо {{ site.data.spells.es }} для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 * Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) как филлер, когда остальные способности не доступны.
