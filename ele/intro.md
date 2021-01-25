@@ -82,7 +82,7 @@ toc: true
 
 <p></p>
 
-# Расходные предметы
+# Расходуемые предметы
 
 * {{ site.data.loot.Celestial_Guidance }} – универсальный чант, лучший вариант на АоЕ.
 * {{ site.data.loot.Sinful_Revelation }} – чуть лучше в бою против одной цели.
