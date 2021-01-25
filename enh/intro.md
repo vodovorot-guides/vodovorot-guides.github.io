@@ -76,7 +76,7 @@ toc: true
 
 <p></p>
 
-# Расходные предметы
+# Расходуемые предметы
 
 * {{ site.data.loot.Enchant_Weapon_Lightless_Force }}
 * {{ site.data.loot.Celestial_Guidance }}
