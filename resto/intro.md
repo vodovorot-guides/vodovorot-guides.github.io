@@ -99,7 +99,7 @@ toc: true
 
 <p></p>
 
-# Расходные предметы
+# Расходуемые предметы
 
 * {{ site.data.loot.Eternal_Grace }} – лучший вариант для отхила.
 * {{ site.data.loot.Celestial_Guidance }} – подходит и для лечения, и для нанесения урона.
