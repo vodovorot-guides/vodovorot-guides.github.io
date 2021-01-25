@@ -21,6 +21,13 @@ author: Amani
 /cast [@focus,exists,nodead,harm] [@boss1,exists,nodead,harm] Огненный шок
 ~~~
 
+* Сбивание каста по фокусу. Можно также использовать предыдущий макрос, заменив {{ site.data.spells.fs }} на {{ site.data.spells.ws }}:
+~~~
+#showtooltip 
+/cast [@focus] Пронизывающий ветер
+~~~
+
+
 * Этот макрос позволяет кинуть {{ site.data.spells.fs }} на соседнюю цель, не меняя вашей текущей. Выбирается ближайшая к вам цель, в сторону которой направлена камера:
 ~~~
 #showtooltip  
