@@ -39,7 +39,6 @@ categories:
           url: /enh/rotation.html
         - title: Таланты и билды
           url: /enh/talents.html
-          disabled: true
         - title: Ковенанты и медиумы
           url: /enh/covenants.html
         - title: Проводники
