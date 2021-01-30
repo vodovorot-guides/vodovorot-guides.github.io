@@ -1,2 +1,110 @@
-# Resto
+ele:
+  - row: 15
+    talents:
+      - id: 170374
+      - id: 333919
+      - id: 342243
+  - row: 25
+    talents:
+      - id: 273221
+      - id: 320125
+      - id: 117014
+  - row: 30
+    talents:
+      - id: 260878
+      - id: 974
+      - id: 265046
+  - row: 35
+    talents:
+      - id: 16166
+      - id: 192249
+      - id: 192222
+  - row: 40
+    talents:
+      - id: 30884
+      - id: 108281
+      - id: 192077
+  - row: 45
+    talents:
+      - id: 262303
+      - id: 117013
+      - id: 210714
+  - row: 50
+    talents:
+      - id: 260895
+      - id: 191634
+      - id: 114050
 
+enh:
+  - row: 15
+    talents:
+      - id: 334046
+      - id: 262647
+      - id: 117014
+  - row: 25
+    talents:
+      - id: 344357
+      - id: 201900
+      - id: 342240
+  - row: 30
+    talents:
+      - id: 260878
+      - id: 974
+      - id: 265046
+  - row: 35
+    talents:
+      - id: 210853
+      - id: 334195
+      - id: 333974
+  - row: 40
+    talents:
+      - id: 30884
+      - id: 196884
+      - id: 192077
+  - row: 45
+    talents:
+      - id: 192246
+      - id: 320137
+      - id: 197214
+  - row: 50
+    talents:
+      - id: 262624
+      - id: 188089
+      - id: 114051
+
+resto:
+  - row: 15
+    talents:
+      - id: 200072
+      - id: 200071
+      - id: 73685
+  - row: 25
+    talents:
+      - id: 108283
+      - id: 200076
+      - id: 320746
+  - row: 30
+    talents:
+      - id: 260878
+      - id: 51485
+      - id: 265046
+  - row: 35
+    talents:
+      - id: 207401
+      - id: 198838
+      - id: 207399
+  - row: 40
+    talents:
+      - id: 30884
+      - id: 192088
+      - id: 192077
+  - row: 45
+    talents:
+      - id: 280614
+      - id: 207778
+      - id: 157153
+  - row: 50
+    talents:
+      - id: 157154
+      - id: 197995
+      - id: 114052

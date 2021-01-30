@@ -11,13 +11,13 @@ author: Amani
 
 Билд талантов, предназначенный для боя против одной цели. Некоторые таланты могут варьироваться в зависимости от босса, уточняйте информацию по каждому бою на [WarcraftLogs](https://www.warcraftlogs.com/).
 
-{% include ele_talents.html active="2311332" %}
+{% include talents.html data=site.data.talents.ele active="2311332" %}
 
 * **45 уровень:** Если вам сложно не терять стаки таланта {{ site.data.spells.if }} и уследить за всеми КД, используйте талант {{ site.data.spells.primal_elem }}, потери ДПС будут не критичны.
 
 # Таланты для Мифик+
 
-{% include ele_talents.html active="2111322" %}
+{% include talents.html data=site.data.talents.ele active="2111322" %}
 
 * **25 уровень:** {{ site.data.spells.afs }} является стандартным выбором, так как крайне полезен на АоЕ, особенно в сочетании с легендаркой {{ site.data.legend.eogs }}. {{ site.data.spells.eb }} можно брать в подземелья, где большинство боев идут против **1-3** целей, например Театр Боли.
 
@@ -26,6 +26,8 @@ author: Amani
 # Разбор талантов
 
 ## Первый тир, 15 уровень
+
+{% include talents.html data=site.data.talents.ele active="010" row=1 %}
 
 <a href="https://ru.wowhead.com/spell=170374" target="blank" data-wh-icon-size="medium" >**Возмущение земли**</a> – пассивный талант, который наносит небольшой урон одной цели.
 

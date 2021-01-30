@@ -1,0 +1,30 @@
+{% assign active_array = include.active | split: '' %}
+<table class="table table-bordered table-light talents-table">
+  <tbody>
+{% if include.row %}
+{% assign rowInd = include.row | minus: 1 %}
+{% assign row = include.data[rowInd] %}
+    <tr>
+      <th scope="row">{{ row.row }}</th>
+    {% for talent in row.talents %}
+      <td{% if active_array[forloop.index0] == "1" %} class="talent-active"{% endif %}>
+        <a href="https://ru.wowhead.com/spell={{ talent.id }}" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true"></a>
+      </td>
+    {% endfor %}
+    </tr>
+{% else %}
+{% for row in include.data %}
+    <tr>
+      <th scope="row">{{ row.row }}</th>
+    {% assign rowInd = forloop.index0 %}
+    {% for talent in row.talents %}
+      {% assign talentInd = forloop.index | downcase %}
+      <td{% if active_array[rowInd] == talentInd %} class="talent-active"{% endif %}>
+        <a href="https://ru.wowhead.com/spell={{ talent.id }}" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true"></a>
+      </td>
+    {% endfor %}
+    </tr>
+{% endfor %}
+{% endif %}
+  </tbody>
+</table>

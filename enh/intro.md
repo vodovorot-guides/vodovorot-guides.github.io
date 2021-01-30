@@ -44,7 +44,7 @@ toc: true
 
 # Таланты
 
-{% include enh_talents.html active="2111133" %}
+{% include talents.html data=site.data.talents.enh active="2111133" %}
 
 * **30 и 40 уровни:** ситуативные таланты, выбирайте на ваше усмотрение.
 * **35 уровень:** {{ site.data.spells.ea }} является лучшим выбором для боя против **одной цели**, а {{ site.data.spells.hailstorm }} – для **АоЕ** и **Мифик+**.

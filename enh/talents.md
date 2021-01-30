@@ -11,7 +11,7 @@ author: Amani
 
 Данный билд талантов рассчитан на использование легендарки {{ site.data.legend.doom }}.
 
-{% include enh_talents.html active="2111133" %}
+{% include talents.html data=site.data.talents.enh active="2111133" %}
 
 * **30 уровень:** Тир ситуативных талантов, выбирайте по вашему усмотрению.
 

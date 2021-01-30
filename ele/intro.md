@@ -49,7 +49,7 @@ toc: true
 
 # Таланты
 
-{% include ele_talents.html active="2311322" %}
+{% include talents.html data=site.data.talents.ele active="2311322" %}
 
 * **25 уровень:** {{ site.data.spells.eb }} используем в бою против одной цели. В Мифик+ и на АоЕ берем {{ site.data.spells.afs }} (кроме подземелья Театр Боли).
 * **35 уровень:** {{ site.data.spells.storm }} может найти применение на АоЕ и в **Мифик+**, в зависимости от подземелья и уровня ключа.

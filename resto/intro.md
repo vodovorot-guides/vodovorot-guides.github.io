@@ -58,7 +58,7 @@ toc: true
 
 # Таланты
 
-{% include resto_talents.html active="3112132" %}
+{% include talents.html data=site.data.talents.resto active="3112132" %}
 
 ## Таланты для Рейда
 
