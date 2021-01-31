@@ -22,6 +22,9 @@ author: Amani
 # Разбор талантов
 
 ## Первый тир, 15 уровень
+
+{% include talents.html data=site.data.talents.enh active="010" row=1 %}
+
  <a href="https://ru.wowhead.com/spell=334046" target="blank" data-wh-icon-size="medium" >**Хлещущее пламя**</a> – пассивный талант, {{ site.data.spells.ll }} увеличивает урон от {{ site.data.spells.fs }} на одной цели на **100%** на **20** секунд.
 
 * **На данный момент этот талант не используется.**
@@ -44,8 +47,9 @@ author: Amani
 * Имеет время произнесения **2** секунды, которое сокращается до **0** с помощью стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 * Подойдет только для боя против одной цели.
 
-
 ## Второй тир, 25 уровень
+
+{% include talents.html data=site.data.talents.enh active="100" row=2 %}
 
  <a href="https://ru.wowhead.com/spell=344357" target="blank" data-wh-icon-size="medium" >**Грозовой шквал**</a> – пассивный талант, {{ site.data.spells.ss }} с шансом **25%** поразит цель еще раз, нанося **40%** от обычного урона. Этот эффект может срабатывать сам от себя.
 
@@ -65,6 +69,8 @@ author: Amani
 * **На данный момент этот талант не используется.**
 
 ## Третий тир, 30 уровень
+
+{% include talents.html data=site.data.talents.enh active="111" row=3 %}
 
  <a href="https://ru.wowhead.com/spell=260878" target="blank" data-wh-icon-size="medium" >**Дух волка**</a> – пассивный талант, снижает получаемый урон и увеличивает скорость передвижения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645).
 
@@ -87,6 +93,8 @@ author: Amani
 
 ## Четвертый тир, 35 уровень
 
+{% include talents.html data=site.data.talents.enh active="110" row=4 %}
+
  <a href="https://ru.wowhead.com/spell=210853" target="blank" data-wh-icon-size="medium" >**Атака стихий**</a> – пассивный талант, увеличивает урон от [Удара бури](https://ru.wowhead.com/spell=17364) на **15%**, и он дает **1** гарантированный стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 
 * **Лучший выбор для рейда, подойдет также для Мифик+.**
@@ -108,6 +116,8 @@ author: Amani
 
 ## Пятый тир, 40 уровень
 
+{% include talents.html data=site.data.talents.enh active="111" row=5 %}
+
  <a href="https://ru.wowhead.com/spell=30884" target="blank" data-wh-icon-size="medium" >**Страж природы**</a> – пассивный талант, исцеляет вас на **20%**, когда уровень вашего здоровья падает ниже **35%** от максимального запаса.
 
 * **Берется по умолчанию, если не требуется дополнительное утилити от других талантов этого тира.**
@@ -128,6 +138,8 @@ author: Amani
 * Тотем можно разместить по ходу движения группы.
 
 ## Шестой тир, 45 уровень
+
+{% include talents.html data=site.data.talents.enh active="001" row=6 %}
 
  <a href="https://ru.wowhead.com/spell=192246" target="blank" data-wh-icon-size="medium" >**Сокрушающая буря**</a> – пассивный талант, ваша {{ site.data.spells.crush }} оставляет на земле лужу, которая дамажит в течение **6** секунд.
 
@@ -153,6 +165,8 @@ author: Amani
 * Наносит урон «от огненного удара», что представляет собой сочетание урона от огня и физического урона. 
 
 ## Седьмой тир, 50 уровень
+
+{% include talents.html data=site.data.talents.enh active="001" row=7 %}
 
  <a href="https://ru.wowhead.com/spell=262624" target="blank" data-wh-icon-size="medium" >**Духи стихий**</a> – пассивный талант, усиливает наш «бурст» {{ site.data.spells.feral }}, сокращая его кулдаун на **30** секунд и дает один из случайных баффов каждому волку:
 * [Потрескивающее возмущение](https://ru.wowhead.com/spell=224127) – Урон способностей {{ site.data.spells.ss }} и {{ site.data.spells.ww }} наносят на **35%** больше урона.
