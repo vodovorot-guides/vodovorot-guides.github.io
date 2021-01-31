@@ -32,6 +32,8 @@ author: "Amani. Оригинал: Niseko"
 
 ## Первый тир, 15 уровень
 
+{% include talents.html data=site.data.talents.resto active="111" row=1 %}
+
 <a href="https://ru.wowhead.com/spell=200072" target="blank" data-wh-icon-size="medium" >**Поток**</a> – пассивный талант, увеличивает **первоначальный** отхил способности {{ site.data.spells.riptide }} на **20%**.
 
 * **Простой, но слабый талант для рейда.**
@@ -58,6 +60,8 @@ author: "Amani. Оригинал: Niseko"
 **Важно!** Первый тир талантов достаточно слабо влияет на общий ХПС. Талант {{ site.data.spells.torrent }} даёт примерно **2-2.5%** за бой, а {{ site.data.spells.ul }} – **4-5%**. Для сравнения, таланты шестого и седьмого тиров дают **10-15%** от общего ХПС. Используйте [WoWAnalyzer](https://wowanalyzer.com/) для определения эффективности этого тира талантов в своём бою. 
 
 ## Второй тир, 25 уровень
+
+{% include talents.html data=site.data.talents.resto active="100" row=2 %}
 
 <a href="https://ru.wowhead.com/spell=108283" target="blank" data-wh-icon-size="medium" >**Эхо стихий**</a> – пассивный талант, дает второй заряд способностям {{ site.data.spells.riptide }}, {{ site.data.spells.hst }} / {{ site.data.spells.cbt }} и {{ site.data.spells.lvb }}.
 
@@ -86,6 +90,8 @@ author: "Amani. Оригинал: Niseko"
 
 ## Третий тир, 30 уровень
 
+{% include talents.html data=site.data.talents.resto active="111" row=3 %}
+
 <a href="https://ru.wowhead.com/spell=260878" target="blank" data-wh-icon-size="medium" >**Дух волка**</a> – пассивный талант, снижает входящий урон и увеличивающая скорость передвижения на **20%** после **4** секунд использования формы [Призрачного волка](https://ru.wowhead.com/spell=2645).
 
 * Универсальный пассивный выбор для любого контента.
@@ -101,6 +107,8 @@ author: "Amani. Оригинал: Niseko"
 * Хороший выбор для Мифик+, если вашей группе не хватает способностей контроля.
 
 ## Четвертый тир, 35 уровень
+
+{% include talents.html data=site.data.talents.resto active="111" row=4 %}
 
 <a href="https://ru.wowhead.com/spell=207401" target="blank" data-wh-icon-size="medium" >**Энергия Предков**</a> – увеличивает максимальный запас здоровья целей ваших способностей прямого исцеления на **10%**.
 
@@ -134,6 +142,8 @@ author: "Amani. Оригинал: Niseko"
 
 ## Пятый тир, 40 уровень
 
+{% include talents.html data=site.data.talents.resto active="111" row=5 %}
+
 <a href="https://ru.wowhead.com/spell=30884" target="blank" data-wh-icon-size="medium" >**Страж природы**</a> – исцеляет вас на **20%**, когда уровень вашего здоровья падает ниже **35%** от максимального запаса.
 
 * Этот талант может спасти от смерти в том случае, если количество избыточного урона не превысило количество его исцеления.
@@ -152,6 +162,8 @@ author: "Amani. Оригинал: Niseko"
 * Тотем можно разместить по ходу движения группы.
 
 ## Шестой тир, 45 уровень
+
+{% include talents.html data=site.data.talents.resto active="001" row=6 %}
 
 <a href="https://ru.wowhead.com/spell=280614" target="blank" data-wh-icon-size="medium" >**Стремительные волны**</a> – использование заряда {{ site.data.spells.tw22 }} сокращает время применения вашего следующего заклинания на **20%**.
 
@@ -185,6 +197,8 @@ author: "Amani. Оригинал: Niseko"
 * WA для отслеживания этого таланта можно найти [в этом разделе](https://stormkeeper.ru/resto/weakauras.html).
 
 ## Седьмой тир, 50 уровень
+
+{% include talents.html data=site.data.talents.resto active="011" row=7 %}
 
 <a href="https://ru.wowhead.com/spell=157154" target="blank" data-wh-icon-size="medium" >**Прилив**</a> – пассивный эффект, усиливающий **2** применения способности {{ site.data.spells.ch }} на **25** секунд за каждые **20 000** потраченной маны. При этом лечение от {{ site.data.spells.ch }} увеличивается на **10%** и его эффект не ослабевает при каждом прыжке.
 
