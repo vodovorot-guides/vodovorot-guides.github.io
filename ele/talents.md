@@ -50,6 +50,8 @@ author: Amani
 
 ## Второй тир, 25 уровень
 
+{% include talents.html data=site.data.talents.ele active="111" row=2 %}
+
 <a href="https://ru.wowhead.com/spell=273221" target="blank" data-wh-icon-size="medium" >**Повторный толчок**</a> – пассивный талант, дает **25%** шанс вернуть всю затраченную Энергию Водоворота при использовании способностей {{ site.data.spells.es }} и {{ site.data.spells.quake }}.
 
 * **Лучший таланта для Мифик+.**
@@ -82,6 +84,8 @@ author: Amani
 
 ## Третий тир, 30 уровень
 
+{% include talents.html data=site.data.talents.ele active="111" row=3 %}
+
 <a href="https://ru.wowhead.com/spell=260878" target="blank" data-wh-icon-size="medium" >**Дух волка**</a> – пассивный талант, снижает получаемый урон и увеличивает скорость передвижения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645).
 
 * **Полезен в любом типе контента.** 
@@ -102,6 +106,8 @@ author: Amani
 * При попадании [Тотемом конденсации](https://ru.wowhead.com/spell=192058) по **4+** врагам, КД сократится до **40** секунд.
 
 ## Четвертый тир, 35 уровень
+
+{% include talents.html data=site.data.talents.ele active="100" row=4 %}
 
 <a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" >**Властелин стихий**</a> – пассивный талант, увеличивает урон от различных заклинаний на **20%** после применения [Выброса лавы](https://ru.wowhead.com/spell=51505).
 
@@ -145,6 +151,8 @@ author: Amani
 
 ## Пятый тир, 40 уровень
 
+{% include talents.html data=site.data.talents.ele active="111" row=5 %}
+
 <a href="https://ru.wowhead.com/spell=30884" target="blank" data-wh-icon-size="medium" >**Страж природы**</a> – пассивный талант, исцеляет вас на **20%**, когда уровень вашего здоровья падает ниже **35%** от максимального запаса.
 
 * **Берется по умолчанию, если не требуется дополнительное утилити от других талантов этого тира.**
@@ -166,6 +174,8 @@ author: Amani
 * Тотем можно разместить по ходу движения группы.
 
 ## Шестой тир, 45 уровень
+
+{% include talents.html data=site.data.talents.ele active="011" row=6 %}
 
 <a href="https://ru.wowhead.com/spell=262303" target="blank" data-wh-icon-size="medium" >**Прилив мощи**</a> – пассивный талант, усиливает одно из четырех наших заклинаний после применения [Земного шока](https://ru.wowhead.com/spell=8042).
 
@@ -235,6 +245,8 @@ author: Amani
 * Не придерживайте стаки слишком долго, так как **потерять стак баффа [Ледяной ярости](https://ru.wowhead.com/spell=210714) гораздо хуже, чем потерять бафф от [Властелина стихий](https://ru.wowhead.com/spell=16166).**
 
 ## Седьмой тир, 50 уровень
+
+{% include talents.html data=site.data.talents.ele active="010" row=7 %}
 
 <a href="https://ru.wowhead.com/spell=260895" target="blank" data-wh-icon-size="medium" >**Безграничная мощь**</a> – пассивный талант, при каждом проке перегрузки от Искусности {{ site.data.spells.elem_mastery }}, вы получете бафф на **2%** Скорости. При получении эффекта время действия не обновляется.
 
