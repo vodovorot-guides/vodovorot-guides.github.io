@@ -59,7 +59,7 @@ author: Amani
 * Превращает наш {{ site.data.spells.mtt }} в дополнительный бурст c кулдауном в **3** минуты.
 * Сочетается с {{ site.data.spells.asc_resto }} и {{ site.data.spells.cbt }} для еще большего увеличения отхила.
 * В **Рейде** будет полезно в тех боях, где необходимо захиливать определенные жесткие моменты боя, а {{ site.data.spells.asc_resto }} и {{ site.data.spells.htt }} может не хватить.
-* Неплохая легендарка для **Мифик+**, пригодится при отхиле нового аффикса – {{ site.data.spells.prideful }}.
+* Неплохая легендарка для **Мифик+**, пригодится при сезонного аффикса – {{ site.data.spells.prideful }}.
 
 **{{ site.data.legend.jonat }}** – {{ site.data.spells.hw }} и {{ site.data.spells.hs }} увеличивают исцеление следующего {{ site.data.spells.ch }} на **10%**, стакается **5** раз.
 
