@@ -18,7 +18,7 @@ author: "Amani. Оригинал: Niseko"
 
 # Таланты для Мифик+
 
-{% include talents.html data=site.data.talents.resto active="3112133" %}
+{% include talents.html data=site.data.talents.resto active="2112133" %}
 
 Билд для Мифик+ мало чем отличается от рейдового, но есть несколько вариантов для усиления отхила по одной цели:
 
