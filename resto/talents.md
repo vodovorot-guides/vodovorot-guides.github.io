@@ -1,7 +1,7 @@
 ---
 title: Таланты Шамана Исцеления
 layout: page
-last_update: 2021-01-25
+last_update: 2021-02-19
 wow: 9.0.2
 toc: true
 author: "Amani. Оригинал: Niseko"
@@ -48,6 +48,14 @@ author: "Amani. Оригинал: Niseko"
 * Дает очень сильное исцеление в одну цель, особенно при использовании зарядов {{ site.data.spells.tw22 }}.
 
 <a href="https://ru.wowhead.com/spell=73685" target="blank" data-wh-icon-size="medium" >**Высвободить чары жизни**</a> – активная способность, лечит цель и дает бафф на **35%** отхила следующего заклинания прямого исцеления. Время восстановления **15** секунд.
+
+Приоритет заклинания для баффа:
+1. {{ site.data.spells.hw }} под баффом от [Первозданной волны](https://ru.wowhead.com/spell=326059) / {{ site.data.covenants.ch }}
+2. {{ site.data.spells.ch }}
+3. {{ site.data.spells.riptide }}
+4. {{ site.data.spells.hs }} под баффом от [Приливных волн](https://ru.wowhead.com/spell=51564/)
+5. {{ site.data.spells.hw }}
+6. {{ site.data.spells.hs }}
 
 * **Самый эффективный талант этого тира, но сложнее в использовании.**
 
