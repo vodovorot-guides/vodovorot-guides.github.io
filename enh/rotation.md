@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Совершенствования
 layout: page
-last_update: 2020-12-18
+last_update: 2021-02-19
 wow: 9.0.2
 toc: true
 author: Amani, Wordup
