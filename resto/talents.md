@@ -49,7 +49,7 @@ author: "Amani. Оригинал: Niseko"
 
 <a href="https://ru.wowhead.com/spell=73685" target="blank" data-wh-icon-size="medium" >**Высвободить чары жизни**</a> – активная способность, лечит цель и дает бафф на **35%** отхила следующего заклинания прямого исцеления. Время восстановления **15** секунд.
 
-Приоритет заклинания для баффа:
+**Приоритет заклинания для баффа:**
 1. {{ site.data.spells.hw }} под баффом от [Первозданной волны](https://ru.wowhead.com/spell=326059) / {{ site.data.covenants.ch }}
 2. {{ site.data.spells.ch }}
 3. {{ site.data.spells.riptide }}
