@@ -116,7 +116,7 @@ author: Amani, Wordup
 2. {{ site.data.spells.crush }}
 3. {{ site.data.spells.sunder }}
 4. {{ site.data.spells.ss }}
-5. {{ site.data.spells.fs }}, если есть бафф [Бури с градом](https://ru.wowhead.com/spell=334195/)
+5. {{ site.data.spells.frs }}, если есть бафф [Бури с градом](https://ru.wowhead.com/spell=334195/)
 
 Если ничего из списка выше не доступно, продолжайте обычную ротацию.
 
