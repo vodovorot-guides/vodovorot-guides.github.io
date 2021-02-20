@@ -502,3 +502,10 @@ header {
         }
     }
 }
+.bordered {
+    border: 1px solid $text-color;
+    padding: 10px;
+    p {
+        margin: 0px;
+    }
+}
