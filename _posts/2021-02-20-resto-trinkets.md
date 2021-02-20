@@ -11,5 +11,9 @@ author: Amani
 
 {% include button.html name="Аксессуары Шамана Исцеления" link="/resto/trinkets.html" %}  
 
-Спасибо **Omeja**, **Haelrail**, **Mono**, **Langrim** и **Grayscale** за помощь в её составлении. Приятного чтения!
+<p></p>
+
+Спасибо **Omeja**, **Haelrail**, **Mono**, **Langrim** и **Grayscale** за помощь в её составлении.
+
+Приятного чтения!
 
