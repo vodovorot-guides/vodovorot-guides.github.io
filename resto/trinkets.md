@@ -4,7 +4,7 @@ layout: page
 last_update: 2021-02-20
 wow: 9.0.2
 toc: true
-author: "Amani, Omeja, Haelrail, Mono, Langrim"
+author: "Amani, Omeja, Haelrail, Mono, Langrim, Grayscale"
 ---
 
 # Вступление
