@@ -39,7 +39,7 @@ custom-javascript-list:
 
 # Выбор билда
 
-Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарка и ковенант:
+Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант. Ниже представлен билд для боя против **одной цели**. Ротация на **АоЕ** расписана для всех типов боев – на две, три, четыре и пять и более целей. Билд на **АоЕ** отличается от билда против **одной цели** и указан разделе [«Таланты и билды»](https://stormkeeper.ru/ele/talents.html)
 
 {% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
 
@@ -79,7 +79,7 @@ custom-javascript-list:
 21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличиит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
 23. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
-24. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) .
+24. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 25. {{ site.data.spells.es }} если есть **60** или более ед. энергии Водоворота.
   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование [Земного шока](https://ru.wowhead.com/spell=8042), если до окончания кулдауна [Выброса лавы](https://ru.wowhead.com/spell=51505) осталось **1-2** ГКД.
 26. {:.if-apl}{{ site.data.spells.frs }} под баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
@@ -116,20 +116,47 @@ custom-javascript-list:
 
 * {{ site.data.legend.fire }} – развешиваем [Огненные шоки](https://ru.wowhead.com/spell=188389)  на все доступные цели.
 
-**Важный момент при использовании таланта {{ site.data.spells.mote }}**
+<a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" >**Властелин стихий**</a> – особые моменты при использовании.
 
-* Если у вас есть два заряда [Выброса лавы](https://ru.wowhead.com/spell=51505), то не следует кастовать между ними обычную [Молнию](https://ru.wowhead.com/spell=188196), так как это приведет к потере урона. Это связано с тем, что если в момент применения [Молнии](https://ru.wowhead.com/spell=188196) у вас прокнет {{ site.data.spells.lava_surge }}, то вы потеряете часть КД на {{ site.data.spells.lvb }}.
+* Если у вас есть два заряда [Выброса лавы](https://ru.wowhead.com/spell=51505), то **не стоит** кастовать между ними обычную [Молнию](https://ru.wowhead.com/spell=188196), так как это приведет к потере урона. Это связано с тем, что если в момент применения [Молнии](https://ru.wowhead.com/spell=188196) у вас прокнет {{ site.data.spells.lava_surge }}, то вы потеряете часть КД на {{ site.data.spells.lvb }}.
 * Но это правило не распространяется на мгновенные заклинания – усиленная {{ site.data.spells.lb }} от таланта {{ site.data.spells.sk }}, усиленный {{ site.data.spells.frs }} от таланта {{ site.data.spells.if }}, а также {{ site.data.spells.es }} и {{ site.data.spells.quake }}. Поглощайте бафф от [Властелина стихий](https://ru.wowhead.com/spell=16166) этими заклинаниями, даже если у вас уже есть один стак [Выброса лавы](https://ru.wowhead.com/spell=51505).\
 * Проще говоря – не стоит кастовать обычную [Молнию](https://ru.wowhead.com/spell=188196), если у вас есть заряд [Выброса лавы](https://ru.wowhead.com/spell=51505). Бафф от таланта {{ site.data.spells.mote }} не перекроет потенциальную потерю урона при проке {{ site.data.spells.lava_surge }}
+* Подходя к **60** ед. энергии Водоворота, ориентируйтесь на кулдаун [Выброса лавы](https://ru.wowhead.com/spell=51505) и других заклинаний. Придерживайте {{ site.data.spells.es }}, чтобы скастовать его с баффом от {{ site.data.spells.mote }}.
+* По сути, у нас есть окно между **60** и **100** энергии Водоворота, за время которого мы должны использовать [Выброс лавы](https://ru.wowhead.com/spell=51505) и сразу же {{ site.data.spells.es }}.
+* Не стоит уходить в оверкап энергии Водоворота ради баффа [Властелина стихий](https://ru.wowhead.com/spell=16166), это ведет к потере урона.
+* Приоритет заклинаний для баффа {{ site.data.spells.mote }}:
+
+1. {{ site.data.covenants.ft }}
+2. {{ site.data.spells.quake }} на **две** и более целях, либо на **одну** цель при наличии баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+3. {{ site.data.spells.lb }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634)
+4. {{ site.data.spells.es }}
+5. {{ site.data.spells.frs }} под баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714)
+6. {{ site.data.spells.eb }} 
+  * **Важно!** {{ site.data.spells.eb }} используется всегда по кулдауну, вне зависимости от наличия или отсутствия баффа {{ site.data.spells.mote }}.
+7. {{ site.data.spells.lb }}
+8. {{ site.data.spells.if }}
+9. {{ site.data.spells.frs }}
+
+Подробнее про талант {{ site.data.spells.mote }} можно почитать в [специальном разделе](https://stormkeeper.ru/ele/talents.html).
+
+<a href="https://ru.wowhead.com/spell=117014" target="blank" data-wh-icon-size="medium" >**Удар духов стихий**</a> – особые моменты при использовании.
+
+* В бою против **одной**, **двух** или **трёх** целей {{ site.data.spells.eb }} кастуется по кулдауну.
+* В бою против **четырех** и более целей {{ site.data.spells.eb }} **не используется**.
+* Главное правило – не уходить в оверкап энергии Водоворота.
+* {{ site.data.spells.eb }} генерирует **30** ед. энергии Водоворота, и еще **15** при проке Перегрузки.
+* Прок перегрузки вылетает не сразу, а спустя небольшой промежуток времени после завершения каста.
+* Можно скастовать {{ site.data.spells.eb }} на **70** энергии Воворота и сразу использовать {{ site.data.spells.es }}, тогда перегрузка вылетит уже после каста [Земного шока](https://ru.wowhead.com/spell=8042) и не уйдет в оверкап.
 
 # Бой против **2** целей
 
 Продолжаем использовать ротацию для **боя против одной цели**, со следующими изменениями:
 
-* Кастуйте {{ site.data.spells.lvb }} по кулдауну, даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
+* Кастуйте {{ site.data.spells.lvb }} **по кулдауну**, даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
 * Поддерживайте {{ site.data.spells.fs }} на обеих целях.
 * Используйте {{ site.data.spells.quake }} вместо {{ site.data.spells.es }} для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 * Кастуйте [Молнию](https://ru.wowhead.com/spell=188196) как филлер, когда остальные способности не доступны. 
+* Кастуйте {{ site.data.spells.eb }} по кулдауну.
 
 * При использовании легендарки {{ site.data.legend.lava }}, используйте {{ site.data.spells.es }} в бою против двух целей, а не {{ site.data.spells.quake }}.
 
@@ -137,20 +164,22 @@ custom-javascript-list:
 
 Продолжаем использовать ротацию для **боя против одной цели**, со следующими изменениями:
 
-* Кастуйте {{ site.data.spells.lvb }} по кулдауну, даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
-* Поддерживайте {{ site.data.spells.fs }} на трех целях.
+* Кастуйте {{ site.data.spells.lvb }} **по кулдауну**, даже если нет прока [Волны лавы](https://ru.wowhead.com/spell=77756).
+* Поддерживайте {{ site.data.spells.fs }} на **всех** целях.
 * Используйте {{ site.data.spells.quake }} вместо {{ site.data.spells.es }} для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 * Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) как филлер, когда остальные способности не доступны.
+* Кастуйте {{ site.data.spells.eb }} по кулдауну.
 
-* При использовании легендарки {{ site.data.legend.lava }}, используйте {{ site.data.spells.quake }} в бою против трех и более целей.
+* При использовании легендарки {{ site.data.legend.lava }}, используйте {{ site.data.spells.quake }} в бою против **трех** и более целей.
 
 # Бой против **4** целей
 
-* Кастуйте {{ site.data.spells.lvb }} только по проку от [Волны лавы](https://ru.wowhead.com/spell=77756), желательно перед [Землетрясением](https://ru.wowhead.com/spell=61882).
-* Поддерживайте {{ site.data.spells.fs }} на самых жирных врагах.
-* Используйте {{ site.data.spells.quake }} для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166), но только от мгновенного [Выброса лавы](https://ru.wowhead.com/spell=51505) по проку.
+* Кастуйте {{ site.data.spells.lvb }} **по проку** от [Волны лавы](https://ru.wowhead.com/spell=77756), желательно перед [Землетрясением](https://ru.wowhead.com/spell=61882).
+* Поддерживайте {{ site.data.spells.fs }} на **всех** целях.
+* Без активного [Элементаля огня](https://ru.wowhead.com/spell=198067), поддерживать {{ site.data.spells.fs }} возможно максимум на **3** целях, поэтому выбирайте самых живучих врагов. 
+* Используйте {{ site.data.spells.quake }} для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 * Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для набора энергии Водоворота.
-* При активном [Элементале огня](https://ru.wowhead.com/spell=198067) поддерживайте {{ site.data.spells.fs }} на всех целях.
+* {{ site.data.spells.eb }} **не следует** кастовать, начиная от **4** целей.
 
 
 # Бой против **5** и более целей
@@ -159,9 +188,9 @@ custom-javascript-list:
 * Поддерживайте {{ site.data.spells.fs }} на самых жирных врагах.
 * Используйте {{ site.data.spells.quake }} для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166), но только от мгновенного [Выброса лавы](https://ru.wowhead.com/spell=51505) по проку.
 * Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для набора энергии Водоворота.
-* При активном [Элементале огня](https://ru.wowhead.com/spell=198067) поддерживайте {{ site.data.spells.fs }} на всех целях.
+* При активном [Элементале огня](https://ru.wowhead.com/spell=198067) поддерживайте {{ site.data.spells.fs }} на **всех** доступных целях.
 
-* При использовании легендарки {{ site.data.legend.fire }}, поддерживайте {{ site.data.spells.fs }} на всех целях. 
+* При использовании легендарки {{ site.data.legend.fire }}, поддерживайте {{ site.data.spells.fs }} на всех целях, вне зависимости от наличия или отсутствия [Элементаля огня](https://ru.wowhead.com/spell=198067)
 
 # <span style="color:#40bf40;font-size:1em;">Правильное использование Первозданной волны Некролордов</span>
 
@@ -185,24 +214,3 @@ custom-javascript-list:
 
 
 5. На **пять** целей мы кастуем {{ site.data.spells.lvb }} только по проку перед [Землетрясением](https://ru.wowhead.com/spell=61882). Как и в случае с четырмя целями, отталкивайтесь от количества энергии Водоворота и времени жизни мобов. Иногда имеет смысл прожать {{ site.data.spells.lvb }} на три цели, иногда можно придержать и под пять.
-
-# Приоритет для баффа Властелина стихий
-
-**Основное правило** – придерживайте {{ site.data.spells.es }}, чтобы скастовать его с баффом от {{ site.data.spells.mote }}. Это заклинание не имеет кулдауна и у нас есть окно между **60** и **100** энергии Водоворота для его использования.
-
-Придерживание других заклинаний ради баффа {{ site.data.spells.mote }} может привести к потере урона.
-
-Приоритет заклинаний для баффа {{ site.data.spells.mote }}:
-
-1. {{ site.data.covenants.ft }}
-2. {{ site.data.spells.quake }} на **2** и более целях.
-3. {{ site.data.spells.lb }} под баффом {{ site.data.spells.sk }}
-4. {{ site.data.spells.es }}
-5. {{ site.data.spells.frs }} под баффом {{ site.data.spells.if }}
-6. {{ site.data.spells.eb }} 
-  * **Важно!** {{ site.data.spells.eb }} используется всегда по кулдауну, вне зависимости от наличия или отсутствия баффа {{ site.data.spells.mote }}.
-7. {{ site.data.spells.lb }}
-8. {{ site.data.spells.if }}
-9. {{ site.data.spells.frs }}
-
-Подробнее про талант {{ site.data.spells.mote }} можно почитать в [специальном разделе](https://stormkeeper.ru/ele/talents.html).
