@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-01-22
+last_update: 2021-02-21
 wow: 9.0.2
 toc: true
 author: Amani
@@ -9,43 +9,92 @@ custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
 
-<!--
+
+<!--1. {:.vt-apl}Pre-cast  {{ site.data.covenants.vt }} no later than 6.5 seconds before the pull
+2. {:.sk-apl}Pre-cast  {{ site.data.spells.sk }} at 5 seconds before the pull
+3. {:.mote-apl}Pre-cast  {{ site.data.spells.fe }} at 3.5 seconds before the pull
+3. {:.lmt-apl}Pre-cast  {{ site.data.spells.fe }} at 3.5 seconds before the pull
+4. {:.storm-apl}Pre-cast  {{ site.data.spells.storm }} at 3.5 seconds before the pull
+5. {:.eb-apl}Pre-cast  {{ site.data.spells.eb }} at 2 seconds before the pull
+6. {:.ecs-apl}Pre-cast  {{ site.data.spells.lvb }} at 2 seconds before the pull
+7. {:.afs-apl}Pre-cast  {{ site.data.spells.lvb }} at 2 seconds before the pull
+8. {:.ch-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+8. {:.ft-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+8. {:.vt-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+9. {:.ecs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+9. {:.afs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+9. {:.pw-apl}Cast  {{ site.data.covenants.pw }}
+9. {:.eb-apl}Cast  {{ site.data.spells.lvb }}
+12. {:.sk-apl}Cast your first  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
+10. {:.ecs-apl}Cast  {{ site.data.spells.ecs }}
+11. {:.eote-apl}Cast  {{ site.data.spells.lvb }}
+12. {:.sk-apl}Cast your second  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
+13. {:.if-apl} {{ site.data.spells.if }}
+14. {:.asc_ele-apl}  {{ site.data.spells.asc_ele }}
+15. {:.discharge-apl}Cast  {{ site.data.spells.discharge }}
+16. {:.lmt-apl}Cast  {{ site.data.spells.lmt }}
+17. {:.ft-apl}Cast  {{ site.data.covenants.ft }}
+18. {:.ch-apl}Cast  {{ site.data.covenants.ch }}
+19. Follow the standard priority from here-->
+
+# Выбор билда
+
+Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарка и ковенант:
+
 {% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
--->
 
-# Основы базовой ротации для новичков
+# Бой против одной цели
 
-1. Поддерживайте на цели {{ site.data.spells.fs }} и обновляйте, когда до спадения остается менее **5** секунд.
-2. Используйте для сброса энергии Водоворота {{ site.data.spells.es }}.
-3. Используйте {{ site.data.spells.lvb }} по кулдауну.
-4. Используйте {{ site.data.spells.lb }} как филлер, когда другие заклинания недоступны.
+Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта.
 
-Все бурсты и взятые таланты следует использовать по кулдауну. Далее вы можете прочитать полный разбор ротации в бою против различного количества целей. У нас меняется приоритет способностей в зависимости от количества противников, учитывайте это в бою.
+1. {{ site.data.spells.fs }} если отсутствует на цели. 
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **20** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+2. {:.mote-apl}{{ site.data.spells.fe }} и {{ site.data.spells.igor }} по кулдауну.
+  * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.lmt-apl}{{ site.data.spells.fe }} и {{ site.data.spells.igor }} по кулдауну.
+  * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.storm-apl}{{ site.data.spells.storm }} и {{ site.data.spells.igor }} по кулдауну.
+  * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
+  * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
+6. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и если следующее ваше заклинание накопит больше **100** ед. энергии Водоворота.
+7. {{ site.data.spells.es }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
+8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
+9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
+10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+11. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} под баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+12. {:.ecs-apl}{{ site.data.spells.ecs }} если у вас более **60** ед. энергии Водоворота или {{ site.data.spells.lvb }} не на кулдауне.
+13. {:.ecs-apl}{{ site.data.spells.lvb }} если активен бафф от [Вторящего шока](https://ru.wowhead.com/spell=320125).
+14. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
+15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
+   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, всегда старайтесь усилить им {{ site.data.covenants.ft }}.
+16. {:.lmt-apl}{{ site.data.spells.lmt }} по кулдауну.
+17. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} под баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+18. {:.storm-apl}{{ site.data.spells.lb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
+19. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
+20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} под баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличиит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
+22. {{ site.data.spells.lvb }} по кулдауну.
+23. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
+24. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) .
+25. {{ site.data.spells.es }} если есть **60** или более ед. энергии Водоворота.
+  * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование [Земного шока](https://ru.wowhead.com/spell=8042), если до окончания кулдауна [Выброса лавы](https://ru.wowhead.com/spell=51505) осталось **1-2** ГКД.
+26. {:.if-apl}{{ site.data.spells.frs }} под баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+27. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
+28. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
+29. {{ site.data.spells.lb }} 
 
 # Открывающая ротация, «Opener»
 
-**Опенер в билде через {{ site.data.spells.eb }} и {{ site.data.spells.if }}:**
-
-<!--1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.-->
-1. {{ site.data.spells.sk }} за **5** секунд до пула.
-2. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
-  * ***Пул босса.***
-3. {{ site.data.spells.fe }}
-4. {{ site.data.covenants.pw }} (или {{ site.data.spells.fs }}, если вы не <span style="color:#40bf40;font-size:1em;">Некролорд</span>)
-5. {{ site.data.spells.lvb }}
-6. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
-7. {{ site.data.spells.lvb }}
-8. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
-9. {{ site.data.spells.es }}
-10. {{ site.data.spells.if }}
-11. Продолжаем обычную ротацию.
-
-**Опенер в билде через {{ site.data.spells.eb }} и {{ site.data.spells.if }} при использовании легендарки {{ site.data.legend.lava }}:**
+**Опенер** – это фиксированный порядок кастов в самом начале боя. Динамический опенер находится в разработке, ниже представлены стандартный вариант опенера, с талантами {{ site.data.spells.eb }} и {{ site.data.spells.if }} и с легендаркой {{ site.data.legend.lava }}:
 
 1. {{ site.data.spells.sk }} за **5** секунд до пула.
+3. {{ site.data.spells.fe }} за **3.5** секунд до пула.
 2. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
-3. {{ site.data.spells.fe }}
 4. {{ site.data.covenants.pw }} (или {{ site.data.spells.fs }}, если вы не <span style="color:#40bf40;font-size:1em;">Некролорд</span>)
 5. {{ site.data.spells.lvb }}
 6. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
@@ -56,35 +105,12 @@ custom-javascript-list:
 11. {{ site.data.spells.if }}
 12. Продолжаем обычную ротацию.
 
-> Призывайте до пула {{ site.data.spells.igor }} (перед {{ site.data.spells.sk }}), но только если вы не используете талант {{ site.data.spells.primal_elem }}. Помните, что {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
-
-# Бой против одной цели
-
-1. {{ site.data.spells.fs }} – если отсутствует на цели. 
-  * Не используйте {{ site.data.spells.fs }}, если на вас **20** стаков {{ site.data.spells.wind_gust }} при активном {{ site.data.spells.storm }}
-2. {{ site.data.spells.fe }}, {{ site.data.spells.storm }} и {{ site.data.spells.igor }} по кулдауну.
-  * Если у вас взят талант {{ site.data.spells.primal_elem }}, вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
-  * Не забывайте использовать {{ site.data.spells.meteor }} / {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
-3. {{ site.data.spells.es }}, если следующее ваше заклинание накопит больше **100** ед. энергии Водоворота.
-4. {{ site.data.spells.eb }} по кулдауну.
-5. {{ site.data.spells.sk }} по кулдауну.
-6. {{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
-7. {{ site.data.spells.ecs }} по кулдауну, если следующее за ним заклинание – {{ site.data.spells.lvb }}.
-8. {{ site.data.spells.lb }} под баффом {{ site.data.spells.sk }} при активном баффе {{ site.data.spells.mote }}.
-9. {{ site.data.spells.lb }} при активном {{ site.data.spells.storm }} и у вас более **18** стаков {{ site.data.spells.wind_gust }}.
-10. {{ site.data.spells.if }} по кулдауну.
-11. {{ site.data.spells.frs }} под баффами от {{ site.data.spells.if }} и {{ site.data.spells.mote }}.
-12. {{ site.data.spells.lvb }} по кулдауну.
-13. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
-14. {{ site.data.spells.es }} если у вас **60** и более ед. энергии Водоворота.
-  *  При взятом таланте {{ site.data.spells.mote }}, придерживайте использование {{ site.data.spells.es }}, если до окончания кулдауна {{ site.data.spells.lvb }} осталось **1-2** ГКД.
-15. {{ site.data.spells.frs }} под баффами от {{ site.data.spells.if }}.
-16. {{ site.data.covenants.ch }}
-17. {{ site.data.spells.lb }}
+Призывайте до пула {{ site.data.spells.igor }} (перед {{ site.data.spells.sk }}), но только если вы не используете талант {{ site.data.spells.primal_elem }}. Помните, что {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
+{: class="bordered"}
 
 **Влияние легендарных предметов на ротацию**
 
-* {{ site.data.legend.lava }} – кастуем усиленный {{ site.data.spells.lvb }} после каждого применения способности {{ site.data.spells.es }}. Бафф от этой легендарки работает на способность <span style="color:#40bf40;font-size:1em;">Некролордов</span> {{ site.data.covenants.pw }}, усиливая все выпущенные {{ site.data.spells.lvb }} на **20%**. 
+* {{ site.data.legend.lava }} – кастуем усиленный {{ site.data.spells.lvb }} после каждого применения способности {{ site.data.spells.es }} (точные приоритеты указаны выше). Бафф от этой легендарки работает на способность <span style="color:#40bf40;font-size:1em;">Некролордов</span> {{ site.data.covenants.pw }}, усиливая все выпущенные {{ site.data.spells.lvb }} на **20%**. 
 
 * {{ site.data.legend.eogs }} – чередуем {{ site.data.spells.es }} и {{ site.data.spells.quake }} и в бою против **одной цели**, и на **АоЕ**. Всегда старайтесь бафнуть усиленное {{ site.data.spells.quake }} с помощью таланта {{ site.data.spells.mote }}.
 
