@@ -9,7 +9,9 @@ custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
 
+<!--
 {% include talents.html data=site.data.talents.resto active="3102032" switch=true %}
+-->
 
 # Приоритет заклинаний
 

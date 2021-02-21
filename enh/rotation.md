@@ -9,7 +9,9 @@ custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
 
+<!--
 {% include talents.html data=site.data.talents.enh active="2101033" switch=true %}
+-->
 
 # Основные моменты ротации
 
