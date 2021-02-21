@@ -1,14 +1,39 @@
-$(document).ready(function(){
-
-  $('.rotation_switches input[type="checkbox"]').click(function() {
-    name = $(this).parent().attr("id").replace("rotation_switch_", "");
-    if ($(this).is(':checked')) {
-      $('.rotation_line_' + name + '_off').hide();
-      $('.rotation_line_' + name + '_on').show();
-    } else { 
-      $('.rotation_line_' + name + '_on').hide();
-      $('.rotation_line_' + name + '_off').show();
+HTMLCollection.prototype[Symbol.iterator] = Array.prototype[Symbol.iterator];
+function listeners() {
+    let inputs = document.getElementsByTagName("input")
+    for (i of inputs) {
+        if (i.type == "radio") {
+            change_listener(i);   
+            i.dispatchEvent(new Event("change"))
+        }
     }
-  });
-  $('.rotation_switches input[type="checkbox"]').prop("disabled", false);
-});
+}
+
+function change_listener(element) {
+    element.addEventListener("change", function(e) {
+        let siblings = document.getElementsByName(e.target.name);
+        for (radio of siblings) {
+            if (radio.checked == true) {
+                $("td#rotation_switch_" + radio.id.split('-')[0]).addClass("talent-active");
+            } else {
+                $("td#rotation_switch_" + radio.id.split('-')[0]).removeClass("talent-active");
+            }
+            let apl_elems = document.getElementsByClassName(radio.id.split('-')[0] + "-apl");
+            for (item of apl_elems) {
+                if (radio.checked == true) {
+                    item.style.display = "list-item";
+                } else {
+                    item.style.display = "none";
+                }
+            }
+        }
+    });
+}
+
+listeners()
+
+$('.switch-link').on('click', function (e) {
+    this.parentNode.click();
+    e.stopPropagation();
+    e.preventDefault();
+})

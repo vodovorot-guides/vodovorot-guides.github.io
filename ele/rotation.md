@@ -9,6 +9,8 @@ custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
 
+{% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
+
 # Основы базовой ротации для новичков
 
 1. Поддерживайте на цели {{ site.data.spells.fs }} и обновляйте, когда до спадения остается менее **5** секунд.
@@ -22,7 +24,7 @@ custom-javascript-list:
 
 **Опенер в билде через {{ site.data.spells.eb }} и {{ site.data.spells.if }}:**
 
-1. {{ site.data.spells.sk }} за **5** секунд до пула.
+1. {:.sk-apl style="display:none;"}{{ site.data.spells.sk }} за **5** секунд до пула.
 2. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
 3. {{ site.data.spells.fe }}
@@ -62,9 +64,9 @@ custom-javascript-list:
   * Не забывайте использовать {{ site.data.spells.meteor }} / {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 3. {{ site.data.spells.es }}, если следующее ваше заклинание накопит больше **100** ед. энергии Водоворота.
 4. {{ site.data.spells.eb }} по кулдауну.
-5. {{ site.data.spells.sk }} по кулдауну.
+5. {:.sk-apl style="display:none;"}{{ site.data.spells.sk }} по кулдауну.
 6. {{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
-7. {{ site.data.spells.ecs }} по кулдауну, если следующее за ним заклинание – {{ site.data.spells.lvb }}.
+7. {:.ecs-apl}{{ site.data.spells.ecs }} по кулдауну, если следующее за ним заклинание – {{ site.data.spells.lvb }}.
 8. {{ site.data.spells.lb }} под баффом {{ site.data.spells.sk }} при активном баффе {{ site.data.spells.mote }}.
 9. {{ site.data.spells.lb }} при активном {{ site.data.spells.storm }} и у вас более **18** стаков {{ site.data.spells.wind_gust }}.
 10. {{ site.data.spells.if }} по кулдауну.

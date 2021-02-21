@@ -5,7 +5,11 @@ last_update: 2021-02-19
 wow: 9.0.2
 toc: true
 author: Amani, Wordup
+custom-javascript-list:
+    - "/assets/js/rotation_switches.js"
 ---
+
+{% include talents.html data=site.data.talents.enh active="2101033" switch=true %}
 
 # Основные моменты ротации
 

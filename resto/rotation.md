@@ -5,7 +5,11 @@ last_update: 2021-01-25
 wow: 9.0.2
 toc: true
 author: "Amani. Оригинал: Niseko"
+custom-javascript-list:
+    - "/assets/js/rotation_switches.js"
 ---
+
+{% include talents.html data=site.data.talents.resto active="3102032" switch=true %}
 
 # Приоритет заклинаний
 

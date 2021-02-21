@@ -1,110 +1,212 @@
 ele:
-  - row: 15
-    talents:
-      - id: 170374
-      - id: 333919
-      - id: 342243
-  - row: 25
-    talents:
-      - id: 273221
-      - id: 320125
-      - id: 117014
-  - row: 30
-    talents:
-      - id: 260878
-      - id: 974
-      - id: 265046
-  - row: 35
-    talents:
-      - id: 16166
-      - id: 192249
-      - id: 192222
-  - row: 40
-    talents:
-      - id: 30884
-      - id: 108281
-      - id: 192077
-  - row: 45
-    talents:
-      - id: 262303
-      - id: 117013
-      - id: 210714
-  - row: 50
-    talents:
-      - id: 260895
-      - id: 191634
-      - id: 114050
+  covenant: "necrolords"
+  legendaries:
+    - id: 336063
+      tag: "lava"
+      default: true
+    - id: 336215
+      tag: "eogs"
+    - id: 336734
+      tag: "fire"
+    - id: 336730
+      tag: "ee"
+
+  talents:
+    - row: 15
+      talents:
+        - id: 170374
+          tag: "er"
+        - id: 333919
+          tag: "eote"
+        - id: 342243
+          tag: "discharge"
+    - row: 25
+      talents:
+        - id: 273221
+          tag: "afs"
+        - id: 320125
+          tag: "ecs"
+        - id: 117014
+          tag: "eb"
+    - row: 30
+      talents:
+        - id: 260878
+          tag: "spirit_wolf"
+        - id: 974
+          tag: "eshield"
+        - id: 265046
+          tag: "static"
+    - row: 35
+      talents:
+        - id: 16166
+          tag: "mote"
+        - id: 192249
+          tag: "storm"
+        - id: 192222
+          tag: "lmt"
+    - row: 40
+      talents:
+        - id: 30884
+          tag: "ng"
+        - id: 108281
+          tag: "ag"
+        - id: 192077
+          tag: "wrt"
+    - row: 45
+      talents:
+        - id: 262303
+          tag: "sop"
+        - id: 117013
+          tag: "primal_elem"
+        - id: 210714
+          tag: "if"
+    - row: 50
+      talents:
+        - id: 260895
+          tag: "up"
+        - id: 191634
+          tag: "sk"
+        - id: 114050
+          tag: "asc_ele"
 
 enh:
-  - row: 15
-    talents:
-      - id: 334046
-      - id: 262647
-      - id: 117014
-  - row: 25
-    talents:
-      - id: 344357
-      - id: 201900
-      - id: 342240
-  - row: 30
-    talents:
-      - id: 260878
-      - id: 974
-      - id: 265046
-  - row: 35
-    talents:
-      - id: 210853
-      - id: 334195
-      - id: 333974
-  - row: 40
-    talents:
-      - id: 30884
-      - id: 196884
-      - id: 192077
-  - row: 45
-    talents:
-      - id: 192246
-      - id: 320137
-      - id: 197214
-  - row: 50
-    talents:
-      - id: 262624
-      - id: 188089
-      - id: 114051
+  covenant: "venthyr"
+  legendaries:
+    - id: 335902
+      tag: "doom"
+      default: true
+    - id: 335899
+      tag: "witch"
+    - id: 335895
+      tag: "actuators"
+    - id: 335897
+      tag: "wolf"
+
+  talents:
+    - row: 15
+      talents:
+        - id: 334046
+          tag: "lf"
+        - id: 262647
+          tag: "fw"
+        - id: 117014
+          tag: "eb"
+    - row: 25
+      talents:
+        - id: 344357
+          tag: "flurry"
+        - id: 201900
+          tag: "hh"
+        - id: 342240
+          tag: "is"
+    - row: 30
+      talents:
+        - id: 260878
+          tag: "spirit_wolf"
+        - id: 974
+          tag: "eshield"
+        - id: 265046
+          tag: "static"
+    - row: 35
+      talents:
+        - id: 210853
+          tag: "ea"
+        - id: 334195
+          tag: "hailstorm"
+        - id: 333974
+          tag: "fn"
+    - row: 40
+      talents:
+        - id: 30884
+          tag: "ng"
+        - id: 196884
+          tag: "fl"
+        - id: 192077
+          tag: "wrt"
+    - row: 45
+      talents:
+        - id: 192246
+          tag: "cs"
+        - id: 320137
+          tag: "sk_enh"
+        - id: 197214
+          tag: "sunder"
+    - row: 50
+      talents:
+        - id: 262624
+          tag: "spirits"
+        - id: 188089
+          tag: "spike"
+        - id: 114051
+          tag: "asc_enh"
 
 resto:
-  - row: 15
-    talents:
-      - id: 200072
-      - id: 200071
-      - id: 73685
-  - row: 25
-    talents:
-      - id: 108283
-      - id: 200076
-      - id: 320746
-  - row: 30
-    talents:
-      - id: 260878
-      - id: 51485
-      - id: 265046
-  - row: 35
-    talents:
-      - id: 207401
-      - id: 198838
-      - id: 207399
-  - row: 40
-    talents:
-      - id: 30884
-      - id: 192088
-      - id: 192077
-  - row: 45
-    talents:
-      - id: 280614
-      - id: 207778
-      - id: 157153
-  - row: 50
-    talents:
-      - id: 157154
-      - id: 197995
-      - id: 114052
+  covenant: "necrolords"
+  legendaries:
+    - id: 335886
+      tag: "earth"
+    - id: 335893
+      tag: "jonat"
+    - id: 335889
+      tag: "riptide"
+      default: true
+    - id: 335891
+      tag: "mtt"
+
+  talents:
+    - row: 15
+      talents:
+        - id: 200072
+          tag: "torrent"
+        - id: 200071
+          tag: "undulation"
+        - id: 73685
+          tag: "ul"
+    - row: 25
+      talents:
+        - id: 108283
+          tag: "eote_resto"
+        - id: 200076
+          tag: "deluge"
+        - id: 320746
+          tag: "soe"
+    - row: 30
+      talents:
+        - id: 260878
+          tag: "spirit_wolf"
+        - id: 51485
+          tag: "egt"
+        - id: 265046
+          tag: "static"
+    - row: 35
+      talents:
+        - id: 207401
+          tag: "vigor"
+        - id: 198838
+          tag: "ewt"
+        - id: 207399
+          tag: "apt"
+    - row: 40
+      talents:
+        - id: 30884
+          tag: "ng"
+        - id: 192088
+          tag: "gs"
+        - id: 192077
+          tag: "wrt"
+    - row: 45
+      talents:
+        - id: 280614
+          tag: "ff"
+        - id: 207778
+          tag: "downpour"
+        - id: 157153
+          tag: "cbt"
+    - row: 50
+      talents:
+        - id: 157154
+          tag: "high_tide"
+        - id: 197995
+          tag: "wellspring"
+        - id: 114052
+          tag: "asc_resto"

@@ -424,6 +424,7 @@ header {
 
 .talents-table {
     line-height: 0.75em;
+    z-index: 2;
 
     td {
         //max-width: 60px;
@@ -466,6 +467,10 @@ header {
         font-size: 0.9em;
     }
 
+    a:hover {
+        text-decoration: none;
+    }
+
     span.iconmedium {
         margin-left: 10px;
         margin-right: 10px;
@@ -502,6 +507,29 @@ header {
         }
     }
 }
+
+td.rotation_switch {
+    cursor: pointer;
+}
+
+td.rotation_switch label {
+    margin: 0;
+    cursor: pointer;
+    display: block;
+}
+
+td.covenants {
+    width: 25%;
+    text-align: center;
+    vertical-align: top;
+    padding: 5px;
+}
+
+td.covenants span:not([class]) {
+    display: block;
+    max-width: 100%;
+}
+
 .bordered {
     border: 1px solid $text-color;
     padding: 10px;

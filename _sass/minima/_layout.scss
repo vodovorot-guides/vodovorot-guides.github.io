@@ -315,13 +315,12 @@ img {
   }
 }
 
-
 .post-content {
   margin-bottom: $spacing-unit;
 
   h1 {
-    padding-top: 200px;
-    margin-top: -200px;
+    padding-top: 55px;
+    margin-top: -55px;
     @include relative-font-size(2.2);
 
     @include media-query($on-laptop) {
