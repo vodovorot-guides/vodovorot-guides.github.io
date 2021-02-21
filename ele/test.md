@@ -48,7 +48,7 @@ custom-javascript-list:
 Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта.
 
 1. {{ site.data.spells.fs }} если отсутствует на цели. 
-  * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **20** стаков {{ site.data.spells.wind_gust }} при активном {{ site.data.spells.storm }}
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **20** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 2. {:.mote-apl}{{ site.data.spells.fe }} и {{ site.data.spells.igor }} по кулдауну.
   * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
@@ -59,30 +59,30 @@ custom-javascript-list:
   * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
-  * {:.asc_ele-apl}Перед активацией {{ site.data.spells.asc_ele }} используйте все заряды {{ site.data.spells.lvb }}, но только если это не уменьшит количество использований {{ site.data.spells.asc_ele }} за бой.
-6. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от {{ site.data.legend.eogs }} и если следующее ваше заклинание накопит больше **100** ед. энергии Водоворота.
+  * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
+6. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и если следующее ваше заклинание накопит больше **100** ед. энергии Водоворота.
 7. {{ site.data.spells.es }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
 9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
-11. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} под баффами от {{ site.data.legend.eogs }} и {{ site.data.spells.mote }}.
+11. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} под баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 12. {:.ecs-apl}{{ site.data.spells.ecs }} если у вас более **60** ед. энергии Водоворота или {{ site.data.spells.lvb }} не на кулдауне.
-13. {:.ecs-apl}{{ site.data.spells.lvb }} если активен бафф от {{ site.data.spells.ecs }}.
+13. {:.ecs-apl}{{ site.data.spells.lvb }} если активен бафф от [Вторящего шока](https://ru.wowhead.com/spell=320125).
 14. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
    * {:.mote-apl}С талантом {{ site.data.spells.mote }}, всегда старайтесь усилить им {{ site.data.covenants.ft }}.
 16. {:.lmt-apl}{{ site.data.spells.lmt }} по кулдауну.
-17. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} под баффами от {{ site.data.spells.sk }} и {{ site.data.spells.mote }}.
-18. {:.storm-apl}{{ site.data.spells.lb }} при активном {{ site.data.spells.storm }} и у вас более **18** стаков {{ site.data.spells.wind_gust }}.
+17. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} под баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+18. {:.storm-apl}{{ site.data.spells.lb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
 19. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
-20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} под баффами от {{ site.data.spells.if }} и {{ site.data.spells.mote }}.
-21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от {{ site.data.spells.sop }}, если использование {{ site.data.spells.lvb }} не увеличиит количество {{ site.data.spells.fe }} за бой.
+20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} под баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличиит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
 23. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
-24. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от {{ site.data.legend.eogs }}.
+24. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) .
 25. {{ site.data.spells.es }} если есть **60** или более ед. энергии Водоворота.
-  * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование {{ site.data.spells.es }}, если до окончания кулдауна {{ site.data.spells.lvb }} осталось **1-2** ГКД.
-26. {:.if-apl}{{ site.data.spells.frs }} под баффом от {{ site.data.spells.if }}.
+  * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование [Земного шока](https://ru.wowhead.com/spell=8042), если до окончания кулдауна [Выброса лавы](https://ru.wowhead.com/spell=51505) осталось **1-2** ГКД.
+26. {:.if-apl}{{ site.data.spells.frs }} под баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 27. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
 28. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
 29. {{ site.data.spells.lb }} 
