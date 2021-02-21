@@ -110,11 +110,11 @@ custom-javascript-list:
 
 **Влияние легендарных предметов на ротацию**
 
-* {{ site.data.legend.lava }} – кастуем усиленный {{ site.data.spells.lvb }} после каждого применения способности {{ site.data.spells.es }} (точные приоритеты указаны выше). Бафф от этой легендарки работает на способность <span style="color:#40bf40;font-size:1em;">Некролордов</span> {{ site.data.covenants.pw }}, усиливая все выпущенные {{ site.data.spells.lvb }} на **20%**. 
+* {{ site.data.legend.lava }} – кастуем усиленный {{ site.data.spells.lvb }} после каждого применения [Земного шока](https://ru.wowhead.com/spell=8042) (точные приоритеты указаны выше). Бафф от этой легендарки работает на [Первозданную волну](https://ru.wowhead.com/spell=326059) <span style="color:#40bf40;font-size:1em;">Некролордов</span>, усиливая все выпущенные [Выбросы лавы](https://ru.wowhead.com/spell=51505) на **20%**. 
 
 * {{ site.data.legend.eogs }} – чередуем {{ site.data.spells.es }} и {{ site.data.spells.quake }} и в бою против **одной цели**, и на **АоЕ**. Всегда старайтесь бафнуть усиленное {{ site.data.spells.quake }} с помощью таланта {{ site.data.spells.mote }}.
 
-* {{ site.data.legend.fire }} – развешиваем {{ site.data.spells.fs }} на все доступные цели.
+* {{ site.data.legend.fire }} – развешиваем [Огненные шоки](https://ru.wowhead.com/spell=188389)  на все доступные цели.
 
 **Важный момент при использовании таланта {{ site.data.spells.mote }}**
 
