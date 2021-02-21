@@ -89,6 +89,8 @@ categories:
         url: /info/macros.html
       - title: Количество целей заклинаний
         url: /info/target_cap.html
+      - title: Мини-руководство по Raidbots
+        url: /info/sim.html
       - title: Авторы и благодарности
         url: /info/patrons.html
         divided: true
