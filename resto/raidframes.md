@@ -86,7 +86,7 @@ author: "Amani, Haelrail, Omeja, Langrim"
 <img src="https://cdn.discordapp.com/attachments/775683849614655500/778362491826208768/unknown.png" width=400x> 
 </p>
 
-[**Omeja:**](https://wago.io/zKQJr1J6q)
+[**Omeja:**](https://wago.io/cFFDxTJDW)
 {: style="text-align: center;"}
 
 <p align="center">
