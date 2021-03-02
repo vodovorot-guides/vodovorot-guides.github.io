@@ -1,7 +1,7 @@
 ---
 title: Сокращения и аббревиатуры
 layout: page
-last_update: 2020-11-21
+last_update: 2021-03-02
 wow: 9.0.1
 toc: true
 author: Amani
@@ -173,7 +173,7 @@ author: Amani
 * {{ site.data.spells.resurgence }} – Resurgence.  
 * {{ site.data.spells.mtt }} – Mana Tide Totem, MTT, Мана тайд, Рес маны.  
 * {{ site.data.spells.water_shield }} – Water Shield, WS, Щит маны, Щит (одно из значений).  
-* {{ site.data.spells.slt }} – Spirit Link Totem, SLT, СЛТ, Спирит линк, Дележка.  
+* {{ site.data.spells.slt }} – Spirit Link Totem, SLT, СЛТ, Спирит линк, Дележка, Шара, [Тотем Коммунизма](https://wago.io/h1kok0jQt).  
 * {{ site.data.spells.htt }} – Healing Tide Totem, HTT, ХТТ, Хилинг тайд, Рейд сейв.  
 * {{ site.data.spells.swg }} – Spiritwalker's Grace, SWG, СВГ, Спиритволк, Каст на ходу.  
 
