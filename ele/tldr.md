@@ -1,8 +1,11 @@
----    
-layout: post    
-title: "Патч 9.0.5 – разбор изменений шамана"    
+---
+title: Патч 9.0.5 – разбор изменений шамана
+layout: page
+last_update: 2021-01-25
+wow: 9.0.5
+toc: true
 author: Amani
----    
+---
 
 * [Официальные патчноуты](https://ptr.wowhead.com/news=320968)
 * [Патчноуты на Wowhead от 10.02](https://www.wowhead.com/news=320845)
