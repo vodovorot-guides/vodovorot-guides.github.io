@@ -31,7 +31,7 @@ toc: true
 
 * **Элем** + **Энх** + **Рестор**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> > все остальные ковенанты.
 
-{% include button.html name="Полный разбор Ковенантов Элем шамана" link="/ele/covenants.html" %}  
+{% include button.html name="Полный разбор ковенантов Элем шамана" link="/ele/covenants.html" %}  
 
 <p></p>
 
