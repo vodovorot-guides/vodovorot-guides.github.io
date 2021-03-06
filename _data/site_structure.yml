@@ -13,8 +13,6 @@ categories:
           url: /ele/talents.html
         - title: Ковенанты и медиумы
           url: /ele/covenants.html
-        - title: Проводники
-          url: /ele/conduits.html
         - title: Легендарные предметы
           url: /ele/legendaries.html
         - title: Характеристики
@@ -41,8 +39,6 @@ categories:
           url: /enh/talents.html
         - title: Ковенанты и медиумы
           url: /enh/covenants.html
-        - title: Проводники
-          url: /enh/conduits.html
         - title: Легендарные предметы
           url: /enh/legendaries.html
         - title: Характеристики
@@ -66,8 +62,6 @@ categories:
           url: /resto/talents.html
         - title: Ковенанты и медиумы
           url: /resto/covenants.html
-        - title: Проводники
-          url: /resto/conduits.html
         - title: Легендарные предметы
           url: /resto/legendaries.html
         - title: Характеристики
@@ -89,6 +83,8 @@ categories:
         url: /info/macros.html
       - title: Количество целей заклинаний
         url: /info/target_cap.html
+      - title: Проводники всех специализаций
+        url: /info/conduits.html
       - title: Мини-руководство по Raidbots
         url: /info/sim.html
       - title: Авторы и благодарности
