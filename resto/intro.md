@@ -38,7 +38,7 @@ toc: true
 * {{ site.data.conduits.rain }} – хороший проводник, усиливающай бурст отхил.
 * <span style="color:#40bf40;font-size:1em;">**Некролорды**</span> также могут использовать классовый проводник – {{ site.data.conduits.wave }}.
 * <span style="color:#ff4040;font-size:1em;">**Вентиры**</span> вместо второго проводника используют [Ни шагу назад](https://ru.wowhead.com/spell=332754) [**Генерала Дрейвена**](https://stormkeeper.ru/resto/covenants.html#%D0%BC%D0%B5%D0%B4%D0%B8%D1%83%D0%BC%D1%8B-1).
-<span style="color:#68ccef;font-size:1em;">**Кирии**</span> вместо второго проводника используют [Демонстративную отвагу](https://ru.wowhead.com/spell=329778/) [**Клейи**](https://stormkeeper.ru/resto/covenants.html#%D0%BC%D0%B5%D0%B4%D0%B8%D1%83%D0%BC%D1%8B-2).
+* <span style="color:#68ccef;font-size:1em;">**Кирии**</span> вместо второго проводника используют [Демонстративную отвагу](https://ru.wowhead.com/spell=329778/) [**Клейи**](https://stormkeeper.ru/resto/covenants.html#%D0%BC%D0%B5%D0%B4%D0%B8%D1%83%D0%BC%D1%8B-2).
 
 {% include button.html name="Полный разбор проводников Рестор шамана" link="/info/conduits.html" %}  
 
