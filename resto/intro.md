@@ -71,7 +71,7 @@ toc: true
 * **30 уровень:** Тир вспомогательных талантов, выбирайте на ваше усмотрение.  
 * **35 уровень:** Все три таланта играбельны, выбор зависит от уровня Мифик+ и недельных модификаторов. {{ site.data.spells.ewt }} является наиболее универсальным вариантом.  
 
-{% include button.html name="Полный разбор талантов" link="/resto/talents.html" %}  
+{% include button.html name="Полный разбор талантов Рестор шамана" link="/resto/talents.html" %}  
 
 <p></p>
 
@@ -79,7 +79,7 @@ toc: true
 
 * Узнать про все способности и приоритет заклинаний можно [на этой странице](/resto/rotation.html).
 
-{% include button.html name="Способности и ротация" link="/resto/rotation.html" %}  
+{% include button.html name="Способности и ротация Рестор шамана" link="/resto/rotation.html" %}  
 
 <p></p>
 
