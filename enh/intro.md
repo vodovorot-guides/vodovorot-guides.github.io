@@ -1,8 +1,8 @@
 ---
 title: Основная информация – Шаман Совершенствования
 layout: page
-last_update: 2020-01-07
-wow: 9.0.2
+last_update: 2020-03-06
+wow: 9.0.5
 author: Amani
 toc: true
 ---
@@ -10,35 +10,44 @@ toc: true
 
 # Выбор ковенанта
 
-На данный момент лучший ковенант для Энх шамана – **<span style="color:#ff4040;font-size:1em;">Вентиры</span>**. Отличный выбор как в **Рейд**, так и в **Мифик+** и **PvP**.
+На данный момент у Энх шамана два отличных ковенанта – <span style="color:#ff4040;font-size:1em;">**Вентиры**</span> (ориентирован на АоЕ) и <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> (ориентирован на бой против одной цели). 
 
-Другие ковенанты хуже примерно на 3-5% от общего урона, в зависимости от типа боя.
+* <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>: отлично для **рейда**, отлично для **Мифик+**, отлично для **PvP**.
+
+* <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>: отлично для **рейда**, отлично для **Мифик+**, средне для **PvP**.
+
+* <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: средне для **рейда**, средне для **Мифик+**, так себе для **PvP**.
+
+* <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>: средне для **рейда**, так себе для **Мифик+**, так себе для **PvP**.
 
 **При игре на нескольких специализациях:**
 
-* **Энх** + **Элем**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> > <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">**Вентиры**</span> = <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> > все остальные ковенанты.
 
-* **Энх** + **Рестор**: <span style="color:#ff4040;font-size:1em;">Вентиры</span> > <span style="color:#68ccef;font-size:1em;">Кирии</span> > <span style="color:#a330c9;font-size:1em;">Ночной Народец</span> = <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+* **Энх** + **Элем**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> > все остальные ковенанты.
 
-{% include button.html name="Полный разбор Вентиров" link="/enh/covenants.html#вентиры" %}  
+* **Энх** + **Элем** + **Рестор**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> > все остальные ковенанты.
+
+{% include button.html name="Полный разбор ковенантов Энх шамана" link="/enh/covenants.html" %}  
 
 # Лучшие проводники
 
-* {{ site.data.conduits.winds }} – **лучший проводник**, ставим в первую очередь и никогда не меняем. 
-* {{ site.data.conduits.magma }} – можно поставить **вторым** проводником для боя против **одной цели**.
-* {{ site.data.conduits.focused }} – можно поставить **вторым** проводником для **АоЕ** боев.
+* {{ site.data.conduits.winds }} – **лучший проводник**. 
 
-{% include button.html name="Полный разбор проводников" link="/enh/conduits.html" %}  
+* Второй слот проводника силы не используется, так как пассивные способности медиумов лучше.
+
+{% include button.html name="Полный разбор проводников Энх шамана" link="/info/conduits.html" %}  
 
 <p></p>
 
 # Лучшие легендарные предметы
 
 * {{ site.data.legend.doom }} – **лучшая легендарка** для всех видов контента.
+* {{ site.data.legend.wolf }} – чуть лучше подходит для боя против одной цели, без передвижения и с ковенантом <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>.
 
 * Рекомендуемые характеристики для крафта – **Скорость** и **Универсальность**.
 
-{% include button.html name="Полный разбор легендарных предметов" link="/enh/legendaries.html" %}  
+{% include button.html name="Полный разбор легендарных предметов Энх шамана" link="/enh/legendaries.html" %}  
 
 <p></p>
 
@@ -47,9 +56,9 @@ toc: true
 {% include talents.html data=site.data.talents.enh active="2111133" %}
 
 * **30 и 40 уровни:** ситуативные таланты, выбирайте на ваше усмотрение.
-* **35 уровень:** {{ site.data.spells.ea }} является лучшим выбором для боя против **одной цели**, а {{ site.data.spells.hailstorm }} – для **АоЕ** и **Мифик+**.
+* **35 уровень:** [Буря с градом](https://ru.wowhead.com/spell=334195) подходит для Мифик+, но [Атакa стихий](https://ru.wowhead.com/spell=210853) проще в использовани и её эффективность растет с набором гира. 
 
-{% include button.html name="Полный разбор талантов" link="/enh/talents.html" %}  
+{% include button.html name="Полный разбор талантов Энх шамана" link="/enh/talents.html" %}  
 
 <p></p>
 
@@ -57,7 +66,7 @@ toc: true
 
 * Узнать про все способности и их приоритет можно [на этой странице](/enh/rotation.html).
 
-{% include button.html name="Способности и ротация" link="/enh/rotation.html" %}  
+{% include button.html name="Способности и ротация Энх шамана" link="/enh/rotation.html" %}  
 
 <p></p>
 
@@ -66,7 +75,7 @@ toc: true
 * **Ловкость** – **лучшая характеристика**. Одеваемся в **уровень предметов** и симим каждую новую шмотку.
 * **Скорость** –  отдаем приоритет этой характеристике в первую очередь.
 * **Критический удар** и **Универсальность** – полезны на всех типах боев.
-* **Искусность** – гораздо полезнее на **АоЕ**, чем в бою против **одной цели**.
+* **Искусность** – гораздо полезнее на **АоЕ**, чем в бою против **одной цели** (кроме билда через [Волчьи кости колдуна](https://ru.wowhead.com/spell=335897) и <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>).
 
 * **Лут-таблица** с удобной сортировкой по характеристикам доступна [по этой ссылке](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy).
 
@@ -78,25 +87,32 @@ toc: true
 
 # Расходуемые предметы
 
-* {{ site.data.loot.Enchant_Weapon_Lightless_Force }}
-* {{ site.data.loot.Celestial_Guidance }}
+* {{ site.data.loot.Celestial_Guidance }} – универсальный чант, для всех типов боев.
+* {{ site.data.loot.Enchant_Weapon_Lightless_Force }} – для АоЕ.
+* {{ site.data.loot.Sinful_Revelation }} – лучший вариант в бою против одной цели.
+
+[Симьтесь](https://www.raidbots.com/simbot) персонально для точных данных.
 
 * {{ site.data.loot.Eternal_Skirmish }}
 * {{ site.data.loot.Enchant_Boots_Eternal_Agility }}
-* {{ site.data.loot.Enchant_Ring_Tenet_of_Haste }}
+* {{ site.data.loot.Enchant_Ring_Tenet_of_Haste }} или любой другой – [симьтесь](https://www.raidbots.com/simbot) персонально для точных данных.
 * {{ site.data.loot.Enchant_Cloak_Fortified_Avoidance }}
 * {{ site.data.loot.Enchant_Cloak_Fortified_Speed }}
 
 * {{ site.data.loot.Feast_of_Gluttonous_Hedonism }} – пир на Ловкость.
-* {{ site.data.loot.Tenebrous_Crown_Roast_Aspic }} – еда на Скорость.
+* {{ site.data.loot.Tenebrous_Crown_Roast_Aspic }} – еда на Скорость или любая другой – [симьтесь](https://www.raidbots.com/simbot) персонально для точных данных.
 
 * {{ site.data.loot.Flask_of_Power }} – универсальный настой на Ловкость/Интеллект/Силу.
 
 * {{ site.data.loot.Potion_of_Spectral_Agility }} – боевое зелье.
 
-* {{ site.data.loot.Quick_Jewel_Cluster }} – камень на Скорость.
+* {{ site.data.loot.Quick_Jewel_Cluster }} – камень на Скорость или любой другой – [симьтесь](https://www.raidbots.com/simbot) персонально для точных данных.
 
 **Важно!** Заточки и масла на оружие Шаман Совершенствования **НЕ** использует, так как они не сочетаются с {{ site.data.spells.ww }} и {{ site.data.spells.ftw }}.
+
+{% include button.html name="Мини-руководство по Raidbots" link="/info/sim.html" %}  
+
+<p></p>
 
 # Интерфейс
 
@@ -106,4 +122,4 @@ toc: true
 
 <p></p>
 
-Сайт находится в активной разработке. Обо всех найденных ошибках вы можете сообщить в дискорд **Amani#0001**. Найти меня можно на Discord-сервере [«Водоворот»](https://discord.gg/8Bag6kT).
+Обсудить данный гайд можно в дискорд сервере [«Водоворот»](https://discord.gg/8Bag6kT).
