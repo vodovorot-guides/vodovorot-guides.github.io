@@ -134,7 +134,6 @@ author: Amani
 
 <p></p>
 
-
 # <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
 <p align="center" width="100%">
@@ -191,10 +190,7 @@ author: Amani
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/ApqmEQUpfwYjBSg9BhUoNgYlKCwG"></a>
 
-
-
 <p></p>
-
 
 # <span style="color:#ff4040;font-size:1em;">Вентиры</span>
 
@@ -304,7 +300,7 @@ author: Amani
 
 **<span style="color:#68ccef;font-size:1em;">Клейя</span>** – **лучший** (ха-ха) **выбор для рейда и Мифик+**. Дает доступ к **одному** проводнику силы и пассивной способности – [Демонстративная отвага](https://ru.wowhead.com/spell=329778/). Проводники <span style="color:#68ccef;font-size:1em;">Кирий</span> – самые слабые из всех ковенантов, Клейя является просто наименее слабой из всех.
 
-* [Демонстративная отвага](https://ru.wowhead.com/spell=329778/) – увеличивает шанс Критического удара на 1% за каждого находящегося рядом союзника, вплоть до **5%**.
+* [Демонстративная отвага](https://ru.wowhead.com/spell=329778/) – увеличивает шанс Критического удара на **1%** за каждого находящегося рядом союзника, вплоть до **5%**.
 
 **Пример прокачки Клейи:**
 
