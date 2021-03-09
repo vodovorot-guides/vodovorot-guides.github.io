@@ -204,7 +204,7 @@ author: Amani
 
 ## <span style="color:#ff4040;font-size:1em;">Цепная жатва</span>
 
-<a href="https://ru.wowhead.com/spell=320674" target="blank" data-wh-icon-size="medium" >**Цепная жатва**</a>–  смесь двух наших заклинаний, {{ site.data.spells.cl }} и {{ site.data.spells.ch }}, но на **5** целей и с кулдауном в **полторы минуты**.
+<a href="https://ru.wowhead.com/spell=320674" target="blank" data-wh-icon-size="medium" >**Цепная жатва**</a> –  смесь двух наших заклинаний, {{ site.data.spells.cl }} и {{ site.data.spells.ch }}, но на **5** целей и с кулдауном в **полторы минуты**.
 
 * Наносит хороший урон на АоЕ, но крайне слабый в бою против одной цели.
 
