@@ -1,7 +1,7 @@
 ---
 title: Ковенанты и медиумы – Шаман Совершенствования
 layout: page
-last_update: 2020-03-09
+last_update: 2021-03-08
 wow: 9.0.5
 toc: true
 author: Amani
@@ -9,7 +9,6 @@ author: Amani
 
 <details markdown=1><summary><i>Подробности про систему ковенантов</i></summary>
 <br>
-
 
 **Ковенанты** – это новые фракции, к которым игроки примкнут в ходе путешествия по Темным Землям. Всего их четыре, и каждый из них дает доступ к двум способностям – одна общая, и одна уникальная для класса. В связи с тем, что шаман позиционируется как **«гибридный класс»**, все наши уникальные способности ковенантов имеют также лечащую часть, в той или иной степени.
 
@@ -77,11 +76,11 @@ author: Amani
 
 <a href="https://ru.wowhead.com/spell=300728" target="blank" data-wh-icon-size="medium" >**Врата теней**</a> – телепорт на **35** метров со временем произнесения **1.5** секунды.
 
-* Перемещение с помощью [Врат теней](https://ru.wowhead.com/spell=300728) не агрит противников на своем пути.  
+* Перемещение с помощью {{ site.data.covenants.door }} не агрит противников на своем пути.  
+
+* {{ site.data.spells.mw }} не влияет на скорость произнесения {{ site.data.covenants.door }}.
 
 * Для пропуска групп врагов в Мифик+ использовать его вряд ли получится, так как дальность телепорта довольно маленькая.  
-
-* С помощью трейта Наджии [Агент хаоса](https://ru.wowhead.com/spell=331576) можно дезориентировать врагов на **6** секунд, что является очень хорошим инструментом контроля в Мифик+.
 
 ## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
 
@@ -91,13 +90,19 @@ author: Amani
 
 * [Бесстрашный дуэлянт](https://ru.wowhead.com/spell=331584) – пассивное увеличение урона на **3%** против одной цели. После смерти отмеченной цели, метка переходит к случайному противнику. 
 
+**Пример прокачки Наджии:**
+
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQQVKHoEEQUpjgQhFSg9BA"></a>
 
 **<span style="color:#ff4040;font-size:1em;">Безумный герцог Теотар</span>**
 
+**Пример прокачки Теотара:**
+
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/ApbqEQUpjgQjBSg9BBUoNgQlKCwE"></a>
 
 **<span style="color:#ff4040;font-size:1em;">Генерал Дрейвен</span>**
+
+**Пример прокачки Дрейвена:**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/shaman/ApZvARUocQQRBSmOBCIFKD0EFSg2BA"></a>
 
@@ -146,15 +151,21 @@ author: Amani
 
 * [Инструменты Нии: колючая лоза](https://ru.wowhead.com/spell=320659) – наносит достаточно высокий урон, но является «лужей» на земле, из которой могут вывести босса или мобов. 
 
+**Пример прокачки Нии:**
+
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/ApZlAQUocQQRBSmOBCIVKD0EJSg2BA"></a>
 
 **<span style="color:#a330c9;font-size:1em;">Корейн</span>** – **лучший медиум для Мифик+**. Дает доступ к **одному** проводнику силы и пассивке – [Первый удар](https://ru.wowhead.com/spell=325069).
 
 * [Первый удар](https://ru.wowhead.com/spell=325069) – увеличивает шанс Критического удара на **25%**, если вы наносите урон раньше противника. Срабатывает в начале **каждого** боя в Мифик+, что делает эту способность одной из лучших пассивок медиумов в игре.
 
+**Пример прокачки Корейн:**
+
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/ApZlAQUocQQSBSmOBBUpkgQhFSg9BA"></a>
 
 **<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – слабый медиум для Энха, проигрывает Корейн и Нии. Дает доступ к **«cheat-death»** способности, которая спасает от смерти – [Защитный стручок](https://ru.wowhead.com/spell=319217).
+
+**Пример прокачки Творца снов:**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/ApqmEQUpjgQjBSg9BBUoNgQlKCwE"></a>
 
@@ -205,15 +216,21 @@ author: Amani
 
 **<span style="color:#68ccef;font-size:1em;">Пелагий</span>**
 
+**Пример прокачки Пелагия:**
+
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbmEgUpjgQVKZIEIhUoPQQlKDYE"></a>
 
 **<span style="color:#68ccef;font-size:1em;">Клейя</span>**
+
+**Пример прокачки Клейи:**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/ApZqAQUocQQRBSmOBCIVKD0EJSg2BA"></a>
 
 **<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>**
 
 В Мифик+ и на АоЕ боссах в рейде лучшим выбором трейта в последнем тире будет [Молот творения](https://ru.wowhead.com/spell=333935).
+
+**Пример прокачки Миканикоса:**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/ApZlAQUocQQSBSmOBBUpkgQhFSg9BA"></a>
 
@@ -259,6 +276,8 @@ author: Amani
 /cancelaura Зарядка оссеинового самоцвета
 ~~~
 
+**Пример прокачки Гейрмир:**
+
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/ApbqAQUocQQRBSmOBCIVKD0EJSg2BA"></a>
 
 **<span style="color:#40bf40;font-size:1em;">Эмени</span>** – дает доступ к **двум** проводникам силы и одной пассивке – [Образец для подражания](https://ru.wowhead.com/spell=342156).
@@ -267,9 +286,11 @@ author: Amani
 
 **Важно!** Основная характеристика для союзников от трейта {{ site.data.covenants.lead }} не учитывается в Симкрафте.
 
+**Пример прокачки Эмени:**
+
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/ApZlAQUocQQSBSmOBBUpkgQhFSg9BA"></a>
 
-**<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – дает доступ к **двум** проводникам силы и пассивной способности, эффективность которой разнится от инста к инсту – [Нестабильный растворитель](https://ru.wowhead.com/spell=323074).
+**<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – дает доступ к **двум** проводникам силы и пассивной способности, эффективность которой разница от инста к инсту – [Нестабильный растворитель](https://ru.wowhead.com/spell=323074).
 
 * [Нестабильный растворитель](https://ru.wowhead.com/spell=323074) – поглощает тела убитых противников, когда вы проходите рядом с ними. Дает бафф на **2** минуты, в зависимости от типа убитого существа:
 
@@ -282,6 +303,8 @@ author: Amani
 * [Великаны](https://ru.wowhead.com/spell=323506/) – Размер увеличен на **10%**. Наносимый физический урон увеличен на **3%**.
 * [Механизмы](https://ru.wowhead.com/spell=323507/) – Получаемый магический урон уменьшен на **5%**.
 * [Нежить](https://ru.wowhead.com/spell=323509/) – Убийство противников исцеляет на **2%** от максимального здоровья.
+
+**Пример прокачки Марилет:**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/ApbmEgUpjgQVKZIEIhUoPQQlKDYE"></a>
 
