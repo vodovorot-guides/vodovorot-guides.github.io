@@ -90,7 +90,7 @@ author: Amani
 
 **Пример прокачки Гейрмир:**
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/ApbqAQUocQQRBSl_BCIVKD0EJSg2BA"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/ApZqAQUocQYRBSl_BiIVKD0GJSg2Bg"></a>
 
 **<span style="color:#40bf40;font-size:1em;">Эмени</span>** – дает доступ к **двум** проводникам силы и одной пассивке – [Образец для подражания](https://ru.wowhead.com/spell=342156).
 
@@ -130,7 +130,7 @@ author: Amani
 
 **Пример прокачки Марилет:**
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/ApbuARUocQYSBSl_BhUs8gYhFSg9Bg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/ApbuARUoegYSBSl_BhUs8gYhFSg9Bg"></a>
 
 <p></p>
 
