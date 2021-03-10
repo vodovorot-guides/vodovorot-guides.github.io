@@ -185,7 +185,7 @@ custom-javascript-list:
 2. Поддерживайте {{ site.data.spells.fs }} на **обеих** целях.
 3. Кастуйте {{ site.data.spells.eb }} **по кулдауну**.
 4. Кастуйте {{ site.data.spells.lvb }} **по кулдауну**, даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
-5. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188196) для генерации энергии Водоворота.
+5. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для генерации энергии Водоворота.
 
 # Бой против **3** целей
 
@@ -196,7 +196,7 @@ custom-javascript-list:
 3. Кастуйте {{ site.data.spells.eb }} **по кулдауну**.
 4. Кастуйте {{ site.data.spells.lvb }} **по проку** [Волны лавы](https://ru.wowhead.com/spell=77756).
 5. {{ site.data.spells.lvb }} даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756) перед [Землетрясением](https://ru.wowhead.com/spell=61882).
-6. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188196) для генерации энергии Водоворота.
+6. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для генерации энергии Водоворота.
 
 # Бой против **4** и более целей
 
