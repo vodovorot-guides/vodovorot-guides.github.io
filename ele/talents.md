@@ -1,8 +1,8 @@
 ---
 title: Таланты Шамана Стихии
 layout: page
-last_update: 2021-01-25
-wow: 9.0.2
+last_update: 2021-03-10
+wow: 9.0.5
 toc: true
 author: Amani
 ---
@@ -107,7 +107,7 @@ author: Amani
 
 ## Четвертый тир, 35 уровень
 
-{% include talents.html data=site.data.talents.ele active="100" row=4 %}
+{% include talents.html data=site.data.talents.ele active="110" row=4 %}
 
 <a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" >**Властелин стихий**</a> – пассивный талант, увеличивает урон от различных заклинаний на **20%** после применения [Выброса лавы](https://ru.wowhead.com/spell=51505).
 
@@ -136,11 +136,12 @@ author: Amani
 
 <a href="https://ru.wowhead.com/spell=192249" target="blank" data-wh-icon-size="medium" >**Элементаль бури**</a> – пассивный талант, заменяет [Элементаля огня](https://ru.wowhead.com/spell=198067). Сокращает время прознесения [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) на **3%**, вплоть до **60%**.
 
-* **Потенциально может найти применение в Мифик+**. На данный момент этот талант слабее [Властелина стихий](https://ru.wowhead.com/spell=16166) в этом же тире.
+* **Сильный талант для Мифик+, но только в организованной группе**. 
 
 * Используется только в сочетании с талантом шестого тира – {{ site.data.spells.primal_elem }}, что превращает его в отличную способность, особенно на АоЕ.
 * Так как {{ site.data.spells.storm }} заменяет [Элементаля огня](https://ru.wowhead.com/spell=198067), вы лишаетесь продления длительности и ускоренных тиков [Огненного шока](https://ru.wowhead.com/spell=188389).
-* Несмотря на уменьшение скорости произнесения [Молнии](https://ru.wowhead.com/spell=188196) при активном [Элементале бури](https://ru.wowhead.com/spell=192249), в бою против одной цели мы все равно кастуем {{ site.data.spells.lvb }}, вплоть до **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806)
+* Несмотря на уменьшение скорости произнесения [Молнии](https://ru.wowhead.com/spell=188196) при активном [Элементале бури](https://ru.wowhead.com/spell=192249), в бою против одной цели мы все равно кастуем {{ site.data.spells.lvb }}, вплоть до **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
+* На АоЕ, во время активного [Элементаля бури](https://ru.wowhead.com/spell=192249), спамим [Цепную молнию](https://ru.wowhead.com/spell=188443) и тратим энергию Водоворота на {{ site.data.spells.quake }}.
 
 <a href="https://ru.wowhead.com/spell=192222" target="blank" data-wh-icon-size="medium" >**Тотем жидкой магмы**</a> – активный талант, тотем со временем восстановления **1** минута, который наносит АоЕ урон в определенном месте в течение **15** секунд.
 
