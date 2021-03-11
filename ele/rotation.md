@@ -211,7 +211,7 @@ custom-javascript-list:
 
 При игре через [Элементаля бури](https://ru.wowhead.com/spell=192249) ротация становится гораздо проще, так как без таланта {{ site.data.spells.mote }} нам не надо думать про бафф [Землетрясения](https://ru.wowhead.com/spell=61882) с помощью [Выброса лавы](https://ru.wowhead.com/spell=51505).
 
-Начиная от **2** целей мы просто спамим [Цепную молнию](https://ru.wowhead.com/spell=188443) и тратим энергию Водоворота на [Землетрясение](https://ru.wowhead.com/spell=61882). Даже с легендаркой {{ site.data.legend.fire }}, можно не развешивать [Огненные шоки](https://ru.wowhead.com/spell=188389) на АоЕ (или только во время перебежек).
+Начиная от **2** целей мы просто спамим [Цепную молнию](https://ru.wowhead.com/spell=188443) и тратим энергию Водоворота на [Землетрясение](https://ru.wowhead.com/spell=61882). Даже с легендаркой {{ site.data.legend.fire }}, можно не развешивать [Огненные шоки](https://ru.wowhead.com/spell=188389) на АоЕ (или только во время перебежек). А с легой {{ site.data.legend.eogs }} всегда чередуйте {{ site.data.spells.es }} и {{ site.data.spells.quake }}.
 
 Помните, что [Элементаль бури](https://ru.wowhead.com/spell=192249) в Мифик+ раскрывает себя только в организованной группе, когда вы знаете что ваш бурст не уйдет в пустоту. Нет ничего хуже, чем вызвать [Элементаля бури](https://ru.wowhead.com/spell=192249) и увидеть как маг применяет [Возгорание](https://ru.wowhead.com/spell=190319).
 {: class="bordered"}
