@@ -186,6 +186,7 @@ custom-javascript-list:
 3. Кастуйте {{ site.data.spells.eb }} **по кулдауну**.
 4. Кастуйте {{ site.data.spells.lvb }} **по кулдауну**, даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
 5. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для генерации энергии Водоворота.
+  * При активном [Хранителе бурь](https://ru.wowhead.com/spell=191634) на **2** целе используйте [Молнию](https://ru.wowhead.com/spell=188196), а не [Цепную молнию](https://ru.wowhead.com/spell=188443).
 
 # Бой против **3** целей
 
