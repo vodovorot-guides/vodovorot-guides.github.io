@@ -45,6 +45,27 @@ custom-javascript-list:
 
 {% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
 
+# Открывающая ротация, «Opener»
+
+**Опенер** – это фиксированный порядок кастов в самом начале боя. Динамический опенер находится в разработке, ниже представлены стандартный вариант опенера, с талантами {{ site.data.spells.eb }} и {{ site.data.spells.if }} и с легендаркой {{ site.data.legend.lava }}:
+
+1. {{ site.data.spells.sk }} за **5** секунд до пула.
+3. {{ site.data.spells.fe }} за **3.5** секунд до пула.
+2. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+4. {{ site.data.covenants.pw }} (или {{ site.data.spells.fs }}, если вы не <span style="color:#40bf40;font-size:1em;">Некролорд</span>)
+5. {{ site.data.spells.lvb }}
+6. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
+7. {{ site.data.spells.lvb }}
+8. {{ site.data.spells.es }}
+9. {{ site.data.spells.lvb }}
+10. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
+11. {{ site.data.spells.if }}
+12. Продолжаем обычную ротацию.
+
+Призывайте до пула {{ site.data.spells.igor }} (перед {{ site.data.spells.sk }}), но только если вы не используете талант {{ site.data.spells.primal_elem }}. Помните, что {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
+{: class="bordered"}
+
 # Бой против одной цели
 
 Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта.
@@ -88,27 +109,6 @@ custom-javascript-list:
 27. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
 28. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
 29. {{ site.data.spells.lb }} 
-
-# Открывающая ротация, «Opener»
-
-**Опенер** – это фиксированный порядок кастов в самом начале боя. Динамический опенер находится в разработке, ниже представлены стандартный вариант опенера, с талантами {{ site.data.spells.eb }} и {{ site.data.spells.if }} и с легендаркой {{ site.data.legend.lava }}:
-
-1. {{ site.data.spells.sk }} за **5** секунд до пула.
-3. {{ site.data.spells.fe }} за **3.5** секунд до пула.
-2. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
-  * ***Пул босса.***
-4. {{ site.data.covenants.pw }} (или {{ site.data.spells.fs }}, если вы не <span style="color:#40bf40;font-size:1em;">Некролорд</span>)
-5. {{ site.data.spells.lvb }}
-6. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
-7. {{ site.data.spells.lvb }}
-8. {{ site.data.spells.es }}
-9. {{ site.data.spells.lvb }}
-10. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
-11. {{ site.data.spells.if }}
-12. Продолжаем обычную ротацию.
-
-Призывайте до пула {{ site.data.spells.igor }} (перед {{ site.data.spells.sk }}), но только если вы не используете талант {{ site.data.spells.primal_elem }}. Помните, что {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
-{: class="bordered"}
 
 **Влияние легендарных предметов на ротацию**
 
