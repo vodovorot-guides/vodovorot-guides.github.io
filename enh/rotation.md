@@ -15,6 +15,17 @@ custom-javascript-list:
 
 {% include talents.html data=site.data.talents.enh active="2101033" switch=true %}
 
+# Открывающая ротация, «Opener»
+
+**Опенер** – это фиксированный порядок кастов в самом начале боя. Динамический опенер находится в разработке, ниже представлены стандартный вариант опенера, с талантами {{ site.data.spells.asc_enh }} и с легендаркой {{ site.data.legend.doom }}:
+
+1. {{ site.data.spells.fs }} по дороге к боссу.
+2. {{ site.data.spells.ss }}
+3. {{ site.data.spells.feral }}
+4. {{ site.data.spells.asc_enh }} и сразу же {{ site.data.spells.windstrike }}
+5. {{ site.data.spells.wt }}
+6. Продолжаем обычную ротацию.
+
 # Бой против одной цели
 
 Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта:
@@ -47,17 +58,6 @@ custom-javascript-list:
 22. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}
 23. {{ site.data.spells.lb }} при **5+** стаках {{ site.data.spells.mw }}
 24. {{ site.data.spells.wt }} если все другие способности недоступны.
-
-# Открывающая ротация, «Opener»
-
-**Опенер** – это фиксированный порядок кастов в самом начале боя. Динамический опенер находится в разработке, ниже представлены стандартный вариант опенера, с талантами {{ site.data.spells.asc_enh }} и с легендаркой {{ site.data.legend.doom }}:
-
-1. {{ site.data.spells.fs }} по дороге к боссу.
-2. {{ site.data.spells.ss }}
-3. {{ site.data.spells.feral }}
-4. {{ site.data.spells.asc_enh }} и сразу же {{ site.data.spells.windstrike }}
-5. {{ site.data.spells.wt }}
-6. Продолжаем обычную ротацию.
 
 # Основные моменты ротации
 
