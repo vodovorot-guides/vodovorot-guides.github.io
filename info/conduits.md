@@ -19,72 +19,68 @@ author: Amani
 
 ## Стихии
 
-<a href="https://ru.wowhead.com/spell=338303" target="blank" data-wh-icon-size="medium" >**Призыв пламени**</a> – время существования [Элементаля огня](https://ru.wowhead.com/spell=198067)  или [Элементаля бури](https://ru.wowhead.com/spell=192249) увеличивается на **35-50%**.
+<a href="https://ru.wowhead.com/spell=338303" target="blank" data-wh-icon-size="medium" >**Призыв пламени**</a> – время существования [Элементаля огня](https://ru.wowhead.com/spell=198067) или [Элементаля бури](https://ru.wowhead.com/spell=192249) увеличивается на **35-50%**.
 
 * На **226** уровне добавляет **12.3** секунд к длительности элементалей.  
 * Лучший проводник, ставим его в первую очередь.
 
-{{ site.data.conduits.hv }} – {{ site.data.spells.lb }} с вероятностью **25-40%** дает в два раза больше Энергии Водоворота.
+<a href="https://ru.wowhead.com/spell=338131" target="blank" data-wh-icon-size="medium" >**Высокое напряжение**</a> – {{ site.data.spells.lb }} с вероятностью **25-40%** дает в два раза больше Энергии Водоворота.
 
 * На **226** уровне шанс составляет **32%**.  
 
-{{ site.data.conduits.shake }} – при применении {{ site.data.spells.quake }}, также с вероятностью **10-20%** мгновенно испускается {{ site.data.spells.cl }} в случайного противника, пораженного {{ site.data.spells.quake }}.
+<a href="https://ru.wowhead.com/spell=338252" target="blank" data-wh-icon-size="medium" >**Сотрясание основ**</a> – при применении [Землетрясения](https://ru.wowhead.com/spell=61882), также с вероятностью **10-20%** мгновенно кастуется {{ site.data.spells.cl }} в случайного противника, пораженного [Землетрясением](https://ru.wowhead.com/spell=61882).
 
 * На **226** уровне шанс составляет **14%**.  
-* Проки {{ site.data.spells.cl }} дают стаки {{ site.data.spells.wind_gust }} при активном {{ site.data.spells.storm }}.
+* Проки [Цепной молнии](https://ru.wowhead.com/spell=188443) дают стаки [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 
-{{ site.data.conduits.pyroclastic_shock }} – {{ site.data.spells.es }} имеет **15-36%** шанс продлить длительность {{ site.data.spells.fs }} на цели на 12 секунд.
+<a href="https://ru.wowhead.com/spell=345594" target="blank" data-wh-icon-size="medium" >**Пирокластический шок**</a> – {{ site.data.spells.es }} имеет **15-36%** шанс продлить длительность [Огненного шока](https://ru.wowhead.com/spell=188389) на цели на **12** секунд.
 
 * На **226** уровне шанс составляет **24%**.  
-* По сути, с этим проводником, {{ site.data.spells.es }} просто имеет шанс сэкономить одно ГКД на обновлении {{ site.data.spells.fs }}.
 
 ## Совершенствование
 
-{{ site.data.conduits.winds }} –  {{ site.data.spells.ww }} с вероятностью **20-35%** наносит третью атаку.
+<a href="https://ru.wowhead.com/spell=338318" target="blank" data-wh-icon-size="medium" >**Неистовые ветра**</a> –  {{ site.data.spells.ww }} с вероятностью **20-35%** наносит третью атаку.
 
 * На **226** уровне шанс составляет **26%**.  
 * Лучший проводник в сочетании с легендаркой {{ site.data.legend.doom }} и талантом {{ site.data.spells.fw }}.
-* Дополнительная атака может дать заряд {{ site.data.spells.mw }}.
+* Дополнительная атака может дать заряд [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 
-{{ site.data.conduits.focused }} – {{ site.data.spells.mw }} увеличивает урон и эффективность исцеления следующего примененного заклинания дополнительно на **1-4.5%** за эффект.
-
-* На **226** уровне увеличение урона составляет **2.5%** за стак, то есть **12.5%** на **5** стаках.  
-* Значения этого баффа добавляются напрямую к эффекту {{ site.data.spells.mw }}.  
-* Работает в том числе и на заклинания исцеления ({{ site.data.spells.hs }}, {{ site.data.spells.ch }}), и самое главное на {{ site.data.covenants.ch }}.
-
-{{ site.data.conduits.magma }} – вероятность того, что {{ site.data.spells.ll }} нанесет критический урон противникам, пораженным {{ site.data.spells.fs }}, увеличивается на **15-25%**.
+<a href="https://ru.wowhead.com/spell=338331" target="blank" data-wh-icon-size="medium" >**Магмовый кулак**</a> – вероятность того, что {{ site.data.spells.ll }} нанесет критический урон противникам, пораженным [Огненным шоком](https://ru.wowhead.com/spell=188389), увеличивается на **15-25%**.
 
 * На **226** уровне шанс критического удара повышается на **19%**.  
 * Сочетается с талантом {{ site.data.spells.hh }} и с легендаркой {{ site.data.legend.actuators }}.
 
-{{ site.data.conduits.cold }} – {{ site.data.spells.frs }} с вероятностью **20-35%** дает два заряда {{ site.data.spells.mw }}.
+<a href="https://ru.wowhead.com/spell=338322" target="blank" data-wh-icon-size="medium" >**Направленная молния**</a> – {{ site.data.spells.mw }} увеличивает урон и эффективность исцеления следующего примененного заклинания дополнительно на **1-4.5%** за эффект.
+
+* На **226** уровне увеличение урона составляет **2.5%** за стак, то есть **12.5%** на **5** стаках.  
+* Значения этого баффа добавляются напрямую к эффекту [Оружия Водоворота](https://ru.wowhead.com/spell=187880).  
+* Работает в том числе и на заклинания исцеления ({{ site.data.spells.hs }}, {{ site.data.spells.ch }}), и самое главное – на {{ site.data.covenants.ch }}.
+
+<a href="https://ru.wowhead.com/spell=338325" target="blank" data-wh-icon-size="medium" >**Холодная душа**</a> – {{ site.data.spells.frs }} с вероятностью **20-35%** дает два заряда {{ site.data.spells.mw }}.
 
 * На **226** уровне шанс составляет **27%**.  
-* Сочетается с талантом {{ site.data.spells.hailstorm }}, так как каждый {{ site.data.spells.frs }} имеет отдельный шанс на возврат стаков {{ site.data.spells.mw }}.  
-
+* Сочетается с талантом {{ site.data.spells.hailstorm }}, так как каждый {{ site.data.spells.frs }} имеет отдельный шанс на возврат стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 
 ## Исцеление
 
-{{ site.data.conduits.swirls }} – использование {{ site.data.spells.hst }} или {{ site.data.spells.cbt }} увеличивает эффективность исцеления трех следующих способностей {{ site.data.spells.hs }}, {{ site.data.spells.hw }} или {{ site.data.spells.riptide }} на **20-40%**.
+<a href="https://ru.wowhead.com/spell=338339" target="blank" data-wh-icon-size="medium" >**Кружащие потоки**</a> – использование [Тотема исцеляющего потока](https://ru.wowhead.com/spell=5394) или [Тотема разразившегося ливня](https://ru.wowhead.com/spell=) увеличивает эффективность исцеления трех следующих способностей {{ site.data.spells.hs }}, {{ site.data.spells.hw }} или {{ site.data.spells.riptide }} на **20-40%**.
 
 * На **226** уровне отхил повышается на **29%**. 
 * Наш лучший проводник, вставляем его в первую очередь. 
 * Сочетается с талантом {{ site.data.spells.eote_resto }}, который не дает потерять кулдаун тотемов.
 * Позволяет сильнее накапливать отхил после установки {{ site.data.spells.cbt }}.
-* Отлично сочетается со способностью Некролордов {{ site.data.covenants.pw }}, так как за все дублированные {{ site.data.spells.hw }} тратится только один стак баффа от проводника.
+* Отлично сочетается со способностью Некролордов {{ site.data.covenants.pw }}, так как за все дублированные [Волны исцеления](https://ru.wowhead.com/spell=77472) тратится только один стак баффа от проводника.
 
-{{ site.data.conduits.rain }} – установка {{ site.data.spells.htt }} усиливает исцеление от нашего {{ site.data.spells.rain }} на **75-145%** на 20 сек.
+<a href="https://ru.wowhead.com/spell=338343" target="blank" data-wh-icon-size="medium" >**Могучий ливень**</a> – установка [Тотема целительного прилива](https://ru.wowhead.com/spell=108280) усиливает исцеление от нашего [Целительного ливня](https://ru.wowhead.com/spell=73920) на **75-145%** на 20 сек.
 
-* Отличный проводник для **Мифик+**, так как помогает с отхилом модификатора {{ site.data.spells.prideful }}.  
 * На **226** уровне отхил повышается на **105%**.  
-* Наш основной бурст, помимо собственного эффекта, также достаточно мощно усилит {{ site.data.spells.rain }}.  
-* За счет того, что время действия {{ site.data.spells.rain }} равняется его кулдауну, у нас неизбежно будут потери **2-3** секунд времени баффа.
+* За счет того, что время действия [Целительного ливня](https://ru.wowhead.com/spell=73920) равняется его кулдауну, у нас неизбежно будут потери **2-3** секунд времени баффа.
  
-{{ site.data.conduits.earth }} – {{ site.data.spells.eshield }} усиливает применяемое к цели исцеление еще на **5-12%**.
+<a href="https://ru.wowhead.com/spell=338329" target="blank" data-wh-icon-size="medium" >**Объятия Земли**</a> – {{ site.data.spells.eshield }} усиливает применяемое к цели исцеление еще на **5-12%**.
 
 * На **226** уровне отхил повышается на **8%**, то есть в общей сложности на **28%**.  
 
-{{ site.data.conduits.hvatka }} – {{ site.data.spells.ch }} исцеляет первоначальную цель на **10-20%** сильнее.
+<a href="https://ru.wowhead.com/spell=338346" target="blank" data-wh-icon-size="medium" >**Средоточие природы**</a> – {{ site.data.spells.ch }} исцеляет первоначальную цель на **10-20%** сильнее.
 
 * На **226** уровне усиление отхила составляет **14%**.  
 
