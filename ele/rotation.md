@@ -41,7 +41,7 @@ custom-javascript-list:
 
 Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант. Ниже представлен билд для боя против **одной цели**. 
 
-Ротация на **АоЕ** расписана для всех типов боев – на две, три, четыре и более целей. Билд на **АоЕ** отличается от билда против **одной цели** и указан разделе [«Таланты и билды»](https://stormkeeper.ru/ele/talents.html)
+Ротация на **АоЕ** расписана для всех типов боев – на две, три, четыре и более целей. Билд на **АоЕ** отличается от билда против **одной цели** и указан в разделе [«Таланты и билды»](https://stormkeeper.ru/ele/talents.html).
 
 {% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
 
@@ -116,7 +116,7 @@ custom-javascript-list:
 
 * {{ site.data.legend.eogs }} – чередуем {{ site.data.spells.es }} и {{ site.data.spells.quake }} и в бою против **одной цели**, и на **АоЕ**. Всегда следует бафать усиленное {{ site.data.spells.quake }} с помощью таланта {{ site.data.spells.mote }}.
 
-* {{ site.data.legend.fire }} – развешиваем [Огненные шоки](https://ru.wowhead.com/spell=188389) на все доступные цели. При взятом таланте {{ site.data.legend.storm }} – только когда {{ site.data.legend.storm }} не активнен (в бою против одной цели следуйте приоритетам выше).
+* {{ site.data.legend.fire }} – развешиваем [Огненные шоки](https://ru.wowhead.com/spell=188389) на все доступные цели. При взятом таланте {{ site.data.spells.storm }} – только когда {{ site.data.legend.storm }} не активнен (в бою против одной цели следуйте приоритетам выше).
 
 <a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" >**Властелин стихий**</a> – особые моменты при использовании.
 
