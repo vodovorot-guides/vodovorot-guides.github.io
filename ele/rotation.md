@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-03-10
+last_update: 2021-03-17
 wow: 9.0.5
 toc: true
 author: Amani
@@ -112,7 +112,7 @@ custom-javascript-list:
 
 **Влияние легендарных предметов на ротацию**
 
-* {{ site.data.legend.lava }} – кастуем усиленный {{ site.data.spells.lvb }} после каждого применения [Земного шока](https://ru.wowhead.com/spell=8042) (точные приоритеты указаны выше). Бафф от этой легендарки работает на [Первозданную волну](https://ru.wowhead.com/spell=326059) <span style="color:#40bf40;font-size:1em;">Некролордов</span>, усиливая все выпущенные [Выбросы лавы](https://ru.wowhead.com/spell=51505) на **20%**. Используется только в бою против **одной цейли**, на **две** и более цели стоит использовать {{ site.data.spells.quake }}.
+* {{ site.data.legend.lava }} – кастуем усиленный {{ site.data.spells.lvb }} после каждого применения [Земного шока](https://ru.wowhead.com/spell=8042) (точные приоритеты указаны выше). Бафф от этой легендарки работает на [Первозданную волну](https://ru.wowhead.com/spell=326059) <span style="color:#40bf40;font-size:1em;">Некролордов</span>, усиливая все выпущенные [Выбросы лавы](https://ru.wowhead.com/spell=51505) на **20%**. Используется только в бою против **одной цели**, на **две** и более цели стоит использовать {{ site.data.spells.quake }}.
 
 * {{ site.data.legend.eogs }} – чередуем {{ site.data.spells.es }} и {{ site.data.spells.quake }} и в бою против **одной цели**, и на **АоЕ**. Всегда следует бафать усиленное {{ site.data.spells.quake }} с помощью таланта {{ site.data.spells.mote }}.
 
@@ -188,31 +188,42 @@ custom-javascript-list:
 5. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для генерации энергии Водоворота.
   * При активном [Хранителе бурь](https://ru.wowhead.com/spell=191634) на **2** целе используйте [Молнию](https://ru.wowhead.com/spell=188196), а не [Цепную молнию](https://ru.wowhead.com/spell=188443).
 
+При использовании легендарки {{ site.data.legend.eogs }} следует чередовать [Земной шок](https://ru.wowhead.com/spell=8042) и {{ site.data.spells.quake }} при любом количестве целей. С этой легой всегда усиляйте {{ site.data.spells.quake }} с помощью таланта {{ site.data.spells.mote }}
+{: class="bordered"}
+
 # Бой против **3** целей
 
-В бою против **трех** целей мы все еще используемротацию для **боя против одной цели**(указанную выше), но уделяем меньше внимания [Выбросу лавы](https://ru.wowhead.com/spell=51505), кастуя его только по проку, либо перед [Землетрясением](https://ru.wowhead.com/spell=61882).
+В бою против **трех** целей мы все еще используем ротацию для **боя против одной цели**(указанную выше), но уделяем меньше внимания [Выбросу лавы](https://ru.wowhead.com/spell=51505), кастуя его только по проку, либо перед [Землетрясением](https://ru.wowhead.com/spell=61882).
 
 1. Используйте {{ site.data.spells.quake }} вместо [Земного шока](https://ru.wowhead.com/spell=8042) для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 2. Поддерживайте {{ site.data.spells.fs }} на **всех** целях.
 3. Кастуйте {{ site.data.spells.eb }} **по кулдауну**.
 4. Кастуйте {{ site.data.spells.lvb }} **по проку** [Волны лавы](https://ru.wowhead.com/spell=77756).
-5. {{ site.data.spells.lvb }} даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756) перед [Землетрясением](https://ru.wowhead.com/spell=61882).
+5. Кастуйте {{ site.data.spells.lvb }} даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756) перед [Землетрясением](https://ru.wowhead.com/spell=61882).
 6. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для генерации энергии Водоворота.
 
 # Бой против **4** и более целей
 
-В бою против **четыре** целей мы переходим на полноценную **АоЕ** ротацию: прекращаем использовать {{ site.data.spells.eb }} и {{ site.data.spells.if }}, а {{ site.data.spells.lvb }} кастуем **только** по проку перед [Землетрясением](https://ru.wowhead.com/spell=61882)
+В бою против **четырех** целей мы переходим на **АоЕ** ротацию: прекращаем использовать {{ site.data.spells.eb }} и {{ site.data.spells.if }}, а {{ site.data.spells.lvb }} кастуем **только** по проку перед [Землетрясением](https://ru.wowhead.com/spell=61882)
 
 1. Используйте {{ site.data.spells.quake }} для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 2. Кастуйте {{ site.data.spells.lvb }} **по проку** от [Волны лавы](https://ru.wowhead.com/spell=77756), только перед [Землетрясением](https://ru.wowhead.com/spell=61882).
 3. Поддерживайте {{ site.data.spells.fs }} на **1-2** самых живучих целях.
 4. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для набора энергии Водоворота.
 
+# Бой против **5** и более целей
+
+В бою против **пяти и более** целей мы не используем {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключением является использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166) вне зависимости от количества целей.
+
+1. Используйте {{ site.data.spells.quake }} для траты энергии Водоворота.
+2. Используйте {{ site.data.spells.fs }} на самые живучих цели, но только во время перебежек.
+3. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для набора энергии Водоворота.
+
 # АоЕ бой через Элементаля бури
 
 При игре через [Элементаля бури](https://ru.wowhead.com/spell=192249) ротация становится гораздо проще, так как без таланта {{ site.data.spells.mote }} нам не надо думать про бафф [Землетрясения](https://ru.wowhead.com/spell=61882) с помощью [Выброса лавы](https://ru.wowhead.com/spell=51505).
 
-Начиная от **2** целей мы просто спамим [Цепную молнию](https://ru.wowhead.com/spell=188443) и тратим энергию Водоворота на [Землетрясение](https://ru.wowhead.com/spell=61882). Даже с легендаркой {{ site.data.legend.fire }}, можно не развешивать [Огненные шоки](https://ru.wowhead.com/spell=188389) на АоЕ (или только во время перебежек). А с легой {{ site.data.legend.eogs }} всегда чередуйте {{ site.data.spells.es }} и {{ site.data.spells.quake }}.
+Начиная от **2** целей мы просто спамим [Цепную молнию](https://ru.wowhead.com/spell=188443) и тратим энергию Водоворота на [Землетрясение](https://ru.wowhead.com/spell=61882).
 
 Помните, что [Элементаль бури](https://ru.wowhead.com/spell=192249) в Мифик+ раскрывает себя только в организованной группе, когда вы знаете что ваш бурст не уйдет в пустоту. Нет ничего хуже, чем вызвать [Элементаля бури](https://ru.wowhead.com/spell=192249) и увидеть как маг применяет [Возгорание](https://ru.wowhead.com/spell=190319).
 {: class="bordered"}
