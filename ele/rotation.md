@@ -202,7 +202,7 @@ custom-javascript-list:
 5. Кастуйте {{ site.data.spells.lvb }} даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756) перед [Землетрясением](https://ru.wowhead.com/spell=61882).
 6. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для генерации энергии Водоворота.
 
-# Бой против **4** и более целей
+# Бой против **4**
 
 В бою против **четырех** целей мы переходим на **АоЕ** ротацию: прекращаем использовать {{ site.data.spells.eb }} и {{ site.data.spells.if }}, а {{ site.data.spells.lvb }} кастуем **только** по проку перед [Землетрясением](https://ru.wowhead.com/spell=61882).
 
