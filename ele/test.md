@@ -9,50 +9,17 @@ custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
 
-
-1. {:.vt-apl}Pre-cast  {{ site.data.covenants.vt }} no later than 6.5 seconds before the pull
-2. {:.sk-apl}Pre-cast  {{ site.data.spells.sk }} at 5 seconds before the pull
-3. {:.mote-apl}Pre-cast  {{ site.data.spells.fe }} at 3.5 seconds before the pull
-3. {:.lmt-apl}Pre-cast  {{ site.data.spells.fe }} at 3.5 seconds before the pull
-4. {:.storm-apl}Pre-cast  {{ site.data.spells.storm }} at 3.5 seconds before the pull
-5. {:.eb-apl}Pre-cast  {{ site.data.spells.eb }} at 2 seconds before the pull
-  * Пулп босса
-6. {:.ecs-apl}Pre-cast  {{ site.data.spells.lvb }} at 2 seconds before the pull
-  * Пулл босса
-7. {:.afs-apl}Pre-cast  {{ site.data.spells.lvb }} at 2 seconds before the pull
-  * Пулл босса
-8. {:.ch-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-9. {:.ft-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-10. {:.vt-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-11. {:.ecs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-12. {:.afs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-
-13. {:.pw-apl}Cast  {{ site.data.covenants.pw }}
-
-14. {:.eb-apl}Cast  {{ site.data.spells.lvb }}
-15. {:.sk-apl}Cast your first  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
-16. {:.ecs-apl}Cast  {{ site.data.spells.ecs }}
-17. {:.eote-apl}Cast  {{ site.data.spells.lvb }}
-18. {:.sk-apl}Cast your second  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
-19. {:.if-apl} {{ site.data.spells.if }}
-20. {:.asc_ele-apl}  {{ site.data.spells.asc_ele }}
-21. {:.discharge-apl}Cast  {{ site.data.spells.discharge }}
-22. {:.lmt-apl}Cast  {{ site.data.spells.lmt }}
-23. {:.ft-apl}Cast  {{ site.data.covenants.ft }}
-24. {:.ch-apl}Cast  {{ site.data.covenants.ch }}
-25. Follow the standard priority from here
-
 # Выбор билда
 
 Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант. Ниже представлен билд для боя против **одной цели**. 
 
-Ротация на **АоЕ** расписана для всех типов боев – на две, три, четыре и более целей. Билд на **АоЕ** отличается от билда против **одной цели** и указан в разделе [«Таланты и билды»](https://stormkeeper.ru/ele/talents.html).
+Ротация на **АоЕ** расписана для всех типов боев – на две, три, четыре, пять и более целей. Билд на **АоЕ** отличается от билда против **одной цели** и указан в разделе [«Таланты и билды»](https://stormkeeper.ru/ele/talents.html).
 
 {% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
 
 # Открывающая ротация, «Opener»
 
-**Опенер** – это фиксированный порядок кастов в самом начале боя. Динамический опенер находится в разработке, ниже представлены стандартный вариант опенера, с талантами {{ site.data.spells.eb }} и {{ site.data.spells.if }} и с легендаркой {{ site.data.legend.lava }}:
+**Опенер** – это фиксированный порядок кастов в самом начале боя. 
 
 1. {:.sop-apl}{{ site.data.spells.igor }} за **7** секунд до пула.
 1. {:.if-apl}{{ site.data.spells.igor }} за **7** секунд до пула.
@@ -89,7 +56,7 @@ custom-javascript-list:
 24. {:.ch-apl}{{ site.data.covenants.ch }}
 12. Продолжаем обычную ротацию.
 
-{{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула. Но за все время своего существования он наносит урона примерно как один {{ site.data.spells.lvb }}, к тому же вызывается до пула.
+{{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
 {: class="bordered"}
 
 # Бой против одной цели
