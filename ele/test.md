@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 9.0.5
+wow: 1
 toc: true
 author: Amani
 custom-javascript-list:
@@ -21,21 +21,24 @@ custom-javascript-list:
 8. {:.ch-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
 9. {:.ft-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
 10. {:.vt-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-11. {:.ecs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-12. {:.afs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-13. {:.pw-apl}Cast  {{ site.data.covenants.pw }}
-14. {:.eb-apl}Cast  {{ site.data.spells.lvb }}
-15. {:.sk-apl}Cast your first  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
-16. {:.ecs-apl}Cast  {{ site.data.spells.ecs }}
-17. {:.eote-apl}Cast  {{ site.data.spells.lvb }}
-18. {:.sk-apl}Cast your second  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
-19. {:.if-apl} {{ site.data.spells.if }}
-20. {:.asc_ele-apl}  {{ site.data.spells.asc_ele }}
-21. {:.discharge-apl}Cast  {{ site.data.spells.discharge }}
-22. {:.lmt-apl}Cast  {{ site.data.spells.lmt }}
-23. {:.ft-apl}Cast  {{ site.data.covenants.ft }}
-24. {:.ch-apl}Cast  {{ site.data.covenants.ch }}
-25. Follow the standard priority from here
+11. {:.mote-apl}As the boss is pulled,ТЕСТ cast  {{ site.data.spells.fs }}
+12. {:.lmt-apl}As the boss is pulled,ТЕСТ cast  {{ site.data.spells.fs }} 
+13. {:.storm-apl}As the boss is pulled,ТЕСТ cast  {{ site.data.spells.fs }} 
+14. {:.ecs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+15. {:.afs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+16. {:.pw-apl}Cast  {{ site.data.covenants.pw }}
+17. {:.eb-apl}Cast  {{ site.data.spells.lvb }}
+18. {:.sk-apl}Cast your first  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
+19. {:.ecs-apl}Cast  {{ site.data.spells.ecs }}
+20. {:.eote-apl}Cast  {{ site.data.spells.lvb }}
+21. {:.sk-apl}Cast your second  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
+22. {:.if-apl} {{ site.data.spells.if }}
+23. {:.asc_ele-apl}  {{ site.data.spells.asc_ele }}
+24. {:.discharge-apl}Cast  {{ site.data.spells.discharge }}
+25. {:.lmt-apl}Cast  {{ site.data.spells.lmt }}
+26. {:.ft-apl}Cast  {{ site.data.covenants.ft }}
+27. {:.ch-apl}Cast  {{ site.data.covenants.ch }}
+28. Follow the standard priority from here
 
 # Выбор билда
 
