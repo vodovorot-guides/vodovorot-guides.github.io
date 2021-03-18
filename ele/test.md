@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 11
+wow: 12
 toc: true
 author: Amani
 custom-javascript-list:
@@ -54,7 +54,11 @@ custom-javascript-list:
 
 **Опенер** – это фиксированный порядок кастов в самом начале боя. Динамический опенер находится в разработке, ниже представлены стандартный вариант опенера, с талантами {{ site.data.spells.eb }} и {{ site.data.spells.if }} и с легендаркой {{ site.data.legend.lava }}:
 
-1. {:.vt-apl}Pre-cast  {{ site.data.covenants.vt }} no later than 6.5 seconds before the pull
+1. {:.sop-apl}{{ site.data.spells.igor }} за **7** секунд до пула.
+  * {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
+1. {:.if-apl}{{ site.data.spells.igor }} за **7** секунд до пула.
+  * {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
+1. {:.vt-apl}{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула.
 1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
 3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунд до пула.
 3. {:.lmt-apl}{{ site.data.spells.fe }} за **3.5** секунд до пула.
