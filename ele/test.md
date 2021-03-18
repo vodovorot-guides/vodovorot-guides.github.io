@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 7
+wow: 8
 toc: true
 author: Amani
 custom-javascript-list:
@@ -16,8 +16,11 @@ custom-javascript-list:
 3. {:.lmt-apl}Pre-cast  {{ site.data.spells.fe }} at 3.5 seconds before the pull
 4. {:.storm-apl}Pre-cast  {{ site.data.spells.storm }} at 3.5 seconds before the pull
 5. {:.eb-apl}Pre-cast  {{ site.data.spells.eb }} at 2 seconds before the pull
+  * Пулп босса
 6. {:.ecs-apl}Pre-cast  {{ site.data.spells.lvb }} at 2 seconds before the pull
+  * Пулл босса
 7. {:.afs-apl}Pre-cast  {{ site.data.spells.lvb }} at 2 seconds before the pull
+  * Пулл босса
 8. {:.ch-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
 9. {:.ft-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
 10. {:.vt-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
@@ -56,9 +59,12 @@ custom-javascript-list:
 3. {:.storm-apl}{{ site.data.spells.storm }} за **3.5** секунд до пула.
 5. {:.eb-apl}{{ site.data.spells.eb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
+  * {:.pw-apl}{{ site.data.spells.fs }} пока летит
 6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
+  * {:.pw-apl}{{ site.data.spells.fs }} пока летит
 7. {:.afs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
+  * Сразу же 
   * ***Пул босса.***
 5. {:.pw-apl}{{ site.data.covenants.pw }} pw
 5. {:.ft-apl}{{ site.data.spells.fs }} ft
