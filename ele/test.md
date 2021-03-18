@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 1
+wow: 2
 toc: true
 author: Amani
 custom-javascript-list:
@@ -21,24 +21,21 @@ custom-javascript-list:
 8. {:.ch-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
 9. {:.ft-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
 10. {:.vt-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-11. {:.mote-apl}As the boss is pulled,ТЕСТ cast  {{ site.data.spells.fs }}
-12. {:.lmt-apl}As the boss is pulled,ТЕСТ cast  {{ site.data.spells.fs }} 
-13. {:.storm-apl}As the boss is pulled,ТЕСТ cast  {{ site.data.spells.fs }} 
-14. {:.ecs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-15. {:.afs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-16. {:.pw-apl}Cast  {{ site.data.covenants.pw }}
-17. {:.eb-apl}Cast  {{ site.data.spells.lvb }}
-18. {:.sk-apl}Cast your first  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
-19. {:.ecs-apl}Cast  {{ site.data.spells.ecs }}
-20. {:.eote-apl}Cast  {{ site.data.spells.lvb }}
-21. {:.sk-apl}Cast your second  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
-22. {:.if-apl} {{ site.data.spells.if }}
-23. {:.asc_ele-apl}  {{ site.data.spells.asc_ele }}
-24. {:.discharge-apl}Cast  {{ site.data.spells.discharge }}
-25. {:.lmt-apl}Cast  {{ site.data.spells.lmt }}
-26. {:.ft-apl}Cast  {{ site.data.covenants.ft }}
-27. {:.ch-apl}Cast  {{ site.data.covenants.ch }}
-28. Follow the standard priority from here
+11. {:.ecs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+12. {:.afs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+13. {:.pw-apl}Cast  {{ site.data.covenants.pw }}
+14. {:.eb-apl}Cast  {{ site.data.spells.lvb }}
+15. {:.sk-apl}Cast your first  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
+16. {:.ecs-apl}Cast  {{ site.data.spells.ecs }}
+17. {:.eote-apl}Cast  {{ site.data.spells.lvb }}
+18. {:.sk-apl}Cast your second  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
+19. {:.if-apl} {{ site.data.spells.if }}
+20. {:.asc_ele-apl}  {{ site.data.spells.asc_ele }}
+21. {:.discharge-apl}Cast  {{ site.data.spells.discharge }}
+22. {:.lmt-apl}Cast  {{ site.data.spells.lmt }}
+23. {:.ft-apl}Cast  {{ site.data.covenants.ft }}
+24. {:.ch-apl}Cast  {{ site.data.covenants.ch }}
+25. Follow the standard priority from here
 
 # Выбор билда
 
@@ -52,11 +49,19 @@ custom-javascript-list:
 
 **Опенер** – это фиксированный порядок кастов в самом начале боя. Динамический опенер находится в разработке, ниже представлены стандартный вариант опенера, с талантами {{ site.data.spells.eb }} и {{ site.data.spells.if }} и с легендаркой {{ site.data.legend.lava }}:
 
-1. {{ site.data.spells.sk }} за **5** секунд до пула.
-3. {{ site.data.spells.fe }} за **3.5** секунд до пула.
-2. {{ site.data.spells.eb }} прекастом за **2** секунды до пула.
+1. {:.vt-apl}Pre-cast  {{ site.data.covenants.vt }} no later than 6.5 seconds before the pull
+1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
+3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунд до пула.
+3. {:.lmt-apl}{{ site.data.spells.fe }} за **3.5** секунд до пула.
+3. {:.storm-apl}{{ site.data.spells.storm }} за **3.5** секунд до пула.
+5. {:.eb-apl}{{ site.data.spells.eb }} прекастом за **2** секунды до пула.
+6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
+7. {:.afs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
-4. {{ site.data.covenants.pw }} (или {{ site.data.spells.fs }}, если вы не <span style="color:#40bf40;font-size:1em;">Некролорд</span>)
+4. {:.pw-apl}{{ site.data.covenants.pw }} 
+5. {:.ft-apl}{ site.data.spells.fs }} ft
+5. {:.vt-apl}{ site.data.spells.fs }} vt
+5. {:.ch-apl}{ site.data.spells.fs }} ch
 5. {{ site.data.spells.lvb }}
 6. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
 7. {{ site.data.spells.lvb }}
