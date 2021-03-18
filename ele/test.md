@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 9.0.5345344564577567
+wow: 9.0.5
 toc: true
 author: Amani
 custom-javascript-list:
@@ -83,14 +83,14 @@ custom-javascript-list:
 5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
   * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
 6. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и если следующее ваше заклинание накопит больше **100** ед. энергии Водоворота.
+6. {:.ecs-apl}{{ site.data.spells.ecs }} если следующее заклинание – {{ site.data.spells.es }}.
 7. {{ site.data.spells.es }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+* {:.storm-apl}Не используйте {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756), если на вас **20** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
 9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
 11. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} под баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
-12. {:.ecs-apl}{{ site.data.spells.ecs }} если у вас более **60** ед. энергии Водоворота или {{ site.data.spells.lvb }} не на кулдауне.
-13. {:.ecs-apl}{{ site.data.spells.lvb }} если активен бафф от [Вторящего шока](https://ru.wowhead.com/spell=320125).
 14. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
    * {:.mote-apl}С талантом {{ site.data.spells.mote }}, всегда старайтесь усилить им {{ site.data.covenants.ft }}.
@@ -99,9 +99,11 @@ custom-javascript-list:
 18. {:.storm-apl}{{ site.data.spells.lb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
 19. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
 20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} под баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
-21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличиит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
+21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
+  * {:.storm-apl}Не используйте {{ site.data.spells.lvb }}, если на вас **20** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 23. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
+23. {:.ee-apl .afs-apl}{{ site.data.spells.frs }} для активации эффекта [Равновесия стихий](https://ru.wowhead.com/spell=336730).
 24. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 25. {{ site.data.spells.es }} если есть **60** или более ед. энергии Водоворота.
   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование [Земного шока](https://ru.wowhead.com/spell=8042) таким образом, чтобы скастовать перед ним [Выброс лавы](https://ru.wowhead.com/spell=51505).
