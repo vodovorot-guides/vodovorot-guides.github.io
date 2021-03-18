@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 9.0.5345345
+wow: 9.0.5345344564577567
 toc: true
 author: Amani
 custom-javascript-list:
@@ -47,14 +47,18 @@ custom-javascript-list:
 8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}
 9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}
 10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634) 
-11. {:.fire-apl .eote-apl .eb-apl .sk-apl}{{ site.data.spells.es }} (желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166)).
-12. {:.eogs-apl .eote-apl .eb-ap .sk-apll}{{ site.data.spells.es }} (желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166)).
-13. {:.ee-apl .eote-apl .eb-apl}{{ site.data.spells.es }} (желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166)).
+11. {:.fire-apl .eote-apl .eb-apl .sk-apl}{{ site.data.spells.es }}
+  * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+12. {:.eogs-apl .eote-apl .eb-ap .sk-apl}{{ site.data.spells.es }}
+  * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+13. {:.ee-apl .eote-apl .eb-apl}{{ site.data.spells.es }}
+  * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 11. {:.if-apl}{{ site.data.spells.if }}
 20. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}
 21. {:.discharge-apl}{{ site.data.spells.discharge }}
 22. {:.lmt-apl}{{ site.data.spells.lmt }}
-23. {:.ft-apl}{{ site.data.covenants.ft }} (желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166)).
+23. {:.ft-apl}{{ site.data.covenants.ft }}
+  * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.ch-apl}{{ site.data.covenants.ch }}
 12. Продолжаем обычную ротацию.
 
