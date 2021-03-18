@@ -1,8 +1,8 @@
 ---
 title: Авторы и благодарности
 layout: page
-last_update: 2020-12-09
-wow: 9.0.2
+last_update: 2021-03-18
+wow: 9.0.5
 author: Amani
 ---
 
@@ -26,24 +26,40 @@ author: Amani
 
 **Поддержавшие проект:**
 
-* **Чеширский Котэ**
-* **Oloriell**
-* **Йанто**
-* **Амада**
-* **Dewastator**
-* **Бадисатва**
-* **Gardash**
-* **Lem**
+* **Максим**
+* **KoDu**
+* **Strilian**
+* **Mindout**
+* **telecom**
+* **deathtronik**
+* **Anritsu**
+* **Tapatoshkee**
+* **omegaJew**
+* **Patriot (Тим)**
+* **GoFix Yourself**
+* **es3rvake**
+* **Stuffed**
+* **Argo**
+* **Fortage**
+* **WooDooForever**
+* **Ecmek**
+* **Gaaki**
+* **NyaLinn**
+* **Lena**
 * **Shikki**
-* **Vini**
-* **Ayami**
-* **Hyperboria**
-* **Katana**
-* **Kawaiicat**
-* **Mikhail**
+* **Методика**
+* **Бадисатва**
+* **mihaellle**
+* **NK-47**
+* **Qswerty**
+* **Карни**
+* **Катана**
 * **Mirshab78**
+* **Гардаш**
+* **ayami**
+* **ViniPsih**
+* **Oloriell**
 * **Talissia**
-* **Kарни**
-* **Mетодика**
-* **Tеслашот**
+* **Амада**
+* **Октян**
 
