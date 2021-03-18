@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 9.0.5
+wow: 9.0.5345343
 toc: true
 author: Amani
 custom-javascript-list:
@@ -41,25 +41,25 @@ custom-javascript-list:
 5. {:.vt-apl}{{ site.data.spells.fs }} 
 5. {:.ch-apl}{{ site.data.spells.fs }} 
 5. {:.eb-apl}{{ site.data.spells.lvb }}
-6. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634) 
-6. {:.ecs-apl}{{ site.data.spells.ecs }}
-7. {:.eote-apl}{{ site.data.spells.lvb }}
-8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}
-9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}
-10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634) 
-11. {:.fire-apl .eote-apl .eb-apl .sk-apl}{{ site.data.spells.es }}
+6. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+6. {:.ecs-apl}{{ site.data.spells.ecs }}.
+7. {:.eote-apl}{{ site.data.spells.lvb }}.
+8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
+9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
+10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
+11. {:.fire-apl .eote-apl .eb-apl .sk-apl}{{ site.data.spells.es }}.
   * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-12. {:.eogs-apl .eote-apl .eb-ap .sk-apl}{{ site.data.spells.es }}
+12. {:.eogs-apl .eote-apl .eb-ap .sk-apl}{{ site.data.spells.es }}.
   * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-13. {:.ee-apl .eote-apl .eb-apl}{{ site.data.spells.es }}
+13. {:.ee-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
   * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-11. {:.if-apl}{{ site.data.spells.if }}
-20. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}
-21. {:.discharge-apl}{{ site.data.spells.discharge }}
-22. {:.lmt-apl}{{ site.data.spells.lmt }}
-23. {:.ft-apl}{{ site.data.covenants.ft }}
+11. {:.if-apl}{{ site.data.spells.if }}.
+20. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
+21. {:.discharge-apl}{{ site.data.spells.discharge }}.
+22. {:.lmt-apl}{{ site.data.spells.lmt }}.
+23. {:.ft-apl}{{ site.data.covenants.ft }}.
   * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-24. {:.ch-apl}{{ site.data.covenants.ch }}
+24. {:.ch-apl}{{ site.data.covenants.ch }}.
 12. Продолжаем обычную ротацию.
 
 {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
@@ -71,14 +71,11 @@ custom-javascript-list:
 
 1. {{ site.data.spells.fs }} если отсутствует на цели. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **20** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
-2. {:.mote-apl}{{ site.data.spells.fe }} и {{ site.data.spells.igor }} по кулдауну.
-  * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
+2. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
-3. {:.lmt-apl}{{ site.data.spells.fe }} и {{ site.data.spells.igor }} по кулдауну.
-  * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
+3. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
-4. {:.storm-apl}{{ site.data.spells.storm }} и {{ site.data.spells.igor }} по кулдауну.
-  * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
+4. {:.storm-apl}{{ site.data.spells.storm }} по кулдауну.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
   * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
@@ -108,6 +105,8 @@ custom-javascript-list:
 26. {:.if-apl}{{ site.data.spells.frs }} под баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 27. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
 28. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
+28. {{ site.data.spells.igor }} по кулдауну.
+  * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
 29. {{ site.data.spells.lb }} 
 
 **Влияние легендарных предметов на ротацию**
