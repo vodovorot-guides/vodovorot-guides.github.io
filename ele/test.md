@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 12
+wow: 9.0.5
 toc: true
 author: Amani
 custom-javascript-list:
@@ -55,7 +55,6 @@ custom-javascript-list:
 **Опенер** – это фиксированный порядок кастов в самом начале боя. Динамический опенер находится в разработке, ниже представлены стандартный вариант опенера, с талантами {{ site.data.spells.eb }} и {{ site.data.spells.if }} и с легендаркой {{ site.data.legend.lava }}:
 
 1. {:.sop-apl}{{ site.data.spells.igor }} за **7** секунд до пула.
-  * {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
 1. {:.if-apl}{{ site.data.spells.igor }} за **7** секунд до пула.
   * {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
 1. {:.vt-apl}{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула.
@@ -79,8 +78,8 @@ custom-javascript-list:
 6. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634) 
 6. {:.ecs-apl}{{ site.data.spells.ecs }}
 7. {:.eote-apl}{{ site.data.spells.lvb }}
-8. {:.lava-apl .eb-apl}{{ site.data.spells.es }}
-9. {:.lava-apl .eb-apl}{{ site.data.spells.lvb }}
+8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}
+9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}
 10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634) 
 11. {:.if-apl}{{ site.data.spells.if }}
 20. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}
@@ -90,7 +89,7 @@ custom-javascript-list:
 24. {:.ch-apl}{{ site.data.covenants.ch }}
 12. Продолжаем обычную ротацию.
 
-Призывайте до пула {{ site.data.spells.igor }} (перед {{ site.data.spells.sk }}), но только если вы не используете талант {{ site.data.spells.primal_elem }}. Помните, что {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
+{{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула. Но за все время своего существования он наносит урона примерно как один {{ site.data.spells.lvb }}, к тому же вызывается до пула.
 {: class="bordered"}
 
 # Бой против одной цели
