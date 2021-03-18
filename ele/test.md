@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 9
+wow: 10
 toc: true
 author: Amani
 custom-javascript-list:
@@ -26,7 +26,9 @@ custom-javascript-list:
 10. {:.vt-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
 11. {:.ecs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
 12. {:.afs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+
 13. {:.pw-apl}Cast  {{ site.data.covenants.pw }}
+
 14. {:.eb-apl}Cast  {{ site.data.spells.lvb }}
 15. {:.sk-apl}Cast your first  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
 16. {:.ecs-apl}Cast  {{ site.data.spells.ecs }}
@@ -61,21 +63,26 @@ custom-javascript-list:
   * ***Пул босса.***
 6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
-  * {:.pw-apl}{{ site.data.spells.fs }} пока летит
+  * {:.pw-apl}{{ site.data.spells.fs }} перед [Первозданной волной](https://ru.wowhead.com/spell=326059).
 7. {:.afs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
-    * {:.pw-apl}{{ site.data.spells.fs }} пока летит
-5. {:.pw-apl}{{ site.data.covenants.pw }} pw
-5. {:.ft-apl}{{ site.data.spells.fs }} ft
-5. {:.vt-apl}{{ site.data.spells.fs }} vt
-5. {:.ch-apl}{{ site.data.spells.fs }} ch
-5. {{ site.data.spells.lvb }}
-6. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
-7. {{ site.data.spells.lvb }}
-8. {{ site.data.spells.es }}
-9. {{ site.data.spells.lvb }}
-10. {{ site.data.spells.lb }}, усиленная {{ site.data.spells.sk }}
-11. {{ site.data.spells.if }}
+    * {:.pw-apl}{{ site.data.spells.fs }} перед [Первозданной волной](https://ru.wowhead.com/spell=326059).
+5. {:.pw-apl}{{ site.data.covenants.pw }} 
+5. {:.ft-apl}{{ site.data.spells.fs }} 
+5. {:.vt-apl}{{ site.data.spells.fs }} 
+5. {:.ch-apl}{{ site.data.spells.fs }} 
+5. {:.eb-apl}{{ site.data.spells.lvb }}
+6. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634) 
+7. {:.eote-apl}{{ site.data.spells.lvb }}
+8. {:.lava-apl .eb-apl}{{ site.data.spells.es }}
+9. {:.lava-apl .eb-apl}{{ site.data.spells.lvb }}
+10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634) 
+11. {:.if-apl}{{ site.data.spells.if }}
+20. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}
+21. {:.discharge-apl}{{ site.data.spells.discharge }}
+22. {:.lmt-apl}{{ site.data.spells.lmt }}
+23. {:.ft-apl}{{ site.data.covenants.ft }}
+24. {:.ch-apl}{{ site.data.covenants.ch }}
 12. Продолжаем обычную ротацию.
 
 Призывайте до пула {{ site.data.spells.igor }} (перед {{ site.data.spells.sk }}), но только если вы не используете талант {{ site.data.spells.primal_elem }}. Помните, что {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
