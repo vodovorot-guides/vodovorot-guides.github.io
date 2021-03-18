@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 14
+wow: 15
 toc: true
 author: Amani
 custom-javascript-list:
@@ -80,12 +80,12 @@ custom-javascript-list:
 8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}
 9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}
 10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634) 
-23. {:.ft-apl}{{ site.data.covenants.ft }}
-  * {:.mote-apl}Используйте {{ site.data.spells.lvb }} перед [Волшебным переливанием](https://ru.wowhead.com/spell=328923) для баффа [Властелина стихий](https://ru.wowhead.com/spell=16166).
 11. {:.if-apl}{{ site.data.spells.if }}
 20. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}
 21. {:.discharge-apl}{{ site.data.spells.discharge }}
 22. {:.lmt-apl}{{ site.data.spells.lmt }}
+23. {:.ft-apl}{{ site.data.covenants.ft }}
+  * {:.mote-apl}Используйте {{ site.data.spells.lvb }} перед [Волшебным переливанием](https://ru.wowhead.com/spell=328923) для баффа [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.ch-apl}{{ site.data.covenants.ch }}
 12. Продолжаем обычную ротацию.
 
