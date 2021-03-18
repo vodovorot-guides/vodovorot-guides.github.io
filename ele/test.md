@@ -19,23 +19,23 @@ custom-javascript-list:
 6. {:.ecs-apl}Pre-cast  {{ site.data.spells.lvb }} at 2 seconds before the pull
 7. {:.afs-apl}Pre-cast  {{ site.data.spells.lvb }} at 2 seconds before the pull
 8. {:.ch-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-8. {:.ft-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-8. {:.vt-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-9. {:.ecs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-9. {:.afs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
-9. {:.pw-apl}Cast  {{ site.data.covenants.pw }}
-9. {:.eb-apl}Cast  {{ site.data.spells.lvb }}
-12. {:.sk-apl}Cast your first  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
-10. {:.ecs-apl}Cast  {{ site.data.spells.ecs }}
-11. {:.eote-apl}Cast  {{ site.data.spells.lvb }}
-12. {:.sk-apl}Cast your second  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
-13. {:.if-apl} {{ site.data.spells.if }}
-14. {:.asc_ele-apl}  {{ site.data.spells.asc_ele }}
-15. {:.discharge-apl}Cast  {{ site.data.spells.discharge }}
-16. {:.lmt-apl}Cast  {{ site.data.spells.lmt }}
-17. {:.ft-apl}Cast  {{ site.data.covenants.ft }}
-18. {:.ch-apl}Cast  {{ site.data.covenants.ch }}
-19. Follow the standard priority from here
+9. {:.ft-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+10. {:.vt-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+11. {:.ecs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+12. {:.afs-apl .pw-apl}As the boss is pulled, cast  {{ site.data.spells.fs }}
+13. {:.pw-apl}Cast  {{ site.data.covenants.pw }}
+14. {:.eb-apl}Cast  {{ site.data.spells.lvb }}
+15. {:.sk-apl}Cast your first  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
+16. {:.ecs-apl}Cast  {{ site.data.spells.ecs }}
+17. {:.eote-apl}Cast  {{ site.data.spells.lvb }}
+18. {:.sk-apl}Cast your second  {{ site.data.spells.sk }} -empowered   {{ site.data.spells.lb }}
+19. {:.if-apl} {{ site.data.spells.if }}
+20. {:.asc_ele-apl}  {{ site.data.spells.asc_ele }}
+21. {:.discharge-apl}Cast  {{ site.data.spells.discharge }}
+22. {:.lmt-apl}Cast  {{ site.data.spells.lmt }}
+23. {:.ft-apl}Cast  {{ site.data.covenants.ft }}
+24. {:.ch-apl}Cast  {{ site.data.covenants.ch }}
+25. Follow the standard priority from here
 
 # Выбор билда
 
