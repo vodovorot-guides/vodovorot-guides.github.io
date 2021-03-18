@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-03-17
+last_update: 2021-03-18
 wow: 9.0.5
 toc: true
 author: Amani
@@ -85,6 +85,7 @@ custom-javascript-list:
   * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
 6. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и если следующее ваше заклинание накопит больше **100** ед. энергии Водоворота.
 7. {{ site.data.spells.es }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
+8. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
 9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
@@ -104,7 +105,7 @@ custom-javascript-list:
 23. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
 24. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 25. {{ site.data.spells.es }} если есть **60** или более ед. энергии Водоворота.
-  * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование [Земного шока](https://ru.wowhead.com/spell=8042), если до окончания кулдауна [Выброса лавы](https://ru.wowhead.com/spell=51505) осталось **1-2** ГКД.
+  * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование [Земного шока](https://ru.wowhead.com/spell=8042) таким образом, чтобы скастовать перед ним [Выброс лавы](https://ru.wowhead.com/spell=51505).
 26. {:.if-apl}{{ site.data.spells.frs }} под баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 27. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
 28. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
@@ -114,7 +115,7 @@ custom-javascript-list:
 
 * {{ site.data.legend.lava }} – кастуем усиленный {{ site.data.spells.lvb }} после каждого применения [Земного шока](https://ru.wowhead.com/spell=8042) (точные приоритеты указаны выше). Бафф от этой легендарки работает на [Первозданную волну](https://ru.wowhead.com/spell=326059) <span style="color:#40bf40;font-size:1em;">Некролордов</span>, усиливая все выпущенные [Выбросы лавы](https://ru.wowhead.com/spell=51505) на **20%**. Используется только в бою против **одной цели**, на **две** и более цели стоит использовать {{ site.data.spells.quake }}.
 
-* {{ site.data.legend.eogs }} – чередуем {{ site.data.spells.es }} и {{ site.data.spells.quake }} и в бою против **одной цели**, и на **АоЕ**. Всегда следует бафать усиленное {{ site.data.spells.quake }} с помощью таланта {{ site.data.spells.mote }}.
+* {{ site.data.legend.eogs }} – чередуем {{ site.data.spells.es }} и {{ site.data.spells.quake }} и в бою против **одной цели**, и на **АоЕ**. аффайте {{ site.data.spells.quake }} с помощью таланта {{ site.data.spells.mote }}: хардкастом в бою против **1-4** целей и только по проку в бою против **5+** целей.
 
 * {{ site.data.legend.fire }} – развешиваем [Огненные шоки](https://ru.wowhead.com/spell=188389) на все доступные цели. При взятом таланте {{ site.data.spells.storm }} – только когда {{ site.data.legend.storm }} не активнен (в бою против одной цели следуйте приоритетам выше).
 
@@ -151,6 +152,13 @@ custom-javascript-list:
 * Прок перегрузки вылетает не сразу, а спустя небольшой промежуток времени после завершения каста.
 * Можно скастовать {{ site.data.spells.eb }} на **70** энергии Воворота и сразу использовать {{ site.data.spells.es }}, тогда перегрузка вылетит уже после каста [Земного шока](https://ru.wowhead.com/spell=8042) и не уйдет в оверкап.
 
+<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="medium" >**Ледяная ярость**</a> – особые моменты при использовании.
+
+* После использования [Ледяной ярости](https://ru.wowhead.com/spell=210714) представьте, что вместо четырех следующих [Молний](https://ru.wowhead.com/spell=188196) вам нужно использовать четыре [Ледяных шока](https://ru.wowhead.com/spell=196840).
+* В идеале, каждый усиленный {{ site.data.spells.frs }} следует бафать талантом {{ site.data.spells.mote }}. 
+* Не придерживайте стаки слишком долго, так как **потерять стак баффа [Ледяной ярости](https://ru.wowhead.com/spell=210714) гораздо хуже, чем потерять бафф от [Властелина стихий](https://ru.wowhead.com/spell=16166).**
+* Если у вас есть два заряда [Выброса лавы](https://ru.wowhead.com/spell=51505), то используйте между ними усиленный [Ледяной шок](https://ru.wowhead.com/spell=196840).
+
 # Урон в движении
 
 Нанесение урона при движении – важная часть при игре за Элем шамана. Всегда кастуйте что-нибудь на перебежках, иначе вы будете терять на этом урон. Старайтесь минимизировать время нахождения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645), ведь в этой форме вы точно не можете наносить урон.
@@ -158,9 +166,9 @@ custom-javascript-list:
 Вот те способности, которые мы можем использовать в движении:
 
 1. {{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от количества целей.
-2. Мгновенный {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756)
-3. Обновить {{ site.data.spells.fs }}
-4. {{ site.data.spells.frs }}, даже без баффа от [Ледяной ярости](https://ru.wowhead.com/spell=210714)
+2. Мгновенный {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+3. Обновить {{ site.data.spells.fs }}.
+4. {{ site.data.spells.frs }}, даже без баффа от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 5. Прожать {{ site.data.spells.swg }} и просто продолжать обычную ротацию.
 
 Перебежки можно разделить на **короткие** и **длинные**.
@@ -183,28 +191,24 @@ custom-javascript-list:
 
 1. Используйте {{ site.data.spells.quake }} вместо [Земного шока](https://ru.wowhead.com/spell=8042) для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 2. Поддерживайте {{ site.data.spells.fs }} на **обеих** целях.
-3. Кастуйте {{ site.data.spells.eb }} **по кулдауну**.
-4. Кастуйте {{ site.data.spells.lvb }} **по кулдауну**, даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
-5. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для генерации энергии Водоворота.
+3. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для генерации энергии Водоворота.
   * При активном [Хранителе бурь](https://ru.wowhead.com/spell=191634) на **2** целе используйте [Молнию](https://ru.wowhead.com/spell=188196), а не [Цепную молнию](https://ru.wowhead.com/spell=188443).
 
-При использовании легендарки {{ site.data.legend.eogs }} следует чередовать [Земной шок](https://ru.wowhead.com/spell=8042) и {{ site.data.spells.quake }} при любом количестве целей. С этой легой всегда усиляйте {{ site.data.spells.quake }} с помощью таланта {{ site.data.spells.mote }}.
+При использовании легендарки {{ site.data.legend.eogs }} следует чередовать [Земной шок](https://ru.wowhead.com/spell=8042) и {{ site.data.spells.quake }} **при любом количестве целей**.
 {: class="bordered"}
 
 # Бой против **3** целей
 
-В бою против **трех** целей мы все еще используем ротацию для **боя против одной цели** (указанную выше), но уделяем меньше внимания [Выбросу лавы](https://ru.wowhead.com/spell=51505), кастуя его только по проку, либо перед [Землетрясением](https://ru.wowhead.com/spell=61882).
+В бою против **трех** целей мы переходим на АоЕ ротацию. Два заряда [Выброса лавы](https://ru.wowhead.com/spell=51505) не следует использовать подряд, кастуйте между ними {{ site.data.spells.quake }} или [Цепную молнию](https://ru.wowhead.com/spell=188443).
 
 1. Используйте {{ site.data.spells.quake }} вместо [Земного шока](https://ru.wowhead.com/spell=8042) для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-2. Поддерживайте {{ site.data.spells.fs }} на **всех** целях.
-3. Кастуйте {{ site.data.spells.eb }} **по кулдауну**.
-4. Кастуйте {{ site.data.spells.lvb }} **по проку** [Волны лавы](https://ru.wowhead.com/spell=77756).
-5. Кастуйте {{ site.data.spells.lvb }} даже без прока [Волны лавы](https://ru.wowhead.com/spell=77756) перед [Землетрясением](https://ru.wowhead.com/spell=61882).
-6. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для генерации энергии Водоворота.
+2. Поддерживайте {{ site.data.spells.fs }} на **трех** целях.
+3. Кастуйте [Выброс лавы](https://ru.wowhead.com/spell=51505), но не два раза подряд.
+4. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для генерации энергии Водоворота.
 
-# Бой против **4**
+# Бой против **4** целей
 
-В бою против **четырех** целей мы переходим на **АоЕ** ротацию: прекращаем использовать {{ site.data.spells.eb }} и {{ site.data.spells.if }}, а {{ site.data.spells.lvb }} кастуем **только** по проку перед [Землетрясением](https://ru.wowhead.com/spell=61882).
+В бою против **четырех** целей мы прекращаем использовать {{ site.data.spells.eb }} и {{ site.data.spells.if }}, а {{ site.data.spells.lvb }} кастуем **только** по проку перед [Землетрясением](https://ru.wowhead.com/spell=61882).
 
 1. Используйте {{ site.data.spells.quake }} для траты энергии Водоворота. Старайтесь усилять его баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 2. Кастуйте {{ site.data.spells.lvb }} **по проку** от [Волны лавы](https://ru.wowhead.com/spell=77756), только перед [Землетрясением](https://ru.wowhead.com/spell=61882).
@@ -213,7 +217,7 @@ custom-javascript-list:
 
 # Бой против **5** и более целей
 
-В бою против **пяти и более** целей мы не используем {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключением является использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166) вне зависимости от количества целей.
+В бою против **пяти и более** целей мы не используем {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключением является использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166), но только по проку.
 
 1. Используйте {{ site.data.spells.quake }} для траты энергии Водоворота.
 2. Используйте {{ site.data.spells.fs }} на самые живучие цели, но только во время перебежек.
