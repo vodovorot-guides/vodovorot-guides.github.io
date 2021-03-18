@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 8
+wow: 9
 toc: true
 author: Amani
 custom-javascript-list:
@@ -59,13 +59,12 @@ custom-javascript-list:
 3. {:.storm-apl}{{ site.data.spells.storm }} за **3.5** секунд до пула.
 5. {:.eb-apl}{{ site.data.spells.eb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
-  * {:.pw-apl}{{ site.data.spells.fs }} пока летит
 6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
   * {:.pw-apl}{{ site.data.spells.fs }} пока летит
 7. {:.afs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
-  * Сразу же 
   * ***Пул босса.***
+    * {:.pw-apl}{{ site.data.spells.fs }} пока летит
 5. {:.pw-apl}{{ site.data.covenants.pw }} pw
 5. {:.ft-apl}{{ site.data.spells.fs }} ft
 5. {:.vt-apl}{{ site.data.spells.fs }} vt
