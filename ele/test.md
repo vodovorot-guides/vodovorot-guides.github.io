@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 9.0.5
+wow: 3
 toc: true
 author: Amani
 custom-javascript-list:
