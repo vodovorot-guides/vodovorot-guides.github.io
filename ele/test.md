@@ -88,7 +88,7 @@ custom-javascript-list:
 24. {:.ch-apl}{{ site.data.covenants.ch }}
 12. Продолжаем обычную ротацию.
 
-{{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула. Но за все время своего существования он наносит урона примерно как один {{ site.data.spells.lvb }}, к тому же вызывается до пула.
+{{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
 {: class="bordered"}
 
 # Бой против одной цели
