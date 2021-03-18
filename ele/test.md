@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 10
+wow: 11
 toc: true
 author: Amani
 custom-javascript-list:
@@ -73,6 +73,7 @@ custom-javascript-list:
 5. {:.ch-apl}{{ site.data.spells.fs }} 
 5. {:.eb-apl}{{ site.data.spells.lvb }}
 6. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634) 
+6. {:.ecs-apl}{{ site.data.spells.ecs }}
 7. {:.eote-apl}{{ site.data.spells.lvb }}
 8. {:.lava-apl .eb-apl}{{ site.data.spells.es }}
 9. {:.lava-apl .eb-apl}{{ site.data.spells.lvb }}
