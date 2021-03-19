@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 6
+wow: 7
 toc: true
 author: Amani
 custom-javascript-list:
@@ -220,7 +220,6 @@ custom-javascript-list:
 7. {{ site.data.spells.quake }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {:.pw-apl}{{ site.data.spells.lvb }} по проку  [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну.
-17. {:.sk-apl .mote-apl}{{ site.data.spells.cl }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 24. {:.mote-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50** или более ед. энергии Водоворота.
 25. {{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
@@ -261,9 +260,8 @@ custom-javascript-list:
 7. {{ site.data.spells.quake }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {:.pw-apl}{{ site.data.spells.lvb }} по проку  [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну.
-17. {:.sk-apl .mote-apl}{{ site.data.spells.cl }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
-24. {:.mote-apl .eogs-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50** или более ед. энергии Водоворота.
+24. {:.eogs-apl .mote-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50** или более ед. энергии Водоворота.
 25. {{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
