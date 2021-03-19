@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 123
+wow: фнина
 toc: true
 author: Amani
 custom-javascript-list:
@@ -176,6 +176,7 @@ custom-javascript-list:
 6. {:.ecs-apl}{{ site.data.spells.ecs }} если следующее заклинание – {{ site.data.spells.quake }}.
 7. {{ site.data.spells.quake }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+  *  {:.storm-apl}Не используйте {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
   * {:.storm-apl}Не используйте {{ site.data.spells.eb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
@@ -183,7 +184,7 @@ custom-javascript-list:
    * {:.mote-apl}С талантом {{ site.data.spells.mote }} старайтесь усилить им {{ site.data.covenants.ft }}.
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 28. {:.mote-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-24. {:.mote-apl}{{ site.data.spells.lvb }} если следующее заклинание – {{ site.data.spells.quake }}.
+24. {:.mote-apl}{{ site.data.spells.lvb }} есть **50** или более ед. энергии Водоворота.
 25. {:.lmt-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 25. {:.storm-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
@@ -222,8 +223,10 @@ custom-javascript-list:
 8. {:.pw-apl}{{ site.data.spells.lvb }} по проку  [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну.
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+28. {:.mote-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.mote-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50** или более ед. энергии Водоворота.
-25. {{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.lmt-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.storm-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
 29. {{ site.data.spells.cl }}
@@ -262,6 +265,7 @@ custom-javascript-list:
 8. {:.pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну.
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+24. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 24. {:.eogs-apl .mote-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50** или более ед. энергии Водоворота.
 25. {{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
