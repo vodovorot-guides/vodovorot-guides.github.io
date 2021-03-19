@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 11
+wow: 12
 toc: true
 author: Amani
 custom-javascript-list:
@@ -267,8 +267,8 @@ custom-javascript-list:
 28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **5** и более целей не используется. Рекомендуется выбрать {{ site.data.spells.afs }}.
 
 
-<div class="mote-apl" markdown="1" >
-* В бою против **пяти и более** целей не следует используем {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключением является использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166), но только по проку, а также реализация способности [Первозданная волна](https://ru.wowhead.com/spell=326059).
+<div class="mote-apl bordered" markdown="1" >
+В бою против **пяти и более** целей не следует используем {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключением является использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166), но только по проку, а также реализация способности [Первозданная волна](https://ru.wowhead.com/spell=326059).
 </div>
 
 
