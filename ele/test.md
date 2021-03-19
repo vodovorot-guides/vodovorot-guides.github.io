@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 9.0.0000
+wow: 9.0.0000345345345
 toc: true
 author: Amani
 custom-javascript-list:
@@ -136,20 +136,19 @@ custom-javascript-list:
 17. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} под баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 18. {:.storm-apl}{{ site.data.spells.cl }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
 19. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
-24. {:.eogs-apl .if-apl .mote-apl}{{ site.data.spells.quake }} под баффами от [Властелина стихий](https://ru.wowhead.com/spell=16166) и [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
-25. {:.mote-apl}{{ site.data.spells.es }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+25. {:.mote-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} под баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
 23. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
-25. {:.storm-apl}{{ site.data.spells.es }} если есть **60** или более ед. энергии Водоворота.
-25. {:.lmt-apl}{{ site.data.spells.es }} если есть **60** или более ед. энергии Водоворота.
+25. {:.storm-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.lmt-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 26. {:.if-apl}{{ site.data.spells.frs }} под баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 27. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
 28. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
 28. {{ site.data.spells.igor }} по кулдауну.
   * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
-29. {{ site.data.spells.lb }} 
+29. {{ site.data.spells.cl }} 
 
 # Бой против **3** целей
 
@@ -183,14 +182,14 @@ custom-javascript-list:
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
    * {:.mote-apl}С талантом {{ site.data.spells.mote }} старайтесь усилить им {{ site.data.covenants.ft }}.
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
-24. {:.eogs-apl .mote-apl}{{ site.data.spells.lvb }} если есть **50** или более ед. энергии Водоворота.
-25. {{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
-  * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование [Землетрясения](https://ru.wowhead.com/spell=61882) таким образом, чтобы скастовать перед ним [Выброс лавы](https://ru.wowhead.com/spell=51505). Не уходите в оверкап энергии Водоворота!
+28. {:.mote-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+24. {:.mote-apl}{{ site.data.spells.lvb }} если есть **50** или более ед. энергии Водоворота.
+25. {:.lmt-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.storm-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 29. {{ site.data.spells.cl }}
 24. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
 28. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
-
 
 # Бой против **4** целей
 
