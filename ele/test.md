@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 9.0.0000345345345
+wow: 123
 toc: true
 author: Amani
 custom-javascript-list:
@@ -182,8 +182,8 @@ custom-javascript-list:
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
    * {:.mote-apl}С талантом {{ site.data.spells.mote }} старайтесь усилить им {{ site.data.covenants.ft }}.
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
-28. {:.mote-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
-24. {:.mote-apl}{{ site.data.spells.lvb }} если есть **50** или более ед. энергии Водоворота.
+28. {:.mote-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+24. {:.mote-apl}{{ site.data.spells.lvb }} если следующее заклинание – {{ site.data.spells.quake }}.
 25. {:.lmt-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 25. {:.storm-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
