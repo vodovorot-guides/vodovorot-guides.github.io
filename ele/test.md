@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: фнина
+wow: 9.0.0000123123
 toc: true
 author: Amani
 custom-javascript-list:
@@ -267,7 +267,11 @@ custom-javascript-list:
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 24. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 24. {:.eogs-apl .mote-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50** или более ед. энергии Водоворота.
-25. {{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.lmt-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.storm-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.lava-apl .mote-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.ee-apl .mote-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.fire-apl .mote-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
 29. {{ site.data.spells.cl }}
