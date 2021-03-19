@@ -1,8 +1,8 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-03-19
-wow: 9.0.5
+last_update: 2021-03-18
+wow: 6
 toc: true
 author: Amani
 custom-javascript-list:
@@ -25,9 +25,9 @@ custom-javascript-list:
 1. {:.if-apl}{{ site.data.spells.igor }} за **7** секунд до пула.
 1. {:.vt-apl}{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула.
 1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
-3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунд до пула.
-3. {:.lmt-apl}{{ site.data.spells.fe }} за **3.5** секунд до пула.
-3. {:.storm-apl}{{ site.data.spells.storm }} за **3.5** секунд до пула.
+3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
+3. {:.lmt-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
+3. {:.storm-apl}{{ site.data.spells.storm }} за **3.5** секунды до пула.
 5. {:.eb-apl}{{ site.data.spells.eb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
 6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
@@ -54,12 +54,11 @@ custom-javascript-list:
 13. {:.ee-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
   * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 11. {:.if-apl}{{ site.data.spells.if }}.
-20. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
-21. {:.discharge-apl}{{ site.data.spells.discharge }}.
 22. {:.lmt-apl}{{ site.data.spells.lmt }}.
 23. {:.ft-apl}{{ site.data.covenants.ft }}.
   * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.ch-apl}{{ site.data.covenants.ch }}.
+20. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
 12. Продолжаем обычную ротацию.
 
 {{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
@@ -258,7 +257,7 @@ custom-javascript-list:
 6. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
 6. {:.ecs-apl}{{ site.data.spells.ecs }} если следующее заклинание – {{ site.data.spells.quake }}.
 7. {{ site.data.spells.quake }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
-8. {:.pw-apl}{{ site.data.spells.lvb }} по проку  [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
+8. {:.pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну.
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 24. {:.eogs-apl .mote-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50** или более ед. энергии Водоворота.
