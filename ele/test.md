@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 6
+wow: 9.0.5
 toc: true
 author: Amani
 custom-javascript-list:
@@ -68,6 +68,7 @@ custom-javascript-list:
 
 Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта.
 
+1. {:.sk-apl}{{ site.data.spells.lb }} под баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 1. {{ site.data.spells.fs }} если отсутствует на цели. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **20** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 2. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
@@ -111,6 +112,7 @@ custom-javascript-list:
 
 # Бой против **2** целей
 
+1. {:.sk-apl}{{ site.data.spells.lb }} под баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 1. {{ site.data.spells.fs }} если отсутствует на одной из целей. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **20** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 2. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
@@ -148,12 +150,13 @@ custom-javascript-list:
 28. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
 28. {{ site.data.spells.igor }} по кулдауну.
   * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
+17. {:.sk-apl}{{ site.data.spells.lb }} под баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 29. {{ site.data.spells.cl }}
 
 
 # Бой против **3** целей
 
-
+1. {:.sk-apl}{{ site.data.spells.cl }} под баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 1. {:.eogs-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 1. {:.lava-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
@@ -194,6 +197,7 @@ custom-javascript-list:
 
 # Бой против **4** целей
 
+1. {:.sk-apl}{{ site.data.spells.cl }} под баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 1. {:.eogs-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
   * {:.pw-apl}Используйте [Огненный шоки](https://ru.wowhead.com/spell=188389) на дополнительные цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
@@ -233,6 +237,7 @@ custom-javascript-list:
 
 # Бой против **5** и более целей
 
+1. {:.sk-apl}{{ site.data.spells.cl }} под баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 1. {:.eogs-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
   * {:.pw-apl}Используйте [Огненный шоки](https://ru.wowhead.com/spell=188389) на дополнительные цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
