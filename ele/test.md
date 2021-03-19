@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 9.0.5
+wow: 9.0.564
 toc: true
 author: Amani
 custom-javascript-list:
@@ -42,7 +42,7 @@ custom-javascript-list:
 5. {:.ch-apl}{{ site.data.spells.fs }} 
 5. {:.eb-apl}{{ site.data.spells.lvb }}
 6. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
-6. {:.ecs-apl}{{ site.data.spells.ecs }}.
+6. {:.eote-apl .ecs-apl}{{ site.data.spells.ecs }}.
 7. {:.eote-apl}{{ site.data.spells.lvb }}.
 8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
 9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
@@ -94,7 +94,8 @@ custom-javascript-list:
 17. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} под баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 18. {:.storm-apl}{{ site.data.spells.lb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
 19. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
-25. {:.if-apl .mote-apl}{{ site.data.spells.es }} под баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+24. {:.eogs-apl .if-apl .mote-apl}{{ site.data.spells.quake }} под баффами от [Властелина стихий](https://ru.wowhead.com/spell=16166) и [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+25. {:.if-apl .mote-apl}{{ site.data.spells.es }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} под баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
@@ -137,8 +138,8 @@ custom-javascript-list:
 17. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} под баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 18. {:.storm-apl}{{ site.data.spells.cl }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
 19. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
-25. {:.if-apl .mote-apl}{{ site.data.spells.quake }} под баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-  * {:.eogs-apl}Используйте {{ site.data.spells.es }} вместо [Землетрясения](https://ru.wowhead.com/spell=61882), если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+24. {:.eogs-apl .if-apl .mote-apl}{{ site.data.spells.es }} под баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166) и если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+25. {:.if-apl .mote-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} под баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
