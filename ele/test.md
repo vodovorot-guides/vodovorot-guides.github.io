@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 1
+wow: 2
 toc: true
 author: Amani
 custom-javascript-list:
@@ -191,54 +191,6 @@ custom-javascript-list:
 
 
 
-
-actions.aoe="earthquake,if=buff.echoing_shock.up"
-
-actions.aoe+="/chain_harvest"
-27. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
-
-actions.aoe+="/stormkeeper,if=talent.stormkeeper.enabled"
-9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
-
-actions.aoe+="/flame_shock,if=(active_dot.flame_shock<3&active_enemies<=3|active_dot.flame_shock<1&active_enemies>=4&!pet.storm_elemental.active)|(runeforge.skybreakers_fiery_demise.equipped&!pet.storm_elemental.active),target_if=refreshable"
-
-#actions.aoe+="/flame_shock,if=cooldown.primordial_wave.remains<12+2.5*gcd&!pet.storm_elemental.active,target_if=refreshable"
-
-actions.aoe+="/flame_shock,if=!active_dot.flame_shock&!pet.storm_elemental.active"
-
-actions.aoe+="/echoing_shock,if=talent.echoing_shock.enabled&maelstrom>=60"
-
-actions.aoe+="/ascendance,if=talent.ascendance.enabled&(!pet.storm_elemental.active)&(!talent.icefury.enabled|!buff.icefury.up&!cooldown.icefury.up)"
-
-actions.aoe+="/liquid_magma_totem,if=talent.liquid_magma_totem.enabled"
-
-actions.aoe+="/earth_shock,if=runeforge.echoes_of_great_sundering.equipped&!buff.echoes_of_great_sundering.up"
-
-actions.aoe+="/earth_elemental,if=runeforge.deeptremor_stone.equipped&(!talent.primal_elementalist.enabled|(!pet.storm_elemental.active&!pet.fire_elemental.active))"
-
-actions.aoe+="/lava_burst,target_if=dot.flame_shock.remains,if=spell_targets.chain_lightning<4|buff.lava_surge.up&buff.primordial_wave.up|(talent.master_of_the_elements.enabled&!buff.master_of_the_elements.up&maelstrom>=60)"
-
-# Try to game Earthquake with Master of the Elements buff when fighting 3 targets. Don't overcap Maelstrom!
-actions.aoe+="/earthquake,if=!talent.master_of_the_elements.enabled|buff.stormkeeper.up|maelstrom>=(100-4*spell_targets.chain_lightning)|buff.master_of_the_elements.up|spell_targets.chain_lightning>3"
-
-# Make sure you don't lose a Stormkeeper buff.
-actions.aoe+="/chain_lightning,if=buff.stormkeeper.remains<3*gcd*buff.stormkeeper.stack"
-
-# Only cast Lava Burst on three targets if it is an instant and Storm Elemental is NOT active.
-actions.aoe+="/lava_burst,if=buff.lava_surge.up&spell_targets.chain_lightning<4&(!pet.storm_elemental.active)&dot.flame_shock.ticking"
-
-# Use Elemental Blast against up to 3 targets as long as Storm Elemental is not active.
-actions.aoe+="/elemental_blast,if=talent.elemental_blast.enabled&spell_targets.chain_lightning<5&(!pet.storm_elemental.active)"
-
-actions.aoe+="/lava_beam,if=talent.ascendance.enabled"
-
-actions.aoe+="/chain_lightning"
-
-actions.aoe+="/lava_burst,moving=1,if=buff.lava_surge.up&cooldown_react"
-
-actions.aoe+="/flame_shock,moving=1,target_if=refreshable"
-
-actions.aoe+="/frost_shock,moving=1"
 
 В бою против **трех** целей мы переходим на АоЕ ротацию. Два заряда [Выброса лавы](https://ru.wowhead.com/spell=51505) не следует использовать подряд, кастуйте между ними {{ site.data.spells.quake }} или [Цепную молнию](https://ru.wowhead.com/spell=188443).
 
