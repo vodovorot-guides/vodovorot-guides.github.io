@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 9
+wow: 10
 toc: true
 author: Amani
 custom-javascript-list:
@@ -176,7 +176,7 @@ custom-javascript-list:
 6. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
 6. {:.ecs-apl}{{ site.data.spells.ecs }} если следующее заклинание – {{ site.data.spells.quake }}.
 7. {{ site.data.spells.quake }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
-8. {:.mote-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+8. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
   * {:.storm-apl}Не используйте {{ site.data.spells.eb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
@@ -267,8 +267,8 @@ custom-javascript-list:
 28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **5** и более целей не используется. Рекомендуется выбрать {{ site.data.spells.afs }}.
 
 
-<div class="mote-apl" >В бою против **пяти и более** целей не следует используем {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключением является использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166), но только по проку, а также реализация способности [Первозданная волна](https://ru.wowhead.com/spell=326059).
-{: class="bordered"}
+<div class="mote-apl markdown=1" >
+* В бою против **пяти и более** целей не следует используем {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключением является использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166), но только по проку, а также реализация способности [Первозданная волна](https://ru.wowhead.com/spell=326059).
 </div>
 
 
