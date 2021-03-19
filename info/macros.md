@@ -1,8 +1,8 @@
 ---
 title: Полезные макросы для шамана
 layout: page
-last_update: 2021-01-19
-wow: 9.0.1
+last_update: 2021-03-20
+wow: 9.0.5
 toc: true
 author: Amani
 ---
@@ -13,6 +13,12 @@ author: Amani
 ~~~
 #showtooltip  
 /cast [@mouseover,harm,exists][] Огненный шок
+~~~
+
+* Вызов [Элементаля земли](https://ru.wowhead.com/spell=198103) без запуливания босса.
+~~~
+#showtooltip
+/cast  [@=target,harm,exists] [@player] Элементаль огня
 ~~~
 
 * Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
@@ -48,15 +54,6 @@ author: Amani
 /use [@mouseover,nodead,harm]Цепная молния;[@mouseover,nodead,help]Цепное исцеление;[@target,nodead,harm]Цепная молния;[@target,nodead,help][@player] Цепное исцеление
 ~~~
 
-* Позволяет вызвать  {{ site.data.spells.fe }} / {{ site.data.spells.igor }} без наличия вражеской цели. Не пуллит босса при использовании!  
-~~~
-#showtooltip
-/cast  [@=target,harm,exists] [@player] Элементаль огня
-~~~
-~~~
-#showtooltip
-/cast  [@=target,harm,exists] [@player] Элементаль земли
-~~~
 
 * Применяет {{ site.data.spells.wrt }} прямо прямо под вашего персонажа, позволяя сразу получить бонус скорости и не терять времени на установку тотема:  
 ~~~
