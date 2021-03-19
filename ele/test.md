@@ -1,8 +1,8 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-03-18
-wow: 123
+last_update: 2021-03-19
+wow: 9.0.5
 toc: true
 author: Amani
 custom-javascript-list:
@@ -188,7 +188,9 @@ custom-javascript-list:
   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование [Землетрясения](https://ru.wowhead.com/spell=61882) таким образом, чтобы скастовать перед ним [Выброс лавы](https://ru.wowhead.com/spell=51505). Не уходите в оверкап энергии Водоворота!
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 29. {{ site.data.spells.cl }}
-24. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей не используется. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
+24. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
+28. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
+
 
 # Бой против **4** целей
 
@@ -225,8 +227,9 @@ custom-javascript-list:
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
 29. {{ site.data.spells.cl }}
-24. {:.if-apl}{{ site.data.spells.if }} в бою против **4** целей не используется. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
-28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **4** целей не используется. Рекомендуется выбрать {{ site.data.spells.afs }}.
+24. {:.if-apl}{{ site.data.spells.if }} в бою против **4** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
+28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **4** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
+28. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}. 
 
 # Бой против **5** и более целей
 
@@ -263,18 +266,17 @@ custom-javascript-list:
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
 29. {{ site.data.spells.cl }}
-24. {:.if-apl}{{ site.data.spells.if }} в бою против **5** и более целей не используется. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
-28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **5** и более целей не используется. Рекомендуется выбрать {{ site.data.spells.afs }}.
-
+24. {:.if-apl}{{ site.data.spells.if }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
+28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
+28. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
 
 <div class="mote-apl bordered" markdown="1" >
-В бою против **пяти и более** целей не следует используем {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключением является использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166), но только по проку, а также реализация способности [Первозданная волна](https://ru.wowhead.com/spell=326059).
+В бою против **пяти и более** целей не следует использовать {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключением является использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166), но только по проку, а также реализация способности [Первозданная волна](https://ru.wowhead.com/spell=326059).
 </div>
 
+# Особенности талантов
 
-# Особые моменты
-
-<a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" >**Властелин стихий**</a> – особые моменты при использовании.
+<a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" >**Властелин стихий**</a> – пассивный талант, увеличивает урон от различных заклинаний на **20%** после применения [Выброса лавы](https://ru.wowhead.com/spell=51505).
 
 * Если у вас есть два заряда [Выброса лавы](https://ru.wowhead.com/spell=51505), то **не стоит** кастовать между ними обычную [Молнию](https://ru.wowhead.com/spell=188196), так как это приведет к потере урона. Это связано с тем, что если в момент применения [Молнии](https://ru.wowhead.com/spell=188196) у вас прокнет {{ site.data.spells.lava_surge }}, то вы потеряете часть КД на {{ site.data.spells.lvb }}.
 * Но это правило не распространяется на мгновенные заклинания – усиленную [Молнию](https://ru.wowhead.com/spell=188196) от таланта {{ site.data.spells.sk }}, усиленный {{ site.data.spells.frs }} от таланта {{ site.data.spells.if }}, а также {{ site.data.spells.es }} и {{ site.data.spells.quake }}. Поглощайте бафф от [Властелина стихий](https://ru.wowhead.com/spell=16166) этими заклинаниями, даже если у вас уже есть один стак [Выброса лавы](https://ru.wowhead.com/spell=51505).
@@ -296,18 +298,15 @@ custom-javascript-list:
 8. {{ site.data.spells.if }}.
 9. {{ site.data.spells.frs }}.
 
-Подробнее про талант {{ site.data.spells.mote }} можно почитать в [специальном разделе](https://stormkeeper.ru/ele/talents.html).
-
-<a href="https://ru.wowhead.com/spell=117014" target="blank" data-wh-icon-size="medium" >**Удар духов стихий**</a> – особые моменты при использовании.
+<a href="https://ru.wowhead.com/spell=117014" target="blank" data-wh-icon-size="medium" >**Удар духов стихий**</a> – активная способность с кулдауном **12** секунд, наносит средний урон и дает бафф к случайной характеристике на **10** секунд, а также генерирует **30** ед. энергии Водоворота.
 
 * В бою против **одной**, **двух** или **трёх** целей {{ site.data.spells.eb }} кастуется по кулдауну.
 * В бою против **четырех** и более целей {{ site.data.spells.eb }} **не используется**.
-* Главное правило – не уходить в оверкап энергии Водоворота.
-* {{ site.data.spells.eb }} генерирует **30** ед. энергии Водоворота, и еще **15** при проке Перегрузки.
+* {{ site.data.spells.eb }} генерирует **30** ед. энергии Водоворота, и еще **15** при проке Перегрузки. Суммарно за один каст можно получить **45** ед. энергии Водоворота.
 * Прок перегрузки вылетает не сразу, а спустя небольшой промежуток времени после завершения каста.
 * Можно скастовать {{ site.data.spells.eb }} на **70** энергии Воворота и сразу использовать {{ site.data.spells.es }}, тогда перегрузка вылетит уже после каста [Земного шока](https://ru.wowhead.com/spell=8042) и не уйдет в оверкап.
 
-<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="medium" >**Ледяная ярость**</a> – особые моменты при использовании.
+<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="medium" >**Ледяная ярость**</a> – активная способность, наносит небольшой урон, дает **25** ед. энергии Водоворота и усиливает **4** следующих [Ледяных шока](https://ru.wowhead.com/spell=196840) на **300%**, которые также генерируют **8** ед. энергии Водоворота. Бафф висит **15** секунд, время восстановления способности **30** секунд.
 
 * После использования [Ледяной ярости](https://ru.wowhead.com/spell=210714) представьте, что вместо четырех следующих [Молний](https://ru.wowhead.com/spell=188196) вам нужно использовать четыре [Ледяных шока](https://ru.wowhead.com/spell=196840).
 * В идеале, каждый усиленный {{ site.data.spells.frs }} следует бафать талантом {{ site.data.spells.mote }}. 
