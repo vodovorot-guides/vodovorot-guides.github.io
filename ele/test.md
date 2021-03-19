@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 2
+wow: 3
 toc: true
 author: Amani
 custom-javascript-list:
@@ -141,7 +141,7 @@ custom-javascript-list:
 20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} под баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
-23. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
+23. {{ site.data.spells.fs }} если на одной из целей до спадения осталось менее **5.4** секунд.
 23. {:.ee-apl .afs-apl}{{ site.data.spells.frs }} для активации эффекта [Равновесия стихий](https://ru.wowhead.com/spell=336730).
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 25. {{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
@@ -157,7 +157,13 @@ custom-javascript-list:
 # Бой против **3** целей
 
 
-1. {{ site.data.spells.fs }} поддерживаем на **3** целях. 
+1. {:.eogs-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+1. {:.lava-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+1. {:.ee-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+1. {:.fire-apl}{{ site.data.spells.fs }} поддерживайте на **трех** целях. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
 2. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
@@ -188,7 +194,7 @@ custom-javascript-list:
   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование [Землетрясения](https://ru.wowhead.com/spell=61882) таким образом, чтобы скастовать перед ним [Выброс лавы](https://ru.wowhead.com/spell=51505). Не уходите в оверкап энергии Водоворота!
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 29. {{ site.data.spells.cl }}
-
+24. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей не используется. Рекомендуется сменить талант.
 
 
 
