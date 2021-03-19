@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 4
+wow: 5
 toc: true
 author: Amani
 custom-javascript-list:
@@ -98,7 +98,6 @@ custom-javascript-list:
 21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
 23. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
-23. {:.ee-apl .afs-apl}{{ site.data.spells.frs }} для активации эффекта [Равновесия стихий](https://ru.wowhead.com/spell=336730).
 24. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 25. {{ site.data.spells.es }} если есть **60** или более ед. энергии Водоворота.
   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование [Земного шока](https://ru.wowhead.com/spell=8042) таким образом, чтобы скастовать перед ним [Выброс лавы](https://ru.wowhead.com/spell=51505).
@@ -142,7 +141,6 @@ custom-javascript-list:
 21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
 23. {{ site.data.spells.fs }} если на одной из целей до спадения осталось менее **5.4** секунд.
-23. {:.ee-apl .afs-apl}{{ site.data.spells.frs }} для активации эффекта [Равновесия стихий](https://ru.wowhead.com/spell=336730).
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 25. {{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, придерживайте использование [Землетрясения](https://ru.wowhead.com/spell=61882) таким образом, чтобы скастовать перед ним [Выброс лавы](https://ru.wowhead.com/spell=51505).
@@ -187,7 +185,6 @@ custom-javascript-list:
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
    * {:.mote-apl}С талантом {{ site.data.spells.mote }} старайтесь усилить им {{ site.data.covenants.ft }}.
 17. {:.sk-apl .mote-apl}{{ site.data.spells.cl }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
-23. {:.ee-apl .afs-apl}{{ site.data.spells.frs }} для активации эффекта [Равновесия стихий](https://ru.wowhead.com/spell=336730).
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 24. {:.eogs-apl .mote-apl}{{ site.data.spells.lvb }} если есть **50** или более ед. энергии Водоворота.
 25. {{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
@@ -200,13 +197,13 @@ custom-javascript-list:
 
 1. {:.eogs-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
-  * {:.pw-apl}Используйте [Огненный шоки](https://ru.wowhead.com/spell=188389) на дополнительные цели, если до конца кулдауна [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
+  * {:.pw-apl}Используйте [Огненный шоки](https://ru.wowhead.com/spell=188389) на дополнительные цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
 1. {:.lava-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели.
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
-  * {:.pw-apl}Используйте [Огненный шоки](https://ru.wowhead.com/spell=188389) на дополнительные цели, если до конца кулдауна [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
+  * {:.pw-apl}Используйте [Огненный шоки](https://ru.wowhead.com/spell=188389) на дополнительные цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
 1. {:.ee-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели.
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
-  * {:.pw-apl}Используйте [Огненный шоки](https://ru.wowhead.com/spell=188389) на дополнительные цели, если до конца кулдауна [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
+  * {:.pw-apl}Используйте [Огненный шоки](https://ru.wowhead.com/spell=188389) на дополнительные цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
 1. {:.fire-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
@@ -226,7 +223,6 @@ custom-javascript-list:
 8. {:.pw-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну.
 17. {:.sk-apl .mote-apl}{{ site.data.spells.cl }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
-23. {:.ee-apl .afs-apl}{{ site.data.spells.frs }} для активации эффекта [Равновесия стихий](https://ru.wowhead.com/spell=336730).
 24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 24. {:.mote-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50** или более ед. энергии Водоворота.
 25. {{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
