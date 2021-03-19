@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 8
+wow: 9
 toc: true
 author: Amani
 custom-javascript-list:
@@ -176,8 +176,7 @@ custom-javascript-list:
 6. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
 6. {:.ecs-apl}{{ site.data.spells.ecs }} если следующее заклинание – {{ site.data.spells.quake }}.
 7. {{ site.data.spells.quake }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
-8. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
-  * {:.storm-apl}Не используйте {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+8. {:.mote-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
   * {:.storm-apl}Не используйте {{ site.data.spells.eb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
@@ -229,8 +228,6 @@ custom-javascript-list:
 24. {:.if-apl}{{ site.data.spells.if }} в бою против **4** целей не используется. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
 28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **4** целей не используется. Рекомендуется выбрать {{ site.data.spells.afs }}.
 
-
-
 # Бой против **5** и более целей
 
 1. {:.eogs-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
@@ -270,28 +267,10 @@ custom-javascript-list:
 28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **5** и более целей не используется. Рекомендуется выбрать {{ site.data.spells.afs }}.
 
 
-* {:.mote-apl}В бою против **пяти и более** целей не следует используем {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключением является использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166), но только по проку, а также реализация способности [Первозданная волна](https://ru.wowhead.com/spell=326059)
+<div class="mote-apl" >В бою против **пяти и более** целей не следует используем {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключением является использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166), но только по проку, а также реализация способности [Первозданная волна](https://ru.wowhead.com/spell=326059).
+{: class="bordered"}
+</div>
 
-
-
-# <span style="color:#40bf40;font-size:1em;">Правильное использование Первозданной волны Некролордов</span>
-
-{{ site.data.covenants.pw }} – единственная способность Ковенанта, которая является не просто кнопкой, которую следует жать по кулдауну, а взаимодействует с другими нашими абилками. Разберем лучшие варианты её использования, в зависимости от количества целей:
-
-1. **Одна** цель – просто жмем [Первозданную волну](https://ru.wowhead.com/spell=326059) по кулдауну, желательно под баффом от легендарки {{ site.data.legend.lava }}. Но если у вас уже есть два стака [Выброса лавы](https://ru.wowhead.com/spell=51505) и подошел кулдаун [Первозданной волны](https://ru.wowhead.com/spell=326059), то не стоит сдавать {{ site.data.spells.es }} и терять один стак. Также не стоит обновлять [Огненный шок](https://ru.wowhead.com/spell=188389), если до окончания кулдауна [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось времени меньше, чем время до спадения [Огненного шока](https://ru.wowhead.com/spell=188389).  
-
-2. **Две** цели – кидайте {{ site.data.spells.fs }} на одну цель, и [Первозданную волну](https://ru.wowhead.com/spell=326059) во вторую, продолжайте обычную ротацию. С легендаркой {{ site.data.legend.lava }} имеет смысл перед применением [Выброса лавы](https://ru.wowhead.com/spell=51505) использовать {{ site.data.spells.es }}.
-
-3. На **три** цели сначала развешивайте [Огненные шоки](https://ru.wowhead.com/spell=188389) и только потом используйте [Выброс лавы](https://ru.wowhead.com/spell=51505). Делайте следующим образом:
-  * {{ site.data.spells.fs }}
-  * {{ site.data.spells.lvb }}
-  * {{ site.data.spells.lvb }}
-  * {{ site.data.covenants.pw }}
-  * {{ site.data.spells.fs }}  
-  
-4. На **четыре и более** цели нам не надо кастовать {{ site.data.spells.lvb }} по кулдауну, но мы все еще кастуем его по проку [Волны лавы](https://ru.wowhead.com/spell=77756) перед  [Землетрясением](https://ru.wowhead.com/spell=61882). В зависимости от количества энергии Водоворота и времени жизни мобов в паке, а также наличия активного [Элементаля огня](https://ru.wowhead.com/spell=198067) и легендарки {{ site.data.legend.fire }}, у нас есть несколько вариантов действия:
-* Сразу повесить {{ site.data.spells.fs }} и [Первозданную волну](https://ru.wowhead.com/spell=326059), игнорируя проки [Волны лавы](https://ru.wowhead.com/spell=77756), и скастовать {{ site.data.spells.lvb }} когда {{ site.data.spells.fs }} будет на всех четырех мобах.
-* Кинуть [Первозданную волну](https://ru.wowhead.com/spell=326059) чуть позже, не теряя проков [Выброса лавы](https://ru.wowhead.com/spell=51505), но тогда потерять часть кулдауна [Первозданной волны](https://ru.wowhead.com/spell=326059). Тут нет однозначного ответа, так как все это зависит от многих факторов и используется по-разному.
 
 # Особые моменты
 
@@ -311,7 +290,7 @@ custom-javascript-list:
 3. {{ site.data.spells.lb }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 4. {{ site.data.spells.es }}.
 5. {{ site.data.spells.frs }} под баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
-6. {{ site.data.spells.eb }} .
+6. {{ site.data.spells.eb }}.
   * **Важно!** {{ site.data.spells.eb }} используется всегда по кулдауну, вне зависимости от наличия или отсутствия баффа {{ site.data.spells.mote }}.
 7. {{ site.data.spells.lb }}.
 8. {{ site.data.spells.if }}.
