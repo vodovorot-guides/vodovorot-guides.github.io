@@ -1,8 +1,8 @@
 ---
 title: Способности Шамана Исцеления
 layout: page
-last_update: 2021-02-21
-wow: 9.0.2
+last_update: 2021-03-20
+wow: 9.0.5
 toc: true
 author: "Amani, Niseko"
 custom-javascript-list:
