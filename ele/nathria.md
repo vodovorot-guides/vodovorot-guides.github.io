@@ -296,6 +296,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 ## Генералы Каменного легиона
 
+{% include youtube.html id="L5C9ukc0lYo" %}
 
 **Тип боя:** AoE / Клив
 
