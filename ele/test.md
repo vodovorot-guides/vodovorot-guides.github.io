@@ -2,7 +2,7 @@
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-03-18
-wow: 9.0.0000111ффффф
+wow: 234567
 toc: true
 author: Amani
 custom-javascript-list:
@@ -15,14 +15,17 @@ custom-javascript-list:
 
 Ротация на **АоЕ** расписана для всех типов боев – на две, три, четыре, пять и более целей. Билд на **АоЕ** отличается от билда против **одной цели** и указан в разделе [«Таланты и билды»](https://stormkeeper.ru/ele/talents.html).
 
+
 {% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
+
+Если некоторые строчки дублируются или показаны строчки с талантами, которые вы не выбирали (например, строки с [Властелином стихий](https://ru.wowhead.com/spell=16166) при взятом [Элементале бури](https://ru.wowhead.com/spell=192249)) – перевыберите таланты, ковенант или легендарку чтобы исправить эту ошибку.
+{: class="bordered"}
 
 # Открывающая ротация, «Opener»
 
 **Опенер** – это фиксированный порядок кастов в самом начале боя. 
 
-1. {:.sop-apl}{{ site.data.spells.igor }} за **7** секунд до пула.
-1. {:.if-apl}{{ site.data.spells.igor }} за **7** секунд до пула.
+1. {:.pw-apl}{{ site.data.covenants.fleshcraft }} за **10** секунд до пула.
 1. {:.vt-apl}{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула.
 1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
 3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
@@ -59,17 +62,25 @@ custom-javascript-list:
   * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.ch-apl}{{ site.data.covenants.ch }}.
 20. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
-12. Продолжаем обычную ротацию.
+12. Продолжайте обычную ротацию.
 
-{{ site.data.spells.igor }} с проводником {{ site.data.conduits.vital }} является защитным сейвом и может быть полезен по ходу боя, а не с пула.
-{: class="bordered"}
+Вы можете призвать [Элементаля земли](https://ru.wowhead.com/spell=198103/) за **7** секунд до пула босса, но только если выполнены **все** следующие условия:
+* Вы **не** используете талант {{ site.data.spells.primal_elem }} (усиленные элементали заменяют друг друга).
+* В ближайшие **5** минут вам не потребуется сейв от проводника {{ site.data.conduits.vital }}.
+* Вы используете макрос на призыв [Элементаля земли](https://ru.wowhead.com/spell=198103/), который позволяет не запулить босса раньше времени:
+~~~
+#showtooltip
+/cast  [@=target,harm,exists] [@player] Элементаль огня
+~~~
+
+
 
 # Бой против одной цели
 
 Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта.
 
-1. {:.sk-apl}{{ site.data.spells.lb }} под баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
-1. {{ site.data.spells.fs }} если отсутствует на цели. 
+1. {:.sk-apl}{{ site.data.spells.lb }} с баффом от[Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
+1. {{ site.data.spells.fs }}, если отсутствует на цели. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **20** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 2. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
@@ -79,29 +90,31 @@ custom-javascript-list:
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
   * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
-6. {:.eogs-apl}{{ site.data.spells.quake }} если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
-6. {:.ecs-apl}{{ site.data.spells.ecs }} если следующее заклинание – {{ site.data.spells.es }}.
-7. {{ site.data.spells.es }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
+6. {:.eogs-apl}{{ site.data.spells.quake }}, если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
+6. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.es }}.
+7. {{ site.data.spells.es }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
 9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
-11. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} под баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+11. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 14. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
    * {:.mote-apl}С талантом {{ site.data.spells.mote }}, всегда старайтесь усилить им {{ site.data.covenants.ft }}.
 16. {:.lmt-apl}{{ site.data.spells.lmt }} по кулдауну.
-17. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} под баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+17. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 18. {:.storm-apl}{{ site.data.spells.lb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
 19. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
 25. {:.mote-apl}{{ site.data.spells.es }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} под баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
-21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
+20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
-23. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
-25. {:.storm-apl}{{ site.data.spells.es }} если есть **60** или более ед. энергии Водоворота.
-25. {:.lmt-apl}{{ site.data.spells.es }} если есть **60** или более ед. энергии Водоворота.
-26. {:.if-apl}{{ site.data.spells.frs }} под баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+23. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
+25. {:.eogs-apl .storm-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+25. {:.eogs-apl .lmt-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+25. {:.storm-apl}{{ site.data.spells.es }}, если есть **60** или более ед. энергии Водоворота.
+25. {:.lmt-apl}{{ site.data.spells.es }}, если есть **60** или более ед. энергии Водоворота.
+26. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 27. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
 28. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
 28. {{ site.data.spells.igor }} по кулдауну.
@@ -110,8 +123,8 @@ custom-javascript-list:
 
 # Бой против **2** целей
 
-1. {:.sk-apl}{{ site.data.spells.lb }} под баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
-1. {{ site.data.spells.fs }} если отсутствует на одной из целей. 
+1. {:.sk-apl}{{ site.data.spells.lb }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
+1. {{ site.data.spells.fs }} поддерживайте на **двух** целях. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **20** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 2. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
@@ -121,29 +134,32 @@ custom-javascript-list:
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
   * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
-6. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
-6. {:.ecs-apl}{{ site.data.spells.ecs }} если следующее заклинание – {{ site.data.spells.quake }}.
-7. {{ site.data.spells.quake }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
+6. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
+6. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.quake }}.
+7. {{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
 9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
-11. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} под баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+11. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 14. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
    * {:.mote-apl}С талантом {{ site.data.spells.mote }}, всегда старайтесь усилить им {{ site.data.covenants.ft }}.
 16. {:.lmt-apl}{{ site.data.spells.lmt }} по кулдауну.
-17. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} под баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+17. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 18. {:.storm-apl}{{ site.data.spells.cl }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
 19. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
-25. {:.mote-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} под баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
-21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=26303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
+25. {:.mote-apl .fire-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+25. {:.mote-apl .lava-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+25. {:.mote-apl .ee-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
-23. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
-25. {:.storm-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
-25. {:.lmt-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
-26. {:.if-apl}{{ site.data.spells.frs }} под баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+23. {{ site.data.spells.fs }}, если на одной из целей до спадения осталось менее **5.4** секунд.
+25. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60** или более ед. энергии Водоворота.
+25. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60** или более ед. энергии Водоворота.
+26. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 27. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
 28. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
 28. {{ site.data.spells.igor }} по кулдауну.
@@ -152,7 +168,7 @@ custom-javascript-list:
 
 # Бой против **3** целей
 
-1. {:.sk-apl}{{ site.data.spells.cl }} под баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
+1. {:.sk-apl}{{ site.data.spells.cl }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 1. {:.eogs-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 1. {:.lava-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
@@ -172,9 +188,9 @@ custom-javascript-list:
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
   * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
-6. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
-6. {:.ecs-apl}{{ site.data.spells.ecs }} если следующее заклинание – {{ site.data.spells.quake }}.
-7. {{ site.data.spells.quake }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
+6. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
+6. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.quake }}.
+7. {{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
   *  {:.storm-apl}Не используйте {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
@@ -182,11 +198,11 @@ custom-javascript-list:
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
    * {:.mote-apl}С талантом {{ site.data.spells.mote }} старайтесь усилить им {{ site.data.covenants.ft }}.
-24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+24. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 28. {:.mote-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.mote-apl}{{ site.data.spells.lvb }} есть **50** или более ед. энергии Водоворота.
-25. {:.lmt-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
-25. {:.storm-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60** или более ед. энергии Водоворота.
+25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60** или более ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 29. {{ site.data.spells.cl }}
 24. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
@@ -194,7 +210,7 @@ custom-javascript-list:
 
 # Бой против **4** целей
 
-1. {:.sk-apl}{{ site.data.spells.cl }} под баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
+1. {:.sk-apl}{{ site.data.spells.cl }} с баффом от  [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 1. {:.eogs-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
   * {:.pw-apl}Используйте [Огненный шоки](https://ru.wowhead.com/spell=188389) на дополнительные цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
@@ -217,16 +233,16 @@ custom-javascript-list:
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
   * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
-6. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
-6. {:.ecs-apl}{{ site.data.spells.ecs }} если следующее заклинание – {{ site.data.spells.quake }}.
-7. {{ site.data.spells.quake }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
+6. {:.pw-apl .eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
+6. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.quake }}.
+7. {:.pw-apl}{{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {:.pw-apl}{{ site.data.spells.lvb }} по проку  [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну.
-24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+24. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 28. {:.mote-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.mote-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50** или более ед. энергии Водоворота.
-25. {:.lmt-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
-25. {:.storm-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60** или более ед. энергии Водоворота.
+25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60** или более ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
 29. {{ site.data.spells.cl }}
@@ -236,7 +252,7 @@ custom-javascript-list:
 
 # Бой против **5** и более целей
 
-1. {:.sk-apl}{{ site.data.spells.cl }} под баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
+1. {:.sk-apl}{{ site.data.spells.cl }} с баффом от  [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 1. {:.eogs-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
   * {:.pw-apl}Используйте [Огненный шоки](https://ru.wowhead.com/spell=188389) на дополнительные цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
@@ -259,19 +275,19 @@ custom-javascript-list:
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
   * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
-6. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
-6. {:.ecs-apl}{{ site.data.spells.ecs }} если следующее заклинание – {{ site.data.spells.quake }}.
-7. {{ site.data.spells.quake }} если следующее заклинание накопит более **100** ед. энергии Водоворота.
+6. {:.pw-apl .eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
+6. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.quake }}.
+7. {:.pw-apl}{{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {:.pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну.
-24. {:.eogs-apl}{{ site.data.spells.es }} если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+24. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 24. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} под баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.eogs-apl .mote-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50** или более ед. энергии Водоворота.
-25. {:.lmt-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
-25. {:.storm-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
-25. {:.lava-apl .mote-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
-25. {:.ee-apl .mote-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
-25. {:.fire-apl .mote-apl}{{ site.data.spells.quake }} если есть **60** или более ед. энергии Водоворота.
+25. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60** или более ед. энергии Водоворота.
+25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60** или более ед. энергии Водоворота.
+25. {:.lava-apl .mote-apl}{{ site.data.spells.quake }}, если есть **60** или более ед. энергии Водоворота.
+25. {:.ee-apl .mote-apl}{{ site.data.spells.quake }}, если есть **60** или более ед. энергии Водоворота.
+25. {:.fire-apl .mote-apl}{{ site.data.spells.quake }}, если есть **60** или более ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
 29. {{ site.data.spells.cl }}
@@ -300,9 +316,9 @@ custom-javascript-list:
 
 1. {{ site.data.covenants.ft }}.
 2. {{ site.data.spells.quake }} на **две** и более цели, либо на **одну** цель при наличии баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
-3. {{ site.data.spells.lb }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
+3. {{ site.data.spells.lb }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 4. {{ site.data.spells.es }}.
-5. {{ site.data.spells.frs }} под баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+5. {{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 6. {{ site.data.spells.eb }}.
   * **Важно!** {{ site.data.spells.eb }} используется всегда по кулдауну, вне зависимости от наличия или отсутствия баффа {{ site.data.spells.mote }}.
 7. {{ site.data.spells.lb }}.
