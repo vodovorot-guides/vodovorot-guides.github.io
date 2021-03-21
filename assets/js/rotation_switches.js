@@ -27,11 +27,24 @@ function change_listener(element) {
             } else {
                 $("td#rotation_switch_" + radio.id.split('-')[0]).removeClass("talent-active");
             }
-            let apl_elems = document.getElementsByClassName(radio.id.split('-')[0] + "-apl");
+            //let apl_elems = document.getElementsByClassName(radio.id.split('-')[0] + "-apl");
+            let apl_elems = document.querySelectorAll("." + radio.id.split('-')[0] + "-apl, " + ".no-" + radio.id.split('-')[0] + "-apl");
+
             for (item of apl_elems) {
                 if (radio.checked == true) {
+                    item.classList.remove("no-" + radio.id.split('-')[0] + "-apl")
+                    item.classList.add(radio.id.split('-')[0] + "-apl")
                     item.style.display = "list-item";
+
+                    for(className of item.classList) {
+                        if (className.includes("no-")) {
+                            item.style.display = "none";
+                            break;
+                        }
+                    }
                 } else {
+                    item.classList.remove(radio.id.split('-')[0] + "-apl")
+                    item.classList.add("no-" + radio.id.split('-')[0] + "-apl")
                     item.style.display = "none";
                 }
             }
