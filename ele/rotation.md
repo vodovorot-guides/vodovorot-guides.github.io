@@ -26,9 +26,6 @@ custom-javascript-list:
 
 {% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
 
-Если некоторые строчки дублируются или показаны строчки с талантами, которые вы не выбирали (например, строки с [Властелином стихий](https://ru.wowhead.com/spell=16166) при взятом [Элементале бури](https://ru.wowhead.com/spell=192249)) – перевыберите таланты, ковенант или легендарку чтобы исправить эту ошибку.
-{: class="bordered"}
-
 # Открывающая ротация, «Opener»
 
 **Опенер** – это фиксированный порядок кастов в самом начале боя. 
@@ -80,7 +77,6 @@ custom-javascript-list:
 #showtooltip
 /cast [@player] Элементаль земли
 ~~~
-
 
 
 # Бой против одной цели
@@ -304,12 +300,6 @@ custom-javascript-list:
 24. {:.if-apl}{{ site.data.spells.if }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
 28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
 28. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
-
-<div class="mote-apl bordered" markdown="1" >
-В бою против **пяти и более** целей **не следует** использовать {{ site.data.spells.lvb }}, даже с талантом {{ site.data.spells.mote }}. Исключениями являются следующие ситуации:
-* Использование легендарки {{ site.data.legend.eogs }} – с ней стоит усилять {{ site.data.spells.quake }} с помощью [Властелина стихий](https://ru.wowhead.com/spell=16166), но только по проку.
-* Реализация способности [Первозданная волна](https://ru.wowhead.com/spell=326059).
-</div>
 
 # Особенности талантов
 
