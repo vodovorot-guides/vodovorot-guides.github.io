@@ -9,6 +9,15 @@ function listeners() {
     }
 }
 
+function pick_talents(talents) {
+    let inputs = document.getElementsByTagName("input");
+    talents.forEach(function(talent) {
+        input = document.getElementById(talent + "-radio");
+        input.checked = true;
+        input.dispatchEvent(new Event("change"))
+    });
+}
+
 function change_listener(element) {
     element.addEventListener("change", function(e) {
         let siblings = document.getElementsByName(e.target.name);
@@ -36,4 +45,14 @@ $('.switch-link').on('click', function (e) {
     this.parentNode.click();
     e.stopPropagation();
     e.preventDefault();
+})
+
+$('a#mplus_build').on('click', function(e) {
+    pick_talents(["eote", "afs", "mote", "primal_elem", "sk", "eogs"]);
+    return false;
+})
+
+$('a#raid_build').on('click', function(e) {
+    pick_talents(["eote", "eb", "mote", "if", "sk", "lava"]);
+    return false;
 })

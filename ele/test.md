@@ -15,11 +15,14 @@ custom-javascript-list:
 
 Ротация на **АоЕ** расписана для всех типов боев – на две, три, четыре, пять и более целей. Билд на **АоЕ** отличается от билда против **одной цели** и указан в разделе [«Таланты и билды»](https://stormkeeper.ru/ele/talents.html).
 
-{% include button.html name="Выбрать билд для Рейда" link="/ele/legendaries.html" %}  
-
-<p></p>
-
-{% include button.html name="Выбрать билд для Мифик+" link="/ele/legendaries.html" %}  
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
+      <a href="/ele/rotation.html" id="raid_build" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Рейда</a>
+      <a href="/ele/rotation.html" id="mplus_build" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Мифик+</a>
+    </div>
+  </div>
+</div>
 
 <p></p>
 
