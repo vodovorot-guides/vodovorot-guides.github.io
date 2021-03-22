@@ -1,7 +1,7 @@
 ---
 title: Гайд на Шамана Исцеления
 layout: page
-last_update: 2021-03-07
+last_update: 2021-03-22
 wow: 9.0.5
 author: Amani
 toc: true
@@ -113,6 +113,10 @@ toc: true
 * {{ site.data.loot.Potion_of_Spectral_Intellect }} – подойдет и для отхила, и для нанесения урона.
 
 * {{ site.data.loot.Deadly_Jewel_Cluster }} – камень на Критический удар.
+
+* [Затененная руна усиления](https://ru.wowhead.com/item=181468)
+
+* [Накладки для доспехов из толстой могильной кожи](https://ru.wowhead.com/item=172347)
 
 # Интерфейс
 
