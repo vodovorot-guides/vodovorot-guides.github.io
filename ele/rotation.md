@@ -44,11 +44,11 @@ custom-javascript-list:
 7. {:.afs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
     * {:.pw-apl}{{ site.data.spells.fs }} перед [Первозданной волной](https://ru.wowhead.com/spell=326059).
-5. {:.pw-apl}{{ site.data.covenants.pw }} 
-5. {:.ft-apl}{{ site.data.spells.fs }} 
-5. {:.vt-apl}{{ site.data.spells.fs }} 
-5. {:.ch-apl}{{ site.data.spells.fs }} 
-5. {:.eb-apl}{{ site.data.spells.lvb }}
+5. {:.pw-apl}{{ site.data.covenants.pw }}.
+5. {:.ft-apl}{{ site.data.spells.fs }}. 
+5. {:.vt-apl}{{ site.data.spells.fs }}. 
+5. {:.ch-apl}{{ site.data.spells.fs }}. 
+5. {:.eb-apl}{{ site.data.spells.lvb }}.
 6. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 6. {:.eote-apl .ecs-apl}{{ site.data.spells.ecs }}.
 7. {:.eote-apl}{{ site.data.spells.lvb }}.
