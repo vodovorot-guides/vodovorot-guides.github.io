@@ -47,7 +47,7 @@ toc: true
 
 * {{ site.data.legend.lava }} – для **для рейда**.
 * {{ site.data.legend.eogs }} – для **Мифик+**.
-* {{ site.data.legend.fire }} – для **Мифик+** (только <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>).
+* {{ site.data.legend.fire }} – для **Мифик+** (лучше подходит <span style="color:#40bf40;font-size:1em;">**Некролордам**</span>).
 
 * Рекомендуемые характеристики для крафта – **Скорость** и **Универсальность**.
 
