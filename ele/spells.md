@@ -228,7 +228,8 @@ author: Amani
 * При использовании [Первозданной волны](https://ru.wowhead.com/spell=326059)<span style="color:#40bf40;font-size:1em;">**Некролордов**</span> шанс на прок Искусности расчитывается отдельно на каждую цель.
 
 
-<a href="https://ru.wowhead.com/spell=60188" target="blank" data-wh-icon-size="medium" >**Неистовство стихий**</a> – 
+<a href="https://ru.wowhead.com/spell=60188" target="blank" data-wh-icon-size="medium" >**Неистовство стихий**</a> – увеличивает критический урон всех наших заклинаний на **250**, вместо **200%**.
+
 
 [Неистовство стихий: Ранг 2](https://ru.wowhead.com/spell=343190)
 
