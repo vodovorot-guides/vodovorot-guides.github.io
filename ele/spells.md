@@ -11,6 +11,8 @@ author: Amani
 
 ## Бой против одной цели
 
+<span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>Силы стихий</strong></span>
+
 <span style="color:#26d22b;font-size:1em;">**Природа**</span>  
 <span style="color:#f16f25;font-size:1em;">**Огонь**</span>  
 <span style="color:#8fd5fe;font-size:1em;">**Лёд**</span>  
