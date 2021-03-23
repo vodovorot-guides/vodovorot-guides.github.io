@@ -14,6 +14,10 @@ author: Amani
 <span style="color:#26d22b;font-size:1em;">**Природа**</span>  
 <span style="color:#f16f25;font-size:1em;">**Огонь**</span>  
 <span style="color:#8fd5fe;font-size:1em;">**Лёд**</span>  
+
+<span style="color:#26d22b;font-size:1em;">**У**</span><span style="color:#f16f25;font-size:1em;">**д**</span><span style="color:#8fd5fe;font-size:1em;">**а**</span><span style="color:#26d22b;font-size:1em;">**р**</span> <span style="color:#f16f25;font-size:1em;">**д**</span><span style="color:#8fd5fe;font-size:1em;">**у**</span><span style="color:#26d22b;font-size:1em;">**х**</span><span style="color:#f16f25;font-size:1em;">**о**</span><span style="color:#8fd5fe;font-size:1em;">**в**</span> <span style="color:#26d22b;font-size:1em;">**с**</span><span style="color:#f16f25;font-size:1em;">**т**</span><span style="color:#8fd5fe;font-size:1em;">**и**</span><span style="color:#26d22b;font-size:1em;">**х**</span><span style="color:#f16f25;font-size:1em;">**и**</span><span style="color:#8fd5fe;font-size:1em;">**й**</span>         
+
+
 <span style="color:#FFFFFF;font-size:1em;">**Физический**</span>  
 <span style="color:#b93682;font-size:1em;">**Сила стихий**</span>  
 <span style="color:#e66bb4;font-size:1em;">**Сила стихий**</span>  
