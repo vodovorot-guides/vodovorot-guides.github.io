@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-03-25
+last_update: 2021-03-22
 wow: 9.0.5
 toc: true
 author: Amani
@@ -55,12 +55,15 @@ custom-javascript-list:
 8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
 9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
 10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
-11. {:.fire-apl .eote-apl .eb-apl .sk-apl}{{ site.data.spells.es }}.
-  * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-12. {:.eogs-apl .eote-apl .eb-ap .sk-apl}{{ site.data.spells.es }}.
-  * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-13. {:.ee-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
-  * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+11. {:.fire-apl .eote-apl .eb-apl .sk-apl .lmt-apl}{{ site.data.spells.es }}.
+11. {:.fire-apl .eote-apl .eb-apl .sk-apl .storm-apl}{{ site.data.spells.es }}.
+11. {:.fire-apl .eote-apl .eb-apl .sk-apl .mote-apl}{{ site.data.spells.es }} с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+12. {:.eogs-apl .eote-apl .eb-ap .sk-apl .lmt-apl}{{ site.data.spells.es }}.
+12. {:.eogs-apl .eote-apl .eb-ap .sk-apl .storm-apl}{{ site.data.spells.es }}.
+12. {:.eogs-apl .eote-apl .eb-ap .sk-apl .mote-apl}{{ site.data.spells.es }} с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+13. {:.ee-apl .eote-apl .eb-apl .lmt-apl}{{ site.data.spells.es }}.
+13. {:.ee-apl .eote-apl .eb-apl .storm-apl}{{ site.data.spells.es }}.
+13. {:.ee-apl .eote-apl .eb-apl .mote-apl}{{ site.data.spells.es }} с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 23. {:.ft-apl .mote-apl}{{ site.data.covenants.ft }} с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.ft-apl .lmt-apl}{{ site.data.covenants.ft }}.
 23. {:.ft-apl .storm-apl}{{ site.data.covenants.ft }}.
