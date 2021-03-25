@@ -1,8 +1,8 @@
 ---
 title: Сокращения и аббревиатуры
 layout: page
-last_update: 2021-03-02
-wow: 9.0.1
+last_update: 2021-03-25
+wow: 9.0.5
 toc: true
 author: Amani
 ---
@@ -84,6 +84,13 @@ author: Amani
 * {{ site.data.conduits.wave }} – Tumbling Waves, TW, Прок волны.
 * {{ site.data.conduits.harvest }} – Lavish Harvest, LH, Лавиш харвест, ЛХ.
 
+## Легендарные предметы
+
+* {{ site.data.legend.stone }} – Deeptremor Stone, DS, Диптремор, Лега на Игоря.
+* {{ site.data.legend.reminder }} – Ancestral Reminder, AR, Ремайндер, Лега на БЛ.
+* {{ site.data.legend.chains }} – Chains of Devastation, Chains, Чейнс, Лега на Цепнухи.
+* {{ site.data.legend.deeply }} – Deeply Rooted Elements, DRE, Лега на Перерождение.
+
 # Стихии
 
 ## Способности
@@ -123,6 +130,13 @@ author: Amani
 * {{ site.data.spells.sk }} – Stormkeeper, SK, Keeper, СК, Штормкипер, Кипер.  
 * {{ site.data.spells.asc_ele }} – Ascendance, Asc, Асц, Мужик.  
 
+## Легендарные предметы
+
+* {{ site.data.legend.lava }} – Windspeaker's Lava Resurgence, WLR, Виндспикерс, Лега на лаву.
+* {{ site.data.legend.eogs }} – Echoes of Great Sundering, EOGS, ЕОГС, Отголоски, Лега на кваку.
+* {{ site.data.legend.fire }} – Skybreaker's Fiery Demise, SkyB, Скайбрейкерс, Лега на элема.
+* {{ site.data.legend.ee }} – Elemental Equilibrium, EE, Эквилибриум.
+
 # Совершенствование
 
 ## Способности
@@ -160,6 +174,13 @@ author: Amani
 * {{ site.data.spells.spirits }} – Elemental Spirits, ElS, Бафф волков.  
 * {{ site.data.spells.spike }} – Earthen Spike, ES (Одно из значений), Спайк, Шип.  
 * {{ site.data.spells.asc_enh }} – Ascendance, Asc, Асц, Мужик.  
+
+## Легендарные предметы
+
+* {{ site.data.legend.doom }} – Doom Winds, DW, Ветра, Лега на ВФ.
+* {{ site.data.legend.wolf }} – Witch Doctor's Wolf Bones, WD, Кости, Лега на волков.
+* {{ site.data.legend.actuators }} – Primal Lava Actuators, PLA, Актуаторы, Лега на лаваш.
+* {{ site.data.legend.witch }} – Legacy of the Frost Witch, LFW, Witch, Ведьма, Лега на СС.
 
 # Исцеление
 
@@ -200,3 +221,10 @@ author: Amani
 * {{ site.data.spells.high_tide }} – High Tide, HT, ХТ, Хай тайд.  
 * {{ site.data.spells.wellspring }} – Wellspring, WP, Веллспринг.  
 * {{ site.data.spells.asc_resto }} – Ascendance, Asc, Асц, Мужик.  
+
+## Легендарные предметы
+
+* {{ site.data.legend.riptide }} – Primal Tide Core, PTC, Лега на Быстрину.
+* {{ site.data.legend.mtt }} – Spiritwalker's Tidal Totem, STT, MTT leggo, Лега на Тотем, Лега на МТТ.
+* {{ site.data.legend.earth }} – Earthen Harmony, EH, Гармония, Лега на Щит земли.
+* {{ site.data.legend.jonat }} – Jonat's Natural Focus, JNF, Jonat's, Джонатс, Лега на Цепгнуху.
