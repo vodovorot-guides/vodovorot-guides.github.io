@@ -1,7 +1,7 @@
 ---
 title: Способности Шамана Стихии
 layout: page
-last_update: 2021-03-22
+last_update: 2021-03-25
 wow: 9.0.5
 toc: true
 author: Amani
@@ -10,8 +10,6 @@ author: Amani
 # Основные заклинания
 
 ## Бой против одной цели
-
-<span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>Силы стихий</strong></span>
 
 <span style="color:#26d22b;font-size:1em;">**Природа**</span>  
 <span style="color:#f16f25;font-size:1em;">**Огонь**</span>  
@@ -207,6 +205,9 @@ author: Amani
 * Данный эффект срабатывает максимум **один** раз за **одно** применение [Землетрясения](https://ru.wowhead.com/spell=61882) на **одного** врага. То есть нельзя сбить два раза одного моба одним [Землетрясением](https://ru.wowhead.com/spell=61882), но можно двумя.
 * При использовании легендарки {{ site.data.legend.eogs }}, урон [Землетрясения](https://ru.wowhead.com/spell=61882) увеличивается на **120%** после применения [Земного шока](https://ru.wowhead.com/spell=8042).
 * [Землетрясение](https://ru.wowhead.com/spell=61882) имеет софт-кап на **20** целей. Подробнее в разделе [«Ограничение на количество целей»](https://stormkeeper.ru/info/target_cap.html).
+* Чтобы [Землетрясение](https://ru.wowhead.com/spell=61882) нанесло больше урона, чем [Земной шок](https://ru.wowhead.com/spell=61882), оно должно сделать минимум **7** тиков. Это либо **1** секунда действия в бою против **7+** целей, либо **2** секунды в бою против **4** целей, либо **3** секунды в бою против **3** целей, либо **4** секунды в бою против **2** целей.
+
+
 
 # Пассивные способности
 
@@ -236,11 +237,21 @@ author: Amani
 
 <a href="https://ru.wowhead.com/spell=60188" target="blank" data-wh-icon-size="medium" >**Неистовство стихий**</a> – увеличивает критический урон всех наших заклинаний на **250**, вместо **200%**.
 
+* Позволяет Элем Шаману наносить больше Критического урона всеми своими способностями, включая способности Ковенантов.
+* **Не работает** на аксессуары.
+* **Не работает** на предметы и баффы в Смертельной тризне: [Кровавое копье](https://ru.wowhead.com/spell=328351), [Забытый кузнечный молот](https://ru.wowhead.com/spell=328128), [Освобожденная анима](https://ru.wowhead.com/spell=328404).
+* Работает на исцеляющие заклинания, за счет пассивки на **52** уровне: [Неистовство стихий: Ранг 2](https://ru.wowhead.com/spell=343190).
 
-[Неистовство стихий: Ранг 2](https://ru.wowhead.com/spell=343190)
 
 <a href="https://ru.wowhead.com/spell=77756" target="blank" data-wh-icon-size="medium" >**Волна лавы**</a> – Периодический урон от {{ site.data.spells.fs }} имеет шанс восстановить {{ site.data.spells.lvb }} и сделать следующее его применение мгновенным.  
 
+* Наш основной прок, который оказывает большое влияние на ротацию как в бою против одной цели, так и на АоЕ.
+* Чем больше вы поддерживаете [Огненных шоков](https://ru.wowhead.com/spell=188389), тем больше будет проков.
+* Талант {{ site.data.spells.eote }} позволяет не терять время восстановления [Выброса лавы](https://ru.wowhead.com/spell=51505) на каждом проке [Волны лавы](https://ru.wowhead.com/spell=77756)
+
+
+
+[Выброса лавы](https://ru.wowhead.com/spell=51505)
 <a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="medium" >**Водоворот**</a> – 
 
 
