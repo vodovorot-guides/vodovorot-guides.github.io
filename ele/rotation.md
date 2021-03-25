@@ -4,7 +4,7 @@ layout: page
 last_update: 2021-03-25
 wow: 9.0.5
 toc: true
-author: Amani
+author: "Amani, Ignis, Zab"
 custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
