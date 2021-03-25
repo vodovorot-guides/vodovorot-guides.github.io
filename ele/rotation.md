@@ -117,7 +117,7 @@ custom-javascript-list:
 32. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
 33. {{ site.data.spells.igor }} по кулдауну.
   * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
-34. {{ site.data.spells.lb }} 
+34. {{ site.data.spells.lb }}.
 
 # Бой против **2** целей
 
@@ -161,7 +161,7 @@ custom-javascript-list:
 28. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
 28. {{ site.data.spells.igor }} по кулдауну.
   * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
-29. {{ site.data.spells.cl }} 
+29. {{ site.data.spells.cl }}. 
 
 # Бой против **3** целей
 
@@ -203,7 +203,7 @@ custom-javascript-list:
 25. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
-29. {{ site.data.spells.cl }}
+29. {{ site.data.spells.cl }}.
 24. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
 28. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
 
@@ -246,7 +246,7 @@ custom-javascript-list:
 25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
-29. {{ site.data.spells.cl }}
+29. {{ site.data.spells.cl }}.
 24. {:.if-apl}{{ site.data.spells.if }} в бою против **4** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
 28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **4** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
 28. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}. 
@@ -290,7 +290,7 @@ custom-javascript-list:
 25. {:.fire-apl .mote-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
-29. {{ site.data.spells.cl }}
+29. {{ site.data.spells.cl }}.
 24. {:.if-apl}{{ site.data.spells.if }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
 28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
 28. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
