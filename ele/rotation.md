@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-03-22
+last_update: 2021-03-25
 wow: 9.0.5
 toc: true
 author: Amani
@@ -40,10 +40,10 @@ custom-javascript-list:
   * ***Пул босса.***
 6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
-  * {:.pw-apl}{{ site.data.spells.fs }} перед [Первозданной волной](https://ru.wowhead.com/spell=326059).
 7. {:.afs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
-    * {:.pw-apl}{{ site.data.spells.fs }} перед [Первозданной волной](https://ru.wowhead.com/spell=326059).
+7. {:.afs-apl .pw-apl}{{ site.data.spells.fs }}.
+7. {:.ecs-apl .pw-apl}{{ site.data.spells.fs }}.
 5. {:.pw-apl}{{ site.data.covenants.pw }}.
 5. {:.ft-apl}{{ site.data.spells.fs }}. 
 5. {:.vt-apl}{{ site.data.spells.fs }}. 
@@ -61,13 +61,14 @@ custom-javascript-list:
   * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 13. {:.ee-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
   * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-11. {:.if-apl}{{ site.data.spells.if }}.
-22. {:.lmt-apl}{{ site.data.spells.lmt }}.
-23. {:.ft-apl}{{ site.data.covenants.ft }}.
-  * {:.mote-apl}Желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-24. {:.ch-apl}{{ site.data.covenants.ch }}.
-20. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
-12. Продолжайте обычную ротацию.
+23. {:.ft-apl .mote-apl}{{ site.data.covenants.ft }} с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+24. {:.ft-apl .lmt-apl}{{ site.data.covenants.ft }}.
+23. {:.ft-apl .storm-apl}{{ site.data.covenants.ft }}.
+25. {:.if-apl}{{ site.data.spells.if }}.
+26. {:.lmt-apl}{{ site.data.spells.lmt }}.
+27. {:.ch-apl}{{ site.data.covenants.ch }}.
+28. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
+29. Продолжайте обычную ротацию.
 
 Вы можете призвать [Элементаля земли](https://ru.wowhead.com/spell=198103/) за **7** секунд до пула босса, но только если выполнены **все** следующие условия:
 * Вы **не** используете талант {{ site.data.spells.primal_elem }} (усиленные элементали заменяют друг друга).
