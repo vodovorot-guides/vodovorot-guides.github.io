@@ -193,8 +193,6 @@ custom-javascript-list:
 8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
   * {:.storm-apl}Не используйте {{ site.data.spells.eb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 10. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
-15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
-   * {:.mote-apl}С талантом {{ site.data.spells.mote }} старайтесь усилить им {{ site.data.covenants.ft }}.
 28. {:.mote-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 24. {:.mote-apl .eogs-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота и бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 24. {:.mote-apl .fire-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота.
@@ -204,8 +202,9 @@ custom-javascript-list:
 25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 29. {{ site.data.spells.cl }}.
-24. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
-28. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
+30. {:.ft-apl}{{ site.data.covenants.ft }} в бою против **3** целей **не используется**. Применяйте тогда, когда в живых остается **1-2** моба.
+31. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
+32. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
 
 # Бой против **4** целей
 
@@ -256,11 +255,11 @@ custom-javascript-list:
 25. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
-15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
 29. {{ site.data.spells.cl }}.
-24. {:.if-apl}{{ site.data.spells.if }} в бою против **4** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
-28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **4** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
-28. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}. 
+30. {:.ft-apl}{{ site.data.covenants.ft }} в бою против **4** целей **не используется**. Применяйте тогда, когда в живых остается **1-2** моба.
+31. {:.if-apl}{{ site.data.spells.if }} в бою против **4** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
+32. {:.eb-apl}{{ site.data.spells.eb }} в бою против **4** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
+33. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}. 
 
 # Бой против **5** и более целей
 
@@ -311,11 +310,11 @@ custom-javascript-list:
 25. {:.ee-apl .mote-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 25. {:.fire-apl .mote-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
-15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
 29. {{ site.data.spells.cl }}.
-24. {:.if-apl}{{ site.data.spells.if }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
-28. {:.eb-apl}{{ site.data.spells.eb }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
-28. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
+30. {:.ft-apl}{{ site.data.covenants.ft }} в бою против **3** целей **не используется**. Применяйте тогда, когда в живых остается **1-2** моба.
+31. {:.if-apl}{{ site.data.spells.if }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
+32. {:.eb-apl}{{ site.data.spells.eb }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
+33. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
 
 # Особенности талантов
 
