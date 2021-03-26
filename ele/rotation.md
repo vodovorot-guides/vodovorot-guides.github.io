@@ -200,9 +200,10 @@ custom-javascript-list:
 24. {:.mote-apl .ee-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота.
 25. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
+   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, всегда старайтесь усилить им {{ site.data.covenants.ft }}.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 29. {{ site.data.spells.cl }}.
-30. {:.ft-apl}{{ site.data.covenants.ft }} в бою против **3** целей **не используется**. Применяйте тогда, когда в живых остается **1-2** моба.
 31. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
 32. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
 
