@@ -1,7 +1,7 @@
 ---
 title: Способности Шамана Стихии
 layout: page
-last_update: 2021-04-07
+last_update: 2021-03-25
 wow: 9.0.5
 toc: true
 author: Amani
@@ -29,11 +29,12 @@ author: Amani
 <span style="color:#5a5b12;font-size:1em;">**Физический**</span>
 <span style="color:#103353;font-size:1em;">**Сила стихий**</span>
 
+<span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>Силы стихий</strong></span>
 
 
-* Шаман Стихии использует школы магии <span style="color:#26d22b;font-size:1em;">**Природа**</span>, <span style="color:#f16f25;font-size:1em;">**Огонь**</span> и <span style="color:#8fd5fe;font-size:1em;">**Лед**</span>, а также <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> (только для [Землетрясения](https://ru.wowhead.com/spell=61882)).
-* Дальность всех атакующих заклинаний – **40** метров. Исключением является [Пронизывающий ветер](https://ru.wowhead.com/spell=57994), который имеет дальность **30** метров.
-* Основной ресурс Шамана Стихии – [Водоворот](https://ru.wowhead.com/spell=343725), а вспомогательный – **Мана** (используется для отхила и сапорт заклинаний).
+* Шаман Стихии использует школы магии <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span>.
+* Дальность всех атакующих заклинаний – **40** метров. Исключениями являются [Пронизывающий ветер](https://ru.wowhead.com/spell=57994) и [Развеивания магии](https://ru.wowhead.com/spell=370), которые имеет дальность **30** метров.
+* Основной ресурс Шамана Стихии – [Водоворот](https://ru.wowhead.com/spell=343725), а вспомогательный – **Мана** (используется для лечения и вспомогательных заклинаний).
 * Базовая длительность ГКД составляет **1.5** секунд, а ГКД после установки тотемов – **1** секунда.
 
 <a href="https://ru.wowhead.com/spell=188196" target="blank" data-wh-icon-size="medium" >**Молния**</a> – основной генератор ресурса и «филлер» в бою против одной цели.
