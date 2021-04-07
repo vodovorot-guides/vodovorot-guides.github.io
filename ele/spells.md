@@ -11,27 +11,6 @@ author: Amani
 
 ## Бой против одной цели
 
-<span style="color:#26d22b;font-size:1em;">**Природа**</span>  
-<span style="color:#f16f25;font-size:1em;">**Огонь**</span>  
-<span style="color:#8fd5fe;font-size:1em;">**Лёд**</span>  
-
-
-<span style="color:#FFFFFF;font-size:1em;">**Физический**</span>  
-<span style="color:#b93682;font-size:1em;">**Сила стихий**</span>  
-<span style="color:#e66bb4;font-size:1em;">**Сила стихий**</span>  
-<span style="color:#e600a6;font-size:1em;">**Сила стихий**</span>  
-
-
-
-<span style="color:#485b49;font-size:1em;">**Природа**</span>
-<span style="color:#5a3811;font-size:1em;">**Огонь**</span>
-<span style="color:#375a5b;font-size:1em;">**Лёд**</span>
-<span style="color:#5a5b12;font-size:1em;">**Физический**</span>
-<span style="color:#103353;font-size:1em;">**Сила стихий**</span>
-
-<span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>Силы стихий</strong></span>
-
-
 * Шаман Стихии использует школы магии <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span>.
 * Дальность всех атакующих заклинаний – **40** метров. Исключениями являются [Пронизывающий ветер](https://ru.wowhead.com/spell=57994) и [Развеивания магии](https://ru.wowhead.com/spell=370), которые имеет дальность **30** метров.
 * Основной ресурс Шамана Стихии – [Водоворот](https://ru.wowhead.com/spell=343725), а вспомогательный – **Мана** (используется для лечения и вспомогательных заклинаний).
@@ -150,8 +129,8 @@ author: Amani
 * Наносит **140%** урона от силы заклинаний и дает бафф на **10** секунд на одну случайную характеристику.
 * Время восстановления **12** секунд.
 * Время произнесения **2** секунды.
-* Наносит урон от <span style="color:#e600a6;font-size:1em;">**Силы стихий**</span> (сочетание школ магии <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span>) и стоит **2.75%** маны.
-* Заклинание с уроном от <span style="color:#e600a6;font-size:1em;">**Силы стихий**</span> может применяться даже в том случае, если вам заблокировали любую школу магию, кроме всех трех одновременно.
+* Наносит урон от <span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>Силы стихий</strong></span> (сочетание школ магии <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span>) и стоит **2.75%** маны.
+* Заклинание с уроном от <span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>Силы стихий</strong></span> может применяться даже в том случае, если вам заблокировали любую школу магию, кроме всех трех одновременно.
 * Однако, если вы получите прерывание во время каста [Удара духов стихий](https://ru.wowhead.com/spell=117014), то вы не сможете применять заклинания с уроном от сил  <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#f16f25;font-size:1em;">**Огня**</span> или <span style="color:#8fd5fe;font-size:1em;">**Льда**</span>.
 * Эффект легендарки {{ site.data.legend.ee }} срабатывает от [Удара духов стихий](https://ru.wowhead.com/spell=117014), без необходимости каста трех различных заклинаний.
 * {{ site.data.spells.eb }} имеет время полета снаряда, примерно **~1** секунду, но бафф от таланта накладывается сразу же по завершению каста.
