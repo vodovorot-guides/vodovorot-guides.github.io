@@ -1,7 +1,7 @@
 ---
 title: Полезные макросы для шамана
 layout: page
-last_update: 2021-03-26
+last_update: 2021-04-08
 wow: 9.0.5
 toc: true
 author: Amani
