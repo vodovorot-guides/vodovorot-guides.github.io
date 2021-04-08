@@ -312,7 +312,7 @@ custom-javascript-list:
 25. {:.fire-apl .mote-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 29. {{ site.data.spells.cl }}.
-30. {:.ft-apl}{{ site.data.covenants.ft }} в бою против **3** целей **не используется**. Применяйте тогда, когда в живых остается **1-2** моба.
+30. {:.ft-apl}{{ site.data.covenants.ft }} в бою против **5** и более целей **не используется**. Применяйте тогда, когда в живых остается **1-2** моба.
 31. {:.if-apl}{{ site.data.spells.if }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
 32. {:.eb-apl}{{ site.data.spells.eb }} в бою против **5** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
 33. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
