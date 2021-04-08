@@ -118,6 +118,15 @@ author: Amani
 /cast [talent:7/3] Перерождение
 ~~~
 
+* Применяет к себе {{ site.data.spells.ls }}, либо {{ site.data.spells.eshield }}, если он выбран в талантах.
+
+~~~
+#showtooltip 
+/cast [talent:3/1] Щит молний
+/cast [talent:3/2] Щит земли
+/cast [talent:3/3] Щит молний
+~~~
+
 # Совершенствование
 
 * Использование {{ site.data.spells.ww }} и {{ site.data.spells.ftw }} на одной кнопке:  
@@ -145,6 +154,15 @@ author: Amani
 /targetparty
 /cast Жажда крови
 /targetlastenemy
+~~~
+
+* Применяет к себе {{ site.data.spells.ls }}, либо {{ site.data.spells.eshield }}, если он выбран в талантах.
+
+~~~
+#showtooltip 
+/cast [talent:3/1] Щит молний
+/cast [talent:3/2] Щит земли
+/cast [talent:3/3] Щит молний
 ~~~
 
 # Исцеление
