@@ -7,8 +7,11 @@ categories:
         subsubcategories:
         - title: Основная информация
           url: /ele/intro.html
-        - title: Способности и ротация
+        - title: Приоритеты и ротация
           url: /ele/rotation.html
+        - title: Заклинания и способности
+          url: /ele/spells.html   
+          disabled: true
         - title: Таланты и билды
           url: /ele/talents.html
         - title: Ковенанты и медиумы
