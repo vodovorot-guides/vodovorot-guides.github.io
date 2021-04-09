@@ -11,7 +11,7 @@ author: Amani
 
 ## Бой против одной цели
 
-* Шаман Стихии использует школы магии <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span>.
+* Шаман Стихии использует школы магии <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span>, а также наносит <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> урон (только [Землетрясение](https://ru.wowhead.com/spell=61882)).
 * Дальность всех атакующих заклинаний – **40** метров. Исключениями являются некоторые вспомогательные способности, которые имеет дальность **30** метров.
 * Основной ресурс Шамана Стихии – [Водоворот](https://ru.wowhead.com/spell=343725), а вспомогательный – **Мана** (используется для лечения и вспомогательных заклинаний).
 * Базовая длительность ГКД составляет **1.5** секунд, а ГКД после установки тотемов – **1** секунда.
@@ -72,7 +72,7 @@ author: Amani
 * Каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) имеет **10%** шанс восстановить {{ site.data.spells.lvb }} и сделать следующее его применение мгновенным, за счет прока [Волны лавы](https://ru.wowhead.com/spell=77756).
 * {{ site.data.spells.lvb }} используется по кулдауну в бою против **1-2** цели и только по проку в бою против **3** целей. В зависимости от талантов и легендарок приоритет может меняться, подробнее в разделе [«Ротация и приоритеты»](https://stormkeeper.ru/ele/rotation.html).
 * Талант первого тира [Эхо стихий](https://ru.wowhead.com/spell=333919/) дает [Выбросу лавы](https://ru.wowhead.com/spell=51505) второй заряд, в результате чего время восстановления не теряется при проке [Волны лавы](https://ru.wowhead.com/spell=77756), а также сокращает кулдаун [Выброса лавы](https://ru.wowhead.com/spell=51505) до **8** секунд, вместо «**8** секунд + время произнесения + время реакции».
-* Талант четвертого тира {{ site.data.spells.mote }} позволяет [Выбросу лавы](https://ru.wowhead.com/spell=51505) увеличивать урон следующего заклинания магии <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> и <span style="color:#FFFFFF;font-size:1em;">**Физики**</span> на **20%**. Подробнее в разделе [«Таланты»](https://stormkeeper.ru/ele/talents.html#%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B9-%D1%82%D0%B8%D1%80-35-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C).
+* Талант четвертого тира {{ site.data.spells.mote }} позволяет [Выбросу лавы](https://ru.wowhead.com/spell=51505) увеличивать урон следующего заклинания, наносяшего урон от магии <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> или <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> на **20%**. Подробнее в разделе [«Таланты»](https://stormkeeper.ru/ele/talents.html#%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B9-%D1%82%D0%B8%D1%80-35-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C).
 * Урон [Выброса лавы](https://ru.wowhead.com/spell=51505) **НЕ МОЖЕТ** быть усилен на **20%** с помощью таланта четвертого тира {{ site.data.spells.mote }}.
 
 <a href="https://ru.wowhead.com/spell=8042" target="blank" data-wh-icon-size="medium" >**Земной шок**</a> – «спендер» в бою против одной цели.
@@ -453,7 +453,7 @@ author: Amani
 * С этим талантом невозможно призвать одновременно [Элементаля земли](https://ru.wowhead.com/spell=198103) и [Элементаля огня](https://ru.wowhead.com/spell=198067), так как последний призванный элементаль заменяет предыдущего. Не может быть двух питомцев одновременно, а стражей – сколько угодно.
 * Аналогом [Элементаля земли](https://ru.wowhead.com/spell=198103) являются древни Друида – [Сила природы](https://ru.wowhead.com/spell=205636), но они чаще вызываются и лучше держат на себе мобов.
 
-<a href="https://ru.wowhead.com/spell=79206" target="blank" data-wh-icon-size="medium" >**Благосклонность предков**</a> – дает возможность кастовать на ходу.
+<a href="https://ru.wowhead.com/spell=79206" target="blank" data-wh-icon-size="medium" >**Благосклонность предков**</a> – позволяет применять заклинания на ходу.
 
 > Spiritwalker's Grace, SWG, СВГ, Спиритволк, Каст на ходу.  
 
