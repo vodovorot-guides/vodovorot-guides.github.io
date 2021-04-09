@@ -321,7 +321,7 @@ author: Amani
 
 # Лечение и защита
 
-<a href="https://ru.wowhead.com/spell=108271" target="blank" data-wh-icon-size="medium" >**Астральный сдвиг**</a> – основной сейв.
+<a href="https://ru.wowhead.com/spell=108271" target="blank" data-wh-icon-size="medium" >**Астральный сдвиг**</a> – основное защитное заклинание.
 
 > Astral Shift, AS, Shift, АС, Шифт, Астрал, Сейв, Личка, Минус сорок.
 
