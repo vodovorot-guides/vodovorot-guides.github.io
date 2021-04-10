@@ -60,7 +60,7 @@ author: Amani
 * {{ site.data.spells.ch }} – Chain Heal, CH, Чайник (одно из значений), Цепнуха (одно из значений).  
 * {{ site.data.spells.cl }} – Chain Lightning, CL, КЛ (одно из значений), Чайник (одно из значений), Цепнуха (одно из значений).  
 * {{ site.data.spells.hst }} – Healing Stream Totem, HST, ХСТ, Тотемчик, Малыш.  
-* {{ site.data.spells.igor }} – Earth Elemental, Earth, Steve, Элем земли, Игорь, Стив.  
+* {{ site.data.spells.igor }} – Earth Elemental, EE, Earth, Steve, Элем земли, Игорь, Стив.  
 * {{ site.data.spells.purge }} – Purge, Пурдж, Диспел (одно из значений), Очищение.  
 * {{ site.data.spells.hex }} – Hex, Хекс, Лягушка.  
 * {{ site.data.spells.as }} – Astral Shift, AS, Shift, АС, Шифт, Астрал, Сейв, Личка.  
@@ -135,7 +135,7 @@ author: Amani
 * {{ site.data.legend.lava }} – Windspeaker's Lava Resurgence, WLR, Виндспикерс, Лега на лаву.
 * {{ site.data.legend.eogs }} – Echoes of Great Sundering, EOGS, ЕОГС, Отголоски, Лега на кваку.
 * {{ site.data.legend.fire }} – Skybreaker's Fiery Demise, SkyB, Скайбрейкерс, Лега на элема.
-* {{ site.data.legend.ee }} – Elemental Equilibrium, EE, Эквилибриум.
+* {{ site.data.legend.ee }} – Elemental Equilibrium, EEq, Эквилибриум.
 
 # Совершенствование
 
