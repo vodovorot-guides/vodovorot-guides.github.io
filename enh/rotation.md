@@ -84,17 +84,16 @@ custom-javascript-list:
 Ротация на АоЕ при взятых талантах {{ site.data.spells.fw }}, {{ site.data.spells.flurry }}, {{ site.data.spells.hailstorm }}, {{ site.data.spells.sunder }} и {{ site.data.spells.asc_enh }}:
 
 1. {{ site.data.spells.wt }} – если тотем не активен.
-2. {{ site.data.spells.frs }} с баффом {{ site.data.spells.hailstorm }}
-3. {{ site.data.spells.feral }}
-4. {{ site.data.spells.sunder }} на максимально возможное количество целей.
-5. {{ site.data.spells.asc_enh }} и {{ site.data.spells.windstrike }} по кулдауну.
-6. {{ site.data.spells.cl }} при **5+** стаках {{ site.data.spells.mw }}
-7. {{ site.data.spells.crush }}
-8. {{ site.data.spells.ss }}
-9. {{ site.data.spells.ll }}
+2. {{ site.data.spells.frs }} с баффом {{ site.data.spells.hailstorm }}.
+3. {{ site.data.spells.asc_enh }}, стараясь задеть максимальное количество целей при активации.
+5. {{ site.data.spells.sunder }} на максимально количество целей.
+7. {{ site.data.spells.cl }} при **5+** стаках {{ site.data.spells.mw }}.
+8. {{ site.data.spells.crush }}.
+9. {{ site.data.spells.ss }}.
+10. {{ site.data.spells.ll }} если ничего больше не доступно.
 
 * {{ site.data.spells.fs }} на АоЕ не используется.
-* Способности ковенантов следует использовать по кулдауну. {{ site.data.covenants.ch }} только на **5+** стаках {{ site.data.spells.mw }}.
+* Способности ковенантов и {{ site.data.spells.feral }} следует использовать по кулдауну. {{ site.data.covenants.ch }} только на **5+** стаках {{ site.data.spells.mw }}.
 
 # Влияние легендарных предметов
 
