@@ -29,9 +29,9 @@ author: Amani
 
 {% include talents.html data=site.data.talents.ele active="110" row=1 %}
 
-> Earthen Rage, Шипы.
-
 <a href="https://ru.wowhead.com/spell=170374" target="blank" data-wh-icon-size="medium" >**Возмущение земли**</a> – пассивный талант, который наносит небольшой урон одной цели.
+
+> Earthen Rage, Шипы.
 
 * **Подойдет исключительно под АоЕ бой в сочетании с талантом {{ site.data.spells.storm }} .**
 
