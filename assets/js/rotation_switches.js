@@ -61,7 +61,7 @@ $('.switch-link').on('click', function (e) {
 })
 
 $('a#mplus_build').on('click', function(e) {
-    pick_talents(["eote", "afs", "mote", "primal_elem", "sk", "eogs"]);
+    pick_talents(["eote", "afs", "storm", "primal_elem", "sk", "eogs"]);
     return false;
 })
 
