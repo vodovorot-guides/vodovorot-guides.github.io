@@ -127,7 +127,7 @@ author: Amani
 * {{ site.data.spells.primal_elem }} – Primal Elementalist, Primal, PE, Примал, Усиленные элемы.  
 * {{ site.data.spells.if }} – Icefury, IF, ИФ, Айсфьюри.  
 * {{ site.data.spells.up }} – Unlimited Power, UP, «та отстойная пассивка из последнего тира».  
-* {{ site.data.spells.sk }} – Stormkeeper, SK, Keeper, СК, Штормкипер, Кипер.  
+* {{ site.data.spells.sk }} – Stormkeeper, SK, Keeper, СК, Штормкипер, Кипер, ХБ (не стоит).  
 * {{ site.data.spells.asc_ele }} – Ascendance, Asc, Асц, Мужик.  
 
 ## Легендарные предметы
