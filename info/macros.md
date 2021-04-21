@@ -1,7 +1,7 @@
 ---
 title: Полезные макросы для шамана
 layout: page
-last_update: 2021-04-08
+last_update: 2021-04-21
 wow: 9.0.5
 toc: true
 author: Amani
@@ -65,6 +65,14 @@ author: Amani
 ~~~
 #showtooltip
 /cast [@cursor] Тотем конденсации
+~~~
+
+* Каст способности <span style="color:#a330c9;font-size:1em;">**Ночного Народца**</span> [Волшебное переливание](https://ru.wowhead.com/spell=328923) без выбора зоны на земле и с защитой от повторного нажатия и отмены заклинания:
+
+~~~
+#showtooltip
+/stopmacro [channeling]
+/cast [@cursor] Волшебное переливание
 ~~~
 
 * Позволяет вынести {{ site.data.spells.rez }} на панель заклинаний чтобы следить за временем восстановления:  
