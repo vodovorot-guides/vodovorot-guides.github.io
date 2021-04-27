@@ -103,7 +103,7 @@ author: Amani
 /cast [@mouseover,harm,exists][] [talent:6/3] Ледяная ярость
 ~~~
 
-* Призывает [Элементаль огня](https://ru.wowhead.com/spell=198067) или [Элементаль бури](https://ru.wowhead.com/spell=198067), повторное нажатие активирует способность – {{ site.data.spells.meteor }} или {{ site.data.spells.eye_storm }}.
+* Призывает [Элементаль огня](https://ru.wowhead.com/spell=198067) или [Элементаль бури](https://ru.wowhead.com/spell=192249), повторное нажатие активирует способность – {{ site.data.spells.meteor }} или {{ site.data.spells.eye_storm }}.
 ~~~
 #showtooltip
 /cast [@target,harm,exists][@player] Элементаль огня
@@ -127,7 +127,6 @@ author: Amani
 ~~~
 
 * Применяет к себе {{ site.data.spells.ls }}, либо {{ site.data.spells.eshield }}, если он выбран в талантах.
-
 ~~~
 #showtooltip 
 /cast [talent:3/1] Щит молний
