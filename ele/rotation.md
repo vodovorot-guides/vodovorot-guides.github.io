@@ -107,7 +107,7 @@ custom-javascript-list:
 22. {:.if-apl .mote-apl}{{ site.data.spells.frs }} с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 23. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 24. {{ site.data.spells.lvb }} по кулдауну.
-   * {:.storm-apl .eogs-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) и [Жажде крови](https://ru.wowhead.com/spell=2825) не используйте {{ site.data.spells.lvb }} без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
+   * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) и [Жажде крови](https://ru.wowhead.com/spell=2825) не используйте {{ site.data.spells.lvb }} без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
 26. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
 27. {:.storm-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 28. {:.lmt-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
@@ -154,7 +154,7 @@ custom-javascript-list:
 20. {:.if-apl .mote-apl}{{ site.data.spells.frs }} с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 21. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 22. {{ site.data.spells.lvb }} по кулдауну.
-   * {:.storm-apl .eogs-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) и [Жажде крови](https://ru.wowhead.com/spell=2825) не используйте {{ site.data.spells.lvb }} без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
+   * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) и [Жажде крови](https://ru.wowhead.com/spell=2825) не используйте {{ site.data.spells.lvb }} без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
 24. {{ site.data.spells.fs }}, если на одной из целей до спадения осталось менее **5.4** секунд.
 25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 26. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
