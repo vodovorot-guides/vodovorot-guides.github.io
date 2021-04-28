@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-04-21
+last_update: 2021-04-28
 wow: 9.0.5
 toc: true
 author: "Amani, Ignis, Zab"
@@ -230,9 +230,13 @@ custom-javascript-list:
 2. {:.ee-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели.
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
   * {:.pw-apl}Используйте {{ site.data.spells.fs }} на дополнительные цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
-2. {:.storm-apl .pw-apl}Используйте {{ site.data.spells.fs }} на **2-3** цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
+2. {:.storm-apl .pw-apl .fire-apl}Используйте {{ site.data.spells.fs }} на **всех** целях. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
-1. {:.fire-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+2. {:.storm-apl .pw-apl .lava-apl}Используйте {{ site.data.spells.fs }} на **2-3** цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+2. {:.storm-apl .pw-apl .eogs-apl}Используйте {{ site.data.spells.fs }} на **2-3** цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+2. {:.storm-apl .pw-apl .ee-apl}Используйте {{ site.data.spells.fs }} на **2-3** цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
 2. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
@@ -285,9 +289,13 @@ custom-javascript-list:
 2. {:.ee-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели.
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
   * {:.pw-apl}Используйте {{ site.data.spells.fs }} на дополнительные цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
-2. {:.storm-apl .pw-apl}Используйте {{ site.data.spells.fs }} на **2-3** цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
+2. {:.storm-apl .pw-apl .fire-apl}Используйте {{ site.data.spells.fs }} на **всех** целях. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
-3. {:.fire-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+2. {:.storm-apl .pw-apl .lava-apl}Используйте {{ site.data.spells.fs }} на **2-3** цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+2. {:.storm-apl .pw-apl .eogs-apl}Используйте {{ site.data.spells.fs }} на **2-3** цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+2. {:.storm-apl .pw-apl .ee-apl}Используйте {{ site.data.spells.fs }} на **2-3** цели, если до конца времени восстановления [Первозданной волны](https://ru.wowhead.com/spell=326059) осталось **12** секунд или менее.
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
 2. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
