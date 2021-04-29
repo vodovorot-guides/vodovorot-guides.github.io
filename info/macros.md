@@ -68,7 +68,6 @@ author: Amani
 ~~~
 
 * Каст способности <span style="color:#a330c9;font-size:1em;">**Ночного Народца**</span> [Волшебное переливание](https://ru.wowhead.com/spell=328923) без выбора зоны на земле и с защитой от повторного нажатия и отмены заклинания:
-
 ~~~
 #showtooltip
 /stopmacro [channeling]
