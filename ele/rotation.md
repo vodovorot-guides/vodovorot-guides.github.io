@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-04-29
+last_update: 2021-04-28
 wow: 9.0.5
 toc: true
 author: "Amani, Ignis, Zab"
@@ -29,6 +29,38 @@ custom-javascript-list:
 # Открывающая ротация, «Opener»
 
 **Опенер** – это фиксированный порядок кастов в самом начале боя. 
+
+1. {:.pw-apl}{{ site.data.covenants.fleshcraft }} за **10** секунд до пула.
+1. {:.vt-apl}{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула.
+1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
+3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
+3. {:.lmt-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
+3. {:.storm-apl}{{ site.data.spells.storm }} за **3.5** секунды до пула.
+5. {:.eb-apl}{{ site.data.spells.eb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+7. {:.afs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+7. {:.afs-apl .pw-apl}{{ site.data.spells.fs }}.
+7. {:.ecs-apl .pw-apl}{{ site.data.spells.fs }}.
+5. {:.pw-apl}{{ site.data.covenants.pw }}.
+5. {:.ft-apl}{{ site.data.spells.fs }}. 
+5. {:.vt-apl}{{ site.data.spells.fs }}. 
+5. {:.ch-apl}{{ site.data.spells.fs }}. 
+5. {:.eb-apl}{{ site.data.spells.lvb }}.
+6. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+6. {:.eote-apl .ecs-apl}{{ site.data.spells.ecs }}.
+7. {:.eote-apl}{{ site.data.spells.lvb }}.
+23. {:.ft-apl}{{ site.data.covenants.ft }}.
+8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
+9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
+10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
+26. {:.lmt-apl}{{ site.data.spells.lmt }}.
+27. {:.ch-apl}{{ site.data.covenants.ch }}.
+28. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
+29. Продолжайте обычную ротацию.
+
 
 1. {:.pw-apl}{{ site.data.covenants.fleshcraft }} за **10** секунд до пула.
 1. {:.vt-apl}{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула.
@@ -212,9 +244,6 @@ custom-javascript-list:
 29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
 29. {{ site.data.spells.cl }}.
 31. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
-10. {:.lava-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} **не используется** в бою против **3** целей со взятым талантом [Элементаль бури](https://ru.wowhead.com/spell=192249).
-10. {:.eogs-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} **не используется** в бою против **3** целей со взятым талантом [Элементаль бури](https://ru.wowhead.com/spell=192249).
-10. {:.ee-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} **не используется** в бою против **3** целей со взятым талантом [Элементаль бури](https://ru.wowhead.com/spell=192249).
 32. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
 
 # Бой против **4** и более целей
@@ -258,9 +287,6 @@ custom-javascript-list:
 30. {:.ft-apl}{{ site.data.covenants.ft }} в бою против **4** и более целей **не используется**. Применяйте тогда, когда в живых остается **1-2** моба.
 31. {:.if-apl}{{ site.data.spells.if }} в бою против **4** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
 32. {:.eb-apl}{{ site.data.spells.eb }} в бою против **4** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
-10. {:.lava-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} **не используется** в бою против **4** и более целей со взятым талантом [Элементаль бури](https://ru.wowhead.com/spell=192249).
-10. {:.eogs-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} **не используется** в бою против **4** и более целей со взятым талантом [Элементаль бури](https://ru.wowhead.com/spell=192249).
-10. {:.ee-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} **не используется** в бою против **4** и более целей со взятым талантом [Элементаль бури](https://ru.wowhead.com/spell=192249).
 33. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}. 
 
 # Особенности талантов
