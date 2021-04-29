@@ -61,40 +61,6 @@ custom-javascript-list:
 28. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
 29. Продолжайте обычную ротацию.
 
-
-1. {:.pw-apl}{{ site.data.covenants.fleshcraft }} за **10** секунд до пула.
-1. {:.vt-apl}{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула.
-1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
-3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
-3. {:.lmt-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
-3. {:.storm-apl}{{ site.data.spells.storm }} за **3.5** секунды до пула.
-5. {:.eb-apl}{{ site.data.spells.eb }} прекастом за **2** секунды до пула.
-  * ***Пул босса.***
-6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
-  * ***Пул босса.***
-7. {:.afs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
-  * ***Пул босса.***
-7. {:.afs-apl .pw-apl}{{ site.data.spells.fs }}.
-7. {:.ecs-apl .pw-apl}{{ site.data.spells.fs }}.
-5. {:.pw-apl}{{ site.data.covenants.pw }}.
-5. {:.ft-apl}{{ site.data.spells.fs }}. 
-5. {:.vt-apl}{{ site.data.spells.fs }}. 
-5. {:.ch-apl}{{ site.data.spells.fs }}. 
-5. {:.eb-apl}{{ site.data.spells.lvb }}.
-6. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
-6. {:.eote-apl .ecs-apl}{{ site.data.spells.ecs }}.
-7. {:.eote-apl}{{ site.data.spells.lvb }}.
-8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
-9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
-10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
-23. {:.ft-apl .mote-apl}{{ site.data.covenants.ft }}, желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-24. {:.ft-apl .lmt-apl}{{ site.data.covenants.ft }}.
-23. {:.ft-apl .storm-apl}{{ site.data.covenants.ft }}.
-26. {:.lmt-apl}{{ site.data.spells.lmt }}.
-27. {:.ch-apl}{{ site.data.covenants.ch }}.
-28. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
-29. Продолжайте обычную ротацию.
-
 Вы можете призвать [Элементаля земли](https://ru.wowhead.com/spell=198103/) за **7** секунд до пула босса, но только если выполнены **все** следующие условия:
 * Вы **не** используете талант {{ site.data.spells.primal_elem }} (усиленные элементали заменяют друг друга).
 * В ближайшие **5** минут вам не потребуется дополнительное здоровье от проводника {{ site.data.conduits.vital }}.
@@ -103,7 +69,6 @@ custom-javascript-list:
 #showtooltip
 /cast [@player] Элементаль земли
 ~~~
-
 
 # Бой против одной цели
 
