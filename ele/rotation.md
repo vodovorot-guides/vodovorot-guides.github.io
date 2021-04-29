@@ -191,6 +191,7 @@ custom-javascript-list:
 7. {:.mote-apl}{{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {:.mote-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 8. {:.lmt-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+8. {:.fire-apl .storm-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
   * {:.storm-apl}Не используйте {{ site.data.spells.eb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 10. {:.mote-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
@@ -238,6 +239,7 @@ custom-javascript-list:
 7. {:.lmt-apl .pw-apl}{{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
 8. {:.mote-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 8. {:.lmt-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
+8. {:.fire-apl .storm-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 10. {:.mote-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
 10. {:.lmt-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
 10. {:.fire-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
