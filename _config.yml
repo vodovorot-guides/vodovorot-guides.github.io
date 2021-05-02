@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 description_long: >-
   Добро пожаловать на Stormkeeper.ru – специализированный ресурс для Шаманов в World of Warcraft!
 locale: ru_RU
+logo: /assets/img/logos/sk_full.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  vodovorot-guides
