@@ -5,6 +5,8 @@ last_update: 2021-04-28
 wow: 9.0.5
 toc: true
 author: "Amani, Ignis, Zab"
+description: Описание ротации Элем Шамана. Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант.
+image: /assets/img/logos/sk_full.png
 custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
