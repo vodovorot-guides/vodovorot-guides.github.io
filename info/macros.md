@@ -162,8 +162,7 @@ author: Amani
 /targetlastenemy
 ~~~
 
-* Применяет к себе {{ site.data.spells.ls }}, либо {{ site.data.spells.eshield }}, если он выбран в талантах.
-
+* Применяет к себе {{ site.data.spells.ls }}, либо {{ site.data.spells.eshield }}, если он выбран в талантах:  
 ~~~
 #showtooltip 
 /cast [talent:3/1] Щит молний
