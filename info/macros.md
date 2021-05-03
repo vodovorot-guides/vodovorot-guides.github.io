@@ -125,7 +125,7 @@ author: Amani
 /cast [talent:7/3] Перерождение
 ~~~
 
-* Применяет к себе {{ site.data.spells.ls }}, либо {{ site.data.spells.eshield }}, если он выбран в талантах.
+* Применяет к себе {{ site.data.spells.ls }}, либо {{ site.data.spells.eshield }}, если он выбран в талантах:  
 ~~~
 #showtooltip 
 /cast [talent:3/1] Щит молний
