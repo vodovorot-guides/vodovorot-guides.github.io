@@ -1,9 +1,6 @@
 ---
 title: Elemental Shaman Priority List
 layout: page
-last_update: 2021-05-04
-wow: 9.0.5
-toc: true
 author: "Amani, Ignis, Zab"
 description: Elemental Shaman rotation breakdown. Spell priorities on this page change dynamically depending on selected talents, legendary and covenant.
 image: /assets/img/logos/sk_full.png
@@ -157,8 +154,8 @@ Spell priority list that changes dynamically based on selected talents, legendar
 24. Cast [Lava Burst](https://www.wowhead.com/spell=51505).
    * {:.storm-apl}Don’t use [Lava Burst](https://www.wowhead.com/spell=51505) without [Lava Surge](https://www.wowhead.com/spell=77756) buff if both [Storm Elemental](https://www.wowhead.com/spell=192249) and [Bloodlust](https://www.wowhead.com/spell=2825) are active.
 24. Cast [Flame Shock](https://www.wowhead.com/spell=188389) if it expires on any target in less than **5.4** seconds.
-25. {:.storm-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882)at **60+** Maelstrom.
-26. {:.lmt-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882), at **60+** Maelstrom.
+25. {:.storm-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
+26. {:.lmt-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
 27. {:.if-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) with the [Icefury](https://www.wowhead.com/spell=210714) buff.
 28. {:.ch-apl}Cast [Chain Harvest](https://www.wowhead.com/spell=320674).
 33. {:.discharge-apl}Cast [Static Discharge](https://www.wowhead.com/spell=342243) (thanks for testing our site!).
@@ -196,10 +193,10 @@ Spell priority list that changes dynamically based on selected talents, legendar
 8. {:.mote-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 8. {:.lmt-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 8. {:.fire-apl .storm-apl .pw-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff and [Primordial Wave](https://www.wowhead.com/spell=326059) buff.
-8. {:.eb-aplCast }Cast [Elemental Blast](https://www.wowhead.com/spell=117014).
+8. {:.eb-apl}Cast [Elemental Blast](https://www.wowhead.com/spell=117014).
   * {:.storm-apl}Don't use [Elemental Blast](https://www.wowhead.com/spell=117014) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 10. {:.mote-apl .pw-apl}Cast [Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
-10. {:.lmt-apl .pw-aplCast }[Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
+10. {:.lmt-apl .pw-apl}Cast [Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
 10. {:.fire-apl .storm-apl .pw-apl}Cast [Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
   * {:.storm-apl}Don't use [Primordial Wave](https://www.wowhead.com/spell=326059) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 28. {:.mote-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with the [Master of the Elements](https://www.wowhead.com/spell=16166) buff.
@@ -208,7 +205,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 24. {:.mote-apl .lava-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) at **50+** Maelstrom.
 24. {:.mote-apl .ee-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) at **50+** Maelstrom.
 25. {:.lmt-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
-25. {:.storm-aplCast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
+25. {:.storm-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
 15. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) if all **3** targets aren't going to die any soon. Otherwise it is better to wait until there are only **1-2** targets left.
    * {:.mote-apl}Make sure you always empower your [Fae Transfusion](https://www.wowhead.com/spell=328923) with the [Master of the Elements](https://www.wowhead.com/spell=16166) buff.
 29. {:.asc_ele-apl}Cast [Lava Beam](https://www.wowhead.com/spell=114074) with active [Ascendance](https://www.wowhead.com/spell=114050).
