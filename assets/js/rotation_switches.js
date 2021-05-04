@@ -54,7 +54,7 @@ function change_listener(element) {
 
 listeners()
 
-$('.switch-link').on('click', function (e) {
+$('.switch-link').on('click touchend', function (e) {
     this.parentNode.click();
     e.stopPropagation();
     e.preventDefault();
