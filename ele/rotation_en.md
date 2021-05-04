@@ -32,7 +32,6 @@ Elemental Shaman rotation breakdown. Spell priorities on this page change dynami
 
 **Opener** is a fixed ordered list of abilities to use at the start of an encounter.
 
-1. {:.pw-apl}Cast [Fleshcraft](https://www.wowhead.com/spell=324631) **10** seconds before the pull.
 1. {:.vt-apl}Cast [Vesper Totem](https://www.wowhead.com/spell=324386) no later than **6.5** seconds before the pull.
 1. {:.sk-apl}Cast [Stormkeeper](https://www.wowhead.com/spell=191634) **5** seconds before the pull.
 3. {:.mote-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067) **3.5** seconds before the pull.
