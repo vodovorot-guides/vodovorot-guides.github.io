@@ -18,8 +18,8 @@ Elemental Shaman rotation breakdown. Spell priorities on this page change dynami
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="/ele/rotation.html" id="raid_build" button="button" class="btn btn-outline-primary guide-btn">Raiding</a>
-      <a href="/ele/rotation.html" id="mplus_build" button="button" class="btn btn-outline-primary guide-btn">Mythic+</a>
+      <a href="/ele/rotation.html" id="raid_build" button="button" class="btn btn-outline-primary guide-btn">Raiding Build</a>
+      <a href="/ele/rotation.html" id="mplus_build" button="button" class="btn btn-outline-primary guide-btn">Mythic+ Build</a>
     </div>
   </div>
 </div>
@@ -32,12 +32,12 @@ Elemental Shaman rotation breakdown. Spell priorities on this page change dynami
 
 **Opener** is a fixed ordered list of abilities to use at the start of the encounter.
 
-1. {:.pw-apl}Pre-cast [Fleshcraft](https://www.wowhead.com/spell=324631) **10** seconds before the pull.
-1. {:.vt-apl}Pre-cast [Vesper Totem](https://www.wowhead.com/spell=324386) no later than **6.5** seconds before the pull.
-1. {:.sk-apl}Pre-cast [Stormkeeper](https://www.wowhead.com/spell=191634) **5** seconds before the pull.
-3. {:.mote-apl}Pre-cast [Fire Elemental](https://www.wowhead.com/spell=198067) **3.5** seconds before the pull.
-3. {:.lmt-apl}Pre-cast [Fire Elemental](https://www.wowhead.com/spell=198067) **3.5** seconds before the pull.
-3. {:.storm-apl}Pre-cast [Storm Elemental](https://www.wowhead.com/spell=192249) **3.5** seconds before the pull.
+1. {:.pw-apl}[Fleshcraft](https://www.wowhead.com/spell=324631) **10** seconds before the pull.
+1. {:.vt-apl}[Vesper Totem](https://www.wowhead.com/spell=324386) no later than **6.5** seconds before the pull.
+1. {:.sk-apl}[Stormkeeper](https://www.wowhead.com/spell=191634) **5** seconds before the pull.
+3. {:.mote-apl}[Fire Elemental](https://www.wowhead.com/spell=198067) **3.5** seconds before the pull.
+3. {:.lmt-apl}[Fire Elemental](https://www.wowhead.com/spell=198067) **3.5** seconds before the pull.
+3. {:.storm-apl}[Storm Elemental](https://www.wowhead.com/spell=192249) **3.5** seconds before the pull.
 5. {:.eb-apl}Pre-cast [Elemental Blast](https://www.wowhead.com/spell=117014) **2** seconds before the pull.
   * ***Boss Pull.***
 6. {:.ecs-apl}Pre-cast [Lava Burst](https://www.wowhead.com/spell=51505) **2** seconds before the pull.
@@ -61,37 +61,37 @@ Elemental Shaman rotation breakdown. Spell priorities on this page change dynami
 26. {:.lmt-apl}[Liquid Magma Totem](https://www.wowhead.com/spell=192222).
 27. {:.ch-apl}[Chain Harvest](https://www.wowhead.com/spell=320674).
 28. {:.asc_ele-apl}[Ascendance](https://www.wowhead.com/spell=114050).
-29. Continue with normal rotation.
+29. Continue with regular rotation.
 
 You may use [Earth Elemental](https://www.wowhead.com/spell=198103) **7** seconds before the pull, but only if **all** of the following conditions are met::
 * You are **not using** [Primal Elementalist](https://www.wowhead.com/spell=117013) talent (you can only have one active empowered elemental at a time).
-* * You won’t need extra health from the [Vital Accretion](https://www.wowhead.com/spell=337981) conduit in the next **5** minutes.
+* You won’t need extra health from the [Vital Accretion](https://www.wowhead.com/spell=337981) conduit in the next **5** minutes.
 * You use the following macro that doesn’t let you pull the boss when summoning [Earth Elemental](https://www.wowhead.com/spell=198103):
 ~~~
 #showtooltip
 /cast [@player] Earth Elemental
 ~~~
 
-# Single Target
+# Single Target 
 
-Below is the spell priority list that changes dynamically depending on selected talents, legendary and covenant:
+Spell priority list that changes dynamically depending on selected talents, legendary and covenant:
 
 1. {:.sk-apl}[Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff if it expires in less than **3** seconds.
 3. {:.mote-apl}[Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
 4. {:.lmt-apl}[Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
-2. [Flame Shock](https://www.wowhead.com/spell=188389) if it’s not up on the target
+2. [Flame Shock](https://www.wowhead.com/spell=188389) if it’s not up on a target
   * {:.storm-apl}Don’t use [Flame Shock](https://www.wowhead.com/spell=188389) if you have **20** stacks of [Wind Gust](https://www.wowhead.com/spell=263806) while your [Storm Elemental](https://www.wowhead.com/spell=192249) is active. 
 5. {:.storm-apl}[Storm Elemental](https://www.wowhead.com/spell=192249).
-  * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) uses [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
+  * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) used [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
 6. {:.asc_ele-apl}[Ascendance](https://www.wowhead.com/spell=114050).
   * {:.asc_ele-apl}Use all your [Lava Burst](https://www.wowhead.com/spell=51505) charges before casting [Ascendance](https://www.wowhead.com/spell=114050), but only if it won’t affect the total amount of [Ascendance](https://www.wowhead.com/spell=114050) casts in the whole fight.
   * {:.storm-apl}Don't use [Ascendance](https://www.wowhead.com/spell=114050) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 7. {:.eogs-apl}[Earthquake](https://www.wowhead.com/spell=61882) if you have [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff and your next spell will bring you above **100** Maelstrom.
 8. {:.ecs-apl}[Echoing Shock](https://www.wowhead.com/spell=320125) followed by [Earth Shock](https://www.wowhead.com/spell=8042).
 9. [Earth Shock](https://www.wowhead.com/spell=8042) if your next spell will bring you above **100** Maelstrom.
-10. [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) proc.
+10. [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 11. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014).
 12. {:.sk-apl}[Stormkeeper](https://www.wowhead.com/spell=191634).
 13. {:.pw-apl}[Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
@@ -107,7 +107,7 @@ Below is the spell priority list that changes dynamically depending on selected 
 22. {:.if-apl .mote-apl}[Frost Shock](https://www.wowhead.com/spell=196840) with [Icefury](https://www.wowhead.com/spell=210714) and [Master of the Elements](https://www.wowhead.com/spell=16166) buffs.
 23. {:.sop-apl}[Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Surge of Power](https://www.wowhead.com/spell=262303) buff if consuming the buff with [Lava Burst](https://www.wowhead.com/spell=51505) will not grant you an extra use of [Fire Elemental](https://www.wowhead.com/spell=198067).
 24. [Lava Burst](https://www.wowhead.com/spell=51505).
-   * {:.storm-apl}Don’t use [Lava Burst](https://www.wowhead.com/spell=51505) without [Lava Surge](https://www.wowhead.com/spell=77756) proc if both [Storm Elemental](https://www.wowhead.com/spell=192249) and [Bloodlust](https://www.wowhead.com/spell=2825) are active.
+   * {:.storm-apl}Don’t use [Lava Burst](https://www.wowhead.com/spell=51505) without [Lava Surge](https://www.wowhead.com/spell=77756) buff if both [Storm Elemental](https://www.wowhead.com/spell=192249) and [Bloodlust](https://www.wowhead.com/spell=2825) are active.
 26. [Flame Shock](https://www.wowhead.com/spell=188389) if it expires on target in less than **5.4** seconds.
 27. {:.storm-apl .eogs-apl}[Earthquake](https://www.wowhead.com/spell=61882) with the [Echoes of Great Sundering](https://www.wowhead.com/spell=336215).
 28. {:.lmt-apl .eogs-apl}[Earthquake](https://www.wowhead.com/spell=61882) with the [Echoes of Great Sundering](https://www.wowhead.com/spell=336215).
@@ -130,14 +130,14 @@ Below is the spell priority list that changes dynamically depending on selected 
  1. Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
   * {:.storm-apl}Don’t use [Flame Shock](https://www.wowhead.com/spell=188389) if you have **20** stacks of [Wind Gust](https://www.wowhead.com/spell=263806) while your [Storm Elemental](https://www.wowhead.com/spell=192249) is active. 
 5. {:.storm-apl}[Storm Elemental](https://www.wowhead.com/spell=192249).
-  * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) uses [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
+  * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) used [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
 6. {:.asc_ele-apl}[Ascendance](https://www.wowhead.com/spell=114050).
   * {:.asc_ele-apl}Use all your [Lava Burst](https://www.wowhead.com/spell=51505) charges before casting [Ascendance](https://www.wowhead.com/spell=114050), but only if it won’t affect the total amount of [Ascendance](https://www.wowhead.com/spell=114050) casts in the whole fight.
   * {:.storm-apl}Don't use [Ascendance](https://www.wowhead.com/spell=114050) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 6. {:.eogs-apl}[Earth Shock](https://www.wowhead.com/spell=8042) if you don't have [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff.
 8. {:.ecs-apl}[Echoing Shock](https://www.wowhead.com/spell=320125) followed by [Earthquake](https://www.wowhead.com/spell=61882).
 7. [Earthquake](https://www.wowhead.com/spell=61882) if your next spell will bring you above **100** Maelstrom.
-10. [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) proc.
+10. [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 8. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014).
 9. {:.sk-apl}[Stormkeeper](https://www.wowhead.com/spell=191634).
 13. {:.pw-apl}[Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
@@ -155,7 +155,7 @@ Below is the spell priority list that changes dynamically depending on selected 
 20. {:.if-apl .mote-apl}[Frost Shock](https://www.wowhead.com/spell=196840) with [Icefury](https://www.wowhead.com/spell=210714) and [Master of the Elements](https://www.wowhead.com/spell=16166) buffs.
 23. {:.sop-apl}[Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Surge of Power](https://www.wowhead.com/spell=262303) buff if consuming the buff with [Lava Burst](https://www.wowhead.com/spell=51505) will not grant you an extra use of [Fire Elemental](https://www.wowhead.com/spell=198067).
 24. [Lava Burst](https://www.wowhead.com/spell=51505).
-   * {:.storm-apl}Don’t use [Lava Burst](https://www.wowhead.com/spell=51505) without [Lava Surge](https://www.wowhead.com/spell=77756) proc if both [Storm Elemental](https://www.wowhead.com/spell=192249) and [Bloodlust](https://www.wowhead.com/spell=2825) are active.
+   * {:.storm-apl}Don’t use [Lava Burst](https://www.wowhead.com/spell=51505) without [Lava Surge](https://www.wowhead.com/spell=77756) buff if both [Storm Elemental](https://www.wowhead.com/spell=192249) and [Bloodlust](https://www.wowhead.com/spell=2825) are active.
 24. [Flame Shock](https://www.wowhead.com/spell=188389) if it expires on any target in less than **5.4** seconds.
 25. {:.storm-apl}[Earthquake](https://www.wowhead.com/spell=61882)at **60+** Maelstrom.
 26. {:.lmt-apl}[Earthquake](https://www.wowhead.com/spell=61882), at **60+** Maelstrom.
@@ -187,15 +187,15 @@ Below is the spell priority list that changes dynamically depending on selected 
 3. {:.lmt-apl}[Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
 4. {:.storm-apl}[Storm Elemental](https://www.wowhead.com/spell=192249).
-  * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) uses [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
+  * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) used [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
 5. {:.asc_ele-apl}[Ascendance](https://www.wowhead.com/spell=114050).
   * {:.storm-apl}Don't use [Ascendance](https://www.wowhead.com/spell=114050) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 6. {:.eogs-apl}[Earth Shock](https://www.wowhead.com/spell=8042) if you don't have [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff.
 6. {:.ecs-apl}[Echoing Shock](https://www.wowhead.com/spell=320125) followed by [Earthquake](https://www.wowhead.com/spell=61882).
 7. {:.mote-apl}[Earthquake](https://www.wowhead.com/spell=61882) if your next spell will bring you above **100** Maelstrom.
-8. {:.mote-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) proc.
-8. {:.lmt-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) proc.
-8. {:.fire-apl .storm-apl .pw-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) proc and [Primordial Wave](https://www.wowhead.com/spell=326059) buff.
+8. {:.mote-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
+8. {:.lmt-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
+8. {:.fire-apl .storm-apl .pw-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff and [Primordial Wave](https://www.wowhead.com/spell=326059) buff.
 8. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014).
   * {:.storm-apl}Don't use [Elemental Blast](https://www.wowhead.com/spell=117014) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 10. {:.mote-apl .pw-apl}[Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
@@ -213,7 +213,7 @@ Below is the spell priority list that changes dynamically depending on selected 
    * {:.mote-apl}Make sure you always empower your [Fae Transfusion](https://www.wowhead.com/spell=328923) with the [Master of the Elements](https://www.wowhead.com/spell=16166) buff.
 29. {:.asc_ele-apl}[Lava Beam](https://www.wowhead.com/spell=114074) with active [Ascendance](https://www.wowhead.com/spell=114050).
 29. [Chain Lightning](https://www.wowhead.com/spell=188443).
-31. {:.if-apl}[Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **3** targets. Picking [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
+31. {:.if-apl}[Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **3** targets. Using [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
 32. {:.discharge-apl}Looks like you accidentally selected [Static Discharge](https://www.wowhead.com/spell=342243) talent. It is highly recommended to reconsider your choice.
 
 # Fight Against **4** Or More Targets
@@ -234,7 +234,7 @@ Below is the spell priority list that changes dynamically depending on selected 
 3. {:.lmt-apl}[Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
 4. {:.storm-apl}[Storm Elemental](https://www.wowhead.com/spell=192249).
-  * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) uses [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
+  * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) used [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
 5. {:.asc_ele-apl}[Ascendance](https://www.wowhead.com/spell=114050).
   * {:.storm-apl}Don't use [Ascendance](https://www.wowhead.com/spell=114050) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 6. {:.eogs-apl}[Earth Shock](https://www.wowhead.com/spell=8042) if you don't have [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff.
@@ -243,21 +243,21 @@ Below is the spell priority list that changes dynamically depending on selected 
 7. {:.lmt-apl .pw-apl}[Earthquake](https://www.wowhead.com/spell=61882) if your next spell will bring you above **100** Maelstrom.
 8. {:.mote-apl .pw-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) with [Primordial Wave](https://www.wowhead.com/spell=326059) buff.
 8. {:.lmt-apl .pw-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) with [Primordial Wave](https://www.wowhead.com/spell=326059) buff.
-8. {:.fire-apl .storm-apl .pw-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) proc and [Primordial Wave](https://www.wowhead.com/spell=326059) buff.
+8. {:.fire-apl .storm-apl .pw-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff and [Primordial Wave](https://www.wowhead.com/spell=326059) buff.
 10. {:.mote-apl .pw-apl}[Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
 10. {:.lmt-apl .pw-apl}[Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
 10. {:.fire-apl .storm-apl .pw-apl}[Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
   * {:.storm-apl}Don't use [Primordial Wave](https://www.wowhead.com/spell=326059) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 28. {:.mote-apl}[Earthquake](https://www.wowhead.com/spell=61882) with the [Master of the Elements](https://www.wowhead.com/spell=16166) buff.
-24. {:.mote-apl .eogs-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) proc  at **50+** Maelstrom and with [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff.
-24. {:.mote-apl .fire-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) proc, if you have **50+** Maelstrom and there are only **4** or less targets.
-24. {:.mote-apl .lava-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) proc, if you have **50+** Maelstrom and there are only **4** or less targets.
-24. {:.mote-apl .ee-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) proc, if you have **50+** Maelstrom and there are only **4** or less targets.
+24. {:.mote-apl .eogs-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff  at **50+** Maelstrom and with [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff.
+24. {:.mote-apl .fire-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff, if you have **50+** Maelstrom and there are only **4** or less targets.
+24. {:.mote-apl .lava-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff, if you have **50+** Maelstrom and there are only **4** or less targets.
+24. {:.mote-apl .ee-apl}[Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff, if you have **50+** Maelstrom and there are only **4** or less targets.
 25. {:.lmt-apl}[Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
 25. {:.storm-apl}[Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
 29. {:.asc_ele-apl}[Lava Beam](https://www.wowhead.com/spell=114074) with active [Ascendance](https://www.wowhead.com/spell=114050).
 29. [Chain Lightning](https://www.wowhead.com/spell=188443).
 30. {:.ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) shouldn’t be used against **4+** targets. Cast it when there are only **1-2** targets.
-31. {:.if-apl}[Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **4+** targets. Picking [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
-32. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014) shouldn’t be used against **4+** targets. Picking [Aftershock](https://www.wowhead.com/spell=273221) is recommended instead.
+31. {:.if-apl}[Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **4+** targets. Using [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
+32. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014) shouldn’t be used against **4+** targets. Using [Aftershock](https://www.wowhead.com/spell=273221) is recommended instead.
 32. {:.discharge-apl}Looks like you accidentally selected [Static Discharge](https://www.wowhead.com/spell=342243) talent. It is highly recommended to reconsider your choice.
