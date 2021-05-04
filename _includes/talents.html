@@ -1,4 +1,11 @@
 {% assign active_array = include.active | split: '' %}
+
+{% if include.lang %}
+  {% assign lang = include.lang %}
+{% else %}
+  {% assign lang = "ru" %}
+{% endif %}
+
 {% if include.row %}
   {% assign includerow = include.row | minus: 1 %}
 {% endif %}
@@ -13,7 +20,7 @@
 {% endif %}
 
   <tr{% if include.switch == true %} class="rotation_switches"{% endif %}>
-    <th scope="row">{{ row.row }}</th>
+    <th scope="row">{{ row.row }}{{ lang }}</th>
   {% assign rowInd = forloop.index0 %}
   {% for talent in row.talents %}
     {% if include.row %}
@@ -31,7 +38,7 @@
       <label for="{{ talent.tag }}-radio">
       {% endif -%}
 
-      <a href="https://ru.wowhead.com/spell={{ talent.id }}" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true"
+      <a href="https://{{ lang }}.wowhead.com/spell={{ talent.id }}" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true"
          {% if include.switch == true %} class="switch-link"{% endif %}></a>
 
       {%- if include.switch == true %}
@@ -52,7 +59,7 @@
       <input type="radio" name="covenants" id="vt-radio" style="display:none;"
       {% if include.data.covenant == "kyrian" %} checked{% endif %}>
       <label for="vt-radio">
-        <a href="https://ru.wowhead.com/spell=324386" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
+        <a href="https://{{ lang }}.wowhead.com/spell=324386" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
       </label>
     </td>
 
@@ -60,7 +67,7 @@
       <input type="radio" name="covenants" id="ch-radio" style="display:none;"
       {% if include.data.covenant == "venthyr" %} checked{% endif %}>
       <label for="ch-radio">
-        <a href="https://ru.wowhead.com/spell=320674" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
+        <a href="https://{{ lang }}.wowhead.com/spell=320674" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
       </label>
     </td>
 
@@ -68,7 +75,7 @@
       <input type="radio" name="covenants" id="ft-radio" style="display:none;"
       {% if include.data.covenant == "fae" %} checked{% endif %}>
       <label for="ft-radio">
-        <a href="https://ru.wowhead.com/spell=328923" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
+        <a href="https://{{ lang }}.wowhead.com/spell=328923" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
       </label>
     </td>
 
@@ -76,7 +83,7 @@
       <input type="radio" name="covenants" id="pw-radio" style="display:none;"
       {% if include.data.covenant == "necrolords" %} checked{% endif %}>
       <label for="pw-radio">
-        <a href="https://ru.wowhead.com/spell=326059" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
+        <a href="https://{{ lang }}.wowhead.com/spell=326059" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
       </label>
     </td>
   </tr>
@@ -92,7 +99,7 @@
       <input type="radio" name="legendaries" id="{{ legendary.tag }}-radio" style="display:none;"
       {% if legendary.default %} checked{% endif %}>
       <label for="{{ legendary.tag }}-radio">
-        <a href="https://ru.wowhead.com/spell={{ legendary.id }}" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
+        <a href="https://{{ lang }}.wowhead.com/spell={{ legendary.id }}" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
       </label>
     </td>
 {% endfor %}
