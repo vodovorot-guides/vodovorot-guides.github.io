@@ -9,23 +9,33 @@ layout: default
       <p class="post-meta">
         {%- if page.last_update -%}
           <time class="dt-updated" datetime="{{ page.last_update | date_to_xmlschema }}" itemprop="dateUpdated">
-            {%- assign months = "января|февраля|марта|апреля|мая|июня|июля|августа|сентября|октября|ноября|декабря" | split: "|" -%}
+            {%- if page.locale == "en_US" -%}
+               {%- assign months = "January|February|March|April|May|June|July|August|September|October|November|December" | split: "|" -%}
+            {%- else -%}
+               {%- assign months = "января|февраля|марта|апреля|мая|июня|июля|августа|сентября|октября|ноября|декабря" | split: "|" -%}
+            {%- endif -%}
+
             {%- assign m = page.last_update | date: "%-m" | minus: 1 -%}
             {%- assign day = page.last_update | date: "%-d" -%}
             {%- assign month = months[m] -%}
             {%- assign year = page.last_update | date: "%Y" -%}
-            Последнее обновление: {{ day }} {{ month }}, {{ year }}
+            {%- if page.locale == "en_US" -%}
+              Last updated: {{ month }} {{ day }}, {{ year }}
+            {%- else -%}
+              Последнее обновление: {{ day }} {{ month }}, {{ year }}
+            {%- endif -%}
           </time>
         {%- endif -%}
         {%- if page.last_update and page.wow -%}
           <span name="devider" class="devider">•&nbsp;</span>
         {%- endif -%}
         {%- if page.wow -%}
-          для <span itemprop="game_version">{{ page.wow }}</span>
+         {% if page.locale == "en_US" %}for{% else %}для{% endif %}
+          <span itemprop="game_version">{{ page.wow }}</span>
         {%- endif -%}
         {%- if page.author -%}
           {%- if page.last_update or page.wow -%}<br/>{%- endif -%}
-         Автор: {{ page.author }} 
+         {% if page.locale == "en_US" %}Author{% else %}Автор{% endif %}: {{ page.author }} 
         {%- endif -%}
       </p>
     {%- endif -%}
@@ -35,7 +45,7 @@ layout: default
   <!-- {%- include side_menu.html -%} -->
   <div class="post-content">
     {%- if page.toc == true -%}
-      <h3>Содержание</h3>
+      <h3>{% if page.locale == "en_US" %}Table of contents{% else %}Содержание{% endif %}</h3>
       {%- include toc.html html=content class="toc" h_max=3 -%}
       <hr>
       <br>
