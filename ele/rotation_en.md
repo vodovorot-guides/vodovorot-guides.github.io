@@ -13,7 +13,7 @@ custom-javascript-list:
 ---
 # Talent Builds
 
-Elemental Shaman rotation breakdown. Spell priorities on this page change dynamically depending on selected talents, legendary and covenant. Original Russian page is [here](https://stormkeeper.ru/ele/rotation.html).
+Elemental Shaman rotation breakdown. Spell priorities on this page   change dynamically depending on selected talents, legendary and covenant. Original Russian page is [here](https://stormkeeper.ru/ele/rotation.html).
 
 <div class="container">
   <div class="row">
@@ -208,7 +208,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 24. {:.mote-apl .ee-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) at **50+** Maelstrom.
 25. {:.lmt-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
 25. {:.storm-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
-15. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) if all **3** targets aren't going to die any soon. Otherwise it is better to wait until there are only **1-2** targets left.
+15. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) if all **3** targets aren't going to die anytime soon. Otherwise it is better to wait until there are only **1-2** targets left.
    * {:.mote-apl}Make sure you always empower your [Fae Transfusion](https://www.wowhead.com/spell=328923) with the [Master of the Elements](https://www.wowhead.com/spell=16166) buff.
 29. {:.asc_ele-apl}Cast [Lava Beam](https://www.wowhead.com/spell=114074) with active [Ascendance](https://www.wowhead.com/spell=114050).
 29. Cast [Chain Lightning](https://www.wowhead.com/spell=188443).
