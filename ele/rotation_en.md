@@ -8,7 +8,7 @@ custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
 
-* **Authors:** Amani, Ignis, Zab.
+* **Authors:** [Amani](https://www.twitch.tv/amanizandalari), Ignis, Zab.
 * **Version:** 9.0.5.
 * **Last update:** 04.05.2021
 
