@@ -136,7 +136,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
   * {:.storm-apl}Don't use [Ascendance](https://www.wowhead.com/spell=114050) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 6. {:.eogs-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) if you don't have [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff.
 8. {:.ecs-apl}Cast [Echoing Shock](https://www.wowhead.com/spell=320125) followed by [Earthquake](https://www.wowhead.com/spell=61882).
-7. [Earthquake](https://www.wowhead.com/spell=61882) if your next spell will bring you above **100** Maelstrom.
+7. Cast [Earthquake](https://www.wowhead.com/spell=61882) if your next spell will bring you above **100** Maelstrom.
 10. Cast [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 8. {:.eb-apl}Cast [Elemental Blast](https://www.wowhead.com/spell=117014).
 9. {:.sk-apl}Cast [Stormkeeper](https://www.wowhead.com/spell=191634).
@@ -196,7 +196,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 8. {:.mote-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 8. {:.lmt-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 8. {:.fire-apl .storm-apl .pw-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff and [Primordial Wave](https://www.wowhead.com/spell=326059) buff.
-8. {:.eb-aplCast }[Elemental Blast](https://www.wowhead.com/spell=117014).
+8. {:.eb-aplCast }Cast [Elemental Blast](https://www.wowhead.com/spell=117014).
   * {:.storm-apl}Don't use [Elemental Blast](https://www.wowhead.com/spell=117014) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 10. {:.mote-apl .pw-apl}Cast [Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
 10. {:.lmt-apl .pw-aplCast }[Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
@@ -212,7 +212,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 15. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) if all **3** targets aren't going to die any soon. Otherwise it is better to wait until there are only **1-2** targets left.
    * {:.mote-apl}Make sure you always empower your [Fae Transfusion](https://www.wowhead.com/spell=328923) with the [Master of the Elements](https://www.wowhead.com/spell=16166) buff.
 29. {:.asc_ele-apl}Cast [Lava Beam](https://www.wowhead.com/spell=114074) with active [Ascendance](https://www.wowhead.com/spell=114050).
-29. [Chain Lightning](https://www.wowhead.com/spell=188443).
+29. Cast [Chain Lightning](https://www.wowhead.com/spell=188443).
 31. {:.if-apl}Cast [Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **3** targets. Using [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
 32. {:.discharge-apl}Looks like you accidentally selected [Static Discharge](https://www.wowhead.com/spell=342243) talent. It is highly recommended to reconsider your choice.
 
@@ -256,7 +256,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 25. {:.lmt-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
 25. {:.storm-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
 29. {:.asc_ele-apl}Cast [Lava Beam](https://www.wowhead.com/spell=114074) with active [Ascendance](https://www.wowhead.com/spell=114050).
-29. [Chain Lightning](https://www.wowhead.com/spell=188443).
+29. Cast [Chain Lightning](https://www.wowhead.com/spell=188443).
 30. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) shouldn’t be used against **4+** targets. Cast it when there are only **1-2** targets.
 31. {:.if-apl}Cast [Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **4+** targets. Using [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
 32. {:.eb-apl}Cast [Elemental Blast](https://www.wowhead.com/spell=117014) shouldn’t be used against **4+** targets. Using [Aftershock](https://www.wowhead.com/spell=273221) is recommended instead.
