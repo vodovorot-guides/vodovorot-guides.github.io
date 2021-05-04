@@ -26,7 +26,7 @@ Elemental Shaman rotation breakdown. Spell priorities on this page change dynami
 
 <p></p>
 
-{% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
+{% include talents.html data=site.data.talents.ele active="2301032" switch=true lang="en" %}
 
 # Opener
 
