@@ -127,7 +127,7 @@ Spell priority list that changes dynamically depending on selected talents, lege
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
 4. {:.lmt-apl}[Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
- 1. Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
+ 1. Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
   * {:.storm-apl}Don’t use [Flame Shock](https://www.wowhead.com/spell=188389) if you have **20** stacks of [Wind Gust](https://www.wowhead.com/spell=263806) while your [Storm Elemental](https://www.wowhead.com/spell=192249) is active. 
 5. {:.storm-apl}[Storm Elemental](https://www.wowhead.com/spell=192249).
   * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) used [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
@@ -169,15 +169,15 @@ Spell priority list that changes dynamically depending on selected talents, lege
 # Fight Against **3** Targets
 
 1. {:.sk-apl}[Chain Lightning](https://www.wowhead.com/spell=188443) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff if it expires in less than **3** seconds.
-1. {:.eogs-apl .lmt-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
-1. {:.lava-apl .lmt-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
-1. {:.ee-apl .lmt-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
-1. {:.fire-apl .lmt-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets. 
-1. {:.eogs-apl .mote-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
-1. {:.lava-apl .mote-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
-1. {:.ee-apl .mote-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
-1. {:.fire-apl .mote-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets.
-1. {:.fire-apl .storm-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets.
+1. {:.eogs-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
+1. {:.lava-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
+1. {:.ee-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
+1. {:.fire-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets. 
+1. {:.eogs-apl .mote-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
+1. {:.lava-apl .mote-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
+1. {:.ee-apl .mote-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **two** targets.
+1. {:.fire-apl .mote-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets.
+1. {:.fire-apl .storm-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets.
   * {:.storm-apl}Don't use [Flame Shock](https://www.wowhead.com/spell=188389) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 9. {:.sk-apl}[Stormkeeper](https://www.wowhead.com/spell=191634).
 2. {:.ch-apl}[Chain Harvest](https://www.wowhead.com/spell=320674).
@@ -219,12 +219,12 @@ Spell priority list that changes dynamically depending on selected talents, lege
 # Fight Against **4** Or More Targets
 
 1. {:.sk-apl}[Chain Lightning](https://www.wowhead.com/spell=188443) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff if it expires in less than **3** seconds.
-1. {:.fire-apl .lmt-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets. 
-1. {:.eogs-apl .mote-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **one** target. 
-1. {:.lava-apl .mote-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **one** target. 
-1. {:.ee-apl .mote-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **one** target. 
-1. {:.fire-apl .mote-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets. 
-1. {:.fire-apl .storm-apl}Keep [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets. 
+1. {:.fire-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets. 
+1. {:.eogs-apl .mote-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **one** target. 
+1. {:.lava-apl .mote-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **one** target. 
+1. {:.ee-apl .mote-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **one** target. 
+1. {:.fire-apl .mote-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets. 
+1. {:.fire-apl .storm-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) up on **all** targets. 
   * {:.storm-apl}Don't use [Flame Shock](https://www.wowhead.com/spell=188389) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 9. {:.sk-apl}[Stormkeeper](https://www.wowhead.com/spell=191634).
 2. {:.ch-apl}[Chain Harvest](https://www.wowhead.com/spell=320674).
