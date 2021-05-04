@@ -1,5 +1,5 @@
 ---
-title: Elemental Shaman Rotation
+title: Elemental Shaman Priority List
 layout: page
 last_update: 2021-05-04
 wow: 9.0.5
