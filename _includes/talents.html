@@ -20,7 +20,7 @@
 {% endif %}
 
   <tr{% if include.switch == true %} class="rotation_switches"{% endif %}>
-    <th scope="row">{{ row.row }}{{ lang }}</th>
+    <th scope="row">{{ row.row }}</th>
   {% assign rowInd = forloop.index0 %}
   {% for talent in row.talents %}
     {% if include.row %}
