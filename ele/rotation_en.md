@@ -8,6 +8,10 @@ custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
 
+* **Authors:** Amani, Ignis, Zab.
+* **Version:** 9.0.5.
+* **Last update:** 04.05.2021
+
 # Talent Builds
 
 Elemental Shaman rotation breakdown. Spell priorities on this page change dynamically depending on selected talents, legendary and covenant. Original Russian page [here](https://stormkeeper.ru/ele/rotation.html).
