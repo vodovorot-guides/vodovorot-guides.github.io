@@ -212,7 +212,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
    * {:.mote-apl}Make sure you always empower your [Fae Transfusion](https://www.wowhead.com/spell=328923) with the [Master of the Elements](https://www.wowhead.com/spell=16166) buff.
 29. {:.asc_ele-apl}Cast [Lava Beam](https://www.wowhead.com/spell=114074) with active [Ascendance](https://www.wowhead.com/spell=114050).
 29. Cast [Chain Lightning](https://www.wowhead.com/spell=188443).
-31. {:.if-apl}Cast [Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **3** targets. Using [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
+31. {:.if-apl}[Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **3** targets. Using [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
 32. {:.discharge-apl}Looks like you accidentally selected [Static Discharge](https://www.wowhead.com/spell=342243) talent. It is highly recommended to reconsider your choice.
 
 # Fight Against **4** Or More Targets
@@ -256,7 +256,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 25. {:.storm-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
 29. {:.asc_ele-apl}Cast [Lava Beam](https://www.wowhead.com/spell=114074) with active [Ascendance](https://www.wowhead.com/spell=114050).
 29. Cast [Chain Lightning](https://www.wowhead.com/spell=188443).
-30. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) shouldn’t be used against **4+** targets. Cast it when there are only **1-2** targets.
-31. {:.if-apl}Cast [Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **4+** targets. Using [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
-32. {:.eb-apl}Cast [Elemental Blast](https://www.wowhead.com/spell=117014) shouldn’t be used against **4+** targets. Using [Aftershock](https://www.wowhead.com/spell=273221) is recommended instead.
+30. {:.ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) shouldn’t be used against **4+** targets. Cast it when there are only **1-2** targets.
+31. {:.if-apl}[Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **4+** targets. Using [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
+32. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014) shouldn’t be used against **4+** targets. Using [Aftershock](https://www.wowhead.com/spell=273221) is recommended instead.
 32. {:.discharge-apl}Looks like you accidentally selected [Static Discharge](https://www.wowhead.com/spell=342243) talent. It is highly recommended to reconsider your choice.
