@@ -39,6 +39,17 @@ $content-width:    850px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: $spacer / 4,
+  2: $spacer / 2,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+  6: $spacer * 4.5,
+
+);
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {

@@ -537,3 +537,18 @@ td.covenants span:not([class]) {
         margin: 0px;
     }
 }
+
+.fcol-l {
+    padding-right: 2.2rem!important;
+}
+
+.fcol-r {
+    padding-left: 2.2rem!important;
+    margin-left: auto;
+}
+
+@media (max-width: 600px) {
+    .fcol-l {
+        padding-right: 1.0rem!important;
+    }
+}
