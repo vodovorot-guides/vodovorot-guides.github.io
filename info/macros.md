@@ -107,8 +107,8 @@ author: Amani
 #showtooltip
 /cast [@target,harm,exists][@player] Элементаль огня
 /cast [@target,harm,exists][@player] Элементаль бури
-/cast [@mouseover,harm,exists] [talent:6/2] Метеорит
-/cast [@mouseover,harm,exists] [talent:6/2] Око шторма
+/cast [@mouseover,exists][] [talent:6/2] [pet] Метеорит
+/cast [@mouseover,harm,exists][] [talent:6/2] [pet] Око шторма
 ~~~
 
 * В зависимости от выбранного таланта использует {{ site.data.spells.ecs }} или {{ site.data.spells.eb }}:  
