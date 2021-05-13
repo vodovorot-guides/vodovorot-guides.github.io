@@ -1,7 +1,7 @@
 ---
 title: Ковенанты и медиумы – Шаман Стихии
 layout: page
-last_update: 2021-03-08
+last_update: 2021-05-13
 wow: 9.0.5
 toc: true
 author: Amani
@@ -259,13 +259,17 @@ author: Amani
 
 ## <span style="color:#68ccef;font-size:1em;">Медиумы</span>
 
-**<span style="color:#68ccef;font-size:1em;">Клейя</span>** – **лучший** (ха-ха) **выбор для рейда и Мифик+**. Дает доступ к **одному** проводнику силы и пассивной способности – [Демонстративная отвага](https://ru.wowhead.com/spell=329778/). Проводники <span style="color:#68ccef;font-size:1em;">Кирий</span> – самые слабые из всех ковенантов, Клейя является просто наименее слабой из всех.
-
-* [Демонстративная отвага](https://ru.wowhead.com/spell=329778/) – увеличивает шанс Критического удара на **1%** за каждого находящегося рядом союзника, вплоть до **5%**.
+**<span style="color:#68ccef;font-size:1em;">Клейя</span>** – выбор для рейда.
 
 **Пример прокачки Клейи:**
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/ApZqAQUocQQRBSl_BCIVKD0EJSg2BA"></a>
+
+**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – выбор для Мифик+.
+
+**Пример прокачки Миканикоса:**
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/ApZqAQUocQYRBSl_BiIVKD0GJSg2Bg"></a>
 
 **<span style="color:#68ccef;font-size:1em;">Пелагий</span>**
 
@@ -273,11 +277,7 @@ author: Amani
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbuARUocQYSBSl_BhVF-gQhFSg9Bg"></a>
 
-**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>**
 
-**Пример прокачки Миканикоса:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/ApZlAQUocQQSBSl_BBVF-gQhFSg9BA"></a>
 
 <p></p>
 
