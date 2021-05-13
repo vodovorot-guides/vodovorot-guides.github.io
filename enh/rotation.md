@@ -37,7 +37,7 @@ custom-javascript-list:
 3. {{ site.data.spells.fs }} если отсутствует на цели.
 4. {{ site.data.spells.feral }} для генерации стаков {{ site.data.spells.mw }}
 5. {:.lf-apl}{{ site.data.spells.ll }} при отсутствии дебаффа {{ site.data.spells.lf }}
-6. {:.doom-apl}{{ site.data.spells.wt }} если возможно получить бафф от легенедарки {{ site.data.legend.doom }}
+6. {:.doom-apl}{{ site.data.spells.wt }} если возможно получить бафф от легендарки {{ site.data.legend.doom }}
 7. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}
 8. {:.asc_enh-apl}{{ site.data.spells.windstrike }}
 9. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }} 
@@ -67,7 +67,7 @@ custom-javascript-list:
 
 * **Используйте прок {{ site.data.spells.sb }} так быстро, насколько это возможно.** Наша задача не дать прокам и кулдауну {{ site.data.spells.ss }} пропасть зря, поэтому реагировать на {{ site.data.spells.sb }} крайне важно.
 
-* Имейте в виду, что приортет способностей это не строгие правила, а скорее общие рекомендации. Наша ротация зависит от многих факторов, типа количества стаков {{ site.data.spells.mw }}, наличия прока {{ site.data.spells.sb }} или других кулдаунов, так что это необходимо учитывать.
+* Имейте в виду, что приоритет способностей это не строгие правила, а скорее общие рекомендации. Наша ротация зависит от многих факторов, типа количества стаков {{ site.data.spells.mw }}, наличия прока {{ site.data.spells.sb }} или других кулдаунов, так что это необходимо учитывать.
 
 **Важные замечания:**
 
