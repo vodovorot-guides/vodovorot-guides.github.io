@@ -1,7 +1,7 @@
 ---
 title: Сокращения и аббревиатуры
 layout: page
-last_update: 2021-03-25
+last_update: 2021-05-15
 wow: 9.0.5
 toc: true
 author: Amani
@@ -220,7 +220,7 @@ author: Amani
 * {{ site.data.spells.cbt }} – Cloudburst Totem, CBT, КБТ, Клаудбурст.  
 * {{ site.data.spells.high_tide }} – High Tide, HT, ХТ, Хай тайд.  
 * {{ site.data.spells.wellspring }} – Wellspring, WP, Веллспринг.  
-* {{ site.data.spells.asc_resto }} – Ascendance, Asc, Асц, Мужик.  
+* {{ site.data.spells.asc_resto }} – Ascendance, Asc, Асц, Мужик, Пепега.  
 
 ## Легендарные предметы
 
