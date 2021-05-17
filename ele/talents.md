@@ -1,7 +1,7 @@
 ---
 title: Таланты Шамана Стихии
 layout: page
-last_update: 2021-03-18
+last_update: 2021-05-17
 wow: 9.0.5
 toc: true
 author: Amani
@@ -17,11 +17,13 @@ author: Amani
 
 # Таланты для Мифик+
 
-{% include talents.html data=site.data.talents.ele active="2111322" %}
+{% include talents.html data=site.data.talents.ele active="2112222" %}
 
 * **25 уровень:** {{ site.data.spells.afs }} является стандартным выбором, так как крайне полезен на АоЕ, особенно в сочетании с легендаркой {{ site.data.legend.eogs }}. {{ site.data.spells.eb }} можно брать в подземелья, где большинство боев идут против **1-3** целей, например Театр Боли.
 
 * **30 уровень:** Ситуативный тир, выбирайте между {{ site.data.spells.spirit_wolf }} и {{ site.data.spells.static }}.
+
+* **35 уровень:** Выбор между [Властелином стихий](https://ru.wowhead.com/spell=16166) и [Элементалем бури](https://ru.wowhead.com/spell=192249/) зависит от аффиксов и уровня ключа. Чем толще мобы, тем больше пользы от [Элементалем бури](https://ru.wowhead.com/spell=192249/).
 
 # Разбор талантов
 
