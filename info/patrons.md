@@ -1,7 +1,7 @@
 ---
 title: Авторы и благодарности
 layout: page
-last_update: 2021-03-18
+last_update: 2021-05-17
 wow: 9.0.5
 author: Amani
 ---
@@ -12,50 +12,57 @@ author: Amani
 * **Grayscale** – разработка сайта.
 * **orenji-sama** – дизайн.
 
-**Отдельное спасибо тем, кто помогал в вычитке текстов и тестировании работоспособности сайта:**
+**Спасибо тем, кто помогает в вычитке и корректуре текста:**
 
 * **Sozzzin**
 * **Zab**
-* **Sorumond**
-* **Shikki**
+* **Ignis**
 * **Зачем**
-* **Marhosias**
-* **Haelrail**
-* **Kruzer**
 * **Всему Discord серверу** [**«Водоворот»**](https://discordapp.com/invite/zTQhBn8)
 
 **Поддержавшие проект:**
 
+* **Артем Яруллин**
+* **Maksim Nikitin**
+* **Xander**
+* **Burehvat**
+* **Andoriz**
+* **Dreg'har**
+* **PivoPudge**
+* **Aleksey Voloschuk**
+* **D Zhur**
+* **VAAS**
+* **Данил Валиев**
+* **DummesReh**
+* **Merunesus**
+* **Flonsse**
+* **Саня (Эгерыч)**
+* **Surrrg**
+* **Валерий Касперович**
+* **Аззунит**
+* **NyaLinn**
+* **Sentimer**
+* **c01nd01r**
+* **Zlobnick**
 * **Максим**
 * **KoDu**
 * **Strilian**
 * **Mindout**
 * **telecom**
-* **deathtronik**
-* **Anritsu**
-* **Tapatoshkee**
 * **omegaJew**
 * **Patriot (Тим)**
-* **GoFix Yourself**
 * **es3rvake**
-* **Stuffed**
 * **Argo**
 * **Fortage**
-* **WooDooForever**
 * **Ecmek**
 * **Gaaki**
-* **NyaLinn**
-* **Lena**
-* **Shikki**
 * **Методика**
-* **Бадисатва**
 * **mihaellle**
 * **NK-47**
 * **Qswerty**
-* **Карни**
-* **Катана**
+* **SAMKATANA**
 * **Mirshab78**
-* **Гардаш**
+* **Gardash**
 * **ayami**
 * **ViniPsih**
 * **Oloriell**
