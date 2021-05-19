@@ -264,15 +264,15 @@ image: /assets/img/logos/sk_full.png
 
 # Интерфейс
 ## Аддоны
-[ArenaTeamTracker](https://www.curseforge.com/wow/addons/att) – кулдауны союзников. 
-[BigDebuffs](https://www.curseforge.com/wow/addons/bigdebuffs) – крупные и заметные дебаффы цели.
-[GladiatorlosSA2](https://www.curseforge.com/wow/addons/gladiatorlossa2) – голосовой анонсер прожимаемых противником способностей.
-[Gladius](https://www.curseforge.com/wow/addons/gladius) – фреймы противников на арене, можно настраивать команды по клику на фрейм, например, сбитие кастов.
-[JaxPartyCastbars](https://www.curseforge.com/wow/addons/jax-party-cast-bars) – каст бар ваших тиммейтов
-[NameplateAuras](https://www.curseforge.com/wow/addons/nameplateauras) – баффы и дебаффы над неймплейтом противников.
-[OmniBar](https://www.curseforge.com/wow/addons/omnibar) – отображение кулдаунов врагов.
-[OmniCC](https://www.curseforge.com/wow/addons/omni-cc) – модуль к OmniBar, помогает отслеживать диминишинги.
-[Leatrix_Plus](https://www.curseforge.com/wow/addons/leatrix-plus) – универсальные настройки интерфейса.
+* [ArenaTeamTracker](https://www.curseforge.com/wow/addons/att) – кулдауны союзников. 
+* [BigDebuffs](https://www.curseforge.com/wow/addons/bigdebuffs) – крупные и заметные дебаффы цели.
+* [GladiatorlosSA2](https://www.curseforge.com/wow/addons/gladiatorlossa2) – голосовой анонсер прожимаемых противником способностей.
+* [Gladius](https://www.curseforge.com/wow/addons/gladius) – фреймы противников на арене, можно настраивать команды по клику на фрейм, например, сбитие кастов.
+* [JaxPartyCastbars](https://www.curseforge.com/wow/addons/jax-party-cast-bars) – каст бар ваших тиммейтов
+* [NameplateAuras](https://www.curseforge.com/wow/addons/nameplateauras) – баффы и дебаффы над неймплейтом противников.
+* [OmniBar](https://www.curseforge.com/wow/addons/omnibar) – отображение кулдаунов врагов.
+* [OmniCC](https://www.curseforge.com/wow/addons/omni-cc) – модуль к OmniBar, помогает отслеживать диминишинги.
+* [Leatrix_Plus](https://www.curseforge.com/wow/addons/leatrix-plus) – универсальные настройки интерфейса.
 
 ## Макросы
 
