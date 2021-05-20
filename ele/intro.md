@@ -66,7 +66,7 @@ toc: true
 
 # Таланты для Мифик+
 
-{% include talents.html data=site.data.talents.ele active="2112322" %}
+{% include talents.html data=site.data.talents.ele active="2112222" %}
 
 Подробнее про все таланты можно узнать в этой статье:
 
