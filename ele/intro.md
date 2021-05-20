@@ -135,6 +135,14 @@ toc: true
 
 * Полезные **WeakAuras** можно найти в [этом разделе](/ele/weakauras.html).
 
+# PvP
+
+Всё про PvP можно найти в [специальном разделе](https://stormkeeper.ru/ele/pvp.html).
+
+{% include button.html name="PvP-гайд на Элем Шамана" link="/info/sim.html" %}  
+
+<p></p>
+
 <hr>
 
 <p></p>
