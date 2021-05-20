@@ -139,7 +139,7 @@ toc: true
 
 Всё про PvP можно найти в [специальном разделе](https://stormkeeper.ru/ele/pvp.html).
 
-{% include button.html name="PvP-гайд на Элем Шамана" link="/info/sim.html" %}  
+{% include button.html name="PvP-гайд на Элем Шамана" link="/ele/pvp.html" %}  
 
 <p></p>
 
