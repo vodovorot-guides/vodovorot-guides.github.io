@@ -1,7 +1,7 @@
 ---
 title: Гайд на Шамана Стихии
 layout: page
-last_update: 2021-04-09
+last_update: 2021-05-22
 wow: 9.0.5
 author: Amani
 toc: true
