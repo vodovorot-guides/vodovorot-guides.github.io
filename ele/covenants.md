@@ -1,7 +1,7 @@
 ---
 title: Ковенанты и медиумы – Шаман Стихии
 layout: page
-last_update: 2021-05-13
+last_update: 2021-05-22
 wow: 9.0.5
 toc: true
 author: Amani
