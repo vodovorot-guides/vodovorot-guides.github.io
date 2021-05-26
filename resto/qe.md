@@ -3,7 +3,7 @@ title: Руководство по использованию QE Live
 layout: page
 last_update: 2020-05-26
 wow: 9.0.5
-author: "Hailrail, Amani"
+author: "Haelrail, Amani"
 toc: true
 description: 
 image: /assets/img/QE/1.png
