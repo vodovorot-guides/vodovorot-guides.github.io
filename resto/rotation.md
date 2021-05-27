@@ -1,7 +1,7 @@
 ---
 title: Способности Шамана Исцеления
 layout: page
-last_update: 2021-03-22
+last_update: 2021-05-27
 wow: 9.0.5
 toc: true
 author: "Amani, Niseko"
@@ -19,10 +19,10 @@ custom-javascript-list:
 2. Поддерживайте на себе {{ site.data.spells.water_shield }}.
 3. Держите на кулдауне способности {{ site.data.spells.riptide }}, {{ site.data.spells.cbt }}, {{ site.data.spells.rain }}.
 4. Как можно чаще используйте способности с коротким КД, но не уходите в оверхил – {{ site.data.spells.wellspring }}, {{ site.data.spells.ewt }}, {{ site.data.spells.ul }}, {{ site.data.covenants.pw }} и другие. Старайтесь заряжать ими {{ site.data.spells.cbt }}.
-6. Кастуйте {{ site.data.spells.ch }} для АоЕ отхила.
-7. Используйте {{ site.data.spells.hs }} (быстрее и дороже) или {{ site.data.spells.hw }} (дольше и дешевле) для отхила одной цели. Стаки {{ site.data.spells.tw22 }} лучше тратить на {{ site.data.spells.hs }}.
-8. Используйте бурсты во время сложных моментов – {{ site.data.spells.slt }} перед получением урона, {{ site.data.spells.htt }} или {{ site.data.spells.asc_resto }} после получения урона.
-9. Если нечего хилить, наносите урон с помощью {{ site.data.spells.fs }}, {{ site.data.spells.lvb }} и {{ site.data.spells.lb }} / {{ site.data.spells.cl }}.
+5. Используйте {{ site.data.spells.hs }} (быстрее и дороже) или {{ site.data.spells.hw }} (дольше и дешевле) для отхила одной цели. Стаки {{ site.data.spells.tw22 }} лучше тратить на {{ site.data.spells.hs }}.
+6. Кастуйте {{ site.data.spells.ch }} для АоЕ отхила в том случае, если другие способности на кулдауне и если за время каста никто из союзников не умрет.
+7. Используйте бурсты во время сложных моментов – {{ site.data.spells.slt }} перед получением урона, {{ site.data.spells.htt }} или {{ site.data.spells.asc_resto }} после получения урона.
+8. Если нечего хилить, наносите урон с помощью {{ site.data.spells.fs }}, {{ site.data.spells.lvb }} и {{ site.data.spells.lb }} / {{ site.data.spells.cl }}.
 
 За счет Искусности {{ site.data.spells.resto_mastery }}, всегда старайтесь выбирать для ваших заклинаний наиболее раненую цель. Обращайте внимание на расположение союзников, так как это очень важно для эффективного использования {{ site.data.spells.ch }}.
 {: class="bordered"}
