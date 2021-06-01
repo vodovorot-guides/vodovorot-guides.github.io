@@ -106,7 +106,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 22. {:.if-apl .mote-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) with [Icefury](https://www.wowhead.com/spell=210714) and [Master of the Elements](https://www.wowhead.com/spell=16166) buffs.
 23. {:.sop-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Surge of Power](https://www.wowhead.com/spell=262303) buff if consuming the buff with [Lava Burst](https://www.wowhead.com/spell=51505) will not grant you an extra use of [Fire Elemental](https://www.wowhead.com/spell=198067).
 24. Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-   * {:.storm-apl}Don’t use [Lava Burst](https://www.wowhead.com/spell=51505) without [Lava Surge](https://www.wowhead.com/spell=77756) buff if both [Storm Elemental](https://www.wowhead.com/spell=192249) and [Bloodlust](https://www.wowhead.com/spell=2825) are active.
+   * {:.storm-apl}Don’t use [Lava Burst](https://www.wowhead.com/spell=51505) without [Lava Surge](https://www.wowhead.com/spell=77756) buff if [Storm Elemental](https://www.wowhead.com/spell=192249) is active.
 26. Cast [Flame Shock](https://www.wowhead.com/spell=188389) if it expires on target in less than **5.4** seconds.
 27. {:.storm-apl .eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with the [Echoes of Great Sundering](https://www.wowhead.com/spell=336215).
 28. {:.lmt-apl .eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with the [Echoes of Great Sundering](https://www.wowhead.com/spell=336215).
@@ -154,7 +154,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 20. {:.if-apl .mote-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) with [Icefury](https://www.wowhead.com/spell=210714) and [Master of the Elements](https://www.wowhead.com/spell=16166) buffs.
 23. {:.sop-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Surge of Power](https://www.wowhead.com/spell=262303) buff if consuming the buff with [Lava Burst](https://www.wowhead.com/spell=51505) will not grant you an extra use of [Fire Elemental](https://www.wowhead.com/spell=198067).
 24. Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-   * {:.storm-apl}Don’t use [Lava Burst](https://www.wowhead.com/spell=51505) without [Lava Surge](https://www.wowhead.com/spell=77756) buff if both [Storm Elemental](https://www.wowhead.com/spell=192249) and [Bloodlust](https://www.wowhead.com/spell=2825) are active.
+   * {:.storm-apl}Don’t use [Lava Burst](https://www.wowhead.com/spell=51505) without [Lava Surge](https://www.wowhead.com/spell=77756) buff if [Storm Elemental](https://www.wowhead.com/spell=192249) is active.
 24. Cast [Flame Shock](https://www.wowhead.com/spell=188389) if it expires on any target in less than **5.4** seconds.
 25. {:.storm-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
 26. {:.lmt-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) at **60+** Maelstrom.
