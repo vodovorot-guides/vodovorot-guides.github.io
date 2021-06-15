@@ -134,7 +134,7 @@ author: Amani
 * **Универсальный и хороший талант для любого типа контента.**
 
 * Работает на следующие способности:
-  * **Сила природы** – {{ site.data.spells.es }}, {{ site.data.spells.lb }}, {{ site.data.spells.cl }}.
+  * **Сила природы** – {{ site.data.spells.es }}, {{ site.data.spells.lb }}, {{ site.data.spells.cl }}, [Волшебное переливание](https://ru.wowhead.com/spell=328923).
   * **Магия льда** – {{ site.data.spells.frs }}, {{ site.data.spells.if }}.
   * **Физический урон** – {{ site.data.spells.quake }}.
 * Не работает на магию огня, то есть не усиливает {{ site.data.spells.lvb }} и {{ site.data.spells.fs }}.
