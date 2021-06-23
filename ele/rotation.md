@@ -275,13 +275,13 @@ custom-javascript-list:
 1. Обновляйте {{ site.data.spells.fs }} **только** во время движения.
 2. Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 3. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
-4. Кастуйте {{ site.data.spells.lb }}.
+4. Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
 
 **В бою против одной цели без активной [Жажды крови](https://ru.wowhead.com/spell=2825):**
 1. Поддерживайте на цели {{ site.data.spells.fs }}.
 2. Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756).
 3. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
-4. Кастуйте {{ site.data.spells.lb }}.
+4. Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
 
 **АоЕ (2+ цели) вне зависимости от наличия [Жажды крови](https://ru.wowhead.com/spell=2825):**
 1. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
