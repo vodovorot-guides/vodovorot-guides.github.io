@@ -26,7 +26,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  vodovorot-guides
 discord_servername: Водоворот
 youtube_username: Amani
-discord_invite: https://discord.gg/dt6xMHh
+discord_invite: https://discord.gg/vodovorot
 
 # Build settings
 markdown: kramdown
