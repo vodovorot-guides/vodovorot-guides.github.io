@@ -50,13 +50,15 @@ Elemental Shaman rotation breakdown. Spell priorities on this page   change dyna
 5. {:.vt-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389). 
 5. {:.ch-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389). 
 5. {:.eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-6. {:.sk-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
-6. {:.eote-apl .ecs-apl}Cast [Echoing Shock](https://www.wowhead.com/spell=320125).
-7. {:.eote-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-23. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
-8. {:.lava-apl .eote-apl .eb-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042).
-9. {:.lava-apl .eote-apl .eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-10. {:.sk-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff. 
+3. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
+7. {:.sk-apl .pw-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
+7. {:.sk-apl .vt-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
+7. {:.sk-apl .ch-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
+9. {:.eote-apl .ecs-apl}Cast [Echoing Shock](https://www.wowhead.com/spell=320125).
+10. {:.eote-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
+11. {:.lava-apl .eote-apl .eb-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042).
+12. {:.lava-apl .eote-apl .eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
+13. {:.sk-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff. 
 26. {:.lmt-apl}Cast [Liquid Magma Totem](https://www.wowhead.com/spell=192222).
 27. {:.ch-apl}Cast [Chain Harvest](https://www.wowhead.com/spell=320674).
 28. {:.asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
