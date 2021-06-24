@@ -1,151 +1,388 @@
----    
-title: Осколки Господства и новые слоты для легендарок
+---
+title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-05-04
-wow: 9.0.5
+last_update: 2021-06-23
+wow: 9.1
 toc: true
-author: Amani
-description: Основная информация про новую систему в патче 9.1 – осколки Господства, а также в какие слоты следует крафтить легендарные предметы.
-image: /assets/img/logos/shards.png
+author: "Amani, Ignis, Zab"
+description: Описание ротации Элем Шамана. Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант.
+image: /assets/img/logos/sk_full.png
+custom-javascript-list:
+    - "/assets/js/rotation_switches.js"
 ---
 
-<p align="center">
-<img src="/assets/img/sockets_art.jpg" > 
-</p>
+# Выбор билда
 
-# Кратко и быстро
+Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант. Английская версия страницы [здесь](https://stormkeeper.ru/ele/rotation_en.html).
 
-* Все кольчужные **шлемы**, **наплечники**, **нагрудники**, **пояса**, **ботинки** в новом рейде падают со специальными **Гнездами Господства**. Лут-таблица доступна [по этой ссылке](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy).
-* В эти гнезда вставляются  **Осколки Господства**, которые также падают в рейде. Всего осколков **9** видов, и они делятся на три типа – **Кровь**, **Лед**, **Нечестивость**. В каждом типе осколков есть один на урон, один на выносливость/исцеление и один на дополнительные эффекты.
-* Осколки уникальные, вы не можете вставить два одинаковых. Они работают **в любом типе контента**, включая рейд и Мифик+.
-* Набор из трёх осколков одного цвета дает бонус, который работает только в рейде, в Утробе и в Торгасте. Сет бонус **не работает в Мифик+**.
-* Осколки крайне сильны и мы хотим иметь все пять слотов экипировки с Гнездами Господства из рейда (минимум три для ключников). Легендарки не могут иметь Гнезда Господства, следовательно их нужно будет переделать в новые слоты.
-
-# Осколки Господства
-
-<p align="center">
-<img src="/assets/img/shard_diz.jpg" > 
-</p>
-
-* Всего существует **9** видов осколков, которые разбиты на три типа – **Кровь**, **Лед**, **Нечестивость**.
-* В каждом типе осколков есть один на урон, один на выносливость/исцеление и один на дополнительные эффекты.
-* Осколки имеют **5** рангов. Чем выше ранг – тем сильнее эффект.
-* Улучшать осколки можно за счет [Стигийских углей](https://ptr.wowhead.com/item=186599/), которые можно получить убивая боссов в рейде и выполняя еженедельный квест в Кортии – [Формируя судьбу](https://ptr.wowhead.com/quest=63949).
-* Каждый осколок улучшается пошагово, то есть не получится из первого ранга сделать сразу пятый. Стоимость улучшения – **5**, **15**, **30** и **50** [Стигийских углей](https://ptr.wowhead.com/item=186599/) соответственно. Полностью прокачать один осколок до максимального уровня стоит **100** [Стигийских углей](https://ptr.wowhead.com/item=186599/).
-* Осколки уникальные, то есть нельзя использовать два одинаковых осколка.
-* Осколки работают в любом типе контента – рейд, Мифик+, PvP, открытый мир.
-* Предметы с Гнездами Господства могут также иметь и обычное гнездо для самоцвета.
-* Осколки можно извлекать из экипировки с помощью специального предмета: [Резец ожога души](https://ptr.wowhead.com/item=187532), который покупается за **2500** ед. стигии. Он не ломается, и его можно использовать где угодно и сколько угодно раз.
-* Ниже представлено описание осколков первого ранга. Максимальный **5** ранг осколков ровно в полтора раза эффективнее. То есть если первый ранг увеличивает урон на **2%**, то пятый будет давать **3%**, и так далее.
-
-## Кровь
-
-* [Осколок Бек](https://ptr.wowhead.com/item=187057) – Увеличивает наносимый вами урон на **2%**, если у вас на **50%** или больше здоровья, чем у вашей цели.
-* [Осколок Джас](https://ptr.wowhead.com/item=187059) – Увеличивает получаемое вами исцеление на **1,1%**. Повышает ваш максимальный запас здоровья на **400**.
-* [Осколок Рев](https://ptr.wowhead.com/item=187061) – Увеличивает ваше самоисцеление на **26**.
-
-## Лед
-
-* [Осколок Кор](https://ptr.wowhead.com/item=187063) – Увеличивает ваш урон на **3%** на **20** сек. при атаке противника, которому вы еще не наносили урон.
-* [Осколок Тел](https://ptr.wowhead.com/item=187071) – Ваше критическое исцеление заставляет цель поглотить **228** ед. урона, которые она получит в течение следующих **6** сек.
-* [Осколок Кир](https://ptr.wowhead.com/item=187065) – Находясь без движения, каждые **5** сек. вы получаете щит, который поглощает **880** ед. урона, вплоть до максимального значения в **4400** ед. 
-
-## Нечестивость
-
-* [Осколок Диз](https://ptr.wowhead.com/item=187073) – При нанесении урона цели вы повышаете наносимый ей от вас урон на **0,33%** на **4** сек., суммируется до **3** раз.
-* [Осколок Зед](https://ptr.wowhead.com/item=187079) – Ваши благотворные заклинания и способности с некоторой вероятностью могут наделить вашу цель "Аурой нечестивости", которая вытягивает **221** ед. здоровья из ближайших противников каждые **2** сек. в течение **10** сек.
-* [Осколок От](https://ptr.wowhead.com/item=187076) – Увеличивает вашу скорость передвижения на **26**.
-
-# Сетовые бонусы 
-
-<p align="center">
-<img src="/assets/img/helm_shard.jpg" > 
-</p>
-
-* При использовании трех осколков одного типа (Кровь, Лед или Нечестивость) вы получаете бафф [Руны Господства](https://ptr.wowhead.com/spell=355752), который дает дополнительный эффект **«Слово рун»**. Это своеобразный сет-бонус при использовании осколков одного типа.
-* Также для активации сет-бонуса требуется иметь определенный предмет экипировки с гнездом Господства. Для эффекта осколков Крови – [нагрудник](https://ptr.wowhead.com/item=186303), Льда – [наплечники](https://ptr.wowhead.com/item=186342), Нечестивости – [шлем](https://ptr.wowhead.com/item=186304/).
-* Одновременно может быть активен только один сет бонус, так как можно вставить не более **5** осколков Господства.
-* Данный эффект работает только в Святилище Господства, Торгасте, Утробе и Кортии.
-* Эффект сет-бонусов **не работает** в Мифик+ и PvP.
-
-### Кровь
-
-* [Кровавые узы](https://ptr.wowhead.com/spell=355804) – Когда вы наносите урон противнику, между вами возникают кровавые узы. Раз в **3** сек. узы вызывают импульс, который наносит **540** урона от темной магии и восполняет вам здоровье в объеме **100%** от нанесенного урона. Если исцеление оказывается избыточным, оно исцеляет вместо вас находящегося рядом союзника. Максимум целей – **1**.
-
-### Лед
-
-* [Зимние ветра](https://ptr.wowhead.com/spell=355735) – Когда вы наносите критический удар, ветра накапливают **6%** нанесенного урона, но не более **180** ед. урона. Раз в **20** сек. возникает порыв ветра, наносящий урон в зависимости от накопленного эффекта и создающий щит прочностью **100%** от нанесенного урона.
-
-### Нечестивость
-
-* [Проклятие хаоса](https://ptr.wowhead.com/spell=355829) – Ваши заклинания и способности могут вытянуть из цели фрагмент души, повышая вашу основную характеристику на **10** на **30** секунд. Эффект суммируется **15** раз. Накопив **15** эффектов, вы наносите **1500** урона от темной магии, равномерно распределяемого между ближайшими противниками, а ваша основная характеристика повышается на **300** на **15** секунд.
-
-# Новые слоты для легендарок
-
-* Легендарные предметы **не могут** иметь гнездо Господства.
-* Если используемый вами легендарный предмет из патча **9.0.5** пересекается со слотом из рейда с новым сокетом, то его следует скрафтить в альтернативный слот.
-* Для некоторых легендарок увеличено количество возможных слотов экипировки.
-* Так как для крафта легендарок **249** и **262** всё равно потребуются новые заготовки (даже если вы делаете легу в тот же слот) фактически потери будут только в [Пепле душ](https://ru.wowhead.com/currency=1828).
-* Скорость добычи [Пепла душ](https://ru.wowhead.com/currency=1828) в патче **9.1** будет существенно повышена – из Торгаста будет падать примерно по **2000** в неделю, а за повторные забеги – по **200** ед. за **12** этаж. Помимо этого, [Пепел душ](https://ru.wowhead.com/currency=1828) можно пересылать на мейна с альтов.
-* Если выбранный вами слот для легендарки может иметь обычное гнездо, то имеет смысл скрафтить сначала легу **190** уровня, использовать на неё [Аппарат пространственной реструктуризации](https://ru.wowhead.com/item=184361/). Он работает только на предметы первого сезона, к которым относятся легендарки **190**-**235** уровня.
-
-### Стихии
-
-* [Извержение говорящего с ветром](https://ru.wowhead.com/spell=336063/) – вместо **Ступней** делаем **Плащ**.
-* [Отголоски Великого Раскола](https://ru.wowhead.com/spell=336215/) – вместо **Наплечников** делаем **Кисти рук**.
-* [Огненная гибель "Усмирителя небес"](https://ru.wowhead.com/spell=336734/) – вместо **Нагрудника** делаем **Кольцо**.
-* [Семена буйной поросли](https://ptr.wowhead.com/spell=356218) – новая легендарка <span style="color:#a330c9;font-size:1em;">**Ночного Народца**</span>, крафтим **Кисти рук**.
-
-### Совершенствование
-
-* [Ветра рока](https://ru.wowhead.com/spell=335902/) – вместо **Шлема** делаем **Плащ**. Данная возможность появится с выходом патча **9.1**.
-* [Волчьи кости колдуна](https://ru.wowhead.com/spell=335897/) – вместо **Наплечников** делаем **Кольцо**. 
-
-### Исцеление
-
-* [Изначальное сердце волн](https://ru.wowhead.com/spell=335889/) – вместо **Шлема** делаем **Кисти рук**. 
-* [Камень глубинного землетрясения](https://ru.wowhead.com/spell=336739/) – вместо **Ступней** делаем **Кольцо**. Данная возможность появится с выходом патча **9.1**.
-
-# Часто задаваемые вопросы
-
-* **Можно пример как это будет работать?**
-* Вы пошли в новый рейд, с боссов вам падают осколки Господства, которые пока некуда вставлять. Вы выбиваете шмот с гнездами Господства и вставляете туда лучшие, [на ваш взгляд](https://www.raidbots.com/simbot), осколки. Когдва вы выбиваете вещи во все пять слотов (Голова, Плечо, Грудь, Пояс, Ступни), вы вставляете пять осколков и параллельно формируете сет-бонус. Пример для Элема или Энха:
-  * [Осколок Диз](https://ptr.wowhead.com/item=187073) – сет-бонус Нечестивости **1/3**.
-  * [Осколок Зед](https://ptr.wowhead.com/item=187079) – сет-бонус Нечестивости **2/3**.
-  * [Осколок От](https://ptr.wowhead.com/item=187076) – сет-бонус Нечестивости **3/3**.
-  * [Осколок Бек](https://ptr.wowhead.com/item=187057) – урон, Кровь.
-  * [Осколок Кор](https://ptr.wowhead.com/item=187063) – урон, Лед.
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
+      <a href="/ele/rotation.html" id="raid_build" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Рейда</a>
+      <a href="/ele/rotation.html" id="mplus_build" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Мифик+</a>
+    </div>
+  </div>
+</div>
 
 <p></p>
 
-* **Стоит делать легу в новый слот заранее, до выхода патча 9.1?**
-* **Нет**, вы можете использовать старую версию леги до тех пор, пока вам не упадет предмет с гнездом Господства или пока вы не накопите [Угли душ](https://ptr.wowhead.com/currency=1906) на **249** или **262** легу.
+{% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
 
-<p></p>
+# Открывающая ротация, «Opener»
 
-* **Эти осколки действительно настолько сильны, что придется крафтить новую легу?**
-* **Да**. Плюс, легендарки так или иначе придется делать «заново», можно просто сразу выбрать новый слот. Потери будут только в [Пепле душ](https://ru.wowhead.com/currency=1828), который можно очень быстро нафармить.
+**Опенер** – это фиксированный порядок кастов в самом начале боя. 
 
-<p></p>
+1. {:.pw-apl}{{ site.data.covenants.fleshcraft }} за **10** секунд до пула.
+1. {:.vt-apl}{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула.
+1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
+3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
+3. {:.lmt-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
+3. {:.storm-apl}{{ site.data.spells.storm }} за **3.5** секунды до пула.
+5. {:.eb-apl}{{ site.data.spells.eb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+7. {:.afs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+7. {:.afs-apl .pw-apl}{{ site.data.spells.fs }}.
+7. {:.ecs-apl .pw-apl}{{ site.data.spells.fs }}.
+5. {:.pw-apl}{{ site.data.covenants.pw }}.
+5. {:.ft-apl}{{ site.data.spells.fs }}. 
+5. {:.vt-apl}{{ site.data.spells.fs }}. 
+5. {:.ch-apl}{{ site.data.spells.fs }}. 
+5. {:.eb-apl}{{ site.data.spells.lvb }}.
+6. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+6. {:.eote-apl .ecs-apl}{{ site.data.spells.ecs }}.
+7. {:.eote-apl}{{ site.data.spells.lvb }}.
+23. {:.ft-apl}{{ site.data.covenants.ft }}.
+8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
+9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
+10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
+26. {:.lmt-apl}{{ site.data.spells.lmt }}.
+27. {:.ch-apl}{{ site.data.covenants.ch }}.
+28. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
+29. Продолжайте обычную ротацию.
 
-* **Если я хожу только в Мифик+, мне нужны эти осколки?**
-* **Да**. Следует использовать как минимум **3** осколка на урон каждого типа – Кровь, Лед и Нечестивость. 
 
-<p></p>
+1. {:.pw-apl}{{ site.data.covenants.fleshcraft }} за **10** секунд до пула.
+1. {:.vt-apl}{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула.
+1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
+3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
+3. {:.lmt-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
+3. {:.storm-apl}{{ site.data.spells.storm }} за **3.5** секунды до пула.
+5. {:.eb-apl}{{ site.data.spells.eb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+7. {:.afs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+7. {:.afs-apl .pw-apl}{{ site.data.spells.fs }}.
+7. {:.ecs-apl .pw-apl}{{ site.data.spells.fs }}.
+5. {:.pw-apl}{{ site.data.covenants.pw }}.
+5. {:.ft-apl}{{ site.data.spells.fs }}. 
+5. {:.vt-apl}{{ site.data.spells.fs }}. 
+5. {:.ch-apl}{{ site.data.spells.fs }}. 
+5. {:.eb-apl}{{ site.data.spells.lvb }}.
+2. {:.ft-apl}{{ site.data.covenants.ft }}.
+6. {:.sk-apl .pw-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+6. {:.sk-apl .vt-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+6. {:.sk-apl .ch-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+6. {:.eote-apl .ecs-apl}{{ site.data.spells.ecs }}.
+7. {:.eote-apl}{{ site.data.spells.lvb }}.
+2. {:.sk-apl .ft-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
+9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
+10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
+26. {:.lmt-apl}{{ site.data.spells.lmt }}.
+27. {:.ch-apl}{{ site.data.covenants.ch }}.
+28. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
+29. Продолжайте обычную ротацию.
 
-* **Какой сет-бонус лучше всего использовать?**
-* Для Элема и Энха пока предпочтительным выглядит **Нечестивость**, а для Рестора – **Лед**. Но всё еще может поменяться.
+Вы можете призвать [Элементаля земли](https://ru.wowhead.com/spell=198103/) за **7** секунд до пула босса, но только если выполнены **все** следующие условия:
+* Вы **не** используете талант {{ site.data.spells.primal_elem }} (усиленные элементали заменяют друг друга).
+* В ближайшие **5** минут вам не потребуется дополнительное здоровье от проводника {{ site.data.conduits.vital }}.
+* Вы используете макрос на призыв [Элементаля земли](https://ru.wowhead.com/spell=198103/), который позволяет не запулить босса раньше времени:
+~~~
+#showtooltip
+/cast [@player] Элементаль земли
+~~~
 
-<p></p>
+# Бой против **1** цели
 
-* **Предмет с гнездом Господства из Нормала будет эффективнее его версии с Героика?**
-* Скорее всего да, точно узнаем когда будут доступны симы. В идеале следует нафармить **5** слотов с гнездами Господства из Нормала, даже если вы уже одеты в **230** гир.
+Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта.
 
-<p></p>
+1. {:.sk-apl}{{ site.data.spells.lb }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
+3. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+2. {{ site.data.spells.fs }}, если отсутствует на цели. 
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **20** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
+5. {:.storm-apl}{{ site.data.spells.storm }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)). [WA для отслеживания](https://wago.io/oiozoI5RD).
+6. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
+  * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
+  * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+7. {:.eogs-apl}{{ site.data.spells.quake }}, если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
+8. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.es }}.
+10. {:.lava-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+12. {{ site.data.spells.es }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
+13. {:.fire-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+14. {:.ee-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+15. {:.eogs-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+16. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
+17. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
+18. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+19. {:.mote-apl .eogs-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+20. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
+21. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
+   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, всегда старайтесь усилить им {{ site.data.covenants.ft }}.
+22. {:.lmt-apl}{{ site.data.spells.lmt }} по кулдауну.
+23. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+24. {:.storm-apl}{{ site.data.spells.lb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
+25. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
+26. {:.mote-apl}{{ site.data.spells.es }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+27. {:.if-apl .mote-apl}{{ site.data.spells.frs }} с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+28. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
+29. {{ site.data.spells.lvb }} по кулдауну.
+   * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) не используйте {{ site.data.spells.lvb }} без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
+30. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
+31. {:.storm-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+32. {:.lmt-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+33. {:.storm-apl}{{ site.data.spells.es }}, если есть **60+** ед. энергии Водоворота.
+34. {:.lmt-apl}{{ site.data.spells.es }}, если есть **60+** ед. энергии Водоворота.
+35. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+36. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
+37. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
+38. {{ site.data.spells.igor }} по кулдауну.
+  * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
+39. {{ site.data.spells.lb }}.
 
-* **Где можно посмотреть какие шмотки и статы будут в новом рейде?**
-* В специальной лут-таблице [по этой ссылке](https://docs.google.com/spreadsheets/d/1Bftzvy3ROXWSYNBXiccWVYnsHQOiLsFp4NSrEgsEo2U/copy). Используйте сортировку для более удобного поиска.
+# Бой против **2** целей
 
-# Заключение
+1. {:.sk-apl}{{ site.data.spells.lb }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
+2. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+ 1. {{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+  * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) {{ site.data.spells.fs }} используется только во время передвижения.
+4. {:.storm-apl}{{ site.data.spells.storm }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)). [WA для отслеживания](https://wago.io/oiozoI5RD)
+5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
+  * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
+  * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+6. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+6. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.quake }}.
+7. {{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
+8. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+  * {:.storm-apl}Не используйте {{ site.data.spells.lvb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+10. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
+11. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
+12. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+  * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) {{ site.data.covenants.pw }} используется только во время передвижения.
+14. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+15. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
+16. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну.
+   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, всегда старайтесь усилить им {{ site.data.covenants.ft }}.
+17. {:.lmt-apl}{{ site.data.spells.lmt }} по кулдауну.
+18. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+19. {:.storm-apl}{{ site.data.spells.cl }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
+20. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
+25. {:.mote-apl .fire-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+25. {:.mote-apl .lava-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+25. {:.mote-apl .ee-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+24. {:.if-apl .mote-apl}{{ site.data.spells.frs }} с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+25. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
+26. {{ site.data.spells.lvb }} по кулдауну.
+   * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) не используйте {{ site.data.spells.lvb }} без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
+27. {{ site.data.spells.fs }}, если на одной из целей до спадения осталось менее **5.4** секунд.
+28. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+29. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+30. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+31. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
+32. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
+33. {{ site.data.spells.igor }} по кулдауну.
+  * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
+34. {{ site.data.spells.cl }}. 
 
-Найти меня всегда можно на Discord-сервере [«Водоворот»](https://discord.gg/vodovorot), а так же на [YouTube](https://www.youtube.com/Amanizandalari) и [Twitch-канале](https://www.twitch.tv/amanizandalari).
+# Бой против **3** целей
+
+1. {:.sk-apl}{{ site.data.spells.cl }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
+1. {:.eogs-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.lava-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.ee-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.fire-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+1. {:.eogs-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.lava-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.ee-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.fire-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+1. {:.fire-apl .storm-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
+2. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
+2. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
+2. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.storm-apl}{{ site.data.spells.storm }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)). [WA для отслеживания.](https://wago.io/oiozoI5RD)
+5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
+  * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+6. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+6. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.quake }}.
+7. {:.mote-apl}{{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
+8. {:.mote-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+8. {:.lmt-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+8. {:.fire-apl .storm-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
+8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
+  * {:.storm-apl}Не используйте {{ site.data.spells.eb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+10. {:.mote-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну (на третью цель), если у вас нет активного баффа от этого заклинания.
+10. {:.lmt-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну (на третью цель), если у вас нет активного баффа от этого заклинания.
+10. {:.fire-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+  * {:.storm-apl}Не используйте [Первозданную волну](https://ru.wowhead.com/spell=326059) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+28. {:.mote-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+24. {:.mote-apl .eogs-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота и бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+24. {:.mote-apl .fire-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота.
+24. {:.mote-apl .lava-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота.
+24. {:.mote-apl .ee-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота.
+25. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну. Рекомендуется применять тогда, когда в живых остается **1-2** моба.
+   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, всегда старайтесь усилить им {{ site.data.covenants.ft }}.
+29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
+29. {{ site.data.spells.cl }}.
+31. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
+32. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
+
+# Бой против **4** и более целей
+
+1. {:.sk-apl}{{ site.data.spells.cl }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
+1. {:.fire-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+1. {:.eogs-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
+1. {:.lava-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
+1. {:.ee-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
+1. {:.fire-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+1. {:.fire-apl .storm-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
+2. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
+2. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
+2. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.storm-apl}{{ site.data.spells.storm }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)). [WA для отслеживания.](https://wago.io/oiozoI5RD)
+5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
+  * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+6. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+6. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.quake }}.
+7. {:.mote-apl .pw-apl}{{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
+7. {:.lmt-apl .pw-apl}{{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
+8. {:.mote-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
+8. {:.lmt-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
+8. {:.fire-apl .storm-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
+10. {:.mote-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+10. {:.lmt-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+10. {:.fire-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+  * {:.storm-apl}Не используйте [Первозданную волну](https://ru.wowhead.com/spell=326059) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+28. {:.mote-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+24. {:.mote-apl .eogs-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50+** ед. энергии Водоворота и бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+24. {:.mote-apl .fire-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50+** ед. энергии Водоворота и в бою не более **4** целей.
+24. {:.mote-apl .lava-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50+** ед. энергии Водоворота и в бою не более **4** целей.
+24. {:.mote-apl .ee-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50+** ед. энергии Водоворота и в бою не более **4** целей.
+25. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
+29. {{ site.data.spells.cl }}.
+30. {:.ft-apl}{{ site.data.covenants.ft }} в бою против **4** и более целей **не используется**. Применяйте тогда, когда в живых остается **1-2** моба.
+31. {:.if-apl}{{ site.data.spells.if }} в бою против **4** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
+32. {:.eb-apl}{{ site.data.spells.eb }} в бою против **4** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
+33. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}. 
+
+# Приоритеты во время активного Элементаля бури
+
+Если вы прочитали про ротацию со взятым талантом [Элементаль бури](https://ru.wowhead.com/spell=192249) и все равно ничего не поняли – этот раздел для вас. Без активного [Элементаля бури](https://ru.wowhead.com/spell=192249) приоритеты мало чем отличаются от билда через [Властелин стихий](https://ru.wowhead.com/spell=16166). Однако, при активации бурста всё становится несколько иначе:
+
+**В бою против одной цели при активной [Жажде крови](https://ru.wowhead.com/spell=2825):**
+1. Обновляйте {{ site.data.spells.fs }} **только** во время движения.
+2. Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
+3. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
+4. Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
+
+**В бою против одной цели без активной [Жажды крови](https://ru.wowhead.com/spell=2825):**
+1. Поддерживайте на цели {{ site.data.spells.fs }}.
+2. Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756).
+3. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
+4. Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
+
+**АоЕ (2+ цели) вне зависимости от наличия [Жажды крови](https://ru.wowhead.com/spell=2825):**
+1. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
+2. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443).
+3. Используйте {{ site.data.spells.fs }}, {{ site.data.covenants.pw }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
+
+# Особенности талантов
+
+<a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" >**Властелин стихий**</a> – пассивный талант, увеличивает урон от различных заклинаний на **20%** после применения [Выброса лавы](https://ru.wowhead.com/spell=51505).
+
+* Если у вас есть два заряда [Выброса лавы](https://ru.wowhead.com/spell=51505), то **не стоит** кастовать между ними обычную [Молнию](https://ru.wowhead.com/spell=188196), так как это приведет к потере урона. Это связано с тем, что если в момент применения [Молнии](https://ru.wowhead.com/spell=188196) у вас прокнет {{ site.data.spells.lava_surge }}, то вы потеряете часть КД на {{ site.data.spells.lvb }}.
+* Но это правило не распространяется на мгновенные заклинания – усиленную [Молнию](https://ru.wowhead.com/spell=188196) от таланта {{ site.data.spells.sk }}, усиленный {{ site.data.spells.frs }} от таланта {{ site.data.spells.if }}, а также {{ site.data.spells.es }} и {{ site.data.spells.quake }}. Поглощайте бафф от [Властелина стихий](https://ru.wowhead.com/spell=16166) этими заклинаниями, даже если у вас уже есть один стак [Выброса лавы](https://ru.wowhead.com/spell=51505).
+* Проще говоря – не стоит кастовать обычную [Молнию](https://ru.wowhead.com/spell=188196), если у вас есть заряд [Выброса лавы](https://ru.wowhead.com/spell=51505). Бафф от таланта {{ site.data.spells.mote }} не перекроет потенциальную потерю урона при проке {{ site.data.spells.lava_surge }}. 
+* Подходя к **60** ед. энергии Водоворота, ориентируйтесь на кулдауны [Выброса лавы](https://ru.wowhead.com/spell=51505) и других заклинаний. Придерживайте {{ site.data.spells.es }}, чтобы скастовать его с баффом от {{ site.data.spells.mote }}.
+* По сути, у нас есть окно между **60** и **100** энергии Водоворота, за время которого мы должны использовать [Выброс лавы](https://ru.wowhead.com/spell=51505) и сразу же {{ site.data.spells.es }}.
+* Не стоит уходить в оверкап энергии Водоворота ради баффа [Властелина стихий](https://ru.wowhead.com/spell=16166), это ведет к потере урона.
+* Приоритет заклинаний для баффа {{ site.data.spells.mote }}:
+
+1. {{ site.data.covenants.ft }} в бою против **одной** цели.
+2. {{ site.data.spells.quake }} на **две** и более цели, либо на **одну** цель при наличии баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+3. {{ site.data.spells.lb }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
+4. {{ site.data.spells.es }}.
+5. {{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+6. {{ site.data.spells.eb }}.
+  * **Важно!** {{ site.data.spells.eb }} используется всегда по кулдауну, вне зависимости от наличия или отсутствия баффа {{ site.data.spells.mote }}.
+7. {{ site.data.spells.lb }}.
+8. {{ site.data.spells.if }}.
+9. {{ site.data.spells.frs }}.
+
+<a href="https://ru.wowhead.com/spell=117014" target="blank" data-wh-icon-size="medium" >**Удар духов стихий**</a> – активная способность с кулдауном **12** секунд, наносит средний урон и дает бафф к случайной характеристике на **10** секунд, а также генерирует **30** ед. энергии Водоворота.
+
+* В бою против **одной**, **двух** или **трёх** целей {{ site.data.spells.eb }} кастуется по кулдауну.
+* В бою против **четырех** и более целей {{ site.data.spells.eb }} **не используется**.
+* {{ site.data.spells.eb }} генерирует **30** ед. энергии Водоворота, и еще **15** при проке Перегрузки. Суммарно за один каст можно получить **45** ед. энергии Водоворота.
+* Прок перегрузки вылетает не сразу, а спустя небольшой промежуток времени после завершения каста.
+* Можно скастовать {{ site.data.spells.eb }} на **70** энергии Водоворота и сразу использовать {{ site.data.spells.es }}, тогда перегрузка вылетит уже после каста [Земного шока](https://ru.wowhead.com/spell=8042) и не уйдет в оверкап.
+
+<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="medium" >**Ледяная ярость**</a> – активная способность, наносит небольшой урон, дает **25** ед. энергии Водоворота и усиливает **4** следующих [Ледяных шока](https://ru.wowhead.com/spell=196840) на **300%**, которые также генерируют **8** ед. энергии Водоворота. Бафф висит **15** секунд, время восстановления способности **30** секунд.
+
+* После использования [Ледяной ярости](https://ru.wowhead.com/spell=210714) представьте, что вместо четырех следующих [Молний](https://ru.wowhead.com/spell=188196) вам нужно использовать четыре [Ледяных шока](https://ru.wowhead.com/spell=196840).
+* В идеале, каждый усиленный {{ site.data.spells.frs }} следует бафать талантом {{ site.data.spells.mote }}. 
+* Не придерживайте стаки слишком долго, так как **потерять стак баффа [Ледяной ярости](https://ru.wowhead.com/spell=210714) гораздо хуже, чем потерять бафф от [Властелина стихий](https://ru.wowhead.com/spell=16166).**
+* Если у вас есть два заряда [Выброса лавы](https://ru.wowhead.com/spell=51505), то используйте между ними усиленный [Ледяной шок](https://ru.wowhead.com/spell=196840).
+
+# Урон в движении
+
+Нанесение урона при движении – важная часть при игре за Элем шамана. Всегда кастуйте что-нибудь на перебежках, иначе вы будете терять на этом урон. Старайтесь минимизировать время нахождения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645), ведь в этой форме вы точно не можете наносить урон.
+
+Вот те способности, которые мы можем использовать в движении:
+
+1. {{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от количества целей.
+2. Мгновенный {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+3. Обновить {{ site.data.spells.fs }}.
+4. {{ site.data.spells.frs }}, даже без баффа от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+5. Прожать {{ site.data.spells.swg }} и просто продолжать обычную ротацию.
+
+Перебежки можно разделить на **короткие** и **длинные**.
+
+**Короткая** перебежка длится несколько ГКД – например выйти из лужи или отбежать от какой-нибудь абилки босса. Если такая перебежка запланирована, то мы можем накопить под неё **60+** ед. энергии Водоворота, чтобы использовать мгновенные {{ site.data.spells.es }} и {{ site.data.spells.lvb }} (при игре с легендаркой {{ site.data.legend.lava }}). Если вы не ожидали, что вам придется резко начать движение – используйте доступные заклинания из списка выше. Не стоит использовать форму [Призрачного волка](https://ru.wowhead.com/spell=2645), только если вы точно знаете, что без неё не успеете выйти из опасной лужи.
+
+**Длинная** перебежка длится дольше нескольких ГКД, и именно на таких перебежках игроки используют форму [Призрачного волка](https://ru.wowhead.com/spell=2645) или просто бегут, теряя урон. Примеры таких перебежек: притягивание на Алчном разрушителе, притягивание на Зи'моксе, перебежка на чистую площадку на Леди Инерве Дарквейн и т.д.
+
+Следующие действия помогут избежать потери урона на **длинных** перебежках:
+
+1. Заранее занимайте позицию таким образом, чтобы уменьшить длительность перебежки.
+2. Планируйте использование [Благосклонности предков](https://ru.wowhead.com/spell=79206).
+3. Приберегите использование [Ледяной ярости](https://ru.wowhead.com/spell=210714) под долгую перебежку.
+
+Если вам все равно ничего не остается, кроме как спамить {{ site.data.spells.frs }} – спамьте его. Лучше наносить хоть сколько-нибудь урона, чем не наносить вообще.
