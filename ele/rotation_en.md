@@ -56,9 +56,10 @@ Elemental Shaman rotation breakdown. Spell priorities on this page   change dyna
 7. {:.sk-apl .ch-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
 9. {:.eote-apl .ecs-apl}Cast [Echoing Shock](https://www.wowhead.com/spell=320125).
 10. {:.eote-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-11. {:.lava-apl .eote-apl .eb-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042).
-12. {:.lava-apl .eote-apl .eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-13. {:.sk-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff. 
+11. {:.sk-apl .ft-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
+12. {:.lava-apl .eote-apl .eb-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042).
+13. {:.lava-apl .eote-apl .eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
+14. {:.sk-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff. 
 26. {:.lmt-apl}Cast [Liquid Magma Totem](https://www.wowhead.com/spell=192222).
 27. {:.ch-apl}Cast [Chain Harvest](https://www.wowhead.com/spell=320674).
 28. {:.asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
