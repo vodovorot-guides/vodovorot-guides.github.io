@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-06-23
+last_update: 2021-06-24
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
@@ -51,10 +51,13 @@ custom-javascript-list:
 5. {:.vt-apl}{{ site.data.spells.fs }}. 
 5. {:.ch-apl}{{ site.data.spells.fs }}. 
 5. {:.eb-apl}{{ site.data.spells.lvb }}.
-6. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+2. {:.ft-apl}{{ site.data.covenants.ft }}.
+6. {:.sk-apl .pw-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+6. {:.sk-apl .vt-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+6. {:.sk-apl .ch-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 6. {:.eote-apl .ecs-apl}{{ site.data.spells.ecs }}.
 7. {:.eote-apl}{{ site.data.spells.lvb }}.
-23. {:.ft-apl}{{ site.data.covenants.ft }}.
+2. {:.sk-apl .ft-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
 9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
 10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
@@ -63,7 +66,7 @@ custom-javascript-list:
 28. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
 29. Продолжайте обычную ротацию.
 
-Вы можете призвать [Элементаля земли](https://ru.wowhead.com/spell=198103/) за **7** секунд до пула босса, но только если выполнены **все** следующие условия:
+Вы можете призвать [Элементаля земли](https://ru.wowhead.com/spell=198103/) за **7** секунд до пула босса, но только если выполнены **ВСЕ** следующие условия:
 * Вы **не** используете талант {{ site.data.spells.primal_elem }} (усиленные элементали заменяют друг друга).
 * В ближайшие **5** минут вам не потребуется дополнительное здоровье от проводника {{ site.data.conduits.vital }}.
 * Вы используете макрос на призыв [Элементаля земли](https://ru.wowhead.com/spell=198103/), который позволяет не запулить босса раньше времени:
@@ -283,7 +286,7 @@ custom-javascript-list:
 3. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 4. Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
 
-**АоЕ (2+ цели) вне зависимости от наличия [Жажды крови](https://ru.wowhead.com/spell=2825):**
+**АоЕ (2+ цели), вне зависимости от наличия [Жажды крови](https://ru.wowhead.com/spell=2825):**
 1. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 2. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443).
 3. Используйте {{ site.data.spells.fs }}, {{ site.data.covenants.pw }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
