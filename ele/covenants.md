@@ -5,6 +5,8 @@ last_update: 2021-06-25
 wow: 9.1 (кроме медиумов)
 toc: true
 author: Amani
+description: Описание ковенантов и их способностей, а также примеры прокачки медиумов.
+image: /assets/img/logos/covenants.png
 ---
 
 <details markdown=1><summary><i>Подробности про систему ковенантов</i></summary>
