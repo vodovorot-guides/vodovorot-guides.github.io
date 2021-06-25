@@ -6,7 +6,7 @@ wow: 9.1
 toc: true
 author: Amani
 description: В этой статье вы найдете подробное описание всех способностей и многих основных талантов Шамана Стихии. Прикладная энциклопедия по всем аспектам механики и нюансам заклинаний!
-image: /assets/img/logos/spells.jpg
+image: /assets/img/logos/spells.png
 ---
 
 # Вступление
