@@ -1,12 +1,12 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-06-24
+last_update: 2021-06-25
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
-description: Описание ротации Элем Шамана. Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант.
-image: /assets/img/logos/sk_full.png
+description: Описание ротации Шамана Стихии. Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант.
+image: /assets/img/logos/rotation.png
 custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
@@ -14,6 +14,8 @@ custom-javascript-list:
 # Выбор билда
 
 Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант. Английская версия страницы [здесь](https://stormkeeper.ru/ele/rotation_en.html).
+
+Если вы хотите узнать про билды талантов, то загляните на [эту страницу](https://stormkeeper.ru/ele/talents.html), а описание всех способностей и заклинаний Шамана Стихии можно найти [здесь](https://stormkeeper.ru/ele/rotation.html).
 
 <div class="container">
   <div class="row">
