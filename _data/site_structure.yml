@@ -19,8 +19,6 @@ categories:
           url: /ele/legendaries.html
         - title: Характеристики
           url: /ele/stats.html
-      - title: Изменения в Shadowlands
-        url: /ele/prepatch.html
       - title: Weakauras
         url: /ele/weakauras.html
       - title: PvP-гайд
@@ -45,8 +43,6 @@ categories:
           url: /enh/legendaries.html
         - title: Характеристики
           url: /enh/stats.html
-      - title: Изменения в Shadowlands
-        url: /enh/prepatch.html
       - title: Weakauras
         url: /enh/weakauras.html
 
@@ -68,8 +64,6 @@ categories:
           url: /resto/legendaries.html
         - title: Характеристики
           url: /resto/stats.html
-      - title: Изменения в Shadowlands
-        url: /resto/prepatch.html
       - title: Weakauras
         url: /resto/weakauras.html
       - title: Рейдовые фреймы
