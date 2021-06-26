@@ -37,7 +37,7 @@ image: /assets/img/logos/leggos.png
 
 <a href="https://ru.wowhead.com/spell=336734" target="blank" data-wh-icon-size="medium" >**Огненная гибель "Усмирителя небес"**</a> – повышает шанс Критического удара [Огненного шока](https://ru.wowhead.com/spell=188389) на **50%** и каждый критический тик этой способности снижает кулдаун [Элементаля огня](https://ru.wowhead.com/spell=198067) / [Элементаля бури](https://ru.wowhead.com/spell=192249) на **1** секунду.
 
-* **Хорошая легендарка для <span style="color:#40bf40;font-size:1em;">Некролордов</span>** на спред бои.
+* **Хорошая легендарка для <span style="color:#40bf40;font-size:1em;">Некролордов</span>** для спред боев.
 
 * **Источник**: Замок Нафрия – сир Денатрий. 
 * **Слоты**: **Палец** > ~~Грудь~~.
