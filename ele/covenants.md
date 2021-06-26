@@ -1,8 +1,8 @@
 ---
 title: Ковенанты и медиумы – Шаман Стихии
 layout: page
-last_update: 2021-06-25
-wow: 9.1 (кроме медиумов)
+last_update: 2021-06-26
+wow: 9.1 (кроме Вентиров и Кирий)
 toc: true
 author: Amani
 description: Описание ковенантов и их способностей, а также примеры прокачки медиумов.
@@ -71,6 +71,10 @@ image: /assets/img/logos/covenants.png
 
 # <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
+<p align="center">
+<img src="/assets/img/Night_Fae_sigil.png" > 
+</p>
+
 <p align="center" width="100%">
     <img src="/assets/img/fae_idle1.png"> 
 </p>
@@ -94,30 +98,38 @@ image: /assets/img/logos/covenants.png
 * Для шамана эта способность ценна в первую очередь как телепорт, а не как ускорение.
 * Облик души имеет **24** различных вариации, которые открываются по мере прокачки ковенанта. Подробности можно узнать [по этой ссылке](https://www.noob-club.ru/index.php?topic=63075.0).
 
+## <span style="color:#a330c9;font-size:1em;">Легендарный предмет</span>
+
+<a href="https://ptr.wowhead.com/spell=356218/" target="blank" data-wh-icon-size="medium" >**Семена буйной поросли**</a> – каждый раз, когда [Волшебное переливание](https://ru.wowhead.com/spell=328923) наносит урон (максимум **7** раз), время восстановлдения [Элементаля огня](https://ru.wowhead.com/spell=198067) / [Элементаля бури](https://ru.wowhead.com/spell=192249) сокращается на **6** секунд, а вероятность критического удара повышается на **3%** на **15** секунд.
+
+* Суммарно за одно использование [Волшебного переливания](https://ru.wowhead.com/spell=328923) время восстановления элементалей сокращается на **42** секунды.
+* Критичекий удар суммарно повышается на **21%** на **15** секунд.
+* Неплохая легендарка при игре через [Элементаля бури](https://ru.wowhead.com/spell=192249).
+* По сути она заменяет [Огненную гибелью "Усмирителя небес"](https://ru.wowhead.com/spell=336734) для игроков <span style="color:#a330c9;font-size:1em;">**Ночного Народца**</span>, причем с дополнительным увеличением урона за счет баффа на крит и без необходимости развешивать [Огненные шоки](https://ru.wowhead.com/spell=188389).
+* Сочетается с проводником на снижение времени восстановления [Волшебного переливания](https://ru.wowhead.com/spell=328923) – [Извлечение сути](https://ru.wowhead.com/spell=339183/%D0%B8%D0%B7%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%83%D1%82%D0%B8?ilvl=252).
+
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший медиум для боя против **одной цели**.
-
-**Пример прокачки Творца Снов:**
+**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший медиум для боя против **одной цели**. Пример прокачки Творца Снов:
 
 <a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/AwCZZr4BJShxCBMFKX8IFSzvCCVF-ggiBSg9CCUoNgg"></a>
 
 <p></p>
 
-**<span style="color:#a330c9;font-size:1em;">Корейн</span>** – **лучший медиум для Мифик+**. 
-
-**Пример прокачки Корейн:**
+**<span style="color:#a330c9;font-size:1em;">Корейн</span>** – лучший медиум для **Мифик+**. Пример прокачки Корейн:
 
 <a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwCWar4CBShxCCUoeggSBSl_CCUpTAgiFSg9CCUoNgg"></a>
 
-**<span style="color:#a330c9;font-size:1em;">Ния</span>** – после патча **9.1** Ния проигрывает Творцу Снов в бою против одной цели.
-
-**Пример прокачки Нии:**
+**<span style="color:#a330c9;font-size:1em;">Ния</span>** – после патча **9.1** Ния проигрывает Творцу Снов в бою против одной цели. Пример прокачки Нии:
 
 <a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwCWZb4CBShxACUoeggSBSl_CCUs7wgiFSg9CCUoNgg"></a>
 
 
 # <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+
+<p align="center">
+<img src="/assets/img/Necrolord_sigil.png" > 
+</p>
 
 <p align="center" width="100%">
     <img src="/assets/img/necro_idle1.png"> 
@@ -142,61 +154,37 @@ image: /assets/img/logos/covenants.png
 * Этот щит можно накладывать на себя после смерти пака в Мифик+ или прямо перед пулом босса, благо время действия позволяет. 
 * Можно применять перед получением большого разового урона от какой либо абилки босса и сразу же отменять каст.
 
+## <span style="color:#40bf40;font-size:1em;">Легендарный предмет</span>
+
+<a href="https://ptr.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Выброса лавы](https://ru.wowhead.com/spell=51505) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
+
+* Слабая легендарка, проигрывает нашим [стандартным](https://stormkeeper.ru/ele/legendaries.html) вариантам.
+
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – **лучший медиум для рейда и Мифик+**. Дает доступ к **одному** проводнику силы и двум пассивкам – [Откровения мастера кузни](https://ru.wowhead.com/spell=326514) и [Арсенал Гейрмир: оссеиновый самоцвет](https://ru.wowhead.com/spell=326572).
+**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – **лучший медиум для рейда и Мифик+**. Пример прокачки Гейрмир:
 
-* [Откровения мастера кузни](https://ru.wowhead.com/spell=326514) – пассивно повышает Интеллект на **3%** и возвращает вас после смерти на **10** секунд, во время которых вы наносите на **50%** меньше урона и не можете умереть. В этом состоянии вас невозможно исцелить и ваше здоровье не может опуститься ниже **1** единицы. Бафф можно досрочно отменить. WA для отслеживания можно найти [по этой ссылке](https://wago.io/qXdoakKjO).
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwCW6pYBBShxCBIFKX8IJSzyCCMVKD0IJSg2CDUoLAg"></a>
 
-* [Арсенал Гейрмир: оссеиновый самоцвет](https://ru.wowhead.com/spell=326572) – самый сильный пассивный перк медиума, который **дает больше урона, чем второй проводник силы**. После нанесения **10** критических ударов вы получаете бафф на **18%** Критического удара на **10** секунд. Кулдаун на прок **1** минута. 
+**<span style="color:#40bf40;font-size:1em;">Эмени</span>** – проигрывает Гейрмир. Пример прокачки Эмени:
 
-**Пример прокачки Гейрмир:**
+* Дает доступ к **3** проводникам силы. На АоЕ замените [Пирокластический шок](https://ru.wowhead.com/spell=345594/pyroclastic-shock?ilvl=252) на [Сотрясание основ](https://ru.wowhead.com/spell=338252/shake-the-foundations?ilvl=252).
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/ApZqAQUocQYRBSl_BiIVKD0GJSg2Bg"></a>
-
-**<span style="color:#40bf40;font-size:1em;">Эмени</span>** – дает доступ к **двум** проводникам силы и одной пассивке – [Образец для подражания](https://ru.wowhead.com/spell=342156).
-
-* [Образец для подражания](https://ru.wowhead.com/spell=342156) – использование [Первозданной волны](https://ru.wowhead.com/spell=326059) дает бафф на **7.5** секунд, увеличивающий Интеллект на **5%** плюс по **2%** за каждого союзника в радиусе **10** метров. Задетые союзники также получают бафф на **2%** Интеллекта.
-
-**Важно!** Основная характеристика для союзников от трейта {{ site.data.covenants.lead }} не учитывается в Симкрафте.
-
-В бою против **одной цели** и на **АоЕ** **Эмени** проигрывает **Гейрмир**, однако увеличение Интеллекта и бафф союзников, плюс возможность взять проводник [Волна за волной](https://ru.wowhead.com/spell=339186) делают **Эмени** лучшим выбором на некоторых боях, например на **Совете крови** (игроки стоят кучно, есть возможность дотать дополнительные цели) и на **Грязешмяке** ([Первозданная волна](https://ru.wowhead.com/spell=326059) придерживается под разлом колонны и дает бафф на Интеллект в нужный момент).
-
-* **Гейрмир** стоит использовать на Визгунье, Альтиморе, Дестроере, Келе, Зимкосе, Инерве, Генералах, Денатрии
-* **Эмени** стоит использовать на Совете, Грязешмяке.
-
-Для открытия Эмени необходимо пройти **третью** главу кампании ковенанта и выполнить квест [Мятежные души](https://ru.wowhead.com/quest=58665).
-{: class="bordered"}
-
-**Пример прокачки Эмени:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/ApZlAQUocQYSBSl_BhUs8gYhFSg9Bg"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/AwCWZb4CBShxCCUoeggTBSl_CBUs8gglRfoIIRUoPQg"></a>
 
 <p></p>
 
-**<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – лучший вариант для PvP, неплохой вариант для Мифик+. Дает доступ к **двум** проводникам силы и пассивной способности, эффективность которой разнится от инста к инсту – [Нестабильный растворитель](https://ru.wowhead.com/spell=323074).
+**<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – лучший вариант для [PvP](https://stormkeeper.ru/ele/pvp.html). Пример прокачки Марилет:
 
-* [Нестабильный растворитель](https://ru.wowhead.com/spell=323074) – поглощает тела убитых противников, когда вы проходите рядом с ними. Дает бафф на **2** минуты, в зависимости от типа убитого существа:
-
-* [Гуманоиды](https://ru.wowhead.com/spell=323491/) – Искусность увеличена на **2%**.
-* [Аберрации](https://ru.wowhead.com/spell=323497/) – Броня увеличена на **5%**.
-* [Животные](https://ru.wowhead.com/spell=323498/) – Интеллект увеличен на **2%**.
-* [Демоны](https://ru.wowhead.com/spell=323500/) – Выносливость увеличена на **5%**.
-* [Драконы](https://ru.wowhead.com/spell=323502/) – Критический удар увеличен на **2%**.
-* [Элементали](https://ru.wowhead.com/spell=323504/) – Наносимый магический урон увеличен на **3%**.
-* [Великаны](https://ru.wowhead.com/spell=323506/) – Размер увеличен на **10%**. Наносимый физический урон увеличен на **3%**.
-* [Механизмы](https://ru.wowhead.com/spell=323507/) – Получаемый магический урон уменьшен на **5%**.
-* [Нежить](https://ru.wowhead.com/spell=323509/) – Убийство противников исцеляет на **2%** от максимального здоровья.
-
-Лучшие типы сущест для поглощения – элементали, животные, гуманоиды и драконы. Животные и гуманоиды есть практически в любом подземелье, элементали – реже, а драконы вообще практически не встречаются.
-
-**Пример прокачки Марилет:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/ApbuARUoegYSBSl_BhUs8gYhFSg9Bg"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/AwCW5r4BJSh6CBMFKX8IFSzyCCVF-ggiFSg9CCUoLAg"></a>
 
 <p></p>
 
 # <span style="color:#ff4040;font-size:1em;">Вентиры</span>
+
+<p align="center">
+<img src="/assets/img/Venthyr_sigil.png" > 
+</p>
 
 <p align="center" width="100%">
     <img src="/assets/img/venthyr_idle1.png"> 
@@ -204,16 +192,14 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#ff4040;font-size:1em;">Цепная жатва</span>
 
-<a href="https://ru.wowhead.com/spell=320674" target="blank" data-wh-icon-size="medium" >**Цепная жатва**</a> –  смесь двух наших заклинаний, {{ site.data.spells.cl }} и {{ site.data.spells.ch }}, но на **5** целей и с кулдауном в **полторы минуты**.
+<a href="https://ru.wowhead.com/spell=320674" target="blank" data-wh-icon-size="medium" >**Цепная жатва**</a> – смесь двух наших заклинаний, {{ site.data.spells.cl }} и {{ site.data.spells.ch }}, но на **5** целей и с кулдауном в **полторы минуты**.
 
-* Наносит хороший урон на АоЕ, но крайне слабый в бою против одной цели.
 * Нанесение урона и отхил срабатывает одновременно.
 * Старайтесь придерживать эту способность, если в ближайшее время появятся дополнительные адды.
 * Снижает своё время восстановления на **5** секунд за каждое критическое попадание этой способностью, в том числе и от лечения.
 * Максимум время восстановления может снизиться на **50** секунд, то есть до **40** секунд.
-* В сочетании с талантом {{ site.data.spells.ag }} она очень сильно хилит.
 * В первую очередь исцеляет самые раненые цели, то есть является «улучшенным смарт-хилом».
-* **Важно!** Хоть эта способность и выглядит так, будто она перескакивает от одной цели к другой, как {{ site.data.spells.cl }}, механика её работы кардинально отличается. По  сути это круговое АоЕ, которое лечит и дамажит **5** целей вокруг основной. Радиус действия – **20** метров вокруг первоначальной цели. 
+* Хоть эта способность и выглядит так, будто она перескакивает от одной цели к другой, как {{ site.data.spells.cl }}, механика её работы кардинально отличается. По  сути это круговое АоЕ, которое лечит и дамажит **5** целей вокруг основной. Радиус действия – **20** метров вокруг первоначальной цели. 
 * {{ site.data.conduits.harvest }} – проводник, усиливающий эту способность. Увеличение шанса Критического удара как поднимает урон, так и потенциально снижает кулдаун {{ site.data.covenants.ch }}. 
 
 ## <span style="color:#ff4040;font-size:1em;">Врата теней</span>
@@ -224,33 +210,33 @@ image: /assets/img/logos/covenants.png
 * Для пропуска групп врагов в Мифик+ использовать его вряд ли получится, так как дальность телепорта довольно маленькая.  
 * С помощью трейта Наджии [Агент хаоса](https://ru.wowhead.com/spell=331576) можно дезориентировать врагов на **6** секунд, что является очень хорошим инструментом контроля в Мифик+.
 
+## <span style="color:#ff4040;font-size:1em;">Легендарный предмет</span>
+
+<a href="https://ru.wowhead.com/spell=356250" target="blank" data-wh-icon-size="medium" >**Проводник стихий**</a> – к союзникам, исцеленным [Цепной жатвой](https://ru.wowhead.com/spell=320674) применяется [Быстрина](https://ru.wowhead.com/spell=61295). К противникам, получившим урон от [Цепной жатвы](https://ru.wowhead.com/spell=320674) применяется [Огненный шоки](https://ru.wowhead.com/spell=188389).
+
+* Слабая легендарка. На АоЕ такое большое количество [Огненных шоков](https://ru.wowhead.com/spell=188389) [ни к чему](https://stormkeeper.ru/ele/rotation.html), а в бою против одной цели эта лега никак не помогает.
+
 ## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
 
-**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – **лучший медиум для рейда и Мифик+**. Дает доступ к **одному** проводнику силы и двум пассивкам – [Поиск острых ощущений](https://ru.wowhead.com/spell=331586) и [Бесстрашный дуэлянт](https://ru.wowhead.com/spell=331584).
+**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – **лучший медиум для рейда и Мифик+**. Пример прокачки Наджии:
 
-* [Поиск острых ощущений](https://ru.wowhead.com/spell=331586) – «мини-[Жажда крови](https://ru.wowhead.com/spell=2825), увеличивает скорость на **20%** на **10** секунд после набора определенного количества стаков (от времени или убийства мобов).
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQQVKHoEEQUpfwQhFSg9BA"></a>
 
-* [Бесстрашный дуэлянт](https://ru.wowhead.com/spell=331584) – пассивное увеличение урона на **3%** против одной цели. После смерти отмеченной цели, метка переходит к случайному противнику.
+**<span style="color:#ff4040;font-size:1em;">Безумный герцог Теотар</span>** – слабее Наджии. Пример прокачки Теотара:
 
-**Пример прокачки Наджии:**
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/ApbqEQUpfwQjBSg9BBUoNgQlKCwE"></a>
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQQVKHoEEQUpfwQhFSg9BA"></a>
+**<span style="color:#ff4040;font-size:1em;">Генерал Дрейвен</span>** – слабее Наджии. Пример прокачки Дрейвена:
 
-**<span style="color:#ff4040;font-size:1em;">Безумный герцог Теотар</span>** – слабее Наджии. 
-
-**Пример прокачки Теотара:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/ApbqEQUpfwQjBSg9BBUoNgQlKCwE"></a>
-
-**<span style="color:#ff4040;font-size:1em;">Генерал Дрейвен</span>** – слабее Наджии. 
-
-**Пример прокачки Дрейвена:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/shaman/ApZvARUocQQRBSl_BCIFKD0EFSgsBA"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/venthyr/general-draven/shaman/ApZvARUocQQRBSl_BCIFKD0EFSgsBA"></a>
 
 <p></p>
 
 # <span style="color:#68ccef;font-size:1em;">Кирии</span>
+
+<p align="center">
+<img src="/assets/img/Kyrian_sigil.png" > 
+</p>
 
 <p align="center" width="100%">
     <img src="/assets/img/kyrian_idle1.png"> 
@@ -279,27 +265,26 @@ image: /assets/img/logos/covenants.png
 * Может быть полезен для снятия различных опасных дебаффов в рейде или Мифик+.  
 * Не снимает магические эффекты, которые обычно самые опасные, а проклятия шаман может снять самостоятельно.
 
+## <span style="color:#68ccef;font-size:1em;">Легендарный предмет</span>
+
+<a href="https://ru.wowhead.com/spell=356789" target="blank" data-wh-icon-size="medium" >**Яростный перезвон**</a> – израсходовав **3** заряда, [Тотем вечернего колокола](https://ru.wowhead.com/spell=324386) испускает вспышку, нанося противникам в радиусе **15** метров **200%** силы заклинаний и излечивая союзников на **110%** от силы заклинаний.
+
+* Слабая легендарка.
+* Срабатывает по одному разу за каждые **3** активации [Тотема вечернего колокола](https://ru.wowhead.com/spell=324386). То есть для полной реализации леги необходимо и нанести урон, и использовать лечебные способности. 
+
 ## <span style="color:#68ccef;font-size:1em;">Медиумы</span>
 
-**<span style="color:#68ccef;font-size:1em;">Клейя</span>** – выбор для рейда.
+**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – выбор для рейда и Мифик+. Пример прокачки Миканикоса:
 
-**Пример прокачки Клейи:**
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/ApZqAQUocQYRBSl_BiIVKD0GJSg2Bg"></a>
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/ApZqAQUocQQRBSl_BCIVKD0EJSg2BA"></a>
+**<span style="color:#68ccef;font-size:1em;">Клейя</span>** – выбор для рейда. Пример прокачки Клейи:
 
-**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – выбор для Мифик+.
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/ApZqAQUocQQRBSl_BCIVKD0EJSg2BA"></a>
 
-**Пример прокачки Миканикоса:**
+**<span style="color:#68ccef;font-size:1em;">Пелагий</span>** Пример прокачки Пелагия:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/ApZqAQUocQYRBSl_BiIVKD0GJSg2Bg"></a>
-
-**<span style="color:#68ccef;font-size:1em;">Пелагий</span>**
-
-**Пример прокачки Пелагия:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbuARUocQYSBSl_BhVF-gQhFSg9Bg"></a>
-
-
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbuARUocQYSBSl_BhVF-gQhFSg9Bg"></a>
 
 <p></p>
 
