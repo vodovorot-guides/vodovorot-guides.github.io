@@ -1,60 +1,52 @@
 ---
 title: Гайд на Шамана Стихии
 layout: page
-last_update: 2021-06-02
-wow: 9.0.5
-author: Amani
+last_update: 2021-06-26
+wow: 9.1
 toc: true
+author: Amani
+description: Основная информация про Элем Шамана. Выбор ковенанта, лучшие проводники и легендарные предметы, таланты для рейда и Мифик+, описание способностей, ротации и характеристик – в этом руководстве вы найдет это и многое другое.
+image: /assets/img/logos/eleguide.png
 ---
-> **Об авторе:** этот гайд написан **[Amani](https://www.twitch.tv/amanizandalari)**, теорикрафтером, админом крупнейшего русскоязычного шаманского Discord сообщества [«Водоворот»](https://discord.gg/8Bag6kT), а также автором видео на [YouTube канале](https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg) и многих других руководств по шаману. 
-
-# Выбор ковенанта
-
-На данный момент у Элем шамана два отличных ковенанта – <span style="color:#40bf40;font-size:1em;">**Некролорды**</span> и <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>. 
-
-* <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>: отлично для **рейда**, отлично для **Мифик+**, однозначный выбор для **PvP**. 
-
-* <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>: отлично для **рейда**, отлично для **Мифик+**, сомнительно для **PvP**.
-
-* <span style="color:#ff4040;font-size:1em;">**Вентиры**</span> и <span style="color:#68ccef;font-size:1em;">**Кирии**</span> сейчас проигрывают двум другим ковенантам во всех типах контента.
-
-В ковенанте <span style="color:#a330c9;font-size:1em;">**Ночного Народца**</span> вы будете наносить больше урона в бою против одной цели, но <span style="color:#40bf40;font-size:1em;">**Некролорды**</span> полезнее на кливе. Оба варианта подходят для рейда и их эффективность отличается от босса к боссу. В Мифик+ <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> наносит больше урона, за счет пассивки Корейн [Первый удар](https://ru.wowhead.com/spell=325069), но <span style="color:#40bf40;font-size:1em;">**Некролорды**</span> полезнее в Чумных Каскадах и Театре Боли. Для PvP выбор однозначный – <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>.
+**Об авторе:** этот гайд написан **[Amani](https://www.twitch.tv/amanizandalari)** – теорикрафтером, админом крупнейшего русскоязычного шаманского Discord-сообщества [«Водоворот»](https://discord.gg/8Bag6kT), а также автором видео на [YouTube канале](https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg) и многих других руководств по шаману. Канал на Twitch можно найти [по этой ссылке](https://www.twitch.tv/amanizandalari).
 {: class="bordered"}
 
-**При игре на нескольких специализациях:**
+# Ковенант
 
-* **Элем** + **Рестор**: <span style="color:#40bf40;font-size:1em;">**Некролорды**</span> = <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> > все остальные ковенанты.
+<p align="center">
+<img src="/assets/img/Night_Fae_sigil.png">
+<img src="/assets/img/Necrolord_sigil.png"> 
+</p>
 
-* **Элем** + **Энх**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> > все остальные ковенанты.
+На данный момент у Элем шамана два отличных ковенанта – <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> и <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>.
 
-* **Элем** + **Энх** + **Рестор**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> > все остальные ковенанты.
+<span style="color:#68ccef;font-size:1em;">**Кирии**</span> могут заиграть на **57+** уровне известности, а <span style="color:#ff4040;font-size:1em;">**Вентиры**</span> – самый слабый вариант для Элема на данный момент.
 
-{% include button.html name="Полный разбор ковенантов Элем шамана" link="/ele/covenants.html" %}  
+Посмотреть актуальную статистику по распределению игроков среди ковенантов можно по этой [ссылке](https://mplus.subcreation.net/elemental-shaman.html#covenants).
+{: class="bordered"}
+
+{% include button.html name="Подробнее про ковенанты Элем шамана" link="/ele/covenants.html" %}  
 
 <p></p>
 
-# Лучшие проводники
+# Проводники
 
 * {{ site.data.conduits.call }} – **лучший проводник** для любого типа боя.
+* [Сотрясение основ](https://ru.wowhead.com/spell=338252) – используется на АоЕ.
+* [Пирокластический шок](https://ru.wowhead.com/spell=345594) – используется в бою против одной цели.
 
-* Второй слот проводника силы не используется, так как пассивные способности медиумов лучше.
+* Проводник в третий слот зависит от ковенанта и медиума. Пример прокачки медиумов для каждого ковенанта можно найти [здесь](https://stormkeeper.ru/ele/covenants.html).
 
-{% include button.html name="Полный разбор проводников Элем шамана" link="/info/conduits.html" %}  
+{% include button.html name="Подробнее про проводники Элем шамана" link="/info/conduits.html" %}  
 
 <p></p>
 
-# Лучшие легендарные предметы
+# Легендарки
 
-* {{ site.data.legend.lava }} – для **для рейда**.
-* {{ site.data.legend.eogs }} – для **Мифик+**.
-* {{ site.data.legend.fire }} – для **Мифик+** (лучше подходит <span style="color:#40bf40;font-size:1em;">**Некролордам**</span>).
+* {{ site.data.legend.lava }} – для **для рейда**. Спина, Скорость + Универсальность.
+* {{ site.data.legend.eogs }} – для **Мифик+**. Кисти рук, Скорость + Критический удар.
 
-* Рекомендуемые характеристики для крафта – **Скорость** и **Универсальность**.
-
-Выбор между [Огненной гибелью "Усмирителя небес"](https://ru.wowhead.com/spell=336734) и [Отголосками Великого Раскола](https://ru.wowhead.com/spell=336215) зависит от ваших предпочтений/аффиксов/танка/запулов/тиммейтов и других факторов. Лучший вариант – скрафтить обе эти легендарки и посмотреть какая больше всего подойдет именно вам.
-{: class="bordered"}
-
-{% include button.html name="Полный разбор легендарных предметов Элем шамана" link="/ele/legendaries.html" %}  
+{% include button.html name="Подробнее про легендарные предметы Элем шамана" link="/ele/legendaries.html" %}  
 
 <p></p>
 
@@ -70,13 +62,12 @@ toc: true
 
 * Выбор между [Властелином стихий](https://ru.wowhead.com/spell=16166) и [Элементалем бури](https://ru.wowhead.com/spell=192249/) зависит от аффиксов и уровня ключа. Чем толще мобы, тем больше пользы от [Элементалем бури](https://ru.wowhead.com/spell=192249/). Для низких ключей или на тиранических неделях, когда паки умирают достаточно быстро, лучше брать талант [Властелин стихий](https://ru.wowhead.com/spell=16166).
 
-Подробнее про все таланты можно узнать в этой статье:
 
-{% include button.html name="Полный разбор талантов Элем шамана" link="/ele/talents.html" %}  
+{% include button.html name="Подробнее про таланты Элем шамана" link="/ele/talents.html" %}  
 
 <p></p>
 
-# Описание способностей
+# Способности
 
 Подробное описание все заклинаний, включая различные неочевидные и скрытые механики:
 
@@ -84,7 +75,7 @@ toc: true
 
 <p></p>
 
-# Приоритеты и ротация
+# Ротация
 
 * Узнать про все способности и приоритет заклинаний можно [на этой странице](/ele/rotation.html).
 * Выберите интересующие вас таланты, легендарку и ковенант и список приоритетов изменится соответсвующим образом.
@@ -105,7 +96,7 @@ toc: true
 
 * [Симьтесь](https://www.raidbots.com/simbot) персонально для точных данных.
 
-{% include button.html name="Подробности про характеристики Элем шамана" link="/ele/stats.html" %}  
+{% include button.html name="Подробнее про характеристики Элем шамана" link="/ele/stats.html" %}  
 
 <p></p>
 
@@ -139,9 +130,8 @@ toc: true
 
 # PvP
 
-Всё про PvP можно найти в [специальном разделе](https://stormkeeper.ru/ele/pvp.html).
+Всё про PvP можно найти в [специальном разделе](https://stormkeeper.ru/ele/pvp.html) (**9.0.5**).
 
-{% include button.html name="PvP-гайд на Элем Шамана" link="/ele/pvp.html" %}  
 
 <p></p>
 
@@ -149,4 +139,4 @@ toc: true
 
 <p></p>
 
-Обсудить данный гайд можно в дискорд сервере [«Водоворот»](https://discord.gg/8Bag6kT).
+Заходите на мой [Twitch-канал](https://www.twitch.tv/amanizandalari) и на [YouTube](https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg). Обсудить данный гайд можно в дискорд сервере [«Водоворот»](https://discord.gg/vodovorot ).
