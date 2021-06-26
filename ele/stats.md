@@ -1,10 +1,12 @@
 ---
-title: Характеристики шамана Стихии
+title: Характеристики Шамана Стихии
 layout: page
-last_update: 2021-04-13
-wow: 9.0.5
+last_update: 2021-06-26
+wow: 9.1
 author: Amani
 toc: true
+description: Все про характеристки Элем Шамана – подробное описание статов, как правильно их собирать и «Diminishing Returns».
+image: /assets/img/logos/stats.png
 ---
 
 # Вступление
