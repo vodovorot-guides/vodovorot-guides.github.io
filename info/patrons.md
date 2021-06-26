@@ -17,6 +17,7 @@ author: Amani
 * **Sozzzin**
 * **Zab**
 * **Ignis**
+* **Baek**
 * **Зачем**
 * **Всему Discord серверу** [**«Водоворот»**](https://discordapp.com/invite/zTQhBn8)
 
