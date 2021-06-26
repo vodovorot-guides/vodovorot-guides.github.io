@@ -5,17 +5,17 @@ categories:
       - title: Руководство
         url: /ele/intro.html
         subsubcategories:
-        - title: Основная информация
+        - title: Кратко и быстро
           url: /ele/intro.html
-        - title: Заклинания и способности
+        - title: Заклинания
           url: /ele/spells.html   
-        - title: Приоритеты и ротация
+        - title: Ротация
           url: /ele/rotation.html
-        - title: Таланты и билды
+        - title: Таланты
           url: /ele/talents.html
-        - title: Ковенанты и медиумы
+        - title: Ковенанты
           url: /ele/covenants.html
-        - title: Легендарные предметы
+        - title: Легендарки
           url: /ele/legendaries.html
         - title: Характеристики
           url: /ele/stats.html
@@ -31,15 +31,15 @@ categories:
       - title: Руководство
         url: /enh/intro.html
         subsubcategories:
-        - title: Основная информация
+        - title: Кратко и быстро
           url: /enh/intro.html
-        - title: Способности и ротация
+        - title: Ротация
           url: /enh/rotation.html
-        - title: Таланты и билды
+        - title: Таланты
           url: /enh/talents.html
-        - title: Ковенанты и медиумы
+        - title: Ковенанты
           url: /enh/covenants.html
-        - title: Легендарные предметы
+        - title: Легендарки
           url: /enh/legendaries.html
         - title: Характеристики
           url: /enh/stats.html
@@ -52,15 +52,15 @@ categories:
       - title: Руководство
         url: /resto/intro.html
         subsubcategories:
-        - title: Основная информация
+        - title: Кратко и быстро
           url: /resto/intro.html
-        - title: Способности и ротация
+        - title: Способности
           url: /resto/rotation.html
-        - title: Таланты и билды
+        - title: Таланты
           url: /resto/talents.html
-        - title: Ковенанты и медиумы
+        - title: Ковенанты
           url: /resto/covenants.html
-        - title: Легендарные предметы
+        - title: Легендарки
           url: /resto/legendaries.html
         - title: Характеристики
           url: /resto/stats.html
@@ -68,25 +68,24 @@ categories:
         url: /resto/weakauras.html
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
+        divided: true
       - title: Логи хилов и их важность
         url: /resto/logs.html        
       - title: Руководство по QE Live
         url: /resto/qe.html   
-      - title: Лучшие аксессуары
-        url: /resto/trinkets.html
 
   - title: Инфо
     subcategories:
-      - title: Сокращения и аббревиатуры
+      - title: Сокращения
         url: /info/abbrevs.html
-      - title: Полезные макросы
+      - title: Макросы
         url: /info/macros.html
+      - title: Проводники
+        url: /info/conduits.html
+      - title: Руководство по Raidbots
+        url: /info/sim.html
       - title: Количество целей заклинаний
         url: /info/target_cap.html
-      - title: Проводники всех специализаций
-        url: /info/conduits.html
-      - title: Мини-руководство по Raidbots
-        url: /info/sim.html
       - title: Авторы и благодарности
         url: /info/patrons.html
         divided: true
