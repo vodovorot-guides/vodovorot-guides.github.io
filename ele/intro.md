@@ -11,7 +11,11 @@ image: /assets/img/logos/eleguide.png
 **Об авторе:** этот гайд написан **[Amani](https://www.twitch.tv/amanizandalari)** – теорикрафтером, админом крупнейшего русскоязычного шаманского Discord-сообщества [«Водоворот»](https://discord.gg/8Bag6kT), а также автором видео на [YouTube канале](https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg) и многих других руководств по шаману. Канал на Twitch можно найти [по этой ссылке](https://www.twitch.tv/amanizandalari).
 {: class="bordered"}
 
-# Ковенант
+# Раса
+
+Выбор расы для **PvE** практически не имеет значения. Разница в уроне между расами меньше **1%**, выбирайте по внешнему виду или небоевым способностям. Подробнее можно увидеть на [Herodamage](https://www.herodamage.com/shaman/races/1t-t26-elemental) и [Bloodmallet](https://bloodmallet.com/chart/shaman/elemental/races/castingpatchwerk). Про выбор расы для **PvP** вы можете узнать в [PvP-гайде](https://stormkeeper.ru/ele/pvp.html).
+
+# Ковенанты
 
 <p align="center">
 <img src="/assets/img/Night_Fae_sigil.png">
@@ -43,7 +47,7 @@ image: /assets/img/logos/eleguide.png
 
 # Легендарки
 
-* {{ site.data.legend.lava }} – для **для рейда**. Спина, Скорость + Универсальность.
+* {{ site.data.legend.lava }} – для **для рейда**. Плащ, Скорость + Универсальность.
 * {{ site.data.legend.eogs }} – для **Мифик+**. Кисти рук, Скорость + Критический удар.
 
 {% include button.html name="Подробнее про легендарные предметы Элем шамана" link="/ele/legendaries.html" %}  
@@ -139,4 +143,4 @@ image: /assets/img/logos/eleguide.png
 
 <p></p>
 
-Заходите на мой [Twitch-канал](https://www.twitch.tv/amanizandalari) и на [YouTube](https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg). Обсудить данный гайд можно в дискорд сервере [«Водоворот»](https://discord.gg/vodovorot ).
+Заходите на мой [Twitch-канал](https://www.twitch.tv/amanizandalari) и на [YouTube](https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg). Обсудить данный гайд можно в Discord-сервере [«Водоворот»](https://discord.gg/vodovorot ).
