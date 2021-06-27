@@ -78,7 +78,6 @@ You may use [Earth Elemental](https://www.wowhead.com/spell=198103) **7** second
 
 Spell priority list that changes dynamically based on selected talents, legendary and covenant:
 
-1. {:.sk-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff if it expires in less than **3** seconds.
 3. {:.mote-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
 4. {:.lmt-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067).
@@ -127,7 +126,6 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 # Fight Against **2** Targets
 
-1. {:.sk-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff if it expires in less than **3** seconds.
 3. {:.mote-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
 4. {:.lmt-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067).
@@ -174,7 +172,6 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 # Fight Against **3** Targets
 
-1. {:.sk-apl}Cast [Chain Lightning](https://www.wowhead.com/spell=188443) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff if it expires in less than **3** seconds.
 1. {:.eogs-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **two** targets.
 1. {:.lava-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **two** targets.
 1. {:.ee-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **two** targets.
@@ -224,7 +221,6 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 # Fight Against **4** Or More Targets
 
-1. {:.sk-apl}Cast [Chain Lightning](https://www.wowhead.com/spell=188443) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff if it expires in less than **3** seconds.
 1. {:.fire-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **all** targets. 
 1. {:.eogs-apl .mote-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **one** target. 
 1. {:.lava-apl .mote-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **one** target. 
