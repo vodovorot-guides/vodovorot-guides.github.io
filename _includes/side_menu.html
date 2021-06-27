@@ -1,18 +1,12 @@
-{%- assign is_guide = false -%}
 {%- for main_category in site.data.site_structure.categories -%}
   {%- for sub_category in main_category.subcategories -%}
-
-    {%- if sub_category.subsubcategories -%}
-    {%- for sub_sub_category in sub_category.subsubcategories -%}
-
-    {%- if sub_sub_category.url == page.url -%}
-      {%- assign is_guide = true -%}
+    {%- if sub_category.url == page.url -%}
 
       <div class="side-categorybar" id="categorybar">
-        <h3>{{- main_category.title }} &ndash; Гайд</h3>
+        <h3>{{- main_category.title }}</h3>
         <ul>
 
-          {%- for sibling in sub_category.subsubcategories -%}
+          {%- for sibling in main_category.subcategories -%}
             {%- if sibling.url == page.url -%}
             <li><b><a class="side-menu-link" href="{{- sibling.url -}}">{{- sibling.title -}}</a></b></li>
             {%- else -%}
@@ -29,9 +23,6 @@
       </div>
       {%- break -%}
     {%- endif -%}
-    {%- endfor -%}
-    {%- endif -%}
-
   {%- endfor -%}
 {%- endfor -%}
 

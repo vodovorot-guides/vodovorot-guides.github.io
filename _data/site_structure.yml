@@ -5,7 +5,7 @@ categories:
       - title: Кратко и быстро
         url: /ele/intro.html
       - title: Заклинания
-        url: /ele/spells.html   
+        url: /ele/spells.html
       - title: Ротация
         url: /ele/rotation.html
       - title: Таланты
@@ -62,9 +62,9 @@ categories:
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
       - title: Логи хилов и их важность
-        url: /resto/logs.html        
+        url: /resto/logs.html
       - title: Руководство по QE Live
-        url: /resto/qe.html   
+        url: /resto/qe.html
 
   - title: Инфо
     subcategories:
