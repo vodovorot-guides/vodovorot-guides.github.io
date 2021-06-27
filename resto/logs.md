@@ -2,7 +2,7 @@
 title: Логи хилов и их важность
 layout: page
 last_update: 2021-04-15
-wow: 9.0.5
+wow: 9.1
 toc: true
 author: "Haelrail, Omeja, Amani. Оригинал: Niphyr"
 ---
