@@ -1,10 +1,12 @@
 ---
 title: Ротация Шамана Совершенствования
 layout: page
-last_update: 2021-03-20
-wow: 9.0.5
+last_update: 2021-06-27
+wow: 9.1
 toc: true
 author: Amani, Wordup
+description: Описание ротации Шамана Совершенствования. Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант.
+image: /assets/img/logos/rotation.png
 custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
@@ -17,7 +19,7 @@ custom-javascript-list:
 
 # Открывающая ротация, «Opener»
 
-**Опенер** – это фиксированный порядок кастов в самом начале боя. Динамический опенер находится в разработке, ниже представлены стандартный вариант опенера, с талантами {{ site.data.spells.asc_enh }} и с легендаркой {{ site.data.legend.doom }}:
+**Опенер** – это фиксированный порядок кастов в самом начале боя. Ниже представлен стандартный вариант опенера, с талантами {{ site.data.spells.asc_enh }} и с легендаркой {{ site.data.legend.doom }}:
 
 1. {{ site.data.spells.fs }} по дороге к боссу.
 2. {{ site.data.spells.ss }}
