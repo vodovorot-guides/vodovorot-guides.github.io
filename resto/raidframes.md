@@ -2,7 +2,7 @@
 title: Рейдовые фреймы для Шамана Исцеления
 layout: page
 last_update: 2021-02-14
-wow: 9.0.2
+wow: 9.1
 toc: true
 author: "Amani, Haelrail, Omeja, Langrim"
 ---
