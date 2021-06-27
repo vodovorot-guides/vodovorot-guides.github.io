@@ -18,9 +18,9 @@ categories:
         url: /ele/stats.html
       - title: Weakauras
         url: /ele/weakauras.html
+        divided: true
       - title: PvP-гайд
         url: /ele/pvp.html
-        divided: true
 
   - title: Энх
     url: /enh/intro.html
@@ -39,6 +39,7 @@ categories:
         url: /enh/stats.html
       - title: Weakauras
         url: /enh/weakauras.html
+        divided: true
 
   - title: Рестор
     url: /resto/intro.html
@@ -57,9 +58,9 @@ categories:
         url: /resto/stats.html
       - title: Weakauras
         url: /resto/weakauras.html
+        divided: true
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
-        divided: true
       - title: Логи хилов и их важность
         url: /resto/logs.html        
       - title: Руководство по QE Live
