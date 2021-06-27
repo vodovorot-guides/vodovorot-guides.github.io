@@ -5,7 +5,7 @@ last_update: 2021-06-26
 wow: 9.1
 author: Amani
 toc: true
-description: Все про характеристки Элем Шамана – подробное описание статов, как правильно их собирать и «Diminishing Returns».
+description: Все про характеристки Элем Шамана – подробное описание статов, как правильно их собирать и что такое «Diminishing Returns».
 image: /assets/img/logos/stats.png
 ---
 
