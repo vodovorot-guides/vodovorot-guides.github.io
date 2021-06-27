@@ -1,10 +1,12 @@
 ---
 title: Таланты Шамана Исцеления
 layout: page
-last_update: 2021-03-22
-wow: 9.0.5
+last_update: 2021-06-28
+wow: 9.1
 toc: true
-author: "Amani. Оригинал: Niseko"
+author: Amani.  
+description: Описание талантов и билдов Шамана Исцеления. 
+image: /assets/img/logos/talents.png
 ---
 # Таланты для Рейда
 
