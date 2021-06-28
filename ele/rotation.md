@@ -81,7 +81,6 @@ custom-javascript-list:
 
 Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта.
 
-1. {:.sk-apl}{{ site.data.spells.lb }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 3. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 4. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
@@ -130,7 +129,6 @@ custom-javascript-list:
 
 # Бой против **2** целей
 
-1. {:.sk-apl}{{ site.data.spells.lb }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 2. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 3. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
@@ -178,7 +176,6 @@ custom-javascript-list:
 
 # Бой против **3** целей
 
-1. {:.sk-apl}{{ site.data.spells.cl }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 1. {:.eogs-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
 1. {:.lava-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
 1. {:.ee-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
@@ -228,7 +225,6 @@ custom-javascript-list:
 
 # Бой против **4** и более целей
 
-1. {:.sk-apl}{{ site.data.spells.cl }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634), если до конца действия баффа осталось менее **3** секунд. 
 1. {:.fire-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
 1. {:.eogs-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
 1. {:.lava-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
