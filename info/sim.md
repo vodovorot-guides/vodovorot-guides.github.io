@@ -1,10 +1,11 @@
 ---
-title: Мини-руководство по Raidbots
+title: Руководство по Raidbots
 layout: page
-last_update: 2021-02-21
-wow: 9.0.2
+last_update: 2021-07-28
+wow: 9.1
 author: Amani
 toc: true
+description: Мини-руководство по самому полезному инструменту любого дамагера – Raidbots.com. 
 ---
 
 # Вступление
@@ -68,6 +69,7 @@ toc: true
 
 * Бой против **одной цели** стоит симить со следующим параметрами – **Patchwerk**, **1 Boss**, **5 minutes**.
 * На **АоЕ** оптимальным вариантом настроек будет **Patchwerk**, **5 Bosses**, **1 minute**. 
+* Если необходимо просиимить бой в стиле **«Совет»**, когда {{ site.data.spells.fs }} висит на нескольких целях, но вместо [Землетрясения](https://ru.wowhead.com/spell=61882) используется {{ site.data.spells.es }}, то используйте [кастомный APL](https://pastebin.com/uevEyDKn). Код из этой ссылки следует скопировать в раздел **«Custom APL and SimC Options»** внизу страницы.
 
 **Dungeon Slice** представляет собой следующий тип боя:
 
