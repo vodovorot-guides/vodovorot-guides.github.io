@@ -109,7 +109,7 @@ image: /assets/img/logos/shards.png
 * Использование {{ site.data.spells.meteor }}, {{ site.data.spells.eye_storm }} или {{ site.data.spells.harden_skin }} одной кнопкой, в зависимости от вызванного вами элементаля с талантом {{ site.data.spells.primal_elem }}. При взятом таланте {{ site.data.spells.if }} использует её:  
 ~~~
 #showtooltip
-/cast [@mouseover,exists][] [talent:6/2] [pet] Метеорит
+/cast [@target,exists][] [talent:6/2] [pet] Метеорит
 /cast [@mouseover,harm,exists][] [talent:6/2] [pet] Око шторма
 /cast [talent:6/2] [pet] Каменные доспехи
 /cast [@mouseover,harm,exists][] [talent:6/3] Ледяная ярость
@@ -120,7 +120,7 @@ image: /assets/img/logos/shards.png
 #showtooltip
 /cast [@target,harm,exists][@player] Элементаль огня
 /cast [@target,harm,exists][@player] Элементаль бури
-/cast [@mouseover,exists][] [talent:6/2] [pet] Метеорит
+/cast [@target,exists][] [talent:6/2] [pet] Метеорит
 /cast [@mouseover,harm,exists][] [talent:6/2] [pet] Око шторма
 ~~~
 
