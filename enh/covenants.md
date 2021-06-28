@@ -90,7 +90,7 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – также является лучшим выбором для **Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr5YDBShxCBUogAglKHoIEgUpjgglKZsIIRUoPQA"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr5YDBShxCBUogAglKHoIEgUpjgglKZIIIRUoPQg"></a>
 
 <p></p>
 
