@@ -91,7 +91,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#40bf40;font-size:1em;">Эмени</span>** – лучший выбор для **рейда** и **Мифик+**. 
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/AwaW5b4CBShxCCUogAgTBSmjCBUppwglLPIIIRUoPQg"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/AwaW5b4CBShxCCUogAgTBSmjCBUppwglLPIIIRUoPQg"></a>
 
 <p></p>
 
@@ -139,7 +139,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#ff4040;font-size:1em;">Безумный герцог Теотар</span>** – лучший выбор для **рейда** и **Мифик+**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/AwaWZZYBJShxCBMFKaMIFSmnCCUs8QgiBSg9CBUoLAg"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/AwaWZZYBJShxCBMFKaMIFSmnCCUs8QgiBSg9CBUoLAg"></a>
 
 <p></p>
 
@@ -192,7 +192,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#a330c9;font-size:1em;">Корейн</span>** – лучший выбор для **Мифик+**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaWZb4CBSh6CCUocQgTBSmjCBUppwglLO8IIRUoPQg"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaWZb4CBSh6CCUocQgTBSmjCBUppwglLO8IIRUoPQg"></a>
 
 <p></p>
 
@@ -241,10 +241,10 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#68ccef;font-size:1em;">Клейя</span>** – лучший выбор для **рейда**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/AwaWar4CBShxCCUogAgSBSmjCCUppwgiFSg9CCUoLAg"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/AwaWar4CBShxCCUogAgSBSmjCCUppwgiFSg9CCUoLAg"></a>
 
 **<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – лучший выбор для **Мифик+**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwCWZZYBBShxCBMFKY4IFSmnCCUs7ggiFSg2CDV2AAg"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwCWZZYBBShxCBMFKY4IFSmnCCUs7ggiFSg2CDV2AAg"></a>
 
 <p></p>
