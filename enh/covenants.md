@@ -134,11 +134,11 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-**<span style="color:#a330c9;font-size:1em;">Ния</span>** – **лучший медиум для рейда**. Пример прокачки Нии:
+**<span style="color:#a330c9;font-size:1em;">Ния</span>** – **лучший медиум для рейда**:
 
 <a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaWZb4CBShxCCUogAgSBSmOCCUpmwgiFSg9CCV2AAg"></a>
 
-**<span style="color:#a330c9;font-size:1em;">Корейн</span>** – **лучший медиум для Мифик+**. Пример прокачки Корейн:
+**<span style="color:#a330c9;font-size:1em;">Корейн</span>** – **лучший медиум для Мифик+**:
 
 <a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaWapYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDV2AAg"></a>
 
@@ -233,7 +233,7 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – лучший выбор для **рейда** и **Мифик+**. Пример прокачки Гейрмир:
+**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – лучший выбор для **рейда** и **Мифик+**:
 
 <a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaW6pYBBShxCBIFKY4IJSmbCCMVKD0IJXYACDUoNgg"></a>
 
