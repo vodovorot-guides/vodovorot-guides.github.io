@@ -91,7 +91,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#40bf40;font-size:1em;">Эмени</span>** – лучший выбор для **рейда** и **Мифик+**. 
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/AwaW5b4CBShxCCUogAgTBSmjCBUppwglLPIIIRUoPQg"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/AwCWZb4CBShxCCUogAgTBSmjCBUppwglLPIIIRUoPQg"></a>
 
 <p></p>
 
