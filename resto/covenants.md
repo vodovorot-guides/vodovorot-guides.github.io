@@ -91,7 +91,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#40bf40;font-size:1em;">Эмени</span>** – лучший выбор для **рейда** и **Мифик+**. 
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/AwCWZb4CBShxCCUogAgTBSmjCBUppwglLPIIIRUoPQg"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/AwaW5b4CBShxCCUogAgTBSmjCBUppwglLPIIIRUoPQg"></a>
 
 <p></p>
 
@@ -188,7 +188,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший выбор для **рейда**: и **Мифик+**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/Awa5Zr4CBShxCCUogAgTBSmjCBUppwglLO8IISUoPQg"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/Awa5Zr4CBShxCCUogAgTBSmjCBUppwglLO8IISUoPQg"></a>
 
 **<span style="color:#a330c9;font-size:1em;">Корейн</span>** – лучший выбор для **Мифик+**:
 
@@ -245,6 +245,6 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – лучший выбор для **Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwCWZZYBBShxCBMFKY4IFSmnCCUs7ggiFSg2CDV2AAg"></a>
+<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWZZYBBShxCBMFKY4IFSmnCCUs7ggiFSg2CDV2AAg"></a>
 
 <p></p>
