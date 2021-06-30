@@ -34,7 +34,7 @@ image: /assets/img/logos/covenants.png
 Посмотреть актуальную статистику по распределению игроков среди ковенантов можно по этой [ссылке](https://mplus.subcreation.net/enhancement-shaman.html#covenants).
 {: class="bordered"}
 
-* <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>: отлично для **рейда**, отлично для **Мифик+**, отлично для **PvP**.
+* <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>: хороши для **рейда**, отлично для **Мифик+**, отлично для **PvP**.
 
 * <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>: отлично для **рейда**, отлично для **Мифик+**, средне для **PvP**.
 
