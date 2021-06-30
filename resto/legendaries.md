@@ -79,7 +79,7 @@ image: /assets/img/logos/leggos.png
 
 <a href="https://ptr.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – легендарка <span style="color:#40bf40;font-size:1em;">**Некролордов**</span>. Каждый дополнительный эффект [Волны исцеления](https://ru.wowhead.com/spell=77472) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
 
-* Слабая легендарка, проигрывает нашим [стандартным](https://stormkeeper.ru/resto/legendaries.html) вариантам.
+* Слабая легендарка, проигрывает вариантам выше.
 
 # Остальные легендарки
 
