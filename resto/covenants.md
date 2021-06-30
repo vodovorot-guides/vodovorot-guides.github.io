@@ -83,7 +83,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 ## <span style="color:#40bf40;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ptr.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Выброса лавы](https://ru.wowhead.com/spell=51505) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
+<a href="https://ptr.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Волны исцеления](https://ru.wowhead.com/spell=77472) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
 
 * Слабая легендарка, проигрывает нашим [стандартным](https://stormkeeper.ru/resto/legendaries.html) вариантам.
 
@@ -177,7 +177,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 ## <span style="color:#a330c9;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ptr.wowhead.com/spell=356218/" target="blank" data-wh-icon-size="medium" >**Семена буйной поросли**</a> – каждый раз, когда [Волшебное переливание](https://ru.wowhead.com/spell=328923) наносит урон (максимум **7** раз), время восстановлдения [Тотем целительного прилива](https://ru.wowhead.com/spell=108280) сокращается на **5** секунд, а вероятность критического удара повышается на **3%** на **15** секунд.
+<a href="https://ptr.wowhead.com/spell=356218/" target="blank" data-wh-icon-size="medium" >**Семена буйной поросли**</a> – каждый раз, когда [Волшебное переливание](https://ru.wowhead.com/spell=328923) наносит урон (максимум **7** раз), время восстановления [Тотем целительного прилива](https://ru.wowhead.com/spell=108280) сокращается на **5** секунд, а вероятность критического удара повышается на **3%** на **15** секунд.
 
 * Суммарно за одно использование [Волшебного переливания](https://ru.wowhead.com/spell=328923) время восстановления тотема сокращается на **35** секунд.
 * Критичекий удар суммарно повышается на **21%** на **15** секунд.
