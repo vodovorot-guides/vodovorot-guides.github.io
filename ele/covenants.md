@@ -100,7 +100,7 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#a330c9;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ptr.wowhead.com/spell=356218/" target="blank" data-wh-icon-size="medium" >**Семена буйной поросли**</a> – каждый раз, когда [Волшебное переливание](https://ru.wowhead.com/spell=328923) наносит урон (максимум **7** раз), время восстановления [Элементаля огня](https://ru.wowhead.com/spell=198067) / [Элементаля бури](https://ru.wowhead.com/spell=192249) сокращается на **6** секунд, а вероятность критического удара повышается на **3%** на **15** секунд.
+<a href="https://ru.wowhead.com/spell=356218/" target="blank" data-wh-icon-size="medium" >**Семена буйной поросли**</a> – каждый раз, когда [Волшебное переливание](https://ru.wowhead.com/spell=328923) наносит урон (максимум **7** раз), время восстановления [Элементаля огня](https://ru.wowhead.com/spell=198067) / [Элементаля бури](https://ru.wowhead.com/spell=192249) сокращается на **6** секунд, а вероятность критического удара повышается на **3%** на **15** секунд.
 
 * Суммарно за одно использование [Волшебного переливания](https://ru.wowhead.com/spell=328923) время восстановления элементалей сокращается на **42** секунды.
 * Критичекий удар суммарно повышается на **21%** на **15** секунд.
@@ -112,12 +112,12 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#a330c9;font-size:1em;">Ния</span>** – лучший медиум для **рейда**. Пример прокачки Нии:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwCWZb4CBShxACUoeggSBSl_CCUs7wgiFSg9CCUoNgg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwCWZb4CBShxACUoeggSBSl_CCUs7wgiFSg9CCUoNgg"></a>
 
 
 **<span style="color:#a330c9;font-size:1em;">Корейн</span>** – лучший медиум для **Мифик+**. Пример прокачки Корейн:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwCWar4CBShxCCUoeggSBSl_CCUpTAgiFSg9CCUoNgg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwCWar4CBShxCCUoeggSBSl_CCUpTAgiFSg9CCUoNgg"></a>
 
 <p></p>
 
@@ -152,7 +152,7 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#40bf40;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ptr.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Выброса лавы](https://ru.wowhead.com/spell=51505) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
+<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Выброса лавы](https://ru.wowhead.com/spell=51505) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
 
 * Слабая легендарка, проигрывает нашим [стандартным](https://stormkeeper.ru/ele/legendaries.html) вариантам.
 
@@ -160,7 +160,7 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – **лучший медиум для рейда и Мифик+**. Пример прокачки Гейрмир:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwCW6pYBBShxCBIFKX8IJSzyCCMVKD0IJSg2CDUoLAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwCW6pYBBShxCBIFKX8IJSzyCCMVKD0IJSg2CDUoLAg"></a>
 
 <p></p>
 
@@ -208,11 +208,11 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – лучший медиум для **рейда**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwCWZZYBBShxCBMFKX8IFSzuCCVF-ggiFXYACDUoNgg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwCWZZYBBShxCBMFKX8IFSzuCCVF-ggiFXYACDUoNgg"></a>
 
 **<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – также является лучшим выбором для **Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwCWapYBBShxCBIFKX8IJSlMACMVKD0IJXYACDUoNgg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwCWapYBBShxCBIFKX8IJSlMACMVKD0IJXYACDUoNgg"></a>
 
 <p></p>
 
@@ -257,9 +257,9 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – лучший медиум для **рейда**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwCWr5YDBShxCBUoegglKIAIEgUpfwglRfoAIRUoPQg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwCWr5YDBShxCBUoegglKIAIEgUpfwglRfoAIRUoPQg"></a>
 
 **<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – также является лучшим выбором для **Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwCWr5YDBShxCBUoegglKIAIEgUpfwglKUwIIRUoPQg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwCWr5YDBShxCBUoegglKIAIEgUpfwglKUwIIRUoPQg"></a>
 

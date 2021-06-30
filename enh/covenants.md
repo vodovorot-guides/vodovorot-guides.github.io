@@ -85,12 +85,12 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – лучший медиум для **рейда**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr5YDBShxCBUogAglKHoIEgUpjgglKZsIIRUoPQA"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr5YDBShxCBUogAglKHoIEgUpjgglKZsIIRUoPQA"></a>
 
 
 **<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – также является лучшим выбором для **Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr5YDBShxCBUogAglKHoIEgUpjgglKZIIIRUoPQg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr5YDBShxCBUogAglKHoIEgUpjgglKZIIIRUoPQg"></a>
 
 <p></p>
 
@@ -126,7 +126,7 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#a330c9;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ptr.wowhead.com/spell=356218/" target="blank" data-wh-icon-size="medium" >**Семена буйной поросли**</a> – каждый раз, когда [Волшебное переливание](https://ru.wowhead.com/spell=328923) наносит урон (максимум **7** раз), время восстановления [Духа дикого зверя](https://ru.wowhead.com/spell=51533) сокращается на **7** секунд, а вероятность критического удара повышается на **3%** на **15** секунд.
+<a href="https://ru.wowhead.com/spell=356218/" target="blank" data-wh-icon-size="medium" >**Семена буйной поросли**</a> – каждый раз, когда [Волшебное переливание](https://ru.wowhead.com/spell=328923) наносит урон (максимум **7** раз), время восстановления [Духа дикого зверя](https://ru.wowhead.com/spell=51533) сокращается на **7** секунд, а вероятность критического удара повышается на **3%** на **15** секунд.
 
 * Слабая легендарка, снижает КД не настолько сильно, как [Волчьим когтям колдуна](https://ru.wowhead.com/spell=335897). 
 * Суммарно за одно использование [Волшебного переливания](https://ru.wowhead.com/spell=328923) время восстановления [Духа дикого зверя](https://ru.wowhead.com/spell=51533) сокращается на **49** секунд.
@@ -136,11 +136,11 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#a330c9;font-size:1em;">Ния</span>** – **лучший медиум для рейда**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaWZb4CBShxCCUogAgSBSmOCCUpmwgiFSg9CCV2AAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaWZb4CBShxCCUogAgSBSmOCCUpmwgiFSg9CCV2AAg"></a>
 
 **<span style="color:#a330c9;font-size:1em;">Корейн</span>** – **лучший медиум для Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaWapYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDV2AAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaWapYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDV2AAg"></a>
 
 <p></p>
 
@@ -188,11 +188,11 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – лучший медиум для **рейда**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWZZYBBShxCBMFKY4IFSzuCCUpmwgiFSg9CDV2AAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWZZYBBShxCBMFKY4IFSzuCCUpmwgiFSg9CDV2AAg"></a>
 
 **<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – также является лучшим выбором для **Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWapYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDV2AAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWapYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDV2AAg"></a>
 
 
 <p></p>
@@ -227,7 +227,7 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#40bf40;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ptr.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Молнии](https://ru.wowhead.com/spell=188196) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
+<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Молнии](https://ru.wowhead.com/spell=188196) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
 
 * Слабая легендарка, проигрывает нашим [стандартным](https://stormkeeper.ru/enh/legendaries.html) вариантам.
 
@@ -235,6 +235,6 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – лучший выбор для **рейда** и **Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaW6pYBBShxCBIFKY4IJSmbCCMVKD0IJXYACDUoNgg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaW6pYBBShxCBIFKY4IJSmbCCMVKD0IJXYACDUoNgg"></a>
 
 

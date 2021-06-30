@@ -83,7 +83,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 ## <span style="color:#40bf40;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ptr.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Волны исцеления](https://ru.wowhead.com/spell=77472) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
+<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Волны исцеления](https://ru.wowhead.com/spell=77472) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
 
 * Слабая легендарка, проигрывает нашим [стандартным](https://stormkeeper.ru/resto/legendaries.html) вариантам.
 
@@ -91,7 +91,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#40bf40;font-size:1em;">Эмени</span>** – лучший выбор для **рейда** и **Мифик+**. 
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/AwaW5b4CBShxCCUogAgTBSmjCBUppwglLPIIIRUoPQg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/AwaW5b4CBShxCCUogAgTBSmjCBUppwglLPIIIRUoPQg"></a>
 
 <p></p>
 
@@ -139,7 +139,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#ff4040;font-size:1em;">Безумный герцог Теотар</span>** – лучший выбор для **рейда** и **Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/AwaWZZYBJShxCBMFKaMIFSmnCCUs8QgiBSg9CBUoLAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/AwaWZZYBJShxCBMFKaMIFSmnCCUs8QgiBSg9CBUoLAg"></a>
 
 <p></p>
 
@@ -177,7 +177,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 ## <span style="color:#a330c9;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ptr.wowhead.com/spell=356218/" target="blank" data-wh-icon-size="medium" >**Семена буйной поросли**</a> – каждый раз, когда [Волшебное переливание](https://ru.wowhead.com/spell=328923) наносит урон (максимум **7** раз), время восстановления [Тотем целительного прилива](https://ru.wowhead.com/spell=108280) сокращается на **5** секунд, а вероятность критического удара повышается на **3%** на **15** секунд.
+<a href="https://ru.wowhead.com/spell=356218/" target="blank" data-wh-icon-size="medium" >**Семена буйной поросли**</a> – каждый раз, когда [Волшебное переливание](https://ru.wowhead.com/spell=328923) наносит урон (максимум **7** раз), время восстановления [Тотем целительного прилива](https://ru.wowhead.com/spell=108280) сокращается на **5** секунд, а вероятность критического удара повышается на **3%** на **15** секунд.
 
 * Суммарно за одно использование [Волшебного переливания](https://ru.wowhead.com/spell=328923) время восстановления тотема сокращается на **35** секунд.
 * Критичекий удар суммарно повышается на **21%** на **15** секунд.
@@ -188,11 +188,11 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший выбор для **рейда**: и **Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/Awa5Zr4CBShxCCUogAgTBSmjCBUppwglLO8IISUoPQg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/Awa5Zr4CBShxCCUogAgTBSmjCBUppwglLO8IISUoPQg"></a>
 
 **<span style="color:#a330c9;font-size:1em;">Корейн</span>** – лучший выбор для **Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaWZb4CBSh6CCUocQgTBSmjCBUppwglLO8IIRUoPQg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaWZb4CBSh6CCUocQgTBSmjCBUppwglLO8IIRUoPQg"></a>
 
 <p></p>
 
@@ -235,16 +235,16 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 <a href="https://ru.wowhead.com/spell=356789" target="blank" data-wh-icon-size="medium" >**Яростный перезвон**</a> – израсходовав **3** заряда, [Тотем вечернего колокола](https://ru.wowhead.com/spell=324386) испускает вспышку, нанося противникам в радиусе **15** метров **200%** силы заклинаний и излечивая союзников на **110%** от силы заклинаний.
 
 * Срабатывает по одному разу за каждые **3** активации [Тотема вечернего колокола](https://ru.wowhead.com/spell=324386). То есть для полной реализации леги необходимо и нанести урон, и использовать лечебные способности. 
-* Отличная легендарка для нанесения урона, сочетается с трейтом Миканикоса [Бурный акселератор анимы](https://ptr.wowhead.com/spell=352188), который сокращает КД [Тотема вечернего колокола](https://ru.wowhead.com/spell=324386).
+* Отличная легендарка для нанесения урона, сочетается с трейтом Миканикоса [Бурный акселератор анимы](https://ru.wowhead.com/spell=352188), который сокращает КД [Тотема вечернего колокола](https://ru.wowhead.com/spell=324386).
 
 ## <span style="color:#68ccef;font-size:1em;">Медиумы</span>
 
 **<span style="color:#68ccef;font-size:1em;">Клейя</span>** – лучший выбор для **рейда**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/AwaWar4CBShxCCUogAgSBSmjCCUppwgiFSg9CCUoLAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/AwaWar4CBShxCCUogAgSBSmjCCUppwgiFSg9CCUoLAg"></a>
 
 **<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – лучший выбор для **Мифик+**:
 
-<a href="https://ptr.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWZZYBBShxCBMFKY4IFSmnCCUs7ggiFSg2CDV2AAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWZZYBBShxCBMFKY4IFSmnCCUs7ggiFSg2CDV2AAg"></a>
 
 <p></p>
