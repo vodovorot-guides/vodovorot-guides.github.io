@@ -51,49 +51,29 @@
 {% endfor %}
   </tbody>
 </table>
+
 {% if include.switch == true %}
+{% assign covenant_colors = '#68ccef,#ff4040,#a330c9,#40bf40' | split: ',' %}
 <table class="table table-bordered table-light talents-table">
   <tbody>
   <tr class="rotation_switches">
-    <td class="rotation_switch covenants" id="rotation_switch_vt">
-      <input type="radio" name="covenants" id="vt-radio" style="display:none;"
-      {% if include.data.covenant == "kyrian" %} checked{% endif %}>
-      <label for="vt-radio">
-        <a href="https://{{ lang }}.wowhead.com/spell=324386" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
+{% for talent in site.data.talents.common.covenant_talents %}
+    <td class="rotation_switch covenants" id="rotation_switch_{{ talent.tag }}" style="border-bottom: 2px solid {{ covenant_colors[forloop.index0]}};">
+      <input type="radio" name="covenants" id="{{ talent.tag }}-radio" style="display:none;" covenant="{{ talent.cov }}"
+      {% if include.data.covenant == talent.cov %} checked{% endif %}>
+      <label for="{{ talent.tag }}-radio">
+        <a href="https://{{ lang }}.wowhead.com/spell={{ talent.id }}" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
       </label>
     </td>
-
-    <td class="rotation_switch covenants" id="rotation_switch_ch">
-      <input type="radio" name="covenants" id="ch-radio" style="display:none;"
-      {% if include.data.covenant == "venthyr" %} checked{% endif %}>
-      <label for="ch-radio">
-        <a href="https://{{ lang }}.wowhead.com/spell=320674" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
-      </label>
-    </td>
-
-    <td class="rotation_switch covenants" id="rotation_switch_ft">
-      <input type="radio" name="covenants" id="ft-radio" style="display:none;"
-      {% if include.data.covenant == "fae" %} checked{% endif %}>
-      <label for="ft-radio">
-        <a href="https://{{ lang }}.wowhead.com/spell=328923" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
-      </label>
-    </td>
-
-    <td class="rotation_switch covenants" id="rotation_switch_pw">
-      <input type="radio" name="covenants" id="pw-radio" style="display:none;"
-      {% if include.data.covenant == "necrolords" %} checked{% endif %}>
-      <label for="pw-radio">
-        <a href="https://{{ lang }}.wowhead.com/spell=326059" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
-      </label>
-    </td>
+{% endfor %}
   </tr>
   </tbody>
 </table>
 
+{% if include.data.legendaries %}
 <table class="table table-bordered table-light talents-table">
   <tbody>
   <tr class="rotation_switches">
-{% if include.data.legendaries %}
 {% for legendary in include.data.legendaries %}
     <td class="rotation_switch covenants" id="rotation_switch_{{ legendary.tag }}">
       <input type="radio" name="legendaries" id="{{ legendary.tag }}-radio" style="display:none;"
@@ -103,8 +83,19 @@
       </label>
     </td>
 {% endfor %}
-{% endif %}
+  </tr>
+  <tr class="rotation_switches">
+{% for legendary in site.data.talents.common.covenant_legendaries %}
+    <td class="rotation_switch covenants" id="rotation_switch_{{ legendary.tag }}" style="border-bottom: 2px solid {{ covenant_colors[forloop.index0]}};">
+      <input type="radio" name="legendaries" id="{{ legendary.tag }}-radio" style="display:none;" covenant="{{ legendary.tag | split: '_' | last }}"
+      {% if legendary.default %} checked{% endif %}>
+      <label for="{{ legendary.tag }}-radio">
+        <a href="https://{{ lang }}.wowhead.com/spell={{ legendary.id }}" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
+      </label>
+    </td>
+{% endfor %}
   </tr>
   </tbody>
 </table>
+{% endif %}
 {% endif %}

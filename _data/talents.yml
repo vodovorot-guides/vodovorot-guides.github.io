@@ -1,3 +1,27 @@
+common:
+  covenant_talents:
+    - id: 324386
+      tag: "vt"
+      cov: "kyrian"
+    - id: 320674
+      tag: "ch"
+      cov: "venthyr"
+    - id: 328923
+      tag: "ft"
+      cov: "fae"
+    - id: 326059
+      tag: "pw"
+      cov: "necrolords"
+  covenant_legendaries:
+    - id: 356789
+      tag: "leg_kyrian"
+    - id: 356250
+      tag: "leg_venthyr"
+    - id: 356218
+      tag: "leg_fae"
+    - id: 354647
+      tag: "leg_necrolords"
+
 ele:
   covenant: "necrolords"
   legendaries:
