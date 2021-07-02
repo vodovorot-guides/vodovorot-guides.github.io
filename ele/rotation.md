@@ -287,7 +287,7 @@ custom-javascript-list:
 **АоЕ (2+ цели), вне зависимости от наличия [Жажды крови](https://ru.wowhead.com/spell=2825):**
 1. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 2. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443).
-3. Используйте {{ site.data.spells.fs }}, {{ site.data.covenants.pw }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
+3. Используйте {{ site.data.spells.fs }}, [Первозданную волну](https://ru.wowhead.com/spell=326059) и проки [Волн лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 
 # Особенности талантов
 
