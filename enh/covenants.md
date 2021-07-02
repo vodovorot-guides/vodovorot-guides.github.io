@@ -83,14 +83,9 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
 
-**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – лучший медиум для **рейда**:
+**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – лучший медиум для **рейда** и **Мифик+**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr5YDBShxCBUogAglKHoIEgUpjgglKZsIIRUoPQA"></a>
-
-
-**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – также является лучшим выбором для **Мифик+**:
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr5YDBShxCBUogAglKHoIEgUpjgglKZIIIRUoPQg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr74CBShxCBUogAgSBSmOCCUpkggiFSg9CDUoNgg"></a>
 
 <p></p>
 
@@ -134,13 +129,13 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-**<span style="color:#a330c9;font-size:1em;">Ния</span>** – **лучший медиум для рейда**:
+**<span style="color:#a330c9;font-size:1em;">Ния</span>** – лучший медиум для **рейда**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaWZb4CBShxCCUogAgSBSmOCCUpmwgiFSg9CCV2AAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaW5b4CBShxCCUogAgSBSmbCCUs7wgiFSg9CCUoNgg"></a>
 
-**<span style="color:#a330c9;font-size:1em;">Корейн</span>** – **лучший медиум для Мифик+**:
+**<span style="color:#a330c9;font-size:1em;">Корейн</span>** – лучший медиум для **Мифик+**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaWapYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDV2AAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaW6pYBBShxCBIFKY4IJSzvCCMVKD0IJSg2CDUoLAg"></a>
 
 <p></p>
 
@@ -186,14 +181,9 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#68ccef;font-size:1em;">Медиумы</span>
 
-**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – лучший медиум для **рейда**:
+**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – лучший медиум для **рейда** и **Мифик+**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWZZYBBShxCBMFKY4IFSzuCCUpmwgiFSg9CDV2AAg"></a>
-
-**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – также является лучшим выбором для **Мифик+**:
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWapYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDV2AAg"></a>
-
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaW6pYBBShxCBIFKY4IJSzuCCMVKD0IJSg2CDUoLAg"></a>
 
 <p></p>
 
@@ -235,6 +225,6 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – лучший выбор для **рейда** и **Мифик+**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaW6pYBBShxCBIFKY4IJSmbCCMVKD0IJXYACDUoNgg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaWapYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDUoLAg"></a>
 
 
