@@ -299,7 +299,7 @@ Grid, по сути, это просто **«ядро»**, на которое �
 /cast [@mouseover, exists, harm, nodead] [@mouseovertarget, exists, harm, nodead] [@targettarget, exists, harm, nodead] [exists, harm, nodead] Молния
 ~~~
 
-Больше макросов можно найти [в этом разделе](https://stormkeeper.ru/info/macros.htm)
+Больше макросов можно найти [в этом разделе](https://stormkeeper.ru/info/macros.html)
 
 # WeakAuras
 
