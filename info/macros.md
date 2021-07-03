@@ -6,7 +6,7 @@ wow: 9.1
 toc: true
 author: Amani
 description: Здесь вы найдете полезные макросы для Шаманов всех специализаций. Плюс – различные универсальные макросы, которые сделают вашу жизнь лучше и приятнее.
-image: /assets/img/logos/shards.png
+image: /assets/img/logos/macros.png
 ---
 
 # Все специализации
