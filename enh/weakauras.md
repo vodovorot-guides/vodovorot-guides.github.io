@@ -4,6 +4,8 @@ layout: page
 last_update: 2021-06-28
 wow: 9.1
 author: Amani
+description: Некоторые примеры групп WA для Энх Шамана. Больше можно найти на Wago.io.
+image: /assets/img/logos/wa.png
 ---
 [По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/enhancement) можно найти список всех WA для Энха в Shadowlands. 
 
