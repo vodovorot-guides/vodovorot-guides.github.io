@@ -245,6 +245,6 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 **<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – лучший выбор для **Мифик+**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWZZYBBShxCBMFKY4IFSmnCCUs7ggiFSg2CDV2AAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWZZYBBShxCBMFKaMIFSmnCCUs7ggiFSg2CDV2AAg"></a>
 
 <p></p>
