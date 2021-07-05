@@ -5,7 +5,7 @@ last_update: 2021-07-05
 wow: 9.1
 toc: true
 author: Amani
-description: Выбор талантов, легендарки, медиумов для Элема в новом рейде патча 9.1.
+description: Паттерны боев нового рейда из патча 9.1, а также выбор талантов, легендарки, медиумов для Элема.
 image: /assets/img/logos/sanctum.png
 ---
 
@@ -13,7 +13,7 @@ image: /assets/img/logos/sanctum.png
 
 Вся информация в этом разделе подразумевает, что вы в курсе как работают [заклинания](https://stormkeeper.ru/ele/spells.html), [таланты](https://stormkeeper.ru/ele/talents.html) и [легендарки](https://stormkeeper.ru/ele/legendaries.html) Шамана Стихии, а также понимаете основы [ротации](https://stormkeeper.ru/ele/rotation.html). Ознакомьтесь с соответствующими [разделами](https://stormkeeper.ru/ele/intro.html) перед прочтением.
 
-* Тактики на всех боссов на русском языке – [Mythic Trap](https://mythictrap.com/ru/sanctumOfDomination/tarrargue/heroic/none).
+* Тактики на всех боссов на русском языке – [Mythic Trap](https://mythictrap.com/ru/sanctumOfDomination/tarrargue/heroic/none)
 * YouTube канал Амани – [ссылка](https://www.youtube.com/Amanizandalari).
 * Twitch канал Амани – [ссылка](https://www.twitch.tv/amanizandalari).
 
@@ -37,7 +37,7 @@ image: /assets/img/logos/sanctum.png
 ## Таррагр
 
 **Тип боя:** Одна цель  
-**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/tarragrue/heroic/none).  
+**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/tarragrue/heroic/none)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -54,7 +54,7 @@ image: /assets/img/logos/sanctum.png
 ## Око Тюремщика
 
 **Тип боя:** Одна цель / Клив  
-**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/eyeOfTheJailer/heroic/none).  
+**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/eyeOfTheJailer/heroic/none)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -72,7 +72,7 @@ image: /assets/img/logos/sanctum.png
 ## Девять
 
 **Тип боя:** Клив / Одна цель  
-**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/theNine/heroic/none).  
+**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/theNine/heroic/none)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -90,7 +90,7 @@ image: /assets/img/logos/sanctum.png
 ## Душа Нер'зула
 
 **Тип боя:** Одна цель / Клив разрозненных целей   
-**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/nerZhul/heroic/none).  
+**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/nerZhul/heroic/none)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -108,7 +108,7 @@ image: /assets/img/logos/sanctum.png
 ## Раздиратель душ Дормацайн
 
 **Тип боя:** Одна цель / АоЕ  
-**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/dormazain/heroic/none).  
+**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/dormazain/heroic/none)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -126,7 +126,7 @@ image: /assets/img/logos/sanctum.png
 ## Кузнец боли Разнал
 
 **Тип боя:** Одна цель  
-**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/raznal/heroic/none).  
+**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/raznal/heroic/none)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -143,7 +143,7 @@ image: /assets/img/logos/sanctum.png
 ## Стражница Предвечных
 
 **Тип боя:** Одна цель  
-**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/guardian/heroic/none).  
+**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/guardian/heroic/none)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -160,7 +160,7 @@ image: /assets/img/logos/sanctum.png
 ## Писарь судьбы Ро-Кало
 
 **Тип боя:** Одна цель / Клив / АоЕ  
-**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/rohKalo/heroic/none).  
+**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/rohKalo/heroic/none)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -178,7 +178,7 @@ image: /assets/img/logos/sanctum.png
 ## Кел'Тузад
 
 **Тип боя:** Одна цель / Клив / АоЕ  
-**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/kelThuzad/heroic/none).  
+**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/kelThuzad/heroic/none)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -200,7 +200,7 @@ image: /assets/img/logos/sanctum.png
 ## Сильвана Ветрокрылая
 
 **Тип боя:** Одна цель  
-**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/sylvanas/heroic/none).  
+**Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/sylvanas/heroic/none)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
