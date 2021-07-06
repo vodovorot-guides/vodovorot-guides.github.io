@@ -160,7 +160,7 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – **лучший медиум для рейда и Мифик+**. Пример прокачки Гейрмир:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwCW6pYBBShxCBIFKX8IJSzyCCMVKD0IJSg2CDUoLAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwCW6pYBBShxCBIFKX8IJSzyCCMVKD0IJSg2CDV2AAg"></a>
 
 <p></p>
 
