@@ -74,7 +74,6 @@ image: /assets/img/logos/sanctum.png
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
-* {{ site.data.legend.eogs }}
 * {{ site.data.legend.lava }}
 
 ## Девять
@@ -89,11 +88,10 @@ image: /assets/img/logos/sanctum.png
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.wrt }}
-* **45**: {{ site.data.spells.primal_elem }} или {{ site.data.spells.if }}
+* **45**: {{ site.data.spells.if }}
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
-* {{ site.data.legend.eogs }}
 * {{ site.data.legend.lava }}
 
 ## Душа Нер'зула
@@ -127,11 +125,10 @@ image: /assets/img/logos/sanctum.png
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.wrt }}
-* **45**: {{ site.data.spells.primal_elem }}  или {{ site.data.spells.if }}
+* **45**: {{ site.data.spells.primal_elem }}
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
-* {{ site.data.legend.lava }} 
 * {{ site.data.legend.eogs }} 
 
 ## Кузнец боли Разнал
@@ -164,7 +161,7 @@ image: /assets/img/logos/sanctum.png
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.wrt }}
-* **45**: {{ site.data.spells.primal_elem }} или {{ site.data.spells.if }}
+* **45**: {{ site.data.spells.if }}
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
