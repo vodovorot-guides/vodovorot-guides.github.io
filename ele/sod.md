@@ -102,12 +102,11 @@ image: /assets/img/logos/sanctum.png
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.wrt }}
-* **45**: {{ site.data.spells.primal_elem }} 
+* **45**: {{ site.data.spells.primal_elem }} или {{ site.data.spells.if }}
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
 * {{ site.data.legend.lava }}
-* {{ site.data.legend.eogs }}
 
 ## Раздиратель душ Дормацайн
 
