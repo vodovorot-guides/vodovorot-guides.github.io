@@ -131,8 +131,8 @@ image: /assets/img/logos/sanctum.png
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
-* {{ site.data.legend.lava }} – Героик.
-* {{ site.data.legend.eogs }} – Мифик.
+* {{ site.data.legend.lava }} 
+* {{ site.data.legend.eogs }} 
 
 ## Кузнец боли Разнал
 
