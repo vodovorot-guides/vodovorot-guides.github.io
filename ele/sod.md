@@ -13,9 +13,15 @@ image: /assets/img/logos/sanctum.png
 
 Вся информация в этом разделе подразумевает, что вы в курсе как работают [заклинания](https://stormkeeper.ru/ele/spells.html), [таланты](https://stormkeeper.ru/ele/talents.html) и [легендарки](https://stormkeeper.ru/ele/legendaries.html) Шамана Стихии, а также понимаете основы [ротации](https://stormkeeper.ru/ele/rotation.html). Ознакомьтесь с соответствующими [разделами](https://stormkeeper.ru/ele/intro.html) перед прочтением.
 
-* Тактики на всех боссов на русском языке – [Mythic Trap](https://mythictrap.com/ru/sanctumOfDomination/tarrargue/heroic/none)
+* Тактики на всех боссов на русском языке – [Mythic Trap](https://mythictrap.com/ru/sanctumOfDomination/tarrargue/heroic/none).
 * YouTube канал Амани – [ссылка](https://www.youtube.com/Amanizandalari).
 * Twitch канал Амани – [ссылка](https://www.twitch.tv/amanizandalari).
+* Английская версия статьи – [SEL](https://stormearthandlava.com/guide/raids/sod.html).
+* Видео версия статьи – [YouTube](https://youtu.be/NIp5IvYGjMs).
+
+{% include youtube.html id="NIp5IvYGjMs" %}
+
+<p></p>
 
 # Основные моменты
 
@@ -29,7 +35,7 @@ image: /assets/img/logos/sanctum.png
 
 * Прокачку медиумов каждого ковенанта для боя против одной цели и на АоЕ можно посмотреть в [этом разделе](https://stormkeeper.ru/ele/covenants.html).
 
-Данный раздел будет дополнятся. После убийства боссов на Героической и Эпохальной сложности здесь будут представлены записи видео от лица [Элем Шамана](https://www.youtube.com/playlist?list=PLyJJJno2krW2f6_5lsX5UXKlOmUR9aldb), а также разобраны различные полезные фишки, советы и многое другое.
+Данная статья будет дополнятся. После убийства боссов на Героической и Эпохальной сложности здесь будут представлены записи видео от лица [Элем Шамана](https://www.youtube.com/playlist?list=PLyJJJno2krW2f6_5lsX5UXKlOmUR9aldb), а также разобраны различные полезные фишки, советы и многое другое.
 {: class="bordered"}
 
 # Боссы
@@ -38,6 +44,7 @@ image: /assets/img/logos/sanctum.png
 
 **Тип боя:** Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/tarragrue/heroic/none)  
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2423&class=Shaman&spec=Elemental)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -55,6 +62,7 @@ image: /assets/img/logos/sanctum.png
 
 **Тип боя:** Одна цель / Клив  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/eyeOfTheJailer/heroic/none)  
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2433&class=Shaman&spec=Elemental)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -73,6 +81,7 @@ image: /assets/img/logos/sanctum.png
 
 **Тип боя:** Клив / Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/theNine/heroic/none)  
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2429&class=Shaman&spec=Elemental)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -91,6 +100,7 @@ image: /assets/img/logos/sanctum.png
 
 **Тип боя:** Одна цель / Клив разрозненных целей   
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/nerZhul/heroic/none)  
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2432&class=Shaman&spec=Elemental)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -109,6 +119,7 @@ image: /assets/img/logos/sanctum.png
 
 **Тип боя:** Одна цель / АоЕ  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/dormazain/heroic/none)  
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2434&class=Shaman&spec=Elemental)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -127,6 +138,7 @@ image: /assets/img/logos/sanctum.png
 
 **Тип боя:** Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/raznal/heroic/none)  
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2430&class=Shaman&spec=Elemental)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -144,6 +156,7 @@ image: /assets/img/logos/sanctum.png
 
 **Тип боя:** Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/guardian/heroic/none)  
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2436&class=Shaman&spec=Elemental)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -161,6 +174,7 @@ image: /assets/img/logos/sanctum.png
 
 **Тип боя:** Одна цель / Клив / АоЕ  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/rohKalo/heroic/none)  
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2431&class=Shaman&spec=Elemental)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -179,6 +193,7 @@ image: /assets/img/logos/sanctum.png
 
 **Тип боя:** Одна цель / Клив / АоЕ  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/kelThuzad/heroic/none)  
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2422&class=Shaman&spec=Elemental)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -201,6 +216,7 @@ image: /assets/img/logos/sanctum.png
 
 **Тип боя:** Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/sylvanas/heroic/none)  
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2435&class=Shaman&spec=Elemental)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
