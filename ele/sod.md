@@ -209,7 +209,7 @@ image: /assets/img/logos/sanctum.png
 * {{ site.data.legend.eogs }}
 
 * На Кел'Тузаде выбор легендарки и талантов зависит от того, в какой мир вы отправляетесь. Здесь есть два варианта – остаться в основном мире и сражаться с различными аддами, либо зайти в филактерию и сражаться с одной целью.
-* В первом случае берется **АоЕ** билд ({{ site.data.legend.eogs }}, {{ site.data.spells.primal_elem }}, {{ site.data.spells.eb }}), во втором – **СТ** ({{ site.data.legend.lava }}, {{ site.data.spells.if }}, {{ site.data.spells.eb }}).
+* В первом случае берется **АоЕ** билд ({{ site.data.legend.eogs }}, {{ site.data.spells.primal_elem }}, {{ site.data.spells.afs }}), во втором – **СТ** ({{ site.data.legend.lava }}, {{ site.data.spells.if }}, {{ site.data.spells.eb }}).
 * Заранее уточните у вашего рейд-лидера в какую группу вы назначены и подбирайте билд соответствующим образом.
 
 ## Сильвана Ветрокрылая
