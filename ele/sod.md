@@ -19,10 +19,6 @@ image: /assets/img/logos/sanctum.png
 * Английская версия статьи – [SEL](https://stormearthandlava.com/guide/raids/sod.html).
 * Видео версия статьи – [YouTube](https://youtu.be/NIp5IvYGjMs).
 
-{% include youtube.html id="NIp5IvYGjMs" %}
-
-<p></p>
-
 # Основные моменты
 
 * Пока вы в форме {{ site.data.spells.wolf }}, вы теряете ДПС. Правильно используйте {{ site.data.spells.swg }} для сокращения потерь урона во время движения. Подробнее про урон во время движения можно почитать [здесь](https://stormkeeper.ru/ele/rotation.html#%D1%83%D1%80%D0%BE%D0%BD-%D0%B2-%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8).
