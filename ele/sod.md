@@ -178,7 +178,6 @@ image: /assets/img/logos/sanctum.png
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
-* {{ site.data.legend.lava }}
 * {{ site.data.legend.eogs }}
 
 ## Кел'Тузад
