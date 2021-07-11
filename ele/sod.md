@@ -186,21 +186,29 @@ image: /assets/img/logos/sanctum.png
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/kelThuzad/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2422&class=Shaman&spec=Elemental)
 
-**Таланты:**
+**Таланты для верхнего мира:**
 * **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.eb }} или {{ site.data.spells.afs }} 
+* **25**: {{ site.data.spells.afs }} 
+* **30**: {{ site.data.spells.spirit_wolf }}
+* **35**: {{ site.data.spells.storm }} или {{ site.data.spells.mote }} 
+* **40**: {{ site.data.spells.wrt }}
+* **45**: {{ site.data.spells.primal_elem }}
+* **50**: {{ site.data.spells.sk }}
+
+**Таланты для филактерии:**
+* **15**: {{ site.data.spells.eote }}
+* **25**: {{ site.data.spells.eb }}
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.wrt }}
-* **45**: {{ site.data.spells.primal_elem }} или {{ site.data.spells.if }}
+* **45**: {{ site.data.spells.if }}
 * **50**: {{ site.data.spells.sk }}
-
+* 
 **Легендарные предметы:**
-* {{ site.data.legend.lava }}
-* {{ site.data.legend.eogs }}
+* {{ site.data.legend.eogs }} – верхний мир.
+* {{ site.data.legend.lava }} – филактерия.
 
 * На Кел'Тузаде выбор легендарки и талантов зависит от того, в какой мир вы отправляетесь. Здесь есть два варианта – остаться в основном мире и сражаться с различными аддами, либо зайти в филактерию и сражаться с одной целью.
-* В первом случае берется **АоЕ** билд ({{ site.data.legend.eogs }}, {{ site.data.spells.primal_elem }}, {{ site.data.spells.afs }}), во втором – **СТ** ({{ site.data.legend.lava }}, {{ site.data.spells.if }}, {{ site.data.spells.eb }}).
 * Заранее уточните у вашего рейд-лидера в какую группу вы назначены и подбирайте билд соответствующим образом.
 
 ## Сильвана Ветрокрылая
