@@ -83,10 +83,9 @@ custom-javascript-list:
 
 # Бой на АоЕ
 
-Ротация на АоЕ при взятых талантах {{ site.data.spells.fw }}, {{ site.data.spells.flurry }}, {{ site.data.spells.hailstorm }}, {{ site.data.spells.sunder }} и {{ site.data.spells.asc_enh }}:
+Ротация на АоЕ при взятых талантах {{ site.data.spells.fw }}, {{ site.data.spells.flurry }}, {{ site.data.spells.sunder }} и {{ site.data.spells.asc_enh }}:
 
 1. {{ site.data.spells.wt }} – если тотем не активен.
-2. {{ site.data.spells.frs }} с баффом {{ site.data.spells.hailstorm }}.
 3. {{ site.data.spells.asc_enh }}, стараясь задеть максимальное количество целей при активации.
 5. {{ site.data.spells.sunder }} на максимально количество целей.
 7. {{ site.data.spells.cl }} при **5+** стаках {{ site.data.spells.mw }}.
