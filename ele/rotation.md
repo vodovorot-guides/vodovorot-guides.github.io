@@ -39,7 +39,6 @@ custom-javascript-list:
 1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
 3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
 3. {:.lmt-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
-3. {:.storm-apl}{{ site.data.spells.storm }} за **3.5** секунды до пула.
 5. {:.eb-apl}{{ site.data.spells.eb }} прекастом за **2** секунды до пула.
   * ***Пул босса.***
 6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
@@ -52,6 +51,7 @@ custom-javascript-list:
 5. {:.ft-apl}{{ site.data.spells.fs }}. 
 5. {:.vt-apl}{{ site.data.spells.fs }}. 
 5. {:.ch-apl}{{ site.data.spells.fs }}. 
+3. {:.storm-apl}{{ site.data.spells.storm }}
 5. {:.eb-apl}{{ site.data.spells.lvb }}.
 2. {:.ft-apl}{{ site.data.covenants.ft }}.
 6. {:.sk-apl .pw-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
