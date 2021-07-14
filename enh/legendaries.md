@@ -119,7 +119,7 @@ image: /assets/img/logos/leggos.png
 * Слабая легендарка.
 * Срабатывает по одному разу за каждые **3** активации [Тотема вечернего колокола](https://ru.wowhead.com/spell=324386). То есть для полной реализации леги необходимо и нанести урон, и использовать лечебные способности. 
 
-<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – легендарка <span style="color:#40bf40;font-size:1em;">**Некролордов**</span>. Каждый дополнительный эффект [Молнии](https://ru.wowhead.com/spell=188196) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
+<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – легендарка <span style="color:#40bf40;font-size:1em;">**Некролордов**</span>. Каждый дополнительный эффект [Молнии](https://ru.wowhead.com/spell=188196) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **8%** на **10** секунд.
 
 * **Источник**: **48** уровень известности.
 * **Слоты**: **Шея** > ~~Пояс~~.
