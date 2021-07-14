@@ -116,7 +116,7 @@ image: /assets/img/logos/leggos.png
 * Несмотря на то, что эта легендарка относится к Рестору, её все равно можно скрафтить и использовать.
 * Может пригодиться в ПвП для дополнительной выживаемости.
 
-<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – легендарка <span style="color:#40bf40;font-size:1em;">**Некролордов**</span>. Каждый дополнительный эффект [Выброса лавы](https://ru.wowhead.com/spell=51505) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
+<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – легендарка <span style="color:#40bf40;font-size:1em;">**Некролордов**</span>. Каждый дополнительный эффект [Выброса лавы](https://ru.wowhead.com/spell=51505) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **8%** на **10** секунд.
 
 * **Источник**: **48** уровень известности.
 * **Слоты**: **Шея** > ~~Пояс~~.
