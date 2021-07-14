@@ -77,7 +77,7 @@ image: /assets/img/logos/leggos.png
 * Отличная легендарка для нанесения урона, сочетается с трейтом Миканикоса [Бурный акселератор анимы](https://ru.wowhead.com/spell=352188), который сокращает КД [Тотема вечернего колокола](https://ru.wowhead.com/spell=324386).
 
 
-<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – легендарка <span style="color:#40bf40;font-size:1em;">**Некролордов**</span>. Каждый дополнительный эффект [Волны исцеления](https://ru.wowhead.com/spell=77472) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
+<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – легендарка <span style="color:#40bf40;font-size:1em;">**Некролордов**</span>. Каждый дополнительный эффект [Волны исцеления](https://ru.wowhead.com/spell=77472) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **8%** на **10** секунд.
 
 * Слабая легендарка, проигрывает вариантам выше.
 
