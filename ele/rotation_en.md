@@ -1,7 +1,7 @@
 ---
 title: Elemental Shaman Priority List
 layout: page
-last_update: 2021-06-23
+last_update: 2021-07-17
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
