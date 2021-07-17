@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-06-25
+last_update: 2021-07-17
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
@@ -10,6 +10,14 @@ image: /assets/img/logos/rotation.png
 custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
+
+<details markdown=1><summary><i>Журнал изменений</i></summary>
+<br>
+
+**17.07.2021**: Добавлено пояснение про использование [Огненного шока](https://ru.wowhead.com/spell=188389) и [Выброса лавы](https://ru.wowhead.com/spell=51505/) по проку [Волны лавы](https://ru.wowhead.com/spell=77756) на **3** и **4+** цели со взятым [Элементалем бури](https://ru.wowhead.com/spell=192249).
+
+</details>
+<p></p>
 
 # Выбор билда
 
