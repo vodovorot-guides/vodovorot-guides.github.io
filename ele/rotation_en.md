@@ -218,6 +218,10 @@ Spell priority list that changes dynamically based on selected talents, legendar
 29. Cast [Chain Lightning](https://www.wowhead.com/spell=188443).
 31. {:.if-apl}[Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **3** targets. Using [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
 32. {:.discharge-apl}Looks like you accidentally selected [Static Discharge](https://www.wowhead.com/spell=342243) talent. It is highly recommended to reconsider your choice.
+33. {:.storm-apl .lava-apl}[Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
+33. {:.storm-apl .ee-apl}[Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
+34. {:.storm-apl .eogs-apl}[Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
+
 
 # Fight Against **4** Or More Targets
 
@@ -263,3 +267,6 @@ Spell priority list that changes dynamically based on selected talents, legendar
 31. {:.if-apl}[Icefury](https://www.wowhead.com/spell=210714) shouldn’t be used against **4+** targets. Using [Primal Elementalist](https://www.wowhead.com/spell=117013) is recommended instead.
 32. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014) shouldn’t be used against **4+** targets. Using [Aftershock](https://www.wowhead.com/spell=273221) is recommended instead.
 32. {:.discharge-apl}Looks like you accidentally selected [Static Discharge](https://www.wowhead.com/spell=342243) talent. It is highly recommended to reconsider your choice.
+33. {:.storm-apl .lava-apl}[Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
+33. {:.storm-apl .ee-apl}[Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
+34. {:.storm-apl .eogs-apl}[Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
