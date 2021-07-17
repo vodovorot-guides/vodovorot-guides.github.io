@@ -224,6 +224,9 @@ custom-javascript-list:
 29. {{ site.data.spells.cl }}.
 31. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
 32. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
+33. {:.storm-apl .lava-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+33. {:.storm-apl .ee-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+34. {:.storm-apl .eogs-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
 
 # Бой против **4** и более целей
 
@@ -269,6 +272,10 @@ custom-javascript-list:
 31. {:.if-apl}{{ site.data.spells.if }} в бою против **4** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
 32. {:.eb-apl}{{ site.data.spells.eb }} в бою против **4** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
 33. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}. 
+33. {:.storm-apl .lava-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+33. {:.storm-apl .ee-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+34. {:.storm-apl .eogs-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+
 
 # Приоритеты во время активного Элементаля бури
 
