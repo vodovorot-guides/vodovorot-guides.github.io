@@ -15,6 +15,7 @@ custom-javascript-list:
 <br>
 
 **17.07.2021**: Добавлено пояснение про использование [Огненного шока](https://ru.wowhead.com/spell=188389) и [Выброса лавы](https://ru.wowhead.com/spell=51505/) по проку [Волны лавы](https://ru.wowhead.com/spell=77756) на **3** и **4+** цели со взятым [Элементалем бури](https://ru.wowhead.com/spell=192249).
+**18.07.2021**: Убран [Выброс лавы](https://ru.wowhead.com/spell=51505/) в опенере через [Элементаля бури](https://ru.wowhead.com/spell=192249).
 
 </details>
 <p></p>
