@@ -66,11 +66,12 @@ custom-javascript-list:
 6. {:.sk-apl .vt-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 6. {:.sk-apl .ch-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 6. {:.eote-apl .ecs-apl}{{ site.data.spells.ecs }}.
-7. {:.eote-apl}{{ site.data.spells.lvb }}.
-2. {:.sk-apl .ft-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
-8. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
-9. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
-10. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
+7. {:.eote-apl .lmt-apl}{{ site.data.spells.lvb }}.
+8. {:.eote-apl .mote-apl}{{ site.data.spells.lvb }}.
+9. {:.sk-apl .ft-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+10. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
+11. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
+12. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
 26. {:.lmt-apl}{{ site.data.spells.lmt }}.
 27. {:.ch-apl}{{ site.data.covenants.ch }}.
 28. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
