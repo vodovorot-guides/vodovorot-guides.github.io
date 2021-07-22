@@ -79,7 +79,7 @@ You may use [Earth Elemental](https://www.wowhead.com/spell=198103) **7** second
 
 Spell priority list that changes dynamically based on selected talents, legendary and covenant:
 
-1. {:.if-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) if [Icefury](https://www.wowhead.com/spell=210714) buff is about to expire in order to not waste its stacks
+1. {:.if-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) if [Icefury](https://www.wowhead.com/spell=210714) buff is about to expire in order to not waste it's stacks.
   * {:.storm-apl}Please, do not use [Icefury](https://www.wowhead.com/spell=210714) and [Storm Elemental](https://www.wowhead.com/spell=192249) together. Thanks!
 3. {:.mote-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
@@ -129,7 +129,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 # Fight Against **2** Targets
 
-1. {:.if-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) if [Icefury](https://www.wowhead.com/spell=210714) buff is about to expire in order to not waste its stacks
+1. {:.if-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) if [Icefury](https://www.wowhead.com/spell=210714) buff is about to expire in order to not waste it's stacks.
   * {:.storm-apl}Please, do not use [Icefury](https://www.wowhead.com/spell=210714) and [Storm Elemental](https://www.wowhead.com/spell=192249) together. Thanks!
 3. {:.mote-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
