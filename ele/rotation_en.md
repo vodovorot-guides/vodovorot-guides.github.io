@@ -88,7 +88,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 2. Cast [Flame Shock](https://www.wowhead.com/spell=188389) if it’s not up on a target.
   * {:.storm-apl}Don’t use [Flame Shock](https://www.wowhead.com/spell=188389) if you have **18+** stacks of [Wind Gust](https://www.wowhead.com/spell=263806) while your [Storm Elemental](https://www.wowhead.com/spell=192249) is active. 
 18. {:.ft-apl .storm-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
-  * Don’t use  [Fae Transfusion](https://www.wowhead.com/spell=328923) if you have **18+** stacks of [Wind Gust](https://www.wowhead.com/spell=263806) while your [Storm Elemental](https://www.wowhead.com/spell=192249) is active. 
+  * Don’t use [Fae Transfusion](https://www.wowhead.com/spell=328923) if you have **18+** stacks of [Wind Gust](https://www.wowhead.com/spell=263806) while your [Storm Elemental](https://www.wowhead.com/spell=192249) is active. 
 5. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249).
   * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) used [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
 6. {:.asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
@@ -140,7 +140,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
  1. Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **two** targets.
    * {:.storm-apl}Don’t use [Flame Shock](https://www.wowhead.com/spell=188389) if [Storm Elemental](https://www.wowhead.com/spell=192249) is active.
 18. {:.ft-apl .storm-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
-  * Don’t use  [Fae Transfusion](https://www.wowhead.com/spell=328923) if you have **18+** stacks of [Wind Gust](https://www.wowhead.com/spell=263806) while your [Storm Elemental](https://www.wowhead.com/spell=192249) is active. 
+  * Don’t use [Fae Transfusion](https://www.wowhead.com/spell=328923) if you have **18+** stacks of [Wind Gust](https://www.wowhead.com/spell=263806) while your [Storm Elemental](https://www.wowhead.com/spell=192249) is active. 
 5. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249).
   * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) used [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
 6. {:.asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
