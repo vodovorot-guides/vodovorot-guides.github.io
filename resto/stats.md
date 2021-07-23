@@ -1,7 +1,7 @@
 ---
 title: Характеристики шамана Исцеления
 layout: page
-last_update: 2021-06-28
+last_update: 2021-07-23
 wow: 9.1
 toc: true
 author: Amani
@@ -22,6 +22,10 @@ image: /assets/img/logos/stats.png
 Вес характеристик для вашего персонажа в конкретном бою можно увидеть, если загрузить ваш лог в [WoWAnalyzer](https://wowanalyzer.com/).
 
 С выбором вещей поможет [QE Live](https://questionablyepic.com/live/).
+
+{% include button.html name="Руководство по QE Live – подбор вещей для Рестора" link="/resto/qe.html" %}  
+
+<p></p>
 
 # Формулы расчета заклинаний
 
