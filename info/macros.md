@@ -14,7 +14,7 @@ image: /assets/img/logos/macros.png
 * Универсальный маусовер макрос для атакующих заклинаний. Если у вас есть противник под курсором – кинет в него, иначе в вашу цель. Удобно развешивать {{ site.data.spells.fs }} не меняя текущей цели. Можно использовать для таких заклинаний, как {{ site.data.spells.lb }}, {{ site.data.spells.lvb }}, {{ site.data.spells.purge }} и других:
 ~~~
 #showtooltip  
-/cast [@mouseover,harm,exists][] Огненный шок
+/cast [@mouseover,harm,exists,nodead][] Огненный шок
 ~~~
 
 * Вызов [Элементаля земли](https://ru.wowhead.com/spell=198103) без запуливания босса.
