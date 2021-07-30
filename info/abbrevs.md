@@ -92,6 +92,7 @@ image: /assets/img/logos/abbrevs.png
 * {{ site.data.legend.reminder }} – Ancestral Reminder, AR, Ремайндер, Лега на БЛ.
 * {{ site.data.legend.chains }} – Chains of Devastation, Chains, Чейнс, Лега на Цепнухи.
 * {{ site.data.legend.deeply }} – Deeply Rooted Elements, DRE, Лега на Перерождение.
+* [Семена буйной поросли](https://ru.wowhead.com/spell=356218) – Seeds of Rampant Growth, SORG, Сорг, Феечекина лега.
 
 # Стихии
 
