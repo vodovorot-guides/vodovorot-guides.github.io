@@ -1,7 +1,7 @@
 ---
 title: Гайд на Шамана Совершенствования
 layout: page
-last_update: 2021-06-27
+last_update: 2021-07-30
 wow: 9.1
 author: Amani
 toc: true
