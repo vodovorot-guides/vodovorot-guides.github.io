@@ -1,7 +1,7 @@
 ---    
 title: Осколки Господства – все специализации
 layout: page
-last_update: 2021-06-23
+last_update: 2021-07-30
 wow: 9.1
 toc: true
 author: Amani
