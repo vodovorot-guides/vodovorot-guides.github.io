@@ -83,6 +83,21 @@ image: /assets/img/logos/enhguide.png
 
 <p></p>
 
+# Осколки Господства
+
+Собираем следующие осколки:
+* [Осколок Диз](https://ru.wowhead.com/item=187073) – сет-бонус Нечестивости **1/3**.
+* [Осколок Зед](https://ru.wowhead.com/item=187079) – сет-бонус Нечестивости **2/3**.
+* [Осколок От](https://ru.wowhead.com/item=187076) – сет-бонус Нечестивости **3/3**.
+* [Осколок Бек](https://ru.wowhead.com/item=187057) – урон, Кровь.
+* [Осколок Кор](https://ru.wowhead.com/item=187063) – урон, Лед.
+
+* В Мифик+ достаточно трёх осколков на урон – [Осколок Диз](https://ru.wowhead.com/item=187073), [Осколок Бек](https://ru.wowhead.com/item=187057) и [Осколок Кор](https://ru.wowhead.com/item=187063).
+
+{% include button.html name="Подробнее про Осколки Господства" link="/info/shards.html" %}  
+
+<p></p>
+
 # Расходуемые предметы
 
 * {{ site.data.loot.Celestial_Guidance }} – универсальный чант, для всех типов боев.
