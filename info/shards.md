@@ -95,7 +95,7 @@ image: /assets/img/logos/shards.png
 
 ## Рестор
 
-Рестор шаман также берет набор **Нечестивости** – [Осколок Диз](https://ru.wowhead.com/item=187073), [Осколок Зед](https://ru.wowhead.com/item=187079) и [Осколок От](https://ru.wowhead.com/item=187076), а в другие слоты либо два осколка **Льда** ([Осколок Тел](https://ru.wowhead.com/item=187071) и [Осколок Кир](https://ru.wowhead.com/item=187065)), либо осколок **Крови** с самоисцелением – [Осколок Рев](https://ru.wowhead.com/item=187061). 
+Рестор шаман также берет набор **Нечестивости** – [Осколок Диз](https://ru.wowhead.com/item=187073), [Осколок Зед](https://ru.wowhead.com/item=187079) и [Осколок От](https://ru.wowhead.com/item=187076), а в другие слоты идет [Осколок Кир](https://ru.wowhead.com/item=187065)), и на выбор один из двух других вариантов – ([Осколок Тел](https://ru.wowhead.com/item=187071) или [Осколок Рев](https://ru.wowhead.com/item=187061). Эффективность осколков для вашего персонажа можно посмотреть на [QE Live](https://questionablyepic.com/live/dominationgems).
 
 # Часто задаваемые вопросы
 
