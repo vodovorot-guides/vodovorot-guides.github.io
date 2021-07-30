@@ -19,8 +19,6 @@ categories:
       - title: Weakauras
         url: /ele/weakauras.html
         divided: true
-      - title: Святилище Господства
-        url: /ele/sod.html
       - title: PvP-гайд
         url: /ele/pvp.html
 
@@ -70,6 +68,8 @@ categories:
 
   - title: Инфо
     subcategories:
+      - title: Осколки Господства
+        url: /info/shards.html
       - title: Сокращения
         url: /info/abbrevs.html
       - title: Макросы
