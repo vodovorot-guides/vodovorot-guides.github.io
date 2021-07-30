@@ -1,7 +1,7 @@
 ---
 title: Гайд на Шамана Исцеления
 layout: page
-last_update: 2021-07-27
+last_update: 2021-07-30
 wow: 9.1
 author: Amani
 toc: true
@@ -96,6 +96,20 @@ image: /assets/img/logos/restoguide.png
 * **Искусность** – ей можно иметь столько, сколько есть у вас на шмоте, нет смысла собирать её специально.
 
 {% include button.html name="Подробности про характеристики Рестор шамана" link="/resto/stats.html" %}  
+
+<p></p>
+
+# Осколки Господства
+
+Собираем следующие осколки:
+* [Осколок Диз](https://ru.wowhead.com/item=187073) – сет-бонус Нечестивости **1/3**.
+* [Осколок Зед](https://ru.wowhead.com/item=187079) – сет-бонус Нечестивости **2/3**.
+* [Осколок От](https://ru.wowhead.com/item=187076) – сет-бонус Нечестивости **3/3**.
+* [Осколок Кир](https://ru.wowhead.com/item=187065)) – на щиты.
+* [Осколок Тел](https://ru.wowhead.com/item=187071) либо [Осколок Рев](https://ru.wowhead.com/item=187061). 
+
+
+{% include button.html name="Подробнее про Осколки Господства" link="/info/shards.html" %}  
 
 <p></p>
 
