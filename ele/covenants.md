@@ -152,7 +152,7 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#40bf40;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Выброса лавы](https://ru.wowhead.com/spell=51505) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
+<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Выброса лавы](https://ru.wowhead.com/spell=51505) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **8%** на **10** секунд.
 
 * Слабая легендарка, проигрывает нашим [стандартным](https://stormkeeper.ru/ele/legendaries.html) вариантам.
 
