@@ -1,7 +1,7 @@
 ---
 title: Ковенанты и медиумы – Шаман Стихии
 layout: page
-last_update: 2021-06-26
+last_update: 2021-08-04
 wow: 9.1
 toc: true
 author: Amani
@@ -158,9 +158,15 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – **лучший медиум для рейда и Мифик+**. Пример прокачки Гейрмир:
+**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – **лучший медиум для Мифик+ и АоЕ**. Пример прокачки Гейрмир:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwCW6pYBBShxCBIFKX8IJSzyCCMVKD0IJSg2CDV2AAg"></a>
+
+<p></p>
+
+**<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – **лучший медиум для боя против одной цели**. Пример прокачки Марилета:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/AwCWZr4BJShxCBMFKX8IFSzyCCVF-ggiFSg9CCV2AAg"></a>
 
 <p></p>
 
