@@ -105,7 +105,7 @@ image: /assets/img/logos/restoguide.png
 * [Осколок Диз](https://ru.wowhead.com/item=187073) – сет-бонус Нечестивости **1/3**.
 * [Осколок Зед](https://ru.wowhead.com/item=187079) – сет-бонус Нечестивости **2/3**.
 * [Осколок От](https://ru.wowhead.com/item=187076) – сет-бонус Нечестивости **3/3**.
-* [Осколок Кир](https://ru.wowhead.com/item=187065)) – на щиты.
+* [Осколок Кир](https://ru.wowhead.com/item=187065).
 * [Осколок Тел](https://ru.wowhead.com/item=187071) либо [Осколок Рев](https://ru.wowhead.com/item=187061). 
 
 
