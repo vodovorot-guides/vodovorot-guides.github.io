@@ -110,10 +110,9 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-**<span style="color:#a330c9;font-size:1em;">Ния</span>** – лучший медиум для **рейда**. Пример прокачки Нии:
+**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший медиум для **рейда**, но только в том случае, если вы сможете все **24** секунды стоять в руне от [Цветочного поля]. Иначе стоит взять [Нию](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/AwCWZb4CBShxACUoeggSBSl_CCUs7wgiFSg9CCUoNgg). Пример прокачки Творца Снов:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwCWZb4CBShxACUoeggSBSl_CCUs7wgiFSg9CCUoNgg"></a>
-
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/AwCZZr4BJShxCBMFKX8IFSzvCCVF-ggiBSg9CCV2AAg"></a>
 
 **<span style="color:#a330c9;font-size:1em;">Корейн</span>** – лучший медиум для **Мифик+**. Пример прокачки Корейн:
 
@@ -158,15 +157,15 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – **лучший медиум для Мифик+ и АоЕ**. Пример прокачки Гейрмир:
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwCW6pYBBShxCBIFKX8IJSzyCCMVKD0IJSg2CDV2AAg"></a>
-
-<p></p>
-
 **<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – **лучший медиум для боя против одной цели**. Пример прокачки Марилета:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/AwCWZr4BJShxCBMFKX8IFSzyCCVF-ggiFSg9CCV2AAg"></a>
+
+<p></p>
+
+**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – **лучший медиум для Мифик+ и АоЕ**. Пример прокачки Гейрмир:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwCW6pYBBShxCBIFKX8IJSzyCCMVKD0IJSg2CDV2AAg"></a>
 
 <p></p>
 
