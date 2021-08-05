@@ -5,7 +5,7 @@ last_update: 2021-07-05
 wow: 9.1
 toc: true
 author: Amani
-description: Паттерны боев нового рейда из патча 9.1, а также выбор талантов, легендарки, медиумов для Элема.
+description: Всё про боссов рейда Святилище Господства – выбор талантов, легендарки, паттерны боев, советы и многое другое.
 image: /assets/img/logos/sanctum.png
 ---
 
@@ -158,9 +158,9 @@ image: /assets/img/logos/sanctum.png
 
 **Советы:**
 * Чтобы не улетать с платформы, всегда смотрите в сторону пропасти при диспеле. По команде рейд-лидера занимайте позицию либо ближе к пропасти, либо ближе к центру босса.
-* Феечкам лучше использовать здесь [Корейн](https://ru.wowhead.com/soulbind-calc/night-fae/korayn/shaman/AwCWar4BJShxCBIFKX8IJSzvCCIVdgAIJSg9CA) и получать **25%** крита от [Первого удара](https://ru.wowhead.com/spell=325069/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D1%83%D0%B4%D0%B0%D1%80) в нужные моменты. Желательно перед [Земным шоком](https://ru.wowhead.com/spell=8042) и перед усиленными [Ледяными шоками](https://ru.wowhead.com/spell=196840).
-* Используйте [Астральный сдвиг](https://ru.wowhead.com/spell=108271) под раскол на переходке босса, на **60%** и **30%** здоровья босса.
-* Больше всего урона на боссе входит на последней фазе, приберегите туда [Элементаля земли](https://ru.wowhead.com/spell=198103).
+* Феечкам лучше использовать здесь [Корейн](https://ru.wowhead.com/soulbind-calc/night-fae/korayn/shaman/AwCWar4BJShxCBIFKX8IJSzvCCIVdgAIJSg9CA) и получать **25%** крита от [Первого удара](https://ru.wowhead.com/spell=325069/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D1%83%D0%B4%D0%B0%D1%80) в нужные моменты. Желательно перед [Земным шоком](https://ru.wowhead.com/spell=8042) и усиленными [Ледяными шоками](https://ru.wowhead.com/spell=196840).
+* Используйте [Астральный сдвиг](https://ru.wowhead.com/spell=108271) под раскол во время переходки, на **60%** и **30%** здоровья босса.
+* Больше всего урона на боссе входит на последней фазе, приберегите туда [Элементаля земли](https://ru.wowhead.com/spell=198103) с проводником [Прирост жизненных сил](https://ru.wowhead.com/spell=337981/%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D1%81%D1%82-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%B8%D0%BB?ilvl=252).
 * Если на вас кинулось несколько доток, прохиливайтесь [Исцеляющим всплеском](https://ru.wowhead.com/spell=8004). На последней фазе хилам может быть не до вас.
 
 ## Раздиратель душ Дормацайн
@@ -209,15 +209,23 @@ image: /assets/img/logos/sanctum.png
 **Легендарные предметы:**
 * {{ site.data.legend.lava }}
 
+* На этом боссе крайне важно использовать макрос на [Демонические врата](https://ru.wowhead.com/spell=111771) из начала статьи. Врата используются под последние шипы на переходке, чтобы заспамить всех аддов в одной точке.
 * Бой не про ДПС-чек, а про исполнение механик.
 * Быстро убивайте шары, свичайтесь в них сразу при появлении.
-* * Феечкам лучше использовать здесь [Корейн](https://ru.wowhead.com/soulbind-calc/night-fae/korayn/shaman/AwCWar4BJShxCBIFKX8IJUX6CCIVdgAIJSg9CA) 
+* Феечкам лучше использовать здесь [Корейн](https://ru.wowhead.com/soulbind-calc/night-fae/korayn/shaman/AwCWar4BJShxCBIFKX8IJUX6CCIVdgAIJSg9CA), получая **25%** крита от [Первого удара](https://ru.wowhead.com/spell=325069/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D1%83%D0%B4%D0%B0%D1%80) на каждый спавн шаров.
+* {{ site.data.spells.wrt }} будет полезен на переходке, ставьте его ближе к центру.
+* Самый важный момент момент переходки – сплошная стена с шипами. Чтобы не умереть от неё, можно использовать следующее:
+  * Феечки просто перепрыгивают [Обликом души](https://ru.wowhead.com/spell=310143).
+  * Вентиры... кто вообще играет за Элема в Вентирах?
+  * Некролорды могут использовать следующую комбинацию: щит в инвентаре (вместо посоха), трейты [Обманчивые колыхания](https://ru.wowhead.com/spell=352109) и [Совершенный облик](https://ru.wowhead.com/spell=323095), [Астральный сдвиг](https://ru.wowhead.com/spell=108271) и [Элементаль земли](https://ru.wowhead.com/spell=198103) с проводником [Прирост жизненных сил](https://ru.wowhead.com/spell=337981/%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D1%81%D1%82-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%B8%D0%BB?ilvl=252) (элементаля лучше оставлять на вторую переходку). Желательно также, чтобы на этом моменте стоял [Тотем защиты предков](https://ru.wowhead.com/spell=207399) от Рестор шамана, он даст **10%** здоровья и реснет в случае неудачи. Перед шипами встаньте в центр квадрата на земле, кастуйте [Скульптор плоти](https://ru.wowhead.com/spell=324631/) и не двигайтесь.
+  * Кирии могут попросить БОП от паладина.
+  * Гоблины могут перепрыгнуть шипы с помощью [Реактивного прыжка](https://ru.wowhead.com/spell=69070). Прыгать стоит не через сами шипы, а вне платформы, как бы падая в пропасть и возвращаясь на прыжке на платформу.
 
 ## Стражница Предвечных
 
 **Тип боя:** Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/guardian/heroic/none)  
-**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2436&class=Shaman&spec=Elemental)
+**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2436&class=Shaman&spec=Elemental)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -231,6 +239,9 @@ image: /assets/img/logos/sanctum.png
 **Легендарные предметы:**
 * {{ site.data.legend.lava }}
 
+**Советы:**
+* Раздел в разработке.
+
 ## Писарь судьбы Ро-Кало
 
 **Тип боя:** Одна цель / Клив / АоЕ  
@@ -243,11 +254,15 @@ image: /assets/img/logos/sanctum.png
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.wrt }}
-* **45**: {{ site.data.spells.primal_elem }} или {{ site.data.spells.if }}
+* **45**: {{ site.data.spells.if }}
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
 * {{ site.data.legend.eogs }}
+
+**Советы:**
+* Раздел в разработке.
+* Феечкам лучше использовать здесь [Корейн](https://ru.wowhead.com/soulbind-calc/night-fae/korayn/shaman/AwCWar4BJShxCBIFKX8IJSzvCCIVdgAIJSg9CA)
 
 ## Кел'Тузад
 
@@ -264,21 +279,11 @@ image: /assets/img/logos/sanctum.png
 * **45**: {{ site.data.spells.primal_elem }}
 * **50**: {{ site.data.spells.sk }}
 
-**Таланты для филактерии:**
-* **15**: {{ site.data.spells.eote }}
-* **25**: {{ site.data.spells.eb }}
-* **30**: {{ site.data.spells.spirit_wolf }}
-* **35**: {{ site.data.spells.mote }}
-* **40**: {{ site.data.spells.wrt }}
-* **45**: {{ site.data.spells.if }}
-* **50**: {{ site.data.spells.sk }}
-* 
 **Легендарные предметы:**
-* {{ site.data.legend.eogs }} – верхний мир.
-* {{ site.data.legend.lava }} – филактерия.
+* {{ site.data.legend.eogs }}
 
-* На Кел'Тузаде выбор легендарки и талантов зависит от того, в какой мир вы отправляетесь. Здесь есть два варианта – остаться в основном мире и сражаться с различными аддами, либо зайти в филактерию и сражаться с одной целью.
-* Заранее уточните у вашего рейд-лидера в какую группу вы назначены и подбирайте билд соответствующим образом.
+**Советы:**
+* Раздел в разработке.
 
 ## Сильвана Ветрокрылая
 
@@ -298,6 +303,8 @@ image: /assets/img/logos/sanctum.png
 **Легендарные предметы:**
 * {{ site.data.legend.lava }}
 
+**Советы:**
+* Раздел в разработке.
 
 
 
