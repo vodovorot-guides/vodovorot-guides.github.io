@@ -92,7 +92,7 @@ image: /assets/img/logos/sanctum.png
 
 ## Око Тюремщика
 
-**Тип боя:** Одна цель / Клив
+**Тип боя:** Одна цель / Клив  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/eyeOfTheJailer/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2433&class=Shaman&spec=Elemental)
 
@@ -140,7 +140,7 @@ image: /assets/img/logos/sanctum.png
 
 ## Душа Нер'зула
 
-**Тип боя:** Одна цель / Клив
+**Тип боя:** Одна цель / Клив  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/nerZhul/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2432&class=Shaman&spec=Elemental)
 
@@ -165,7 +165,7 @@ image: /assets/img/logos/sanctum.png
 
 ## Раздиратель душ Дормацайн
 
-**Тип боя:** АоЕ
+**Тип боя:** АоЕ  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/dormazain/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2434&class=Shaman&spec=Elemental)
 
