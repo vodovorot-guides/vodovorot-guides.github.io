@@ -1,311 +1,395 @@
 ---
-title: Ковенанты и медиумы – Шаман Стихии
+title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-05-22
-wow: 9.0.5
+last_update: 2021-08-02
+wow: 9.1
 toc: true
-author: Amani
+author: "Amani, Ignis, Zab"
+description: Описание ротации Шамана Стихии. Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант.
+image: /assets/img/logos/rotation.png
+custom-javascript-list:
+    - "/assets/js/rotation_switches.js"
 ---
 
-<details markdown=1><summary><i>Подробности про систему ковенантов</i></summary>
+<details markdown=1><summary><i>Журнал изменений</i></summary>
 <br>
 
-**Ковенанты** – это новые фракции, к которым игроки примкнут в ходе путешествия по Темным Землям. Всего их четыре, и каждый из них дает доступ к двум способностям – одна общая, и одна уникальная для класса. В связи с тем, что шаман позиционируется как **«гибридный класс»**, все наши уникальные способности ковенантов имеют также лечащую часть, в той или иной степени.
-
-Выбор ковенанта происходит после прокачки, но во время неё мы сможем опробовать все способности и принять решение. Также выбор ковенанта дает доступ к уникальному комплекту доспехов, и возможность связать свою душу с одним из медиумов, чтобы получить дополнительные усиления. 
-{: class="bordered"}
-
-* Подробности про систему ковенантов можно прочитать в [этой статье](https://www.noob-club.ru/index.php?topic=63014.0).
-
-* Вся информация по ковенантам в удобном формате доступна в [гайде от Медифк](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMNZkXt5mDot7SXx6My6sHZd6EfoI0lEdpK0F8q3pnSEgPfya_gCAcTKUye2XhgjmM57URlcipuxAS/pubhtml).
+* **02.08.2021**: Добавил в раздел с Ледяной яростью про упрощенную ротацию.
+* **22.07.2021**: Добавил в список приоритетов строчку про потерю стаков Ледяной ярости. «Мало времени» можно считать как «ГКД х количество стаков Ледяной ярости». Например, если у вас есть **2** стака Ледяной ярости и до конца действия баффа осталось **2.5** секунд, следует слить оба стака игнорируя всё остальное.
+* **18.07.2021**: Убран Выброс лавы в опенере через Элементаля бури.
+* **17.07.2021**: Добавлено пояснение про использование Огненного шока и Выброса лавы по проку Волны лавы на **3** и **4+** цели со взятым Элементалем бури.
 
 </details>
 <p></p>
 
-# Выбор ковенанта
+# Выбор билда
 
-На данный момент у Элем шамана два отличных ковенанта – <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> и <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>.
+Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант. Английская версия страницы [здесь](https://stormkeeper.ru/ele/rotation_en.html).
 
-<span style="color:#68ccef;font-size:1em;">**Кирии**</span> могут заиграть на **57+** уровне известности, а <span style="color:#ff4040;font-size:1em;">**Вентиры**</span> – самый слабый вариант для Элема на данный момент.
+Если вы хотите узнать про билды талантов, то загляните на [эту страницу](https://stormkeeper.ru/ele/talents.html), а описание всех способностей и заклинаний Шамана Стихии можно найти [здесь](https://stormkeeper.ru/ele/rotation.html).
 
-Посмотреть актуальную статистику по распределению игроков среди ковенантов можно по этой [ссылке](https://mplus.subcreation.net/elemental-shaman.html#covenants).
-{: class="bordered"}
-
-
-<p align="center">
-<img src="/assets/img/Night_Fae_sigil.png" > 
-</p>
-
-**Плюсы <span style="color:#a330c9;font-size:1em;">Ночного Народца</span>**:
-* Лучший урон в бою против **одной цели**.
-* Отличный урон в **Мифик+** за счет пассивки Корейн [Первый удар](https://ru.wowhead.com/spell=325069).
-* Возможность **отхилить группу** практически на фул хп с помощью [Волшебного переливания](https://ru.wowhead.com/spell=328923).
-* [Облик души](https://ru.wowhead.com/spell=310143) позволяет мгновенно телепортироваться на небольшое расстояние, что крайне полезно в рейде **Святилище Господства**.
-* Самая простая [ротация](https://stormkeeper.ru/ele/rotation.html) среди всех ковенантов.
-* Подойдет всем специализациям шамана.
-
-**Минусы <span style="color:#a330c9;font-size:1em;">Ночного Народца</span>**:
-* Большинство метовых дамагеров состоят в ковенанте Ночного Народца, так что вряд-ли вас когда-нибудь возьмут в Мифик+ ради баффов в Той Стороне или Туманах Тирна Скитта.
-* Не лучший вариант для **PvP**.
-
-
-<p align="center">
-<img src="/assets/img/Necrolord_sigil.png" > 
-</p>
-
-**Плюсы <span style="color:#40bf40;font-size:1em;">Некролордов</span>**:
-* Отличный урон на **кливе разрозненных целей**.
-* Лучший ковенант для **PvP**.
-* Дает дополнительную сейв – [Скульптор плоти](https://ru.wowhead.com/spell=324631).
-* Элем шаман – один из немногих ДПС спеков, которому заходят Некролорды, что позволяет получать баффы в Театре Боли и Чумных Каскадах. Это особенно полезно в статик группах на пуш Мифик+, если у вас нет другого Некролорда.
-
-**Минусы <span style="color:#40bf40;font-size:1em;">Некролордов</span>**:
-* [Первозданная волна](https://ru.wowhead.com/spell=326059) практически бесполезна на большом АоЕ и при игре через [Элементаля бури](https://ru.wowhead.com/spell=192249).
-* Отсутствие хил потенциала для группы, [Скульптор плоти](https://ru.wowhead.com/spell=324631) требует тратить время на поддержание способности, что потенциально снижает наносимый урон.
-* Меньший урон в бою против одной цели и на АоЕ, по сравнению с <span style="color:#a330c9;font-size:1em;">**Ночным Народцем**</span>.
-* Более комплексная ротация.
-* Для оффспека подойдет Рестору, но не Энху.
-
-
-Если вы не увлекаетесь PvP и у вас нет своей пачки для пуша Мифик+, в которую нужен <span style="color:#40bf40;font-size:1em;">**Некролорд**</span> – смело выбирайте <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>. Оба ковенанта отлично подходят Элем Шаману и выбор зависит от ваших предпочтений и интересующего контента.
-{: class="bordered"}
-
-# <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
-
-<p align="center" width="100%">
-    <img src="/assets/img/fae_idle1.png"> 
-</p>
-
-## <span style="color:#a330c9;font-size:1em;">Волшебное переливание</span>
-
-<a href="https://ru.wowhead.com/spell=328923" target="blank" data-wh-icon-size="medium" >**Волшебное переливание**</a> – потоковое АоЕ заклинание со временем произнесения **3** секунды и кулдауном **2** минуты, которое наносит урон противникам в выбранной области. Урон делится между всеми пораженными целями. После окончания каста, повторная активация способности испускает волну исцеления вокруг персонажа, отхиливая **4** союзников в радиусе **20** метров от персонажа на **60%** от нанесенного урона.
-
-* Способность наносит хороший урон в бою против одной цели, но проигрывает всем другим ковенантам на АоЕ, так как её урон делится на количество целей.
-* Урон от этой способности усиливается от таланта {{ site.data.spells.mote }}.  
-* На самом деле эта способность наносит урон **7** раз, а не **6**. Подсказка на Wowhead не учитывает **«initial tick»**, то есть урон на **0** секунде использования.
-* {{ site.data.conduits.fae }} – проводник, усиливающий эту способность. Уменьшает время восстановления способности.
-
-## <span style="color:#a330c9;font-size:1em;">Облик души</span>
-
-<a href="https://ru.wowhead.com/spell=310143" target="blank" data-wh-icon-size="medium" >**Облик души**</a> – раз в полторы минуты позволяет превращаться в лисохвоста на **12** секунд. В момент превращения совершается телепорт на **15** метров вперед. 
-
-* Телепорт во время действия лисохвоста можно применить еще раз, его время восстановления составляет **4** секунды, но при выходе из формы лисохвоста обратно вернуться уже не получится.
-* Скорость передвижения лисохвоста не стакается со способностью {{ site.data.spells.wolf }}.
-* В зоне отдыха длительность действия [Облика души](https://ru.wowhead.com/spell=310143) не ограничена.
-* Для шамана эта способность ценна в первую очередь как телепорт, а не как ускорение.
-* Облик души имеет **24** различных вариации, которые открываются по мере прокачки ковенанта. Подробности можно узнать [по этой ссылке](https://www.noob-club.ru/index.php?topic=63075.0).
-
-## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
-
-**<span style="color:#a330c9;font-size:1em;">Ния</span>** – **лучший медиум для рейда**. Дает доступ к **одному** проводнику силы и пассивке – [Инструменты Нии: колючая лоза](https://ru.wowhead.com/spell=320659).
-
-* [Инструменты Нии: колючая лоза](https://ru.wowhead.com/spell=320659) – наносит достаточно высокий урон, но является «лужей» на земле, из которой могут вывести босса или мобов. 
-
-**Пример прокачки Нии:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/ApZlAQUocQYRBSl_BiIVKD0GJSg2Bg"></a>
-
-**<span style="color:#a330c9;font-size:1em;">Корейн</span>** – **лучший медиум для Мифик+**. Дает доступ к **одному** проводнику силы и пассивке – [Первый удар](https://ru.wowhead.com/spell=325069).
-
-* [Первый удар](https://ru.wowhead.com/spell=325069) – увеличивает шанс Критического удара на **25%**, если вы наносите урон раньше противника. Срабатывает в начале **каждого** боя в Мифик+, что делает эту способность одной из лучших пассивок медиумов в игре.
-
-**Пример прокачки Корейн:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/ApZqAQUocQYRBSl_BiIVKDYGJSg9Bg"></a>
-
-**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – слабый медиум для Элема, проигрывает Корейн и Нии. Дает доступ к **«cheat-death»** способности, которая спасает от смерти – [Защитный стручок](https://ru.wowhead.com/spell=319217).
-
-**Пример прокачки Творца Снов:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/ApqmEQUpfwYjBSg9BhUoNgYlKCwG"></a>
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
+      <a href="/ele/rotation.html" id="raid_build" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Рейда</a>
+      <a href="/ele/rotation.html" id="mplus_build" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Мифик+</a>
+    </div>
+  </div>
+</div>
 
 <p></p>
 
-# <span style="color:#40bf40;font-size:1em;">Некролорды</span>
-
-<p align="center" width="100%">
-    <img src="/assets/img/necro_idle1.png"> 
-</p>
-
-## <span style="color:#40bf40;font-size:1em;">Первозданная волна</span>
-
-<a href="https://ru.wowhead.com/spell=326059" target="blank" data-wh-icon-size="medium" >**Первозданная волна**</a> – поражает одну цель, нанося противнику **65%** урона от силы заклинаний и накладывая на него {{ site.data.spells.fs }}. Следующий {{ site.data.spells.lvb }} также применится ко **всем целям** под {{ site.data.spells.fs }} c **80%** от своего изначального урона, **включая основную**.
-
-* Лучше всего себя показывает в бою против разрозненных целей, где необходимо поддерживать сразу несколько [Огненных шоков](https://ru.wowhead.com/spell=188389).  
-* На все дублированные [Выбросы лавы](https://ru.wowhead.com/spell=51505) может сработать [Искусность: Волнение стихий](https://ru.wowhead.com/spell=168534), шанс рассчитывается отдельно для каждой цели, и они также дают Энергию Водоворота.  
-* Будет полезно в том числе и в Мифик+, за счет генерации энергии Водоворота для [Землетрясения](https://ru.wowhead.com/spell=61882).  
-* {{ site.data.covenants.pw }} именно **дублирует** {{ site.data.spells.lvb }}, сохраняя его усиления (например, от легендарки {{ site.data.legend.lava }}).
-* {{ site.data.covenants.pw }} может давать достаточно сильный бурст на Арене, к тому же чаще, чем другие способности ковенантов.  
-* {{ site.data.conduits.wave }} – проводник, усиливающий эту способность. Дает шанс сбросить кулдаун [Первозданной волны](https://ru.wowhead.com/spell=326059) при её использовании.
-* У [Первозданной волны](https://ru.wowhead.com/spell=326059) полностью отсутствует саппорт потенциал, в отличие от других способностей ковенантов.
-
-## <span style="color:#40bf40;font-size:1em;">Скульптор плоти</span>
-
-<a href="https://ru.wowhead.com/spell=324631" target="blank" data-wh-icon-size="medium" >**Скульптор плоти**</a> – щит на **40%** максимального здоровья, который кастуется **3** секунды. Снижает получаемый урон во время каста на **20%**.
-
-* Проходя мимо трупов врагов, вы сокращаете время восстановления этой способности на **1** секунду.
-* Этот щит можно накладывать на себя после смерти пака в Мифик+ или прямо перед пулом босса, благо время действия позволяет. 
-* Можно применять перед получением большого разового урона от какой либо абилки босса и сразу же отменять каст.
-
-## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
-
-**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – **лучший медиум для рейда и Мифик+**. Дает доступ к **одному** проводнику силы и двум пассивкам – [Откровения мастера кузни](https://ru.wowhead.com/spell=326514) и [Арсенал Гейрмир: оссеиновый самоцвет](https://ru.wowhead.com/spell=326572).
-
-* [Откровения мастера кузни](https://ru.wowhead.com/spell=326514) – пассивно повышает Интеллект на **3%** и возвращает вас после смерти на **10** секунд, во время которых вы наносите на **50%** меньше урона и не можете умереть. В этом состоянии вас невозможно исцелить и ваше здоровье не может опуститься ниже **1** единицы. Бафф можно досрочно отменить. WA для отслеживания можно найти [по этой ссылке](https://wago.io/qXdoakKjO).
-
-* [Арсенал Гейрмир: оссеиновый самоцвет](https://ru.wowhead.com/spell=326572) – самый сильный пассивный перк медиума, который **дает больше урона, чем второй проводник силы**. После нанесения **10** критических ударов вы получаете бафф на **18%** Критического удара на **10** секунд. Кулдаун на прок **1** минута. 
-
-**Пример прокачки Гейрмир:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/ApZqAQUocQYRBSl_BiIVKD0GJSg2Bg"></a>
-
-**<span style="color:#40bf40;font-size:1em;">Эмени</span>** – дает доступ к **двум** проводникам силы и одной пассивке – [Образец для подражания](https://ru.wowhead.com/spell=342156).
-
-* [Образец для подражания](https://ru.wowhead.com/spell=342156) – использование [Первозданной волны](https://ru.wowhead.com/spell=326059) дает бафф на **7.5** секунд, увеличивающий Интеллект на **5%** плюс по **2%** за каждого союзника в радиусе **10** метров. Задетые союзники также получают бафф на **2%** Интеллекта.
-
-**Важно!** Основная характеристика для союзников от трейта {{ site.data.covenants.lead }} не учитывается в Симкрафте.
-
-В бою против **одной цели** и на **АоЕ** **Эмени** проигрывает **Гейрмир**, однако увеличение Интеллекта и бафф союзников, плюс возможность взять проводник [Волна за волной](https://ru.wowhead.com/spell=339186) делают **Эмени** лучшим выбором на некоторых боях, например на **Совете крови** (игроки стоят кучно, есть возможность дотать дополнительные цели) и на **Грязешмяке** ([Первозданная волна](https://ru.wowhead.com/spell=326059) придерживается под разлом колонны и дает бафф на Интеллект в нужный момент).
-
-* **Гейрмир** стоит использовать на Визгунье, Альтиморе, Дестроере, Келе, Зимкосе, Инерве, Генералах, Денатрии
-* **Эмени** стоит использовать на Совете, Грязешмяке.
-
-Для открытия Эмени необходимо пройти **третью** главу кампании ковенанта и выполнить квест [Мятежные души](https://ru.wowhead.com/quest=58665).
-{: class="bordered"}
-
-**Пример прокачки Эмени:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/shaman/ApZlAQUocQYSBSl_BhUs8gYhFSg9Bg"></a>
-
-<p></p>
-
-**<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – лучший вариант для PvP, неплохой вариант для Мифик+. Дает доступ к **двум** проводникам силы и пассивной способности, эффективность которой разнится от инста к инсту – [Нестабильный растворитель](https://ru.wowhead.com/spell=323074).
-
-* [Нестабильный растворитель](https://ru.wowhead.com/spell=323074) – поглощает тела убитых противников, когда вы проходите рядом с ними. Дает бафф на **2** минуты, в зависимости от типа убитого существа:
-
-* [Гуманоиды](https://ru.wowhead.com/spell=323491/) – Искусность увеличена на **2%**.
-* [Аберрации](https://ru.wowhead.com/spell=323497/) – Броня увеличена на **5%**.
-* [Животные](https://ru.wowhead.com/spell=323498/) – Интеллект увеличен на **2%**.
-* [Демоны](https://ru.wowhead.com/spell=323500/) – Выносливость увеличена на **5%**.
-* [Драконы](https://ru.wowhead.com/spell=323502/) – Критический удар увеличен на **2%**.
-* [Элементали](https://ru.wowhead.com/spell=323504/) – Наносимый магический урон увеличен на **3%**.
-* [Великаны](https://ru.wowhead.com/spell=323506/) – Размер увеличен на **10%**. Наносимый физический урон увеличен на **3%**.
-* [Механизмы](https://ru.wowhead.com/spell=323507/) – Получаемый магический урон уменьшен на **5%**.
-* [Нежить](https://ru.wowhead.com/spell=323509/) – Убийство противников исцеляет на **2%** от максимального здоровья.
-
-Лучшие типы сущест для поглощения – элементали, животные, гуманоиды и драконы. Животные и гуманоиды есть практически в любом подземелье, элементали – реже, а драконы вообще практически не встречаются.
-
-**Пример прокачки Марилет:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/ApbuARUoegYSBSl_BhUs8gYhFSg9Bg"></a>
-
-<p></p>
-
-# <span style="color:#ff4040;font-size:1em;">Вентиры</span>
-
-<p align="center" width="100%">
-    <img src="/assets/img/venthyr_idle1.png"> 
-</p>
-
-## <span style="color:#ff4040;font-size:1em;">Цепная жатва</span>
-
-<a href="https://ru.wowhead.com/spell=320674" target="blank" data-wh-icon-size="medium" >**Цепная жатва**</a> –  смесь двух наших заклинаний, {{ site.data.spells.cl }} и {{ site.data.spells.ch }}, но на **5** целей и с кулдауном в **полторы минуты**.
-
-* Наносит хороший урон на АоЕ, но крайне слабый в бою против одной цели.
-* Нанесение урона и отхил срабатывает одновременно.
-* Старайтесь придерживать эту способность, если в ближайшее время появятся дополнительные адды.
-* Снижает своё время восстановления на **5** секунд за каждое критическое попадание этой способностью, в том числе и от лечения.
-* Максимум время восстановления может снизиться на **50** секунд, то есть до **40** секунд.
-* В сочетании с талантом {{ site.data.spells.ag }} она очень сильно хилит.
-* В первую очередь исцеляет самые раненые цели, то есть является «улучшенным смарт-хилом».
-* **Важно!** Хоть эта способность и выглядит так, будто она перескакивает от одной цели к другой, как {{ site.data.spells.cl }}, механика её работы кардинально отличается. По  сути это круговое АоЕ, которое лечит и дамажит **5** целей вокруг основной. Радиус действия – **20** метров вокруг первоначальной цели. 
-* {{ site.data.conduits.harvest }} – проводник, усиливающий эту способность. Увеличение шанса Критического удара как поднимает урон, так и потенциально снижает кулдаун {{ site.data.covenants.ch }}. 
-
-## <span style="color:#ff4040;font-size:1em;">Врата теней</span>
-
-<a href="https://ru.wowhead.com/spell=300728" target="blank" data-wh-icon-size="medium" >**Врата теней**</a> – телепорт на **35** метров со временем произнесения **1.5** секунды.
-
-* Перемещение с помощью [Врат теней](https://ru.wowhead.com/spell=300728) не агрит противников на своем пути.  
-* Для пропуска групп врагов в Мифик+ использовать его вряд ли получится, так как дальность телепорта довольно маленькая.  
-* С помощью трейта Наджии [Агент хаоса](https://ru.wowhead.com/spell=331576) можно дезориентировать врагов на **6** секунд, что является очень хорошим инструментом контроля в Мифик+.
-
-## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
-
-**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – **лучший медиум для рейда и Мифик+**. Дает доступ к **одному** проводнику силы и двум пассивкам – [Поиск острых ощущений](https://ru.wowhead.com/spell=331586) и [Бесстрашный дуэлянт](https://ru.wowhead.com/spell=331584).
-
-* [Поиск острых ощущений](https://ru.wowhead.com/spell=331586) – «мини-[Жажда крови](https://ru.wowhead.com/spell=2825), увеличивает скорость на **20%** на **10** секунд после набора определенного количества стаков (от времени или убийства мобов).
-
-* [Бесстрашный дуэлянт](https://ru.wowhead.com/spell=331584) – пассивное увеличение урона на **3%** против одной цели. После смерти отмеченной цели, метка переходит к случайному противнику.
-
-**Пример прокачки Наджии:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/ApavAgUocQQVKHoEEQUpfwQhFSg9BA"></a>
-
-**<span style="color:#ff4040;font-size:1em;">Безумный герцог Теотар</span>** – слабее Наджии. 
-
-**Пример прокачки Теотара:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/ApbqEQUpfwQjBSg9BBUoNgQlKCwE"></a>
-
-**<span style="color:#ff4040;font-size:1em;">Генерал Дрейвен</span>** – слабее Наджии. 
-
-**Пример прокачки Дрейвена:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/shaman/ApZvARUocQQRBSl_BCIFKD0EFSgsBA"></a>
-
-<p></p>
-
-# <span style="color:#68ccef;font-size:1em;">Кирии</span>
-
-<p align="center" width="100%">
-    <img src="/assets/img/kyrian_idle1.png"> 
-</p>
-
-## <span style="color:#68ccef;font-size:1em;">Тотем вечернего колокола</span>
-
-<a href="https://ru.wowhead.com/spell=324386" target="blank" data-wh-icon-size="medium" >**Тотем вечернего колокола**</a> – АоЕ урон и отхил по **6** целям в радиусе **8** метров с кулдауном **1** минута. Тотем стоит **30** секунд и его можно переставлять без ГКД каждые **3** секунды. 
-
-* Работает на **3** атакующие и **3** хилящие способности, количество использований никак не связано между собой.
-* Вы не потеряете урон от тотема, если начнете хилить, и наоборот.
-* Если цель находится в движении, то использовать этот тотем становится не очень удобно.  
-* Перестановка тотема не тратит ГКД, но имеет отдельный кулдаун – **3** секунды.
-* Мобы не агрятся на тотем, то есть его можно ставить заранее **до пула**.  
-* Необходимо тратить ГКД для реализации саппорт потенциала этой способности.
-* Отхил срабатывает в том числе от установки [Тотема исцеляющего потока](https://ru.wowhead.com/spell=5394).   
-* Тотем имеет всего **50** ед. здоровья, что делает очень проблематичным его использование в PvP.  
-* {{ site.data.conduits.dirge }} – проводник, усиливающий эту способность. Увеличивает наносимый урон и исцеление по одной цели, которая находится ближе всех к {{ site.data.covenants.vt }}.
-
-## <span style="color:#68ccef;font-size:1em;">Призыв распорядителя</span>
-
-<a href="https://ru.wowhead.com/spell=324739" target="blank" data-wh-icon-size="medium" >**Призыв распорядителя**</a> – призывает распорядителя, который приносит нам {{ site.data.covenants.phial }}, восполняющий **20%** здоровья и снимающий проклятья, болезни, яды и эффекты кровотечения. Распорядитель также предоставляет ряд полезных услуг, типа банка, перековки, почты или починки.
-
-* Флакон имеет три заряда и кулдаун **3** минуты, но отсчет начинается только после выхода из боя.  
-* Флакон **не делит** время восстановления ни с [Духовным зельем исцеления](https://ru.wowhead.com/item=171267), ни с [Камнем здоровья](https://ru.wowhead.com/item=5512).
-* Может быть полезен для снятия различных опасных дебаффов в рейде или Мифик+.  
-* Не снимает магические эффекты, которые обычно самые опасные, а проклятия шаман может снять самостоятельно.
-
-## <span style="color:#68ccef;font-size:1em;">Медиумы</span>
-
-**<span style="color:#68ccef;font-size:1em;">Клейя</span>** – выбор для рейда.
-
-**Пример прокачки Клейи:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/shaman/ApZqAQUocQQRBSl_BCIVKD0EJSg2BA"></a>
-
-**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – выбор для Мифик+.
-
-**Пример прокачки Миканикоса:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/ApZqAQUocQYRBSl_BiIVKD0GJSg2Bg"></a>
-
-**<span style="color:#68ccef;font-size:1em;">Пелагий</span>**
-
-**Пример прокачки Пелагия:**
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/shaman/ApbuARUocQYSBSl_BhVF-gQhFSg9Bg"></a>
-
-
-
-<p></p>
-
-
+{% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
+
+# Открывающая ротация, «Opener»
+
+**Опенер** – это фиксированный порядок кастов в самом начале боя. 
+
+1. {:.pw-apl}{{ site.data.covenants.fleshcraft }} за **10** секунд до пула.
+1. {:.vt-apl}{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула.
+1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
+3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
+3. {:.lmt-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
+5. {:.eb-apl}{{ site.data.spells.eb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+6. {:.ecs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+7. {:.afs-apl}{{ site.data.spells.lvb }} прекастом за **2** секунды до пула.
+  * ***Пул босса.***
+7. {:.afs-apl .pw-apl}{{ site.data.spells.fs }}.
+7. {:.ecs-apl .pw-apl}{{ site.data.spells.fs }}.
+5. {:.pw-apl}{{ site.data.covenants.pw }}.
+5. {:.ft-apl}{{ site.data.spells.fs }}. 
+5. {:.vt-apl}{{ site.data.spells.fs }}. 
+5. {:.ch-apl}{{ site.data.spells.fs }}. 
+3. {:.storm-apl}{{ site.data.spells.storm }}
+5. {:.eb-apl}{{ site.data.spells.lvb }}.
+2. {:.ft-apl}{{ site.data.covenants.ft }}.
+6. {:.sk-apl .pw-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+6. {:.sk-apl .vt-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+6. {:.sk-apl .ch-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+6. {:.eote-apl .ecs-apl}{{ site.data.spells.ecs }}.
+7. {:.eote-apl .lmt-apl}{{ site.data.spells.lvb }}.
+8. {:.eote-apl .mote-apl}{{ site.data.spells.lvb }}.
+9. {:.sk-apl .ft-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+10. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
+11. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
+12. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
+26. {:.lmt-apl}{{ site.data.spells.lmt }}.
+27. {:.ch-apl}{{ site.data.covenants.ch }}.
+28. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
+29. Продолжайте обычную ротацию.
+
+* {:.ft-apl .lava-apl .sk-apl .mote-apl .eote-apl}Если вы не успеваете сдать вторую [Молнию](https://ru.wowhead.com/spell=188196/) до истечения времени действия баффа [Хранителя бурь](https://ru.wowhead.com/spell=191634), то используйте {{ site.data.covenants.ft }} в конце опенера, а не в начале.
+
+Вы можете призвать [Элементаля земли](https://ru.wowhead.com/spell=198103/) за **7** секунд до пула босса, но только если выполнены **ВСЕ** следующие условия:
+* Вы **не** используете талант {{ site.data.spells.primal_elem }} (усиленные элементали заменяют друг друга).
+* В ближайшие **5** минут вам не потребуется дополнительное здоровье от проводника {{ site.data.conduits.vital }}.
+* Вы используете макрос на призыв [Элементаля земли](https://ru.wowhead.com/spell=198103/), который позволяет не запулить босса раньше времени:
+~~~
+#showtooltip
+/cast [@player] Элементаль земли
+~~~
+
+# Бой против **1** цели
+
+Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта.
+
+3. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+2. {{ site.data.spells.fs }}, если отсутствует на цели. 
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
+21. {:.ft-apl .storm-apl}{{ site.data.covenants.ft }} по кулдауну.
+  * Не используйте {{ site.data.covenants.ft }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
+23. {:.storm-apl}{{ site.data.spells.storm }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)). [WA для отслеживания](https://wago.io/oiozoI5RD).
+24. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
+  * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
+  * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+25. {:.eogs-apl}{{ site.data.spells.quake }}, если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
+26. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.es }}.
+27. {:.lava-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+28. {{ site.data.spells.es }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
+29. {:.fire-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+30. {:.ee-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+31. {:.eogs-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+32. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
+33. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
+34. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+35. {:.mote-apl .eogs-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+36. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
+37. {:.ft-apl .mote-apl}{{ site.data.covenants.ft }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+38. {:.ft-apl .lmt-apl}{{ site.data.covenants.ft }} по кулдауну.
+39. {:.lmt-apl}{{ site.data.spells.lmt }} по кулдауну.
+40. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+41. {:.storm-apl}{{ site.data.spells.lb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
+42. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
+43. {:.mote-apl}{{ site.data.spells.es }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+44. {:.if-apl .mote-apl}{{ site.data.spells.frs }} с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+45. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
+46. {{ site.data.spells.lvb }} по кулдауну.
+   * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) не используйте {{ site.data.spells.lvb }} без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
+47. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
+48. {:.storm-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+49. {:.lmt-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+50. {:.storm-apl}{{ site.data.spells.es }}, если есть **60+** ед. энергии Водоворота.
+51. {:.lmt-apl}{{ site.data.spells.es }}, если есть **60+** ед. энергии Водоворота.
+52. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+53. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
+54. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
+55. {{ site.data.spells.igor }} по кулдауну.
+  * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
+56. {{ site.data.spells.lb }}.
+
+# Бой против **2** целей
+
+3. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+ 1. {{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+  * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) {{ site.data.spells.fs }} используется только во время передвижения.
+21. {:.ft-apl .storm-apl}{{ site.data.covenants.ft }} по кулдауну.
+  * Не используйте {{ site.data.covenants.ft }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
+23. {:.storm-apl}{{ site.data.spells.storm }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)). [WA для отслеживания](https://wago.io/oiozoI5RD)
+24. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
+  * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
+  * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+25. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+26. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.quake }}.
+27. {{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
+28. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+  * {:.storm-apl}Не используйте {{ site.data.spells.lvb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+29. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
+30. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
+31. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+  * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) {{ site.data.covenants.pw }} используется только во время передвижения.
+32. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+33. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
+34. {:.ft-apl .mote-apl}{{ site.data.covenants.ft }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+35. {:.ft-apl .lmt-apl}{{ site.data.covenants.ft }} по кулдауну.
+36. {:.lmt-apl}{{ site.data.spells.lmt }} по кулдауну.
+37. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+38. {:.storm-apl}{{ site.data.spells.cl }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
+39. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
+40. {:.mote-apl .fire-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+41. {:.mote-apl .lava-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+42. {:.mote-apl .ee-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+43. {:.if-apl .mote-apl}{{ site.data.spells.frs }} с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+44. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
+45. {{ site.data.spells.lvb }} по кулдауну.
+   * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) не используйте {{ site.data.spells.lvb }} без прока [Волны лавы](https://ru.wowhead.com/spell=77756).
+46. {{ site.data.spells.fs }}, если на одной из целей до спадения осталось менее **5.4** секунд.
+47. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+48. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+49. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+50. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
+51. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
+52. {{ site.data.spells.igor }} по кулдауну.
+  * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
+53. {{ site.data.spells.cl }}. 
+
+# Бой против **3** целей
+
+1. {:.eogs-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.lava-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.ee-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.fire-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+1. {:.eogs-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.lava-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.ee-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.fire-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+1. {:.fire-apl .storm-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
+2. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
+2. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
+2. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.storm-apl}{{ site.data.spells.storm }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)). [WA для отслеживания.](https://wago.io/oiozoI5RD)
+5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
+  * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+6. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+6. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.quake }}.
+7. {:.mote-apl}{{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
+8. {:.mote-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+8. {:.lmt-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+8. {:.fire-apl .storm-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
+8. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
+  * {:.storm-apl}Не используйте {{ site.data.spells.eb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+10. {:.mote-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну (на третью цель), если у вас нет активного баффа от этого заклинания.
+10. {:.lmt-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну (на третью цель), если у вас нет активного баффа от этого заклинания.
+10. {:.fire-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+  * {:.storm-apl}Не используйте [Первозданную волну](https://ru.wowhead.com/spell=326059) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+28. {:.mote-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+24. {:.mote-apl .eogs-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота и бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+24. {:.mote-apl .fire-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота.
+24. {:.mote-apl .lava-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота.
+24. {:.mote-apl .ee-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота.
+25. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+15. {:.ft-apl}{{ site.data.covenants.ft }} по кулдауну. Рекомендуется применять тогда, когда в живых остается **1-2** моба.
+   * {:.mote-apl}С талантом {{ site.data.spells.mote }}, всегда старайтесь усилить им {{ site.data.covenants.ft }}.
+29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
+29. {{ site.data.spells.cl }}.
+31. {:.if-apl}{{ site.data.spells.if }} в бою против **3** целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
+32. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}.
+33. {:.storm-apl .lava-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+33. {:.storm-apl .ee-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+34. {:.storm-apl .eogs-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+
+# Бой против **4** и более целей
+
+1. {:.fire-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+1. {:.eogs-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
+1. {:.lava-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
+1. {:.ee-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
+1. {:.fire-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+1. {:.fire-apl .storm-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
+  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
+2. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
+2. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
+2. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.storm-apl}{{ site.data.spells.storm }} по кулдауну.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)). [WA для отслеживания.](https://wago.io/oiozoI5RD)
+5. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
+  * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+6. {:.eogs-apl}{{ site.data.spells.es }}, если отсутствует бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+6. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.quake }}.
+7. {:.mote-apl .pw-apl}{{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
+7. {:.lmt-apl .pw-apl}{{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
+8. {:.mote-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
+8. {:.lmt-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
+8. {:.fire-apl .storm-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
+10. {:.mote-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+10. {:.lmt-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+10. {:.fire-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+  * {:.storm-apl}Не используйте [Первозданную волну](https://ru.wowhead.com/spell=326059) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+28. {:.mote-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+24. {:.mote-apl .eogs-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50+** ед. энергии Водоворота и бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+24. {:.mote-apl .fire-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50+** ед. энергии Водоворота и в бою не более **4** целей.
+24. {:.mote-apl .lava-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50+** ед. энергии Водоворота и в бою не более **4** целей.
+24. {:.mote-apl .ee-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50+** ед. энергии Водоворота и в бою не более **4** целей.
+25. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+25. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
+29. {:.asc_ele-apl}{{ site.data.spells.lava_beam }} при активном [Перерождении](https://ru.wowhead.com/spell=114050).
+29. {{ site.data.spells.cl }}.
+30. {:.ft-apl}{{ site.data.covenants.ft }} в бою против **4** и более целей **не используется**. Применяйте тогда, когда в живых остается **1-2** моба.
+31. {:.if-apl}{{ site.data.spells.if }} в бою против **4** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.primal_elem }}.
+32. {:.eb-apl}{{ site.data.spells.eb }} в бою против **4** и более целей **не используется**. Рекомендуется выбрать {{ site.data.spells.afs }}.
+33. {:.discharge-apl}Кажется, вы случайно выбрали {{ site.data.spells.discharge }}. 
+33. {:.storm-apl .lava-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+33. {:.storm-apl .ee-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+34. {:.storm-apl .eogs-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+
+
+# Приоритеты во время активного Элементаля бури
+
+Если вы прочитали про ротацию со взятым талантом [Элементаль бури](https://ru.wowhead.com/spell=192249) и все равно ничего не поняли – этот раздел для вас. Хоть без активного [Элементаля бури](https://ru.wowhead.com/spell=192249) играть гораздо проще, чем в билде через [Властелин стихий](https://ru.wowhead.com/spell=16166), но активация бурста имеет свои нюансы:
+
+**В бою против одной цели при активной [Жажде крови](https://ru.wowhead.com/spell=2825):**
+1. Обновляйте {{ site.data.spells.fs }} **только** во время движения.
+2. Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
+3. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
+4. Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
+
+**В бою против одной цели без активной [Жажды крови](https://ru.wowhead.com/spell=2825):**
+1. Поддерживайте на цели {{ site.data.spells.fs }}.
+2. Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756).
+3. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
+4. Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
+
+**АоЕ (2+ цели), вне зависимости от наличия [Жажды крови](https://ru.wowhead.com/spell=2825):**
+1. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
+2. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443).
+3. Используйте {{ site.data.spells.fs }}, [Первозданную волну](https://ru.wowhead.com/spell=326059) и проки [Волн лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
+
+# Особенности талантов
+
+## Властелин стихий
+
+<a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" >**Властелин стихий**</a> – пассивный талант, увеличивает урон от различных заклинаний на **20%** после применения [Выброса лавы](https://ru.wowhead.com/spell=51505).
+
+* Если у вас есть два заряда [Выброса лавы](https://ru.wowhead.com/spell=51505), то **не стоит** кастовать между ними обычную [Молнию](https://ru.wowhead.com/spell=188196), так как это приведет к потере урона. Это связано с тем, что если в момент применения [Молнии](https://ru.wowhead.com/spell=188196) у вас прокнет {{ site.data.spells.lava_surge }}, то вы потеряете часть КД на {{ site.data.spells.lvb }}.
+* Но это правило не распространяется на мгновенные заклинания – усиленную [Молнию](https://ru.wowhead.com/spell=188196) от таланта {{ site.data.spells.sk }}, усиленный {{ site.data.spells.frs }} от таланта {{ site.data.spells.if }}, а также {{ site.data.spells.es }} и {{ site.data.spells.quake }}. Поглощайте бафф от [Властелина стихий](https://ru.wowhead.com/spell=16166) этими заклинаниями, даже если у вас уже есть один стак [Выброса лавы](https://ru.wowhead.com/spell=51505).
+* Проще говоря – не стоит кастовать обычную [Молнию](https://ru.wowhead.com/spell=188196), если у вас есть заряд [Выброса лавы](https://ru.wowhead.com/spell=51505). Бафф от таланта {{ site.data.spells.mote }} не перекроет потенциальную потерю урона при проке {{ site.data.spells.lava_surge }}. 
+* Подходя к **60** ед. энергии Водоворота, ориентируйтесь на кулдауны [Выброса лавы](https://ru.wowhead.com/spell=51505) и других заклинаний. Придерживайте {{ site.data.spells.es }}, чтобы скастовать его с баффом от {{ site.data.spells.mote }}.
+* По сути, у нас есть окно между **60** и **100** энергии Водоворота, за время которого мы должны использовать [Выброс лавы](https://ru.wowhead.com/spell=51505) и сразу же {{ site.data.spells.es }}.
+* Не стоит уходить в оверкап энергии Водоворота ради баффа [Властелина стихий](https://ru.wowhead.com/spell=16166), это ведет к потере урона.
+* Приоритет заклинаний для баффа {{ site.data.spells.mote }}:
+
+1. {{ site.data.covenants.ft }} в бою против **одной** цели.
+2. {{ site.data.spells.quake }} на **две** и более цели, либо на **одну** цель при наличии баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+3. {{ site.data.spells.lb }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
+4. {{ site.data.spells.es }}.
+5. {{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+6. {{ site.data.spells.eb }}.
+  * **Важно!** {{ site.data.spells.eb }} используется всегда по кулдауну, вне зависимости от наличия или отсутствия баффа {{ site.data.spells.mote }}.
+7. {{ site.data.spells.lb }}.
+8. {{ site.data.spells.if }}.
+9. {{ site.data.spells.frs }}.
+
+## Ледяная ярость
+
+<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="medium" >**Ледяная ярость**</a> – активная способность, наносит небольшой урон, дает **25** ед. энергии Водоворота и усиливает **4** следующих [Ледяных шока](https://ru.wowhead.com/spell=196840) на **300%**, которые также генерируют **8** ед. энергии Водоворота. Бафф висит **15** секунд, время восстановления способности **30** секунд.
+
+* После использования [Ледяной ярости](https://ru.wowhead.com/spell=210714) представьте, что вместо четырех следующих [Молний](https://ru.wowhead.com/spell=188196) вам нужно использовать четыре [Ледяных шока](https://ru.wowhead.com/spell=196840).
+* В идеале, каждый усиленный {{ site.data.spells.frs }} следует бафать талантом {{ site.data.spells.mote }}. 
+* Не придерживайте стаки слишком долго, так как **потерять стак баффа [Ледяной ярости](https://ru.wowhead.com/spell=210714) гораздо хуже, чем потерять бафф от [Властелина стихий](https://ru.wowhead.com/spell=16166).**
+* Если у вас есть два заряда [Выброса лавы](https://ru.wowhead.com/spell=51505), то используйте между ними усиленный [Ледяной шок](https://ru.wowhead.com/spell=196840).
+* Не допускайте потерь стаков [Ледяной ярости](https://ru.wowhead.com/spell=210714) – если до конца баффа остается мало времени, начинайте спамить [Ледяной шок](https://ru.wowhead.com/spell=196840), игнорируя всё остальное.
+* Если в ближайшие несколько секунд гарантирована долгая перебежка имеет смысл придержать каст [Ледяной ярости](https://ru.wowhead.com/spell=210714) на несколько секунд, например, как на Оке Тюремщика во время фазы с лучом.
+
+На самом деле управиться с этим талантом проще, чем может показаться на первый выгляд. Вместо того, чтобы пытаться идеально отыграть все **15** секунд баффа [Ледяной ярости](https://ru.wowhead.com/spell=210714), стараясь усилить каждый [Ледяной шок](https://ru.wowhead.com/spell=196840) [Властелином стихий](https://ru.wowhead.com/spell=16166) и не уйти в оверкап, можно делать следующее:
+* Сразу после применения [Ледяной ярости](https://ru.wowhead.com/spell=210714) забудьте про все другие ваши способности кроме мгновенного [Выброса лавы](https://ru.wowhead.com/spell=51505) и [Земного шока](https://ru.wowhead.com/spell=8042).
+* Сначала слейте **2-3** стака [Ледяной ярости](https://ru.wowhead.com/spell=210714), а только потом продолжайте обычную ротацию – [Выброс лавы](https://ru.wowhead.com/spell=51505) без прока, [Удар духов стихий](https://ru.wowhead.com/spell=117014) и так далее.
+* Это даст вам немного свободы в плане «что кастовать следующим», не загоняя в жесткие рамки тайминга [Ледяной ярости](https://ru.wowhead.com/spell=210714) и других способностей.
+* Потери ДПС при этом будут, но не такие большие – с такой упрощенной ротацией вы все равно будете дамажить больше, чем с [Повелителем изначальных стихий](https://ru.wowhead.com/spell=117013). Однако это индивидуально и зависит от вашего персонажа – у кого то разница между этими талантами достигает **300** дпс, а у кого-то не превышает и **50**.
+* Со временем вы привыкните и сами начнете вставлять [Выброс лавы](https://ru.wowhead.com/spell=51505) без прока и другие касты во время активной [Ледяной ярости](https://ru.wowhead.com/spell=210714), но поначалу стоит не бояться просто сливать стаки, это всё равно профитно.
+
+
+## Удар духов стихий
+
+<a href="https://ru.wowhead.com/spell=117014" target="blank" data-wh-icon-size="medium" >**Удар духов стихий**</a> – активная способность с кулдауном **12** секунд, наносит средний урон и дает бафф к случайной характеристике на **10** секунд, а также генерирует **30** ед. энергии Водоворота.
+
+* В бою против **одной**, **двух** или **трёх** целей {{ site.data.spells.eb }} кастуется по кулдауну.
+* В бою против **четырех** и более целей {{ site.data.spells.eb }} **не используется**.
+* {{ site.data.spells.eb }} генерирует **30** ед. энергии Водоворота, и еще **15** при проке Перегрузки. Суммарно за один каст можно получить **45** ед. энергии Водоворота.
+* Прок перегрузки вылетает не сразу, а спустя небольшой промежуток времени после завершения каста.
+* Можно скастовать {{ site.data.spells.eb }} на **70** энергии Водоворота и сразу использовать {{ site.data.spells.es }}, тогда перегрузка вылетит уже после каста [Земного шока](https://ru.wowhead.com/spell=8042) и не уйдет в оверкап.
+
+# Урон в движении
+
+Нанесение урона при движении – важная часть при игре за Элем шамана. Всегда кастуйте что-нибудь на перебежках, иначе вы будете терять на этом урон. Старайтесь минимизировать время нахождения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645), ведь в этой форме вы точно не можете наносить урон.
+
+Вот те способности, которые мы можем использовать в движении:
+
+1. {{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от количества целей.
+2. Мгновенный {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+3. Обновить {{ site.data.spells.fs }}.
+4. {{ site.data.spells.frs }}, даже без баффа от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+5. Прожать {{ site.data.spells.swg }} и просто продолжать обычную ротацию.
+
+Перебежки можно разделить на **короткие** и **длинные**.
+
+**Короткая** перебежка длится несколько ГКД – например выйти из лужи или отбежать от какой-нибудь абилки босса. Если такая перебежка запланирована, то мы можем накопить под неё **60+** ед. энергии Водоворота, чтобы использовать мгновенные {{ site.data.spells.es }} и {{ site.data.spells.lvb }} (при игре с легендаркой {{ site.data.legend.lava }}). Если вы не ожидали, что вам придется резко начать движение – используйте доступные заклинания из списка выше. Не стоит использовать форму [Призрачного волка](https://ru.wowhead.com/spell=2645), только если вы точно знаете, что без неё не успеете выйти из опасной лужи.
+
+**Длинная** перебежка длится дольше нескольких ГКД, и именно на таких перебежках игроки используют форму [Призрачного волка](https://ru.wowhead.com/spell=2645) или просто бегут, теряя урон. Примеры таких перебежек: притягивание на Алчном разрушителе, притягивание на Зи'моксе, перебежка на чистую площадку на Леди Инерве Дарквейн и т.д.
+
+Следующие действия помогут избежать потери урона на **длинных** перебежках:
+
+1. Заранее занимайте позицию таким образом, чтобы уменьшить длительность перебежки.
+2. Планируйте использование [Благосклонности предков](https://ru.wowhead.com/spell=79206).
+3. Приберегите использование [Ледяной ярости](https://ru.wowhead.com/spell=210714) под долгую перебежку.
+
+Если вам все равно ничего не остается, кроме как спамить {{ site.data.spells.frs }} – спамьте его. Лучше наносить хоть сколько-нибудь урона, чем не наносить вообще.
