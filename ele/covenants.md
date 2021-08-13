@@ -108,7 +108,7 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший медиум для **рейда**, но только в том случае, если вы сможете все **24** секунды стоять в руне от [Цветочного поля]. Иначе стоит взять [Нию](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/AwCWZb4CBShxACUoeggSBSl_CCUs7wgiFSg9CCUoNgg). Пример прокачки Творца Снов:
+**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший медиум для **рейда**, но только в том случае, если вы сможете все **24** секунды стоять в руне от [Цветочного поля](https://ru.wowhead.com/spell=319191). Иначе стоит взять [Нию](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/AwCWZb4CBShxACUoeggSBSl_CCUs7wgiFSg9CCUoNgg). Пример прокачки Творца Снов:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/AwCZZr4BJShxCBMFKX8IFSzvCCVF-ggiBSg9CCV2AAg"></a>
 
