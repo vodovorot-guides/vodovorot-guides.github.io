@@ -47,8 +47,8 @@ custom-javascript-list:
 11. {:.vt-apl}{{ site.data.covenants.vt }} 
 12. {:.spike-apl}{{ site.data.spells.spike }}
 13. {:.ft-apl}{{ site.data.covenants.ft }} 
-14. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну, при **5+** стаках {{ site.data.spells.mw }}
-15. {:.ch-apl}{{ site.data.covenants.ch }}  при **5+** стаках {{ site.data.spells.mw }}
+14. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках {{ site.data.spells.mw }}
+15. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках {{ site.data.spells.mw }}
 16. {{ site.data.spells.lb }} при **8+** стаках {{ site.data.spells.mw }}
 17. {{ site.data.spells.ss }}
 18. {{ site.data.spells.ll }}
