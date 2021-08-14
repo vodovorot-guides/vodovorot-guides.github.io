@@ -38,28 +38,28 @@ custom-javascript-list:
 2. {:.pw-apl}{{ site.data.covenants.pw }} 
 3. {{ site.data.spells.fs }} если отсутствует на цели.
 4. {{ site.data.spells.feral }} для генерации стаков {{ site.data.spells.mw }}
-5. {:.lf-apl}{{ site.data.spells.ll }} при отсутствии дебаффа {{ site.data.spells.lf }}
-6. {:.doom-apl}{{ site.data.spells.wt }} если возможно получить бафф от легендарки {{ site.data.legend.doom }}
-7. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}
-8. {:.asc_enh-apl}{{ site.data.spells.windstrike }}
-9. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }} 
-10. {:.vt-apl}{{ site.data.covenants.vt }} 
-11. {:.spike-apl}{{ site.data.spells.spike }}
-12. {:.ft-apl}{{ site.data.covenants.ft }} 
-13. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну, при **5+** стаках {{ site.data.spells.mw }}
-14. {:.ch-apl}{{ site.data.covenants.ch }}  при **5+** стаках {{ site.data.spells.mw }}
-15. {{ site.data.spells.lb }} при **8+** стаках {{ site.data.spells.mw }}
 16. {:.hh-apl}{{ site.data.spells.ll }} во время прока {{ site.data.spells.hh }}
+6. {:.lf-apl}{{ site.data.spells.ll }} при отсутствии дебаффа {{ site.data.spells.lf }}
+7. {:.doom-apl}{{ site.data.spells.wt }} если возможно получить бафф от легендарки {{ site.data.legend.doom }}
+8. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}
+9. {:.asc_enh-apl}{{ site.data.spells.windstrike }}
+10. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }} 
+11. {:.vt-apl}{{ site.data.covenants.vt }} 
+12. {:.spike-apl}{{ site.data.spells.spike }}
+13. {:.ft-apl}{{ site.data.covenants.ft }} 
+14. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну, при **5+** стаках {{ site.data.spells.mw }}
+15. {:.ch-apl}{{ site.data.covenants.ch }}  при **5+** стаках {{ site.data.spells.mw }}
+16. {{ site.data.spells.lb }} при **8+** стаках {{ site.data.spells.mw }}
 17. {{ site.data.spells.ss }}
 18. {{ site.data.spells.ll }}
 19. {{ site.data.spells.crush }}
 20. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
 21. {{ site.data.spells.frs }} 
 22. {:.is-apl}{{ site.data.spells.is }}
-22. {:.sunder-apl}{{ site.data.spells.sunder }}
-22. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}
-23. {{ site.data.spells.lb }} при **5+** стаках {{ site.data.spells.mw }}
-24. {{ site.data.spells.wt }} если все другие способности недоступны.
+23. {:.sunder-apl}{{ site.data.spells.sunder }}
+24. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}
+25. {{ site.data.spells.lb }} при **5+** стаках {{ site.data.spells.mw }}
+26. {{ site.data.spells.wt }} если все другие способности недоступны.
 
 # Основные моменты ротации
 
