@@ -55,8 +55,8 @@ Elemental Shaman rotation breakdown. Spell priorities on this page   change dyna
 7. {:.sk-apl .vt-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
 7. {:.sk-apl .ch-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
 9. {:.eote-apl .ecs-apl}Cast [Echoing Shock](https://www.wowhead.com/spell=320125).
-10. {:.eote-apl .lmt-apl}}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-10. {:.eote-apl .mote-apl}}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
+10. {:.eote-apl .lmt-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
+10. {:.eote-apl .mote-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
 12. {:.sk-apl .ft-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
 13. {:.lava-apl .eote-apl .eb-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042).
 14. {:.lava-apl .eote-apl .eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
