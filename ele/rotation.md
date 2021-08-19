@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-08-02
+last_update: 2021-08-19
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
@@ -14,6 +14,7 @@ custom-javascript-list:
 <details markdown=1><summary><i>Журнал изменений</i></summary>
 <br>
 
+* **19.08.2021**: Дописал несколько моментов про количество стаков Порыва ветра при активном Элементале бури. 
 * **02.08.2021**: Добавил в раздел с Ледяной яростью про упрощенную ротацию.
 * **22.07.2021**: Добавил в список приоритетов строчку про потерю стаков Ледяной ярости. «Мало времени» можно считать как «ГКД х количество стаков Ледяной ярости». Например, если у вас есть **2** стака Ледяной ярости и до конца действия баффа осталось **2.5** секунд, следует слить оба стака игнорируя всё остальное.
 * **18.07.2021**: Убран Выброс лавы в опенере через Элементаля бури.
@@ -112,21 +113,21 @@ custom-javascript-list:
   * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 25. {:.eogs-apl}{{ site.data.spells.quake }}, если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
 26. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.es }}.
-27. {:.lava-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
-28. {{ site.data.spells.es }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
-29. {:.fire-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
-30. {:.ee-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
-31. {:.eogs-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
-32. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
-33. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
-34. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
-35. {:.mote-apl .eogs-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
-36. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
-37. {:.ft-apl .mote-apl}{{ site.data.covenants.ft }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-38. {:.ft-apl .lmt-apl}{{ site.data.covenants.ft }} по кулдауну.
-39. {:.lmt-apl}{{ site.data.spells.lmt }} по кулдауну.
-40. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 41. {:.storm-apl}{{ site.data.spells.lb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
+28. {:.lava-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+29. {{ site.data.spells.es }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
+30. {:.fire-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+31. {:.ee-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+32. {:.eogs-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
+33. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
+34. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
+35. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+36. {:.mote-apl .eogs-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+37. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
+38. {:.ft-apl .mote-apl}{{ site.data.covenants.ft }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+39. {:.ft-apl .lmt-apl}{{ site.data.covenants.ft }} по кулдауну.
+40. {:.lmt-apl}{{ site.data.spells.lmt }} по кулдауну.
+41. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 42. {:.if-apl}{{ site.data.spells.if }} по кулдауну.
 43. {:.mote-apl}{{ site.data.spells.es }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 44. {:.if-apl .mote-apl}{{ site.data.spells.frs }} с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
@@ -309,7 +310,7 @@ custom-javascript-list:
 
 **В бою против одной цели без активной [Жажды крови](https://ru.wowhead.com/spell=2825):**
 1. Поддерживайте на цели {{ site.data.spells.fs }}.
-2. Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756).
+2. Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если у вас не более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
 3. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 4. Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
 
