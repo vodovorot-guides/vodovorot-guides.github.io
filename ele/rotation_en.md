@@ -1,7 +1,7 @@
 ---
 title: Elemental Shaman Priority List
 layout: page
-last_update: 2021-07-22
+last_update: 2021-08-19
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
@@ -96,38 +96,38 @@ Spell priority list that changes dynamically based on selected talents, legendar
   * {:.storm-apl}Don't use [Ascendance](https://www.wowhead.com/spell=114050) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 7. {:.eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) if you have [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff and your next spell will bring you above **100** Maelstrom.
 8. {:.ecs-apl}Cast [Echoing Shock](https://www.wowhead.com/spell=320125) followed by [Earth Shock](https://www.wowhead.com/spell=8042).
-10. {:.lava-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
-10. Cast [Earth Shock](https://www.wowhead.com/spell=8042) if your next spell will bring you above **100** Maelstrom.
-11. {:.fire-apl}{Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
-12. {:.ee-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
-11. {:.eogs-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
-13. {:.eb-apl}Cast [Elemental Blast](https://www.wowhead.com/spell=117014).
-14. {:.sk-apl}Cast [Stormkeeper](https://www.wowhead.com/spell=191634).
-15. {:.pw-apl}Cast [Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
-16. {:.mote-apl .eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) and [Master of the Elements](https://www.wowhead.com/spell=16166) buffs.
-17. {:.vt-apl}Cast [Vesper Totem](https://www.wowhead.com/spell=324386).
-18. {:.ft-apl .mote-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) with the [Master of the Elements](https://www.wowhead.com/spell=16166) buff.
-18. {:.ft-apl .lmt-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
-19. {:.lmt-apl}Cast [Liquid Magma Totem](https://www.wowhead.com/spell=192222).
-20. {:.sk-apl .mote-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with [Stormkeeper](https://www.wowhead.com/spell=191634) and [Master of the Elements](https://www.wowhead.com/spell=16166) buffs.
 21. {:.storm-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with active [Storm Elemental](https://www.wowhead.com/spell=192249) and **18+** stacks of [Wind Gust](https://www.wowhead.com/spell=263806).
-22. {:.if-apl}Cast [Icefury](https://www.wowhead.com/spell=210714).
-23. {:.mote-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) with the [Master of the Elements](https://www.wowhead.com/spell=16166) buff.
-24. {:.if-apl .mote-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) with [Icefury](https://www.wowhead.com/spell=210714) and [Master of the Elements](https://www.wowhead.com/spell=16166) buffs.
-25. {:.sop-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Surge of Power](https://www.wowhead.com/spell=262303) buff if consuming the buff with [Lava Burst](https://www.wowhead.com/spell=51505) will not grant you an extra use of [Fire Elemental](https://www.wowhead.com/spell=198067).
-26. Cast [Lava Burst](https://www.wowhead.com/spell=51505).
+10. {:.lava-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
+11. Cast [Earth Shock](https://www.wowhead.com/spell=8042) if your next spell will bring you above **100** Maelstrom.
+12. {:.fire-apl}{Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
+13. {:.ee-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
+14. {:.eogs-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
+15. {:.eb-apl}Cast [Elemental Blast](https://www.wowhead.com/spell=117014).
+16. {:.sk-apl}Cast [Stormkeeper](https://www.wowhead.com/spell=191634).
+17. {:.pw-apl}Cast [Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
+18. {:.mote-apl .eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) and [Master of the Elements](https://www.wowhead.com/spell=16166) buffs.
+19. {:.vt-apl}Cast [Vesper Totem](https://www.wowhead.com/spell=324386).
+20. {:.ft-apl .mote-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) with the [Master of the Elements](https://www.wowhead.com/spell=16166) buff.
+21. {:.ft-apl .lmt-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
+22. {:.lmt-apl}Cast [Liquid Magma Totem](https://www.wowhead.com/spell=192222).
+23. {:.sk-apl .mote-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with [Stormkeeper](https://www.wowhead.com/spell=191634) and [Master of the Elements](https://www.wowhead.com/spell=16166) buffs.
+24. {:.if-apl}Cast [Icefury](https://www.wowhead.com/spell=210714).
+25. {:.mote-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) with the [Master of the Elements](https://www.wowhead.com/spell=16166) buff.
+26. {:.if-apl .mote-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) with [Icefury](https://www.wowhead.com/spell=210714) and [Master of the Elements](https://www.wowhead.com/spell=16166) buffs.
+27. {:.sop-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Surge of Power](https://www.wowhead.com/spell=262303) buff if consuming the buff with [Lava Burst](https://www.wowhead.com/spell=51505) will not grant you an extra use of [Fire Elemental](https://www.wowhead.com/spell=198067).
+28. Cast [Lava Burst](https://www.wowhead.com/spell=51505).
    * {:.storm-apl}Don’t use [Lava Burst](https://www.wowhead.com/spell=51505) without [Lava Surge](https://www.wowhead.com/spell=77756) buff if [Storm Elemental](https://www.wowhead.com/spell=192249) is active.
-27. Cast [Flame Shock](https://www.wowhead.com/spell=188389) if it expires on target in less than **5.4** seconds.
-28. {:.storm-apl .eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with the [Echoes of Great Sundering](https://www.wowhead.com/spell=336215).
-29. {:.lmt-apl .eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with the [Echoes of Great Sundering](https://www.wowhead.com/spell=336215).
-30. {:.storm-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) at **60+** Maelstrom.
-31. {:.lmt-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) at **60+** Maelstrom.
-32. {:.if-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) with the [Icefury](https://www.wowhead.com/spell=210714) buff.
-33. {:.ch-apl}Cast [Chain Harvest](https://www.wowhead.com/spell=320674).
-34. {:.discharge-apl}Cast [Static Discharge](https://www.wowhead.com/spell=342243) (thanks for testing our site!).
-35. Cast [Earth Elemental](https://www.wowhead.com/spell=198103).
+29. Cast [Flame Shock](https://www.wowhead.com/spell=188389) if it expires on target in less than **5.4** seconds.
+30. {:.storm-apl .eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with the [Echoes of Great Sundering](https://www.wowhead.com/spell=336215).
+31. {:.lmt-apl .eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with the [Echoes of Great Sundering](https://www.wowhead.com/spell=336215).
+32. {:.storm-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) at **60+** Maelstrom.
+33. {:.lmt-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) at **60+** Maelstrom.
+34. {:.if-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) with the [Icefury](https://www.wowhead.com/spell=210714) buff.
+35. {:.ch-apl}Cast [Chain Harvest](https://www.wowhead.com/spell=320674).
+36. {:.discharge-apl}Cast [Static Discharge](https://www.wowhead.com/spell=342243) (thanks for testing our site!).
+37. Cast [Earth Elemental](https://www.wowhead.com/spell=198103).
   * {:.primal_elem-apl}You can only have one elemental active with the [Primal Elementalist](https://www.wowhead.com/spell=117013) talent selected. Don’t summon the other elemental if you already have one active, as the first elemental will be replaced.
-36. Cast [Lightning Bolt](https://www.wowhead.com/spell=188196).
+38. Cast [Lightning Bolt](https://www.wowhead.com/spell=188196).
 
 # Fight Against **2** Targets
 
