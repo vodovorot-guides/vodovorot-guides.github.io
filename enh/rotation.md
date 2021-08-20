@@ -1,10 +1,10 @@
 ---
 title: Ротация Шамана Совершенствования
 layout: page
-last_update: 2021-07-13
+last_update: 2021-08-20
 wow: 9.1
 toc: true
-author: Amani, Wordup
+author: "Amani, Wordup"
 description: Описание ротации Шамана Совершенствования. Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант.
 image: /assets/img/logos/rotation.png
 custom-javascript-list:
@@ -32,53 +32,44 @@ custom-javascript-list:
 
 Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта:
 
-1. {:.witch-apl}{{ site.data.spells.wt }} если тотем не активен.
-1. {:.actuators-apl}{{ site.data.spells.wt }} если тотем не активен.
-1. {:.wolf-apl}{{ site.data.spells.wt }} если тотем не активен.
-2. {:.pw-apl}{{ site.data.covenants.pw }} 
-3. {{ site.data.spells.fs }} если отсутствует на цели.
-4. {{ site.data.spells.feral }} для генерации стаков {{ site.data.spells.mw }}
-16. {:.hh-apl}{{ site.data.spells.ll }} во время прока {{ site.data.spells.hh }}
-6. {:.lf-apl}{{ site.data.spells.ll }} при отсутствии дебаффа {{ site.data.spells.lf }}
-7. {:.doom-apl}{{ site.data.spells.wt }} если возможно получить бафф от легендарки {{ site.data.legend.doom }}
-8. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}
-9. {:.asc_enh-apl}{{ site.data.spells.windstrike }}
-10. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }} 
-11. {:.vt-apl}{{ site.data.covenants.vt }} 
-12. {:.spike-apl}{{ site.data.spells.spike }}
-13. {:.ft-apl}{{ site.data.covenants.ft }} 
-14. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках {{ site.data.spells.mw }}
-15. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках {{ site.data.spells.mw }}
-16. {{ site.data.spells.lb }} при **8+** стаках {{ site.data.spells.mw }}
-17. {{ site.data.spells.ss }}
-18. {{ site.data.spells.ll }}
-19. {{ site.data.spells.crush }}
-20. {{ site.data.spells.fs }} если до спадения осталось менее **5.4** секунд.
-21. {{ site.data.spells.frs }} 
-22. {:.is-apl}{{ site.data.spells.is }}
-23. {:.sunder-apl}{{ site.data.spells.sunder }}
-24. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}
-25. {{ site.data.spells.lb }} при **5+** стаках {{ site.data.spells.mw }}
+1. {:.witch-apl}{{ site.data.spells.wt }}, если тотем не активен.
+1. {:.actuators-apl}{{ site.data.spells.wt }}, если тотем не активен.
+1. {:.wolf-apl}{{ site.data.spells.wt }}, если тотем не активен.
+2. {:.pw-apl}{{ site.data.covenants.pw }}.
+3. {{ site.data.spells.fs }}, если отсутствует на цели.
+4. {{ site.data.spells.feral }} для генерации стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+16. {:.hh-apl}{{ site.data.spells.ll }} с баффом от таланта {{ site.data.spells.hh }}.
+6. {:.lf-apl}{{ site.data.spells.ll }} при отсутствии дебаффа {{ site.data.spells.lf }}.
+7. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
+8. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
+9. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
+10. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }}.
+11. {:.vt-apl}{{ site.data.covenants.vt }}. 
+12. {:.spike-apl}{{ site.data.spells.spike }}.
+13. {:.ft-apl}{{ site.data.covenants.ft }}. 
+14. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+15. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+16. {{ site.data.spells.lb }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+17. {{ site.data.spells.ss }}.
+18. {{ site.data.spells.ll }}.
+19. {{ site.data.spells.crush }}.
+20. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
+21. {{ site.data.spells.frs }}. 
+22. {:.is-apl}{{ site.data.spells.is }}.
+23. {:.sunder-apl}{{ site.data.spells.sunder }}.
+24. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}.
+25. {{ site.data.spells.lb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 26. {{ site.data.spells.wt }} если все другие способности недоступны.
 
 # Основные моменты ротации
 
 * **Не стоит сразу тратить стаки {{ site.data.spells.mw }}, и не стоит уходить в оверкап.** Лучше всего сливать их на **7-8** стаках, в удобное время между кулдаунами других способностей.
-
-* **Держите шоки на кулдауне.** Это относится как к бою против одной цели, где необходимо поддерживать {{ site.data.spells.fs }}, так и к АОЕ, где кулдаун {{ site.data.spells.frs }} является практически нашим основным ресурсом. Шоки позволяют снижать простои в ротации, так что используйте их по первой возможности.
-
+* **Держите шоки на кулдауне.** Это относится как к бою против одной цели, где необходимо поддерживать {{ site.data.spells.fs }}, так и к АОЕ со взятым талантом {{ site.data.spells.hailstorm }}. Шоки позволяют снижать простои в ротации, так что используйте их по первой возможности.
 * **Используйте прок {{ site.data.spells.sb }} так быстро, насколько это возможно.** Наша задача не дать прокам и кулдауну {{ site.data.spells.ss }} пропасть зря, поэтому реагировать на {{ site.data.spells.sb }} крайне важно.
-
-* Имейте в виду, что приоритет способностей это не строгие правила, а скорее общие рекомендации. Наша ротация зависит от многих факторов, типа количества стаков {{ site.data.spells.mw }}, наличия прока {{ site.data.spells.sb }} или других кулдаунов, так что это необходимо учитывать.
-
-**Важные замечания:**
-
+* Аналогичная ситуация с талантом {{ site.data.spells.hh }} – {{ site.data.spells.ll }} с этим баффом имеет гораздо больший приоритет, чем без него.
+* Перед применением [Перерождения](https://ru.wowhead.com/spell=114051) всегда используйте {{ site.data.spells.ss }}, так как его кулдаун сбросится после после активации этого таланта.
 * Обновляйте {{ site.data.spells.fs }}, когда до конца его спадения осталось менее **5.4** секунд, чтобы это время добавилось к новому {{ site.data.spells.fs }}.
-
-* {{ site.data.spells.crush }} не стоит никаких ресурсов, так что используйте его как филлер. С него может прокнуть {{ site.data.spells.sb }}.
-
 * Не стоит тратить стаки {{ site.data.spells.mw }} на {{ site.data.spells.lb }} сразу же, как только вы набрали **5** стаков. Так как максимум возможно набрать **10** стаков, используйте сначала другие способности, чтобы начать их кулдаун. 
-
 * Для уменьшения количества простоев следует сначала использовать способности с коротким кулдауном, а уже затем с долгим. Это отражено в списке приоритетов.
 
 # Бой на АоЕ
@@ -93,8 +84,7 @@ custom-javascript-list:
 9. {{ site.data.spells.ss }}.
 10. {{ site.data.spells.ll }} если ничего больше не доступно.
 
-* {{ site.data.spells.fs }} на АоЕ не используется.
-* Способности ковенантов и {{ site.data.spells.feral }} следует использовать по кулдауну. {{ site.data.covenants.ch }} только на **5+** стаках {{ site.data.spells.mw }}.
+* Способности ковенантов и {{ site.data.spells.feral }} следует использовать по кулдауну. {{ site.data.covenants.ch }} только на **5+** стаках {{ site.data.spells.mw }}. {{ site.data.covenants.ft }} стоит придержать, пока не останется **1-3** моба.
 
 # Влияние легендарных предметов
 
