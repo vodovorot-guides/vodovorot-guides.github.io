@@ -79,7 +79,7 @@ custom-javascript-list:
 1. {{ site.data.spells.wt }} – если тотем не активен.
 3. {{ site.data.spells.asc_enh }}, стараясь задеть максимальное количество целей при активации.
 5. {{ site.data.spells.sunder }} на максимально количество целей.
-7. {{ site.data.spells.cl }} при **5+** стаках {{ site.data.spells.mw }}.
+7. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 8. {{ site.data.spells.crush }}.
 9. {{ site.data.spells.ss }}.
 10. {{ site.data.spells.ll }} если ничего больше не доступно.
