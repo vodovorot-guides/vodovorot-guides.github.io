@@ -20,7 +20,7 @@ description: Описание нового билда для Мифик+ от Wa
 
 # Легендарка и проводники
 
-В этом билде используется легендарка [Волчьи кости колдуна](https://ru.wowhead.com/spell=335897) и проводники [Холодная душа](https://ru.wowhead.com/spell=338325?ilvl=252) и [Неистовые ветра](https://ru.wowhead.com/spell=338318?ilvl=252). Третий проводник – тот, что лучше по [Raidbots](https://www.raidbots.com/simbot), исходя из вашего ковенанта.
+В этом билде используется легендарка [Волчьи кости колдуна](https://ru.wowhead.com/spell=335897) и проводники [Холодная душа](https://ru.wowhead.com/spell=338325?ilvl=252) и [Неистовые ветра](https://ru.wowhead.com/spell=338318?ilvl=252). Третий проводник – тот, что лучше по [Raidbots](https://www.raidbots.com/simbot).
 
 # Таланты
 
