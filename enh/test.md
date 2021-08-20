@@ -10,7 +10,11 @@ description: Описание нового билда для Мифик+ от Wa
 
 # Вступление
 
-Альтернативный билд для Мифик+ от [Waves](https://raider.io/characters/eu/frostwolf/Waves), без использования легендарки [Ветра рока](https://ru.wowhead.com/spell=335902) и таланта [Перерождение](https://ru.wowhead.com/spell=114051). Видео про этот билд:
+Альтернативный билд для Мифик+ от [Waves](https://raider.io/characters/eu/frostwolf/Waves), без использования легендарки [Ветра рока](https://ru.wowhead.com/spell=335902) и таланта [Перерождение](https://ru.wowhead.com/spell=114051).
+
+<!--more-->
+
+Видео про этот билд:
 
 {% include youtube.html id="ggl9l25h7cw" %}
 
