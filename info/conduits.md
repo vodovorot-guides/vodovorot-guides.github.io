@@ -97,7 +97,7 @@ image: /assets/img/logos/conduits.png
 
 <a href="https://ru.wowhead.com/spell=337964?ilvl=252" target="blank" data-wh-icon-size="medium" >**Астральная защита**</a> – время восстановления {{ site.data.spells.rez }} сокращается на **7** мин. При реинкарнации на вас накладывется эффект [Астрального сдвига](https://ru.wowhead.com/spell=108271).
 
-<a href="https://ru.wowhead.com/spell=357888?ilvl=252" target="blank" data-wh-icon-size="medium" >**Сфера концентрированной анимы**</a> – когда вы получаете исцеление от другого игрока, ваша основная характеристика повышается на **3.6%** на **15** секунд. Срабатывает не чаще раза в **30** секунд.
+<a href="https://ru.wowhead.com/spell=357888?ilvl=252" target="blank" data-wh-icon-size="medium" >**Сфера концентрированной анимы**</a> – когда вы получаете урон, вы восполняете **4.5%** максимального запаса здоровья. Срабатывает не чаще раза в **10** секунд.
 
 # Проводники точности
 
