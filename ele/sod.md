@@ -1,7 +1,7 @@
 ---
 title: Рейд Святилище Господства – Шаман Стихии
 layout: page
-last_update: 2021-08-17
+last_update: 2021-08-23
 wow: 9.1
 toc: true
 author: Amani
@@ -140,6 +140,10 @@ image: /assets/img/logos/sanctum.png
 
 ## Душа Нер'зула
 
+{% include youtube.html id="lyZHHJLQaHI" %}
+
+<p></p>
+
 **Тип боя:** Одна цель / Клив  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/nerZhul/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2432&class=Shaman&spec=Elemental)
@@ -164,6 +168,10 @@ image: /assets/img/logos/sanctum.png
 * Если на вас кинулось несколько доток, прохиливайтесь [Исцеляющим всплеском](https://ru.wowhead.com/spell=8004). На последней фазе хилам может быть не до вас.
 
 ## Раздиратель душ Дормацайн
+
+{% include youtube.html id="nhUfgO2_lcA" %}
+
+<p></p>
 
 **Тип боя:** АоЕ  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/dormazain/heroic/none)  
@@ -193,6 +201,10 @@ image: /assets/img/logos/sanctum.png
 
 ## Кузнец боли Разнал
 
+{% include youtube.html id="vb6iB5n_cbY" %}
+
+<p></p>
+
 **Тип боя:** Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/raznal/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2430&class=Shaman&spec=Elemental)
@@ -221,6 +233,10 @@ image: /assets/img/logos/sanctum.png
  
 ## Стражница Предвечных
 
+{% include youtube.html id="pTFYDAwEeg8" %}
+
+<p></p>
+
 **Тип боя:** Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/guardian/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2436&class=Shaman&spec=Elemental)
@@ -247,6 +263,10 @@ image: /assets/img/logos/sanctum.png
 
 ## Писарь судьбы Ро-Кало
 
+{% include youtube.html id="y4xzrEUcL7Y" %}
+
+<p></p>
+
 **Тип боя:** Одна цель / Клив / АоЕ  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/rohKalo/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2431&class=Shaman&spec=Elemental)
@@ -264,8 +284,16 @@ image: /assets/img/logos/sanctum.png
 * {{ site.data.legend.eogs }}
 
 **Советы:**
-* Раздел в разработке.
-* Феечкам лучше использовать здесь [Корейн](https://ru.wowhead.com/soulbind-calc/night-fae/korayn/shaman/AwCWar4BJShxCBIFKX8IJSzvCCIVdgAIJSg9CA)
+* Представителям Ночного Народца стоит использовать на этом боссе [Корейн](https://ru.wowhead.com/soulbind-calc/night-fae/korayn/shaman/AwCWar4BJShxCBIFKX8IJSzvCCIVdgAIJSg9CA).
+* Используйте первый [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **7-8** секунд до пула, чтобы он откатился под первых аддов.
+* Помимо [Хранителя бурь](https://ru.wowhead.com/spell=191634), под аддов стоит накопить энергию Водоворота и иметь бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+* Будьте осторожны с адддами, они могут убить вас в ближнем бою в том случае, если вы будете рядом когда им собьют каст. Не подходите к ним близко когда разряжаете [Цепную молнию](https://ru.wowhead.com/spell=188443)!
+* {{ site.data.spells.wrt }} стоит использовать под вынос бомб или на перебежку от лучей.
+* Лучи и танковские адды перестают спавниться на **71.9%** и **41.9%** здоровья босса, прямо перед началом переходки. Это можно использовать следующим образом – стопайте урон всем рейдом и добивайте последнего танковского адда, сводите мелких аддов с боссом и заливайте их. Таким образом босс переведется прямо под смерть мелких аддов, а рейду не придется бегать от тройных черных лучей.
+* Будьте осторожны во время поворота рун – от них идет луч, который накладывает очень опасную дотку. Если вы попали под неё, используйте все возможные сейвы и прохиливайте себя.
+* На переходке можно использовать [Хранитель бурь](https://ru.wowhead.com/spell=191634), так как он откатится к моменту спавну аддов на второй и третьей фазе. Однако [Элементаля огня](https://ru.wowhead.com/spell=198067) стоит использовать только в том случае, если два танковских адда не успеют умереть до начала следующей фазы.
+* Рекомендованные WA – на [руны](https://wago.io/3PkA8u4X0) и на [аддов на переходке](https://wago.io/Vo7ZX2qA6). WA на руны заменяет все другие аналогичные WA, которые стоит отключить чтобы они не мешали друг другу.
+* Старайтесь получать как можно меньше урона по ходу боя – данный босс больше про ХПС, чем про ДПС, не стоит лишний раз перенапрягать ваших хилов.
 
 ## Кел'Тузад
 
