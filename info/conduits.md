@@ -70,7 +70,7 @@ image: /assets/img/logos/conduits.png
 
 ## Ковенанты
 
-<a href="https://ru.wowhead.com/spell=339183?ilvl=252" target="blank" data-wh-icon-size="medium" >**Извлечение сути**</a> – сокращает время восстановления способности {{ site.data.covenants.ft }} на **34%**.  
+<a href="https://ru.wowhead.com/spell=339183?ilvl=252" target="blank" data-wh-icon-size="medium" >**Извлечение сути**</a> – сокращает время восстановления способности {{ site.data.covenants.ft }} на **34** секунды.  
 
 <a href="https://ru.wowhead.com/spell=339186?ilvl=252" target="blank" data-wh-icon-size="medium" >**Волна за волной**</a> – дает **31%** шанс на то, что {{ site.data.covenants.pw }} не потребует времени на восстановление.
 
