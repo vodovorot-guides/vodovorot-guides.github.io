@@ -36,7 +36,6 @@ Elemental Shaman rotation breakdown. Spell priorities on this page   change dyna
 1. {:.sk-apl}Cast [Stormkeeper](https://www.wowhead.com/spell=191634) **5** seconds before the pull.
 3. {:.mote-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067) **3.5** seconds before the pull.
 3. {:.lmt-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067) **3.5** seconds before the pull.
-3. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249) **3.5** seconds before the pull.
 5. {:.eb-apl}Start casting [Elemental Blast](https://www.wowhead.com/spell=117014) **2** seconds before the pull.
   * ***Boss Pull.***
 6. {:.ecs-apl}Start casting [Lava Burst](https://www.wowhead.com/spell=51505) **2** seconds before the pull.
@@ -49,18 +48,19 @@ Elemental Shaman rotation breakdown. Spell priorities on this page   change dyna
 5. {:.ft-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389). 
 5. {:.vt-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389). 
 5. {:.ch-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389). 
-5. {:.eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-3. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
-7. {:.sk-apl .pw-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
-7. {:.sk-apl .vt-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
-7. {:.sk-apl .ch-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
-9. {:.eote-apl .ecs-apl}Cast [Echoing Shock](https://www.wowhead.com/spell=320125).
-10. {:.eote-apl .lmt-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-10. {:.eote-apl .mote-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-12. {:.sk-apl .ft-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
-13. {:.lava-apl .eote-apl .eb-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042).
-14. {:.lava-apl .eote-apl .eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-15. {:.sk-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff. 
+7. {:.eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
+8. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
+3. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249) **3.5** seconds before the pull.
+10. {:.sk-apl .pw-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
+11. {:.sk-apl .vt-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
+12. {:.sk-apl .ch-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
+13. {:.eote-apl .ecs-apl}Cast [Echoing Shock](https://www.wowhead.com/spell=320125).
+14. {:.eote-apl .lmt-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
+15. {:.eote-apl .mote-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
+16. {:.sk-apl .ft-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
+17. {:.lava-apl .eote-apl .eb-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042).
+18. {:.lava-apl .eote-apl .eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
+19. {:.sk-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff. 
 26. {:.lmt-apl}Cast [Liquid Magma Totem](https://www.wowhead.com/spell=192222).
 27. {:.ch-apl}Cast [Chain Harvest](https://www.wowhead.com/spell=320674).
 28. {:.asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
