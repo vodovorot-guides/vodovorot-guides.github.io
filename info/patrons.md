@@ -18,56 +18,8 @@ author: Amani
 * **Zab**
 * **Ignis**
 * **Baek**
-* **Зачем**
-* **Всему Discord серверу** [**«Водоворот»**](https://discordapp.com/invite/zTQhBn8)
-
-**Поддержавшие проект:**
-
-* **Артем Яруллин**
-* **Maksim Nikitin**
-* **Xander**
-* **Burehvat**
 * **Andoriz**
-* **Dreg'har**
-* **PivoPudge**
-* **Aleksey Voloschuk**
-* **D Zhur**
-* **VAAS**
-* **Данил Валиев**
-* **DummesReh**
-* **Merunesus**
-* **Flonsse**
-* **Саня (Эгерыч)**
-* **Surrrg**
-* **Валерий Касперович**
-* **Аззунит**
-* **NyaLinn**
-* **Sentimer**
-* **c01nd01r**
-* **Zlobnick**
-* **Максим**
-* **KoDu**
-* **Strilian**
-* **Mindout**
-* **telecom**
-* **omegaJew**
-* **Patriot (Тим)**
-* **es3rvake**
-* **Argo**
-* **Fortage**
-* **Ecmek**
-* **Gaaki**
-* **Методика**
-* **mihaellle**
-* **NK-47**
-* **Qswerty**
-* **SAMKATANA**
-* **Mirshab78**
-* **Gardash**
-* **ayami**
-* **ViniPsih**
-* **Oloriell**
-* **Talissia**
-* **Амада**
-* **Октян**
-
+* **Зачем**
+* Моим подписчикам на [Patreon](https://www.patreon.com/amani_vodovorot).
+* Поддержавшим меня на [Twitch](https://www.twitch.tv/amanizandalari) и [YouTube](https://www.youtube.com/Amanizandalari).
+* **Всему Discord серверу** [**«Водоворот»**](https://discordapp.com/invite/zTQhBn8)
