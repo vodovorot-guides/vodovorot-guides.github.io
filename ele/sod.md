@@ -297,6 +297,10 @@ image: /assets/img/logos/sanctum.png
 
 ## Кел'Тузад
 
+{% include youtube.html id="y23AbAdevGs" %}
+
+<p></p>
+
 **Тип боя:** Одна цель / Клив / АоЕ  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/kelThuzad/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2422&class=Shaman&spec=Elemental)
@@ -321,7 +325,6 @@ image: /assets/img/logos/sanctum.png
 
 * На первой фазе [Элементаля бури](https://ru.wowhead.com/spell=192249) стоит сдавать сразу после того, как на игроков повесятся первые круги с немотой. Если сделать это раньше, то можно потерять много урона.
 * На второй фазе лучший момент для призыва [Элементаля бури](https://ru.wowhead.com/spell=192249) – спавн ледяных шипов. Тогда он проживет достаточно времени, чтобы вы успели залить мелких аддов.
-
 
 * Первый [Хранитель бурь](https://ru.wowhead.com/spell=191634) стоит сдавать с пула в босса, второй и третий – в мелких аддов.
 
