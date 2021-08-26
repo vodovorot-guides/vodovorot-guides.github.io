@@ -1,7 +1,7 @@
 ---
 title: Elemental Shaman Priority List
 layout: page
-last_update: 2021-08-19
+last_update: 2021-08-26
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
@@ -32,7 +32,6 @@ Elemental Shaman rotation breakdown. Spell priorities on this page   change dyna
 
 **Opener** is a fixed ordered list of abilities to use at the start of an encounter.
 
-1. {:.vt-apl}Cast [Vesper Totem](https://www.wowhead.com/spell=324386) no later than **6.5** seconds before the pull.
 1. {:.sk-apl}Cast [Stormkeeper](https://www.wowhead.com/spell=191634) **5** seconds before the pull.
 3. {:.mote-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067) **3.5** seconds before the pull.
 3. {:.lmt-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067) **3.5** seconds before the pull.
@@ -48,9 +47,10 @@ Elemental Shaman rotation breakdown. Spell priorities on this page   change dyna
 5. {:.ft-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389). 
 5. {:.vt-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389). 
 5. {:.ch-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389). 
+1. {:.vt-apl}Cast [Vesper Totem](https://www.wowhead.com/spell=324386).
 7. {:.eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
 8. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
-3. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249).
+9. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249).
 10. {:.sk-apl .pw-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
 11. {:.sk-apl .vt-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
 12. {:.sk-apl .ch-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
