@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-08-19
+last_update: 2021-08-26
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
@@ -14,6 +14,7 @@ custom-javascript-list:
 <details markdown=1><summary><i>Журнал изменений</i></summary>
 <br>
 
+* **26.08.2021**: Переместил Тотем вечернего колокола Кирий с установки до пула на момент после Огненного шока. Иначе прок Миканикоса пулит босса, хех.
 * **19.08.2021**: Дописал несколько моментов про количество стаков Порыва ветра при активном Элементале бури. 
 * **02.08.2021**: Добавил в раздел с Ледяной яростью про упрощенную ротацию.
 * **22.07.2021**: Добавил в список приоритетов строчку про потерю стаков Ледяной ярости. «Мало времени» можно считать как «ГКД х количество стаков Ледяной ярости». Например, если у вас есть **2** стака Ледяной ярости и до конца действия баффа осталось **2.5** секунд, следует слить оба стака игнорируя всё остальное.
@@ -47,7 +48,6 @@ custom-javascript-list:
 **Опенер** – это фиксированный порядок кастов в самом начале боя. 
 
 1. {:.pw-apl}{{ site.data.covenants.fleshcraft }} за **10** секунд до пула.
-1. {:.vt-apl}{{ site.data.covenants.vt }} не позднее, чем за **6.5** секунд до пула.
 1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
 3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
 3. {:.lmt-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
@@ -60,22 +60,23 @@ custom-javascript-list:
 7. {:.afs-apl .pw-apl}{{ site.data.spells.fs }}.
 7. {:.ecs-apl .pw-apl}{{ site.data.spells.fs }}.
 5. {:.pw-apl}{{ site.data.covenants.pw }}.
-5. {:.ft-apl}{{ site.data.spells.fs }}. 
-5. {:.vt-apl}{{ site.data.spells.fs }}. 
-5. {:.ch-apl}{{ site.data.spells.fs }}. 
-5. {:.eb-apl}{{ site.data.spells.lvb }}.
-2. {:.ft-apl}{{ site.data.covenants.ft }}.
-3. {:.storm-apl}{{ site.data.spells.storm }}
-6. {:.sk-apl .pw-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
-6. {:.sk-apl .vt-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
-6. {:.sk-apl .ch-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
-7. {:.eote-apl .ecs-apl}{{ site.data.spells.ecs }}.
-8. {:.eote-apl .lmt-apl}{{ site.data.spells.lvb }}.
-9. {:.eote-apl .mote-apl}{{ site.data.spells.lvb }}.
-10. {:.sk-apl .ft-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
-11. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
-12. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
-13. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
+7. {:.ft-apl}{{ site.data.spells.fs }}. 
+8. {:.vt-apl}{{ site.data.spells.fs }}. 
+9. {:.ch-apl}{{ site.data.spells.fs }}. 
+1. {:.vt-apl}{{ site.data.covenants.vt }}.
+11. {:.eb-apl}{{ site.data.spells.lvb }}.
+12. {:.ft-apl}{{ site.data.covenants.ft }}.
+13. {:.storm-apl}{{ site.data.spells.storm }}
+14. {:.sk-apl .pw-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+15. {:.sk-apl .vt-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+16. {:.sk-apl .ch-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+17. {:.eote-apl .ecs-apl}{{ site.data.spells.ecs }}.
+18. {:.eote-apl .lmt-apl}{{ site.data.spells.lvb }}.
+19. {:.eote-apl .mote-apl}{{ site.data.spells.lvb }}.
+20. {:.sk-apl .ft-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+21. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.es }}.
+22. {:.lava-apl .eote-apl .eb-apl}{{ site.data.spells.lvb }}.
+23. {:.sk-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634). 
 26. {:.lmt-apl}{{ site.data.spells.lmt }}.
 27. {:.ch-apl}{{ site.data.covenants.ch }}.
 28. {:.asc_ele-apl}{{ site.data.spells.asc_ele }}.
