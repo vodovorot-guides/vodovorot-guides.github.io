@@ -101,7 +101,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
   * Don’t use [Fae Transfusion](https://www.wowhead.com/spell=328923) if you have **18+** stacks of [Wind Gust](https://www.wowhead.com/spell=263806) while your [Storm Elemental](https://www.wowhead.com/spell=192249) is active. 
 5. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249).
   * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) used [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
-21. {:.ft-apl .storm-apl .leg_fae-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) immediately after [Storm Elemental](https://www.wowhead.com/spell=192249).
+21. {:.ft-apl .storm-apl .leg_fae-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) immediately after [Storm Elemental](https://www.wowhead.com/spell=192249).
 6. {:.asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
   * {:.asc_ele-apl}Use all your [Lava Burst](https://www.wowhead.com/spell=51505) charges before casting [Ascendance](https://www.wowhead.com/spell=114050), but only if it won’t affect the total amount of [Ascendance](https://www.wowhead.com/spell=114050) casts in the whole fight.
   * {:.storm-apl}Don't use [Ascendance](https://www.wowhead.com/spell=114050) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
@@ -160,7 +160,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
   * Don’t use [Fae Transfusion](https://www.wowhead.com/spell=328923) if you have **18+** stacks of [Wind Gust](https://www.wowhead.com/spell=263806) while your [Storm Elemental](https://www.wowhead.com/spell=192249) is active. 
 5. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249).
   * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) used [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
-21. {:.ft-apl .storm-apl .leg_fae-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) immediately after [Storm Elemental](https://www.wowhead.com/spell=192249).
+21. {:.ft-apl .storm-apl .leg_fae-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) immediately after [Storm Elemental](https://www.wowhead.com/spell=192249).
 6. {:.asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
   * {:.asc_ele-apl}Use all your [Lava Burst](https://www.wowhead.com/spell=51505) charges before casting [Ascendance](https://www.wowhead.com/spell=114050), but only if it won’t affect the total amount of [Ascendance](https://www.wowhead.com/spell=114050) casts in the whole fight.
   * {:.storm-apl}Don't use [Ascendance](https://www.wowhead.com/spell=114050) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
@@ -218,7 +218,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
 4. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249).
   * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) used [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
-21. {:.ft-apl .storm-apl .leg_fae-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) immediately after [Storm Elemental](https://www.wowhead.com/spell=192249).
+21. {:.ft-apl .storm-apl .leg_fae-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) immediately after [Storm Elemental](https://www.wowhead.com/spell=192249).
 5. {:.asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
   * {:.storm-apl}Don't use [Ascendance](https://www.wowhead.com/spell=114050) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 6. {:.eogs-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) if you don't have [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff.
@@ -279,7 +279,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
 4. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249).
   * {:.primal_elem-apl}Don’t forget to cast [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended), but only after your [Storm Elemental](https://www.wowhead.com/spell=192249) used [Call Lightning](https://www.wowhead.com/spell=157348)! [WA for tracking](https://wago.io/oiozoI5RD).
-21. {:.ft-apl .storm-apl .leg_fae-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) immediately after [Storm Elemental](https://www.wowhead.com/spell=192249).
+21. {:.ft-apl .storm-apl .leg_fae-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923) immediately after [Storm Elemental](https://www.wowhead.com/spell=192249).
 5. {:.asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
   * {:.storm-apl}Don't use [Ascendance](https://www.wowhead.com/spell=114050) with active [Storm Elemental](https://www.wowhead.com/spell=192249).
 6. {:.eogs-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) if you don't have [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff.
