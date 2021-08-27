@@ -66,8 +66,12 @@ custom-javascript-list:
 9. {:.ch-apl}{{ site.data.spells.fs }}. 
 1. {:.vt-apl}{{ site.data.covenants.vt }}.
 11. {:.eb-apl}{{ site.data.spells.lvb }}.
-12. {:.ft-apl}{{ site.data.covenants.ft }}.
+12. {:.ft-apl .eogs-apl}{{ site.data.covenants.ft }}.
+12. {:.ft-apl .lava-apl}{{ site.data.covenants.ft }}.
+12. {:.ft-apl .fire-apl}{{ site.data.covenants.ft }}.
+12. {:.ft-apl .ee-apl}{{ site.data.covenants.ft }}.
 13. {:.storm-apl}{{ site.data.spells.storm }}
+12. {:.ft-apl .leg_fae-apl}{{ site.data.covenants.ft }}.
 14. {:.sk-apl .pw-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 15. {:.sk-apl .vt-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 16. {:.sk-apl .ch-apl}{{ site.data.spells.lb }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
