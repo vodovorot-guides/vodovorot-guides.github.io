@@ -49,8 +49,12 @@ Elemental Shaman rotation breakdown. Spell priorities on this page   change dyna
 5. {:.ch-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389). 
 1. {:.vt-apl}Cast [Vesper Totem](https://www.wowhead.com/spell=324386).
 7. {:.eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
-8. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
+8. {:.ft-apl .eogs-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
+8. {:.ft-apl .lava-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
+8. {:.ft-apl .fire-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
+8. {:.ft-apl .ee-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
 9. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249).
+8. {:.ft-apl .leg_fae-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
 10. {:.sk-apl .pw-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
 11. {:.sk-apl .vt-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
 12. {:.sk-apl .ch-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
