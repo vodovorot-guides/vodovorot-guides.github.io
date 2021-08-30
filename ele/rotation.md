@@ -153,7 +153,9 @@ custom-javascript-list:
 44. {:.mote-apl}{{ site.data.spells.es }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 45. {:.if-apl .mote-apl}{{ site.data.spells.frs }} с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 46. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
-47. {{ site.data.spells.lvb }} по кулдауну.
+58. {:.mote-apl}{{ site.data.spells.lvb }} по кулдауну.
+58. {:.lmt-apl}{{ site.data.spells.lvb }} по кулдауну.
+58. {:.storm-apl}{{ site.data.spells.lvb }} по кулдауну, если [Элементаль бури](https://ru.wowhead.com/spell=192249) не активен.
 48. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
 49. {:.storm-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 50. {:.lmt-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
@@ -214,8 +216,9 @@ custom-javascript-list:
 55. {:.mote-apl .ee-apl}{{ site.data.spells.quake }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 56. {:.if-apl .mote-apl}{{ site.data.spells.frs }} с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 57. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
-58. {{ site.data.spells.lvb }} по кулдауну.
-  * {:.storm-apl}Не используйте {{ site.data.spells.lvb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+58. {:.mote-apl}{{ site.data.spells.lvb }} по кулдауну.
+58. {:.lmt-apl}{{ site.data.spells.lvb }} по кулдауну.
+58. {:.storm-apl}{{ site.data.spells.lvb }} по кулдауну, если [Элементаль бури](https://ru.wowhead.com/spell=192249) не активен.
 59. {{ site.data.spells.fs }}, если на одной из целей до спадения осталось менее **5.4** секунд.
 60. {:.storm-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 61. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
