@@ -250,7 +250,7 @@ custom-javascript-list:
 * {:.storm-apl .lava-apl}{:.ft-apl}{{ site.data.covenants.ft }} кастуем в том случае, если в живых остается **1-2** врага.
 * {:.storm-apl .fire-apl}{:.ft-apl}{{ site.data.covenants.ft }} кастуем в том случае, если в живых остается **1-2** врага.
 * {:.storm-apl .ee-apl}{:.ft-apl}{{ site.data.covenants.ft }} кастуем в том случае, если в живых остается **1-2** врага.
-* {:.storm-apl .sorg-apl}{:.ft-apl}{{ site.data.covenants.ft }} используется для снижения КД [Элементаля бури](https://ru.wowhead.com/spell=192249) и для баффа на Критический удар.
+* {:.storm-apl .leg_fae-apl}{:.ft-apl}{{ site.data.covenants.ft }} используется для снижения КД [Элементаля бури](https://ru.wowhead.com/spell=192249) и для баффа на Критический удар.
 * {:.if-apl}{{ site.data.spells.if }} не используется в бою против трех целей, но может применяться перед активной фазой передвижения для последующего спама [Ледяными шоками](https://ru.wowhead.com/spell=196840).
 
 <hr style="height:1px;background-color:#808080">
@@ -262,8 +262,8 @@ custom-javascript-list:
 1. {:.lava-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
 1. {:.ee-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
 1. {:.ee-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
-1. {:.sorg-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
-1. {:.sorg-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.leg_fae-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
+1. {:.leg_fae-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
 1. {:.fire-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
 1. {:.fire-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
 1. {:.fire-apl .storm-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
