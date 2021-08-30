@@ -194,7 +194,7 @@ custom-javascript-list:
 26. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.quake }}.
 27. {{ site.data.spells.quake }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
 34. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
-38. {:.sk-apl {:.storm-apl}}{{ site.data.spells.lb }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
+38. {:.sk-apl .storm-apl}}{{ site.data.spells.lb }} с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 41. {:.storm-apl}{{ site.data.spells.cl }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 37. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 38. {:.eb-apl}{{ site.data.spells.eb }} по кулдауну.
