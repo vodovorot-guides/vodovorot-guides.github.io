@@ -172,7 +172,7 @@ custom-javascript-list:
 
 Ротация в бою против двух целей практически не отличается от боя против одной цели. Несколько основных изменений:
 * {{ site.data.spells.cl }} заменяет обычную [Молнию](https://ru.wowhead.com/spell=188196) в качестве филлера.
-* {:.sk-apl}Однако, бафф от [Хранителя бурь](https://ru.wowhead.com/spell=191634) следует тратить на [Молнию](https://ru.wowhead.com/spell=188196), так как это дает больше урона.
+* {:.sk-apl}Бафф от [Хранителя бурь](https://ru.wowhead.com/spell=191634) следует тратить на [Молнию](https://ru.wowhead.com/spell=188196), так как это дает больше урона.
 * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) переходим на спам [Цепной молнии](https://ru.wowhead.com/spell=188443), игнорируя {{ site.data.spells.lvb }} и {{ site.data.spells.fs }} – они используются только во время перебежек.
 * {:.storm-apl}Обращайте внимание на количество стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249), так как при **18+** стаках возрастает приоритет [Цепной молнии](https://ru.wowhead.com/spell=188443).
 * {:.lava-apl}Несмотря на легендарку {{ site.data.legend.lava }}, на две цели мы используем {{ site.data.spells.quake }}, а не {{ site.data.spells.es }}.
