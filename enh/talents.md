@@ -28,7 +28,7 @@ image: /assets/img/logos/talents.png
 
 Альтернативный билд для Мифик+, без использования легендарки [Ветра рока](https://ru.wowhead.com/spell=335902) и таланта [Перерождение](https://ru.wowhead.com/spell=114051):
 
-{% include button.html name="Альтернативный билд для Энха в Мифик+" link="2021/08/20/alt-enh.html" %}  
+{% include button.html name="Альтернативный билд для Энха в Мифик+" link="https://stormkeeper.ru/2021/08/20/alt-enh.html" %}  
 
 <p></p>
 
