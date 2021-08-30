@@ -183,7 +183,9 @@ custom-javascript-list:
 
 1. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714), если до окончания времени действия баффа осталось мало времени. Не допускайте потери стаков.
   * {:.storm-apl}Пожалуй, не стоит использовать вместе [Ледяную ярость](https://ru.wowhead.com/spell=210714) и [Элементаля бури](https://ru.wowhead.com/spell=192249). Спасибо.
-// Define defaults for each variable.
+ 
+// Проверка
+
 3. {:.mote-apl}{{ site.data.spells.fe }} по кулдауну.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 4. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
@@ -192,12 +194,15 @@ custom-javascript-list:
   * {:.storm-apl}При активном [Элементале бури](https://ru.wowhead.com/spell=192249) {{ site.data.spells.fs }} используется только во время передвижения.
 21. {:.ft-apl .storm-apl .eogs-apl}{{ site.data.covenants.ft }} по кулдауну.
   * Не используйте {{ site.data.covenants.ft }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
+
+// Блок переливания
 21. {:.ft-apl .storm-apl .lava-apl}{{ site.data.covenants.ft }} по кулдауну.
   * Не используйте {{ site.data.covenants.ft }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
 21. {:.ft-apl .storm-apl .fire-apl}{{ site.data.covenants.ft }} по кулдауну.
   * Не используйте {{ site.data.covenants.ft }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
 21. {:.ft-apl .storm-apl .ee-apl}{{ site.data.covenants.ft }} по кулдауну.
   * Не используйте {{ site.data.covenants.ft }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).   
+
 23. {:.storm-apl}{{ site.data.spells.storm }} по кулдауну.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)). [WA для отслеживания](https://wago.io/oiozoI5RD).
 21. {:.ft-apl .storm-apl .leg_fae-apl}{{ site.data.covenants.ft }} сразу же после использования [Элементаля бури](https://ru.wowhead.com/spell=192249).
@@ -331,6 +336,7 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+// Блок Огненного шока
 1. {:.fire-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
 1. {:.eogs-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
 1. {:.lava-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
@@ -338,6 +344,7 @@ custom-javascript-list:
 1. {:.fire-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
 1. {:.fire-apl .storm-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
   * {:.storm-apl}Не используйте {{ site.data.spells.fs }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
+// Бурсты
 9. {:.sk-apl}{{ site.data.spells.sk }} по кулдауну.
 2. {:.ch-apl}{{ site.data.covenants.ch }} по кулдауну.
 2. {:.vt-apl}{{ site.data.covenants.vt }} по кулдауну.
