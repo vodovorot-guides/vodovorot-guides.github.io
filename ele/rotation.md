@@ -1,4 +1,4 @@
-и---
+---
 title: Ротация Шамана Стихии
 layout: page
 last_update: 2021-08-28
