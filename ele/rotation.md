@@ -246,11 +246,11 @@ custom-javascript-list:
 * {:.sk-apl}Бафф от [Хранителя бурь](https://ru.wowhead.com/spell=191634) тратим на [Цепную молнию](https://ru.wowhead.com/spell=188443).
 * {:.storm-apl}{{ site.data.spells.lvb }} полностью уходит из ротации, вне зависимости от наличия или отсутствия активного [Элементаля бури](https://ru.wowhead.com/spell=192249). Можно кастовать на ходу в случае наличия прока, если нужно срочно перебежать.
 * {:.mote-apl}{{ site.data.spells.lvb }} стоит кастовать перед [Землетрясением](https://ru.wowhead.com/spell=61882) либо просто использовать по проку. 
-* {:.storm-apl .eogs-apl}{:.ft-apl}{{ site.data.covenants.ft }} кастуем в том случае, если в живых остается **1-2** врага.
-* {:.storm-apl .lava-apl}{:.ft-apl}{{ site.data.covenants.ft }} кастуем в том случае, если в живых остается **1-2** врага.
-* {:.storm-apl .fire-apl}{:.ft-apl}{{ site.data.covenants.ft }} кастуем в том случае, если в живых остается **1-2** врага.
-* {:.storm-apl .ee-apl}{:.ft-apl}{{ site.data.covenants.ft }} кастуем в том случае, если в живых остается **1-2** врага.
-* {:.storm-apl .leg_fae-apl}{:.ft-apl}{{ site.data.covenants.ft }} используется для снижения КД [Элементаля бури](https://ru.wowhead.com/spell=192249) и для баффа на Критический удар.
+* {:.storm-apl .eogs-apl .ft-apl}{{ site.data.covenants.ft }} кастуем в том случае, если в живых остается **1-2** врага.
+* {:.storm-apl .lava-apl .ft-apl}{{ site.data.covenants.ft }} кастуем в том случае, если в живых остается **1-2** врага.
+* {:.storm-apl .fire-apl .ft-apl}{{ site.data.covenants.ft }} кастуем в том случае, если в живых остается **1-2** врага.
+* {:.storm-apl .ee-apl .ft-apl}{{ site.data.covenants.ft }} кастуем в том случае, если в живых остается **1-2** врага.
+* {:.storm-apl .leg_fae-apl .ft-apl}{{ site.data.covenants.ft }} используется для снижения КД [Элементаля бури](https://ru.wowhead.com/spell=192249) и для баффа на Критический удар.
 * {:.if-apl}{{ site.data.spells.if }} не используется в бою против трех целей, но может применяться перед активной фазой передвижения для последующего спама [Ледяными шоками](https://ru.wowhead.com/spell=196840).
 
 <hr style="height:1px;background-color:#bbb">
