@@ -177,7 +177,7 @@ custom-javascript-list:
 * {:.storm-apl}Обращайте внимание на количество стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249), так как при **18+** стаках возрастает приоритет [Цепной молнии](https://ru.wowhead.com/spell=188443).
 * {:.lava-apl}Несмотря на легендарку {{ site.data.legend.lava }}, на две цели мы используем {{ site.data.spells.quake }}, а не {{ site.data.spells.es }}.
 
-<hr style="height:1px;background-color:#ff0000">
+<hr style="height:1px;background-color:#808080">
 
 1. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714), если до окончания времени действия баффа осталось мало времени. Не допускайте потери стаков.
   * {:.storm-apl}Пожалуй, не стоит использовать вместе [Ледяную ярость](https://ru.wowhead.com/spell=210714) и [Элементаля бури](https://ru.wowhead.com/spell=192249). Спасибо.
@@ -252,7 +252,7 @@ custom-javascript-list:
 * {:.storm-apl .sorg-apl}{:.ft-apl}{{ site.data.covenants.ft }} используется для снижения КД [Элементаля бури](https://ru.wowhead.com/spell=192249) и для баффа на Критический удар.
 * {:.if-apl}{{ site.data.spells.if }} не используется в бою против трех целей, но может применяться перед активной фазой передвижения для последующего спама [Ледяными шоками](https://ru.wowhead.com/spell=196840).
 
-<hr style="height:1px;background-color:#ff0000">
+<hr style="height:1px;background-color:#808080">
 
 1. {:.eogs-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
 1. {:.eogs-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
@@ -324,7 +324,7 @@ custom-javascript-list:
 * {:.mote-apl}{{ site.data.spells.lvb }} кастуется по проку перед [Землетрясением]((https://ru.wowhead.com/spell=61882)) только в бою против четырех целей, но не когда их пять или более.
 * {:.lmt-apl}{{ site.data.spells.lvb }} уходит из ротации в бою против четырех и более целей.
 
-<hr style="height:1px;background-color:#ff0000">
+<hr style="height:1px;background-color:#808080">
 
 1. {:.fire-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
 1. {:.eogs-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
