@@ -1,7 +1,7 @@
 ---
 title: Weakauras для Шамана Совершенствования
 layout: page
-last_update: 2021-06-28
+last_update: 2021-09-01
 wow: 9.1
 author: Amani
 description: Некоторые примеры групп WA для Энх Шамана. Больше можно найти на Wago.io.
@@ -40,6 +40,13 @@ image: /assets/img/logos/wa.png
 </p>
 
 # Различные сборки WeakAuras
+
+[Сборка от Amani:](https://wago.io/HJxL_fG7C)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/HJxL_fG7C/60df3671bd25950fb6cf9b3c.png" width=350x> 
+</p>
 
 [Сборка от Afenar:](https://wago.io/Afenar_Shaman)
 {: style="text-align: center;"}
