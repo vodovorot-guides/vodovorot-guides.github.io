@@ -297,7 +297,7 @@ image: /assets/img/logos/sanctum.png
 
 ## Кел'Тузад
 
-{% include youtube.html id="y23AbAdevGs" %}
+{% include youtube.html id="BMJYw4u45n0" %}
 
 <p></p>
 
