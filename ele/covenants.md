@@ -1,7 +1,7 @@
 ---
 title: Ковенанты и медиумы – Шаман Стихии
 layout: page
-last_update: 2021-08-04
+last_update: 2021-09-01
 wow: 9.1
 toc: true
 author: Amani
@@ -108,9 +108,17 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший медиум для **рейда**, но только в том случае, если вы сможете все **24** секунды стоять в руне от [Цветочного поля](https://ru.wowhead.com/spell=319191). Иначе стоит взять [Нию](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/AwCWZb4CBShxACUoeggSBSl_CCUs7wgiFSg9CCUoNgg). Пример прокачки Творца Снов:
+**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший медиум для **рейда**, но только в том случае, если вы сможете все **24** секунды стоять в руне от [Цветочного поля](https://ru.wowhead.com/spell=319191). Иначе стоит взять Нию. На некоторых боссов лучше всего использовать [Корейн](https://ru.wowhead.com/soulbind-calc/night-fae/korayn/shaman/AwCWar4BJShxCBIFKX8IJSzvCCIVdgAIJSg9CA), подробнее в [этой статье](https://stormkeeper.ru/ele/sod.html). Пример прокачки Творца Снов:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/AwCapr4BJShxCBIFLO8IJSl_CCMFKD0IFXYACCUoLAg"></a>
+
+<p></p>
+
+**<span style="color:#a330c9;font-size:1em;">Ния</span>** – альтернатива Творцу Снов в рейде. Пример прокачки Нии:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwCWZb4CBShxACUoeggSBSl_CCUs7wgiFSg9CCUoNgg"></a>
+
+<p></p>
 
 **<span style="color:#a330c9;font-size:1em;">Корейн</span>** – лучший медиум для **Мифик+**. Пример прокачки Корейн:
 
