@@ -1,7 +1,7 @@
 ---
 title: Ковенанты и медиумы – Шаман Исцеления
 layout: page
-last_update: 2021-08-07
+last_update: 2021-09-01
 wow: 9.1
 toc: true
 author: Amani
@@ -239,9 +239,9 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший выбор для **рейда**: и **Мифик+**:
+**<span style="color:#a330c9;font-size:1em;">Ния</span>** – лучший выбор для **рейда**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/Awa5Zr4CBShxCCUogAgTBSmjCBUppwglLO8IISUoPQg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwCWar4CBShxCCUogAgTBSmjCBUppwglLO8IIRV2AAg"></a>
 
 **<span style="color:#a330c9;font-size:1em;">Корейн</span>** – лучший выбор для **Мифик+**:
 
