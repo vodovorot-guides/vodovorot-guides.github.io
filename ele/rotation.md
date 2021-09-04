@@ -42,8 +42,8 @@ custom-javascript-list:
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="/ele/rotation.html" id="raid_build" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Рейда</a>
-      <a href="/ele/rotation.html" id="mplus_build" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Мифик+</a>
+      <a href="/ele/rotation.html" id="raid_build_ele" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Рейда</a>
+      <a href="/ele/rotation.html" id="mplus_build_ele" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Мифик+</a>
     </div>
   </div>
 </div>

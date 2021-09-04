@@ -15,7 +15,18 @@ custom-javascript-list:
 
 Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарка и ковенант:
 
-{% include talents.html data=site.data.talents.enh active="2101033" switch=true %}
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
+      <a href="/enh/rotation.html" id="raid_build_enh" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Рейда</a>
+      <a href="/enh/rotation.html" id="mplus_build_enh" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Мифик+</a>
+    </div>
+  </div>
+</div>
+
+<p></p>
+
+{% include talents.html data=site.data.talents.enh active="3201031" switch=true %}
 
 # Открывающая ротация, «Opener»
 

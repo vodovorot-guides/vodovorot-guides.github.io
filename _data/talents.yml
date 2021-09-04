@@ -23,7 +23,7 @@ common:
       tag: "leg_necrolords"
 
 ele:
-  covenant: "necrolords"
+  covenant: "fae"
   legendaries:
     - id: 336063
       tag: "lava"
@@ -94,17 +94,17 @@ ele:
           tag: "asc_ele"
 
 enh:
-  covenant: "venthyr"
+  covenant: "fae"
   legendaries:
     - id: 335902
       tag: "doom"
-      default: true
     - id: 335899
       tag: "witch"
     - id: 335895
       tag: "actuators"
     - id: 335897
       tag: "wolf"
+      default: true
 
   talents:
     - row: 15

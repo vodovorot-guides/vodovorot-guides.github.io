@@ -67,12 +67,22 @@ $('.switch-link').on('click touchend', function(e) {
     e.preventDefault();
 });
 
-$('a#mplus_build').on('click', function(e) {
+$('a#mplus_build_enh').on('click', function(e) {
+    pick_talents(["fw", "flurry", "ea", "sunder", "asc_enh", "doom"]);
+    return false;
+});
+
+$('a#raid_build_enh').on('click', function(e) {
+    pick_talents(["eb", "hh", "ea", "sunder", "spirits", "wolf"]);
+    return false;
+});
+
+$('a#mplus_build_ele').on('click', function(e) {
     pick_talents(["eote", "afs", "storm", "primal_elem", "sk", "eogs"]);
     return false;
 });
 
-$('a#raid_build').on('click', function(e) {
+$('a#raid_build_ele').on('click', function(e) {
     pick_talents(["eote", "eb", "mote", "if", "sk", "lava"]);
     return false;
 });
