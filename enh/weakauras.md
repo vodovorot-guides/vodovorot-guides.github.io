@@ -7,7 +7,7 @@ author: Amani
 description: Некоторые примеры групп WA для Энх Шамана. Больше можно найти на Wago.io.
 image: /assets/img/logos/wa.png
 ---
-[По этой ссылке](https://wago.io/bfa-weakauras/classes/shaman/enhancement) можно найти список всех WA для Энха в Shadowlands. 
+[По этой ссылке](https://wago.io/shadowlands-weakauras/classes/shaman/enhancement) можно найти список всех WA для Энха в Shadowlands. 
 
 # Важные способности для отслеживания
 
