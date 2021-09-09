@@ -119,7 +119,6 @@ image: /assets/img/logos/macros.png
 ~~~
 #showtooltip
 /cast [@target,harm,exists][@player] Элементаль огня
-/cast [@target,harm,exists][@player] Элементаль бури
 /cast [@target,exists][] [talent:6/2] [pet] Метеорит
 /cast [@mouseover,harm,exists][] [talent:6/2] [pet] Око шторма
 ~~~
