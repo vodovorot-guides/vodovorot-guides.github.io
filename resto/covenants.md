@@ -83,7 +83,7 @@ WeakAura для отслеживания [Пульсации](https://ru.wowhead
 
 ## <span style="color:#40bf40;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Волны исцеления](https://ru.wowhead.com/spell=77472) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **5%** на **10** секунд.
+<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Волны исцеления](https://ru.wowhead.com/spell=77472) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **8%** на **10** секунд.
 
 * Слабая легендарка, проигрывает нашим [стандартным](https://stormkeeper.ru/resto/legendaries.html) вариантам.
 
