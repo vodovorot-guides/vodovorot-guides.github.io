@@ -112,12 +112,9 @@ custom-javascript-list:
 За счет того, что {{ site.data.spells.crush }} считается атакой с правой руки, шанс на прок [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757) рассчитывается на каждую пораженную цель. А с легендаркой {{ site.data.legend.doom }} этот шанс становится равен **100%**, что также усиливает талант {{ site.data.spells.fw }}, делая эту легу лучшим вариантом для боя со множеством целей. 
 {: class="bordered"}
 
-1. {{ site.data.spells.windstrike }} при активном {{ site.data.spells.asc_enh }}, если есть бафф [Сокрушающей молнии](https://ru.wowhead.com/spell=187874).
-2. {{ site.data.spells.crush }}
-3. {{ site.data.spells.sunder }}
-4. {{ site.data.spells.ss }}
-5. {{ site.data.spells.frs }}, если есть бафф [Бури с градом](https://ru.wowhead.com/spell=334195/)
-
-Если ничего из списка выше не доступно, продолжайте обычную ротацию.
+1. {{ site.data.spells.crush }}
+2. {{ site.data.spells.sunder }}
+3. {{ site.data.spells.ss }} / {{ site.data.spells.windstrike }} 
+4. Все остальные способности, согласно обычной ротации.
 
 **Важно!** Если до конца кулдауна [Сокрушающей молнии](https://ru.wowhead.com/spell=187874) осталось более **3** секунд, используйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для сброса её КД. Это даст дополнительный прок [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757) по всем целям.
