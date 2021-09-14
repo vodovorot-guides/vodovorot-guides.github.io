@@ -1,7 +1,7 @@
 ---
 title: Рейд Святилище Господства – Шаман Стихии
 layout: page
-last_update: 2021-08-23
+last_update: 2021-08-24
 wow: 9.1
 toc: true
 author: Amani
