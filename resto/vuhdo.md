@@ -1,5 +1,5 @@
 ---
-title: VuhDo – часто задаваемые вопросы.
+title: VuhDo – часто задаваемые вопросы
 layout: page
 last_update: 2021-09-15
 wow: 9.1
