@@ -36,8 +36,9 @@ image: /assets/img/logos/sanctum.png
 
 Потребуется две вещи – макрос на фокус по маусоверу и назначенная клавиша на взаимодействие с курсором. Макрос выглядит следующим образом:
 ~~~
+/focus [target=mouseover,exists][exists]
+/stopmacro [target=mouseover,exists][exists]
 /focus [target=mouseover,exists]
-/clearfocus
 ~~~
 
 При его нажатии вы берете в фокус объект под маусовером, а если там никого нет, то текущую цель. Если нет ни цели, ни маусовера, то очищает фокус.  
