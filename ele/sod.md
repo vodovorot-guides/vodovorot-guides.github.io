@@ -36,8 +36,7 @@ image: /assets/img/logos/sanctum.png
 
 Потребуется две вещи – макрос на фокус по маусоверу и назначенная клавиша на взаимодействие с курсором. Макрос выглядит следующим образом:
 ~~~
-/focus [target=mouseover,exists][exists]
-/stopmacro [target=mouseover,exists][exists]
+/focus [target=mouseover,exists]
 /clearfocus
 ~~~
 
