@@ -12,7 +12,7 @@ image: /assets/img/vuhdo/Как добавить болванчиков для �
 # Вступление
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/778015741785669674/778388372653604864/unknown.png" width=400x> 
+<img src="https://cdn.discordapp.com/attachments/778015741785669674/778388372653604864/unknown.png" width=600x> 
 </p>
 
 **VuhDo** – крайне мощный и многофункциональный аддон на рейдовые фреймы.
