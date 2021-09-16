@@ -63,6 +63,8 @@ categories:
         divided: true
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
+      - title: Настройка VuhDo
+        url: /resto/vuhdo.html        
       - title: Логи хилов и их важность
         url: /resto/logs.html
       - title: Руководство по QE Live
