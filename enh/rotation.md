@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Совершенствования
 layout: page
-last_update: 2021-08-20
+last_update: 2021-09-16
 wow: 9.1
 toc: true
 author: "Amani, Wordup"
@@ -30,7 +30,19 @@ custom-javascript-list:
 
 # Открывающая ротация, «Opener»
 
-**Опенер** – это фиксированный порядок кастов в самом начале боя. Ниже представлен стандартный вариант опенера, с талантами {{ site.data.spells.asc_enh }} и с легендаркой {{ site.data.legend.doom }}:
+**Опенер** – это фиксированный порядок кастов в самом начале боя. 
+
+Опенер в билде для **Рейда**, с талантами [Духи стихий](https://ru.wowhead.com/spell=262624) и {{ site.data.spells.eb }}:
+
+1. {{ site.data.spells.wt }} максимально близко к боссу.
+2. {{ site.data.spells.fs }} по дороге к боссу
+3. {{ site.data.spells.feral }}
+4. {{ site.data.spells.ss }}
+5. {{ site.data.covenants.ft }}.
+6. Продолжаем обычную ротацию.
+
+
+Опенер в билде для **Мифик+**, с талантом {{ site.data.spells.asc_enh }} и легендаркой {{ site.data.legend.doom }}:
 
 1. {{ site.data.spells.fs }} по дороге к боссу.
 2. {{ site.data.spells.ss }}
