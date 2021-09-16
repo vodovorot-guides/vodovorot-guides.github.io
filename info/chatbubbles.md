@@ -10,20 +10,18 @@ image: /assets/img/Chat bubbles/all.jpg
 ---
 
 <p align="center">
-<img src="/assets/img/Chat bubbles/all.jpg" width=600x> 
+<img src="/assets/img/Chat bubbles/all.jpg" > 
 </p>
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 # Установка
 
-Для установки данных облачков сообщений **не потребуются** никакие аддоны и дополнительные программы. Пошаговая инструкция:
+Для установки данных облачков сообщений **не потребуются** никакие аддоны. Пошаговая инструкция:
 
 1. Выберите желаемый вид облачков сообщений и нажмите кнопку **«Скачать»**.
 2. Загрузите оба файла по ссылке.
 3. В папке установки World Of Warcraft перейдите в **\_retail_** → **Interface** → создайте папку **Tooltips**.
-4. Скопируйте скачанные ранее файлы в папку **Tooltips**.
+4. Скопируйте два скачанных файла в папку **Tooltips**.
 5. Перезапустите World Of Warcraft.
 
 
@@ -31,17 +29,22 @@ image: /assets/img/Chat bubbles/all.jpg
 
 ## Малый размер
 
+
+<p align="center">
+<img src="/assets/img/Chat bubbles/no border - low background.jpg" width=400x> 
+</p>
+
 <p></p>
 
 {% include button.html name="Скачать" link="https://drive.google.com/drive/folders/1gZfJaAhYHcsio8SDHCUji8bk9vQbacrG?usp=sharing" %}  
 
 <p></p>
 
-<p align="center">
-<img src="/assets/img/Chat bubbles/no border - low background.jpg" width=600x> 
-</p>
-
 ## Средний размер
+
+<p align="center">
+<img src="/assets/img/Chat bubbles/no border - middle background.jpg" width=400x> 
+</p>
 
 <p></p>
 
@@ -49,11 +52,11 @@ image: /assets/img/Chat bubbles/all.jpg
 
 <p></p>
 
-<p align="center">
-<img src="/assets/img/Chat bubbles/no border - middle background.jpg" width=600x> 
-</p>
-
 ## Большой размер
+
+<p align="center">
+<img src="/assets/img/Chat bubbles/no border - high background.jpg" width=400x> 
+</p>
 
 <p></p>
 
@@ -61,11 +64,11 @@ image: /assets/img/Chat bubbles/all.jpg
 
 <p></p>
 
-<p align="center">
-<img src="/assets/img/Chat bubbles/no border - high background.jpg" width=600x> 
-</p>
-
 ## Без фона
+
+<p align="center">
+<img src="/assets/img/Chat bubbles/no border - no background.jpg" width=400x> 
+</p>
 
 <p></p>
 
@@ -73,13 +76,13 @@ image: /assets/img/Chat bubbles/all.jpg
 
 <p></p>
 
-<p align="center">
-<img src="/assets/img/Chat bubbles/no border - no background.jpg" width=600x> 
-</p>
-
 # Белая рамка
 
 ## Малый размер
+
+<p align="center">
+<img src="/assets/img/Chat bubbles/elvui style border - low background.jpg" width=400x> 
+</p>
 
 <p></p>
 
@@ -87,11 +90,11 @@ image: /assets/img/Chat bubbles/all.jpg
 
 <p></p>
 
-<p align="center">
-<img src="/assets/img/Chat bubbles/elvui style border - low background.jpg" width=600x> 
-</p>
-
 ## Средний размер
+
+<p align="center">
+<img src="/assets/img/Chat bubbles/elvui style border - mid background.jpg" width=400x> 
+</p>
 
 <p></p>
 
@@ -99,11 +102,11 @@ image: /assets/img/Chat bubbles/all.jpg
 
 <p></p>
 
-<p align="center">
-<img src="/assets/img/Chat bubbles/elvui style border - mid background.jpg" width=600x> 
-</p>
-
 ## Большой размер
+
+<p align="center">
+<img src="/assets/img/Chat bubbles/elvui style border - high background.jpg" width=400x> 
+</p>
 
 <p></p>
 
@@ -111,13 +114,13 @@ image: /assets/img/Chat bubbles/all.jpg
 
 <p></p>
 
-<p align="center">
-<img src="/assets/img/Chat bubbles/elvui style border - high background.jpg" width=600x> 
-</p>
-
 # Закругленная рамка
 
 ## Малый размер
+
+<p align="center">
+<img src="/assets/img/Chat bubbles/border - low background.jpg" width=400x> 
+</p>
 
 <p></p>
 
@@ -125,21 +128,17 @@ image: /assets/img/Chat bubbles/all.jpg
 
 <p></p>
 
-<p align="center">
-<img src="/assets/img/Chat bubbles/border - low background.jpg" width=600x> 
-</p>
-
 ## Средний размер
+
+<p align="center">
+<img src="/assets/img/Chat bubbles/border - middle background.jpg" width=400x> 
+</p>
 
 <p></p>
 
 {% include button.html name="Скачать" link="https://drive.google.com/drive/folders/18eTyQWMiVSKAuf6ZL_V3XuBj9Qv-pBtB?usp=sharing" %}  
 
 <p></p>
-
-<p align="center">
-<img src="/assets/img/Chat bubbles/border - middle background.jpg" width=600x> 
-</p>
 
 
 # Заключение
