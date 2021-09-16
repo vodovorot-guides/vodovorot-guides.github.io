@@ -12,7 +12,7 @@ image: /assets/img/vuhdo/Как добавить болванчиков для �
 # Вступление
 
 <p align="center">
-<img src="https://media.wago.io/screenshots/knw9N5An4/6136a1516a54d73b0951bea7.png" width=600x> 
+<img src="/assets/img/vuhdo/frames.jpg" width=600x> 
 </p>
 
 **VuhDo** – крайне мощный и многофункциональный аддон для рейдовых фреймов.
