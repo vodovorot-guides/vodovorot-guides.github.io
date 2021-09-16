@@ -84,6 +84,8 @@ categories:
         url: /info/sim.html
       - title: Количество целей заклинаний
         url: /info/target_cap.html
+      - title: Облачка сообщений
+        url: /info/chatbubbles.html        
       - title: Авторы и благодарности
         url: /info/patrons.html
         divided: true
