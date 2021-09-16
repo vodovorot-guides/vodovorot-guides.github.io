@@ -16,6 +16,8 @@ image: /assets/img/Chat bubbles/all.jpg
 
 # Установка
 
+Стандартные облачка сообщений – слишком большие и неудобные, однако они очень часто используются для анонсов в рейде и подземельях. Однако их можно легко заменить на более минималистичный вариант.
+
 Для установки данных облачков сообщений **не потребуются** никакие аддоны. Пошаговая инструкция:
 
 1. Выберите желаемый вид облачков сообщений и нажмите кнопку **«Скачать»**.
@@ -23,7 +25,6 @@ image: /assets/img/Chat bubbles/all.jpg
 3. В папке установки World Of Warcraft перейдите в **\_retail_** → **Interface** → создайте папку **Tooltips**.
 4. Скопируйте два скачанных файла в папку **Tooltips**.
 5. Перезапустите World Of Warcraft.
-
 
 # Без рамки
 
@@ -143,4 +144,4 @@ image: /assets/img/Chat bubbles/all.jpg
 
 # Заключение
 
-Найти меня всегда можно на Discord-сервере [«Водоворот»](https://discord.gg/vodovorot), а так же на [YouTube](https://www.youtube.com/Amanizandalari) и [Twitch-канале](https://www.twitch.tv/amanizandalari).
+Заходите на наш Discord-сервер [«Водоворот»](https://discord.gg/vodovorot), а также подписывайтесь на [YouTube](https://www.youtube.com/Amanizandalari) и [Twitch](https://www.twitch.tv/amanizandalari).
