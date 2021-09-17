@@ -57,13 +57,13 @@ custom-javascript-list:
 4. {:.spike-apl}{{ site.data.spells.spike }}.
 5. {:.wolf-apl}{{ site.data.spells.feral }}.
 6. {{ site.data.spells.ss }}.
+5. {:.leg_fae-apl}{{ site.data.spells.feral }}.
 7. {:.ft-apl}{{ site.data.covenants.ft }}.
 5. {:.witch-apl}{{ site.data.spells.feral }}.
 5. {:.actuators-apl}{{ site.data.spells.feral }}.
 5. {:.doom-apl}{{ site.data.spells.feral }}.
 5. {:.leg_kyrian-apl}{{ site.data.spells.feral }}.
 5. {:.leg_venthyr-apl}{{ site.data.spells.feral }}.
-5. {:.leg_fae-apl}{{ site.data.spells.feral }}.
 5. {:.leg_necrolords-apl}{{ site.data.spells.feral }}.
 6. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
 6. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
