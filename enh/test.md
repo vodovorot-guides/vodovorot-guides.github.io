@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Совершенствования
 layout: page
-last_update: 2021-09-17
+last_update: 2021-09-16
 wow: 9.1
 toc: true
 author: "Amani, Wordup"
@@ -41,9 +41,6 @@ custom-javascript-list:
 
 **Опенер** – это фиксированный порядок кастов в самом начале боя против одной цели.
 
-Опенер в билде для **Рейда**, с талантами [Духи стихий](https://ru.wowhead.com/spell=262624) и {{ site.data.spells.eb }}:
-
-
 1. {:.witch-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
 1. {:.actuators-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
 1. {:.wolf-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
@@ -68,7 +65,8 @@ custom-javascript-list:
 5. {:.leg_venthyr-apl}{{ site.data.spells.feral }}.
 5. {:.leg_fae-apl}{{ site.data.spells.feral }}.
 5. {:.leg_necrolords-apl}{{ site.data.spells.feral }}.
-6. {:.asc_enh-apl}{{ site.data.spells.asc_enh }} и сразу же {{ site.data.spells.windstrike }}
+6. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
+6. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
 1. {:.doom-apl}{{ site.data.spells.wt }} для активации эффекта легендарки {{ site.data.legend.doom }}.
 7. Продолжайте обычную ротацию.
 
