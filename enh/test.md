@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Совершенствования
 layout: page
-last_update: 2021-09-16
+last_update: 2021-09-17
 wow: 9.1
 toc: true
 author: "Amani, Wordup"
@@ -53,7 +53,7 @@ custom-javascript-list:
 3. {:.ch-apl}{{ site.data.spells.fs }} в момент пула, по дороге к боссу.
 3. {:.ft-apl}{{ site.data.spells.fs }} в момент пула, по дороге к боссу.
 3. {:.pw-apl}{{ site.data.covenants.pw }} в момент пула, по дороге к боссу.
-3. {{ site.data.covenants.vt }} сразу после пула, под босса.
+3. {:.vt-apl}{{ site.data.covenants.vt }} сразу после пула, под босса.
 4. {:.spike-apl}{{ site.data.spells.spike }}.
 5. {:.wolf-apl}{{ site.data.spells.feral }}.
 6. {{ site.data.spells.ss }}.
