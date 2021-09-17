@@ -1,59 +1,155 @@
 ---
-title: Альтернативный билд для Энха в Мифик+
+title: Ротация Шамана Совершенствования
 layout: page
-last_update: 2021-08-20
+last_update: 2021-09-17
 wow: 9.1
-author: "Waves, Andoriz, Amani"
 toc: true
-description: Описание нового билда для Мифик+ от Waves.
+author: "Amani, Wordup"
+description: Описание ротации Шамана Совершенствования. Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант.
+image: /assets/img/logos/rotation.png
+custom-javascript-list:
+    - "/assets/js/rotation_switches.js"
 ---
 
-# Вступление
+<details markdown=1><summary><i>Журнал изменений</i></summary>
+<br>
 
-Альтернативный билд для Мифик+ от [Waves](https://raider.io/characters/eu/frostwolf/Waves), без использования легендарки [Ветра рока](https://ru.wowhead.com/spell=335902) и таланта [Перерождение](https://ru.wowhead.com/spell=114051). Видео про этот билд:
+* **17.09.2021**: Обновлен опенер, теперь динамически меняется для любого билда.
+* **20.08.2021**: Добавлен выбор билда для Мифик+ и рейда.
 
-{% include youtube.html id="ggl9l25h7cw" %}
+</details>
+<p></p>
+
+# Выбор билда
+
+Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарка и ковенант:
+
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
+      <a href="/enh/rotation.html" id="raid_build_enh" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Рейда</a>
+      <a href="/enh/rotation.html" id="mplus_build_enh" button="button" class="btn btn-outline-primary guide-btn">Выбрать билд для Мифик+</a>
+    </div>
+  </div>
+</div>
 
 <p></p>
 
-<!--more-->
+{% include talents.html data=site.data.talents.enh active="3201031" switch=true %}
 
-# Легендарка и проводники
+# Открывающая ротация, «Opener»
 
-В этом билде используется легендарка [Волчьи кости колдуна](https://ru.wowhead.com/spell=335897) и проводники [Холодная душа](https://ru.wowhead.com/spell=338325?ilvl=252) и [Неистовые ветра](https://ru.wowhead.com/spell=338318?ilvl=252). Третий проводник – тот, что лучше по [Raidbots](https://www.raidbots.com/simbot).
+**Опенер** – это фиксированный порядок кастов в самом начале боя против одной цели.
 
-# Таланты
+Опенер в билде для **Рейда**, с талантами [Духи стихий](https://ru.wowhead.com/spell=262624) и {{ site.data.spells.eb }}:
 
-Данный билд талантов можно назвать «гибридным», так как тут используется [Неистовые ветра](https://ru.wowhead.com/spell=262647/) и [Грозовой шквал](https://ru.wowhead.com/spell=344357), но не берется [Перерождение](https://ru.wowhead.com/spell=114051). Основа билда – {{ site.data.spells.hailstorm }}
 
-{% include talents.html data=site.data.talents.enh active="2102031" %}
+1. {:.witch-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
+1. {:.actuators-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
+1. {:.wolf-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
+1. {:.leg_kyrian-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
+1. {:.leg_venthyr-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
+1. {:.leg_fae-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
+1. {:.leg_necrolords-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
+2. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) прекастом до пула.
+3. {:.vt-apl}{{ site.data.spells.fs }} в момент пула, по дороге к боссу.
+3. {:.ch-apl}{{ site.data.spells.fs }} в момент пула, по дороге к боссу.
+3. {:.ft-apl}{{ site.data.spells.fs }} в момент пула, по дороге к боссу.
+3. {:.pw-apl}{{ site.data.covenants.pw }} в момент пула, по дороге к боссу.
+3. {{ site.data.covenants.vt }} сразу после пула, под босса.
+4. {:.spike-apl}{{ site.data.spells.spike }}.
+5. {:.wolf-apl}{{ site.data.spells.feral }}.
+6. {{ site.data.spells.ss }}.
+7. {:.ft-apl}{{ site.data.covenants.ft }}.
+5. {:.witch-apl}{{ site.data.spells.feral }}.
+5. {:.actuators-apl}{{ site.data.spells.feral }}.
+5. {:.doom-apl}{{ site.data.spells.feral }}.
+5. {:.leg_kyrian-apl}{{ site.data.spells.feral }}.
+5. {:.leg_venthyr-apl}{{ site.data.spells.feral }}.
+5. {:.leg_fae-apl}{{ site.data.spells.feral }}.
+5. {:.leg_necrolords-apl}{{ site.data.spells.feral }}.
+6. {:.asc_enh-apl}{{ site.data.spells.asc_enh }} и сразу же {{ site.data.spells.windstrike }}
+1. {:.doom-apl}{{ site.data.spells.wt }} для активации эффекта легендарки {{ site.data.legend.doom }}.
+7. Продолжайте обычную ротацию.
 
-# Плюсы
+# Бой против одной цели
 
-* Нет сильной зависимости от запулов и знания роута. В этом билде по сути нету бурстов, которые нужно распределять между паками.
-* Постоянный хороший урон  **3-6** целям.
-* Большая генерация стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-* Частые вызовы [Духов дикого зверя](https://ru.wowhead.com/spell=51533).
-* Меньше простоев, чем в стандартном билде через [Ветра рока](https://ru.wowhead.com/spell=335902).
+Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта:
 
-# Минусы
+1. {:.witch-apl}{{ site.data.spells.wt }}, если тотем не активен.
+1. {:.actuators-apl}{{ site.data.spells.wt }}, если тотем не активен.
+1. {:.wolf-apl}{{ site.data.spells.wt }}, если тотем не активен.
+2. {:.pw-apl}{{ site.data.covenants.pw }}.
+3. {{ site.data.spells.fs }}, если отсутствует на цели.
+4. {{ site.data.spells.feral }} для генерации стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+16. {:.hh-apl}{{ site.data.spells.ll }} с баффом от таланта {{ site.data.spells.hh }}.
+6. {:.lf-apl}{{ site.data.spells.ll }} при отсутствии дебаффа {{ site.data.spells.lf }}.
+7. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
+8. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
+9. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
+10. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }}.
+11. {:.vt-apl}{{ site.data.covenants.vt }}. 
+12. {:.spike-apl}{{ site.data.spells.spike }}.
+13. {:.ft-apl}{{ site.data.covenants.ft }}. 
+13. {:.sk_enh-apl}{{ site.data.spells.cl }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
+14. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+15. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+13. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+16. {{ site.data.spells.lb }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+17. {{ site.data.spells.ss }}.
+18. {{ site.data.spells.ll }}.
+19. {{ site.data.spells.crush }}.
+20. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
+21. {{ site.data.spells.frs }}. 
+22. {:.is-apl}{{ site.data.spells.is }}.
+23. {:.sunder-apl}{{ site.data.spells.sunder }}.
+24. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}.
+25. {{ site.data.spells.lb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+26. {{ site.data.spells.wt }} если все другие способности недоступны.
 
-* Отсутствует бурст.
-* Урон дальше **6** целей практически не увеличивается – только за счет [Раскола](https://ru.wowhead.com/spell=197214) и [Сокрушающей молнии](https://ru.wowhead.com/spell=187874).
-* Это связано с ограничением на количество целей у [Цепной молнии](https://ru.wowhead.com/spell=188443) (**3** цели) и [Бури с градом](https://ru.wowhead.com/spell=334195) (**6** целей).
+# Основные моменты ротации
 
-# Характеристики
+* **Не стоит сразу тратить стаки {{ site.data.spells.mw }}, и не стоит уходить в оверкап.** Лучше всего сливать их на **7-8** стаках, в удобное время между кулдаунами других способностей.
+* **Держите шоки на кулдауне.** Это относится как к бою против одной цели, где необходимо поддерживать {{ site.data.spells.fs }}, так и к АОЕ со взятым талантом {{ site.data.spells.hailstorm }}. Шоки позволяют снижать простои в ротации, так что используйте их по первой возможности.
+* **Используйте прок {{ site.data.spells.sb }} так быстро, насколько это возможно.** Наша задача не дать прокам и кулдауну {{ site.data.spells.ss }} пропасть зря, поэтому реагировать на {{ site.data.spells.sb }} крайне важно.
+* Аналогичная ситуация с талантом {{ site.data.spells.hh }} – {{ site.data.spells.ll }} с этим баффом имеет гораздо больший приоритет, чем без него.
+* Перед применением [Перерождения](https://ru.wowhead.com/spell=114051) всегда используйте {{ site.data.spells.ss }}, так как его кулдаун сбросится после после активации этого таланта.
+* Обновляйте {{ site.data.spells.fs }}, когда до конца его спадения осталось менее **5.4** секунд, чтобы это время добавилось к новому {{ site.data.spells.fs }}.
+* Не стоит тратить стаки {{ site.data.spells.mw }} на {{ site.data.spells.lb }} сразу же, как только вы набрали **5** стаков. Так как максимум возможно набрать **10** стаков, используйте сначала другие способности, чтобы начать их кулдаун. 
+* Для уменьшения количества простоев следует сначала использовать способности с коротким кулдауном, а уже затем с долгим. Это отражено в списке приоритетов.
 
-В этом билде хорошо себя показывает **Искусность**, за счет частых кастов [Ледяного шока](https://ru.wowhead.com/spell=196840) и [Цепной молнии](https://ru.wowhead.com/spell=188443). Желательно иметь её больше, чем Скорости (в единицах характеристики, а не в процентах), чтобы получать на неё бафф от аффиксных мобов в Мифик+. Не забывайте [симиться](https://www.raidbots.com/simbot) – особенности данного билда и источники его урона учитываются в Симкрафте.
+# Бой на АоЕ
 
-# Ротация и приоритеты
+Ротация на АоЕ при взятых талантах {{ site.data.spells.fw }}, {{ site.data.spells.flurry }}, {{ site.data.spells.sunder }} и {{ site.data.spells.asc_enh }}:
 
-Приоритеты способностей такие же, как и при игре с [Бурей с градом](https://ru.wowhead.com/spell=334195) в стандартном билде. Всё отличие лишь в более частом вызове [Духов дикого зверя](https://ru.wowhead.com/spell=51533).
+1. {{ site.data.spells.wt }} – если тотем не активен.
+3. {{ site.data.spells.asc_enh }}, стараясь задеть максимальное количество целей при активации.
+5. {{ site.data.spells.sunder }} на максимально количество целей.
+7. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+8. {{ site.data.spells.crush }}.
+9. {{ site.data.spells.ss }}.
+10. {{ site.data.spells.ll }} если ничего больше не доступно.
 
-{% include button.html name="Способности и ротация Энх шамана" link="/enh/rotation.html" %}  
+* Способности ковенантов и {{ site.data.spells.feral }} следует использовать по кулдауну. {{ site.data.covenants.ch }} только на **5+** стаках {{ site.data.spells.mw }}. {{ site.data.covenants.ft }} стоит придержать, пока не останется **1-3** моба.
 
-<p></p>
+# Влияние легендарных предметов
 
-# Вывод
+Приоритет способностей в бою против **одной цели** под баффом от легендарки {{ site.data.legend.doom }}:
 
-Хороший **альтернативный** билд, если надоело играть через [Ветра рока](https://ru.wowhead.com/spell=335902) и [Перерождение](https://ru.wowhead.com/spell=114051). В зависимости от аффикса, группы, роута и прочих факторов может показать себя как лучше стандартного билда, так и хуже. 
+1. {{ site.data.spells.windstrike }} при активном {{ site.data.spells.asc_enh }}
+2. {{ site.data.spells.ss }}
+3. {{ site.data.spells.crush }}
+4. {{ site.data.spells.sunder }}
+5. Все остальные способности, согласно обычной ротации.
+
+Приоритет способностей на **АоЕ** под баффом от легендарки {{ site.data.legend.doom }}.
+
+За счет того, что {{ site.data.spells.crush }} считается атакой с правой руки, шанс на прок [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757) рассчитывается на каждую пораженную цель. А с легендаркой {{ site.data.legend.doom }} этот шанс становится равен **100%**, что также усиливает талант {{ site.data.spells.fw }}, делая эту легу лучшим вариантом для боя со множеством целей. 
+{: class="bordered"}
+
+1. {{ site.data.spells.crush }}
+2. {{ site.data.spells.sunder }}
+3. {{ site.data.spells.ss }} / {{ site.data.spells.windstrike }} 
+4. Все остальные способности, согласно обычной ротации.
+
+**Важно!** Если до конца кулдауна [Сокрушающей молнии](https://ru.wowhead.com/spell=187874) осталось более **3** секунд, используйте [Цепную молнию](https://ru.wowhead.com/spell=188443) для сброса её КД. Это даст дополнительный прок [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757) по всем целям.
