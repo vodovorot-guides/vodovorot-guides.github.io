@@ -177,7 +177,7 @@ image: /assets/img/logos/sanctum.png
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/dormazain/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2434&class=Shaman&spec=Elemental)
 
-**Таланты:**
+**Таланты на освоение:**
 * **15**: {{ site.data.spells.eote }}
 * **25**: {{ site.data.spells.afs }}
 * **30**: {{ site.data.spells.spirit_wolf }}
@@ -198,6 +198,7 @@ image: /assets/img/logos/sanctum.png
 * Если у вас нет монаха, то сразу после появления большого адда раскидайте от него мелких аддов с помощью [Грома и молнии](https://ru.wowhead.com/spell=51490).
 * Адды являются гуманоидами, а значит на них действует [Сглаз](https://ru.wowhead.com/spell=51514).
 * {{ site.data.spells.wrt }} отлично заходит на фазу с красной заливкой. Ставьте его сразу под ноги, а не на ход рейда, иначе кто-то может не успеть перебежать.
+* На фарме вы можете переключиться на АоЕ-билд через [Элементаля бури](https://ru.wowhead.com/spell=192249), но на освоении этого делать не рекомендуется. 
 
 ## Кузнец боли Разнал
 
