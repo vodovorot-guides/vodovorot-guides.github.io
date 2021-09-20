@@ -1,7 +1,7 @@
 ---
 title: Характеристики шамана Исцеления
 layout: page
-last_update: 2021-07-23
+last_update: 2021-09-20
 wow: 9.1
 toc: true
 author: Amani
