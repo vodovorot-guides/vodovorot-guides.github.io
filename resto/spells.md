@@ -1,5 +1,5 @@
 ---
-title: Способности Шамана Исцеления
+title: 123
 layout: page
 last_update: 2021-09-21
 wow: 9.1
@@ -7,13 +7,7 @@ toc: true
 author: Amani
 description: В этой статье вы найдете подробное описание способностей и рекомендации по их применению Шамана Исцеления.
 image: /assets/img/logos/spells.png
-custom-javascript-list:
-    - "/assets/js/rotation_switches.js"
 ---
-
-<!--
-{% include talents.html data=site.data.talents.resto active="3102032" switch=true %}
--->
 
 # Вступление
 
