@@ -18,7 +18,7 @@ image: /assets/img/logos/wa.png
 <img src="https://i.imgur.com/lXn3NWJ.png" width=350x> 
 </p>
 
-[Талант Тотем разразившегося ливня:](https://wago.io/lqLj_pm5g)
+[Талант Тотем разразившегося ливня:](https://wago.io/VHS1b2wJa)
 {: style="text-align: center;"}
 
 <p align="center">
