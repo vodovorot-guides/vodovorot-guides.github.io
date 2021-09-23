@@ -44,8 +44,9 @@ image: /assets/img/logos/conduits.png
 
 <a href="https://ru.wowhead.com/spell=338322?ilvl=252" target="blank" data-wh-icon-size="medium" >**Направленная молния**</a> – {{ site.data.spells.mw }} увеличивает урон и эффективность исцеления следующего примененного заклинания дополнительно на **3%** за эффект (**15%** на **5** стаках).
 
-* Значения этого баффа добавляются к базовому эффекту [Оружия Водоворота](https://ru.wowhead.com/spell=187880).  
+* Значения этого баффа добавляются к базовому эффекту [Оружия Водоворота](https://ru.wowhead.com/spell=187880), а не к финальному.
 * Пять стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) увеличивает урон заклинаний на **200%**, тогда как с проводником – на **215%**.
+* Финальный урон заклинания увеличивается на **7.5%**.
 * Работает в том числе и на заклинания исцеления ({{ site.data.spells.hs }}, {{ site.data.spells.ch }}), а также на {{ site.data.covenants.ch }}.
 
 <a href="https://ru.wowhead.com/spell=338325?ilvl=252" target="blank" data-wh-icon-size="medium" >**Холодная душа**</a> – {{ site.data.spells.frs }} с вероятностью **29%** дает два заряда [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
