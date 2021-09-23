@@ -70,6 +70,7 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/tarragrue/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2423&class=Shaman&spec=Elemental)
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/the-tarragrue)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -95,6 +96,7 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель / Клив  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/eyeOfTheJailer/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2433&class=Shaman&spec=Elemental)
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/the-eye-of-the-jailer)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -119,6 +121,7 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Клив / Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/theNine/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2429&class=Shaman&spec=Elemental)
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/the-nine)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -147,6 +150,7 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель / Клив  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/nerZhul/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2432&class=Shaman&spec=Elemental)
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/remnant-of-nerzhul)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -176,6 +180,7 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** АоЕ  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/dormazain/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2434&class=Shaman&spec=Elemental)
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/soulrender-dormazain)
 
 **Таланты на освоение:**
 * **15**: {{ site.data.spells.eote }}
@@ -209,6 +214,7 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/raznal/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2430&class=Shaman&spec=Elemental)
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/painsmith-raznal)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -241,6 +247,7 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/guardian/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2436&class=Shaman&spec=Elemental)
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/guardian-of-the-first-ones)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -259,7 +266,7 @@ image: /assets/img/logos/sanctum.png
 * Полезная WA на вынос кругов, рекомендуется ставить всему рейду – по [этой ссылке](https://wago.io/oqtb813vy).
 * Используйте [Астральный сдвиг](https://ru.wowhead.com/spell=108271) на вынос кругов перед или после АоЕ урона по рейду, либо если вы стали целью обстрела от шаров. Обычный АоЕ урон протокола должен прохиливаться и перекрываться рейдовыми сейвами.
 * [Элементаля земли](https://ru.wowhead.com/spell=198103) можно использовать как с пула для дополнителього урона, так и как сейв на одном из обелисков.
-* В целом боя для Элем Шамана крайне прост и мало чем отличается от Героика. У нас нет иммуна для перекрывания кругов и самое главное – правильно выносить круги и не умирать.
+* В целом бой для Элем Шамана крайне прост и мало чем отличается от Героика. У нас нет иммуна для перекрывания кругов и самое главное – правильно выносить круги и не умирать.
 * {{ site.data.spells.wrt }} стоит использовать в момент, когда танки заводят босса в обелиск и появляются три круга для выноса. Он простоит всю переходку, поможет выбежать людям с кругами, поможет всему рейду выйти от луча и перебежать после окончания времени действия обелиска.
 
 ## Писарь судьбы Ро-Кало
@@ -271,6 +278,7 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель / Клив / АоЕ  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/rohKalo/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2431&class=Shaman&spec=Elemental)
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/fatescribe-rohkalo)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -305,6 +313,7 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель / Клив / АоЕ  
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/kelThuzad/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2422&class=Shaman&spec=Elemental)
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/kelthuzad)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -330,9 +339,10 @@ image: /assets/img/logos/sanctum.png
 
 ## Сильвана Ветрокрылая
 
-**Тип боя:** Одна цель  
+**Тип боя:** АоЕ на **1-2** фазах / Одна цель на **3** фазе
 **Разбор тактики:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/sylvanas/heroic/none)  
 **Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2435&class=Shaman&spec=Elemental)
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/sylvanas-windrunner)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -340,11 +350,12 @@ image: /assets/img/logos/sanctum.png
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.mote }}
 * **40**: {{ site.data.spells.wrt }}
-* **45**: {{ site.data.spells.primal_elem }} или {{ site.data.spells.if }}
+* **45**: {{ site.data.spells.if }}
 * **50**: {{ site.data.spells.sk }}
 
 **Легендарные предметы:**
-* {{ site.data.legend.lava }}
+* {{ site.data.legend.eogs }} – если нужен урон по аддам на первой и второй фазе.
+* {{ site.data.legend.lava }} – если нужен урон по боссу на третьей фазе.
 
 **Советы:**
 * Раздел в разработке.
