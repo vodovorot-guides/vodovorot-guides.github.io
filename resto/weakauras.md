@@ -15,7 +15,7 @@ image: /assets/img/logos/wa.png
 {: style="text-align: center;"}
 
 <p align="center">
-<img src="https://media.wago.io/screenshots/q1Uvaa6-G/60cc491fd503f502b8b89ea8.jpg" width=350x> 
+<img src="https://media.wago.io/screenshots/q1Uvaa6-G/60cc491fd503f502b8b89ea8.jpg" > 
 </p>
 
 [Талант Тотем разразившегося ливня:](https://wago.io/VHS1b2wJa)
@@ -42,6 +42,13 @@ image: /assets/img/logos/wa.png
 
 
 # Различные сборки WeakAuras
+
+[Сборка от Grayscale и Amani (3 группы):](https://wago.io/CHo-nfmhB)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/CHo-nfmhB/614cb685386c3305790c4157.jpg" width=350x> 
+</p>
 
 [Сборка от Omeja:](https://wago.io/jUWUuuBOT)
 {: style="text-align: center;"}
