@@ -1,7 +1,7 @@
 ---
 title: Проводники Шамана – все специализации 
 layout: page
-last_update: 2021-06-30
+last_update: 2021-09-23
 wow: 9.1
 toc: true
 author: Amani
@@ -44,7 +44,8 @@ image: /assets/img/logos/conduits.png
 
 <a href="https://ru.wowhead.com/spell=338322?ilvl=252" target="blank" data-wh-icon-size="medium" >**Направленная молния**</a> – {{ site.data.spells.mw }} увеличивает урон и эффективность исцеления следующего примененного заклинания дополнительно на **3%** за эффект (**15%** на **5** стаках).
 
-* Значения этого баффа добавляются напрямую к эффекту [Оружия Водоворота](https://ru.wowhead.com/spell=187880).  
+* Значения этого баффа добавляются к базовому эффекту [Оружия Водоворота](https://ru.wowhead.com/spell=187880).  
+* Пять стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) увеличивает урон заклинаний на **200%**, тогда как с проводником – на **215%**.
 * Работает в том числе и на заклинания исцеления ({{ site.data.spells.hs }}, {{ site.data.spells.ch }}), а также на {{ site.data.covenants.ch }}.
 
 <a href="https://ru.wowhead.com/spell=338325?ilvl=252" target="blank" data-wh-icon-size="medium" >**Холодная душа**</a> – {{ site.data.spells.frs }} с вероятностью **29%** дает два заряда [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
