@@ -18,8 +18,8 @@ Elemental Shaman rotation breakdown. Spell priorities on this page   change dyna
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="/ele/rotation.html" id="raid_build" button="button" class="btn btn-outline-primary guide-btn">Raiding Build</a>
-      <a href="/ele/rotation.html" id="mplus_build" button="button" class="btn btn-outline-primary guide-btn">Mythic+ Build</a>
+      <a href="/ele/rotation_en.html" id="raid_build" button="button" class="btn btn-outline-primary guide-btn">Raiding Build</a>
+      <a href="/ele/rotation_en.html" id="mplus_build" button="button" class="btn btn-outline-primary guide-btn">Mythic+ Build</a>
     </div>
   </div>
 </div>
