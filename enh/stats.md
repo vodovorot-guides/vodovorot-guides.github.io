@@ -5,7 +5,7 @@ last_update: 2021-09-24
 wow: 9.1
 author: Amani
 toc: true
-description: Все про характеристки Энх Шамана – подробное описание статов, как правильно их собирать и что такое «Diminishing Returns».
+description: Все про характеристки Энх Шамана – подробное описание статов, как правильно их собирать и что такое Diminishing Returns.
 image: /assets/img/logos/stats.png
 ---
 
