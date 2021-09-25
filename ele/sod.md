@@ -65,8 +65,8 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель  
 **Тактика Героик, на русском:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/tarragrue/heroic/none)  
 **Тактика Мифик, на английском:** [Ссылка](https://www.method.gg/guides/sanctum-of-domination/the-tarragrue)  
-**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2423&class=Shaman&spec=Elemental)
-**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/the-tarragrue)
+**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2423&class=Shaman&spec=Elemental)  
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/the-tarragrue)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -92,8 +92,8 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель / Клив  
 **Тактика Героик, на русском:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/eyeOfTheJailer/heroic/none)  
 **Тактика Мифик, на английском:** [Ссылка](https://www.method.gg/guides/sanctum-of-domination/the-eye-of-the-jailer)  
-**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2433&class=Shaman&spec=Elemental)
-**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/the-eye-of-the-jailer)
+**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2433&class=Shaman&spec=Elemental)  
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/the-eye-of-the-jailer)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -118,8 +118,8 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Клив / Одна цель  
 **Тактика Героик, на русском:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/theNine/heroic/none)  
 **Тактика Мифик, на английском:** [Ссылка](https://www.method.gg/guides/sanctum-of-domination/the-nine)  
-**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2429&class=Shaman&spec=Elemental)
-**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/the-nine)
+**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2429&class=Shaman&spec=Elemental)  
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/the-nine)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -148,8 +148,8 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель / Клив  
 **Тактика Героик, на русском:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/nerZhul/heroic/none)  
 **Тактика Мифик, на английском:** [Ссылка](https://www.method.gg/guides/sanctum-of-domination/remnant-of-nerzhul)  
-**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2432&class=Shaman&spec=Elemental)
-**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/remnant-of-nerzhul)
+**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2432&class=Shaman&spec=Elemental)  
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/remnant-of-nerzhul)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -179,8 +179,8 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** АоЕ  
 **Тактика Героик, на русском:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/dormazain/heroic/none)  
 **Тактика Мифик, на английском:** [Ссылка](https://www.method.gg/guides/sanctum-of-domination/soulrender-dormazain)  
-**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2434&class=Shaman&spec=Elemental)
-**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/soulrender-dormazain)
+**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2434&class=Shaman&spec=Elemental)  
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/soulrender-dormazain)  
 
 **Таланты на освоение:**
 * **15**: {{ site.data.spells.eote }}
@@ -214,8 +214,8 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель  
 **Тактика Героик, на русском:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/raznal/heroic/none)  
 **Тактика Мифик, на английском:** [Ссылка](https://www.method.gg/guides/sanctum-of-domination/painsmith-raznal)  
-**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2430&class=Shaman&spec=Elemental)
-**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/painsmith-raznal)
+**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2430&class=Shaman&spec=Elemental)  
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/painsmith-raznal)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -248,8 +248,8 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель  
 **Тактика Героик, на русском:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/guardian/heroic/none)  
 **Тактика Мифик, на английском:** [Ссылка](https://www.method.gg/guides/sanctum-of-domination/guardian-of-the-first-ones)  
-**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2436&class=Shaman&spec=Elemental)
-**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/guardian-of-the-first-ones)
+**Warcraftlogs:** [Ссылка](https://ru.warcraftlogs.com/zone/rankings/28#boss=2436&class=Shaman&spec=Elemental)  
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/guardian-of-the-first-ones)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -280,8 +280,8 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель / Клив / АоЕ  
 **Тактика Героик, на русском:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/rohKalo/heroic/none)  
 **Тактика Мифик, на английском:** [Ссылка](https://www.method.gg/guides/sanctum-of-domination/fatescribe-roh-kalo)  
-**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2431&class=Shaman&spec=Elemental)
-**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/fatescribe-rohkalo)
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2431&class=Shaman&spec=Elemental)  
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/fatescribe-rohkalo)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -316,8 +316,8 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** Одна цель / Клив / АоЕ  
 **Тактика Героик, на русском:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/kelThuzad/heroic/none)  
 **Тактика Мифик, на английском:** [Ссылка](https://www.method.gg/guides/sanctum-of-domination/kelthuzad)  
-**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2422&class=Shaman&spec=Elemental)
-**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/kelthuzad)
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2422&class=Shaman&spec=Elemental)  
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/kelthuzad)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
@@ -350,8 +350,8 @@ image: /assets/img/logos/sanctum.png
 **Тип боя:** АоЕ на **1-2** фазах / Одна цель на **3** фазе
 **Тактика Героик, на русском:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/sylvanas/heroic/none)  
 **Тактика Мифик, на английском:** [Ссылка](https://www.method.gg/guides/sanctum-of-domination/sylvanas-windrunner)  
-**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2435&class=Shaman&spec=Elemental)
-**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/sylvanas-windrunner)
+**Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2435&class=Shaman&spec=Elemental)  
+**Тайминги бурстов:** [Ссылка](https://lorrgs.nw.r.appspot.com/spec_ranking/shaman-elemental/sylvanas-windrunner)  
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
