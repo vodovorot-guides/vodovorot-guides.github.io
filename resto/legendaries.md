@@ -68,8 +68,8 @@ image: /assets/img/logos/leggos.png
 * C проводником можно сократить время восстановления [Тотема целительного прилива](https://ru.wowhead.com/spell=108280) до **1:50** вместо **3:00** минут.
 * Пригодится в боях, где нужен максимально частый откат [Тотема целительного прилива](https://ru.wowhead.com/spell=108280) и он не будет простаивать в ожидании очереди сейвов.
 
+# Остальные легендарки
 
-# Ковенантские легендарки
 
 <a href="https://ru.wowhead.com/spell=356250" target="blank" data-wh-icon-size="medium" >**Проводник стихий**</a> – легендарка <span style="color:#ff4040;font-size:1em;">**Вентиров**</span>. К союзникам, исцеленным [Цепной жатвой](https://ru.wowhead.com/spell=320674) применяется [Быстрина](https://ru.wowhead.com/spell=61295). К противникам, получившим урон от [Цепной жатвы](https://ru.wowhead.com/spell=320674) применяется [Огненный шоки](https://ru.wowhead.com/spell=188389).
 
@@ -84,7 +84,6 @@ image: /assets/img/logos/leggos.png
 
 * Слабая легендарка, проигрывает вариантам выше.
 
-# Остальные легендарки
 
 <a href="https://ru.wowhead.com/spell=335886" target="blank" data-wh-icon-size="medium" >**Земная гармония**</a> – усиливает отхил от {{ site.data.spells.eshield }} на **150%**, если у цели менее **75%** от максимального здоровья. Применение к этой цели {{ site.data.spells.hw }} добавляет **1** заряд к {{ site.data.spells.eshield }}, максимум **9**.
 
