@@ -32,12 +32,18 @@ image: /assets/img/logos/wa.png
 <img src="https://media.wago.io/screenshots/HJ6r_zMBz/5a64d09b0d3afb30f0b83730.gif" width=350x> 
 </p>
 
+[Тотем прилива маны:](https://wago.io/7xO20dG6Q)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/3MdgKerSY/5f4603b080ef286112a8fd50.png" > 
+</p>
 
 [Легендарка Изначальное сердце волн:](https://wago.io/jU2A7FqYt)
 {: style="text-align: center;"}
 
 <p align="center">
-<img src="https://media.wago.io/screenshots/jU2A7FqYt/5fc89e35ce9e066319f3cf4a.png"> 
+<img src="https://media.wago.io/screenshots/jU2A7FqYt/5fc89e35ce9e066319f3cf4a.png" > 
 </p>
 
 
