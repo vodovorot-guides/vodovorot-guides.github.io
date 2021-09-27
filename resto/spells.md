@@ -528,7 +528,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 
 
 
-<a href="https://ru.wowhead.com/mana" target="blank" data-wh-icon-size="medium" >**Мана**</a> – 
+<a href="https://ru.wowhead.com/spell=13606" target="blank" data-wh-icon-size="medium" >**Мана**</a> – 
 
   Мана
   Искусность: Искусность: глубокое исцеление (Пассивный)
