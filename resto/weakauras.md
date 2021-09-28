@@ -18,6 +18,14 @@ image: /assets/img/logos/wa.png
 <img src="https://media.wago.io/screenshots/q1Uvaa6-G/60cc491fd503f502b8b89ea8.jpg" > 
 </p>
 
+[Водный щит:](https://wago.io/WaterShield)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/OL1P__U9Y/5f885dd159618a1f888cc3f0.png" > 
+</p>
+
+
 [Талант Тотем разразившегося ливня:](https://wago.io/VHS1b2wJa)
 {: style="text-align: center;"}
 
