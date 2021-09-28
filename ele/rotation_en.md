@@ -13,7 +13,7 @@ custom-javascript-list:
 ---
 # Talent Builds
 
-Elemental Shaman rotation breakdown. Spell priorities on this page   change dynamically depending on selected talents, legendary and covenant. Original Russian page is [here](https://stormkeeper.ru/ele/rotation.html).
+Elemental Shaman rotation breakdown. Spell priorities on this page   change dynamically depending on selected talents, legendary and covenant. Original Russian page is [here](https://stormkeeper.ru/ele/rotation.html). Author: [Amani](https://www.twitch.tv/amanizandalari) 
 
 <div class="container">
   <div class="row">
