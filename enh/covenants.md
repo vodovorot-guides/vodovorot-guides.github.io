@@ -1,7 +1,7 @@
 ---
 title: Ковенанты и медиумы – Шаман Совершенствования
 layout: page
-last_update: 2021-06-30
+last_update: 2021-09-29
 wow: 9.1
 toc: true
 author: Amani
@@ -32,60 +32,14 @@ image: /assets/img/logos/covenants.png
 Посмотреть актуальную статистику по распределению игроков среди ковенантов можно по этой [ссылке](https://mplus.subcreation.net/enhancement-shaman.html#covenants).
 {: class="bordered"}
 
-* <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>: хороши для **рейда**, отлично для **Мифик+**, отлично для **PvP**.
-
 * <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>: отлично для **рейда**, отлично для **Мифик+**, средне для **PvP**.
 
-* <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: отлично **везде**, но только после получения **57+** уровня известности.
+* <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: хороши] для **рейда**, отлично для **Мифик+**, средне для **PvP**.
+
+* <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>: нормально для **рейда**, отлично для **Мифик+**, отлично для **PvP**.
 
 * <span style="color:#40bf40;font-size:1em;">**Некролорды**</span> сейчас проигрывают трем другим ковенантам во всех типах контента.
 
-# <span style="color:#ff4040;font-size:1em;">Вентиры</span>
-
-<p align="center">
-<img src="/assets/img/Venthyr_sigil.png" > 
-</p>
-
-<p align="center" width="100%">
-    <img src="/assets/img/venthyr_idle1.png"> 
-</p>
-
-## <span style="color:#ff4040;font-size:1em;">Цепная жатва</span>
-
-<a href="https://ru.wowhead.com/spell=320674" target="blank" data-wh-icon-size="medium" >**Цепная жатва**</a> –  смесь двух наших заклинаний, {{ site.data.spells.cl }} и {{ site.data.spells.ch }}, но на **5** целей и с кулдауном в **полторы минуты**.
-
-* {{ site.data.covenants.ch }} снижает время произнесения и увеличивает урон/отхил за счет {{ site.data.spells.mw }}.
-* Работает в том числе и с проводником {{ site.data.conduits.focused }}.
-* Старайтесь придерживать эту способность, если в ближайшее время появятся дополнительные адды.
-* Нанесение урона и отхил срабатывает одновременно.
-* Снижает своё время восстановления на **5** секунд за каждое критическое попадание этой способностью, в том числе и от лечения.
-* Максимум время восстановления может снизиться на **50** секунд, то есть до **40** секунд.
-* Очень сильно хилит, по возможности старайтесь использовать, когда группа или рейд не на полном здоровье.
-* В первую очередь исцеляет самые раненые цели, то есть является «улучшенным смарт-хилом».
-* Хоть эта способность и выглядит так, будто она перескакивает от одной цели к другой, как {{ site.data.spells.cl }}, механика её работы кардинально отличается. По  сути это круговое АоЕ, которое лечит и дамажит **5** целей вокруг основной. Радиус действия – **20** метров вокруг первоначальной цели. 
-* {{ site.data.conduits.harvest }} – проводник, усиливающий эту способность. Увеличение шанса Критического удара как поднимает урон, так и потенциально снижает кулдаун {{ site.data.covenants.ch }}. 
-
-## <span style="color:#ff4040;font-size:1em;">Врата теней</span>
-
-<a href="https://ru.wowhead.com/spell=300728" target="blank" data-wh-icon-size="medium" >**Врата теней**</a> – телепорт на **35** метров со временем произнесения **1.5** секунды.
-
-* Перемещение с помощью {{ site.data.covenants.door }} не агрит противников на своем пути.  
-* {{ site.data.spells.mw }} не влияет на скорость произнесения {{ site.data.covenants.door }}.
-* Для пропуска групп врагов в Мифик+ использовать его вряд ли получится, так как дальность телепорта довольно маленькая.  
-
-## <span style="color:#ff4040;font-size:1em;">Легендарный предмет</span>
-
-<a href="https://ru.wowhead.com/spell=356250" target="blank" data-wh-icon-size="medium" >**Проводник стихий**</a> – к союзникам, исцеленным [Цепной жатвой](https://ru.wowhead.com/spell=320674) применяется [Быстрина](https://ru.wowhead.com/spell=61295). К противникам, получившим урон от [Цепной жатвы](https://ru.wowhead.com/spell=320674) применяется [Огненный шоки](https://ru.wowhead.com/spell=188389).
-
-* Слабая легендарка, практически бесполезна в бою против одной цели, а на АоЕ проигрывает [Ветрам рока](https://ru.wowhead.com/spell=335902).
-
-## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
-
-**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – лучший медиум для **рейда** и **Мифик+**:
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr74CBShxCBUogAgSBSmOCCUpkggiFSg9CDUoNgg"></a>
-
-<p></p>
 
 # <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
@@ -127,13 +81,13 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-**<span style="color:#a330c9;font-size:1em;">Ния</span>** – лучший медиум для **рейда**:
+**<span style="color:#a330c9;font-size:1em;">Ния</span>** – проводники и прокачка для [рейдового билда](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%86%D0%B5%D0%BB%D0%B8):
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaW5b4CBShxCCUogAgSBSmbCCUs7wgiFSg9CCUoNgg"></a>
 
-**<span style="color:#a330c9;font-size:1em;">Корейн</span>** – лучший медиум для **Мифик+**:
+**<span style="color:#a330c9;font-size:1em;">Корейн</span>** – проводники и прокачка для [билда в Мифик+](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D1%84%D0%B8%D0%BA):
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaW6pYBBShxCBIFKY4IJSzvCCMVKD0IJSg2CDUoLAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaW6pYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDUoLAg"></a>
 
 <p></p>
 
@@ -179,11 +133,67 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#68ccef;font-size:1em;">Медиумы</span>
 
-**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – лучший медиум для **рейда** и **Мифик+**:
+**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – проводники и прокачка для [рейдового билда](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%86%D0%B5%D0%BB%D0%B8):
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaW6pYBBShxCBIFKY4IJSzuCCMVKD0IJSg2CDUoLAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaW6pYBBShxCBIFKZsIJSmSCCMVKD0IJSg2CDUoLAg"></a>
+
+**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – проводники и прокачка для [билда в Мифик+](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D1%84%D0%B8%D0%BA):
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaW6pYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDUoLAg"></a>
 
 <p></p>
+
+# <span style="color:#ff4040;font-size:1em;">Вентиры</span>
+
+<p align="center">
+<img src="/assets/img/Venthyr_sigil.png" > 
+</p>
+
+<p align="center" width="100%">
+    <img src="/assets/img/venthyr_idle1.png"> 
+</p>
+
+## <span style="color:#ff4040;font-size:1em;">Цепная жатва</span>
+
+<a href="https://ru.wowhead.com/spell=320674" target="blank" data-wh-icon-size="medium" >**Цепная жатва**</a> –  смесь двух наших заклинаний, {{ site.data.spells.cl }} и {{ site.data.spells.ch }}, но на **5** целей и с кулдауном в **полторы минуты**.
+
+* {{ site.data.covenants.ch }} снижает время произнесения и увеличивает урон/отхил за счет {{ site.data.spells.mw }}.
+* Работает в том числе и с проводником {{ site.data.conduits.focused }}.
+* Старайтесь придерживать эту способность, если в ближайшее время появятся дополнительные адды.
+* Нанесение урона и отхил срабатывает одновременно.
+* Снижает своё время восстановления на **5** секунд за каждое критическое попадание этой способностью, в том числе и от лечения.
+* Максимум время восстановления может снизиться на **50** секунд, то есть до **40** секунд.
+* Очень сильно хилит, по возможности старайтесь использовать, когда группа или рейд не на полном здоровье.
+* В первую очередь исцеляет самые раненые цели, то есть является «улучшенным смарт-хилом».
+* Хоть эта способность и выглядит так, будто она перескакивает от одной цели к другой, как {{ site.data.spells.cl }}, механика её работы кардинально отличается. По  сути это круговое АоЕ, которое лечит и дамажит **5** целей вокруг основной. Радиус действия – **20** метров вокруг первоначальной цели. 
+* {{ site.data.conduits.harvest }} – проводник, усиливающий эту способность. Увеличение шанса Критического удара как поднимает урон, так и потенциально снижает кулдаун {{ site.data.covenants.ch }}. 
+
+## <span style="color:#ff4040;font-size:1em;">Врата теней</span>
+
+<a href="https://ru.wowhead.com/spell=300728" target="blank" data-wh-icon-size="medium" >**Врата теней**</a> – телепорт на **35** метров со временем произнесения **1.5** секунды.
+
+* Перемещение с помощью {{ site.data.covenants.door }} не агрит противников на своем пути.  
+* {{ site.data.spells.mw }} не влияет на скорость произнесения {{ site.data.covenants.door }}.
+* Для пропуска групп врагов в Мифик+ использовать его вряд ли получится, так как дальность телепорта довольно маленькая.  
+
+## <span style="color:#ff4040;font-size:1em;">Легендарный предмет</span>
+
+<a href="https://ru.wowhead.com/spell=356250" target="blank" data-wh-icon-size="medium" >**Проводник стихий**</a> – к союзникам, исцеленным [Цепной жатвой](https://ru.wowhead.com/spell=320674) применяется [Быстрина](https://ru.wowhead.com/spell=61295). К противникам, получившим урон от [Цепной жатвы](https://ru.wowhead.com/spell=320674) применяется [Огненный шоки](https://ru.wowhead.com/spell=188389).
+
+* Слабая легендарка, практически бесполезна в бою против одной цели, а на АоЕ проигрывает [Ветрам рока](https://ru.wowhead.com/spell=335902).
+
+## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
+
+**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – проводники и прокачка для [рейдового билда](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%86%D0%B5%D0%BB%D0%B8):
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr74CBShxCBUogAgSBSmbCCUpkggiFSg9CDUoNgg"></a>
+
+**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – проводники и прокачка для [билда в Мифик+](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D1%84%D0%B8%D0%BA):
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr74CBShxCBUogAgSBSmOCCUpkggiFSg9CDUoNgg"></a>
+
+<p></p>
+
 
 # <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
@@ -221,7 +231,11 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – лучший выбор для **рейда** и **Мифик+**:
+**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – проводники и прокачка для [рейдового билда](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%86%D0%B5%D0%BB%D0%B8):
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaWapYBBShxCBIFKZsIJSmSCCMVKD0IJSg2CDUoLAg"></a>
+
+**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – проводники и прокачка для [билда в Мифик+](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D1%84%D0%B8%D0%BA):
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaWapYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDUoLAg"></a>
 
