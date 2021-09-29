@@ -1091,12 +1091,12 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 /run C_MountJournal.SummonByID(0)
 ~~~
 
-<a href="https://ru.wowhead.com/spell=73899" target="blank" data-wh-icon-size="medium" >**Стихийный удар**</a> – бесполезная способность для шамана Стихии. 
+<a href="https://ru.wowhead.com/spell=73899" target="blank" data-wh-icon-size="medium" >**Стихийный удар**</a> – бесполезная способность для Шамана Исцеления. 
 
 * Данная способность нужна только для того, чтобы показать весь арсенал шамана в самом начале прокачки, на уровнях с **1** по **10**.
 * После получения **10** уровня, выбрав специализацию, про [Стихийный удар](https://ru.wowhead.com/spell=73899) можно забыть.
 
-<a href="https://ru.wowhead.com/spell=318038" target="blank" data-wh-icon-size="medium" >**Оружие языка пламени**</a> – бесполезная способность для Шамана Стихии.
+<a href="https://ru.wowhead.com/spell=318038" target="blank" data-wh-icon-size="medium" >**Оружие языка пламени**</a> – бесполезная способность для Шамана Исцеления.
 
 * Не дает использовать масло на оружие, например [Масло теневого ядра](https://ru.wowhead.com/item=171285).
 * Добавляет огненную анимацию вокруг оружия персонажа.
