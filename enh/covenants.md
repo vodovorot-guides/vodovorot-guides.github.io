@@ -34,7 +34,7 @@ image: /assets/img/logos/covenants.png
 
 * <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>: отлично для **рейда**, отлично для **Мифик+**, средне для **PvP**.
 
-* <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: хороши] для **рейда**, отлично для **Мифик+**, средне для **PvP**.
+* <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: хороши для **рейда**, отлично для **Мифик+**, средне для **PvP**.
 
 * <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>: нормально для **рейда**, отлично для **Мифик+**, отлично для **PvP**.
 
