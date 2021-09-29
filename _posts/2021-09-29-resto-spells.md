@@ -8,7 +8,7 @@ image: /assets/img/wellspring.jpg
 ---
 
 <p align="center">
-<img src="/assets/img/wellspring.jpg" width=500x> 
+<img src="/assets/img/wellspring.jpg" > 
 </p>
 
 **Всем привет!**
