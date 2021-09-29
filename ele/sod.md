@@ -349,7 +349,7 @@ image: /assets/img/logos/sanctum.png
 
 <p></p>
 
-**Тип боя:** АоЕ на **1-2** фазах / Одна цель на **3** фазе
+**Тип боя:** АоЕ на **1-2** фазах / Одна цель на **3** фазе  
 **Тактика Героик, на русском:** [Ссылка](https://mythictrap.com/ru/sanctumOfDomination/sylvanas/heroic/none)  
 **Тактика Мифик, на английском:** [Ссылка](https://www.method.gg/guides/sanctum-of-domination/sylvanas-windrunner)  
 **Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/28#boss=2435&class=Shaman&spec=Elemental)  
