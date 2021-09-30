@@ -132,9 +132,8 @@ custom-javascript-list:
 11. {{ site.data.spells.fs }}, если ничего более не доступно.
 
 * [Цепная молния](https://ru.wowhead.com/spell=188443) заменяет [Молнию](https://ru.wowhead.com/spell=188196) начиная от **2** целей.
-* Способности ковенантов и {{ site.data.spells.feral }} следует использовать по кулдауну. 
-  * {{ site.data.covenants.ch }} только на **5+** стаках {{ site.data.spells.mw }}.
-  * {{ site.data.covenants.ft }} стоит придержать, пока не останется **1-3** моба.
+* Способности ковенантов и {{ site.data.spells.feral }} следует использовать по кулдауну. {{ site.data.covenants.ch }} только на **5+** стаках {{ site.data.spells.mw }}.
+
 
 # Ветра рока
 
