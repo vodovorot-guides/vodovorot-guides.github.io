@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Совершенствования
 layout: page
-last_update: 2021-09-16
+last_update: 2021-09-30
 wow: 9.1
 toc: true
 author: "Amani, Wordup"
@@ -103,7 +103,7 @@ custom-javascript-list:
 23. {:.sunder-apl}{{ site.data.spells.sunder }}.
 24. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}.
 25. {{ site.data.spells.lb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-26. {{ site.data.spells.wt }} если все другие способности недоступны.
+26. {{ site.data.spells.wt }}, если все другие способности недоступны.
 
 # Основные моменты ротации
 
@@ -113,22 +113,28 @@ custom-javascript-list:
 * Аналогичная ситуация с талантом {{ site.data.spells.hh }} – {{ site.data.spells.ll }} с этим баффом имеет гораздо больший приоритет, чем без него.
 * Перед применением [Перерождения](https://ru.wowhead.com/spell=114051) всегда используйте {{ site.data.spells.ss }}, так как его кулдаун сбросится после после активации этого таланта.
 * Обновляйте {{ site.data.spells.fs }}, когда до конца его спадения осталось менее **5.4** секунд, чтобы это время добавилось к новому {{ site.data.spells.fs }}.
-* Не стоит тратить стаки {{ site.data.spells.mw }} на {{ site.data.spells.lb }} сразу же, как только вы набрали **5** стаков. Так как максимум возможно набрать **10** стаков, используйте сначала другие способности, чтобы начать их кулдаун. 
+* Не стоит тратить стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) на [Молнию](https://ru.wowhead.com/spell=188196) сразу же, как только вы набрали **5** стаков. Так как максимум возможно набрать **10** стаков, используйте сначала другие способности, чтобы начать их кулдаун. 
 * Для уменьшения количества простоев следует сначала использовать способности с коротким кулдауном, а уже затем с долгим. Это отражено в списке приоритетов.
+
 
 # Бой на АоЕ
 
-Ротация на АоЕ при взятых талантах {{ site.data.spells.fw }}, {{ site.data.spells.flurry }}, {{ site.data.spells.sunder }} и {{ site.data.spells.asc_enh }}:
+Ротация на АоЕ (**2+** цели) при взятых талантах {{ site.data.spells.fw }}, {{ site.data.spells.flurry }}, {{ site.data.spells.sunder }} и {{ site.data.spells.asc_enh }}:
 
 1. {{ site.data.spells.wt }} – если тотем не активен.
+2. {{ site.data.spells.crush }}, если бафф не активен.
 3. {{ site.data.spells.asc_enh }}, стараясь задеть максимальное количество целей при активации.
 5. {{ site.data.spells.sunder }} на максимально количество целей.
 7. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 8. {{ site.data.spells.crush }}.
-9. {{ site.data.spells.ss }}.
-10. {{ site.data.spells.ll }} если ничего больше не доступно.
+9. {{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
+10. {{ site.data.spells.ll }}.
+11. {{ site.data.spells.fs }}, если ничего более не доступно.
 
-* Способности ковенантов и {{ site.data.spells.feral }} следует использовать по кулдауну. {{ site.data.covenants.ch }} только на **5+** стаках {{ site.data.spells.mw }}. {{ site.data.covenants.ft }} стоит придержать, пока не останется **1-3** моба.
+* [Цепная молния](https://ru.wowhead.com/spell=188443) заменяет [Молнию](https://ru.wowhead.com/spell=188196) начиная от **2** целей.
+* Способности ковенантов и {{ site.data.spells.feral }} следует использовать по кулдауну. 
+  * {{ site.data.covenants.ch }} только на **5+** стаках {{ site.data.spells.mw }}.
+  * {{ site.data.covenants.ft }} стоит придержать, пока не останется **1-3** моба.
 
 # Ветра рока
 
@@ -140,7 +146,7 @@ custom-javascript-list:
 4. {{ site.data.spells.sunder }}.
 5. Все остальные способности, согласно обычной ротации.
 
-Приоритет способностей на **АоЕ** под баффом от легендарки {{ site.data.legend.doom }}.
+Приоритет способностей на **АоЕ** при активном баффе от легендарки {{ site.data.legend.doom }}.
 
 За счет того, что {{ site.data.spells.crush }} считается атакой с правой руки, шанс на прок [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757) рассчитывается на каждую пораженную цель. А с легендаркой {{ site.data.legend.doom }} этот шанс становится равен **100%**, что также усиливает талант {{ site.data.spells.fw }}, делая эту легу лучшим вариантом для боя со множеством целей. 
 {: class="bordered"}
