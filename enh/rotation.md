@@ -125,10 +125,11 @@ custom-javascript-list:
 2. {{ site.data.spells.crush }}, если бафф не активен.
 3. {{ site.data.spells.asc_enh }}, стараясь задеть максимальное количество целей при активации.
 5. {{ site.data.spells.sunder }} на максимально количество целей.
-8. {{ site.data.spells.crush }}.
-7. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 9. {{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
+8. {{ site.data.spells.crush }}.
+7. {{ site.data.spells.cl }} при **10+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 10. {{ site.data.spells.ll }}.
+7. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 11. {{ site.data.spells.fs }}, если ничего более не доступно.
 
 * [Цепная молния](https://ru.wowhead.com/spell=188443) заменяет [Молнию](https://ru.wowhead.com/spell=188196) начиная от **2** целей.
