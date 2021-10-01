@@ -125,9 +125,9 @@ custom-javascript-list:
 2. {{ site.data.spells.crush }}, если бафф не активен.
 3. {{ site.data.spells.asc_enh }}, стараясь задеть максимальное количество целей при активации.
 5. {{ site.data.spells.sunder }} на максимально количество целей.
-9. {{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
+6. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 8. {{ site.data.spells.crush }}.
-7. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+9. {{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
 10. {{ site.data.spells.ll }}.
 11. {{ site.data.spells.fs }}, если ничего более не доступно.
 
