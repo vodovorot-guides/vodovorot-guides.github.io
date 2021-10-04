@@ -200,6 +200,8 @@ custom-javascript-list:
 
 # Бой против **2** целей
 
+* {:.storm-apl}<hr style="display: none;height:1px;background-color:#bbb"> 
+
 Ротация в бою против двух целей практически не отличается от боя против одной цели. Несколько основных изменений:
 * {{ site.data.spells.cl }} заменяет обычную [Молнию](https://ru.wowhead.com/spell=188196) в качестве филлера.
 * {:.sk-apl}Бафф от [Хранителя бурь](https://ru.wowhead.com/spell=191634) следует тратить на [Молнию](https://ru.wowhead.com/spell=188196), так как это дает больше урона.
