@@ -293,6 +293,8 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+* {:.storm-apl}Список приоритетов **БЕЗ** активного [Элементаля бури](https://ru.wowhead.com/spell=192249):
+
 1. {:.eogs-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
 1. {:.eogs-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
 1. {:.lava-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **двух** целях. 
@@ -371,6 +373,8 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+* {:.storm-apl}Список приоритетов **БЕЗ** активного [Элементаля бури](https://ru.wowhead.com/spell=192249):
+
 1. {:.fire-apl .lmt-apl}{{ site.data.spells.fs }} поддерживайте на **всех** целях. 
 1. {:.eogs-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
 1. {:.lava-apl .mote-apl}{{ site.data.spells.fs }} поддерживайте на **одной** цели. 
@@ -430,27 +434,6 @@ custom-javascript-list:
 3. {:.storm-apl .ch-apl}Используйте {{ site.data.spells.fs }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 3. {:.storm-apl .pw-apl}Используйте {{ site.data.spells.fs }}, [Первозданную волну](https://ru.wowhead.com/spell=326059) и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 5. {:.storm-apl}{:.storm-apl .primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца после того, как элементаль бафнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348). Рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) и [WA](https://wago.io/oiozoI5RD).
-
-# Приоритеты во время активного Элементаля бури
-
-Если вы прочитали про ротацию со взятым талантом [Элементаль бури](https://ru.wowhead.com/spell=192249) и все равно ничего не поняли – этот раздел для вас. Хоть без активного [Элементаля бури](https://ru.wowhead.com/spell=192249) играть гораздо проще, чем в билде через [Властелин стихий](https://ru.wowhead.com/spell=16166), но активация бурста имеет свои нюансы:
-
-**В бою против одной цели при активной [Жажде крови](https://ru.wowhead.com/spell=2825):**
-1. Обновляйте {{ site.data.spells.fs }} **только** во время движения.
-2. Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
-3. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
-4. Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
-
-**В бою против одной цели без активной [Жажды крови](https://ru.wowhead.com/spell=2825):**
-1. Поддерживайте на цели {{ site.data.spells.fs }}.
-2. Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если у вас не более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
-3. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
-4. Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
-
-**АоЕ (2+ цели), вне зависимости от наличия [Жажды крови](https://ru.wowhead.com/spell=2825):**
-1. Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
-2. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443).
-3. Используйте {{ site.data.spells.fs }}, [Первозданную волну](https://ru.wowhead.com/spell=326059) и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 
 # Особенности талантов
 
