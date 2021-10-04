@@ -194,6 +194,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 33. {:.discharge-apl}Cast [Static Discharge](https://www.wowhead.com/spell=342243) (thanks for testing our site!).
 34. Cast [Earth Elemental](https://www.wowhead.com/spell=198103).
   * {:.primal_elem-apl}You can only have one elemental active with the [Primal Elementalist](https://www.wowhead.com/spell=117013) talent selected. Don’t summon the other elemental if you already have one active, as the first elemental will be replaced.
+35. {:.sk-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with [Stormkeeper](https://www.wowhead.com/spell=191634) buff.
 35. Cast [Chain Lightning](https://www.wowhead.com/spell=188443). 
 
 <hr style="height:1px;background-color:#bbb">
