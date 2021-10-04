@@ -130,6 +130,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 * {:.storm-apl}Spell priority **with** active [Storm Elemental](https://ru.wowhead.com/spell=192249) and **without** [Bloodlust](https://www.wowhead.com/spell=2825) buff:
 
+1. {:.storm-apl .ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) for crit buff from [Seeds of Rampant Growth](https://www.wowhead.com/spell=356218/) legendary.
 1. {:.storm-apl}Refresh [Flame Shock](https://www.wowhead.com/spell=188389) if it will fall off.
 2. {:.storm-apl}Use [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 3. {:.storm-apl}Spend Maelstrom on spenders.
@@ -141,6 +142,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 * {:.storm-apl}Spell priority **with** active [Storm Elemental](https://ru.wowhead.com/spell=192249) and **with** [Bloodlust](https://www.wowhead.com/spell=2825) buff:
 
+1. {:.storm-apl .ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) for crit buff from [Seeds of Rampant Growth](https://www.wowhead.com/spell=356218/) legendary.
 1. {:.storm-apl}Spend Maelstrom on spenders.
 2. {:.storm-apl}Use [Lightning Bolt](https://www.wowhead.com/spell=188196).
 3. {:.storm-apl}[Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement globals.
@@ -199,6 +201,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 * {:.storm-apl}Spell priority **with** active [Storm Elemental](https://ru.wowhead.com/spell=192249): 
 
+1. {:.storm-apl .ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) for crit buff from [Seeds of Rampant Growth](https://www.wowhead.com/spell=356218/) legendary.
 1. {:.storm-apl}Spend Maelstrom on spenders.
 4. {:.storm-apl}Use [Chain Lightning](https://www.wowhead.com/spell=188443).
 3. {:.storm-apl .ft-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
@@ -266,6 +269,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 * {:.storm-apl}Spell priority **with** active [Storm Elemental](https://ru.wowhead.com/spell=192249): 
 
+1. {:.storm-apl .ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) for crit buff from [Seeds of Rampant Growth](https://www.wowhead.com/spell=356218/) legendary.
 1. {:.storm-apl}Spend Maelstrom on spenders.
 4. {:.storm-apl}Use [Chain Lightning](https://www.wowhead.com/spell=188443).
 3. {:.storm-apl .ft-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
@@ -327,6 +331,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 * {:.storm-apl}Spell priority **with** active [Storm Elemental](https://ru.wowhead.com/spell=192249): 
 
+1. {:.storm-apl .ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) for crit buff from [Seeds of Rampant Growth](https://www.wowhead.com/spell=356218/) legendary.
 1. {:.storm-apl}Spend Maelstrom on spenders.
 4. {:.storm-apl}Use [Chain Lightning](https://www.wowhead.com/spell=188443).
 3. {:.storm-apl .ft-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
