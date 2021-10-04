@@ -151,6 +151,8 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 # Fight Against **2** Targets
 
+* {:.storm-apl}Spell priority **without** active [Storm Elemental](https://www.wowhead.com/spell=192249):
+
 1. {:.if-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) if [Icefury](https://www.wowhead.com/spell=210714) buff is about to expire in order to not waste it's stacks.
   * {:.storm-apl}Please, don't use [Icefury](https://www.wowhead.com/spell=210714) and [Storm Elemental](https://www.wowhead.com/spell=192249) together. Thanks!
 3. {:.mote-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067).
@@ -212,6 +214,8 @@ Spell priority list that changes dynamically based on selected talents, legendar
 5. {:.storm-apl .primal_elem-apl}Don't forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
 
 # Fight Against **3** Targets
+
+* {:.storm-apl}Spell priority **without** active [Storm Elemental](https://www.wowhead.com/spell=192249):
 
 1. {:.eogs-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **two** targets.
 1. {:.lava-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **two** targets.
@@ -280,6 +284,8 @@ Spell priority list that changes dynamically based on selected talents, legendar
 5. {:.storm-apl .primal_elem-apl}Don't forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
 
 # Fight Against **4** Or More Targets
+
+* {:.storm-apl}Spell priority **without** active [Storm Elemental](https://www.wowhead.com/spell=192249):
 
 1. {:.fire-apl .lmt-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **all** targets. 
 1. {:.eogs-apl .mote-apl}Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **one** target. 
