@@ -194,12 +194,9 @@ custom-javascript-list:
 4. {:.storm-apl}Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
 5. {:.storm-apl .primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца после того, как элементаль бафнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348). Рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) и [WA](https://wago.io/oiozoI5RD).
 
-* {:.storm-apl}<hr style="height:1px;background-color:#bbb">
-<p></p>
+
 
 # Бой против **2** целей
-
-{:.storm-apl}  <li style="list-style-type:none;"><hr style="height:1px;background-color:#bbb"> </li>
 
 Ротация в бою против двух целей практически не отличается от боя против одной цели. Несколько основных изменений:
 * {{ site.data.spells.cl }} заменяет обычную [Молнию](https://ru.wowhead.com/spell=188196) в качестве филлера.
