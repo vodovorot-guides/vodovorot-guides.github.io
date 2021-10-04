@@ -178,6 +178,7 @@ custom-javascript-list:
 
 * {:.storm-apl}Список приоритетов **при активном** [Элементале бури](https://ru.wowhead.com/spell=192249) и **БЕЗ** баффа [Жажды крови](https://ru.wowhead.com/spell=2825):
 
+1. {:.storm-apl .ft-apl}{{ site.data.covenants.ft }} для получения баффа крита от легендарки [Семена буйной поросли](https://ru.wowhead.com/spell=356218/).
 1. {:.storm-apl}Поддерживайте на цели {{ site.data.spells.fs }}.
 2. {:.storm-apl}Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если у вас не более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
 3. {:.storm-apl}Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
@@ -189,7 +190,7 @@ custom-javascript-list:
 
 * {:.storm-apl}Список приоритетов **при активном** [Элементале бури](https://ru.wowhead.com/spell=192249) и **с активным баффом** [Жажды крови](https://ru.wowhead.com/spell=2825):
 
-
+1. {:.storm-apl .ft-apl}{{ site.data.covenants.ft }} для получения баффа крита от легендарки [Семена буйной поросли](https://ru.wowhead.com/spell=356218/).
 1. {:.storm-apl}Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 2. {:.storm-apl}Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
 3. {:.storm-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) кастуются **только** во время движения.
@@ -270,6 +271,7 @@ custom-javascript-list:
 
 * {:.storm-apl}Список приоритетов **при активном** [Элементале бури](https://ru.wowhead.com/spell=192249):
 
+1. {:.storm-apl .ft-apl}{{ site.data.covenants.ft }} для получения баффа крита от легендарки [Семена буйной поросли](https://ru.wowhead.com/spell=356218/).
 1. {:.storm-apl}Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 2. {:.storm-apl}Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443).
 3. {:.storm-apl .ft-apl}Используйте {{ site.data.spells.fs }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
@@ -350,12 +352,14 @@ custom-javascript-list:
 33. {:.storm-apl .lava-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
 33. {:.storm-apl .ee-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
 34. {:.storm-apl .eogs-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+34. {:.storm-apl .ft-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 * {:.storm-apl}Список приоритетов **при активном** [Элементале бури](https://ru.wowhead.com/spell=192249):
 
+1. {:.storm-apl .ft-apl}{{ site.data.covenants.ft }} для получения баффа крита от легендарки [Семена буйной поросли](https://ru.wowhead.com/spell=356218/).
 1. {:.storm-apl}Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 2. {:.storm-apl}Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443).
 3. {:.storm-apl .ft-apl}Используйте {{ site.data.spells.fs }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
@@ -421,12 +425,14 @@ custom-javascript-list:
 33. {:.storm-apl .lava-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
 33. {:.storm-apl .ee-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
 34. {:.storm-apl .eogs-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
+34. {:.storm-apl .ft-apl}{{ site.data.spells.fs }} и {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) используйте только во время передвижения.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 * {:.storm-apl}Список приоритетов **при активном** [Элементале бури](https://ru.wowhead.com/spell=192249):
 
+1. {:.storm-apl .ft-apl}{{ site.data.covenants.ft }} для получения баффа крита от легендарки [Семена буйной поросли](https://ru.wowhead.com/spell=356218/).
 1. {:.storm-apl}Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 2. {:.storm-apl}Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443).
 3. {:.storm-apl .ft-apl}Используйте {{ site.data.spells.fs }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
