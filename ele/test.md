@@ -193,15 +193,11 @@ custom-javascript-list:
 3. {:.storm-apl}Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 4. {:.storm-apl}Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
 5. {:.storm-apl .primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца после того, как элементаль бафнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348). Рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) и [WA](https://wago.io/oiozoI5RD).
+<ul>
 
 * {:.storm-apl}<hr style="height:1px;background-color:#bbb">
 
-
 # Бой против **2** целей
-
-<ul>
-  <li style="list-style-type:none;">{:.storm-apl}<hr style="height:1px;background-color:#bbb"> </li>
-</ul>
 
 Ротация в бою против двух целей практически не отличается от боя против одной цели. Несколько основных изменений:
 * {{ site.data.spells.cl }} заменяет обычную [Молнию](https://ru.wowhead.com/spell=188196) в качестве филлера.
