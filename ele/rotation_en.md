@@ -158,7 +158,6 @@ Spell priority list that changes dynamically based on selected talents, legendar
 4. {:.lmt-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) is recommended).
  1. Maintain [Flame Shock](https://www.wowhead.com/spell=188389) on **two** targets.
-   * {:.storm-apl}Don’t use [Flame Shock](https://www.wowhead.com/spell=188389) if [Storm Elemental](https://www.wowhead.com/spell=192249) is active.
 18. {:.ft-apl .storm-apl .eogs-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
 18. {:.ft-apl .storm-apl .lava-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
 18. {:.ft-apl .storm-apl .fire-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
