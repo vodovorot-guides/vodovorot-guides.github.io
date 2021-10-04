@@ -134,7 +134,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 2. {:.storm-apl}Use [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 3. {:.storm-apl}Spend Maelstrom on spenders.
 4. {:.storm-apl}Use [Lightning Bolt](https://www.wowhead.com/spell=188196).
-5. {:.storm-apl .primal_elem-apl}Don't forget to use {{ site.data.spells.eye_storm }} on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
+5. {:.storm-apl .primal_elem-apl}Don't forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -144,7 +144,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 1. {:.storm-apl}Spend Maelstrom on spenders.
 2. {:.storm-apl}Use [Lightning Bolt](https://www.wowhead.com/spell=188196).
 3. {:.storm-apl}[Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement globals.
-5. {:.storm-apl .primal_elem-apl}Don't forget to use {{ site.data.spells.eye_storm }} on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
+5. {:.storm-apl .primal_elem-apl}Don't forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
 
 
 # Fight Against **2** Targets
@@ -205,7 +205,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 3. {:.storm-apl .vt-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
 3. {:.storm-apl .ch-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
 3. {:.storm-apl .pw-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389), [Primordial Wave](https://www.wowhead.com/spell=326059) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
-5. {:.storm-apl .primal_elem-apl}Don't forget to use {{ site.data.spells.eye_storm }} on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
+5. {:.storm-apl .primal_elem-apl}Don't forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
 
 # Fight Against **3** Targets
 
@@ -272,7 +272,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 3. {:.storm-apl .vt-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
 3. {:.storm-apl .ch-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
 3. {:.storm-apl .pw-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389), [Primordial Wave](https://www.wowhead.com/spell=326059) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
-5. {:.storm-apl .primal_elem-apl}Don't forget to use {{ site.data.spells.eye_storm }} on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
+5. {:.storm-apl .primal_elem-apl}Don't forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
 
 # Fight Against **4** Or More Targets
 
@@ -333,4 +333,4 @@ Spell priority list that changes dynamically based on selected talents, legendar
 3. {:.storm-apl .vt-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
 3. {:.storm-apl .ch-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
 3. {:.storm-apl .pw-apl}Use [Flame Shock](https://www.wowhead.com/spell=188389), [Primordial Wave](https://www.wowhead.com/spell=326059) and [Lava Surge](https://www.wowhead.com/spell=77756) procs as a movement globals.
-5. {:.storm-apl .primal_elem-apl}Don't forget to use {{ site.data.spells.eye_storm }} on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
+5. {:.storm-apl .primal_elem-apl}Don't forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) on pet panel, after elemental buff himself with [Call Lightning](https://www.wowhead.com/spell=157348). [WA for tracking](https://wago.io/oiozoI5RD)
