@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-10-13
+last_update: 2021-10-14
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
