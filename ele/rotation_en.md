@@ -268,6 +268,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 33. {:.storm-apl .lava-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
 33. {:.storm-apl .ee-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
 34. {:.storm-apl .eogs-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
+34. {:.storm-apl .leg_fae--apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -332,6 +333,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 33. {:.storm-apl .lava-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
 33. {:.storm-apl .ee-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
 34. {:.storm-apl .eogs-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
+34. {:.storm-apl .leg_fae--apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389) and [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff as a movement global.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
