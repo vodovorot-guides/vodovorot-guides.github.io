@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-10-22
+last_update: 2021-10-04
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
@@ -199,9 +199,9 @@ custom-javascript-list:
 
 # Бой против **2** целей
 
-<ul style="list-style-type:none;">
-  * {:.storm-apl}<hr style="height:1px;background-color:#bbb"> 
-</ul>  
+<ul>
+  <li style="list-style-type:none;">{:.storm-apl}<hr style="height:1px;background-color:#bbb"> </li>
+</ul>
 
 Ротация в бою против двух целей практически не отличается от боя против одной цели. Несколько основных изменений:
 * {{ site.data.spells.cl }} заменяет обычную [Молнию](https://ru.wowhead.com/spell=188196) в качестве филлера.
