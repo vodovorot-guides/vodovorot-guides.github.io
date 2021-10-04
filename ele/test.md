@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-10-14
+last_update: 2021-10-16
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
@@ -197,10 +197,15 @@ custom-javascript-list:
 * {:.storm-apl}<hr style="height:1px;background-color:#bbb">
 
 
-
 # Бой против **2** целей
 
+
+<ul style="list-style-type:none; {:.storm-apl}">
+  <li>{:.storm-apl}<hr style="display: none;height:1px;background-color:#bbb"> </li>
+</ul>  
+
 * {:.storm-apl}<hr style="display: none;height:1px;background-color:#bbb"> 
+
 
 Ротация в бою против двух целей практически не отличается от боя против одной цели. Несколько основных изменений:
 * {{ site.data.spells.cl }} заменяет обычную [Молнию](https://ru.wowhead.com/spell=188196) в качестве филлера.
@@ -278,6 +283,10 @@ custom-javascript-list:
 66. {{ site.data.spells.cl }}. 
 
 # Бой против **3** целей
+
+<ul style="list-style-type:none;">
+  <li>{:.storm-apl}<hr style="display: none;height:1px;background-color:#bbb"> </li>
+</ul>  
 
 Бой против трех целей это уже полноценное АоЕ, так что ротация меняется гораздо сильнее, чем при переходе с одной цели к двум. Основные изменения по сравнению с боем против двух целей следующие:
 * Необходимое для поддержания количество [Огненных шоков](https://ru.wowhead.com/spell=188389) зависит от взятой легендарки и талантов, это отражено в списке приоритетов.
