@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-10-15
+last_update: 2021-10-17
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
@@ -175,7 +175,6 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-
 * {:.storm-apl}Список приоритетов **при активном** [Элементале бури](https://ru.wowhead.com/spell=192249) и **С БАФФОМ** от [Жажды крови](https://ru.wowhead.com/spell=2825):
 
 1. {:.storm-apl}Обновляйте {{ site.data.spells.fs }} **только** во время движения.
@@ -194,6 +193,13 @@ custom-javascript-list:
 3. {:.storm-apl}Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 4. {:.storm-apl}Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
 5. {:.storm-apl .primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца после того, как элементаль бафнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348). Рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) и [WA](https://wago.io/oiozoI5RD).
+
+* {:.storm-apl}<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+{:.storm-apl}<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 # Бой против **2** целей
 
