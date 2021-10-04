@@ -274,7 +274,7 @@ custom-javascript-list:
 3. {:.storm-apl .vt-apl}Используйте {{ site.data.spells.fs }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 3. {:.storm-apl .ch-apl}Используйте {{ site.data.spells.fs }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 3. {:.storm-apl .pw-apl}Используйте {{ site.data.spells.fs }}, [Первозданную волну](https://ru.wowhead.com/spell=326059) и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
-5. {:.storm-apl}{:.storm-apl .primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца после того, как элементаль бафнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348). Рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) и [WA](https://wago.io/oiozoI5RD).
+5. {:.storm-apl .primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца после того, как элементаль бафнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348). Рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) и [WA](https://wago.io/oiozoI5RD).
 
 # Бой против **3** целей
 
@@ -361,7 +361,7 @@ custom-javascript-list:
 3. {:.storm-apl .vt-apl}Используйте {{ site.data.spells.fs }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 3. {:.storm-apl .ch-apl}Используйте {{ site.data.spells.fs }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 3. {:.storm-apl .pw-apl}Используйте {{ site.data.spells.fs }}, [Первозданную волну](https://ru.wowhead.com/spell=326059) и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
-5. {:.storm-apl}{:.storm-apl .primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца после того, как элементаль бафнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348). Рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) и [WA](https://wago.io/oiozoI5RD).
+5. {:.storm-apl .primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца после того, как элементаль бафнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348). Рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) и [WA](https://wago.io/oiozoI5RD).
 
 # Бой против **4** и более целей
 
@@ -433,7 +433,7 @@ custom-javascript-list:
 3. {:.storm-apl .vt-apl}Используйте {{ site.data.spells.fs }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 3. {:.storm-apl .ch-apl}Используйте {{ site.data.spells.fs }} и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 3. {:.storm-apl .pw-apl}Используйте {{ site.data.spells.fs }}, [Первозданную волну](https://ru.wowhead.com/spell=326059) и проки [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
-5. {:.storm-apl}{:.storm-apl .primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца после того, как элементаль бафнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348). Рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) и [WA](https://wago.io/oiozoI5RD).
+5. {:.storm-apl .primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца после того, как элементаль бафнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348). Рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8) и [WA](https://wago.io/oiozoI5RD).
 
 # Особенности талантов
 
