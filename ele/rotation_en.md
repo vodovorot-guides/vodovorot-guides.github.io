@@ -128,7 +128,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-* {:.storm-apl}Spell priority **with** active [Storm Elemental](https://ru.wowhead.com/spell=192249): 
+* {:.storm-apl}Spell priority **with** active [Storm Elemental](https://ru.wowhead.com/spell=192249) and **without** [Bloodlust](https://www.wowhead.com/spell=2825) buff:
 
 1. {:.storm-apl}Refresh [Flame Shock](https://www.wowhead.com/spell=188389) if it will fall off.
 2. {:.storm-apl}Use [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756) buff.
