@@ -111,7 +111,7 @@ custom-javascript-list:
 
 Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта. Подробнее о том, как правильно читать список приоритетов можно посмотреть в [этом видео](https://youtu.be/1i5EKuKEpFY).
 
-
+* {:.storm-apl}Список приоритетов **БЕЗ** активного [Элементаля бури](https://ru.wowhead.com/spell=192249):
 1. {:.if-apl .asc_ele-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714), если до окончания времени действия баффа осталось мало времени. Не допускайте потери стаков.
   * {:.storm-apl}Пожалуй, не стоит использовать вместе [Ледяную ярость](https://ru.wowhead.com/spell=210714) и [Элементаля бури](https://ru.wowhead.com/spell=192249). Спасибо.
 1. {:.if-apl .up-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714), если до окончания времени действия баффа осталось мало времени. Не допускайте потери стаков.
@@ -125,32 +125,22 @@ custom-javascript-list:
 4. {:.lmt-apl}{{ site.data.spells.fe }} по кулдауну.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 2. {:.ft-apl}{{ site.data.spells.fs }}, если отсутствует на цели. 
-  * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
 2. {:.vt-apl}{{ site.data.spells.fs }}, если отсутствует на цели. 
-  * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
 2. {:.ch-apl}{{ site.data.spells.fs }}, если отсутствует на цели. 
-  * {:.storm-apl}Не используйте {{ site.data.spells.fs }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
 2. {:.pw-apl}{{ site.data.covenants.pw }} или {{ site.data.spells.fs }}, если дебафф отсутствует на цели. 
-  * {:.storm-apl}Не используйте {{ site.data.spells.fs }} и [Первозданную волну](https://ru.wowhead.com/spell=326059), если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
 21. {:.ft-apl .storm-apl .eogs-apl}{{ site.data.covenants.ft }} по кулдауну.
-  * Не используйте {{ site.data.covenants.ft }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
 21. {:.ft-apl .storm-apl .lava-apl}{{ site.data.covenants.ft }} по кулдауну.
-  * Не используйте {{ site.data.covenants.ft }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
 21. {:.ft-apl .storm-apl .fire-apl}{{ site.data.covenants.ft }} по кулдауну.
-  * Не используйте {{ site.data.covenants.ft }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249). 
 21. {:.ft-apl .storm-apl .ee-apl}{{ site.data.covenants.ft }} по кулдауну.
-  * Не используйте {{ site.data.covenants.ft }}, если на вас **18+** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).   
 23. {:.storm-apl}{{ site.data.spells.storm }} по кулдауну.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца, но только после того, как {{ site.data.spells.storm }} баффнул себя [Призывом молнии](https://ru.wowhead.com/spell=157348) (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)). [WA для отслеживания](https://wago.io/oiozoI5RD).
 21. {:.ft-apl .storm-apl .leg_fae-apl}{{ site.data.covenants.ft }} сразу же после использования [Элементаля бури](https://ru.wowhead.com/spell=192249).
 24. {:.asc_ele-apl}{{ site.data.spells.asc_ele }} по кулдауну.
   * {:.asc_ele-apl}Перед активацией [Перерождения](https://ru.wowhead.com/spell=114050) используйте все заряды [Выброса лавы](https://ru.wowhead.com/spell=51505), но только если это не уменьшит количество использований [Перерождения](https://ru.wowhead.com/spell=114050) за бой.
-  * {:.storm-apl}Не используйте {{ site.data.spells.asc_ele }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 25. {:.eogs-apl}{{ site.data.spells.quake }}, если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215), и если следующее заклинание накопит больше **100** ед. энергии Водоворота.
 26. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.es }}.
 29. {:.lava-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 29. {{ site.data.spells.es }}, если следующее заклинание накопит более **100** ед. энергии Водоворота.
-41. {:.storm-apl}{{ site.data.spells.lb }} при активном [Элементале бури](https://ru.wowhead.com/spell=192249) и при наличии более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
 30. {:.fire-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 31. {:.ee-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 32. {:.eogs-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
@@ -169,7 +159,7 @@ custom-javascript-list:
 46. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 58. {:.mote-apl}{{ site.data.spells.lvb }} по кулдауну.
 58. {:.lmt-apl}{{ site.data.spells.lvb }} по кулдауну.
-58. {:.storm-apl}{{ site.data.spells.lvb }} по кулдауну, если [Элементаль бури](https://ru.wowhead.com/spell=192249) не активен.
+58. {{ site.data.spells.lvb }} по кулдауну.
 48. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
 49. {:.storm-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 50. {:.lmt-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
@@ -182,18 +172,15 @@ custom-javascript-list:
   * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
 57. {{ site.data.spells.lb }}.
 
-
-
-
-{:.storm-apl}**В бою против одной цели при активной [Жажде крови](https://ru.wowhead.com/spell=2825):**
+* {:.storm-apl}**Список приоритетов **при активном** [Элементале бури](https://ru.wowhead.com/spell=192249) и **при активной** [Жажде крови](https://ru.wowhead.com/spell=2825):
 1. {:.storm-apl}Обновляйте {{ site.data.spells.fs }} **только** во время движения.
 2. {:.storm-apl}Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
 3. {:.storm-apl}Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 4. {:.storm-apl}Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
 
-* {:.storm-apl}**В бою против одной цели при активной [Жажде крови](https://ru.wowhead.com/spell=2825):**
-1. {:.storm-apl}Обновляйте {{ site.data.spells.fs }} **только** во время движения.
-2. {:.storm-apl}Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) **только** во время движения.
+* {:.storm-apl}**Список приоритетов **при активном** [Элементале бури](https://ru.wowhead.com/spell=192249) и **БЕЗ** [Жажды крови](https://ru.wowhead.com/spell=2825):
+1. {:.storm-apl}Поддерживайте на цели {{ site.data.spells.fs }}.
+2. {:.storm-apl}Используйте {{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если у вас не более **18** стаков [Порыва ветра](https://ru.wowhead.com/spell=263806).
 3. {:.storm-apl}Тратьте энергию Водоворота на спендеры ({{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от легендарки и наличия баффа).
 4. {:.storm-apl}Кастуйте [Молнию](https://ru.wowhead.com/spell=188196).
 
