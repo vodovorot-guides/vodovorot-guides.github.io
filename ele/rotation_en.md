@@ -4,7 +4,7 @@ layout: page
 last_update: 2021-10-04
 wow: 9.1
 toc: true
-author: "Amani"
+author: Amani
 description: Elemental Shaman rotation breakdown. Spell priorities on this page change dynamically depending on selected talents, legendary and covenant. Author: Amani#0001 
 image: /assets/img/logos/sk_full.png
 locale: en_US
