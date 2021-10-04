@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2021-10-05
+last_update: 2021-10-06
 wow: 9.1
 toc: true
 author: "Amani, Ignis, Zab"
@@ -197,15 +197,13 @@ custom-javascript-list:
 * {:.storm-apl}<hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<ol type="display:none">{:.storm-apl}<hr style="height:1px;background-color:#bbb">
-</ol>
-<p></p>
-
 
 # Бой против **2** целей
 
-<ol type="display:none">{:.storm-apl}<hr style="height:1px;background-color:#bbb">
-</ol>
+
+<ul>
+<li style="display:none;">{:.storm-apl}<hr style="height:1px;background-color:#bbb"></li>
+</ul>
 <p></p>
 
 Ротация в бою против двух целей практически не отличается от боя против одной цели. Несколько основных изменений:
