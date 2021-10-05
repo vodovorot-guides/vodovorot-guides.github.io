@@ -158,10 +158,10 @@ custom-javascript-list:
 22. {:.is-apl}{{ site.data.spells.is }}.
 23. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2** цели.
 24. {:.spike-apl}{{ site.data.spells.spike }}.
-25. {:.witch-apl}{{ site.data.spells.wt }}, если тотем не активен.
-25. {:.actuators-apl}{{ site.data.spells.wt }}, если тотем не активен.
-25. {:.wolf-apl}{{ site.data.spells.wt }}, если тотем не активен.
-25. {:.leg_fae-apl}{{ site.data.spells.wt }}, если тотем не активен.
+25. {:.witch-apl}{{ site.data.spells.wt }}.
+25. {:.actuators-apl}{{ site.data.spells.wt }}.
+25. {:.wolf-apl}{{ site.data.spells.wt }}.
+25. {:.leg_fae-apl}{{ site.data.spells.wt }}.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
