@@ -215,7 +215,7 @@ image: /assets/img/logos/talents.png
 
 ## Седьмой тир, 50 уровень
 
-{% include talents.html data=site.data.talents.enh active="001" row=7 %}
+{% include talents.html data=site.data.talents.enh active="101" row=7 %}
 
  <a href="https://ru.wowhead.com/spell=262624" target="blank" data-wh-icon-size="medium" >**Духи стихий**</a> – пассивный талант, усиливает наш «бурст» {{ site.data.spells.feral }}, сокращая его кулдаун на **30** секунд и дает один из случайных баффов каждому волку:
 * [Потрескивающее возмущение](https://ru.wowhead.com/spell=224127) – Урон способностей {{ site.data.spells.ss }} и {{ site.data.spells.ww }} наносят на **35%** больше урона.
