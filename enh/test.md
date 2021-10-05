@@ -82,7 +82,7 @@ custom-javascript-list:
 1. {:.wolf-apl}{{ site.data.spells.wt }}, если тотем не активен.
 2. {:.pw-apl}{{ site.data.covenants.pw }}, если нет активного баффа от этого заклинания.
 3. {{ site.data.spells.fs }}, если отсутствует на цели.
-4. {{ site.data.spells.feral }} для генерации стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+4. {{ site.data.spells.feral }}.
 6. {:.hh-apl}{{ site.data.spells.ll }} с баффом от таланта {{ site.data.spells.hh }}.
 6. {:.lf-apl}{{ site.data.spells.ll }} при отсутствии дебаффа {{ site.data.spells.lf }}.
 7. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
