@@ -136,6 +136,12 @@ custom-javascript-list:
 1. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
 2. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }}.
 3. {:.sunder-apl}{{ site.data.spells.sunder }} на максимальное количество целей.
+4. {:.lf-apl .fn-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .pw-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .actuators-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .pw-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .actuators-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .actuators-apl}{{ site.data.spells.fs }} на максимальное количество целей.
 4. {:.lf-apl .ea-apl .vt-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
 4. {:.lf-apl .ea-apl .ch-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
 4. {:.lf-apl .ea-apl .ft-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
