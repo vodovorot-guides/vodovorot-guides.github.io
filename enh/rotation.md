@@ -97,7 +97,7 @@ custom-javascript-list:
 14. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 15. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 13. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-16. {{ site.data.spells.lb }} при **8+** стаках [ОружияВодоворота](https://ru.wowhead.com/spell=187880).
+16. {{ site.data.spells.lb }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 17. {:.actuators-apl}{{ site.data.spells.ss }}. с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
 17. {:.wolf-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
 17. {:.doom-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
