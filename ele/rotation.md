@@ -147,7 +147,7 @@ custom-javascript-list:
 32. {:.eogs-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 34. {:.eb-apl}{{ site.data.spells.eb }}.
 35. {:.sk-apl}{{ site.data.spells.sk }}.
-36. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+36. {:.pw-apl}{{ site.data.covenants.pw }}, если у вас нет активного баффа от этого заклинания.
 37. {:.mote-apl .eogs-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 38. {:.vt-apl}{{ site.data.covenants.vt }}.
 39. {:.ft-apl .mote-apl}{{ site.data.covenants.ft }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
@@ -168,7 +168,7 @@ custom-javascript-list:
 52. {:.lmt-apl}{{ site.data.spells.es }}, если есть **60+** ед. энергии Водоворота.
 53. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 54. {:.ch-apl}{{ site.data.covenants.ch }}.
-55. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
+55. {:.discharge-apl}{{ site.data.spells.discharge }}. Спасибо за тестирование нашего сайта!
 56. {{ site.data.spells.igor }}.
   * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
 57. {{ site.data.spells.lb }}.
@@ -241,7 +241,7 @@ custom-javascript-list:
 44. {:.eb-apl}{{ site.data.spells.eb }}.
 45. {:.sk-apl .mote-apl}{{ site.data.spells.sk }}.
 46. {:.sk-apl .lmt-apl}{{ site.data.spells.sk }}.
-47. {:.pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+47. {:.pw-apl}{{ site.data.covenants.pw }}, если у вас нет активного баффа от этого заклинания.
 48. {:.eogs-apl .mote-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 49. {:.ft-apl .mote-apl}{{ site.data.covenants.ft }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 50. {:.ft-apl .lmt-apl}{{ site.data.covenants.ft }}.
@@ -261,7 +261,7 @@ custom-javascript-list:
 64. {:.lmt-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 65. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 66. {:.ch-apl}{{ site.data.covenants.ch }}.
-67. {:.discharge-apl}{{ site.data.spells.discharge }} по кулдауну (спасибо за тестирование нашего сайта!).
+67. {:.discharge-apl}{{ site.data.spells.discharge }}. Спасибо за тестирование нашего сайта!
 68. {{ site.data.spells.igor }}.
   * {:.primal_elem-apl}С талантом {{ site.data.spells.primal_elem }} вы можете иметь активным максимум одного элементаля. Не призывайте второго, иначе он заменит первого.
 69. {{ site.data.spells.cl }}. 
@@ -327,9 +327,9 @@ custom-javascript-list:
 8. {:.lmt-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756).
 8. {:.fire-apl .storm-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 8. {:.eb-apl}{{ site.data.spells.eb }}.
-10. {:.mote-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну (на третью цель), если у вас нет активного баффа от этого заклинания.
-10. {:.lmt-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну (на третью цель), если у вас нет активного баффа от этого заклинания.
-10. {:.fire-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+10. {:.mote-apl .pw-apl}{{ site.data.covenants.pw }} на третью цель, если у вас нет активного баффа от этого заклинания.
+10. {:.lmt-apl .pw-apl}{{ site.data.covenants.pw }} на третью цель, если у вас нет активного баффа от этого заклинания.
+10. {:.fire-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }}, если у вас нет активного баффа от этого заклинания.
 28. {:.mote-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 24. {:.mote-apl .eogs-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота и бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 24. {:.mote-apl .fire-apl}{{ site.data.spells.lvb }}, если есть **50+** ед. энергии Водоворота.
@@ -403,9 +403,9 @@ custom-javascript-list:
 8. {:.mote-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 8. {:.lmt-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
 8. {:.fire-apl .storm-apl .pw-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756) при активном баффе от [Первозданной волны](https://ru.wowhead.com/spell=326059).
-10. {:.mote-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
-10. {:.lmt-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
-10. {:.fire-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }} по кулдауну, если у вас нет активного баффа от этого заклинания.
+10. {:.mote-apl .pw-apl}{{ site.data.covenants.pw }}, если у вас нет активного баффа от этого заклинания.
+10. {:.lmt-apl .pw-apl}{{ site.data.covenants.pw }}, если у вас нет активного баффа от этого заклинания.
+10. {:.fire-apl .storm-apl .pw-apl}{{ site.data.covenants.pw }}, если у вас нет активного баффа от этого заклинания.
 28. {:.mote-apl}{{ site.data.spells.quake }}, если есть **60+** ед. энергии Водоворота.
 24. {:.mote-apl .eogs-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50+** ед. энергии Водоворота и бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 24. {:.mote-apl .fire-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если есть **50+** ед. энергии Водоворота и в бою не более **4** целей.
