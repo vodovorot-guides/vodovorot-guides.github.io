@@ -136,10 +136,82 @@ custom-javascript-list:
 1. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
 2. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }}.
 3. {:.sunder-apl}{{ site.data.spells.sunder }} на максимальное количество целей.
-4. {:.fn-apl}{{ site.data.spells.fs }} на максимальное количество целей.
-4. {:.lf-apl}{{ site.data.spells.fs }} на максимальное количество целей.
-4. {:.pw-apl}{{ site.data.spells.fs }} на максимальное количество целей.
-4. {:.actuators-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .vt-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .ch-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .ft-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .vt-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .ch-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .ft-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .vt-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .ch-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .ft-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .vt-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .ch-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .ft-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .vt-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .ch-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .ft-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .vt-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .ch-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .ft-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .vt-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .ch-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .ea-apl .ft-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .vt-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .ch-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.lf-apl .hailstorm-apl .ft-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .vt-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .ch-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .ft-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .vt-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .ch-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .ft-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .vt-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .ch-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .ft-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .vt-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .ch-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .ft-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .vt-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .ch-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .ft-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .vt-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .ch-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .ft-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .vt-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .ch-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .fw-apl .ft-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .vt-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .ch-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.fn-apl .eb-apl .ft-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .fw-apl .ea-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .fw-apl .hailstorm-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .eb-apl .ea-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .eb-apl .hailstorm-apl .witch-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .fw-apl .ea-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .fw-apl .hailstorm-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .eb-apl .ea-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .eb-apl .hailstorm-apl .wolf-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .fw-apl .ea-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .fw-apl .hailstorm-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .eb-apl .ea-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .eb-apl .hailstorm-apl .doom-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .fw-apl .ea-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .fw-apl .hailstorm-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .eb-apl .ea-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.pw-apl .eb-apl .hailstorm-apl .leg_fae-apl}}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .fw-apl .ea-apl .vt-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .eb-apl .ea-apl .vt-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .fw-apl .hailstorm-apl .vt-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .eb-apl .hailstorm-apl .vt-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .fw-apl .ea-apl .ch-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .eb-apl .ea-apl .ch-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .fw-apl .hailstorm-apl .ch-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .eb-apl .hailstorm-apl .ch-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .fw-apl .ea-apl .ft-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .eb-apl .ea-apl .ft-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .fw-apl .hailstorm-apl .ft-apl}{{ site.data.spells.fs }} на максимальное количество целей.
+4. {:.actuators-apl .eb-apl .hailstorm-apl .ft-apl}{{ site.data.spells.fs }} на максимальное количество целей.
 5. {:.pw-apl}{{ site.data.covenants.pw }}, если нет активного баффа от этого заклинания.
 6. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **3+** цели.
 7. {:.vt-apl}{{ site.data.covenants.vt }}.
