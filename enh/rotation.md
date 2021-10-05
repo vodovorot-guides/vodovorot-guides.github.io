@@ -92,12 +92,16 @@ custom-javascript-list:
 10. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }}.
 12. {:.spike-apl}{{ site.data.spells.spike }}.
 13. {:.ft-apl}{{ site.data.covenants.ft }}. 
+17. {:.witch-apl}{{ site.data.spells.ss }}.
 13. {:.sk_enh-apl}{{ site.data.spells.cl }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
 14. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 15. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 13. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 16. {{ site.data.spells.lb }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-17. {{ site.data.spells.ss }}.
+17. {:.actuators-apl}{{ site.data.spells.ss }}.
+17. {:.wolf-apl}{{ site.data.spells.ss }}.
+17. {:.doom-apl}{{ site.data.spells.ss }}.
+17. {:.leg_fae-apl}{{ site.data.spells.ss }}.
 18. {{ site.data.spells.ll }}.
 19. {{ site.data.spells.crush }}.
 20. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
@@ -135,7 +139,6 @@ custom-javascript-list:
 4. {:.fn-apl}{{ site.data.spells.fs }} на максимальное количество целей.
 4. {:.lf-apl}{{ site.data.spells.fs }} на максимальное количество целей.
 4. {:.pw-apl}{{ site.data.spells.fs }} на максимальное количество целей.
-4. {:.fn-apl}{{ site.data.spells.fs }} на максимальное количество целей.
 4. {:.actuators-apl}{{ site.data.spells.fs }} на максимальное количество целей.
 5. {:.pw-apl}{{ site.data.covenants.pw }}, если нет активного баффа от этого заклинания.
 6. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **3+** цели.
@@ -143,7 +146,7 @@ custom-javascript-list:
 8. {:.pw-apl}{{ site.data.spells.lb }}, если есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=326059) и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 9. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
 10. {{ site.data.spells.crush }}, если бафф не активен.
-11. {:.lf-apl}{{ site.data.spells.ll }} на цель без активного дебаффа от таланта {{ site.data.spells.lf }}.
+11. {:.lf-apl}{{ site.data.spells.ll }} по цели без активного дебаффа от таланта {{ site.data.spells.lf }}.
 12. {:.actuators-apl}{{ site.data.spells.ll }} при наличии **6+** стаков от легендарки [Преобразователи изначальной лавы](https://ru.wowhead.com/spell=335895).
 13. {:.hh-apl}{{ site.data.spells.ll }} с баффом от таланта {{ site.data.spells.hh }}.
 14. {{ site.data.spells.ss }}.
