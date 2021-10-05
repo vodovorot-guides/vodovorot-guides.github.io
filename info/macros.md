@@ -61,12 +61,6 @@ image: /assets/img/logos/macros.png
 /cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
 ~~~
 
-* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.cl }} + {{ site.data.spells.ch }}, {{ site.data.spells.cleance }} + {{ site.data.spells.purge }} и другие:
-~~~
-#showtooltip Цепная молния
-/use [@mouseover,nodead,harm]Цепная молния;[@mouseover,nodead,help]Цепное исцеление;[@target,nodead,harm]Цепная молния;[@target,nodead,help][@player] Цепное исцеление
-~~~
-
 
 * Применяет {{ site.data.spells.wrt }} прямо прямо под вашего персонажа, позволяя сразу получить бонус скорости и не терять времени на установку тотема:  
 ~~~
@@ -183,6 +177,12 @@ image: /assets/img/logos/macros.png
 ~~~
 
 # Исцеление
+
+* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.cl }} + {{ site.data.spells.ch }}, [Возрождение духа](https://ru.wowhead.com/spell=77130) + {{ site.data.spells.purge }} и другие:
+~~~
+#showtooltip Цепная молния
+/use [@mouseover,nodead,harm]Цепная молния;[@mouseover,nodead,help]Цепное исцеление;[@target,nodead,harm]Цепная молния;[@target,nodead,help][@player] Цепное исцеление
+~~~
 
 * Маусовер для атакующих заклинания для Рестора, позволяет атаковать даже в цель союзника под маусовером. Не рекомендуется использовать в ПвП:  
 ~~~
