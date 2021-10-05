@@ -322,7 +322,7 @@ custom-javascript-list:
 8. {:.pw-apl}{{ site.data.spells.lb }}, если есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=326059) и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 9. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
 10. {{ site.data.spells.crush }}, если бафф не активен.
-11. {:.lf-apl}{{ site.data.spells.ll }} по цели без активного дебаффа от таланта }{{ site.data.spells.lf }}.
+11. {:.lf-apl}{{ site.data.spells.ll }} по цели без активного дебаффа от таланта {{ site.data.spells.lf }}.
 12. {:.actuators-apl}{{ site.data.spells.ll }} при наличии **6+** стаков от легендарки [Преобразователи изначальной лавы](https://ru.wowhead.com/spell=335895).
 13. {:.hh-apl}{{ site.data.spells.ll }} с баффом от таланта {{ site.data.spells.hh }}.
 14. {{ site.data.spells.ss }}.
