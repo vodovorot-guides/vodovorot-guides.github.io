@@ -52,7 +52,7 @@ image: /assets/img/logos/leggos.png
 <a href="https://ru.wowhead.com/spell=335899" target="blank" data-wh-icon-size="medium" >**Наследие ледяной ведьмы**</a> – при поглощении **5** зарядов {{ site.data.spells.mw }} сбрасывает кулдаун {{ site.data.spells.ss }} увеличивает его урона на **30%**.
 
 * **Источник**: Башня Торгаст. 
-* **Слоты**: **Шея** > ~~Шея~~.
+* **Слоты**: **Запястья** > ~~Шея~~.
 
 * Не тратьте стаки {{ site.data.spells.mw }}, если до конца времени восстановления {{ site.data.spells.ss }} осталось мало времени.
 
