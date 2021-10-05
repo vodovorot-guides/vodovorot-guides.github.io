@@ -88,8 +88,8 @@ custom-javascript-list:
 7. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
 8. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
 9. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
-10. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }}.
 11. {:.vt-apl}{{ site.data.covenants.vt }}. 
+10. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }}.
 12. {:.spike-apl}{{ site.data.spells.spike }}.
 13. {:.ft-apl}{{ site.data.covenants.ft }}. 
 13. {:.sk_enh-apl}{{ site.data.spells.cl }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
@@ -113,12 +113,13 @@ custom-javascript-list:
 
 * {:.doom-apl}Список приоритетов **при активном** баффе от легендарки {{ site.data.legend.doom }}:
 
-1. {:.doom-apl}{{ site.data.spells.windstrike }} при активном {{ site.data.spells.asc_enh }}.
-2. {:.doom-apl}{{ site.data.spells.ss }}.
+1. {:.doom-apl .asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
+1. {:.doom-apl .spirits-apl}{{ site.data.spells.ss }}.
+1. {:.doom-apl .spike-apl}{{ site.data.spells.ss }}.
 3. {:.doom-apl}{{ site.data.spells.crush }}.
-4. {:.doom-apl}{{ site.data.spells.sunder }}.
-5. {:.doom-apl}Все остальные способности, согласно обычной ротации.
-
+4. {:.doom-apl .sunder-apl}{{ site.data.spells.sunder }}.
+5. {:.doom-apl .is-apl}{{ site.data.spells.is }}.
+6. {:.doom-apl}Все остальные способности, согласно обычной ротации.
 
 # Бой на АоЕ
 
@@ -168,8 +169,10 @@ custom-javascript-list:
 * {:.doom-apl}Список приоритетов **при активном** баффе от легендарки {{ site.data.legend.doom }}:
 
 1. {:.doom-apl}{{ site.data.spells.crush }}.
-2. {:.doom-apl}{{ site.data.spells.sunder }}.
-3. {:.doom-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
+4. {:.doom-apl .sunder-apl}{{ site.data.spells.sunder }}.
+1. {:.doom-apl .asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
+1. {:.doom-apl .spirits-apl}{{ site.data.spells.ss }}.
+1. {:.doom-apl .spike-apl}{{ site.data.spells.ss }}.
 4. {:.doom-apl}{{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 5. {:.doom-apl}Все остальные способности, согласно обычной ротации.
 
