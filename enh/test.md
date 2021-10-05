@@ -145,8 +145,8 @@ custom-javascript-list:
 11. {:.lf-apl}{{ site.data.spells.ll }} на цель без активного дебаффа от таланта {{ site.data.spells.lf }}.
 12. {:.actuators-apl}{{ site.data.spells.ll }} при наличии **6+** стаков от легендарки [Преобразователи изначальной лавы](https://ru.wowhead.com/spell=335895).
 13. {:.hh-apl}{{ site.data.spells.ll }} с баффом от таланта {{ site.data.spells.hh }}.
-14. {{ site.data.spells.ss }}
-14. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}
+14. {{ site.data.spells.ss }}.
+14. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
 15. {{ site.data.spells.crush }}.
 16. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 17. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
