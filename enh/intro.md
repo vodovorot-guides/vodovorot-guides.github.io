@@ -78,9 +78,9 @@ image: /assets/img/logos/enhguide.png
 
 <p></p>
 
-# Способности
+# Ротация
 
-* Узнать про все способности и их приоритет можно [на этой странице](/enh/rotation.html).
+* Узнать про приоритет способностей на СТ и АоЕ можно [на этой странице](/enh/rotation.html). 
 
 {% include button.html name="Способности и ротация Энх шамана" link="/enh/rotation.html" %}  
 
