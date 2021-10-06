@@ -96,7 +96,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 8. {:.ecs-apl}Cast [Echoing Shock](https://www.wowhead.com/spell=320125) followed by [Earth Shock](https://www.wowhead.com/spell=8042).
 10. {:.lava-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 11. Cast [Earth Shock](https://www.wowhead.com/spell=8042) if your next spell will bring you above **100** Maelstrom.
-12. {:.fire-apl}{Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
+12. {:.fire-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 13. {:.ee-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 14. {:.eogs-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 15. {:.eb-apl}Cast [Elemental Blast](https://www.wowhead.com/spell=117014).
