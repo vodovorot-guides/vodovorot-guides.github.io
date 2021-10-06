@@ -80,40 +80,40 @@ custom-javascript-list:
 
 * {:.doom-apl}Список приоритетов **БЕЗ** активного баффа от легендарки {{ site.data.legend.doom }}:
 
+5. {{ site.data.spells.feral }}.
+6. {:.hh-apl}{{ site.data.spells.ll }} с баффом от таланта {{ site.data.spells.hh }}.
 1. {:.witch-apl}{{ site.data.spells.wt }}, если тотем не активен.
 1. {:.actuators-apl}{{ site.data.spells.wt }}, если тотем не активен.
 1. {:.wolf-apl}{{ site.data.spells.wt }}, если тотем не активен.
-2. {:.pw-apl}{{ site.data.covenants.pw }}, если нет активного баффа от этого заклинания.
-3. {{ site.data.spells.fs }}, если отсутствует на цели.
-4. {{ site.data.spells.feral }}.
-6. {:.hh-apl}{{ site.data.spells.ll }} с баффом от таланта {{ site.data.spells.hh }}.
-6. {:.lf-apl}{{ site.data.spells.ll }} при отсутствии дебаффа {{ site.data.spells.lf }}.
-7. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
-8. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
-9. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
-11. {:.vt-apl}{{ site.data.covenants.vt }}. 
-10. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }}.
-12. {:.spike-apl}{{ site.data.spells.spike }}.
-13. {:.ft-apl}{{ site.data.covenants.ft }}. 
-17. {:.witch-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
-13. {:.sk_enh-apl}{{ site.data.spells.cl }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
-14. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-15. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-13. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-16. {{ site.data.spells.lb }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-17. {:.actuators-apl}{{ site.data.spells.ss }}. с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
-17. {:.wolf-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
-17. {:.doom-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
-17. {:.leg_fae-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
-18. {{ site.data.spells.ll }}.
-19. {{ site.data.spells.crush }}.
-20. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
-21. {{ site.data.spells.frs }}. 
-22. {:.is-apl}{{ site.data.spells.is }}.
-23. {:.sunder-apl}{{ site.data.spells.sunder }}.
-24. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}.
-25. {{ site.data.spells.lb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-26. {{ site.data.spells.wt }}, если все другие способности недоступны.
+8. {:.pw-apl}{{ site.data.covenants.pw }}, если нет активного баффа от этого заклинания.
+9. {{ site.data.spells.fs }}, если отсутствует на цели.
+10. {:.lf-apl}{{ site.data.spells.ll }} при отсутствии дебаффа от таланта {{ site.data.spells.lf }}.
+11. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
+12. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
+13. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
+14. {:.vt-apl}{{ site.data.covenants.vt }}. 
+15. {:.hailstorm-apl}{{ site.data.spells.frs }} с баффом от таланта {{ site.data.spells.hailstorm }}.
+16. {:.spike-apl}{{ site.data.spells.spike }}.
+17. {:.ft-apl}{{ site.data.covenants.ft }}. 
+18. {:.witch-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
+19. {:.sk_enh-apl}{{ site.data.spells.cl }} под баффом от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
+20. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+21. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+22. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+23. {{ site.data.spells.lb }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+24. {:.actuators-apl}{{ site.data.spells.ss }}. с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
+25. {:.wolf-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
+26. {:.doom-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
+27. {:.leg_fae-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
+28. {{ site.data.spells.ll }}.
+29. {{ site.data.spells.crush }}.
+30. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
+31. {{ site.data.spells.frs }}. 
+32. {:.is-apl}{{ site.data.spells.is }}.
+33. {:.sunder-apl}{{ site.data.spells.sunder }}.
+34. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}.
+35. {{ site.data.spells.lb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+36. {{ site.data.spells.wt }}, если все другие способности недоступны.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
