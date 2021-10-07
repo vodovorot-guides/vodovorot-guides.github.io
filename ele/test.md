@@ -59,11 +59,11 @@ custom-javascript-list:
 
 **Опенер** – это фиксированный порядок кастов в самом начале боя против одной цели. 
 
-1. {{ site.data.spells.sk }}.
+1. {{ site.data.spells.sk }} прекастом.
 2. {{ site.data.spells.storm }}.
-3. {{ site.data.spells.cl }}.
+3. {{ site.data.spells.cl }}, усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 4. {{ site.data.spells.es }}.
-5. {{ site.data.spells.cl }}
+5. {{ site.data.spells.cl }},  усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 6. {{ site.data.spells.quake }}.
 
 1. {:.pw-apl}{{ site.data.covenants.fleshcraft }} за **10** секунд до пула.
