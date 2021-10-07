@@ -59,6 +59,13 @@ custom-javascript-list:
 
 **Опенер** – это фиксированный порядок кастов в самом начале боя против одной цели. 
 
+1. {{ site.data.spells.sk }}.
+2. {{ site.data.spells.storm }}.
+3. {{ site.data.spells.cl }}.
+4. {{ site.data.spells.es }}.
+5. {{ site.data.spells.cl }}
+6. {{ site.data.spells.quake }}.
+
 1. {:.pw-apl}{{ site.data.covenants.fleshcraft }} за **10** секунд до пула.
 1. {:.sk-apl}{{ site.data.spells.sk }} за **5** секунд до пула.
 3. {:.mote-apl}{{ site.data.spells.fe }} за **3.5** секунды до пула.
