@@ -115,13 +115,10 @@ custom-javascript-list:
 
 * {:.storm-apl}Список приоритетов **БЕЗ** активного [Элементаля бури](https://ru.wowhead.com/spell=192249):
 
-1. Поддерживайте на цели {{ site.data.spells.fs }}.
-2. Кастуйте спендеры – {{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
-3. {{ site.data.covenants.ft }} / {{ site.data.covenants.pw }} / {{ site.data.covenants.vt }}.
-4. {{ site.data.spells.sk }} по кулдауну.
-5. {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756) и без него.
-6. {{ site.data.spells.lb }} как филлер, если ничего другое не доступно.
-7. {{ site.data.spells.frs }} во время перебежек.
+1. Кастуйте спендеры – {{ site.data.spells.es }} или {{ site.data.spells.quake }}, в зависимости от баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+2. {{ site.data.spells.cl }} для набора энергии.
+4. {{ site.data.spells.fs }} и {{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756) во время передвижения.
+3. Способности ковенантов не кастуются, кроме [Тотема вечернего колокола](https://ru.wowhead.com/spell=324386).
 
 
 1. {:.if-apl .asc_ele-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714), если до окончания времени действия баффа осталось мало времени. Не допускайте потери стаков.
