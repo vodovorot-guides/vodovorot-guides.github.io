@@ -161,7 +161,7 @@ custom-javascript-list:
 46. {:.sop-apl}{{ site.data.spells.lb }} при активном баффе от [Прилива мощи](https://ru.wowhead.com/spell=262303), если использование [Выброса лавы](https://ru.wowhead.com/spell=51505) не увеличит количество [Элементалей огня](https://ru.wowhead.com/spell=198067) за бой.
 58. {:.mote-apl}{{ site.data.spells.lvb }}.
 58. {:.lmt-apl}{{ site.data.spells.lvb }}.
-58. {{ site.data.spells.lvb }}.
+58. {:.storm-apl}{{ site.data.spells.lvb }}.
 48. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
 49. {:.storm-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 50. {:.lmt-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
