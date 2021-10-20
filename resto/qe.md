@@ -1,7 +1,7 @@
 ---
 title: Руководство по использованию QE Live
 layout: page
-last_update: 2020-05-26
+last_update: 2020-10-26
 wow: 9.1
 author: "Haelrail, Amani"
 toc: true
