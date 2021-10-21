@@ -102,10 +102,13 @@ custom-javascript-list:
 22. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 23. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 24. {{ site.data.spells.lb }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-25. {:.actuators-apl}{{ site.data.spells.ss }}. с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
+25. {:.actuators-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
 26. {:.wolf-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
 27. {:.doom-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
 28. {:.leg_fae-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
+26. {:.leg_kyrian-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него. 
+26. {:.leg_venthyr-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
+26. {:.leg_necrolords-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) или без него.
 29. {{ site.data.spells.ll }}.
 30. {{ site.data.spells.crush }}.
 31. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
