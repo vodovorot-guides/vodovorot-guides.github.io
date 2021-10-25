@@ -57,13 +57,6 @@ image: /assets/img/logos/wa.png
 
 # Различные сборки WeakAuras
 
-[Сборка от Grayscale и Amani (3 группы):](https://wago.io/CHo-nfmhB)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://media.wago.io/screenshots/CHo-nfmhB/614cb685386c3305790c4157.jpg" width=350x> 
-</p>
-
 [Сборка от Omeja:](https://wago.io/jUWUuuBOT)
 {: style="text-align: center;"}
 
