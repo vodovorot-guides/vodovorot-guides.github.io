@@ -1,7 +1,7 @@
 ---
 title: PvP-гайд на Шамана Исцеления
 layout: page
-last_update: 2021-10-18
+last_update: 2021-10-27
 wow: 9.1
 toc: true
 author: "Bay, Amani"
@@ -83,46 +83,50 @@ image: /assets/img/PH.jpg
 
 ## Первый тир, 15 уровень
 
-{% include talents.html data=site.data.talents.resto active="111" row=1 %}
+{% include talents.html data=site.data.talents.resto active="001" row=1 %}
 
-<a href="https://ru.wowhead.com/spell=200072" target="blank" data-wh-icon-size="medium" >**Поток**</a> – пассивный талант, увеличивает **первоначальный** отхил способности {{ site.data.spells.riptide }} на **20%**. Не апает ХоТ эффект этого заклинания. Бесполезный талант на данный момент.
+<a href="https://ru.wowhead.com/spell=200072" target="blank" data-wh-icon-size="medium" >**Поток**</a> – пассивный талант, увеличивает **первоначальный** отхил способности {{ site.data.spells.riptide }} на **20%**. Не апает ХоТ эффект этого заклинания. **Бесполезный талант на данный момент.**
 
-<a href="https://ru.wowhead.com/spell=200071" target="blank" data-wh-icon-size="medium" >**Пульсация**</a> – пассивный талант, усиливает на **50%** каждое третье применение способностей {{ site.data.spells.hs }} или {{ site.data.spells.hw }}. Проигрывает следующему варианту, поэтому не берется.
+<a href="https://ru.wowhead.com/spell=200071" target="blank" data-wh-icon-size="medium" >**Пульсация**</a> – пассивный талант, усиливает на **50%** каждое третье применение способностей {{ site.data.spells.hs }} или {{ site.data.spells.hw }}. **Проигрывает следующему варианту, поэтому не берется.**
 
-<a href="https://ru.wowhead.com/spell=73685" target="blank" data-wh-icon-size="medium" >**Высвободить чары жизни**</a> – активная способность, лечит цель и дает бафф на **35%** отхила следующего заклинания прямого исцеления. Время восстановления **15** секунд. Универсальный инстант отхил с коротким КД. Не выбивает из формы [Призрачного волка](https://ru.wowhead.com/spell=2645) при использовании, а значит позволяет кайтить и немного подхиливаться. Лучший выбор в этом тире талантов.
+<a href="https://ru.wowhead.com/spell=73685" target="blank" data-wh-icon-size="medium" >**Высвободить чары жизни**</a> – активная способность, лечит цель и дает бафф на **35%** отхила следующего заклинания прямого исцеления. Время восстановления **15** секунд. Универсальный инстант отхил с коротким КД. Не выбивает из формы [Призрачного волка](https://ru.wowhead.com/spell=2645) при использовании, а значит позволяет кайтить и немного подхиливаться. **Лучший выбор в этом тире талантов.**
 
 
 ## Второй тир, 25 уровень
 
 {% include talents.html data=site.data.talents.resto active="100" row=2 %}
 
-<a href="https://ru.wowhead.com/spell=108283" target="blank" data-wh-icon-size="medium" >**Эхо стихий**</a> – пассивный талант, дает второй заряд способностям {{ site.data.spells.riptide }}, {{ site.data.spells.hst }} и {{ site.data.spells.lvb }}. Лучший талант этого тира, берется во всех ситуациях.
+<a href="https://ru.wowhead.com/spell=108283" target="blank" data-wh-icon-size="medium" >**Эхо стихий**</a> – пассивный талант, дает второй заряд способностям {{ site.data.spells.riptide }}, {{ site.data.spells.hst }} и {{ site.data.spells.lvb }}. **Лучший талант этого тира, берется во всех ситуациях.**
 
 
-<a href="https://ru.wowhead.com/spell=200076" target="blank" data-wh-icon-size="medium" >**Наводнение**</a> – пассивный талант, увеличивает исцеление ваших способностей {{ site.data.spells.ch }}, {{ site.data.spells.hw }} и {{ site.data.spells.hs }} на **20%** для целей, находящихся в радиусе действия вашего {{ site.data.spells.rain }} либо под действием {{ site.data.spells.riptide }}. Не используется в PvP.
+<a href="https://ru.wowhead.com/spell=200076" target="blank" data-wh-icon-size="medium" >**Наводнение**</a> – пассивный талант, увеличивает исцеление ваших способностей {{ site.data.spells.ch }}, {{ site.data.spells.hw }} и {{ site.data.spells.hs }} на **20%** для целей, находящихся в радиусе действия вашего {{ site.data.spells.rain }} либо под действием {{ site.data.spells.riptide }}. **Не используется в PvP.**
 
 
-<a href="https://ru.wowhead.com/spell=320746" target="blank" data-wh-icon-size="medium" >**Вздымающаяся земля**</a> – активная способность, поглощает **3** заряда активного {{ site.data.spells.eshield }} и исцеляет максимум **3** союзников, находящихся в непосредственной близости от текущей цели {{ site.data.spells.eshield }}. Не используется в PvP.
+<a href="https://ru.wowhead.com/spell=320746" target="blank" data-wh-icon-size="medium" >**Вздымающаяся земля**</a> – активная способность, поглощает **3** заряда активного {{ site.data.spells.eshield }} и исцеляет максимум **3** союзников, находящихся в непосредственной близости от текущей цели {{ site.data.spells.eshield }}. **Не используется в PvP.**
 
 ## Третий тир, 30 уровень
 
 {% include talents.html data=site.data.talents.resto active="010" row=3 %}
 
-<a href="https://ru.wowhead.com/spell=260878" target="blank" data-wh-icon-size="medium" >**Дух волка**</a> – пассивный талант, снижает входящий урон и увеличивающая скорость передвижения на **20%** после **4** секунд использования формы [Призрачного волка](https://ru.wowhead.com/spell=2645). В текущих реалиях берется крайне редко.
+<a href="https://ru.wowhead.com/spell=260878" target="blank" data-wh-icon-size="medium" >**Дух волка**</a> – пассивный талант, снижает входящий урон и увеличивающая скорость передвижения на **20%** после **4** секунд использования формы [Призрачного волка](https://ru.wowhead.com/spell=2645). **Берется крайне редко.**
 
-<a href="https://ru.wowhead.com/spell=51485" target="blank" data-wh-icon-size="medium" >**Тотем хватки земли**</a> – любой противник проходящий через область действия тотема сначала обездвиживается на **8** секунд, а после спадения эффекта обездвиживания замедляется на **50%**. Длительность тотема **20** секунд. Время восстановления **30** секунд. Лучший выбор в этом тире. Позволяет кайтить, уводя в ЛоС милишника и ставя в него этот тотем, а также облегчает использование [Тотема конденсации](https://ru.wowhead.com/spell=192058).
+<a href="https://ru.wowhead.com/spell=51485" target="blank" data-wh-icon-size="medium" >**Тотем хватки земли**</a> – любой противник проходящий через область действия тотема сначала обездвиживается на **8** секунд, а после спадения эффекта обездвиживания замедляется на **50%**. Длительность тотема **20** секунд. Время восстановления **30** секунд. **Лучший выбор в этом тире.** Позволяет кайтить, уводя в ЛоС милишника и ставя в него этот тотем, а также облегчает использование [Тотема конденсации](https://ru.wowhead.com/spell=192058).
 
-<a href="https://ru.wowhead.com/spell=265046" target="blank" data-wh-icon-size="medium" >**Статический разряд**</a> – сокращает время восстановления [Тотема конденсации](https://ru.wowhead.com/spell=192058) в зависимости от количества пораженных им противников. Не используется в PvP.
+<a href="https://ru.wowhead.com/spell=265046" target="blank" data-wh-icon-size="medium" >**Статический разряд**</a> – сокращает время восстановления [Тотема конденсации](https://ru.wowhead.com/spell=192058) в зависимости от количества пораженных им противников. **Не используется в PvP.**
 
 ## Четвертый тир, 35 уровень
 
 {% include talents.html data=site.data.talents.resto active="111" row=4 %}
 
-<a href="https://ru.wowhead.com/spell=207401" target="blank" data-wh-icon-size="medium" >**Энергия Предков**</a> – увеличивает максимальный запас здоровья целей ваших способностей прямого исцеления на **10%**.
+<a href="https://ru.wowhead.com/spell=207401" target="blank" data-wh-icon-size="medium" >**Энергия Предков**</a> – увеличивает максимальный запас здоровья целей ваших способностей прямого исцеления на **10%**. **Не используется в PvP**, кроме этапа подготовки перед началом арены для усиления щита от [Скульптора плоти](https://ru.wowhead.com/spell=324631).
+
 
 <a href="https://ru.wowhead.com/spell=198838" target="blank" data-wh-icon-size="medium" >**Тотем земляной стены**</a> – тотем, поглощающий часть урона, получаемого игроками в зоне его действия.
 
 <a href="https://ru.wowhead.com/spell=207399" target="blank" data-wh-icon-size="medium" >**Тотем защиты Предков**</a> – воскрешает первого игрока, погибшего в радиусе действия этого тотема, с **20%** от максимального запаса здоровья. Кроме того, все игроки в зоне действия тотема получают дополнительные **10%** к запасу здоровья.
+
+
+
 
 
 
