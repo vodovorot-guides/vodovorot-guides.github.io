@@ -26,9 +26,11 @@ image: /assets/img/logos/covenants.png
 
 # Выбор ковенанта
 
-**Мифик+:** <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>. Для бонусов в подземельях можно взять <span style="color:#40bf40;font-size:1em;">**Некролордов**</span> или <span style="color:#68ccef;font-size:1em;">**Кирий**</span>.
-**Рейд**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> или <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>, в зависимости от боссов. Подробнее по каждому боссу можно посмотреть на [WarcraftLogs](https://www.warcraftlogs.com/zone/rankings/28#boss=2435&class=Shaman&spec=Elemental) или [Subcreation](https://raid.subcreation.net/elemental-shaman.html).
-**PvP**: <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>. PvP-гайд можно найти [по этой ссылке](https://stormkeeper.ru/ele/pvp.html).
+* **Мифик+:** <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>. Для бонусов в подземельях можно взять <span style="color:#40bf40;font-size:1em;">**Некролордов**</span> или <span style="color:#68ccef;font-size:1em;">**Кирий**</span>.
+
+* **Рейд**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> или <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>, в зависимости от боссов. Подробнее по каждому боссу можно посмотреть на [WarcraftLogs](https://www.warcraftlogs.com/zone/rankings/28#boss=2435&class=Shaman&spec=Elemental) или [Subcreation](https://raid.subcreation.net/elemental-shaman.html).
+
+* **PvP**: <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>. PvP-гайд можно найти [по этой ссылке](https://stormkeeper.ru/ele/pvp.html).
 
 # <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
