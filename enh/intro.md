@@ -1,8 +1,8 @@
 ---
 title: Гайд на Шамана Совершенствования
 layout: page
-last_update: 2021-07-30
-wow: 9.1
+last_update: 2021-10-29
+wow: 9.1.5
 author: Amani
 toc: true
 description: Основная информация про Энх Шамана. Выбор ковенанта, лучшие проводники и легендарные предметы, таланты для рейда и Мифик+, описание способностей, ротации и характеристик – в этом руководстве вы найдет это и многое другое.
@@ -18,14 +18,12 @@ image: /assets/img/logos/enhguide.png
 # Ковенанты
 
 <p align="center">
-<img src="/assets/img/Venthyr_sigil.png" > 
-<img src="/assets/img/Night_Fae_sigil.png">
+<img src="/assets/img/Night_Fae_sigil.png" >
 <img src="/assets/img/Kyrian_sigil.png" > 
+<img src="/assets/img/Venthyr_sigil.png" > 
 </p>
 
-На данный момент у Энх шамана два отличных ковенанта – <span style="color:#ff4040;font-size:1em;">**Вентиры**</span> и <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>.
-
-<span style="color:#68ccef;font-size:1em;">**Кирии**</span> станут крайне эффективны на **57+** уровне известности, а <span style="color:#40bf40;font-size:1em;">**Некролорды**</span> – самый слабый вариант для Энха на данный момент.
+На данный момент у Энх шамана три отличных ковенанта – <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>, <span style="color:#68ccef;font-size:1em;">**Кирии**</span> и <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>.
 
 Посмотреть актуальную статистику по распределению игроков среди ковенантов можно по этой [ссылке](https://mplus.subcreation.net/enhancement-shaman.html#covenants).
 {: class="bordered"}
