@@ -1,8 +1,8 @@
 ---
 title: Ковенанты и медиумы – Шаман Совершенствования
 layout: page
-last_update: 2021-09-29
-wow: 9.1
+last_update: 2021-10-29
+wow: 9.1.5
 toc: true
 author: Amani
 description: Описание ковенантов и их способностей, а также примеры прокачки медиумов.
@@ -27,18 +27,11 @@ image: /assets/img/logos/covenants.png
 
 # Выбор ковенанта
 
-На данный момент у Энх шамана три отличных ковенанта – <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>, <span style="color:#ff4040;font-size:1em;">**Вентиры**</span> и <span style="color:#68ccef;font-size:1em;">**Кирии**</span>.
+* **Мифик+:** <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>, <span style="color:#68ccef;font-size:1em;">**Кирии**</span> или <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>. Можно выбирать по личным предпочтениям или исходя из необходимых группе бонусов для подземелья.
 
-Посмотреть актуальную статистику по распределению игроков среди ковенантов можно по этой [ссылке](https://mplus.subcreation.net/enhancement-shaman.html#covenants).
-{: class="bordered"}
+* **Рейд**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>.
 
-* <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>: отлично для **рейда**, отлично для **Мифик+**, средне для **PvP**.
-
-* <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: хороши для **рейда**, отлично для **Мифик+**, средне для **PvP**.
-
-* <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>: нормально для **рейда**, отлично для **Мифик+**, отлично для **PvP**.
-
-* <span style="color:#40bf40;font-size:1em;">**Некролорды**</span> сейчас проигрывают трем другим ковенантам во всех типах контента.
+* **PvP**: <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>.
 
 
 # <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
