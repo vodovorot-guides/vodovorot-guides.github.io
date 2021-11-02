@@ -28,16 +28,11 @@ image: /assets/img/logos/covenants.png
 
 # Выбор ковенанта
 
-# Выбор ковенанта
-
-* **Мифик+:** <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>. Для бонусов в подземельях можно взять <span style="color:#40bf40;font-size:1em;">**Некролордов**</span> или <span style="color:#68ccef;font-size:1em;">**Кирий**</span>.
-
-* **Рейд**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> или <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>, в зависимости от боссов. Подробнее по каждому боссу можно посмотреть на [WarcraftLogs](https://www.warcraftlogs.com/zone/rankings/28#boss=2435&class=Shaman&spec=Elemental) или [Subcreation](https://raid.subcreation.net/elemental-shaman.html).
-
-
 * **Мифик+:** <span style="color:#68ccef;font-size:1em;">**Кирии**</span>. Для бонусов в подземельях можно взять <span style="color:#ff4040;font-size:1em;">**Вентиров**</span> или <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>. <span style="color:#40bf40;font-size:1em;">**Некролорды**</span> не дают урона и являются заведомо слабым выбором для этого контента.
 
 * **Рейд:** <span style="color:#40bf40;font-size:1em;">**Некролорды**</span> дают на несколько процентов больше отхила, чем другие ковенанты. Для дополнительного урона стоит использовать <span style="color:#68ccef;font-size:1em;">**Кирий**</span>.
+
+* **PvP:** <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>.
 
 # <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
