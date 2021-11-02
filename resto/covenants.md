@@ -1,7 +1,7 @@
 ---
 title: Ковенанты и медиумы – Шаман Исцеления
 layout: page
-last_update: 2021-01-11
+last_update: 2021-11-02
 wow: 9.1.5
 toc: true
 author: Amani
