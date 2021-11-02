@@ -29,7 +29,7 @@ image: /assets/img/logos/covenants.png
 
 * **Мифик+:** <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>, <span style="color:#68ccef;font-size:1em;">**Кирии**</span> или <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>. Можно выбирать по личным предпочтениям или исходя из необходимых группе бонусов для подземелья.
 
-* **Рейд**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>.
+* **Рейд**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> или <span style="color:#68ccef;font-size:1em;">**Кирии**</span>.
 
 * **PvP**: <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>.
 
