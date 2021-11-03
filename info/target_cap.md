@@ -1,10 +1,10 @@
 ---
 title: Ограничение на количество целей
 layout: page
-last_update: 2020-11-04
-wow: 9.0.1
+last_update: 2021-11-03
+wow: 9.1.5
 toc: true
-author: "Amani. Перевод: Wishko. Оригинал: Wowhead."
+author: Amani
 ---
 # Вступление
 
@@ -74,7 +74,7 @@ author: "Amani. Перевод: Wishko. Оригинал: Wowhead."
 * {{ site.data.spells.ch }} – хард-кап на **3** цели.  
 * {{ site.data.spells.cl }} – хард-кап на **5** целей.  
 * {{ site.data.spells.quake }} – софт-кап на **20** целей.  
-* {{ site.data.spells.eye_storm }} – хард-кап на **6** целей.  
+* {{ site.data.spells.eye_storm }} – софт-кап на **5** целей.  
 * {{ site.data.spells.lava_beam }} – хард-кап на **5** целей.  
 * {{ site.data.spells.lmt }} – софт-кап на **20** целей.  
 * {{ site.data.spells.meteor }} – хард-кап на **8** целей.  
