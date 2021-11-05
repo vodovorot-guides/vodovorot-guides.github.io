@@ -1,8 +1,8 @@
 ---
 title: Макросы для шамана
 layout: page
-last_update: 2021-06-27
-wow: 9.1
+last_update: 2021-11-05
+wow: 9.1.5
 toc: true
 author: Amani
 description: Здесь вы найдете полезные макросы для Шаманов всех специализаций. Плюс – различные универсальные макросы, которые сделают вашу жизнь лучше и приятнее.
@@ -10,6 +10,16 @@ image: /assets/img/logos/macros.png
 ---
 
 # Все специализации
+
+* Способности ковенантов на одной кнопке:
+~~~
+#showtooltip
+/stopmacro [channeling]
+/cast [@cursor]Тотем вечернего колокола
+/cast [@mouseover,exists][@target,exists]Первозданная волна
+/cast [@cursor]Волшебное переливание
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Тотем вечернего колокола" or G"Первозданная волна" or G"Волшебное переливание")
+~~~
 
 * Универсальный маусовер макрос для атакующих заклинаний. Если у вас есть противник под курсором – кинет в него, иначе в вашу цель. Удобно развешивать {{ site.data.spells.fs }} не меняя текущей цели. Можно использовать для таких заклинаний, как {{ site.data.spells.lb }}, {{ site.data.spells.lvb }}, {{ site.data.spells.purge }} и других:
 ~~~
