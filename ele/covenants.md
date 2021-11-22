@@ -130,7 +130,7 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – **лучший медиум для боя против одной цели**. Пример прокачки Марилета:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/AwCWZr4BJShxCBMFKX8IFSzyCCVF-ggiFSg9CCV2AAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/AwCW5r4BJShxCBMFKX8IFSzyCCVF-ggiFSg9CCV2AAg"></a>
 
 <p></p>
 
