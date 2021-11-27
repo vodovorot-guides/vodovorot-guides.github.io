@@ -21,6 +21,16 @@ image: /assets/img/logos/macros.png
 /run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Тотем вечернего колокола" or G"Первозданная волна" or G"Волшебное переливание")
 ~~~
 
+* ОБщие способности ковенантов на одной кнопке:
+~~~
+#showtooltip
+/cast Призыв распорядителя
+/cast Врата теней
+/cast Скульптор плоти
+/cast Облик души
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Призыв распорядителя" or G"Врата теней" or G"Скульптор плоти" or G"Облик души")
+~~~
+
 * Универсальный маусовер макрос для атакующих заклинаний. Если у вас есть противник под курсором – кинет в него, иначе в вашу цель. Удобно развешивать {{ site.data.spells.fs }} не меняя текущей цели. Можно использовать для таких заклинаний, как {{ site.data.spells.lb }}, {{ site.data.spells.lvb }}, {{ site.data.spells.purge }} и других:
 ~~~
 #showtooltip  
