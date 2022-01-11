@@ -81,6 +81,7 @@ image: /assets/img/logos/conduits.png
 <a href="https://ru.wowhead.com/spell=339182?ilvl=252" target="blank" data-wh-icon-size="medium" >**Элизийская панихида**</a> – увеличивает наносимый урон и исцеление [Тотема вечернего колокола](https://ru.wowhead.com/spell=324386) на **96%** по одной цели, которая находится ближе всех к тотему.
 
 * На АоЕ с этим проводником нужно будет точнее позиционировать тотем, чтобы бонусный урон ушел в приоритетную цель.  
+* Работает в том числе и на ковенантскую легендарку – [Яростный перезвон](https://ru.wowhead.com/spell=356789).
 
 <a href="https://ru.wowhead.com/spell=339185?ilvl=252" target="blank" data-wh-icon-size="medium" >**Щедрая жатва**</a> – увеличивает шанс Критического удара [Цепной жатвы](https://ru.wowhead.com/spell=320674) на **14%**.
 
