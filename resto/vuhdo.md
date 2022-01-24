@@ -1,7 +1,7 @@
 ---
 title: VuhDo – часто задаваемые вопросы
 layout: page
-last_update: 2021-11-17
+last_update: 2022-01-24
 wow: 9.1
 author: "BloodBlade, Amani"
 toc: true
@@ -210,6 +210,26 @@ VuhDo имеет **встроенную поддержку** назначени�
 
 <p align="center">
 <img src="/assets/img/vuhdo/Как сделать чтобы в разном контенте у меня были разные фреймы.jpg" width=600x> 
+</p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+* **Как добавить поглощение исцеления?**
+* **Общее** → **Угроза / Входящий** → **Shield Bar** → Галочка на **Show Heal Absorb**.
+
+<p align="center">
+<img src="/assets/img/vuhdo/heal_absorb.jpg" width=600x> 
+</p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+* **Как настроить поглощение исцеления?**
+* **Цвета** → **Режимы** → **Heal Absorb Bar**.
+
+<p align="center">
+<img src="/assets/img/vuhdo/heal_absorb_bar.jpg" width=600x> 
 </p>
 
 <hr style="height:1px;background-color:#bbb">
