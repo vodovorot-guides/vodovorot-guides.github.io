@@ -76,8 +76,7 @@ image: /assets/img/logos/92_logo.png
 
 {% include talents.html data=site.data.talents.ele active="1102021" %}
 
-На Аое и в Мифик+ [Безграничная мощь](https://ru.wowhead.com/spell=260895/) заменяется на [Хранитель бурь](https://ru.wowhead.com/spell=191634/).
-{: class="bordered"}
+* На Аое и в Мифик+ [Безграничная мощь](https://ru.wowhead.com/spell=260895/) заменяется на [Хранитель бурь](https://ru.wowhead.com/spell=191634/).
 
 {% include button.html name="Подробнее про новый СТ билд в патче 9.2" link="https://stormkeeper.ru/2022/02/14/ele-meme.html" %}  
 
