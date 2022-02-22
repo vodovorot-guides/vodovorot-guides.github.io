@@ -199,7 +199,7 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#ff4040;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ru.wowhead.com/spell=356250" target="blank" data-wh-icon-size="medium" >**Проводник стихий**</a> – к союзникам, исцеленным [Цепной жатвой](https://ru.wowhead.com/spell=320674) применяется [Быстрина](https://ru.wowhead.com/spell=61295). К противникам, получившим урон от [Цепной жатвы](https://ru.wowhead.com/spell=320674) применяется [Огненный шоки](https://ru.wowhead.com/spell=188389).
+<a href="https://ru.wowhead.com/spell=356250" target="blank" data-wh-icon-size="medium" >**Проводник стихий**</a> – к союзникам, исцеленным [Цепной жатвой](https://ru.wowhead.com/spell=320674) применяется [Быстрина](https://ru.wowhead.com/spell=61295). К противникам, получившим урон от [Цепной жатвы](https://ru.wowhead.com/spell=320674) применяется [Огненный шоки](https://ru.wowhead.com/spell=188389). Каждый критический тик [Огненного шока](https://ru.wowhead.com/spell=188389) снижает КД [Цепной жатвы](https://ru.wowhead.com/spell=320674) на **1** секунду.
 
 
 
