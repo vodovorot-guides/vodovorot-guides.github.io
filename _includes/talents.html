@@ -84,17 +84,6 @@
     </td>
 {% endfor %}
   </tr>
-  <tr class="rotation_switches">
-{% for legendary in site.data.talents.common.covenant_legendaries %}
-    <td class="rotation_switch covenants" id="rotation_switch_{{ legendary.tag }}" style="border-bottom: 2px solid {{ covenant_colors[forloop.index0]}};">
-      <input type="radio" name="legendaries" id="{{ legendary.tag }}-radio" style="display:none;" covenant="{{ legendary.tag | split: '_' | last }}"
-      {% if legendary.default %} checked{% endif %}>
-      <label for="{{ legendary.tag }}-radio">
-        <a href="https://{{ lang }}.wowhead.com/spell={{ legendary.id }}" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link"></a>
-      </label>
-    </td>
-{% endfor %}
-  </tr>
   </tbody>
 </table>
 {% endif %}
