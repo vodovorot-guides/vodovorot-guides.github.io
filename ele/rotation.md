@@ -151,7 +151,6 @@ custom-javascript-list:
 * {:.primal_elem-apl .lmt-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 * {:.primal_elem-apl .storm-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 * {:.ecs-apl}{{ site.data.spells.ecs }} следует использовать на {{ site.data.spells.quake }}.
-* {:.vt-apl}{{ site.data.covenants.vt }} используется по кулдауну.
-* {:.ch-apl}{{ site.data.covenants.ch }} используется по кулдауну.
+* {:.vt-apl}{{ site.data.covenants.vt }} используется по кулдауну. Кастуйте [Наставления предков](https://ru.wowhead.com/spell=108281), [Щит земли](https://ru.wowhead.com/spell=974), [Тотем исцеляющего потока](https://ru.wowhead.com/spell=5394) или [Исцелющий всплеск](https://ru.wowhead.com/spell=8004) для прока легендарки [Яростный перезвон](https://ru.wowhead.com/spell=356789).* {:.ch-apl}{{ site.data.covenants.ch }} используется по кулдауну.
 * {:.ft-apl}{{ site.data.covenants.ft }} используется по кулдауну. По возможности, старайтесь откатить с его помощью кулдаун [Элементаля бури](https://ru.wowhead.com/spell=192249/).
 
