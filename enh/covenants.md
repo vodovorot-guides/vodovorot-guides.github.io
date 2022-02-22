@@ -1,38 +1,20 @@
 ---
 title: Ковенанты и медиумы – Шаман Совершенствования
 layout: page
-last_update: 2021-10-29
-wow: 9.1.5
+last_update: 2022-02-22
+wow: 9.2
 toc: true
 author: Amani
 description: Описание ковенантов и их способностей, а также примеры прокачки медиумов.
 image: /assets/img/logos/covenants.png
 ---
 
-<details markdown=1><summary><i>Подробности про систему ковенантов</i></summary>
-<br>
-
-**Ковенанты** – это новые фракции, к которым игроки примкнут в ходе путешествия по Темным Землям. Всего их четыре, и каждый из них дает доступ к двум способностям – одна общая, и одна уникальная для класса. В связи с тем, что шаман позиционируется как **«гибридный класс»**, все наши уникальные способности ковенантов имеют также лечащую часть, в той или иной степени.
-
-Выбор ковенанта происходит после прокачки, но во время неё мы сможем опробовать все способности и принять решение. Также выбор ковенанта дает доступ к уникальному комплекту доспехов, и возможность связать свою душу с одним из медиумов, чтобы получить дополнительные усиления.
-
-* Подробности про систему ковенантов можно прочитать в [этой статье](https://www.noob-club.ru/index.php?topic=63014.0).
-
-* Вся информация по ковенантам в удобном формате доступна в [гайде от Медифк](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMNZkXt5mDot7SXx6My6sHZd6EfoI0lEdpK0F8q3pnSEgPfya_gCAcTKUye2XhgjmM57URlcipuxAS/pubhtml).
-
-* В тексте ниже не рассмотрены медиумы, которые не доступны до максимальной прокачки ковенанта (приблизительно до **марта 2021 года**). Статья будет дополнена ближе к делу.
-
-</details>
-<p></p>
 
 # Выбор ковенанта
 
-* **Мифик+:** <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>, <span style="color:#68ccef;font-size:1em;">**Кирии**</span> или <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>. Можно выбирать по личным предпочтениям или исходя из необходимых группе бонусов для подземелья.
+Лучшим вариантом для **рейда** является <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>. Этот ковенант дает наибольший урон в одну цель и имеет неплохой бурст.
 
-* **Рейд**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> или <span style="color:#68ccef;font-size:1em;">**Кирии**</span>.
-
-* **PvP**: <span style="color:#ff4040;font-size:1em;">**Вентиры**</span>.
-
+Лучшим ковенантом в **Мифик+** и на **АоЕ** является <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>.
 
 # <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 
@@ -50,7 +32,6 @@ image: /assets/img/logos/covenants.png
 
 * Урон от этой способности усиливается от Искусности {{ site.data.spells.enh_mastery }} и от таланта {{ site.data.spells.spike }}.  
 * По окончанию каста дает **3** заряда {{ site.data.spells.mw }}.
-* На самом деле эта способность наносит урон **7** раз, а не **6**. Подсказка на Wowhead не учитывает **«initial tick»**, то есть урон на **0** секунде использования.
 * Единственная способность ковенантов, урон которой не увеличивается на АоЕ, а просто делится в зависимости от количества целей.
 * {{ site.data.conduits.fae }} – проводник, усиливающий эту способность. Уменьшает время восстановления способности.
 
@@ -62,7 +43,7 @@ image: /assets/img/logos/covenants.png
 * Скорость передвижения лисохвоста не стакается со способностью {{ site.data.spells.wolf }}.
 * В зоне отдыха длительность действия [Облика души](https://ru.wowhead.com/spell=310143) не ограничена.
 * Для шамана эта способность ценна в первую очередь как телепорт, а не как ускорение.
-* Облик души имеет **24** различных вариации, которые открываются по мере прокачки ковенанта. Подробности можно узнать [по этой ссылке](https://www.noob-club.ru/index.php?topic=63075.0).
+* Облик души имеет множество вариаций, которые добываются из различного контента.
 
 ## <span style="color:#a330c9;font-size:1em;">Легендарный предмет</span>
 
@@ -74,15 +55,47 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#a330c9;font-size:1em;">Медиумы</span>
 
-**<span style="color:#a330c9;font-size:1em;">Ния</span>** – проводники и прокачка для [рейдового билда](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%86%D0%B5%D0%BB%D0%B8):
+**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший медиум для **рейда и Мифик+**, если вы сможете большую часть времени стоять в [Цветочном поле](https://ru.wowhead.com/spell=319191). В ином случае лучше взять **Нию**. Пример прокачки Творца Снов:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaW5b4CBShxCCUogAgSBSmbCCUs7wgiFSg9CCUoNgg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/AwaZbr4BJShxABMFKZIKFSmbCiUs7woiBSg9CiV2AAo"></a>
 
-**<span style="color:#a330c9;font-size:1em;">Корейн</span>** – проводники и прокачка для [билда в Мифик+](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D1%84%D0%B8%D0%BA):
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/shaman/AwaW6pYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDUoLAg"></a>
+**<span style="color:#a330c9;font-size:1em;">Ния</span>** – лучший медиум для **рейда и Мифик+**, если не получается реализовывать [Цветочное поле](https://ru.wowhead.com/spell=319191) **Творца снов**. Пример прокачки Нии:
 
-<p></p>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaW6pYBBShxChMFKZIKFSzvCiUpmwoiFSg9CjV2AAo"></a>
+
+# <span style="color:#40bf40;font-size:1em;">Некролорды</span>
+
+<p align="center">
+<img src="/assets/img/Necrolord_sigil.png" > 
+</p>
+
+<p align="center" width="100%">
+    <img src="/assets/img/necro_idle1.png"> 
+</p>
+
+## <span style="color:#40bf40;font-size:1em;">Первозданная волна</span>
+
+**{{ site.data.covenants.pw }}** – поражает одну цель, нанося противнику **65%** урона от силы заклинаний и накладывая на него {{ site.data.spells.fs }}. Следующая {{ site.data.spells.lb }} также применится ко **всем целям** под {{ site.data.spells.fs }}, включая основную.
+
+
+* {{ site.data.conduits.wave }} – проводник, усиливающий эту способность. Дает шанс сбросить кулдаун {{ site.data.covenants.pw }} при её использовании. 
+
+## <span style="color:#40bf40;font-size:1em;">Скульптор плоти</span>
+
+**{{ site.data.covenants.fleshcraft }}** – щит на **40%** максимального здоровья, который кастуется **3** секунды.
+
+* Проходя мимо трупов врагов, вы сокращаете время восстановления этой способности на **1** секунду.
+
+## <span style="color:#40bf40;font-size:1em;">Легендарный предмет</span>
+
+<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Молнии](https://ru.wowhead.com/spell=188196) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **10%** на **12** секунд.
+
+## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
+
+**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – лучший медиум **для рейда и Мифик+**. Пример прокачки Гейрмир:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaWZZYBBShxChMFKZIKFSmbCiUs8goiFSg9CjV2AAo"></a>
 
 # <span style="color:#68ccef;font-size:1em;">Кирии</span>
 
@@ -104,7 +117,6 @@ image: /assets/img/logos/covenants.png
 * Перестановка тотема не тратит ГКД, но имеет отдельный кулдаун – **3** секунды.
 * Необходимо тратить ГКД для реализации саппорт потенциала этой способности.
 * Отхил срабатывает в том числе от установки [Тотема исцеляющего потока](https://ru.wowhead.com/spell=5394).    
-* Тотем имеет всего **50** ед. здоровья, что делает очень проблематичным его использование в PvP.  
 * {{ site.data.conduits.dirge }} – проводник, усиливающий эту способность. Увеличивает наносимый урон и исцеление по одной цели, которая находится ближе всех к {{ site.data.covenants.vt }}.
 
 ## <span style="color:#68ccef;font-size:1em;">Призыв распорядителя</span>
@@ -120,18 +132,18 @@ image: /assets/img/logos/covenants.png
 
 <a href="https://ru.wowhead.com/spell=356789" target="blank" data-wh-icon-size="medium" >**Яростный перезвон**</a> – израсходовав **3** заряда, [Тотем вечернего колокола](https://ru.wowhead.com/spell=324386) испускает вспышку, нанося противникам в радиусе **15** метров **300%** силы заклинаний и излечивая союзников на **110%** от силы заклинаний.
 
-* Слабая легендарка.
 * Срабатывает по одному разу за каждые **3** активации [Тотема вечернего колокола](https://ru.wowhead.com/spell=324386). То есть для полной реализации леги необходимо и нанести урон, и использовать лечебные способности. 
 
 ## <span style="color:#68ccef;font-size:1em;">Медиумы</span>
 
-**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – проводники и прокачка для [рейдового билда](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%86%D0%B5%D0%BB%D0%B8):
+**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – лучший медиум **для рейда**. Пример прокачки Миканикоса:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwCWZZYBBShxCBMFKZsIFSzuCCUpkgAiFSg9CDV2AAg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWZZYBBShxChMFKZIKFSzuCiUpmwoiFSg9CjV2AAo"></a>
 
-**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – проводники и прокачка для [билда в Мифик+](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D1%84%D0%B8%D0%BA):
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaW6pYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDUoLAg"></a>
+**<span style="color:#68ccef;font-size:1em;">Верховный автоматург Миканикос</span>** – также является лучшим медиумом **для Мифик+**. Пример прокачки Миканикоса:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/shaman/AwaWapYBBShxChIFKZIKJSzuCiMVKD0KJXYACjUoLAo"></a>
 
 <p></p>
 
@@ -170,64 +182,16 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#ff4040;font-size:1em;">Легендарный предмет</span>
 
-<a href="https://ru.wowhead.com/spell=356250" target="blank" data-wh-icon-size="medium" >**Проводник стихий**</a> – к союзникам, исцеленным [Цепной жатвой](https://ru.wowhead.com/spell=320674) применяется [Быстрина](https://ru.wowhead.com/spell=61295). К противникам, получившим урон от [Цепной жатвы](https://ru.wowhead.com/spell=320674) применяется [Огненный шоки](https://ru.wowhead.com/spell=188389).
+<a href="https://ru.wowhead.com/spell=356250" target="blank" data-wh-icon-size="medium" >**Проводник стихий**</a> – к союзникам, исцеленным [Цепной жатвой](https://ru.wowhead.com/spell=320674) применяется [Быстрина](https://ru.wowhead.com/spell=61295). К противникам, получившим урон от [Цепной жатвы](https://ru.wowhead.com/spell=320674) применяется [Огненный шоки](https://ru.wowhead.com/spell=188389). Каждый критический тик [Огненного шока](https://ru.wowhead.com/spell=188389) снижает КД [Цепной жатвы](https://ru.wowhead.com/spell=320674) на **1** секунду.
 
-* Слабая легендарка, практически бесполезна в бою против одной цели, а на АоЕ проигрывает [Ветрам рока](https://ru.wowhead.com/spell=335902).
 
 ## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
 
-**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – проводники и прокачка для [рейдового билда](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%86%D0%B5%D0%BB%D0%B8):
+**<span style="color:#ff4040;font-size:1em;">Безумный герцог Теотар</span>** – проводники и прокачка для **АоЕ** боя. Не стоит использовать <span style="color:#ff4040;font-size:1em;">Вентиров</span> в бою против одной цели.
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr74CBShxCBUogAgSBSmbCCUpkggiFSg9CDUoNgg"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/AwaW774BFShxChIFKZIKJSzxCiMFKD0KFXYACjUoNgo"></a>
 
-**<span style="color:#ff4040;font-size:1em;">Наджия, Клинок Туманов</span>** – проводники и прокачка для [билда в Мифик+](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D1%84%D0%B8%D0%BA):
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwaWr74CBShxCBUogAgSBSmOCCUpkggiFSg9CDUoNgg"></a>
 
 <p></p>
-
-
-# <span style="color:#40bf40;font-size:1em;">Некролорды</span>
-
-<p align="center">
-<img src="/assets/img/Necrolord_sigil.png" > 
-</p>
-
-<p align="center" width="100%">
-    <img src="/assets/img/necro_idle1.png"> 
-</p>
-
-## <span style="color:#40bf40;font-size:1em;">Первозданная волна</span>
-
-**{{ site.data.covenants.pw }}** – поражает одну цель, нанося противнику **65%** урона от силы заклинаний и накладывая на него {{ site.data.spells.fs }}. Следующая {{ site.data.spells.lb }} также применится ко **всем целям** под {{ site.data.spells.fs }}, включая основную.
-
-* Практически бесполезная способность на АоЕ, так как с талантом {{ site.data.spells.hailstorm }} мы не развешиваем {{ site.data.spells.fs }}, а тратим кулдаун на {{ site.data.spells.frs }}.
-
-* {{ site.data.covenants.pw }} может давать достаточно сильный бурст на Арене, к тому же чаще чем другие способности ковенантов. Сочетается со {{ site.data.spells.spike }}.  
-* {{ site.data.conduits.wave }} – проводник, усиливающий эту способность. Дает шанс сбросить кулдаун {{ site.data.covenants.pw }} при её использовании. 
-* У способности {{ site.data.covenants.pw }} полностью отсутствует саппорт потенциал, в отличие от других способностей ковенантов.
-
-## <span style="color:#40bf40;font-size:1em;">Скульптор плоти</span>
-
-**{{ site.data.covenants.fleshcraft }}** – щит на **40%** максимального здоровья, который кастуется **3** секунды.
-
-* Проходя мимо трупов врагов, вы сокращаете время восстановления этой способности на **1** секунду.
-* Этот щит можно накладывать на себя после смерти пака в Мифик+ или прямо перед пулом босса, благо время действия позволяет.  
-
-## <span style="color:#40bf40;font-size:1em;">Легендарный предмет</span>
-
-<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – каждый дополнительный эффект [Молнии](https://ru.wowhead.com/spell=188196) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **8%** на **10** секунд.
-
-* Слабая легендарка, проигрывает нашим [стандартным](https://stormkeeper.ru/enh/legendaries.html) вариантам.
-
-## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
-
-**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – проводники и прокачка для [рейдового билда](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%86%D0%B5%D0%BB%D0%B8):
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaWapYBBShxCBIFKZsIJSmSCCMVKD0IJSg2CDUoLAg"></a>
-
-**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – проводники и прокачка для [билда в Мифик+](https://stormkeeper.ru/enh/talents.html#%D0%B1%D0%B8%D0%BB%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D1%84%D0%B8%D0%BA):
-
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaWapYBBShxCBIFKY4IJSmSCCMVKD0IJSg2CDUoLAg"></a>
 
 
