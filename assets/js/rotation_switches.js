@@ -68,12 +68,12 @@ $('.switch-link').on('click touchend', function(e) {
 });
 
 $('a#mplus_build_enh').on('click', function(e) {
-    pick_talents(["lf", "hh", "fn", "sunder", "spirits", "actuators"]);
+    pick_talents(["lf", "hh", "fn", "sunder", "spirits", "actuators", "pw"]);
     return false;
 });
 
 $('a#raid_build_enh').on('click', function(e) {
-    pick_talents(["eb", "hh", "ea", "sunder", "spirits", "wolf"]);
+    pick_talents(["eb", "hh", "ea", "sunder", "spirits", "wolf", "ft"]);
     return false;
 });
 
