@@ -68,7 +68,7 @@ $('.switch-link').on('click touchend', function(e) {
 });
 
 $('a#mplus_build_enh').on('click', function(e) {
-    pick_talents(["fw", "flurry", "ea", "sunder", "asc_enh", "doom"]);
+    pick_talents(["lf", "hh", "fn", "sunder", "spirits", "actuators"]);
     return false;
 });
 
