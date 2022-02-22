@@ -13,51 +13,51 @@ image: /assets/img/logos/conduits.png
 
 ## Стихии
 
-<a href="https://ru.wowhead.com/spell=338303?ilvl=278" target="blank" data-wh-icon-size="medium" >**Призыв пламени**</a> – время существования [Элементаля огня](https://ru.wowhead.com/spell=198067) или [Элементаля бури](https://ru.wowhead.com/spell=192249) увеличивается на **48%**.
+<a href="https://ru.wowhead.com/spell=338303?ilvl=278" target="blank" data-wh-icon-size="medium" >**Призыв пламени**</a> – время существования [Элементаля огня](https://ru.wowhead.com/spell=198067) или [Элементаля бури](https://ru.wowhead.com/spell=192249) увеличивается на **46%**.
 
-<a href="https://ru.wowhead.com/spell=338252?ilvl=278" target="blank" data-wh-icon-size="medium" >**Сотрясание основ**</a> – при применении [Землетрясения](https://ru.wowhead.com/spell=61882), также с вероятностью **18.3** мгновенно кастуется {{ site.data.spells.cl }} в случайного противника, пораженного [Землетрясением](https://ru.wowhead.com/spell=61882).
+<a href="https://ru.wowhead.com/spell=338252?ilvl=278" target="blank" data-wh-icon-size="medium" >**Сотрясание основ**</a> – при применении [Землетрясения](https://ru.wowhead.com/spell=61882), также с вероятностью **17%** мгновенно кастуется {{ site.data.spells.cl }} в случайного противника, пораженного [Землетрясением](https://ru.wowhead.com/spell=61882).
 
 * Проки [Цепной молнии](https://ru.wowhead.com/spell=188443) дают стаки [Порыва ветра](https://ru.wowhead.com/spell=263806) при активном [Элементале бури](https://ru.wowhead.com/spell=192249).
 * Прок [Цепной молнии](https://ru.wowhead.com/spell=188443) поглощает стак [Хранителя бурь](https://ru.wowhead.com/spell=191634), давая перегрузку по каждой цели.
 
-<a href="https://ru.wowhead.com/spell=345594?ilvl=278" target="blank" data-wh-icon-size="medium" >**Пирокластический шок**</a> – {{ site.data.spells.es }} имеет **33%** шанс продлить длительность [Огненного шока](https://ru.wowhead.com/spell=188389) на цели на **12** секунд.
+<a href="https://ru.wowhead.com/spell=345594?ilvl=278" target="blank" data-wh-icon-size="medium" >**Пирокластический шок**</a> – {{ site.data.spells.es }} имеет **30%** шанс продлить длительность [Огненного шока](https://ru.wowhead.com/spell=188389) на цели на **12** секунд.
 
-<a href="https://ru.wowhead.com/spell=338131?ilvl=278" target="blank" data-wh-icon-size="medium" >**Высокое напряжение**</a> – {{ site.data.spells.lb }} с вероятностью **38%** дает в два раза больше Энергии Водоворота.
+<a href="https://ru.wowhead.com/spell=338131?ilvl=278" target="blank" data-wh-icon-size="medium" >**Высокое напряжение**</a> – {{ site.data.spells.lb }} с вероятностью **36%** дает в два раза больше Энергии Водоворота.
 
 ## Совершенствование
 
-<a href="https://ru.wowhead.com/spell=338331?ilvl=278" target="blank" data-wh-icon-size="medium" >**Магмовый кулак**</a> – вероятность того, что {{ site.data.spells.ll }} нанесет критический урон противникам, пораженным [Огненным шоком](https://ru.wowhead.com/spell=188389), увеличивается на **33.6%**.
+<a href="https://ru.wowhead.com/spell=338331?ilvl=278" target="blank" data-wh-icon-size="medium" >**Магмовый кулак**</a> – вероятность того, что {{ site.data.spells.ll }} нанесет критический урон противникам, пораженным [Огненным шоком](https://ru.wowhead.com/spell=188389), увеличивается на **30%**.
 
-<a href="https://ru.wowhead.com/spell=338322?ilvl=278" target="blank" data-wh-icon-size="medium" >**Направленная молния**</a> – {{ site.data.spells.mw }} увеличивает урон и эффективность исцеления следующего примененного заклинания дополнительно на **11%** за эффект (**55%** на **5** стаках).
+<a href="https://ru.wowhead.com/spell=338322?ilvl=278" target="blank" data-wh-icon-size="medium" >**Направленная молния**</a> – {{ site.data.spells.mw }} увеличивает урон и эффективность исцеления следующего примененного заклинания дополнительно на **10%** за эффект (**50%** на **5** стаках).
 
 * Значения этого баффа добавляются к базовому эффекту [Оружия Водоворота](https://ru.wowhead.com/spell=187880), а не к финальному.
-* Пять стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) увеличивает урон заклинаний на **200%**, тогда как с проводником – на **255%**.
+* Пять стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) увеличивает урон заклинаний на **200%**, тогда как с проводником – на **250%**.
 * Работает в том числе и на заклинания исцеления ({{ site.data.spells.hs }}, {{ site.data.spells.ch }}), а также на {{ site.data.covenants.ch }}.
 
-<a href="https://ru.wowhead.com/spell=338325?ilvl=278" target="blank" data-wh-icon-size="medium" >**Холодная душа**</a> – {{ site.data.spells.frs }} с вероятностью **66%** дает два заряда [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+<a href="https://ru.wowhead.com/spell=338325?ilvl=278" target="blank" data-wh-icon-size="medium" >**Холодная душа**</a> – {{ site.data.spells.frs }} с вероятностью **60%** дает два заряда [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 
 * С талантом {{ site.data.spells.hailstorm }} каждый {{ site.data.spells.frs }} имеет отдельный шанс на возврат стаков [Оружия 
 Водоворота](https://ru.wowhead.com/spell=187880).
 
-<a href="https://ru.wowhead.com/spell=338318?ilvl=278" target="blank" data-wh-icon-size="medium" >**Неистовые ветра**</a> – {{ site.data.spells.ww }} с вероятностью **45%** наносит третью атаку.
+<a href="https://ru.wowhead.com/spell=338318?ilvl=278" target="blank" data-wh-icon-size="medium" >**Неистовые ветра**</a> – {{ site.data.spells.ww }} с вероятностью **40%** наносит третью атаку.
 
 * Дополнительная атака может дать заряд [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 
 ## Исцеление
 
-<a href="https://ru.wowhead.com/spell=338339?ilvl=278" target="blank" data-wh-icon-size="medium" >**Кружащие потоки**</a> – использование [Тотема исцеляющего потока](https://ru.wowhead.com/spell=5394) или [Тотема разразившегося ливня](https://ru.wowhead.com/spell=) увеличивает эффективность исцеления трех следующих способностей {{ site.data.spells.hs }}, {{ site.data.spells.hw }} или {{ site.data.spells.riptide }} на **37%**.
+<a href="https://ru.wowhead.com/spell=338339?ilvl=278" target="blank" data-wh-icon-size="medium" >**Кружащие потоки**</a> – использование [Тотема исцеляющего потока](https://ru.wowhead.com/spell=5394) или [Тотема разразившегося ливня](https://ru.wowhead.com/spell=) увеличивает эффективность исцеления трех следующих способностей {{ site.data.spells.hs }}, {{ site.data.spells.hw }} или {{ site.data.spells.riptide }} на **34%**.
 
 * Сочетается с талантом {{ site.data.spells.eote_resto }}, который не дает потерять кулдаун тотемов.
 * Позволяет сильнее накапливать отхил после установки {{ site.data.spells.cbt }}.
 * Отлично сочетается со способностью Некролордов {{ site.data.covenants.pw }}, так как за все дублированные [Волны исцеления](https://ru.wowhead.com/spell=77472) тратится только один стак баффа от проводника.
 
-<a href="https://ru.wowhead.com/spell=338343?ilvl=278" target="blank" data-wh-icon-size="medium" >**Могучий ливень**</a> – установка [Тотема целительного прилива](https://ru.wowhead.com/spell=108280) усиливает исцеление от нашего [Целительного ливня](https://ru.wowhead.com/spell=73920) на **135%** на **20** сек.
+<a href="https://ru.wowhead.com/spell=338343?ilvl=278" target="blank" data-wh-icon-size="medium" >**Могучий ливень**</a> – установка [Тотема целительного прилива](https://ru.wowhead.com/spell=108280) усиливает исцеление от нашего [Целительного ливня](https://ru.wowhead.com/spell=73920) на **125%** на **20** сек.
 
 * За счет того, что время действия [Целительного ливня](https://ru.wowhead.com/spell=73920) равняется его кулдауну, у нас неизбежно будут потери **2-3** секунд времени баффа.
  
-<a href="https://ru.wowhead.com/spell=338329?ilvl=278" target="blank" data-wh-icon-size="medium" >**Объятия Земли**</a> – {{ site.data.spells.eshield }} усиливает применяемое к цели исцеление еще на **11%**.
+<a href="https://ru.wowhead.com/spell=338329?ilvl=278" target="blank" data-wh-icon-size="medium" >**Объятия Земли**</a> – {{ site.data.spells.eshield }} усиливает применяемое к цели исцеление еще на **10%**.
 
-<a href="https://ru.wowhead.com/spell=338346?ilvl=278" target="blank" data-wh-icon-size="medium" >**Средоточие природы**</a> – {{ site.data.spells.ch }} исцеляет первоначальную цель на **18.7%** сильнее.
+<a href="https://ru.wowhead.com/spell=338346?ilvl=278" target="blank" data-wh-icon-size="medium" >**Средоточие природы**</a> – {{ site.data.spells.ch }} исцеляет первоначальную цель на **17.3%** сильнее.
 
 ## Ковенанты
 
