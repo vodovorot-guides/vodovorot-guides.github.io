@@ -1,8 +1,8 @@
 ---
 title: Характеристики шамана Исцеления
 layout: page
-last_update: 2021-09-20
-wow: 9.1
+last_update: 2021-02-23
+wow: 9.2
 toc: true
 author: Amani
 description: Все про характеристки Рестор Шамана – подробное описание статов, как правильно их собирать и что такое «Diminishing Returns».
