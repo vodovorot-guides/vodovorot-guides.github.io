@@ -1,8 +1,8 @@
 ---
 title: Характеристики шамана Совершенствования
 layout: page
-last_update: 2021-09-24
-wow: 9.1
+last_update: 2022-02-23
+wow: 9.2
 author: Amani
 toc: true
 description: Все про характеристки Энх Шамана – подробное описание статов, как правильно их собирать и что такое Diminishing Returns.
