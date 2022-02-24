@@ -102,7 +102,7 @@ custom-javascript-list:
 20. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
 21. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 22. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-24. {{ site.data.spells.lb }} при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+24. {{ site.data.spells.lb }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 26. {{ site.data.spells.ss }}.
 23. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 29. {{ site.data.spells.ll }}.
@@ -149,7 +149,7 @@ custom-javascript-list:
 154. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2+** цели.
 152. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 149. {{ site.data.spells.crush }}.
-153. {{ site.data.spells.cl }} при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+153. {{ site.data.spells.cl }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 146. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
 147. {:.spirits-apl}{{ site.data.spells.ss }}.
 148. {:.spike-apl}{{ site.data.spells.ss }}.
