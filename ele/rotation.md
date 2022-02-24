@@ -47,7 +47,7 @@ custom-javascript-list:
 
 <p></p>
 
-{% include talents.html data=site.data.talents.ele active="2301032" switch=true %}
+{% include talents.html data=site.data.talents.ele active="1102021" switch=true %}
 
 # Открывающая ротация, Opener
 
