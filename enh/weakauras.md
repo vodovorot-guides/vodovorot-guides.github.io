@@ -1,8 +1,8 @@
 ---
 title: Weakauras для Шамана Совершенствования
 layout: page
-last_update: 2021-09-01
-wow: 9.1
+last_update: 2022-02-24
+wow: 9.2
 author: Amani
 description: Некоторые примеры групп WA для Энх Шамана. Больше можно найти на Wago.io.
 image: /assets/img/logos/wa.png
