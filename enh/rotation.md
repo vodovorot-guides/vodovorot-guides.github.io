@@ -24,7 +24,7 @@ custom-javascript-list:
 
 # Выбор билда
 
-**Важно!** Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарка и ковенант. Все кнопки ниже кликабельны.
+**Важно!** Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарка и ковенант. Если какой то прок или бафф не указаны, значит в данном случае они не влияют на приоритет способностей. **Все кнопки ниже кликабельны**.
 {: class="bordered"}
 
 <div class="container">
@@ -82,19 +82,19 @@ custom-javascript-list:
 5. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
 14. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
 5. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
-6. {:.actuators-apl .hh-apl}{{ site.data.spells.ll }}, если есть бафф от {{ site.data.spells.hh }} или при **6+** стаках [Преобразователей изначальной лавы](https://ru.wowhead.com/spell=335895).
+6. {:.actuators-apl .hh-apl}{{ site.data.spells.ll }}, если есть бафф от [Горячей руки](https://ru.wowhead.com/spell=201900) или при **6+** стаках [Преобразователей изначальной лавы](https://ru.wowhead.com/spell=335895).
 6. {:.actuators-apl .flurry-apl}{{ site.data.spells.ll }} при **6+** стаках [Преобразователей изначальной лавы](https://ru.wowhead.com/spell=335895).
 6. {:.actuators-apl .is-apl}{{ site.data.spells.ll }} при **6+** стаках [Преобразователей изначальной лавы](https://ru.wowhead.com/spell=335895).
-6. {:.hh-apl .witch-apl}{{ site.data.spells.ll }}, если есть бафф от {{ site.data.spells.hh }}.
-6. {:.hh-apl .doom-apl}{{ site.data.spells.ll }}, если есть бафф от {{ site.data.spells.hh }}.
-6. {:.hh-apl .wolf-apl}{{ site.data.spells.ll }}, если есть бафф от {{ site.data.spells.hh }}.
+6. {:.hh-apl .witch-apl}{{ site.data.spells.ll }}, если есть бафф от [Горячей руки](https://ru.wowhead.com/spell=201900).
+6. {:.hh-apl .doom-apl}{{ site.data.spells.ll }}, если есть бафф от [Горячей руки](https://ru.wowhead.com/spell=201900).
+6. {:.hh-apl .wolf-apl}{{ site.data.spells.ll }}, если есть бафф от [Горячей руки](https://ru.wowhead.com/spell=201900).
 14. {:.doom-apl}{{ site.data.spells.ss }}, если есть бафф от [Ветров рока](https://ru.wowhead.com/spell=335902).
 14. {:.doom-apl}{{ site.data.spells.crush }}, если есть бафф от [Ветров рока](https://ru.wowhead.com/spell=335902).
 14. {:.doom-apl .sunder-apl}{{ site.data.spells.sunder }}, если есть бафф от [Ветров рока](https://ru.wowhead.com/spell=335902).
 1. {:.pw-apl}{{ site.data.spells.lb }}, если есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=326059) и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 8. {:.pw-apl}{{ site.data.covenants.pw }}, если нет активного баффа от этого заклинания.
 9. {{ site.data.spells.fs }}, если отсутствует на цели.
-16. {:.hailstorm-apl}{{ site.data.spells.frs }}, если есть бафф от {{ site.data.spells.hailstorm }}.
+16. {:.hailstorm-apl}{{ site.data.spells.frs }}, если есть бафф от [Бури с градом](https://ru.wowhead.com/spell=334195).
 17. {:.spike-apl}{{ site.data.spells.spike }}.
 31. {{ site.data.spells.ll }}, если до спадения [Огненного шока](https://ru.wowhead.com/spell=188389) осталось менее **4** секунд.
 15. {:.vt-apl}{{ site.data.covenants.vt }}. 
@@ -135,10 +135,10 @@ custom-javascript-list:
 1. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
 15. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **4+** цели.
 137. {:.pw-apl}{{ site.data.covenants.pw }}, если нет активного баффа от этого заклинания.
-143. {:.lf-apl}{{ site.data.spells.ll }} по цели без активного дебаффа от таланта {{ site.data.spells.lf }}.
+143. {:.lf-apl}{{ site.data.spells.ll }} по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) без активного дебаффа от таланта {{ site.data.spells.lf }}.
 6. {{ site.data.spells.fs }}, если отсутствует на цели.
 14. {:.pw-apl}{{ site.data.spells.lb }}, если есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=326059) и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-2. {:.hailstorm-apl}{{ site.data.spells.frs }}, если есть бафф от {{ site.data.spells.hailstorm }}.
+2. {:.hailstorm-apl}{{ site.data.spells.frs }}, если есть бафф от [Бури с градом](https://ru.wowhead.com/spell=334195).
 1. {:.doom-apl}{{ site.data.spells.crush }}, если есть бафф от [Ветров рока](https://ru.wowhead.com/spell=335902).
 3. {:.sunder-apl}{{ site.data.spells.sunder }} на максимальное количество целей.
 139. {:.vt-apl}{{ site.data.covenants.vt }}.
