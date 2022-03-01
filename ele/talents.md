@@ -11,9 +11,13 @@ image: /assets/img/logos/talents.png
 
 # Таланты для рейда
 
-Билд талантов, предназначенный для боя против одной цели. Некоторые таланты могут варьироваться в зависимости от босса, уточняйте информацию по каждому бою на [WarcraftLogs](https://www.warcraftlogs.com/).
+До сбора полного комплекта сетовых доспехов и возможности носить две легендарки в СТ мы будем использовать стандартный билд из патча **9.1.5**:
 
-{% include talents.html data=site.data.talents.ele active="1112321" %}
+{% include talents.html data=site.data.talents.ele active="2301022" %}
+
+После сбора сета и получения двух легендарок, билд станет следующим:
+
+{% include talents.html data=site.data.talents.ele active="1102021" %}
 
 * На боссах с аддами стоит заменить [Безграничную мощь](https://ru.wowhead.com/spell=260895) на [Хранитель бурь](https://ru.wowhead.com/spell=191634).
 
