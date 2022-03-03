@@ -1,7 +1,7 @@
 ---
 title: Макросы для шамана
 layout: page
-last_update: 2022-101-15
+last_update: 2022-02-15
 wow: 9.2
 toc: true
 author: Amani
