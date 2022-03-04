@@ -14,7 +14,7 @@ image: /assets/img/logos/talents.png
 
 Данный билд талантов рассчитан на использование легендарки [Волчьи кости колдуна](https://ru.wowhead.com/spell=335897):
 
-{% include talents.html data=site.data.talents.enh active="3211231" %}
+{% include talents.html data=site.data.talents.enh active="1211231" %}
 
 * **30 и 40 уровни:** Ситуативные таланты, выбирайте по вашему усмотрению.
 
