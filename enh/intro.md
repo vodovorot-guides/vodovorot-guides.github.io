@@ -60,7 +60,7 @@ image: /assets/img/logos/enhguide.png
 
 Данный билд талантов рассчитан на использование легендарки [Волчьи кости колдуна](https://ru.wowhead.com/spell=335897):
 
-{% include talents.html data=site.data.talents.enh active="3211231" %}
+{% include talents.html data=site.data.talents.enh active="1211231" %}
 
 ## Билд для Мифик+
 
