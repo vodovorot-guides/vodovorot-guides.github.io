@@ -1,8 +1,8 @@
 ---
 title: Elemental Shaman Priority List
 layout: page
-last_update: 2021-10-04
-wow: 9.1
+last_update: 2022-04-03
+wow: 9.2
 toc: true
 author: "Amani, Ignis, Zab"
 description: Elemental Shaman rotation breakdown. Spell priorities on this page change dynamically depending on selected talents, legendary and covenant. Author – Amani. 
