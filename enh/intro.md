@@ -19,7 +19,7 @@ image: /assets/img/logos/enhguide.png
 
 <p align="center">
 <img src="/assets/img/Night_Fae_sigil.png" >
-<img src="/assets/img/Kyrian_sigil.png" > 
+<img src="/assets/img/Necrolord_sigil.png" > 
 </p>
 
 Лучшим вариантом для **рейда** является <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>. Этот ковенант дает наибольший урон в одну цель и имеет неплохой бурст урон.
