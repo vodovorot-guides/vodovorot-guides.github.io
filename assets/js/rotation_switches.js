@@ -83,7 +83,7 @@ $('a#mplus_build_ele').on('click', function(e) {
 });
 
 $('a#raid_build_ele').on('click', function(e) {
-    pick_talents(["er", "afs", "storm", "primal_elem", "up", "lava"]);
+    pick_talents(["eote", "eb", "mote", "if", "sk", "lava"]);
     return false;
 });
 
