@@ -1,7 +1,7 @@
 ---
 title: Таланты Шамана Стихии
 layout: page
-last_update: 2021-02-23
+last_update: 2021-03-05
 wow: 9.2
 toc: true
 author: Amani
@@ -14,12 +14,6 @@ image: /assets/img/logos/talents.png
 До сбора полного комплекта сетовых доспехов и возможности носить две легендарки в СТ мы будем использовать стандартный билд из патча **9.1.5**:
 
 {% include talents.html data=site.data.talents.ele active="2301022" %}
-
-После сбора сета и получения двух легендарок, билд станет следующим:
-
-{% include talents.html data=site.data.talents.ele active="1102021" %}
-
-* На боссах с аддами стоит заменить [Безграничную мощь](https://ru.wowhead.com/spell=260895) на [Хранитель бурь](https://ru.wowhead.com/spell=191634).
 
 # Таланты для Мифик+
 
@@ -109,7 +103,7 @@ image: /assets/img/logos/talents.png
 
 ## Четвертый тир, 35 уровень
 
-{% include talents.html data=site.data.talents.ele active="010" row=4 %}
+{% include talents.html data=site.data.talents.ele active="110" row=4 %}
 
 <a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" >**Властелин стихий**</a> – пассивный талант, увеличивает урон от различных заклинаний на **20%** после применения [Выброса лавы](https://ru.wowhead.com/spell=51505).
 
