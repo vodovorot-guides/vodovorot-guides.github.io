@@ -73,7 +73,7 @@ $('a#mplus_build_enh').on('click', function(e) {
 });
 
 $('a#raid_build_enh').on('click', function(e) {
-    pick_talents(["eb", "hh", "ea", "sunder", "spirits", "wolf", "ft"]);
+    pick_talents(["lf", "hh", "ea", "sunder", "spirits", "wolf", "ft"]);
     return false;
 });
 
