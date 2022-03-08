@@ -93,7 +93,11 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – лучший медиум **для рейда и Мифик+**. Пример прокачки Гейрмир:
+**<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – лучший медиум **для некоторых боев в рейде**. Пример прокачки Марилет:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/AwCW7r4CFShxCiUogAoTBSmSChUpmwolLPIKIRUoPQo"></a>
+
+**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – лучший медиум **Мифик+**. Пример прокачки Гейрмир:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaWZZYBBShxChMFKZIKFSmbCiUs8goiFSg9CjV2AAo"></a>
 
