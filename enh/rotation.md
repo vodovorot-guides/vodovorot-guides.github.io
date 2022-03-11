@@ -106,14 +106,14 @@ custom-javascript-list:
 26. {{ site.data.spells.ss }}.
 23. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 29. {{ site.data.spells.ll }}.
-36. {{ site.data.spells.lb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-34. {:.sunder-apl}{{ site.data.spells.sunder }}.
 32. {{ site.data.spells.frs }}. 
-30. {{ site.data.spells.crush }}.
-33. {:.is-apl}{{ site.data.spells.is }}.
-35. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}.
-32. {{ site.data.spells.fs }}. 
-37. {{ site.data.spells.wt }}, если все другие способности недоступны.
+33. {{ site.data.spells.crush }}.
+35. {:.sunder-apl}{{ site.data.spells.sunder }}.
+36. {{ site.data.spells.lb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+36. {:.is-apl}{{ site.data.spells.is }}.
+37. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}.
+38. {{ site.data.spells.fs }}. 
+39. {{ site.data.spells.wt }}, если все другие способности недоступны.
 
 * {:.vt-apl}<span style="color:#68ccef;font-size:1em;">Кирии</span> могут активировать эффект  легендарки [Яростный перезвон](https://ru.wowhead.com/spell=356789/) с помощью одного каста [Тотема исцеляющего потока](https://ru.wowhead.com/spell=5394) и двух кастов [Щита земли](https://ru.wowhead.com/spell=974).
 * {:.ft-apl}Не стоит придерживать [Волшебное переливание](https://ru.wowhead.com/spell=328923), если до конца кулдауна [Духа дикого зверя](https://ru.wowhead.com/spell=51533/) осталось более **10** секунд. Однако, это зависит от текущего энкаунтера и общего количества сданных [Волшебных переливаний](https://ru.wowhead.com/spell=328923) за бой. Смотрите по ситуации.
@@ -150,9 +150,6 @@ custom-javascript-list:
 152. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 149. {{ site.data.spells.crush }}.
 153. {{ site.data.spells.cl }} при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-146. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
-147. {:.spirits-apl}{{ site.data.spells.ss }}.
-148. {:.spike-apl}{{ site.data.spells.ss }}.
 155. {{ site.data.spells.frs }}.
 150. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 151. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
