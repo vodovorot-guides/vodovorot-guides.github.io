@@ -54,7 +54,7 @@ image: /assets/img/logos/abbrevs.png
 Часто заклинания называют по их английской версии или по сокращению, образованного от английской версии. Ниже представлены большинство наиболее распространенных аббревиатур для заклинаний:
 
 * {{ site.data.spells.lb }} – Lightning Bolt, Bolt, LB, Болт, ЛБ.  
-* {{ site.data.spells.fs }} – Flame Shock, FS, Флеймшок, ФШ, Фаер шок, Шок (одно из значений)  
+* {{ site.data.spells.fs }} – Flame Shock, FS, Флеймшок, ФШ, Фаер шок (не стоит), Шок (одно из значений)  
 * {{ site.data.spells.hs }} – Healing Surge, HS, Всплеск, Флешка, Сурдж (одно из значений).  
 * {{ site.data.spells.ebt }} – Earthbind Totem, Тотем замедления.  
 * {{ site.data.spells.ftw }} – Flametongue Weapon, Флеймтонг.  
