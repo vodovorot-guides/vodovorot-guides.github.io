@@ -150,11 +150,12 @@ custom-javascript-list:
 154. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2+** цели.
 152. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 149. {{ site.data.spells.crush }}.
-155. {{ site.data.spells.frs }}.
 150. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 151. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 153. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-156. {:.is-apl}{{ site.data.spells.is }}.
+155. {:.fn-apl}{{ site.data.spells.frs }}.
+155. {:.ea-apl}{{ site.data.spells.frs }}.
+157. {:.is-apl}{{ site.data.spells.is }}.
 158. {:.spike-apl}{{ site.data.spells.spike }}.
 159. {:.witch-apl}{{ site.data.spells.wt }}.
 160. {:.actuators-apl}{{ site.data.spells.wt }}.
