@@ -143,13 +143,13 @@ custom-javascript-list:
 3. {:.sunder-apl}{{ site.data.spells.sunder }} на максимальное количество целей.
 139. {:.vt-apl}{{ site.data.covenants.vt }}.
 141. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
-142. {{ site.data.spells.crush }}, если бафф не активен.
+153. {{ site.data.spells.cl }} при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+143. {{ site.data.spells.crush }}, если бафф не активен.
 154. {{ site.data.spells.ll }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
 154. {{ site.data.spells.ss }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
 154. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2+** цели.
 152. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 149. {{ site.data.spells.crush }}.
-153. {{ site.data.spells.cl }} при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 155. {{ site.data.spells.frs }}.
 150. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 151. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
