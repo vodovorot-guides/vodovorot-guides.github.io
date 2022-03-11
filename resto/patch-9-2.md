@@ -5,7 +5,7 @@ last_update: 2021-02-20
 wow: 9.2
 toc: true
 author: Amani
-description: В этой статье разобраны все изменения шамана Стихии в патче 9.2.
+description: В этой статье разобраны все изменения шамана Исцеления в патче 9.2.
 image: /assets/img/logos/92_logo.png
 ---
 
