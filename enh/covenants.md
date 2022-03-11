@@ -191,9 +191,9 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#ff4040;font-size:1em;">Медиумы</span>
 
-**<span style="color:#ff4040;font-size:1em;">Безумный герцог Теотар</span>** – проводники и прокачка для **АоЕ** боя. Не стоит использовать <span style="color:#ff4040;font-size:1em;">Вентиров</span> в бою против одной цели.
+**<span style="color:#ff4040;font-size:1em;">Наджия</span>** – проводники и прокачка для **АоЕ** боя. Не стоит использовать <span style="color:#ff4040;font-size:1em;">Вентиров</span> в бою против одной цели.
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/shaman/AwaW774BFShxChIFKZIKJSzxCiMFKD0KFXYACjUoNgo"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/shaman/AwCWpb4BBShxChMFKZsKFSmSCiUs8QoiFSg9CjV2AAo"></a>
 
 
 <p></p>
