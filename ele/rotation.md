@@ -28,6 +28,8 @@ custom-javascript-list:
 </details>
 <p></p>
 
+> English version of this page [here](https://stormkeeper.ru/ele/rotation_en.html).
+
 # Выбор билда
 
 **Важно!** Для просмотра списка приоритетов из патча **9.1.5** перейдите на [эту страницу](https://stormkeeper.ru/ele/rotation-9-1.html).
