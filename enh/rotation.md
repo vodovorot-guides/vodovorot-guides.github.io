@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Совершенствования
 layout: page
-last_update: 2022-03-11
+last_update: 2022-03-13
 wow: 9.2
 toc: true
 author: Amani
@@ -14,6 +14,7 @@ custom-javascript-list:
 <details markdown=1><summary><i>Журнал изменений</i></summary>
 <br>
 
+* **13.03.2022**: Добавлен опенер на АоЕ.
 * **22.02.2022**: Полное обновление под патч **9.2**. Ознакомиться со списком изменений для Энх Шамана можно [по этой ссылке](https://stormkeeper.ru/enh/patch-9-2.html).
 * **05.10.2021**: Приоритет при активном баффе от легендарки Ветра рока теперь показан сразу в соответствующих разделах. Добавлен динамический список приоритетов на АоЕ. Изменен приоритет Удара бури, Сокрушающей молнии и Цепной молнии на АоЕ.
 * **17.09.2021**: Обновлен опенер, теперь динамически меняется для любого билда.
@@ -40,12 +41,14 @@ custom-javascript-list:
 
 {% include talents.html data=site.data.talents.enh active="1201031" switch=true %}
 
-# Открывающая ротация, Opener
+# Бой против одной цели
+
+## Открывающая ротация, Opener
 
 **Важно!** Вне зависимости от билда, талантов или типа боя – убедитесь, что у вас всегда наложены усиления на оружия – [Оружие неистовства ветра](https://ru.wowhead.com/spell=33757/) и [Оружие языка пламени](https://ru.wowhead.com/spell=318038/).
 {: class="bordered"}
 
-**Опенер** – это фиксированный порядок кастов в самом начале боя против одной цели.
+**Опенер** – это фиксированный порядок кастов в самом начале боя.
 
 1. {:.witch-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
 1. {:.actuators-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
@@ -66,11 +69,11 @@ custom-javascript-list:
 6. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
 6. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
 1. {:.doom-apl}{{ site.data.spells.wt }} для активации эффекта легендарки {{ site.data.legend.doom }}.
-7. Продолжайте обычную ротацию.
+7. Следуйте списку приоритетов.
 
-# Бой против одной цели
+## Список приоритетов
 
-Ниже представлен список приоритетов способностей, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта:
+Ниже представлен список приоритетов способностей, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта.
 
 * {:.doom-apl}Список приоритетов **БЕЗ** активного баффа от легендарки {{ site.data.legend.doom }}:
 
@@ -106,28 +109,58 @@ custom-javascript-list:
 26. {{ site.data.spells.ss }}.
 23. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 29. {{ site.data.spells.ll }}.
-32. {{ site.data.spells.frs }}. 
-33. {{ site.data.spells.crush }}.
-35. {:.sunder-apl}{{ site.data.spells.sunder }}.
 36. {{ site.data.spells.lb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-36. {:.is-apl}{{ site.data.spells.is }}.
-37. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}.
-38. {{ site.data.spells.fs }}. 
-39. {{ site.data.spells.wt }}, если все другие способности недоступны.
+34. {:.sunder-apl}{{ site.data.spells.sunder }}.
+32. {{ site.data.spells.frs }}. 
+30. {{ site.data.spells.crush }}.
+33. {:.is-apl}{{ site.data.spells.is }}.
+35. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}.
+32. {{ site.data.spells.fs }}. 
+37. {{ site.data.spells.wt }}, если все другие способности недоступны.
 
 * {:.vt-apl}<span style="color:#68ccef;font-size:1em;">Кирии</span> могут активировать эффект  легендарки [Яростный перезвон](https://ru.wowhead.com/spell=356789/) с помощью одного каста [Тотема исцеляющего потока](https://ru.wowhead.com/spell=5394) и двух кастов [Щита земли](https://ru.wowhead.com/spell=974).
-* {:.ft-apl}С легендаркой [Семена буйной поросли](https://ru.wowhead.com/spell=356218) не стоит придерживать [Волшебное переливание](https://ru.wowhead.com/spell=328923), если до конца кулдауна [Духа дикого зверя](https://ru.wowhead.com/spell=51533/) осталось более **10** секунд. Однако, это зависит от текущего энкаунтера и общего количества сданных [Волшебных переливаний](https://ru.wowhead.com/spell=328923) за бой. Смотрите по ситуации.
+* {:.ft-apl}Не стоит придерживать [Волшебное переливание](https://ru.wowhead.com/spell=328923), если до конца кулдауна [Духа дикого зверя](https://ru.wowhead.com/spell=51533/) осталось более **10** секунд. Однако, это зависит от текущего энкаунтера и общего количества сданных [Волшебных переливаний](https://ru.wowhead.com/spell=328923) за бой. Смотрите по ситуации.
 * {:.pw-apl}Перед кастом [Молнии](https://ru.wowhead.com/spell=188196) с баффом [Первозданной волны](https://ru.wowhead.com/spell=326059) раскидайте максимально возможное количество [Огненных шоков](https://ru.wowhead.com/spell=188389) на все доступные цели.
 * {:.pw-apl}При сбросе кулдауна с помощью проводника [Волна за волной](https://ru.wowhead.com/spell=339186?ilvl=252) всегда поглощайте предыдущий бафф от [Первозданной волны](https://ru.wowhead.com/spell=326059)
 * {:.ch-apl}Внимательно следите за кулдауном [Цепной жатвы](https://ru.wowhead.com/spell=320674) во время АоЕ, так как легендарка [Проводник стихий](https://ru.wowhead.com/spell=356250/) стихий может очень быстро откатить её и к этому моменту у вас должно быть **5** стаков  [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 
 # Бой на АоЕ
 
-Ниже представлен список приоритетов в бою против **2** и более целей, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта. Если какой-то прок или бафф не указаны, значит в данном случае они не влияют на приоритет способностей:
+## Открывающая ротация, Opener
+
+**Опенер** – это фиксированный порядок кастов в самом начале боя.
+
+
+1. {:.witch-apl}{{ site.data.spells.wt }} на подходе к паку.
+1. {:.actuators-apl}{{ site.data.spells.wt }} на подходе к паку.
+1. {:.wolf-apl}{{ site.data.spells.wt }} на подходе к паку.
+2. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) прекастом до пула.
+3. {{ site.data.spells.fs }} в самого живучего врага.
+3. {:.vt-apl}{{ site.data.covenants.vt }}.
+7. {:.ft-apl}{{ site.data.covenants.ft }}.
+9. {{ site.data.spells.feral }}.
+10. {:.ft-apl}{{ site.data.spells.crush }}.
+10. {:.ch-apl}{{ site.data.spells.crush }}.
+10. {:.vt-apl}{{ site.data.spells.crush }}.
+11. {{ site.data.spells.ll }}
+12. {:.pw-apl}{{ site.data.covenants.pw }} в цель, на которой нет [Огненного шока](https://ru.wowhead.com/spell=188389).
+13. {:.pw-apl}{{ site.data.spells.fs }}, если отсутствует на одной из целей.
+11. {:.fn-apl}{{ site.data.spells.fn }}.
+11. {:.sunder-apl}{{ site.data.spells.sunder }}.
+10. {:.pw-apl}{{ site.data.spells.crush }}.
+10. {:.pw-apl}{{ site.data.spells.lb }} c баффом от [Первозданной волны](https://ru.wowhead.com/spell=326059) и если есть **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+6. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
+6. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
+1. {:.doom-apl}{{ site.data.spells.wt }} для активации эффекта легендарки {{ site.data.legend.doom }}.
+7. Следуйте списку приоритетов.
+
+## Список приоритетов
+
+Ниже представлен список приоритетов в бою против **2** и более целей, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта. Если какой то прок или бафф не указаны, значит в данном случае они не влияют на приоритет способностей. 
 
 8. {:.witch-apl}{{ site.data.spells.wt }}, если тотем не активен.
 9. {:.actuators-apl}{{ site.data.spells.wt }}, если тотем не активен.
-10. {:.wolf-apl}{{ site.data.spells.wt }}, если тотем не активен.
+1. {:.wolf-apl}{{ site.data.spells.wt }}, если тотем не активен.
 1. {{ site.data.spells.feral }}.
 4. {:.ft-apl}{{ site.data.covenants.ft }}. 
 1. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}, стараясь задеть максимальное количество целей при активации.
@@ -143,19 +176,20 @@ custom-javascript-list:
 3. {:.sunder-apl}{{ site.data.spells.sunder }} на максимальное количество целей.
 139. {:.vt-apl}{{ site.data.covenants.vt }}.
 141. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
-153. {{ site.data.spells.cl }} при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-143. {{ site.data.spells.crush }}, если бафф не активен.
+142. {{ site.data.spells.crush }}, если бафф не активен.
 154. {{ site.data.spells.ll }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
 154. {{ site.data.spells.ss }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
 154. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2+** цели.
 152. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 149. {{ site.data.spells.crush }}.
+153. {{ site.data.spells.cl }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+146. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
+147. {:.spirits-apl}{{ site.data.spells.ss }}.
+148. {:.spike-apl}{{ site.data.spells.ss }}.
+155. {{ site.data.spells.frs }}.
 150. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 151. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-153. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-155. {:.fn-apl}{{ site.data.spells.frs }}.
-155. {:.ea-apl}{{ site.data.spells.frs }}.
-157. {:.is-apl}{{ site.data.spells.is }}.
+156. {:.is-apl}{{ site.data.spells.is }}.
 158. {:.spike-apl}{{ site.data.spells.spike }}.
 159. {:.witch-apl}{{ site.data.spells.wt }}.
 160. {:.actuators-apl}{{ site.data.spells.wt }}.
@@ -164,15 +198,12 @@ custom-javascript-list:
 
 # Важные моменты 
 
-* Список приоритетов на АоЕ также является и опенером на АоЕ.
-* {{ site.data.spells.ll }} обновляет длительность [Огненного шока](https://ru.wowhead.com/spell=188389) в бою против одной цели, что освобождает ГКД для [Ледяного шока](https://ru.wowhead.com/spell=196840).
 * Бафф [Ледяного шока](https://ru.wowhead.com/spell=196840) на **40%** урона в патче **9.2** поднял его приоритет над [Сокрушающей молнией](https://ru.wowhead.com/spell=187874) в бою против одной цели.
 * Не стоит сразу тратить стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880), и не стоит уходить в оверкап. Лучше всего сливать их на **7-8** стаках, в удобное время между кулдаунами других способностей.
 * [Удар бури](https://ru.wowhead.com/spell=17364/) с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) имеет такой же высокий приоритет, что и без прока.
 * {:.hh-apl}Обратная ситуция с талантом {{ site.data.spells.hh }} – {{ site.data.spells.ll }} с этим баффом имеет гораздо больший приоритет, чем без него.
 * Держите шоки на кулдауне – это относится как к бою против одной цели, где необходимо поддерживать {{ site.data.spells.fs }}, так и к АоЕ со взятым талантом {{ site.data.spells.hailstorm }}. Шоки позволяют снижать простои в ротации, так что используйте их по первой возможности.
 * {:.asc_enh-apl}Перед применением [Перерождения](https://ru.wowhead.com/spell=114051) всегда используйте {{ site.data.spells.ss }}, так как его кулдаун сбросится после активации этого таланта.
-* Обновляйте {{ site.data.spells.fs }}, когда до конца его спадения осталось менее **5.4** секунд, чтобы это время добавилось к новому [Огненному шоку](https://ru.wowhead.com/spell=188389).
 * Для уменьшения количества простоев следует сначала использовать способности с коротким кулдауном, а уже затем с долгим. Это отражено в списке приоритетов.
 * {:.doom-apl}Во время активного баффа от легендарки {{ site.data.legend.doom }} главная задача – нанести как можно больше ударов с **правой руки**, вызывая прок [Неистовства ветра](https://ru.wowhead.com/spell=33757). К таким способностям относятся {{ site.data.spells.windstrike }}, {{ site.data.spells.ss }}, {{ site.data.spells.crush }}, {{ site.data.spells.sunder }} и автоатаки.
-* За счет того, что {{ site.data.spells.crush }} считается атакой с правой руки, шанс на прок [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757) рассчитывается на каждую пораженную цель.
+* {:.doom-apl}За счет того, что {{ site.data.spells.crush }} считается атакой с правой руки, шанс на прок [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757) рассчитывается на каждую пораженную цель.
