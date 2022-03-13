@@ -118,7 +118,6 @@ custom-javascript-list:
 40. {:.ft-apl .lmt-apl}{{ site.data.covenants.ft }}.
 41. {:.lmt-apl}{{ site.data.spells.lmt }}.
 42. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
-42. {:.sop-apl}{{ site.data.spells.lb }} с баффом от таланта [Прилив мощи](https://ru.wowhead.com/spell=262303).
 43. {{ site.data.spells.lvb }}.
 43. {:.if-apl}{{ site.data.spells.if }}.
 44. {:.mote-apl}{{ site.data.spells.es }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
