@@ -1,7 +1,7 @@
 ---
 title: Weakauras для Шамана Совершенствования
 layout: page
-last_update: 2022-02-24
+last_update: 2022-03-13
 wow: 9.2
 author: Amani
 description: Некоторые примеры групп WA для Энх Шамана. Больше можно найти на Wago.io.
@@ -18,18 +18,11 @@ image: /assets/img/logos/wa.png
 <img src="https://media.wago.io/screenshots/3adqlFNy2/5f3c7596d2c5a7357fa40108.gif" width=350x> 
 </p>
 
-[Кулдаун и время действия баффа от легендарки Ветра рока:](https://wago.io/SjJtre8FO)
+[Стихии волков от таланта Духи стихий:](https://wago.io/EFOB26jIj)
 {: style="text-align: center;"}
 
 <p align="center">
-<img src="https://media.wago.io/screenshots/SjJtre8FO/5fd360fffab2124dd4246c16.png" width=200x> 
-</p>
-
-[Стихии волков от таланта Духи стихий:](https://wago.io/sJy_uW-Sq)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://i.imgur.com/1NGL8mR.png" width=350x> 
+<img src="https://media.wago.io/screenshots/EFOB26jIj/622a8ace552d70d77e71a00d.png" width=350x> 
 </p>
 
 [Чары на оружие:](https://wago.io/iBEOl6LFb)
@@ -46,6 +39,13 @@ image: /assets/img/logos/wa.png
 <img src="https://media.wago.io/screenshots/BV0YCJ6OJ/5fb3c422842d5528c56ecb69.png" width=350x> 
 </p>
 
+
+[Кулдаун и время действия баффа от легендарки Ветра рока:](https://wago.io/SjJtre8FO)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/SjJtre8FO/5fd360fffab2124dd4246c16.png" width=200x> 
+</p>
 
 # Различные сборки WeakAuras
 
@@ -70,13 +70,21 @@ image: /assets/img/logos/wa.png
 <img src="https://media.wago.io/screenshots/4yz3N1TG7/5fb91986ff5bba046b74ef7f.gif" width=350x> 
 </p>
 
-
 [Сборка от Kontraos:](https://wago.io/hHBnrMiuy)
 {: style="text-align: center;"}
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/hHBnrMiuy/5f89e627878b591b4ce4ff1b.png" width=350x> 
 </p>
+
+[Сборка от Weber:](https://wago.io/weberEnhancement)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/4yz3N1TG7/5fb91986ff5bba046b74ef7f.gif
+" width=350x> 
+</p>
+
 
 [Сборка от Luxthos (3 группы):](https://wago.io/Hkc9ktj4X)
 {: style="text-align: center;"}
