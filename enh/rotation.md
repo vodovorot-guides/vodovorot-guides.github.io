@@ -41,14 +41,14 @@ custom-javascript-list:
 
 {% include talents.html data=site.data.talents.enh active="1201031" switch=true %}
 
-# Бой против одной цели
-
-## Открывающая ротация, Opener
-
 **Важно!** Вне зависимости от билда, талантов или типа боя – убедитесь, что у вас всегда наложены усиления на оружия – [Оружие неистовства ветра](https://ru.wowhead.com/spell=33757/) и [Оружие языка пламени](https://ru.wowhead.com/spell=318038/).
 {: class="bordered"}
 
-**Опенер** – это фиксированный порядок кастов в самом начале боя.
+# Бой против одной цели
+
+## Опенер
+
+**Опенер** – это фиксированный порядок способностей в самом начале боя.
 
 1. {:.witch-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
 1. {:.actuators-apl}{{ site.data.spells.wt }} до пула, максимально близко к боссу.
@@ -126,9 +126,9 @@ custom-javascript-list:
 
 # Бой на АоЕ
 
-## Открывающая ротация, Opener
+## Опенер
 
-**Опенер** – это фиксированный порядок кастов в самом начале боя.
+**Опенер** – это фиксированный порядок способностей в самом начале боя.
 
 
 1. {:.witch-apl}{{ site.data.spells.wt }} на подходе к паку.
@@ -142,13 +142,13 @@ custom-javascript-list:
 10. {:.ft-apl}{{ site.data.spells.crush }}.
 10. {:.ch-apl}{{ site.data.spells.crush }}.
 10. {:.vt-apl}{{ site.data.spells.crush }}.
-11. {{ site.data.spells.ll }}
+11. {{ site.data.spells.ll }} в цель под [Огненным шоком](https://ru.wowhead.com/spell=188389).
 12. {:.pw-apl}{{ site.data.covenants.pw }} в цель, на которой нет [Огненного шока](https://ru.wowhead.com/spell=188389).
 13. {:.pw-apl}{{ site.data.spells.fs }}, если отсутствует на одной из целей.
 11. {:.fn-apl}{{ site.data.spells.fn }}.
 11. {:.sunder-apl}{{ site.data.spells.sunder }}.
 10. {:.pw-apl}{{ site.data.spells.crush }}.
-10. {:.pw-apl}{{ site.data.spells.lb }} c баффом от [Первозданной волны](https://ru.wowhead.com/spell=326059) и если есть **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+10. {:.pw-apl}{{ site.data.spells.lb }} c баффом от [Первозданной волны](https://ru.wowhead.com/spell=326059) и с **5+** стаками [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 6. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
 6. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
 1. {:.doom-apl}{{ site.data.spells.wt }} для активации эффекта легендарки {{ site.data.legend.doom }}.
