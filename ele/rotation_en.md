@@ -102,5 +102,5 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 # AoE Fight
 
-Work in progress. Will done 13.03.2022. Thanks.
+Work in progress.
 
