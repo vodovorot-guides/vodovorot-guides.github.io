@@ -132,17 +132,18 @@ custom-javascript-list:
 57. {{ site.data.spells.lb }}.
 
 
-
 # АоЕ бой (**2+** цели)
 
 Изменения приоритетов в бою против двух целей при использовании полного [комплекта классовых доспехов](https://stormkeeper.ru/ele/patch-9-2.html#%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82-%D0%B4%D0%BE%D1%81%D0%BF%D0%B5%D1%85%D0%BE%D0%B2) – [Огненное сердце](https://ptr.wowhead.com/spell=363671). Для просмотра списка приоритетов из патча **9.1.5** перейдите на [эту страницу](https://stormkeeper.ru/ele/rotation-9-1.html).
 
-* {{ site.data.spells.fs }} больше не нужно специально поддерживать, если вы не <span style="color:#40bf40;font-size:1em;">**Некролорд**</span> или не используете легендарку [Огненная гибель "Усмирителя небес"](https://ru.wowhead.com/spell=336734/).
+* {{ site.data.spells.fs }} на **4+** цели больше не нужно специально поддерживать, если вы не <span style="color:#40bf40;font-size:1em;">**Некролорд**</span> или не используете легендарку [Огненная гибель "Усмирителя небес"](https://ru.wowhead.com/spell=336734/).
+* {{ site.data.spells.fs }} на **2-3** целях поддерживается без [Элементаля бури](https://ru.wowhead.com/spell=192249/), для увеличения количества проков [Волны лавы](https://ru.wowhead.com/spell=77756) и ускорения отката [Элементаля бури](https://ru.wowhead.com/spell=192249/) за счет сета.
 * {:.pw-apl}Если вы <span style="color:#40bf40;font-size:1em;">**Некролорд**</span>, то развешивайте максимальное количество [Огненных шоков](https://ru.wowhead.com/spell=188389) за **15** секунд до окончания кулдауна [Первозданной волны](https://ru.wowhead.com/spell=326059).
 * {:.pw-apl}В начале боя с **3+** целями, сначала развесьте несколько [Огненных шоков](https://ru.wowhead.com/spell=188389) и [Первозданную волну](https://ru.wowhead.com/spell=326059), и только потом кастуйте {{ site.data.spells.lvb }}.
 * {:.fire-apl}При использовании легендарки [Огненная гибель "Усмирителя небес"](https://ru.wowhead.com/spell=336734/) развешивайте максимальное количество [Огненных шоков](https://ru.wowhead.com/spell=188389) в те моменты, когда [Элементаль бури](https://ru.wowhead.com/spell=192249/) не активен.
 * Можно повесить один {{ site.data.spells.fs }} во время перебежки.
-* С сетом [Огненное сердце](https://ptr.wowhead.com/spell=364472) {{ site.data.spells.lvb }} кастуется только по проку во время передвижения, даже без наличия на цели [Огненного шока](https://ru.wowhead.com/spell=188389). 
+* С сетом [Огненное сердце](https://ptr.wowhead.com/spell=364472), во время активного [Элементаля бури](https://ru.wowhead.com/spell=192249/), {{ site.data.spells.lvb }} кастуется только по проку во время передвижения, даже без наличия на цели [Огненного шока](https://ru.wowhead.com/spell=188389).
+* Без активного [Элементаля бури](https://ru.wowhead.com/spell=192249/) стоит кастовать {{ site.data.spells.lvb }} по проку вне зависимости от количества целей, для отката [Элементаля бури](https://ru.wowhead.com/spell=192249/).
 * {{ site.data.spells.cl }} заменяет обычную [Молнию](https://ru.wowhead.com/spell=188196) в качестве филлера на АоЕ.
 * {:.sk-apl}В бою против **2** целей бафф от [Хранителя бурь](https://ru.wowhead.com/spell=191634) следует тратить на [Молнию](https://ru.wowhead.com/spell=188196). На **3+** цели – на [Цепную молнию](https://ru.wowhead.com/spell=188443).
 * {:.eogs-apl}{{ site.data.spells.quake }} заменяет {{ site.data.spells.es }} на АоЕ боях. Всегда чередуйте {{ site.data.spells.es }} и {{ site.data.spells.quake }} при использовании легендарки [Отголоски Великого Раскола](https://ru.wowhead.com/spell=336215).
