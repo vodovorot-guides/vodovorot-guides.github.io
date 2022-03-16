@@ -137,22 +137,22 @@ custom-javascript-list:
 2. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) прекастом до пула.
 3. {{ site.data.spells.fs }} в самого живучего врага.
 3. {:.vt-apl}{{ site.data.covenants.vt }}.
-7. {:.ft-apl}{{ site.data.covenants.ft }}.
 9. {{ site.data.spells.feral }}.
-10. {:.ft-apl}{{ site.data.spells.crush }}.
-10. {:.ch-apl}{{ site.data.spells.crush }}.
-10. {:.vt-apl}{{ site.data.spells.crush }}.
-11. {{ site.data.spells.ll }} в цель под [Огненным шоком](https://ru.wowhead.com/spell=188389).
-12. {:.pw-apl}{{ site.data.covenants.pw }} в цель, на которой нет [Огненного шока](https://ru.wowhead.com/spell=188389).
-13. {:.pw-apl}{{ site.data.spells.fs }}, если отсутствует на одной из целей.
-11. {:.fn-apl}{{ site.data.spells.fn }}.
-11. {:.sunder-apl}{{ site.data.spells.sunder }}.
-10. {:.pw-apl}{{ site.data.spells.crush }}.
-10. {:.pw-apl}{{ site.data.spells.lb }} c баффом от [Первозданной волны](https://ru.wowhead.com/spell=326059) и с **5+** стаками [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-6. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
-6. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
-1. {:.doom-apl}{{ site.data.spells.wt }} для активации эффекта легендарки {{ site.data.legend.doom }}.
-7. Следуйте списку приоритетов.
+7. {:.ft-apl}{{ site.data.covenants.ft }}.
+11. {:.ft-apl}{{ site.data.spells.crush }}.
+12. {:.ch-apl}{{ site.data.spells.crush }}.
+13. {:.vt-apl}{{ site.data.spells.crush }}.
+14. {{ site.data.spells.ll }} в цель под [Огненным шоком](https://ru.wowhead.com/spell=188389).
+15. {:.pw-apl}{{ site.data.covenants.pw }} в цель, на которой нет [Огненного шока](https://ru.wowhead.com/spell=188389).
+16. {:.pw-apl}{{ site.data.spells.fs }}, если отсутствует на одной из целей.
+17. {:.fn-apl}{{ site.data.spells.fn }}.
+18. {:.sunder-apl}{{ site.data.spells.sunder }}.
+19. {:.pw-apl}{{ site.data.spells.crush }}.
+20. {:.pw-apl}{{ site.data.spells.lb }} c баффом от [Первозданной волны](https://ru.wowhead.com/spell=326059) и с **5+** стаками [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+21. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
+22. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
+23. {:.doom-apl}{{ site.data.spells.wt }} для активации эффекта легендарки {{ site.data.legend.doom }}.
+24. Следуйте списку приоритетов.
 
 ## Список приоритетов
 
