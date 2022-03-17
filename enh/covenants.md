@@ -57,12 +57,12 @@ image: /assets/img/logos/covenants.png
 
 **<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – лучший медиум для **рейда и Мифик+**, если вы сможете большую часть времени стоять в [Цветочном поле](https://ru.wowhead.com/spell=319191). В ином случае лучше взять **Нию**. Пример прокачки Творца Снов:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/AwaZbr4BJShxABMFKZIKFSmbCiUplQoiBSg9CiV2AAo"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/AwaZbr4BJShxABMFKZIKFSmbCiUs7woiBSg9CiV2AAo"></a>
 
 
 **<span style="color:#a330c9;font-size:1em;">Ния</span>** – лучший медиум для **рейда и Мифик+**, если не получается реализовывать [Цветочное поле](https://ru.wowhead.com/spell=319191) **Творца снов**. Пример прокачки Нии:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaW6pYBBShxChMFKZIKFSmVCiUpmwoiFSg9CjV2AAo"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaW6pYBBShxChMFKZIKFSzvCiUpmwoiFSg9CjV2AAo"></a>
 
 # <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
