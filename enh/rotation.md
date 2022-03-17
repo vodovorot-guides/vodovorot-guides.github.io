@@ -178,22 +178,22 @@ custom-javascript-list:
 141. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
 142. {{ site.data.spells.crush }}, если бафф не активен.
 154. {{ site.data.spells.ll }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
-154. {{ site.data.spells.ss }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
-154. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2+** цели.
-152. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-149. {{ site.data.spells.crush }}.
 153. {{ site.data.spells.cl }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-146. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
-147. {:.spirits-apl}{{ site.data.spells.ss }}.
-148. {:.spike-apl}{{ site.data.spells.ss }}.
-155. {{ site.data.spells.frs }}.
-150. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-151. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-156. {:.is-apl}{{ site.data.spells.is }}.
-158. {:.spike-apl}{{ site.data.spells.spike }}.
-159. {:.witch-apl}{{ site.data.spells.wt }}.
-160. {:.actuators-apl}{{ site.data.spells.wt }}.
-161. {:.wolf-apl}{{ site.data.spells.wt }}.
+156. {{ site.data.spells.ss }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
+157. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2+** цели.
+158. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+159. {{ site.data.spells.crush }}.
+160. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
+161. {:.spirits-apl}{{ site.data.spells.ss }}.
+162. {:.spike-apl}{{ site.data.spells.ss }}.
+163. {{ site.data.spells.frs }}.
+164. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+165. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+166. {:.is-apl}{{ site.data.spells.is }}.
+167. {:.spike-apl}{{ site.data.spells.spike }}.
+168. {:.witch-apl}{{ site.data.spells.wt }}.
+169. {:.actuators-apl}{{ site.data.spells.wt }}.
+170. {:.wolf-apl}{{ site.data.spells.wt }}.
 
 
 # Важные моменты 
