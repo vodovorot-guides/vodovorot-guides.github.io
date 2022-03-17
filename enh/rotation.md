@@ -158,42 +158,42 @@ custom-javascript-list:
 
 Ниже представлен список приоритетов в бою против **2** и более целей, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта. Если какой то прок или бафф не указаны, значит в данном случае они не влияют на приоритет способностей. 
 
-8. {:.witch-apl}{{ site.data.spells.wt }}, если тотем не активен.
-9. {:.actuators-apl}{{ site.data.spells.wt }}, если тотем не активен.
-1. {:.wolf-apl}{{ site.data.spells.wt }}, если тотем не активен.
-1. {{ site.data.spells.feral }}.
-4. {:.ft-apl}{{ site.data.covenants.ft }}. 
-1. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}, стараясь задеть максимальное количество целей при активации.
-15. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-1. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
-15. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **4+** цели.
-137. {:.pw-apl}{{ site.data.covenants.pw }}, если нет активного баффа от этого заклинания.
-143. {:.lf-apl}{{ site.data.spells.ll }} по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) без активного дебаффа от таланта {{ site.data.spells.lf }}.
-6. {{ site.data.spells.fs }}, если отсутствует на цели.
-14. {:.pw-apl}{{ site.data.spells.lb }}, если есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=326059) и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-2. {:.hailstorm-apl}{{ site.data.spells.frs }}, если есть бафф от [Бури с градом](https://ru.wowhead.com/spell=334195).
-1. {:.doom-apl}{{ site.data.spells.crush }}, если есть бафф от [Ветров рока](https://ru.wowhead.com/spell=335902).
-3. {:.sunder-apl}{{ site.data.spells.sunder }} на максимальное количество целей.
-139. {:.vt-apl}{{ site.data.covenants.vt }}.
-141. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
-142. {{ site.data.spells.crush }}, если бафф не активен.
-154. {{ site.data.spells.ll }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
-153. {{ site.data.spells.cl }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-156. {{ site.data.spells.ss }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
-157. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2+** цели.
-158. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-159. {{ site.data.spells.crush }}.
-160. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
-161. {:.spirits-apl}{{ site.data.spells.ss }}.
-162. {:.spike-apl}{{ site.data.spells.ss }}.
-163. {{ site.data.spells.frs }}.
-164. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-165. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-166. {:.is-apl}{{ site.data.spells.is }}.
-167. {:.spike-apl}{{ site.data.spells.spike }}.
-168. {:.witch-apl}{{ site.data.spells.wt }}.
-169. {:.actuators-apl}{{ site.data.spells.wt }}.
-170. {:.wolf-apl}{{ site.data.spells.wt }}.
+1. {:.witch-apl}{{ site.data.spells.wt }}, если тотем не активен.
+2. {:.actuators-apl}{{ site.data.spells.wt }}, если тотем не активен.
+3. {:.wolf-apl}{{ site.data.spells.wt }}, если тотем не активен.
+4. {{ site.data.spells.feral }}.
+5. {:.ft-apl}{{ site.data.covenants.ft }}. 
+6. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}, стараясь задеть максимальное количество целей при активации.
+7. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+8. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
+9. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **4+** цели.
+10. {:.pw-apl}{{ site.data.covenants.pw }}, если нет активного баффа от этого заклинания.
+11. {:.lf-apl}{{ site.data.spells.ll }} по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) без активного дебаффа от таланта {{ site.data.spells.lf }}.
+12. {{ site.data.spells.fs }}, если отсутствует на цели.
+13. {:.pw-apl}{{ site.data.spells.lb }}, если есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=326059) и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+14. {:.hailstorm-apl}{{ site.data.spells.frs }}, если есть бафф от [Бури с градом](https://ru.wowhead.com/spell=334195).
+15. {:.doom-apl}{{ site.data.spells.crush }}, если есть бафф от [Ветров рока](https://ru.wowhead.com/spell=335902).
+16. {:.sunder-apl}{{ site.data.spells.sunder }} на максимальное количество целей.
+17. {:.vt-apl}{{ site.data.covenants.vt }}.
+18. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
+19. {{ site.data.spells.crush }}, если бафф не активен.
+20. {{ site.data.spells.ll }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
+21. {{ site.data.spells.cl }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+22. {{ site.data.spells.ss }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
+23. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2+** цели.
+24. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+25. {{ site.data.spells.crush }}.
+26. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
+27. {:.spirits-apl}{{ site.data.spells.ss }}.
+28. {:.spike-apl}{{ site.data.spells.ss }}.
+29. {{ site.data.spells.frs }}.
+30. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+31. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+32. {:.is-apl}{{ site.data.spells.is }}.
+33. {:.spike-apl}{{ site.data.spells.spike }}.
+34. {:.witch-apl}{{ site.data.spells.wt }}.
+35. {:.actuators-apl}{{ site.data.spells.wt }}.
+36. {:.wolf-apl}{{ site.data.spells.wt }}.
 
 
 # Важные моменты 
@@ -201,7 +201,7 @@ custom-javascript-list:
 * Бафф [Ледяного шока](https://ru.wowhead.com/spell=196840) на **40%** урона в патче **9.2** поднял его приоритет над [Сокрушающей молнией](https://ru.wowhead.com/spell=187874) в бою против одной цели.
 * Не стоит сразу тратить стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880), и не стоит уходить в оверкап. Лучше всего сливать их на **7-8** стаках, в удобное время между кулдаунами других способностей.
 * [Удар бури](https://ru.wowhead.com/spell=17364/) с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/) имеет такой же высокий приоритет, что и без прока.
-* {:.hh-apl}Обратная ситуция с талантом {{ site.data.spells.hh }} – {{ site.data.spells.ll }} с этим баффом имеет гораздо больший приоритет, чем без него.
+* {:.hh-apl}Обратная ситуция с талантом {{ site.data.spells.hh }} – {{ site.data.spells.ll }} с этим баффом имеет гораздо больший приоритет, чем без него, но только в бою против одной цели.
 * Держите шоки на кулдауне – это относится как к бою против одной цели, где необходимо поддерживать {{ site.data.spells.fs }}, так и к АоЕ со взятым талантом {{ site.data.spells.hailstorm }}. Шоки позволяют снижать простои в ротации, так что используйте их по первой возможности.
 * {:.asc_enh-apl}Перед применением [Перерождения](https://ru.wowhead.com/spell=114051) всегда используйте {{ site.data.spells.ss }}, так как его кулдаун сбросится после активации этого таланта.
 * Для уменьшения количества простоев следует сначала использовать способности с коротким кулдауном, а уже затем с долгим. Это отражено в списке приоритетов.
