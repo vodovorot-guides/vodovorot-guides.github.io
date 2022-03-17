@@ -65,7 +65,7 @@ image: /assets/img/logos/leggos.png
 * Суммарно за одно использование [Волшебного переливания](https://ru.wowhead.com/spell=328923) время восстановления элементалей сокращается на **42** секунды.
 * Критичекий удар суммарно повышается на **28%** на **15** секунд.
 
-<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – легендарка <span style="color:#40bf40;font-size:1em;">**Некролордов**</span>. Каждый дополнительный эффект [Выброса лавы](https://ru.wowhead.com/spell=51505) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **8%** на **10** секунд.
+<a href="https://ru.wowhead.com/spell=354647" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – легендарка <span style="color:#40bf40;font-size:1em;">**Некролордов**</span>. Каждый дополнительный эффект [Выброса лавы](https://ru.wowhead.com/spell=51505) от [Первозданной волны](https://ru.wowhead.com/spell=326059) повышает Скорость на **10%** на **12** секунд.
 
 <a href="https://ru.wowhead.com/spell=356789" target="blank" data-wh-icon-size="medium" >**Яростный перезвон**</a> – легендарка <span style="color:#68ccef;font-size:1em;">**Кирий**</span>. Израсходовав **3** заряда, [Тотем вечернего колокола](https://ru.wowhead.com/spell=324386) испускает вспышку, нанося противникам в радиусе **15** метров **300%** силы заклинаний и излечивая союзников на **110%** от силы заклинаний.
 
