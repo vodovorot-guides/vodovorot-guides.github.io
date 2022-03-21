@@ -45,7 +45,7 @@ image: /assets/img/logos/talents.png
 
 <a href="https://ru.wowhead.com/spell=342243" target="blank" data-wh-icon-size="medium" >**Статический разряд**</a> – активная способность, наносит урон одной цели с КД **30** секунд.
 
-> Static Discharge, SD, СД, Дисчардж.
+> Static Discharge, SD, Static Pisscharge, СД, Дисчардж.
 
 * Считайте, что этого таланта не существует.
 
