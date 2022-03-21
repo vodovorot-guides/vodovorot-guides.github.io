@@ -85,7 +85,6 @@ image: /assets/img/logos/wa.png
 " width=350x> 
 </p>
 
-
 [Сборка от Luxthos (3 группы):](https://wago.io/Hkc9ktj4X)
 {: style="text-align: center;"}
 
@@ -100,5 +99,11 @@ image: /assets/img/logos/wa.png
 <img src="https://media.wago.io/screenshots/rkxMuyLZX/5f74b81bd2e79f530ec0cfa1.png" width=350x> 
 </p>
 
+[Сборка от Timeless:](https://wago.io/bsnbh9BpR)
+{: style="text-align: center;"}
+
+<p align="center">
+<img src="https://media.wago.io/screenshots/bsnbh9BpR/622ee18268255d8d0fdc5342.gif" width=350x> 
+</p>
 
 
