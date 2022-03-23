@@ -66,7 +66,7 @@ description: Всё про боссов в рейде Гробница Пред�
 **Медиум**: [Творец снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AwaZbr4BJShxABMFKZIKFSmbCiUs7woiBSg9CiV2AAo)
 
 **Таланты:**
-* **15**: {{ site.data.spells.lf }} или {{ site.data.spells.lf }}
+* **15**: {{ site.data.spells.eb }} или {{ site.data.spells.lf }}
 * **25**: {{ site.data.spells.hh }}
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.ea }}
@@ -96,7 +96,7 @@ description: Всё про боссов в рейде Гробница Пред�
 **Медиум**: [Творец снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AwaZbr4BJShxABMFKZIKFSmbCiUs7woiBSg9CiV2AAo) или [Теотар](https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/Awa-5b4BBShxChMFKZIKFSmbCiUplQoiFSg9CjV2AAo)
 
 **Таланты:**
-* **15**: {{ site.data.spells.lf }} или {{ site.data.spells.lf }}
+* **15**: {{ site.data.spells.eb }} или {{ site.data.spells.lf }}
 * **25**: {{ site.data.spells.hh }}
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.ea }}
@@ -140,7 +140,7 @@ description: Всё про боссов в рейде Гробница Пред�
 **Медиум**: [Ния](https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaW6pYBBShxChMFKZIKFSzvCiUpmwoiFSg9CjV2AAo) или [Творец снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AwaZbr4BJShxABMFKZIKFSmbCiUs7woiBSg9CiV2AAo)
 
 **Таланты:**
-* **15**: {{ site.data.spells.lf }}
+* **15**: {{ site.data.spells.eb }} или {{ site.data.spells.lf }}
 * **25**: {{ site.data.spells.hh }}
 * **30**: {{ site.data.spells.spirit_wolf }}
 * **35**: {{ site.data.spells.ea }}
