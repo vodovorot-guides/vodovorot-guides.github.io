@@ -103,7 +103,7 @@ image: /assets/img/logos/macros.png
 /use [combat] Одноразовый спектросинхронный оживитель; [nocombat] Дух предков
 ~~~
 
-# Стихии
+# Элем
 
 * Позволяет кастовать АоЕ заклинания (например {{ site.data.spells.quake }} и {{ site.data.spells.rain }}) сразу на место под курсором, избавляя от лишнего клика мышкой:  
 ~~~
@@ -150,7 +150,7 @@ image: /assets/img/logos/macros.png
 /cast [talent:3/3] Щит молний
 ~~~
 
-# Совершенствование
+# Энх
 
 * Использование {{ site.data.spells.ww }} и {{ site.data.spells.ftw }} на одной кнопке:  
 ~~~
@@ -187,7 +187,7 @@ image: /assets/img/logos/macros.png
 /cast [talent:3/3] Щит молний
 ~~~
 
-# Исцеление
+# Рестор
 
 * Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.cl }} + {{ site.data.spells.ch }}, [Возрождение духа](https://ru.wowhead.com/spell=77130) + {{ site.data.spells.purge }} и другие:
 ~~~
@@ -199,6 +199,15 @@ image: /assets/img/logos/macros.png
 ~~~
 #showtooltip 
 /cast [@mouseover, exists, harm, nodead] [@mouseovertarget, exists, harm, nodead] [@targettarget, exists, harm, nodead] [exists, harm, nodead] Молния
+~~~
+
+* Макрос на взятие в фокус [Элементаля земли](https://ru.wowhead.com/spell=198103). Следует нажимать кнопку макроса дважды:
+~~~
+#showtooltip
+/use Элементаль земли
+/target Большой элементаль земли
+/focus
+/targetlasttarget
 ~~~
 
 * В зависимости от выбранного таланта использует {{ site.data.spells.ewt }} или {{ site.data.spells.apt }} на землю под курсором:  
