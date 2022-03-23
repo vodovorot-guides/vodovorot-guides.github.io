@@ -48,7 +48,7 @@ image: /assets/img/logos/leggos.png
 <a href="https://ru.wowhead.com/spell=356218/" target="blank" data-wh-icon-size="medium" >**Семена буйной поросли**</a> – легендарка <span style="color:#a330c9;font-size:1em;">**Ночного Народца**</span>. Каждый раз, когда [Волшебное переливание](https://ru.wowhead.com/spell=328923) наносит урон (максимум **7** раз), время восстановления [Духа дикого зверя](https://ru.wowhead.com/spell=51533) сокращается на **9** секунд, а вероятность критического удара повышается на **4%** на **15** секунд.
 
 * Суммарно за одно использование [Волшебного переливания](https://ru.wowhead.com/spell=328923) время восстановления [Духа дикого зверя](https://ru.wowhead.com/spell=51533) сокращается на **63** секунды.
-* Критичекий удар суммарно повышается на **28%** на **15** секунд.
+* Критический удар суммарно повышается на **28%** на **15** секунд.
 
 <a href="https://ru.wowhead.com/spell=356250" target="blank" data-wh-icon-size="medium" >**Проводник стихий**</a> – легендарка <span style="color:#ff4040;font-size:1em;">**Вентиров**</span>. К союзникам, исцеленным [Цепной жатвой](https://ru.wowhead.com/spell=320674) применяется [Быстрина](https://ru.wowhead.com/spell=61295). К противникам, получившим урон от [Цепной жатвы](https://ru.wowhead.com/spell=320674) применяется [Огненный шоки](https://ru.wowhead.com/spell=188389). Каждый критический тик [Огненного шока](https://ru.wowhead.com/spell=188389) снижает КД [Цепной жатвы](https://ru.wowhead.com/spell=320674) на **1** секунду.
 
