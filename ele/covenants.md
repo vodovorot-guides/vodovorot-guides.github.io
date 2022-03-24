@@ -72,6 +72,12 @@ image: /assets/img/logos/covenants.png
 
 <p></p>
 
+**<span style="color:#a330c9;font-size:1em;">Творец Снов</span>** – может также использоваться в Мифик+, например в высоких ключах, где падает польза от Корейн. Пример прокачки Творца Снов:
+
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/shaman/AwC5Zr4CBShxCiUoegoTBSl_ChUpTAolLO8KISV2AAo"></a>
+
+<p></p>
+
 # <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 
 <p align="center">
