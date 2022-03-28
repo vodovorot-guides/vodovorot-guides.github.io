@@ -114,7 +114,7 @@ custom-javascript-list:
 32. {{ site.data.spells.frs }}. 
 30. {{ site.data.spells.crush }}.
 33. {:.is-apl}{{ site.data.spells.is }}.
-35. {:.fn-apl}{{ site.data.spells.fn }} при активном {{ site.data.spells.fs }}.
+35. {:.fn-apl}{{ site.data.spells.fn }}.
 32. {{ site.data.spells.fs }}. 
 37. {{ site.data.spells.wt }}, если все другие способности недоступны.
 
