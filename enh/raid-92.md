@@ -131,6 +131,10 @@ description: Всё про боссов в рейде Гробница Пред�
 
 ## Изобретатель Зи'мокс
 
+{% include youtube.html id="OLcjMLZqPa8" %}
+
+<p></p>
+
 **Тип боя:** Одна цель с двумя фазами аддов
 **Тактика на русском языке:** [MythicTrap](https://mythictrap.com/sepulcher/xymox)  
 **Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/29#boss=2553&class=Shaman&spec=Enhancement)  
