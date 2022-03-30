@@ -1,16 +1,16 @@
 ---
 title: PvP-гайд на Шамана Стихии
 layout: page
-last_update: 2021-07-16
-wow: 9.1
+last_update: 2022-04-01
+wow: 9.2
 toc: true
 author: "Aquatouch, Amani"
-description: PvP-гайд по Элем Шаману. Разобраны основные аспекты игры – выбор ковенанта, расы, талантов, легендарки и характеристик, а также геймплейные советы, рекомендации по сетапам, аддоны и макросы и многое другое. Автор – Aquatouch, гладиатор с опытом арены 2655 в последних двух сезонах.
+description: PvP-гайд по Элем Шаману. Разобраны основные аспекты игры – выбор ковенанта, расы, талантов, легендарки и характеристик, а также геймплейные советы, рекомендации по сетапам, аддоны и макросы и многое другое. Автор – Aquatouch, гладиатор с опытом арены 2800.
 image: /assets/img/pvp.jpg
 ---
 
 
-Данный гайд написан на основе информации от [Aquatouch](https://www.twitch.tv/aquatouchx), гладиатора с **2655** опытом арены последних двух сезонов. Задать любые вопросы по гайду можно в Discord-сервере [«Водоворот»](https://discord.gg/8Bag6kT), либо на [стриме автора](https://www.twitch.tv/aquatouchx).
+Данный гайд написан на основе информации от [Aquatouch](https://www.twitch.tv/aquatouchx), гладиатора с опытом арены **2800** рейтинга. Задать любые вопросы по гайду можно в Discord-сервере [«Водоворот»](https://discord.gg/8Bag6kT), либо на [стриме автора](https://www.twitch.tv/aquatouchx).
 {: class="bordered"}
 
 # Сильные и слабые стороны
@@ -56,7 +56,7 @@ image: /assets/img/pvp.jpg
 
 Лучший медиум – **Изобретатель чумы Марилет**:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/AwCW5r4CFSh6CCUocQgTBSzyCBUpfwglKaMIIhUoPQglKDYI"></a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/AwaW7r4CFSiGCiUocQoTBSzyChUpfwolKaMKIhUoPQolKDYK"></a>
 
 <p></p>
 
@@ -95,7 +95,7 @@ image: /assets/img/pvp.jpg
  
 **Пятый тир**. Лучший выбор – [Страж природы](https://ru.wowhead.com/spell=30884).
 * [Страж природы](https://ru.wowhead.com/spell=30884) – пассивный отхил, помогает пережить опасные моменты.
-* [Наставления предков](https://ru.wowhead.com/spell=108281) – не используется в PvP.
+* [Наставления предков](https://ru.wowhead.com/spell=108281) – используется в том случае, если во вражеской команде есть Прист-Вентир, который с помощью [Игр разума](https://ru.wowhead.com/spell=323673) при помощи прока [Стража природы](https://ru.wowhead.com/spell=30884) при низком значении здоровья.
 * [Тотем ветряного порыва](https://ru.wowhead.com/spell=192077) – не используется в PvP.
 
 **Шестой тир**. Лучший выбор – [Повелитель изначальных стихий](https://ru.wowhead.com/spell=117013).
