@@ -41,9 +41,9 @@ categories:
         url: /enh/stats.html
       - title: Weakauras
         url: /enh/weakauras.html
+        divided: true
       - title: Рейд Гробница Предвечных
         url: /enh/raid-92.html
-        divided: true
       - title: Изменения в патче 9.2
         url: /enh/patch-9-2.html
 
