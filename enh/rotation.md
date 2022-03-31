@@ -99,7 +99,6 @@ custom-javascript-list:
 9. {{ site.data.spells.fs }}, если отсутствует на цели.
 16. {:.hailstorm-apl}{{ site.data.spells.frs }}, если есть бафф от [Бури с градом](https://ru.wowhead.com/spell=334195).
 17. {:.spike-apl}{{ site.data.spells.spike }}.
-31. {{ site.data.spells.ll }}, если до спадения [Огненного шока](https://ru.wowhead.com/spell=188389) осталось менее **4** секунд.
 15. {:.vt-apl}{{ site.data.covenants.vt }}. 
 19. {:.flurry-apl}{{ site.data.spells.ss }} с проком [Вестника шторма](https://ru.wowhead.com/spell=201845/).
 20. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
