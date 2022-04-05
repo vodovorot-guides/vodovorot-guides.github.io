@@ -63,7 +63,7 @@ image: /assets/img/logos/wa.png
 <img src="https://media.wago.io/screenshots/rJhu7HoMM/5f85e27255162321b362dd10.gif" width=350x> 
 </p>
 
-[Сборка от kr3b5:](https://wago.io/krebsEnhancement)
+[Сборка от Weber:](https://wago.io/weberEnhancement)
 {: style="text-align: center;"}
 
 <p align="center">
@@ -75,14 +75,6 @@ image: /assets/img/logos/wa.png
 
 <p align="center">
 <img src="https://media.wago.io/screenshots/hHBnrMiuy/5f89e627878b591b4ce4ff1b.png" width=350x> 
-</p>
-
-[Сборка от Weber:](https://wago.io/weberEnhancement)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://media.wago.io/screenshots/4yz3N1TG7/5fb91986ff5bba046b74ef7f.gif
-" width=350x> 
 </p>
 
 [Сборка от Luxthos (3 группы):](https://wago.io/Hkc9ktj4X)
