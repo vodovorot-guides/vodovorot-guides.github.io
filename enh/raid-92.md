@@ -142,7 +142,7 @@ description: Всё про боссов в рейде Гробница Пред�
 **Тайминги бурстов:** [Ссылка](https://lorrgs.io/spec_ranking/shaman-enhancement/artificer-xymox?difficulty=mythic)  
 
 **Ковенант**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>
-**Медиум**: [Ния](https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/shaman/AwaW6pYBBShxChMFKZIKFSzvCiUpmwoiFSg9CjV2AAo) или [Творец снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AwaZbr4BJShxABMFKZIKFSmbCiUs7woiBSg9CiV2AAo)
+**Медиум**: [Ния](https://ru.wowhead.com/soulbind-calc/night-fae/niya/shaman/AwaW6pYBBShxChMFKZIKFSzvCiUpmwoiFSg9CjV2AAo) или [Творец снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AwaZbr4BJShxABMFKZIKFSmbCiUs7woiBSg9CiV2AAo)
 
 **Таланты:**
 * **15**: {{ site.data.spells.eb }} или {{ site.data.spells.lf }}
