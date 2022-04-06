@@ -95,14 +95,14 @@ Spell priority list that changes dynamically based on selected talents, legendar
 33. {:.is-apl}[Ice Strike](https://www.wowhead.com/spell=342240).
 35. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974).
 32. [Flame Shock](https://www.wowhead.com/spell=188389). 
-37. [Windfury Totem](https://www.wowhead.com/spell=8512)
-38. {{ site.data.spells.wt }} if all other abilities are unavailable.
+37. [Windfury Totem](https://www.wowhead.com/spell=8512) if all other abilities are unavailable.
 
-* {:.vt-apl}<span style="color:#68ccef;font-size:1em;">Кирии</span> могут активировать эффект  легендарки [Яростный перезвон](https://www.wowhead.com/spell=356789/) с помощью одного каста [Тотема исцеляющего потока](https://www.wowhead.com/spell=5394) и двух кастов [Щита земли](https://www.wowhead.com/spell=974).
-* {:.ft-apl .wolf-apl}Не стоит придерживать [Волшебное переливание](https://www.wowhead.com/spell=328923), если до конца кулдауна [Духа дикого зверя](https://www.wowhead.com/spell=51533/) осталось более **30** секунд. Однако, это зависит от текущего энкаунтера и общего количества сданных [Волшебных переливаний](https://www.wowhead.com/spell=328923) за бой. Смотрите по ситуации.
-* {:.pw-apl}Перед кастом [Молнии](https://www.wowhead.com/spell=188196) с баффом [Первозданной волны](https://www.wowhead.com/spell=326059) раскидайте максимально возможное количество [Огненных шоков](https://www.wowhead.com/spell=188389) на все доступные цели.
-* {:.pw-apl}При сбросе кулдауна с помощью проводника [Волна за волной](https://www.wowhead.com/spell=339186?ilvl=252) всегда поглощайте предыдущий бафф от [Первозданной волны](https://www.wowhead.com/spell=326059)
-* {:.ch-apl}Внимательно следите за кулдауном [Цепной жатвы](https://www.wowhead.com/spell=320674) во время АоЕ, так как легендарка [Проводник стихий](https://www.wowhead.com/spell=356250/) стихий может очень быстро откатить её и к этому моменту у вас должно быть **5** стаков  [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+* {:.vt-apl}<span style="color:#68ccef;font-size:1em;">Kyran</span> can activate [Raging Vesper Vortex](https://www.wowhead.com/spell=356789/) legendary effect with one cast of [Healing Stream Totem](https://www.wowhead.com/spell=5394) and two [Earth Shield](https://www.wowhead.com/spell=974) casts.
+* {:.ft-apl .wolf-apl}Do not delay [Fae Transfusion](https://www.wowhead.com/spell=328923), if there are more than **30** seconds left until the [Feral Spirit](https://www.wowhead.com/spell=51533/) cooldown. However, it's depends on current encounter and total amount of [Fae Transfusion](https://www.wowhead.com/spell=328923) casts during the fight. Adapt to the situation.
+* {:.pw-apl}Before the [Lightning Bolt](https://www.wowhead.com/spell=188196) cast wit the [Primordial Wave](https://www.wowhead.com/spell=326059) buff cast as many [Flame Shocks](https://www.wowhead.com/spell=188389) as you can.
+* {:.pw-apl}When [Primordial Wave](https://www.wowhead.com/spell=326059) cooldown resetting by [Tumbling Waves](https://www.wowhead.com/spell=339186?ilvl=252) conduit, always consume it's buff with [Lightning Bolt](https://www.wowhead.com/spell=188196) before next [Primordial Wave](https://www.wowhead.com/spell=326059) cast.
+* {:.ch-apl}Keep an eye on [Chain Harvest](https://www.wowhead.com/spell=320674) cooldown during AoE encounder, because [Elemental Conduit](https://www.wowhead.com/spell=356250/) legendary can quickly reset it and you need to have at least **5** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+ во время АоЕ, так как легендарка [Elemental Conduit](https://www.wowhead.com/spell=356250/) стихий может очень быстро откатить её и к этому моменту у вас должно быть **5** стаков  [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 
 # Бой на АоЕ
 
