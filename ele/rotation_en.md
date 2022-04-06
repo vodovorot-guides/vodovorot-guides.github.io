@@ -16,6 +16,15 @@ custom-javascript-list:
 
 Elemental Shaman rotation breakdown. Spell priorities on this page change dynamically depending on selected talents, legendary and covenant. Original Russian page [here](https://stormkeeper.ru/ele/rotation.html). Author: [Amani](https://www.twitch.tv/amanizandalari).
 
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
+      <a href="/ele/rotation.html" id="raid_build_ele" button="button" class="btn btn-outline-primary guide-btn">Set Raid build</a>
+      <a href="/ele/rotation.html" id="mplus_build_ele" button="button" class="btn btn-outline-primary guide-btn">Set Mythic+ build</a>
+    </div>
+  </div>
+</div>
+
 <p></p>
 
 {% include talents.html data=site.data.talents.ele active="2301022" switch=true lang="en" %}
