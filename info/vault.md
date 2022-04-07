@@ -5,6 +5,7 @@ last_update: 2022-04-06
 wow: 9.2
 toc: true
 author: Amani
+image: https://cdn.discordapp.com/attachments/415854814031904768/961592334133362718/unknown.png
 ---
 
 Текстовая версия статьи в разработке. Видеоверсия доступна [по этой ссылке](https://youtu.be/dQw4w9WgXcQ).
