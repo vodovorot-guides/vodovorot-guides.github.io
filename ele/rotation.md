@@ -28,7 +28,7 @@ custom-javascript-list:
 </details>
 <p></p>
 
-> English version of this page [here](https://stormkeeper.ru/ele/rotation_en.html).
+* English version of this page [here](https://stormkeeper.ru/ele/rotation_en.html).
 
 # Выбор билда
 
