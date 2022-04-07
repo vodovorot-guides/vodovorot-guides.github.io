@@ -34,7 +34,7 @@ Enhance Shaman rotation breakdown. Spell priorities on this page change dynamica
 {% include talents.html data=site.data.talents.enh active="3201031" switch=true lang="en" %}
 
 
-**Important note!** Regardless of your build, talents, or type of combat – make sure you always have the weapon enhancements applied – [Windfury Weapon](https://www.wowhead.com/spell=33757/) и [Flametongue Weapon](https://www.wowhead.com/spell=318038/).
+**Important note!** Regardless of your build, talents, or type of combat, make sure you always have the weapon enhancements applied – [Windfury Weapon](https://www.wowhead.com/spell=33757/) and [Flametongue Weapon](https://www.wowhead.com/spell=318038/).
 {: class="bordered"}
 
 # Single Target
@@ -61,8 +61,7 @@ Enhance Shaman rotation breakdown. Spell priorities on this page change dynamica
 5. {:.doom-apl}[Feral Spirit](https://www.wowhead.com/spell=51533).
 6. {:.asc_enh-apl}[Ascendance](https://www.wowhead.com/spell=114051).
 6. {:.asc_enh-apl}[Windstrike](https://www.wowhead.com/spell=115356).
-1. {:.doom-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) for acti
-1. {{ site.data.spells.wt }} to activate [Doom Winds](https://www.wowhead.com/spell=335902) legendary effect.
+1. {:.doom-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) to activate [Doom Winds](https://www.wowhead.com/spell=335902) legendary effect.
 7. Follow the priority list.
 
 ## Priority List
@@ -188,7 +187,7 @@ Spell priority list against **2** or more targets that changes dynamically based
 170. {:.wolf-apl}[Windfury Totem](https://www.wowhead.com/spell=8512)
 
 
-# Важные моменты 
+# Important Notes 
 
 * [Windfury Totem](https://www.wowhead.com/spell=8512) is worth using if your group will be within its range for at least **45** seconds. Otherwise it's better to spend GCD on other abilities. 
 
