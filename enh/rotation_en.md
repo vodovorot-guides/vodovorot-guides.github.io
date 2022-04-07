@@ -190,12 +190,10 @@ Spell priority list against **2** or more targets that changes dynamically based
 
 # Важные моменты 
 
-* {{ site.data.spells.wt }} стоит использовать в том случае, если ваша группа будет находиться в его радиусе не менее **45** секунд. В противном случае лучше потратить ГКД на другие способности. 
-* Не стоит сразу тратить стаки [Maelstrom Weapon](https://www.wowhead.com/spell=187880), и не стоит уходить в оверкап. Лучше всего сливать их на **7-8** стаках, в удобное время между кулдаунами других способностей.
-* [Удар бури](https://www.wowhead.com/spell=17364/) с проком [Вестника шторма](https://www.wowhead.com/spell=201845/) имеет такой же высокий приоритет, что и без прока.
-* {:.hh-apl}Обратная ситуция с талантом {{ site.data.spells.hh }} – в бою против одной цели [Lava Lash](https://www.wowhead.com/spell=60103) с этим баффом имеет гораздо больший приоритет, чем без него.
-* {:.hh-apl}Во время прока баффа [Горячей руки](https://www.wowhead.com/spell=201900) всегда чередуйте [Lava Lash](https://www.wowhead.com/spell=60103) и следующую по приоритету способность. Кулдаун [Вскипания лавы](https://www.wowhead.com/spell=60103) под этим баффом всегда равняется одному ГКД. Исключение – бафф от Урта в Мифик+, под которым можно просто спамить [Вскипание лавы](https://www.wowhead.com/spell=60103).
-* Бафф [Ледяного шока](https://www.wowhead.com/spell=196840) на **40%** урона в патче **9.2** поднял его приоритет над [Сокрушающей молнией](https://www.wowhead.com/spell=187874) в бою против одной цели.
-* {:.asc_enh-apl}Перед применением [Перерождения](https://www.wowhead.com/spell=114051) всегда используйте [Stormstrike](https://www.wowhead.com/spell=17364), так как его кулдаун сбросится после активации этого таланта.
-* {:.doom-apl}Во время активного баффа от легендарки {{ site.data.legend.doom }} главная задача – нанести как можно больше ударов с **правой руки**, вызывая прок [Неистовства ветра](https://www.wowhead.com/spell=33757). К таким способностям относятся {{ site.data.spells.windstrike }}, [Stormstrike](https://www.wowhead.com/spell=17364), [Crash Lightning](https://www.wowhead.com/spell=187874/), [Sundering](https://www.wowhead.com/spell=197214) и автоатаки.
-* {:.doom-apl}За счет того, что [Crash Lightning](https://www.wowhead.com/spell=187874/) считается атакой с правой руки, шанс на прок [Оружия неистовства ветра](https://www.wowhead.com/spell=33757) рассчитывается на каждую пораженную цель.
+* [Windfury Totem](https://www.wowhead.com/spell=8512) is worth using if your group will be within its range for at least **45** seconds. Otherwise it's better to spend GCD on other abilities. 
+
+* Don't spend [Maelstrom Weapon](https://www.wowhead.com/spell=187880) immediately, and don't go into overcap. It's best to spend them at **7-8** stacks, at convenient time between CD's of other abilities.
+* [Stormstrike](https://www.wowhead.com/spell=17364/) with the [Stormbringer](https://www.wowhead.com/spell=201845/) proc has the same priority as without it.
+* {:.hh-apl}Opposite situation with [Lava Lash](https://www.wowhead.com/spell=60103) with [Hot Hand](https://www.wowhead.com/spell=201900) buff. In single target situation [Lava Lash](https://www.wowhead.com/spell=60103) has a much higher priority than without it.
+* {:.hh-apl}During the [Hot Hand](https://www.wowhead.com/spell=201900) buff **always** alternate [Lava Lash](https://www.wowhead.com/spell=60103) and the next highest priority ability. [Lava Lash](https://www.wowhead.com/spell=60103) cooldown with this buff is equal two GCD, no matter how many stats you have. The exception is Urh buff in Mythic+, when you can just spam [Lava Lash](https://www.wowhead.com/spell=60103) with no CD.
+
