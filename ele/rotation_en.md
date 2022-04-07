@@ -80,7 +80,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 4. {:.lmt-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
 23. {:.storm-apl}{{ site.data.spells.storm }}.
-  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+  * {:.primal_elem-apl}Don’t forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
 20. Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 21. {:.ft-apl .storm-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
 24. {:.asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
