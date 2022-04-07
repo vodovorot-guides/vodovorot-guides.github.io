@@ -12,12 +12,24 @@ custom-javascript-list:
 ---
 
 
-# Выбор билда
+# Talent Builds
 
 Enhance Shaman rotation breakdown. Spell priorities on this page change dynamically depending on selected talents, legendary and covenant. Original Russian page [here](https://stormkeeper.ru/enh/rotation.html). Author: [Amani](https://www.twitch.tv/amanizandalari), based on [Wordup's Enhancement Shaman Rotation Guide](https://www.wowhead.com/enhancement-shaman-rotation-guide).
 
 **Important note!** Priority list on this page dynamically changes depending on which talents, legendary and covenant are chosen. If any procs or buffs are not listed, then in this case they do not affect the priority of abilities. **All buttons below are clickable**.
 {: class="bordered"}
+
+
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
+      <a href="/enh/rotation.html" id="raid_build_enh" button="button" class="btn btn-outline-primary guide-btn">Set Raid build</a>
+      <a href="/enh/rotation.html" id="mplus_build_enh" button="button" class="btn btn-outline-primary guide-btn">Set Mythic+ build</a>
+    </div>
+  </div>
+</div>
+
+<p></p>
 
 {% include talents.html data=site.data.talents.enh active="3201031" switch=true lang="en" %}
 
@@ -34,7 +46,7 @@ Enhance Shaman rotation breakdown. Spell priorities on this page change dynamica
 1. {:.witch-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) before the pull, as close to the boss as possible.
 1. {:.actuators-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) before the pull, as close to the boss as possible.
 1. {:.wolf-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) before the pull, as close to the boss as possible.
-2. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) прекастом до пула.
+2. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) before the pull.
 3. {:.vt-apl}[Flame Shock](https://www.wowhead.com/spell=188389) on the way into melee.
 3. {:.ch-apl}[Flame Shock](https://www.wowhead.com/spell=188389) on the way into melee.
 3. {:.ft-apl}[Flame Shock](https://www.wowhead.com/spell=188389) on the way into melee.
@@ -101,80 +113,79 @@ Spell priority list that changes dynamically based on selected talents, legendar
 * {:.ft-apl .wolf-apl}Do not delay [Fae Transfusion](https://www.wowhead.com/spell=328923), if there are more than **30** seconds left until the [Feral Spirit](https://www.wowhead.com/spell=51533/) cooldown. However, it's depends on current encounter and total amount of [Fae Transfusion](https://www.wowhead.com/spell=328923) casts during the fight. Adapt to the situation.
 * {:.pw-apl}Before the [Lightning Bolt](https://www.wowhead.com/spell=188196) cast wit the [Primordial Wave](https://www.wowhead.com/spell=326059) buff cast as many [Flame Shocks](https://www.wowhead.com/spell=188389) as you can.
 * {:.pw-apl}When [Primordial Wave](https://www.wowhead.com/spell=326059) cooldown resetting by [Tumbling Waves](https://www.wowhead.com/spell=339186?ilvl=252) conduit, always consume it's buff with [Lightning Bolt](https://www.wowhead.com/spell=188196) before next [Primordial Wave](https://www.wowhead.com/spell=326059) cast.
-* {:.ch-apl}Keep an eye on [Chain Harvest](https://www.wowhead.com/spell=320674) cooldown during AoE encounder, because [Elemental Conduit](https://www.wowhead.com/spell=356250/) legendary can quickly reset it and you need to have at least **5** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
- во время АоЕ, так как легендарка [Elemental Conduit](https://www.wowhead.com/spell=356250/) стихий может очень быстро откатить её и к этому моменту у вас должно быть **5** стаков  [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+* {:.ch-apl}Keep an eye on [Chain Harvest](https://www.wowhead.com/spell=320674) cooldown during AoE encounder, because [Elemental Conduit](https://www.wowhead.com/spell=356250/) legendary can quickly reset it and you need to have at least **5** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks in that moment.
 
-# Бой на АоЕ
+# AoE Fight
 
-## Опенер
+## Opener
 
-**Опенер** – это фиксированный порядок способностей в самом начале боя.
+**Opener** is a fixed ordered list of abilities to use at the start of an encounter.
 
-1. {:.witch-apl}{{ site.data.spells.wt }} на подходе к паку.
-1. {:.actuators-apl}{{ site.data.spells.wt }} на подходе к паку.
-1. {:.wolf-apl}{{ site.data.spells.wt }} на подходе к паку.
-2. {:.sk_enh-apl}[Хранитель бурь](https://www.wowhead.com/spell=320137) прекастом до пула.
-3. [Flame Shock](https://www.wowhead.com/spell=188389) в самого живучего врага.
-3. {:.vt-apl}{{ site.data.covenants.vt }}.
-9. {{ site.data.spells.feral }}.
-7. {:.ft-apl}{{ site.data.covenants.ft }}.
+1. {:.witch-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) if it's not active.
+1. {:.actuators-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) if it's not active.
+1. {:.wolf-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) if it's not active.
+2. {:.sk_enh-apl[Stormkeeper](https://www.wowhead.com/spell=320137) before the pull.
+3. [Flame Shock](https://www.wowhead.com/spell=188389) to the most resilient enemy.
+3. {:.vt-apl}[Vesper Totem](https://www.wowhead.com/spell=324386).
+4. [Feral Spirit](https://www.wowhead.com/spell=51533).
+7. {:.ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923).
 11. {:.ft-apl}[Crash Lightning](https://www.wowhead.com/spell=187874/).
 12. {:.ch-apl}[Crash Lightning](https://www.wowhead.com/spell=187874/).
 13. {:.vt-apl}[Crash Lightning](https://www.wowhead.com/spell=187874/).
-14. [Lava Lash](https://www.wowhead.com/spell=60103) в цель под [Огненным шоком](https://www.wowhead.com/spell=188389).
-15. {:.pw-apl}{{ site.data.covenants.pw }} в цель, на которой нет [Огненного шока](https://www.wowhead.com/spell=188389).
-16. {:.pw-apl}[Flame Shock](https://www.wowhead.com/spell=188389), если отсутствует на одной из целей.
+14. [Lava Lash](https://www.wowhead.com/spell=60103) in the target with [Flame Shock](https://www.wowhead.com/spell=188389) debuff.
+15. {:.pw-apl}[Primordial Wave](https://www.wowhead.com/spell=326059) in the target without [Flame Shock](https://www.wowhead.com/spell=188389) debuff.
+16. {:.pw-apl}[Flame Shock](https://www.wowhead.com/spell=188389), if it miss on one of the targets.
 17. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974).
 18. {:.sunder-apl}[Sundering](https://www.wowhead.com/spell=197214).
 19. {:.pw-apl}[Crash Lightning](https://www.wowhead.com/spell=187874/).
-20. {:.pw-apl}[Lightning Bolt](https://www.wowhead.com/spell=188196) c баффом от [Первозданной волны](https://www.wowhead.com/spell=326059) и с **5+** стаками [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
-21. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
-22. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
-23. {:.doom-apl}{{ site.data.spells.wt }} для активации эффекта легендарки {{ site.data.legend.doom }}.
-24. Следуйте списку приоритетов.
+20. {:.pw-apl}[Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Primordial Wave](https://www.wowhead.com/spell=326059) buff and **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+21. {:.asc_enh-apl}[Ascendance](https://www.wowhead.com/spell=114051).
+22. {:.asc_enh-apl}[Windfury Totem](https://www.wowhead.com/spell=8512).
+14. {:.doom-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) to activate [Doom Winds](https://www.wowhead.com/spell=335902) legendary effect.
+7. Follow the priority list.
 
-## Список приоритетов
+## Priority list
 
-Ниже представлен список приоритетов в бою против **2** и более целей, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта. Если какой то прок или бафф не указаны, значит в данном случае они не влияют на приоритет способностей. 
+Spell priority list against **2** or more targets that changes dynamically based on selected talents, legendary and covenant. If any procs or buffs are not listed, then in this case they do not affect the priority of abilities.
 
-* {:.lf-apl}**Важно!** При игре с талантом {{ site.data.spells.lf }}, всегда старайтесь ударить [Вскипанием лавы](https://www.wowhead.com/spell=60103) по цели с [Огненным шоком](https://www.wowhead.com/spell=188389), но без дебаффа от [Хлещущего пламени](https://www.wowhead.com/spell=334046). Поддерживать дебафф от этого таланта на максимально возможном количестве целей – основа АоЕ ротации Энха. Используйте [этот мод на Plater](https://wago.io/o9Q7MSLDi) для удобного отслеживания наличия обоих дебаффов.
+* {:.lf-apl}**Important note!** When playing with [Lashing Flames](https://www.wowhead.com/spell=334046/), always try to hit a target with [Flame Shock](https://www.wowhead.com/spell=188389) with [Lava Lash](https://www.wowhead.com/spell=60103)), but without the debuff of [Lashing Flames](https://www.wowhead.com/spell=334046/). Maintaining the debuff from this talent on as many targets as possible is the basis of Enhance AoE rotation. Use [Plater Mod](https://wago.io/o9Q7MSLDi) to easily keep track of both debuffs.
 
-8. {:.witch-apl}{{ site.data.spells.wt }}, если тотем не активен.
-9. {:.actuators-apl}{{ site.data.spells.wt }}, если тотем не активен.
-1. {:.wolf-apl}{{ site.data.spells.wt }}, если тотем не активен.
-1. {{ site.data.spells.feral }}.
-4. {:.ft-apl}{{ site.data.covenants.ft }}. 
-1. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}, стараясь задеть максимальное количество целей при активации.
-15. {:.ch-apl}{{ site.data.covenants.ch }} with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
-1. {:.doom-apl}{{ site.data.spells.wt }}, если возможно получить бафф от легендарки {{ site.data.legend.doom }}.
-15. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974), если под [Огненным шоком](https://www.wowhead.com/spell=188389) **4+** цели.
-137. {:.pw-apl}{{ site.data.covenants.pw }}, если нет активного баффа от этого заклинания.
-143. {:.lf-apl}[Lava Lash](https://www.wowhead.com/spell=60103) по цели с [Огненным шоком](https://www.wowhead.com/spell=188389) без активного дебаффа от таланта {{ site.data.spells.lf }}.
+8. {:.witch-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) if it's not active.
+9. {:.actuators-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) if it's not active.
+1. {:.wolf-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) if it's not active.
+1. [Feral Spirit](https://www.wowhead.com/spell=51533).
+4. {:.ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923).
+1. {:.asc_enh-apl}[Ascendance](https://www.wowhead.com/spell=114051), trying to hit as many targets as possible.
+15. {:.ch-apl}[Chain Harvest](https://www.wowhead.com/spell=320674) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+1. {:.doom-apl}[Windfury Totem](https://www.wowhead.com/spell=8512), if you can receive [Doom Winds](https://www.wowhead.com/spell=335902) legendary effect.
+15. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974) if there atleast **4+** targets with [Flame Shock](https://www.wowhead.com/spell=188389) debuff.
+137. {:.pw-apl}[Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
+143. {:.lf-apl}[Lava Lash](https://www.wowhead.com/spell=60103) to target with [Flame Shock](https://www.wowhead.com/spell=188389) debuff, but without [Lashing Flames](https://www.wowhead.com/spell=334046/) debuff.
 6. [Flame Shock](https://www.wowhead.com/spell=188389) if it’s not up on a target.
-14. {:.pw-apl}[Lightning Bolt](https://www.wowhead.com/spell=188196), если есть бафф от [Первозданной волны](https://www.wowhead.com/spell=326059) и **5+** стаков [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
-2. {:.hailstorm-apl}[Frost Shock](https://www.wowhead.com/spell=196840), если есть бафф от [Бури с градом](https://www.wowhead.com/spell=334195).
-1. {:.doom-apl}[Crash Lightning](https://www.wowhead.com/spell=187874/), если есть бафф от [Ветров рока](https://www.wowhead.com/spell=335902).
-3. {:.sunder-apl}[Sundering](https://www.wowhead.com/spell=197214) на максимальное количество целей.
-139. {:.vt-apl}{{ site.data.covenants.vt }}.
-141. {:.sk_enh-apl}[Chain Lightning](https://www.wowhead.com/spell=188443/), если есть бафф от [Хранителя бурь](https://www.wowhead.com/spell=320137).
-142. [Crash Lightning](https://www.wowhead.com/spell=187874/), если бафф не активен.
-154. [Lava Lash](https://www.wowhead.com/spell=60103), если есть бафф от [Сокрушающей молнии](https://www.wowhead.com/spell=187874/).
-153. [Chain Lightning](https://www.wowhead.com/spell=188443/) при **8+** стаках [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
-156. [Stormstrike](https://www.wowhead.com/spell=17364), если есть бафф от [Сокрушающей молнии](https://www.wowhead.com/spell=187874/).
-157. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974), если под [Огненным шоком](https://www.wowhead.com/spell=188389) **2+** цели.
-158. {:.sk_enh-apl}[Хранитель бурь](https://www.wowhead.com/spell=320137) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+14. {:.pw-apl}[Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Primordial Wave](https://www.wowhead.com/spell=326059) buff and **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+2. {:.hailstorm-apl}[Frost Shock](https://www.wowhead.com/spell=196840) with the [Hailstorm](https://www.wowhead.com/spell=334195) buff.
+1. {:.doom-apl}[Crash Lightning](https://www.wowhead.com/spell=187874/) with the [Doom Winds](https://www.wowhead.com/spell=335902) buff.
+3. {:.sunder-apl}[Sundering](https://www.wowhead.com/spell=197214), trying to hit as many targets as possible.
+139. {:.vt-apl}[Vesper Totem](https://www.wowhead.com/spell=324386)
+141. {:.sk_enh-apl}[Chain Lightning](https://www.wowhead.com/spell=188443/) with the [Stormkeeper](https://www.wowhead.com/spell=320137) buff.
+142. [Crash Lightning](https://www.wowhead.com/spell=187874/) if the buff is inactive.
+154. [Lava Lash](https://www.wowhead.com/spell=60103) with the [Crash Lightning](https://www.wowhead.com/spell=187874/) buff.
+153. [Chain Lightning](https://www.wowhead.com/spell=188443/) with **8+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+156. [Stormstrike](https://www.wowhead.com/spell=17364) with the [Crash Lightning](https://www.wowhead.com/spell=187874/) buff.
+157. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974) if there **2+** targets with [Flame Shock](https://www.wowhead.com/spell=188389) debuff.
+158. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 159. [Crash Lightning](https://www.wowhead.com/spell=187874/).
-160. {:.asc_enh-apl}[Stormstrike](https://www.wowhead.com/spell=17364) / {{ site.data.spells.windstrike }}.
+160. {:.asc_enh-apl}[Stormstrike](https://www.wowhead.com/spell=17364) / [Windstrike](https://www.wowhead.com/spell=115356).
 161. {:.spirits-apl}[Stormstrike](https://www.wowhead.com/spell=17364).
 162. {:.spike-apl}[Stormstrike](https://www.wowhead.com/spell=17364).
 163. [Frost Shock](https://www.wowhead.com/spell=196840).
-164. {:.ch-apl}{{ site.data.covenants.ch }} with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
-165. {:.eb-apl}{{ site.data.spells.eb }} with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
-166. {:.is-apl}{{ site.data.spells.is }}.
-167. {:.spike-apl}{{ site.data.spells.spike }}.
-168. {:.witch-apl}{{ site.data.spells.wt }}.
-169. {:.actuators-apl}{{ site.data.spells.wt }}.
-170. {:.wolf-apl}{{ site.data.spells.wt }}.
+164. {:.ch-apl}[Chain Harvest](https://www.wowhead.com/spell=320674) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+165. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+166. {:.is-apl}[Ice Strike](https://www.wowhead.com/spell=342240).
+167. {:.spike-apl}[Earthen Spike](https://www.wowhead.com/spell=188089).
+168. {:.witch-apl}[Windfury Totem](https://www.wowhead.com/spell=8512)
+169. {:.actuators-apl}[Windfury Totem](https://www.wowhead.com/spell=8512)
+170. {:.wolf-apl}[Windfury Totem](https://www.wowhead.com/spell=8512)
 
 
 # Важные моменты 
