@@ -15,7 +15,7 @@ custom-javascript-list:
 
 Enhance Shaman rotation breakdown. Spell priorities on this page change dynamically depending on selected talents, legendary and covenant. Original Russian page [here](https://stormkeeper.ru/enh/rotation.html). Author: [Amani](https://www.twitch.tv/amanizandalari), based on [Wordup's Enhancement Shaman Rotation Guide](https://www.wowhead.com/enhancement-shaman-rotation-guide).
 
-**Important note!** Priority list on this page dynamically changes depending on which talents, legendary and covenant are chosen. If any procs or buffs are not listed, then in this case they do not affect the priority of abilities. **All buttons below are clickable**.
+**Important note!** Priority list on this page dynamically changes depending on which talents, legendary and covenant are chosen. If any procs or buffs are not listed, then they do not affect the priority of abilities. **All buttons below are clickable**.
 {: class="bordered"}
 
 
@@ -93,7 +93,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 19. {:.flurry-apl}[Stormstrike](https://www.wowhead.com/spell=17364) with the [Stormbringer](https://www.wowhead.com/spell=201845/) buff.
 20. {:.sk_enh-apl}[Chain Lightning](https://www.wowhead.com/spell=188443/) with the [Stormkeeper](https://www.wowhead.com/spell=320137) buff.
 21. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
-22. {:.ch-apl}{{ site.data.covenants.ch }} with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+22. {:.ch-apl}[Chain Harvest](https://www.wowhead.com/spell=320674) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 24. [Lightning Bolt](https://www.wowhead.com/spell=188196) with **8+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 26. [Stormstrike](https://www.wowhead.com/spell=17364).
 23. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
@@ -107,11 +107,12 @@ Spell priority list that changes dynamically based on selected talents, legendar
 32. [Flame Shock](https://www.wowhead.com/spell=188389). 
 37. [Windfury Totem](https://www.wowhead.com/spell=8512) if all other abilities are unavailable.
 
-* {:.vt-apl}<span style="color:#68ccef;font-size:1em;">Kyran</span> can activate [Raging Vesper Vortex](https://www.wowhead.com/spell=356789/) legendary effect with one cast of [Healing Stream Totem](https://www.wowhead.com/spell=5394) and two [Earth Shield](https://www.wowhead.com/spell=974) casts.
-* {:.ft-apl .wolf-apl}Do not delay [Fae Transfusion](https://www.wowhead.com/spell=328923), if there are more than **30** seconds left until the [Feral Spirit](https://www.wowhead.com/spell=51533/) cooldown. However, it's depends on current encounter and total amount of [Fae Transfusion](https://www.wowhead.com/spell=328923) casts during the fight. Adapt to the situation.
-* {:.pw-apl}Before the [Lightning Bolt](https://www.wowhead.com/spell=188196) cast wit the [Primordial Wave](https://www.wowhead.com/spell=326059) buff cast as many [Flame Shocks](https://www.wowhead.com/spell=188389) as you can.
-* {:.pw-apl}When [Primordial Wave](https://www.wowhead.com/spell=326059) cooldown resetting by [Tumbling Waves](https://www.wowhead.com/spell=339186?ilvl=252) conduit, always consume it's buff with [Lightning Bolt](https://www.wowhead.com/spell=188196) before next [Primordial Wave](https://www.wowhead.com/spell=326059) cast.
-* {:.ch-apl}Keep an eye on [Chain Harvest](https://www.wowhead.com/spell=320674) cooldown during AoE encounder, because [Elemental Conduit](https://www.wowhead.com/spell=356250/) legendary can quickly reset it and you need to have at least **5** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks in that moment.
+* {:.vt-apl}<span style="color:#68ccef;font-size:1em;">Kyrian</span> can activate the [Raging Vesper Vortex](https://www.wowhead.com/spell=356789/) legendary effect with one cast of [Healing Stream Totem](https://www.wowhead.com/spell=5394) and two [Earth Shield](https://www.wowhead.com/spell=974) casts.
+* {:.ft-apl .wolf-apl}Do not delay [Fae Transfusion](https://www.wowhead.com/spell=328923) if there are more than **30** seconds left until the [Feral Spirit](https://www.wowhead.com/spell=51533/)cooldown. However, it depends on the current encounter and the total amount of [Fae Transfusion](https://www.wowhead.com/spell=328923) casts during the fight. Adapt to the situation.
+* {:.pw-apl}Before the [Lightning Bolt](https://www.wowhead.com/spell=188196) cast wit the [Primordial Wave](https://www.wowhead.com/spell=326059) buff, cast as many [Flame Shocks](https://www.wowhead.com/spell=188389) as you can.
+* {:.pw-apl}When [Primordial Wave's](https://www.wowhead.com/spell=326059) cooldown is reset by the [Tumbling Waves](https://www.wowhead.com/spell=339186?ilvl=252) conduit, always consume its buff with [Lightning Bolt](https://www.wowhead.com/spell=188196) before the next [Primordial Wave](https://www.wowhead.com/spell=326059) cast.
+* When [Primordial Wave](https://www.wowhead.com/spell=326059) cooldown resetting by [Tumbling Waves](https://www.wowhead.com/spell=339186?ilvl=252) conduit, always consume it's buff with [Lightning Bolt](https://www.wowhead.com/spell=188196) before next [Primordial Wave](https://www.wowhead.com/spell=326059) cast.
+* {:.ch-apl}Keep an eye on your [Chain Harvest](https://www.wowhead.com/spell=320674) cooldown during an AoE encounter because the [Elemental Conduit](https://www.wowhead.com/spell=356250/) legendary can quickly reset it, and you need to have at least **5** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks at that moment.
 
 # AoE Fight
 
@@ -144,7 +145,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 ## Priority list
 
-Spell priority list against **2** or more targets that changes dynamically based on selected talents, legendary and covenant. If any procs or buffs are not listed, then in this case they do not affect the priority of abilities.
+Spell priority list against **2** or more targets that changes dynamically based on selected talents, legendary and covenant. If any procs or buffs are not listed, then they do not affect the priority of abilities.
 
 * {:.lf-apl}**Important note!** When playing with [Lashing Flames](https://www.wowhead.com/spell=334046/), always try to hit a target with [Flame Shock](https://www.wowhead.com/spell=188389) with [Lava Lash](https://www.wowhead.com/spell=60103)), but without the debuff of [Lashing Flames](https://www.wowhead.com/spell=334046/). Maintaining the debuff from this talent on as many targets as possible is the basis of Enhance AoE rotation. Use [Plater Mod](https://wago.io/o9Q7MSLDi) to easily keep track of both debuffs.
 
@@ -188,9 +189,9 @@ Spell priority list against **2** or more targets that changes dynamically based
 
 # Important Notes 
 
-* [Windfury Totem](https://www.wowhead.com/spell=8512) is worth using if your group will be within its range for at least **45** seconds. Otherwise it's better to spend GCD on other abilities. 
-* Don't spend [Maelstrom Weapon](https://www.wowhead.com/spell=187880) immediately, and don't go into overcap. It's best to spend them at **7-8** stacks, at convenient time between CD's of other abilities.
+* [Windfury Totem](https://www.wowhead.com/spell=8512) is worth using if your group will be within its range for at least **45** seconds. Otherwise, it’s better to spend the GCD on other abilities.
+* Don't spend [Maelstrom Weapon](https://www.wowhead.com/spell=187880) immediately, and don’t overcap. It’s best to spend them at **7-8** stacks, at convenient time between CD’s of other abilities.
 * [Stormstrike](https://www.wowhead.com/spell=17364/) with the [Stormbringer](https://www.wowhead.com/spell=201845/) proc has the same priority as without it.
-* {:.hh-apl}Opposite situation – [Lava Lash](https://www.wowhead.com/spell=60103) with [Hot Hand](https://www.wowhead.com/spell=201900) buff. In single target situation [Lava Lash](https://www.wowhead.com/spell=60103) has a much higher priority than without it.
-* {:.hh-apl}During the [Hot Hand](https://www.wowhead.com/spell=201900) buff **always** alternate [Lava Lash](https://www.wowhead.com/spell=60103) and the next highest priority ability. [Lava Lash](https://www.wowhead.com/spell=60103) cooldown with this buff is equal two GCD, no matter how many stats you have. The exception is Urh buff in Mythic+, when you can just spam [Lava Lash](https://www.wowhead.com/spell=60103) with no CD.
+* {:.hh-apl}Opposite situation – [Lava Lash](https://www.wowhead.com/spell=60103) with [Hot Hand](https://www.wowhead.com/spell=201900) buff. In single target situation, [Lava Lash](https://www.wowhead.com/spell=60103) has a much higher priority than without it.
+* {:.hh-apl}During the [Hot Hand](https://www.wowhead.com/spell=201900) buff **always** alternate [Lava Lash](https://www.wowhead.com/spell=60103) and the next highest priority ability. Lava Lash's cooldown with this buff is equal two GCD’s, no matter how much haste you have. The exception is Urh buff in Mythic+, when you can just spam [Lava Lash](https://www.wowhead.com/spell=60103) with no CD.
 
