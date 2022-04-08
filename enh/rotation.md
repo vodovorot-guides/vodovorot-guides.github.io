@@ -179,17 +179,17 @@ custom-javascript-list:
 141. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
 142. {{ site.data.spells.crush }}, если бафф не активен.
 154. {{ site.data.spells.ll }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
-153. {{ site.data.spells.cl }} при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-156. {{ site.data.spells.ss }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
-157. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2+** цели.
-158. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-159. {{ site.data.spells.crush }}.
-160. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
-161. {:.spirits-apl}{{ site.data.spells.ss }}.
-162. {:.spike-apl}{{ site.data.spells.ss }}.
-163. {{ site.data.spells.frs }}.
-153. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 165. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+156. {{ site.data.spells.cl }} при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+157. {{ site.data.spells.ss }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
+158. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2+** цели.
+159. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+160. {{ site.data.spells.crush }}.
+161. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
+162. {:.spirits-apl}{{ site.data.spells.ss }}.
+163. {:.spike-apl}{{ site.data.spells.ss }}.
+164. {{ site.data.spells.frs }}.
+165. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 166. {:.is-apl}{{ site.data.spells.is }}.
 167. {:.spike-apl}{{ site.data.spells.spike }}.
 168. {:.witch-apl}{{ site.data.spells.wt }}.
