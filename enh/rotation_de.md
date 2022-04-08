@@ -170,17 +170,17 @@ Spell priority List gegen **2** oder mehr Ziele welche sich Dynamisch verändert
 141. {:.sk_enh-apl}[Kettenblitzschlag](https://de.wowhead.com/spell=188443/) mit dem [Sturmhüter](https://de.wowhead.com/spell=320137) buff.
 142. [Tobende Blitze](https://de.wowhead.com/spell=187874/) wenn der Buff nicht aktiv ist.
 154. [Lavapeitsche](https://de.wowhead.com/spell=60103) mit dem [Tobende Blitze](https://de.wowhead.com/spell=187874/) buff.
-153. [Kettenblitzschlag](https://de.wowhead.com/spell=188443/) mit **10** [Waffe des Mahlstroms](https://de.wowhead.com/spell=187880) stacks.
-156. [Sturmschlag](https://de.wowhead.com/spell=17364) mit dem [Tobende Blitze](https://de.wowhead.com/spell=187874/) buff.
-157. {:.fn-apl}[Feuernova](https://de.wowhead.com/spell=333974) wenn es **2+** targets mit dem [Flammenschock](https://de.wowhead.com/spell=188389) debuff hat.
-158. {:.sk_enh-apl}[Sturmhüter](https://de.wowhead.com/spell=320137) mit **5+** [Waffe des Mahlstroms](https://de.wowhead.com/spell=187880) stacks.
-159. [Tobende Blitze](https://de.wowhead.com/spell=187874/).
-160. {:.asc_enh-apl}[Sturmschlag](https://de.wowhead.com/spell=17364) / [Windschlag](https://de.wowhead.com/spell=115356).
-161. {:.spirits-apl}[Sturmschlag](https://de.wowhead.com/spell=17364).
-162. {:.spike-apl}[Sturmschlag](https://de.wowhead.com/spell=17364).
-163. [Frostschock](https://de.wowhead.com/spell=196840).
-164. {:.ch-apl}[Kettenernte](https://de.wowhead.com/spell=320674) mit **5+** [Waffe des Mahlstroms](https://de.wowhead.com/spell=187880) stacks.
 165. {:.eb-apl}[Elementarschlag](https://de.wowhead.com/spell=117014) mit **5+** [Waffe des Mahlstroms](https://de.wowhead.com/spell=187880) stacks.
+156. [Kettenblitzschlag](https://de.wowhead.com/spell=188443/) mit **10** [Waffe des Mahlstroms](https://de.wowhead.com/spell=187880) stacks.
+157. [Sturmschlag](https://de.wowhead.com/spell=17364) mit dem [Tobende Blitze](https://de.wowhead.com/spell=187874/) buff.
+158. {:.fn-apl}[Feuernova](https://de.wowhead.com/spell=333974) wenn es **2+** targets mit dem [Flammenschock](https://de.wowhead.com/spell=188389) debuff hat.
+159. {:.sk_enh-apl}[Sturmhüter](https://de.wowhead.com/spell=320137) mit **5+** [Waffe des Mahlstroms](https://de.wowhead.com/spell=187880) stacks.
+160. [Tobende Blitze](https://de.wowhead.com/spell=187874/).
+161. {:.asc_enh-apl}[Sturmschlag](https://de.wowhead.com/spell=17364) / [Windschlag](https://de.wowhead.com/spell=115356).
+162. {:.spirits-apl}[Sturmschlag](https://de.wowhead.com/spell=17364).
+163. {:.spike-apl}[Sturmschlag](https://de.wowhead.com/spell=17364).
+164. [Frostschock](https://de.wowhead.com/spell=196840).
+165. {:.ch-apl}[Kettenernte](https://de.wowhead.com/spell=320674) mit **5+** [Waffe des Mahlstroms](https://de.wowhead.com/spell=187880) stacks.
 166. {:.is-apl}[Eisstoß](https://de.wowhead.com/spell=342240).
 167. {:.spike-apl}[Irdener Stachel](https://de.wowhead.com/spell=188089).
 168. {:.witch-apl}[Totem des Windzorns](https://de.wowhead.com/spell=8512)
