@@ -22,8 +22,8 @@ Enhance Shaman rotation breakdown. Spell priorities on this page change dynamica
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="/enh/rotation.html" id="raid_build_enh" button="button" class="btn btn-outline-primary guide-btn">Set Raid build</a>
-      <a href="/enh/rotation.html" id="mplus_build_enh" button="button" class="btn btn-outline-primary guide-btn">Set Mythic+ build</a>
+      <a href="/enh/rotation.html" id="raid_build_enh" button="button" class="btn btn-outline-primary guide-btn">Set Raid Build</a>
+      <a href="/enh/rotation.html" id="mplus_build_enh" button="button" class="btn btn-outline-primary guide-btn">Set Mythic+ Build</a>
     </div>
   </div>
 </div>
