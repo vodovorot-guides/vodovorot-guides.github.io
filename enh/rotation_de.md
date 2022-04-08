@@ -5,7 +5,6 @@ last_update: 2022-04-05
 wow: 9.2
 toc: true
 author: Amani
-übersetzt aus dem Englischen: Fabio
 description: Verstärker Schamanen rotation breakdown. Spell Prioritäten auf dieser Seite ändern sich Dynamisch und sind abhängig von den ausgewählten Talenten, Legendary und Covenant.
 custom-javascript-list:
     - "/assets/js/rotation_switches.js"
@@ -14,7 +13,7 @@ custom-javascript-list:
 
 # Talent Builds
 
-Verstärker Schamanen rotation breakdown. Spell Prioritäten auf dieser Seite ändern sich Dynamisch und sind abhängig von den ausgewählten Talenten, Legendary und covenant. Originale Russische Seite [hier](https://stormkeeper.ru/enh/rotation.html). Autor: [Amani](https://www.twitch.tv/amanizandalari), basiert auf [Wordup's Enhancement Shaman Rotation Guide](https://www.wowhead.com/enhancement-shaman-rotation-guide).
+Verstärker Schamanen rotation breakdown. Spell Prioritäten auf dieser Seite ändern sich Dynamisch und sind abhängig von den ausgewählten Talenten, Legendary und covenant. Originale Russische Seite [hier](https://stormkeeper.ru/enh/rotation.html). Autor: [Amani](https://www.twitch.tv/amanizandalari), basiert auf [Wordup's Enhancement Shaman Rotation Guide](https://www.wowhead.com/enhancement-shaman-rotation-guide). Übersetzt aus dem Englischen: Fabio.
 
 **Wichtig!** Die Priority Liste auf dieser Seite ändert sich dynamisch, abhängig von Talenten, Legendarys und covenant. Wenn Procs oder Buffs nicht aufgelistet sind, haben sie keinen Einfluss auf die Priorität der Fähigkeiten. **Alle Buttons unten sind klickbar**.
 {: class="bordered"}
