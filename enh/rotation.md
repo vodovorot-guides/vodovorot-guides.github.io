@@ -104,17 +104,17 @@ custom-javascript-list:
 20. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
 21. {:.eb-apl}{{ site.data.spells.eb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 22. {:.ch-apl}{{ site.data.covenants.ch }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-24. {{ site.data.spells.lb }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+24. {{ site.data.spells.lb }} при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 26. {{ site.data.spells.ss }}.
-23. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+27. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 29. {{ site.data.spells.ll }}.
 36. {{ site.data.spells.lb }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 34. {:.sunder-apl}{{ site.data.spells.sunder }}.
 32. {{ site.data.spells.frs }}. 
-30. {{ site.data.spells.crush }}.
+32. {{ site.data.spells.crush }}.
 33. {:.is-apl}{{ site.data.spells.is }}.
 35. {:.fn-apl}{{ site.data.spells.fn }}.
-32. {{ site.data.spells.fs }}. 
+35. {{ site.data.spells.fs }}. 
 37. {{ site.data.spells.wt }}, если все другие способности недоступны.
 
 * {:.vt-apl}<span style="color:#68ccef;font-size:1em;">Кирии</span> могут активировать эффект  легендарки [Яростный перезвон](https://ru.wowhead.com/spell=356789/) с помощью одного каста [Тотема исцеляющего потока](https://ru.wowhead.com/spell=5394) и двух кастов [Щита земли](https://ru.wowhead.com/spell=974).
@@ -178,7 +178,7 @@ custom-javascript-list:
 141. {:.sk_enh-apl}{{ site.data.spells.cl }}, если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=320137).
 142. {{ site.data.spells.crush }}, если бафф не активен.
 154. {{ site.data.spells.ll }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
-153. {{ site.data.spells.cl }} при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+153. {{ site.data.spells.cl }} при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 156. {{ site.data.spells.ss }}, если есть бафф от [Сокрушающей молнии](https://ru.wowhead.com/spell=187874/).
 157. {:.fn-apl}{{ site.data.spells.fn }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) **2+** цели.
 158. {:.sk_enh-apl}[Хранитель бурь](https://ru.wowhead.com/spell=320137) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
