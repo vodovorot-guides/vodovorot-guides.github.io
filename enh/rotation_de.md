@@ -95,7 +95,7 @@ Spell priority List welche sich Dynmisch verändert abhängig von ausgewählten 
 20. {:.sk_enh-apl}[Kettenblitzschlag](https://www.wowhead.com/spell=188443/) mit dem [Sturmhüter](https://www.wowhead.com/spell=320137) buff.
 21. {:.eb-apl}[Elementarschlag](https://www.wowhead.com/spell=117014) mit **5+** [Waffe des Mahlstroms](https://www.wowhead.com/spell=187880) stacks.
 22. {:.ch-apl}[Kettenernte](https://www.wowhead.com/spell=320674) mit **5+** [Waffe des Mahlstroms](https://www.wowhead.com/spell=187880) stacks.
-24. [Blitzschlag](https://www.wowhead.com/spell=188196) mit **8+** [Waffe des Mahlstroms](https://www.wowhead.com/spell=187880) stacks.
+24. [Blitzschlag](https://www.wowhead.com/spell=188196) mit **10** [Waffe des Mahlstroms](https://www.wowhead.com/spell=187880) stacks.
 26. [Sturmschlag](https://www.wowhead.com/spell=17364).
 23. {:.sk_enh-apl}[Sturmhüter](https://www.wowhead.com/spell=320137) mit **5+** [Waffe des Mahlstroms](https://www.wowhead.com/spell=187880) stacks.
 29. [Lavapeitsche](https://www.wowhead.com/spell=60103).
@@ -169,7 +169,7 @@ Spell priority List gegen **2** oder mehr Ziele welche sich Dynamisch verändert
 141. {:.sk_enh-apl}[Kettenblitzschlag](https://www.wowhead.com/spell=188443/) mit dem [Sturmhüter](https://www.wowhead.com/spell=320137) buff.
 142. [Tobende Blitze](https://www.wowhead.com/spell=187874/) wenn der Buff nicht aktiv ist.
 154. [Lavapeitsche](https://www.wowhead.com/spell=60103) mit dem [Tobende Blitze](https://www.wowhead.com/spell=187874/) buff.
-153. [Kettenblitzschlag](https://www.wowhead.com/spell=188443/) mit **8+** [Waffe des Mahlstroms](https://www.wowhead.com/spell=187880) stacks.
+153. [Kettenblitzschlag](https://www.wowhead.com/spell=188443/) mit **10** [Waffe des Mahlstroms](https://www.wowhead.com/spell=187880) stacks.
 156. [Sturmschlag](https://www.wowhead.com/spell=17364) mit dem [Tobende Blitze](https://www.wowhead.com/spell=187874/) buff.
 157. {:.fn-apl}[Feuernova](https://www.wowhead.com/spell=333974) wenn es **2+** targets mit dem [Flammenschock](https://www.wowhead.com/spell=188389) debuff hat.
 158. {:.sk_enh-apl}[Sturmhüter](https://www.wowhead.com/spell=320137) mit **5+** [Waffe des Mahlstroms](https://www.wowhead.com/spell=187880) stacks.
