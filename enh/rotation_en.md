@@ -189,7 +189,6 @@ Spell priority list against **2** or more targets that changes dynamically based
 # Important Notes 
 
 * [Windfury Totem](https://www.wowhead.com/spell=8512) is worth using if your group will be within its range for at least **45** seconds. Otherwise it's better to spend GCD on other abilities. 
-
 * Don't spend [Maelstrom Weapon](https://www.wowhead.com/spell=187880) immediately, and don't go into overcap. It's best to spend them at **7-8** stacks, at convenient time between CD's of other abilities.
 * [Stormstrike](https://www.wowhead.com/spell=17364/) with the [Stormbringer](https://www.wowhead.com/spell=201845/) proc has the same priority as without it.
 * {:.hh-apl}Opposite situation with [Lava Lash](https://www.wowhead.com/spell=60103) with [Hot Hand](https://www.wowhead.com/spell=201900) buff. In single target situation [Lava Lash](https://www.wowhead.com/spell=60103) has a much higher priority than without it.
