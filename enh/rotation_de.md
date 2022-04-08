@@ -94,7 +94,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 20. {:.sk_enh-apl}[Chain Lightning](https://www.wowhead.com/spell=188443/) with the [Stormkeeper](https://www.wowhead.com/spell=320137) buff.
 21. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 22. {:.ch-apl}[Chain Harvest](https://www.wowhead.com/spell=320674) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
-24. [Lightning Bolt](https://www.wowhead.com/spell=188196) with **8+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+24. [Lightning Bolt](https://www.wowhead.com/spell=188196) with **10** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 26. [Stormstrike](https://www.wowhead.com/spell=17364).
 23. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 29. [Lava Lash](https://www.wowhead.com/spell=60103).
@@ -168,7 +168,7 @@ Spell priority list against **2** or more targets that changes dynamically based
 141. {:.sk_enh-apl}[Chain Lightning](https://www.wowhead.com/spell=188443/) with the [Stormkeeper](https://www.wowhead.com/spell=320137) buff.
 142. [Crash Lightning](https://www.wowhead.com/spell=187874/) if the buff is inactive.
 154. [Lava Lash](https://www.wowhead.com/spell=60103) with the [Crash Lightning](https://www.wowhead.com/spell=187874/) buff.
-153. [Chain Lightning](https://www.wowhead.com/spell=188443/) with **8+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+153. [Chain Lightning](https://www.wowhead.com/spell=188443/) with **10** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 156. [Stormstrike](https://www.wowhead.com/spell=17364) with the [Crash Lightning](https://www.wowhead.com/spell=187874/) buff.
 157. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974) if there **2+** targets with [Flame Shock](https://www.wowhead.com/spell=188389) debuff.
 158. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
