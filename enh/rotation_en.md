@@ -170,17 +170,16 @@ Spell priority list against **2** or more targets that changes dynamically based
 141. {:.sk_enh-apl}[Chain Lightning](https://www.wowhead.com/spell=188443/) with the [Stormkeeper](https://www.wowhead.com/spell=320137) buff.
 142. [Crash Lightning](https://www.wowhead.com/spell=187874/) if the buff is inactive.
 154. [Lava Lash](https://www.wowhead.com/spell=60103) with the [Crash Lightning](https://www.wowhead.com/spell=187874/) buff.
-153. [Chain Lightning](https://www.wowhead.com/spell=188443/) with **10** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
-156. [Stormstrike](https://www.wowhead.com/spell=17364) with the [Crash Lightning](https://www.wowhead.com/spell=187874/) buff.
-157. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974) if there **2+** targets with [Flame Shock](https://www.wowhead.com/spell=188389) debuff.
-158. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
-159. [Crash Lightning](https://www.wowhead.com/spell=187874/).
-160. {:.asc_enh-apl}[Stormstrike](https://www.wowhead.com/spell=17364) / [Windstrike](https://www.wowhead.com/spell=115356).
-161. {:.spirits-apl}[Stormstrike](https://www.wowhead.com/spell=17364).
-162. {:.spike-apl}[Stormstrike](https://www.wowhead.com/spell=17364).
-163. [Frost Shock](https://www.wowhead.com/spell=196840).
-164. {:.ch-apl}[Chain Harvest](https://www.wowhead.com/spell=320674) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 165. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+156. [Chain Lightning](https://www.wowhead.com/spell=188443/) with **10** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+157. [Stormstrike](https://www.wowhead.com/spell=17364) with the [Crash Lightning](https://www.wowhead.com/spell=187874/) buff.
+158. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974) if there **2+** targets with [Flame Shock](https://www.wowhead.com/spell=188389) debuff.
+159. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+160. [Crash Lightning](https://www.wowhead.com/spell=187874/).
+161. {:.asc_enh-apl}[Stormstrike](https://www.wowhead.com/spell=17364) / [Windstrike](https://www.wowhead.com/spell=115356).
+162. {:.spirits-apl}[Stormstrike](https://www.wowhead.com/spell=17364).
+163. {:.spike-apl}[Stormstrike](https://www.wowhead.com/spell=17364).
+164. [Frost Shock](https://www.wowhead.com/spell=196840).
 166. {:.is-apl}[Ice Strike](https://www.wowhead.com/spell=342240).
 167. {:.spike-apl}[Earthen Spike](https://www.wowhead.com/spell=188089).
 168. {:.witch-apl}[Windfury Totem](https://www.wowhead.com/spell=8512)
