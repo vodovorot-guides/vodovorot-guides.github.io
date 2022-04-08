@@ -6,7 +6,6 @@ wow: 9.2
 toc: true
 author: Amani
 description: Enhancement Shaman rotation breakdown. Spell priorities on this page change dynamically depending on selected talents, legendary and covenant.
-image: /assets/img/logos/rotation.png
 custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
