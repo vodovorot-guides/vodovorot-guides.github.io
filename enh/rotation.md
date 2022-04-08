@@ -24,6 +24,7 @@ custom-javascript-list:
 <p></p>
 
 * English version of this page [here](https://stormkeeper.ru/enh/rotation_en.html).
+* German version of this page [here](https://stormkeeper.ru/enh/rotation_de.html).
 
 # Выбор билда
 
