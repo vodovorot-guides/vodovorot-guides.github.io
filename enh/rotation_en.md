@@ -130,7 +130,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 11. {:.ft-apl}[Crash Lightning](https://www.wowhead.com/spell=187874/).
 12. {:.ch-apl}[Crash Lightning](https://www.wowhead.com/spell=187874/).
 13. {:.vt-apl}[Crash Lightning](https://www.wowhead.com/spell=187874/).
-14. [Lava Lash](https://www.wowhead.com/spell=60103) in the target with [Flame Shock](https://www.wowhead.com/spell=188389) debuff.
+14. [Lava Lash](https://www.wowhead.com/spell=60103) on the target with [Flame Shock](https://www.wowhead.com/spell=188389) debuff.
 15. {:.pw-apl}[Primordial Wave](https://www.wowhead.com/spell=326059) in the target without [Flame Shock](https://www.wowhead.com/spell=188389) debuff.
 16. {:.pw-apl}[Flame Shock](https://www.wowhead.com/spell=188389), if it miss on one of the targets.
 17. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974).
