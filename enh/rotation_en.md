@@ -10,6 +10,8 @@ custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
 
+* Russian version of this page is [here](https://stormkeeper.ru/enh/rotation.html).
+* German version of this page is [here](https://stormkeeper.ru/enh/rotation_de.html).
 
 # Talent Builds
 
