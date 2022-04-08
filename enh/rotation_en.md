@@ -94,17 +94,17 @@ Spell priority list that changes dynamically based on selected talents, legendar
 20. {:.sk_enh-apl}[Chain Lightning](https://www.wowhead.com/spell=188443/) with the [Stormkeeper](https://www.wowhead.com/spell=320137) buff.
 21. {:.eb-apl}[Elemental Blast](https://www.wowhead.com/spell=117014) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 22. {:.ch-apl}[Chain Harvest](https://www.wowhead.com/spell=320674) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
-24. [Lightning Bolt](https://www.wowhead.com/spell=188196) with **8+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+24. [Lightning Bolt](https://www.wowhead.com/spell=188196) with **10** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 26. [Stormstrike](https://www.wowhead.com/spell=17364).
-23. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+27. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 29. [Lava Lash](https://www.wowhead.com/spell=60103).
 36. [Lightning Bolt](https://www.wowhead.com/spell=188196) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 34. {:.sunder-apl}[Sundering](https://www.wowhead.com/spell=197214).
 32. [Frost Shock](https://www.wowhead.com/spell=196840). 
-30. [Crash Lightning](https://www.wowhead.com/spell=187874/).
+32. [Crash Lightning](https://www.wowhead.com/spell=187874/).
 33. {:.is-apl}[Ice Strike](https://www.wowhead.com/spell=342240).
 35. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974).
-32. [Flame Shock](https://www.wowhead.com/spell=188389). 
+35. [Flame Shock](https://www.wowhead.com/spell=188389). 
 37. [Windfury Totem](https://www.wowhead.com/spell=8512) if all other abilities are unavailable.
 
 * {:.vt-apl}<span style="color:#68ccef;font-size:1em;">Kyrian</span> can activate the [Raging Vesper Vortex](https://www.wowhead.com/spell=356789/) legendary effect with one cast of [Healing Stream Totem](https://www.wowhead.com/spell=5394) and two [Earth Shield](https://www.wowhead.com/spell=974) casts.
@@ -168,7 +168,7 @@ Spell priority list against **2** or more targets that changes dynamically based
 141. {:.sk_enh-apl}[Chain Lightning](https://www.wowhead.com/spell=188443/) with the [Stormkeeper](https://www.wowhead.com/spell=320137) buff.
 142. [Crash Lightning](https://www.wowhead.com/spell=187874/) if the buff is inactive.
 154. [Lava Lash](https://www.wowhead.com/spell=60103) with the [Crash Lightning](https://www.wowhead.com/spell=187874/) buff.
-153. [Chain Lightning](https://www.wowhead.com/spell=188443/) with **8+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
+153. [Chain Lightning](https://www.wowhead.com/spell=188443/) with **10** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
 156. [Stormstrike](https://www.wowhead.com/spell=17364) with the [Crash Lightning](https://www.wowhead.com/spell=187874/) buff.
 157. {:.fn-apl}[Fire Nova](https://www.wowhead.com/spell=333974) if there **2+** targets with [Flame Shock](https://www.wowhead.com/spell=188389) debuff.
 158. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) with **5+** [Maelstrom Weapon](https://www.wowhead.com/spell=187880) stacks.
