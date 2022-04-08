@@ -148,7 +148,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 Spell priority list against **2** or more targets that changes dynamically based on selected talents, legendary and covenant. If any procs or buffs are not listed, then they do not affect the priority of abilities.
 
-* {:.lf-apl}**Important note!** When playing with [Lashing Flames](https://www.wowhead.com/spell=334046/), always try to hit a target with [Flame Shock](https://www.wowhead.com/spell=188389) with [Lava Lash](https://www.wowhead.com/spell=60103)), but without the debuff of [Lashing Flames](https://www.wowhead.com/spell=334046/). Maintaining the debuff from this talent on as many targets as possible is the basis of Enhance AoE rotation. Use [Plater Mod](https://wago.io/o9Q7MSLDi) to easily keep track of both debuffs.
+* {:.lf-apl}**Important note!** When playing with [Lashing Flames](https://www.wowhead.com/spell=334046/), always try to hit a target with [Flame Shock](https://www.wowhead.com/spell=188389) with [Lava Lash](https://www.wowhead.com/spell=60103), but without the debuff of [Lashing Flames](https://www.wowhead.com/spell=334046/). Maintaining the debuff from this talent on as many targets as possible is the basis of Enhance AoE rotation. Use [Plater Mod](https://wago.io/o9Q7MSLDi) to easily keep track of both debuffs.
 
 8. {:.witch-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) if it's not active.
 9. {:.actuators-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) if it's not active.
