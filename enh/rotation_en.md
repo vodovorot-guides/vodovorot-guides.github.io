@@ -123,7 +123,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 1. {:.witch-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) if it's not active.
 1. {:.actuators-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) if it's not active.
 1. {:.wolf-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) if it's not active.
-2. {:.sk_enh-apl[Stormkeeper](https://www.wowhead.com/spell=320137) before the pull.
+2. {:.sk_enh-apl}[Stormkeeper](https://www.wowhead.com/spell=320137) before the pull.
 3. [Flame Shock](https://www.wowhead.com/spell=188389) to the most resilient enemy.
 3. {:.vt-apl}[Vesper Totem](https://www.wowhead.com/spell=324386).
 4. [Feral Spirit](https://www.wowhead.com/spell=51533).
