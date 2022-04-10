@@ -200,12 +200,12 @@ description: Всё про боссов в рейде Гробница Пред�
 
 <p></p>
 
-**Тип боя:** Одна цель с периодическим спавном аддов
+**Тип боя:** Одна цель с периодическим спавном аддов.  
 **Тактика:** [MythicTrap](https://mythictrap.com/sepulcher/lihuvim)  
 **Warcraftlogs:** [Ссылка](https://www.warcraftlogs.com/zone/rankings/29#boss=2539&class=Shaman&spec=Enhancement)  
 **Тайминги бурстов:** [Ссылка](https://lorrgs.io/spec_ranking/shaman-enhancement/lihuvim-principal-architect?difficulty=mythic)  
 
-**Ковенант**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>
+**Ковенант**: <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>  
 **Медиум**: [Творец снов](https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AwaZbr4BJShxABMFKZIKFSmbCiUs7woiBSg9CiV2AAo)
 
 **Таланты:**
