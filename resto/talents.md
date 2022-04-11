@@ -20,7 +20,7 @@ image: /assets/img/logos/talents.png
 
 # Таланты для Мифик+
 
-{% include talents.html data=site.data.talents.resto active="2112133" %}
+{% include talents.html data=site.data.talents.resto active="2111133" %}
 
 Билд для Мифик+ мало чем отличается от рейдового, но есть несколько вариантов для усиления отхила по одной цели:
 
