@@ -81,6 +81,16 @@ image: /assets/img/logos/leggos.png
 
 # Остальные легендарки
 
+<a href="https://ru.wowhead.com/spell=336735" target="blank" data-wh-icon-size="medium" >**Разрушительные цепи**</a> – применение {{ site.data.spells.ch }} делает следующую {{ site.data.spells.cl }} мгновенной. Применение {{ site.data.spells.cl }} делает следующее {{ site.data.spells.ch }} мгновенным.
+
+* **Источник**: Покупается за очки чести.  
+* **Слоты**: **Грудь** > ~~Шея~~.
+
+* Позволяет мгновенно кастовать {{ site.data.spells.ch }} и {{ site.data.spells.cl }} одну за другой.
+* Каждый бафф висит **20** секунд.
+* {{ site.data.spells.ch }} для прока леги срабатывает и от сетового бонуса.
+* Подсказка на Wowhead указывает описание для Элема и Энха – Рестор не получает бесплатные [Цепные исцеления](https://ru.wowhead.com/spell=1064) и урон [Цепной молнии](https://ru.wowhead.com/spell=188443) не повышается.
+
 <a href="https://ru.wowhead.com/spell=335886" target="blank" data-wh-icon-size="medium" >**Земная гармония**</a> – усиливает отхил от {{ site.data.spells.eshield }} на **150%**, если у цели менее **75%** от максимального здоровья. Применение к этой цели {{ site.data.spells.hw }} добавляет **1** заряд к {{ site.data.spells.eshield }}, максимум **9**.
 
 * **Лучшая легендарка для PvP.**
@@ -107,15 +117,7 @@ image: /assets/img/logos/leggos.png
 * **Источник**: Замок Нафрия – Ловчий Альтимор.  
 * **Слоты**: **Спина** > ~~Ноги~~.
 
-<a href="https://ru.wowhead.com/spell=336735" target="blank" data-wh-icon-size="medium" >**Разрушительные цепи**</a> – применение {{ site.data.spells.ch }} делает следующую {{ site.data.spells.cl }} мгновенной. Применение {{ site.data.spells.cl }} делает следующее {{ site.data.spells.ch }} мгновенным.
 
-* **Источник**: Покупается за очки чести.  
-* **Слоты**: **Шея** > ~~Грудь~~.
-
-* Позволяет мгновенно кастовать {{ site.data.spells.ch }} и {{ site.data.spells.cl }} одну за другой.
-* Каждый бафф висит **20** секунд.
-* Если нам нужен **только** отхил или **только** урон, эта легендарка будет не эффективна.
-* Подсказка на Wowhead указывает описание для Элема и Энха – Рестор не получает бесплатные [Цепные исцеления](https://ru.wowhead.com/spell=1064) и урон [Цепной молнии](https://ru.wowhead.com/spell=188443) не повышается.
 
 <a href="https://ru.wowhead.com/spell=336741" target="blank" data-wh-icon-size="medium" >**Напоминание предков**</a> – продлевает время действия {{ site.data.spells.bl }} / {{ site.data.spells.hero }} на **20** секунд и увеличивает Скорость дополнительно на **10%**.
 
