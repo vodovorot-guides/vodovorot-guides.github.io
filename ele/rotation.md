@@ -1,7 +1,7 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2022-02-23
+last_update: 2022-04-12
 wow: 9.2
 toc: true
 author: Amani
@@ -31,9 +31,6 @@ custom-javascript-list:
 * English version of this page [here](https://stormkeeper.ru/ele/rotation_en.html).
 
 # Выбор билда
-
-**Важно!** Для просмотра списка приоритетов из патча **9.1.5** перейдите на [эту страницу](https://stormkeeper.ru/ele/rotation-9-1.html).
-{: class="bordered"}
 
 **Важно!** Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарка и ковенант. Все кнопки ниже кликабельны.
 {: class="bordered"}
@@ -137,6 +134,7 @@ custom-javascript-list:
 Изменения приоритетов в бою против двух целей при использовании полного [комплекта классовых доспехов](https://stormkeeper.ru/ele/patch-9-2.html#%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82-%D0%B4%D0%BE%D1%81%D0%BF%D0%B5%D1%85%D0%BE%D0%B2) – [Огненное сердце](https://ptr.wowhead.com/spell=363671).
 
 * В бою против **двух** целей стоит кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) по тем же правилам, что против **одной**. На **3+** цели [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется по правилам, указанным ниже. 
+* {:.asc_ele-apl}При активном [Перерождении](https://ru.wowhead.com/spell=114050/) стоит кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) в бою против **1-4** целей. На **5+** целей уже выгоднее использовать [Поток лавы](https://ru.wowhead.com/spell=114074).
 * {{ site.data.spells.fs }} на **4+** цели больше не нужно специально поддерживать, если вы не <span style="color:#40bf40;font-size:1em;">**Некролорд**</span> или не используете легендарку [Огненная гибель "Усмирителя небес"](https://ru.wowhead.com/spell=336734/).
 * {{ site.data.spells.fs }} на **2-3** целях поддерживается без активного [Элементаля бури](https://ru.wowhead.com/spell=192249/), для увеличения количества проков [Волны лавы](https://ru.wowhead.com/spell=77756) и ускорения отката [Элементаля бури](https://ru.wowhead.com/spell=192249/) за счет сета.
 * {:.pw-apl}Если вы <span style="color:#40bf40;font-size:1em;">**Некролорд**</span>, то развешивайте максимальное количество [Огненных шоков](https://ru.wowhead.com/spell=188389) за **15** секунд до окончания кулдауна [Первозданной волны](https://ru.wowhead.com/spell=326059).
