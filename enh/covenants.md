@@ -93,11 +93,11 @@ image: /assets/img/logos/covenants.png
 
 ## <span style="color:#40bf40;font-size:1em;">Медиумы</span>
 
-**<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – лучший медиум **для некоторых боев в рейде**. Пример прокачки Марилета:
+**<span style="color:#40bf40;font-size:1em;">Изобретатель чумы Марилет</span>** – лучший медиум **высоких ключей** и Тиранического аффикса, а также для Прототипа Пантеона. Пример прокачки Марилета:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/shaman/AwCW7r4CFShxCiUogAoTBSmSChUpmwolLPIKIRUoPQo"></a>
 
-**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – лучший медиум **Мифик+**. Пример прокачки Гейрмир:
+**<span style="color:#40bf40;font-size:1em;">Костоплав Гейрмир</span>** – альтернативный выбор в **Мифик+**. Пример прокачки Гейрмир:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/shaman/AwaWZZYBBShxChMFKZIKFSmbCiUs8goiFSg9CjV2AAo"></a>
 
