@@ -116,7 +116,7 @@ image: /assets/img/logos/talents.png
 * Не работает на магию огня, то есть не усиливает {{ site.data.spells.lvb }} и {{ site.data.spells.fs }}.
 * Бафф появляется сразу же после завершения каста [Выброса лавы](https://ru.wowhead.com/spell=51505), а не в момент попадания снаряда в цель.
 
-<a href="https://ru.wowhead.com/spell=192249" target="blank" data-wh-icon-size="medium" >**Элементаль бури**</a> – пассивный талант, заменяет [Элементаля огня](https://ru.wowhead.com/spell=198067). Сокращает время прознесения [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) на **3%**, вплоть до **60%**.
+<a href="https://ru.wowhead.com/spell=192249" target="blank" data-wh-icon-size="medium" >**Элементаль бури**</a> – пассивный талант, заменяет [Элементаля огня](https://ru.wowhead.com/spell=198067). Сокращает время прознесения [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) на **3%**, вплоть до **30%**.
 
 > Storm Elemental, Storm ele, Storm, Шторм элем, Буря, Элем молний, Борис.
 
