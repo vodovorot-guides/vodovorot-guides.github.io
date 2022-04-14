@@ -42,7 +42,7 @@ custom-javascript-list:
 
 <p></p>
 
-{% include talents.html data=site.data.talents.enh active="1201031" switch=true %}
+{% include talents.html data=site.data.talents.enh active="3201031" switch=true %}
 
 **Важно!** Вне зависимости от билда, талантов или типа боя – убедитесь, что у вас всегда наложены усиления на оружия – [Оружие неистовства ветра](https://ru.wowhead.com/spell=33757/) и [Оружие языка пламени](https://ru.wowhead.com/spell=318038/).
 {: class="bordered"}
