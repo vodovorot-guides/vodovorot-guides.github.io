@@ -1,7 +1,7 @@
 ---
 title: Elemental Shaman Priority List
 layout: page
-last_update: 2022-03-12
+last_update: 2022-04-14
 wow: 9.2
 toc: true
 author: Amani
@@ -111,5 +111,31 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 # AoE Fight
 
-Work in progress.
+Changes the priority list in fight against two or more enemies:
+
+* In combat against **two** targets you should cast [Lava Burst](https://www.wowhead.com/spell=51505) by the same rules as against **one**. On **3+** targets [Lava Burst](https://www.wowhead.com/spell=51505) is casted according to the rules below. 
+* {:.asc_ele-apl}When [Ascendance](https://www.wowhead.com/spell=114050/) is active, cast [Lava Burst](https://www.wowhead.com/spell=51505) in fight against **1-4** targets. On **5+** targets it is better to use [Lava Beam](https://www.wowhead.com/spell=114074) instead.
+* [Flame Shock](https://www.wowhead.com/spell=188389) on **4+** targets no need to specifically maintain, unless you are <span style="color:#40bf40;font-size:1em;">**Necrolord**</span> or use the [Skybreaker's Fiery Demise](https://www.wowhead.com/spell=336734/) legendary.
+* [Flame Shock](https://www.wowhead.com/spell=188389) on **2-3** targets is maintained without active [Storm Elemental](https://www.wowhead.com/spell=192249/), to increase [Lava Surge](https://www.wowhead.com/spell=77756) procs and CD reduction of [Storm Elemental](https://www.wowhead.com/spell=192249/).
+* {:.pw-apl}If you are <span style="color:#40bf40;font-size:1em;">**Necrolord**</span>, cast the maximum number of [Flame Shocks](https://www.wowhead.com/spell=188389) **15** seconds before the [Primordial Wave](https://www.wowhead.com/spell=326059) CD ends.
+* {:.pw-apl}At the beginning of the battle with **3+** targets, first cast some [Flame Shocks](https://www.wowhead.com/spell=188389) and [Primordial Wave](https://www.wowhead.com/spell=326059), and only then cast [Lava Burst](https://www.wowhead.com/spell=51505).
+* {:.fire-apl}When using the legendary [Skybreaker's Fiery Demise](https://www.wowhead.com/spell=336734/), maintain the maximum number of [Flame Shocks](https://www.wowhead.com/spell=188389) in the moments when [Storm Elemental](https://www.wowhead.com/spell=192249/) is not active.
+* You can cast one [Flame Shock](https://www.wowhead.com/spell=188389) during a movement.
+* With [Fireheart](https://www.wowhead.com/spell=364472) set, while [Storm Elemental](https://www.wowhead.com/spell=192249/) is active, [Lava Burst](https://www.wowhead.com/spell=51505) casts only with [Lava Surge](https://www.wowhead.com/spell=77756) while moving, even without [Flame Shock](https://www.wowhead.com/spell=188389) on target.
+* If the targets live longer than **50** seconds, it's worth casting about **5-7** [Lava Bursts](https://www.wowhead.com/spell=51505) in order to extend [Storm Elemental](https://www.wowhead.com/spell=192249/) and use [Eye of the Storm](https://www.wowhead.com/spell=157375) a second time.
+* Without an active [Storm Elemental](https://www.wowhead.com/spell=192249/) it is worth to cast [Lava Burst](https://www.wowhead.com/spell=51505) with Lava Surge](https://www.wowhead.com/spell=77756), regardless of the number of targets, to reduce [Storm Elemental](https://www.wowhead.com/spell=192249/) CD.
+* [Chain Lightning](https://www.wowhead.com/spell=188443) replaces [Lightning bolt](https://www.wowhead.com/spell=188196) as an AoE filler.
+* {:.sk-apl} In fight against **2** targets the [Stormkeeper](https://www.wowhead.com/spell=191634) buff should be spent on [Lightning Bolt](https://www.wowhead.com/spell=188196). On **3+** targets – on [Chain Lightning](https://www.wowhead.com/spell=188443).
+* {:.eogs-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights. Always alternate between [Earth Shock](https://www.wowhead.com/spell=8042) and [Earthquake](https://www.wowhead.com/spell=61882) when using [Echoes of the Great Sundering](https://www.wowhead.com/spell=336215) legendary.
+* {:.fire-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights.
+* {:.lava-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights.
+* {:.ee-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights.
+* {:.primal_elem-apl .mote-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
+* {:.primal_elem-apl .lmt-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
+* {:.primal_elem-apl .storm-apl}Don’t forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
+* {:.ecs-apl}[Echoing Shock](https://ru.wowhead.com/spell=320125) should be used on  [Earthquake](https://www.wowhead.com/spell=61882).
+* {:.vt-apl}[Vesper Totem](https://www.wowhead.com/spell=324386) using on CD. Cast [Ancestral Guidance](https://www.wowhead.com/spell=108281), [Earth Shield](https://www.wowhead.com/spell=974), [Healing Stream Totem](https://www.wowhead.com/spell=5394) или [Healing Surge](https://www.wowhead.com/spell=8004) for activating [Raging Vesper Vortex](https://www.wowhead.com/spell=356789) legendary effect.
+* {:.ch-apl}[Chain Harvest](https://www.wowhead.com/spell=320674) using on CD.
+* {:.ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) using on CD. If possible, try to reduce  [Storm Elemental](https://www.wowhead.com/spell=192249/) CD with it.
+* {:.ft-apl}If you use [Fae Transfusion](https://www.wowhead.com/spell=328923) in Mythic+ with active buff from Urh, the [Storm Elemental](https://www.wowhead.com/spell=192249/) CD is reduced much more than without this buff. 
 
