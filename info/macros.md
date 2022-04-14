@@ -125,14 +125,6 @@ image: /assets/img/logos/macros.png
 /cast [@mouseover,harm,exists][] [talent:6/3] Ледяная ярость
 ~~~
 
-* Призывает [Элементаль огня](https://ru.wowhead.com/spell=198067) или [Элементаль бури](https://ru.wowhead.com/spell=192249), повторное нажатие активирует способность – {{ site.data.spells.meteor }} или {{ site.data.spells.eye_storm }}:
-~~~
-#showtooltip
-/cast [@target,harm,exists][@player] Элементаль огня
-/cast [@target,exists][] [talent:6/2] [pet] Метеорит
-/cast [@mouseover,harm,exists][] [talent:6/2] [pet] Око шторма
-~~~
-
 * В зависимости от выбранного таланта использует {{ site.data.spells.ecs }} или {{ site.data.spells.eb }}:  
 ~~~
 #showtooltip
