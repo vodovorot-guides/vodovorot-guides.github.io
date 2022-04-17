@@ -32,13 +32,8 @@ image: /assets/img/logos/wa.png
 <img src="https://i.imgur.com/dbVdLkp.png" width=350x> 
 </p>
 
-[Количество огненных шоков:](https://wago.io/BV0YCJ6OJ)
+[Количество огненных шоков:](https://wago.io/xTr8qv1qk)
 {: style="text-align: center;"}
-
-<p align="center">
-<img src="https://media.wago.io/screenshots/BV0YCJ6OJ/5fb3c422842d5528c56ecb69.png" width=350x> 
-</p>
-
 
 [Кулдаун и время действия баффа от легендарки Ветра рока:](https://wago.io/SjJtre8FO)
 {: style="text-align: center;"}
