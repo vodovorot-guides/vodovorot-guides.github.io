@@ -129,7 +129,7 @@ Changes the priority list in fight against two or more enemies:
 * {:.eogs-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights. Always alternate between [Earth Shock](https://www.wowhead.com/spell=8042) and [Earthquake](https://www.wowhead.com/spell=61882) when using [Echoes of the Great Sundering](https://www.wowhead.com/spell=336215) legendary.
 * {:.fire-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights.
 * {:.lava-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights.
-* {:.ee-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights.
+* {:.deeply-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights.
 * {:.primal_elem-apl .mote-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
 * {:.primal_elem-apl .lmt-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
 * {:.primal_elem-apl .storm-apl}Don’t forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
