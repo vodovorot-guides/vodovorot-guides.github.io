@@ -149,7 +149,7 @@ custom-javascript-list:
 * {:.eogs-apl}{{ site.data.spells.quake }} заменяет {{ site.data.spells.es }} на АоЕ боях. Всегда чередуйте {{ site.data.spells.es }} и {{ site.data.spells.quake }} при использовании легендарки [Отголоски Великого Раскола](https://ru.wowhead.com/spell=336215).
 * {:.fire-apl}{{ site.data.spells.quake }} заменяет {{ site.data.spells.es }} на АоЕ боях.
 * {:.lava-apl}{{ site.data.spells.quake }} заменяет {{ site.data.spells.es }} на АоЕ боях.
-* {:.ee-apl}{{ site.data.spells.quake }} заменяет {{ site.data.spells.es }} на АоЕ боях.
+* {:.deeply-apl}{{ site.data.spells.quake }} заменяет {{ site.data.spells.es }} на АоЕ боях.
 * {:.primal_elem-apl .mote-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 * {:.primal_elem-apl .lmt-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 * {:.primal_elem-apl .storm-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
