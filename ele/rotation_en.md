@@ -1,7 +1,7 @@
 ---
 title: Elemental Shaman Priority List
 layout: page
-last_update: 2022-04-14
+last_update: 2022-04-18
 wow: 9.2
 toc: true
 author: Amani
@@ -49,6 +49,7 @@ Elemental Shaman rotation breakdown. Spell priorities on this page change dynami
 5. {:.vt-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389). 
 5. {:.ch-apl}Cast [Flame Shock](https://www.wowhead.com/spell=188389). 
 1. {:.vt-apl}Cast [Vesper Totem](https://www.wowhead.com/spell=324386).
+28. {:.pw-apl .asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
 7. {:.eb-apl}Cast [Lava Burst](https://www.wowhead.com/spell=51505).
 9. {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249).
 8. {:.ft-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
@@ -64,7 +65,9 @@ Elemental Shaman rotation breakdown. Spell priorities on this page change dynami
 19. {:.sk-apl}Cast [Lightning Bolt](https://www.wowhead.com/spell=188196) with the [Stormkeeper](https://www.wowhead.com/spell=191634) buff. 
 26. {:.lmt-apl}Cast [Liquid Magma Totem](https://www.wowhead.com/spell=192222).
 27. {:.ch-apl}Cast [Chain Harvest](https://www.wowhead.com/spell=320674).
-28. {:.asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
+28. {:.ch-apl .asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
+28. {:.vt-apl .asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
+28. {:.ft-apl .asc_ele-apl}Cast [Ascendance](https://www.wowhead.com/spell=114050).
 29. Continue with regular rotation.
 
 
@@ -79,7 +82,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
 4. {:.lmt-apl}Cast [Fire Elemental](https://www.wowhead.com/spell=198067).
   * {:.primal_elem-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
-23. {:.storm-apl}[Storm Elemental](https://www.wowhead.com/spell=192249).
+23. {:.storm-apl}{{ site.data.spells.storm }}.
   * {:.primal_elem-apl}Don’t forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
 20. Cast [Lava Burst](https://www.wowhead.com/spell=51505) with the [Lava Surge](https://www.wowhead.com/spell=77756) buff.
 21. {:.ft-apl .storm-apl}Cast [Fae Transfusion](https://www.wowhead.com/spell=328923).
@@ -111,25 +114,32 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 # AoE Fight
 
+
 Changes the priority list in fight against two or more enemies:
 
-* In combat against **two** targets you should cast [Lava Burst](https://www.wowhead.com/spell=51505) as you would in single target. On **3+** targets the priority changes according to the rules below.
-* {:.asc_ele-apl}When [Ascendance](https://www.wowhead.com/spell=114050/) is active, cast [Lava Burst](https://www.wowhead.com/spell=51505) in fight against **1-4** targets. On **5+** targets it is better to use [Lava Beam](https://www.wowhead.com/spell=114074) instead.
-* [Flame Shock](https://www.wowhead.com/spell=188389) on **4+** targets no need to specifically maintain, unless you are <span style="color:#40bf40;font-size:1em;">**Necrolord**</span> or use the [Skybreaker's Fiery Demise](https://www.wowhead.com/spell=336734/) legendary.
+* In combat against **two** targets you should cast [Lava Burst](https://www.wowhead.com/spell=51505) by the same rules as against **one**. On **3+** targets [Lava Burst](https://www.wowhead.com/spell=51505) is casted according to the rules below. 
+* {:.asc_ele-apl .fire-apl}When [Ascendance](https://www.wowhead.com/spell=114050/) is active, cast [Lava Burst](https://www.wowhead.com/spell=51505) in fight against **1-4** targets. On **5+** targets it is better to use [Lava Beam](https://www.wowhead.com/spell=114074) instead.
+* {:.asc_ele-apl .lava-apl}When [Ascendance](https://www.wowhead.com/spell=114050/) is active, cast [Lava Burst](https://www.wowhead.com/spell=51505) in fight against **1-4** targets. On **5+** targets it is better to use [Lava Beam](https://www.wowhead.com/spell=114074) instead.
+* {:.asc_ele-apl .eogs-apl}When [Ascendance](https://www.wowhead.com/spell=114050/) is active, cast [Lava Burst](https://www.wowhead.com/spell=51505) in fight against **1-4** targets. On **5+** targets it is better to use [Lava Beam](https://www.wowhead.com/spell=114074) instead.
+* {:.sk-apl .deeply-apl}When [Ascendance](https://www.wowhead.com/spell=114050/) is active, cast [Lava Burst](https://www.wowhead.com/spell=51505) in fight against **1-4** targets. On **5+** targets it is better to use [Lava Beam](https://www.wowhead.com/spell=114074) instead.
+* {:.up-apl .deeply-apl}When [Ascendance](https://www.wowhead.com/spell=114050/) is active, cast [Lava Burst](https://www.wowhead.com/spell=51505) in fight against **1-4** targets. On **5+** targets it is better to use [Lava Beam](https://www.wowhead.com/spell=114074) instead.
+* {:.asc_ele-apl .deeply-apl}When [Ascendance](https://www.wowhead.com/spell=114050/) is active, cast [Lava Burst](https://www.wowhead.com/spell=51505) in fight against **1-4** targets. On **5+** targets it is better to use [Lava Beam](https://www.wowhead.com/spell=114074) instead.
+* {:.asc_ele-apl .pw-apl}With [Primordial Wave](https://www.wowhead.com/spell=326059) buff, always cast [Ascendance](https://www.wowhead.com/spell=114050/) before [Lava Burst](https://www.wowhead.com/spell=51505), if avaiable.
+* [Flame Shock](https://www.wowhead.com/spell=188389) on **4+** targets no need to specifically maintain, unless you are <span style="color:#40bf40;font-size:1em;">**Necrolord**</span> or use the [Skybreaker's Fiery Demise](https://www.wowhead.com/spell=336734/) or [Deeply Rooted Elements](https://www.wowhead.com/spell=336738) legendaries.
 * [Flame Shock](https://www.wowhead.com/spell=188389) on **2-3** targets is maintained without active [Storm Elemental](https://www.wowhead.com/spell=192249/), to increase [Lava Surge](https://www.wowhead.com/spell=77756) procs and CD reduction of [Storm Elemental](https://www.wowhead.com/spell=192249/).
 * {:.pw-apl}If you are <span style="color:#40bf40;font-size:1em;">**Necrolord**</span>, cast the maximum number of [Flame Shocks](https://www.wowhead.com/spell=188389) **15** seconds before the [Primordial Wave](https://www.wowhead.com/spell=326059) CD ends.
 * {:.pw-apl}At the beginning of the battle with **3+** targets, first cast some [Flame Shocks](https://www.wowhead.com/spell=188389) and [Primordial Wave](https://www.wowhead.com/spell=326059), and only then cast [Lava Burst](https://www.wowhead.com/spell=51505).
 * {:.fire-apl}When using the legendary [Skybreaker's Fiery Demise](https://www.wowhead.com/spell=336734/), maintain the maximum number of [Flame Shocks](https://www.wowhead.com/spell=188389) in the moments when [Storm Elemental](https://www.wowhead.com/spell=192249/) is not active.
 * You can cast one [Flame Shock](https://www.wowhead.com/spell=188389) during a movement.
 * With [Fireheart](https://www.wowhead.com/spell=364472) set, while [Storm Elemental](https://www.wowhead.com/spell=192249/) is active, [Lava Burst](https://www.wowhead.com/spell=51505) casts only with [Lava Surge](https://www.wowhead.com/spell=77756) while moving, even without [Flame Shock](https://www.wowhead.com/spell=188389) on target.
-* If the targets live longer than **50** seconds, it's worth casting about **5-7** [Lava Bursts](https://www.wowhead.com/spell=51505) in order to extend [Storm Elemental](https://www.wowhead.com/spell=192249/) and use [Eye of the Storm](https://www.wowhead.com/spell=157375) a second time.
-* Without an active [Storm Elemental](https://www.wowhead.com/spell=192249/) it is worth to cast [Lava Burst](https://www.wowhead.com/spell=51505) with [Lava Surge](https://www.wowhead.com/spell=77756), regardless of the number of targets, to reduce [Storm Elemental](https://www.wowhead.com/spell=192249/) CD.
-* [Chain Lightning](https://www.wowhead.com/spell=188443) replaces [Lightning bolt](https://www.wowhead.com/spell=188196) at **2+** targets.
+* {:.storm-apl}If the targets live longer than **50** seconds, it's worth casting about **5-7** [Lava Bursts](https://www.wowhead.com/spell=51505) in order to extend [Storm Elemental](https://www.wowhead.com/spell=192249/) and use [Eye of the Storm](https://www.wowhead.com/spell=157375) a second time.
+* {:.storm-apl}Without an active [Storm Elemental](https://www.wowhead.com/spell=192249/) it is worth to cast [Lava Burst](https://www.wowhead.com/spell=51505) with Lava Surge](https://www.wowhead.com/spell=77756), regardless of the number of targets, to reduce [Storm Elemental](https://www.wowhead.com/spell=192249/) CD.
+* [Chain Lightning](https://www.wowhead.com/spell=188443) replaces [Lightning bolt](https://www.wowhead.com/spell=188196) as an AoE filler.
 * {:.sk-apl} In fight against **2** targets the [Stormkeeper](https://www.wowhead.com/spell=191634) buff should be spent on [Lightning Bolt](https://www.wowhead.com/spell=188196). On **3+** targets – on [Chain Lightning](https://www.wowhead.com/spell=188443).
 * {:.eogs-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights. Always alternate between [Earth Shock](https://www.wowhead.com/spell=8042) and [Earthquake](https://www.wowhead.com/spell=61882) when using [Echoes of the Great Sundering](https://www.wowhead.com/spell=336215) legendary.
 * {:.fire-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights.
 * {:.lava-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights.
-* {:.deeply-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights.
+* {:.ee-apl}[Earthquake](https://www.wowhead.com/spell=61882) replaces [Earth Shock](https://www.wowhead.com/spell=8042) in AoE fights.
 * {:.primal_elem-apl .mote-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
 * {:.primal_elem-apl .lmt-apl}Don’t forget to use [Meteor](https://www.wowhead.com/spell=117588) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
 * {:.primal_elem-apl .storm-apl}Don’t forget to use [Eye of the Storm](https://www.wowhead.com/spell=157375) via macro or pet action bar button (using [macro](https://stormearthandlava.com/guide/general/faq.html) is recommended).
@@ -138,4 +148,3 @@ Changes the priority list in fight against two or more enemies:
 * {:.ch-apl}[Chain Harvest](https://www.wowhead.com/spell=320674) using on CD.
 * {:.ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923) using on CD. If possible, try to reduce  [Storm Elemental](https://www.wowhead.com/spell=192249/) CD with it.
 * {:.ft-apl}If you use [Fae Transfusion](https://www.wowhead.com/spell=328923) in Mythic+ with active buff from Urh, the [Storm Elemental](https://www.wowhead.com/spell=192249/) CD is reduced much more than without this buff. 
-
