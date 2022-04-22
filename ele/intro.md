@@ -22,9 +22,9 @@ image: /assets/img/logos/eleguide.png
 <img src="/assets/img/Necrolord_sigil.png"> 
 </p>
 
-Лучшим вариантом для **рейда** является <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>. Этот ковенант дает наибольший урон в одну цель и добавляет мобильности за счет [Облика души](https://ru.wowhead.com/spell=310143).
+Лучшим вариантом для **рейда** является <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>  и <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>.
 
-Лучшим ковенантом в **Мифик+** будут <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> и <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>. 
+Лучшим ковенантом в **Мифик+** будут <span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span>.
 
 Лучший ковенант для **PvP** – <span style="color:#40bf40;font-size:1em;">**Некролорды**</span>. PvP-гайд можно найти [по этой ссылке](https://stormkeeper.ru/ele/pvp.html).
 
