@@ -57,7 +57,15 @@ custom-javascript-list:
 
 # Открывающая ротация, Opener
 
-**Опенер** – это фиксированный порядок кастов в самом начале боя против одной цели. 
+Меня зовут **Amani**, я являюсь админом сервера [Водоворот](https://github.com) и пишу гайды для шаманов с **2018** года. Я один из авторов приоритетов способностей Шамана для [Raidbots](https://github.com), а также занимаюсь переводом таких ресурсов как [MythicTrap](https://github.com) и [WoWAnalyzer](https://github.com).
+
+Я близко сотрудничаю с англоязычным сообществом шаманов и являюсь MVP на серверах [Earthshrine](https://github.com) и [Ancestral Guidance](https://github.com). 
+
+Регулярно стримлю на [Twitch](https://github.com) и выкладываю ролики на [YouTube](https://github.com). Подписывайтесь!
+
+Поддержать создание контента можно на [Boosty](https://github.com) и [Patreon](https://github.com).
+
+
 
 1. {{ site.data.spells.sk }} прекастом.
 2. {{ site.data.spells.storm }}.
