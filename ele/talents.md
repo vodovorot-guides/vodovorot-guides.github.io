@@ -51,7 +51,7 @@ image: /assets/img/logos/talents.png
 
 ## Второй тир, 25 уровень
 
-{% include talents.html data=site.data.talents.ele active="110" row=2 %}
+{% include talents.html data=site.data.talents.ele active="101" row=2 %}
 
 <a href="https://ru.wowhead.com/spell=273221" target="blank" data-wh-icon-size="medium" >**Повторный толчок**</a> – пассивный талант, дает **25%** шанс вернуть всю затраченную Энергию Водоворота при использовании способностей [Земного шока](https://ru.wowhead.com/spell=8042) и [Землетрясения](https://ru.wowhead.com/spell=61882).
 
