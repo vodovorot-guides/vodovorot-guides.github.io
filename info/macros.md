@@ -149,6 +149,13 @@ image: /assets/img/logos/macros.png
 
 # Энх
 
+* Основной макрос для всех способностей:
+~~~
+#showtooltip 
+/stopmacro [channeling]
+/cast [@mouseover,harm,exists,nodead][] Вскипание лавы
+~~~
+
 * Использование {{ site.data.spells.ww }} и {{ site.data.spells.ftw }} на одной кнопке:  
 ~~~
 #showtooltip
