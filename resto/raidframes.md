@@ -1,8 +1,8 @@
 ---
 title: Рейдовые фреймы для Шамана Исцеления
 layout: page
-last_update: 2021-02-14
-wow: 9.1
+last_update: 2022-05-20
+wow: 9.2
 toc: true
 author: "Amani, Haelrail, Omeja, Langrim"
 ---
@@ -136,11 +136,11 @@ Grid2 является специализированным аддоном, ко
 <br>
 **Cвяжитесь c Amani#0001 в [Discord](https://discordapp.com/invite/zTQhBn8) если вы хотите поделиться своим профилем.**
 
-[**Niseko / Grayscale:**](https://wago.io/IwrQN8BzM)
+[**Лордшамми:**]([https://wago.io/IwrQN8BzM](https://pastebin.com/EZJqXXX3))
 {: style="text-align: center;"}
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/776494672352116752/778739311587754004/d56632ea33b0e119.png" width=400x> 
+<img src="https://cdn.discordapp.com/attachments/215442237813686272/976953897635696690/lrdhtrd_raid_grid2.jpg" width=400x> 
 </p>
 
 </details>
