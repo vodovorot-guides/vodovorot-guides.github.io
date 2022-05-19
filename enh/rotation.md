@@ -188,9 +188,9 @@ custom-javascript-list:
 160. {{ site.data.spells.crush }}.
 161. {:.asc_enh-apl}{{ site.data.spells.ss }} / {{ site.data.spells.windstrike }}.
 162. {:.spirits-apl}{{ site.data.spells.ss }}.
+165. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 163. {:.spike-apl}{{ site.data.spells.ss }}.
 164. {{ site.data.spells.frs }}.
-165. {{ site.data.spells.cl }} при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 166. {:.is-apl}{{ site.data.spells.is }}.
 167. {:.spike-apl}{{ site.data.spells.spike }}.
 168. {:.witch-apl}{{ site.data.spells.wt }}.
