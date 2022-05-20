@@ -136,7 +136,7 @@ Grid2 является специализированным аддоном, ко
 <br>
 **Cвяжитесь c Amani#0001 в [Discord](https://discordapp.com/invite/zTQhBn8) если вы хотите поделиться своим профилем.**
 
-[**Лордшамми:**]([https://wago.io/IwrQN8BzM](https://pastebin.com/EZJqXXX3))
+[**Лордшамми:**](https://pastebin.com/EZJqXXX3)
 {: style="text-align: center;"}
 
 <p align="center">
