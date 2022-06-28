@@ -1,7 +1,7 @@
 ---
 title: Elemental Shaman Priority List
 layout: page
-last_update: 2022-04-18
+last_update: 2022-06-28
 wow: 9.2
 toc: true
 author: Amani
@@ -90,9 +90,11 @@ Spell priority list that changes dynamically based on selected talents, legendar
 25. {:.eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) if you have [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff and your next spell will bring you above **100** Maelstrom.
 29. {:.mote-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) if your next spell will bring you above **100** Maelstrom.
 29. {:.lmt-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) if your next spell will bring you above **100** Maelstrom.
-15. {:.eb-apl}Cast [Elemental Blast](https://www.wowhead.com/spell=117014).
-16. {:.sk-apl}Cast [Stormkeeper](https://www.wowhead.com/spell=191634).
-17. {:.pw-apl}Cast [Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
+15. {:.eb-apl .up-apl}Cast [Elemental Blast](https://www.wowhead.com/spell=117014).
+15. {:.eb-apl .sk-apl}Cast [Elemental Blast](https://www.wowhead.com/spell=117014). 
+15. {:.eb-apl .asc_ele-apl}Cast [Elemental Blast](https://www.wowhead.com/spell=117014), unless you are in [Ascendance](https://www.wowhead.com/spell=114050).
+17. {:.sk-apl}Cast [Stormkeeper](https://www.wowhead.com/spell=191634).
+18. {:.pw-apl}Cast [Primordial Wave](https://www.wowhead.com/spell=326059) if it's buff is not active.
 37. {:.mote-apl .eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) and [Master of the Elements](https://www.wowhead.com/spell=16166) buffs.
 26. {:.ecs-apl}Cast [Echoing Shock](https://www.wowhead.com/spell=320125) followed by [Lava Burst](https://www.wowhead.com/spell=51505).
 38. {:.vt-apl}Cast [Vesper Totem](https://www.wowhead.com/spell=324386).
@@ -106,7 +108,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 49. {:.storm-apl .eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with the [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff.
 50. {:.lmt-apl .eogs-apl}Cast [Earthquake](https://www.wowhead.com/spell=61882) with the [Echoes of Great Sundering](https://www.wowhead.com/spell=336215) buff.
 52. {:.lmt-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) at **60+** Maelstrom.
-29. {:.storm-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) at **60+** Maelstrom.
+32. {:.storm-apl}Cast [Earth Shock](https://www.wowhead.com/spell=8042) at **60+** Maelstrom.
 48. Cast [Flame Shock](https://www.wowhead.com/spell=188389) if it expires on target in less than **5.4** seconds.
 53. {:.if-apl}Cast [Frost Shock](https://www.wowhead.com/spell=196840) with the [Icefury](https://www.wowhead.com/spell=210714) buff.
 54. {:.ch-apl}Cast [Chain Harvest](https://www.wowhead.com/spell=320674).
@@ -117,6 +119,7 @@ Spell priority list that changes dynamically based on selected talents, legendar
 
 Changes the priority list in fight against two or more enemies:
 
+* {:.storm-apl}Cast [Storm Elemental](https://www.wowhead.com/spell=192249) on packs and boss.
 * In combat against **two** targets you should cast [Lava Burst](https://www.wowhead.com/spell=51505) by the same rules as against **one**. On **3+** targets [Lava Burst](https://www.wowhead.com/spell=51505) is casted according to the rules below. 
 * {:.asc_ele-apl .fire-apl}When [Ascendance](https://www.wowhead.com/spell=114050/) is active, cast [Lava Burst](https://www.wowhead.com/spell=51505) in fight against **1-4** targets. On **5+** targets it is better to use [Lava Beam](https://www.wowhead.com/spell=114074) instead.
 * {:.asc_ele-apl .lava-apl}When [Ascendance](https://www.wowhead.com/spell=114050/) is active, cast [Lava Burst](https://www.wowhead.com/spell=51505) in fight against **1-4** targets. On **5+** targets it is better to use [Lava Beam](https://www.wowhead.com/spell=114074) instead.
