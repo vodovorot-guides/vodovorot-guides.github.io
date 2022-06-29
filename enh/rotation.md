@@ -63,13 +63,10 @@ custom-javascript-list:
 3. {:.pw-apl}{{ site.data.covenants.pw }} в момент пула, по дороге к боссу.
 3. {:.vt-apl}{{ site.data.covenants.vt }} сразу после пула, под босса.
 4. {:.spike-apl}{{ site.data.spells.spike }}.
-5. {:.wolf-apl}{{ site.data.spells.feral }}.
+5. {{ site.data.spells.feral }}.
 7. {:.ft-apl}{{ site.data.covenants.ft }}.
 6. {:.eb-apl}{{ site.data.spells.eb }}.
 6. {{ site.data.spells.ss }}.
-9. {:.witch-apl}{{ site.data.spells.feral }}.
-10. {:.actuators-apl}{{ site.data.spells.feral }}.
-11. {:.doom-apl}{{ site.data.spells.feral }}.
 12. {:.asc_enh-apl}{{ site.data.spells.asc_enh }}.
 13. {:.asc_enh-apl}{{ site.data.spells.windstrike }}.
 14. {:.doom-apl}{{ site.data.spells.wt }} для активации эффекта легендарки {{ site.data.legend.doom }}.
