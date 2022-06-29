@@ -54,12 +54,9 @@ Verstärker Schamanen rotation breakdown. Spell Prioritäten auf dieser Seite ä
 3. {:.pw-apl}[Urzeitliche Welle](https://de.wowhead.com/spell=326059) auf dem Weg in den Nahkampf.
 3. {:.vt-apl}[Vespertotem](https://de.wowhead.com/spell=324386) direkt beim Pull, beim Boss platzieren.
 4. {:.spike-apl}[Irdener Stachel](https://de.wowhead.com/spell=188089).
-5. {:.wolf-apl}[Wildgeist](https://de.wowhead.com/spell=51533).
+5. [Wildgeist](https://de.wowhead.com/spell=51533).
 6. [Sturmschlag](https://de.wowhead.com/spell=17364).
 7. {:.ft-apl}[Faetransfusion](https://de.wowhead.com/spell=328923).
-5. {:.witch-apl}[Wildgeist](https://de.wowhead.com/spell=51533).
-5. {:.actuators-apl}[Wildgeist](https://de.wowhead.com/spell=51533).
-5. {:.doom-apl}[Wildgeist](https://de.wowhead.com/spell=51533).
 6. {:.asc_enh-apl}[Aszendenz](https://de.wowhead.com/spell=114051).
 6. {:.asc_enh-apl}[Windschlag](https://de.wowhead.com/spell=115356).
 1. {:.doom-apl}[Totem des Windzorns](https://de.wowhead.com/spell=8512) um [Schicksalswinde](https://de.wowhead.com/spell=335902) zu aktivieren (Legendary Effekt).
