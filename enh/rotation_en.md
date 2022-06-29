@@ -54,12 +54,9 @@ Enhance Shaman rotation breakdown. Spell priorities on this page change dynamica
 3. {:.pw-apl}[Primordial Wave](https://www.wowhead.com/spell=326059) on the way into melee.
 3. {:.vt-apl}[Vesper Totem](https://www.wowhead.com/spell=324386) right from the start, at the boss location.
 4. {:.spike-apl}[Earthen Spike](https://www.wowhead.com/spell=188089).
-5. {:.wolf-apl}[Feral Spirit](https://www.wowhead.com/spell=51533).
+5. [Feral Spirit](https://www.wowhead.com/spell=51533).
 6. [Stormstrike](https://www.wowhead.com/spell=17364).
 7. {:.ft-apl}[Fae Transfusion](https://www.wowhead.com/spell=328923).
-5. {:.witch-apl}[Feral Spirit](https://www.wowhead.com/spell=51533).
-5. {:.actuators-apl}[Feral Spirit](https://www.wowhead.com/spell=51533).
-5. {:.doom-apl}[Feral Spirit](https://www.wowhead.com/spell=51533).
 6. {:.asc_enh-apl}[Ascendance](https://www.wowhead.com/spell=114051).
 6. {:.asc_enh-apl}[Windstrike](https://www.wowhead.com/spell=115356).
 1. {:.doom-apl}[Windfury Totem](https://www.wowhead.com/spell=8512) to activate [Doom Winds](https://www.wowhead.com/spell=335902) legendary effect.
