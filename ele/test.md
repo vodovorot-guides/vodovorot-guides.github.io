@@ -12,6 +12,6 @@ description: Test
 
 Test test
 
-<a href="https://www.wowhead.com/beta/talent-calc/embed/shaman/elemental/BQBBRBUFBFSpkhAgRBCVROVVVUFRUoEQCgBQCBU"></a>
+<a href="https://www.wowhead.com/beta/talent-calc/shaman/elemental/BQBBRBUFBFSpkhAgRBCVROVVVUFRUoEQCgBQCBU"></a>
 
 Test
