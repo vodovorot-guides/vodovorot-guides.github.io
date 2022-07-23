@@ -8,7 +8,7 @@ image: /assets/img/df.jpg
 ---
 
 <p align="center" width="100%">
-    <img src="/assets/img/df.img"> 
+    <img src="/assets/img/df.jpg"> 
 </p>
 
 ## Вступление
