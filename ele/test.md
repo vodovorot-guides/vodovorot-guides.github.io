@@ -77,7 +77,7 @@ image: /assets/img/fated3.jpg
 <p align="center">
     <img src="/assets/img/fated4.jpg" width=750x> 
 </p>
-<p style="text-align:center"><i>Вот такой котик, только большой, будет в награду за 1500 рейтинга Мифик+.</i></p>
+<p style="text-align:center"><i>Вот такой котик, только большой (и без сапогов), будет в награду за 1500 рейтинга Мифик+.</i></p>
 
 ## Мифик+
 
