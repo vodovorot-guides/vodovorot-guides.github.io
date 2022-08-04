@@ -21,8 +21,6 @@ categories:
         divided: true
       - title: PvP-гайд
         url: /ele/pvp.html
-      - title: Изменения в патче 9.2
-        url: /ele/patch-9-2.html
 
   - title: Энх
     url: /enh/intro.html
@@ -44,8 +42,6 @@ categories:
         divided: true
       - title: Рейд Гробница Предвечных
         url: /enh/raid-92.html
-      - title: Изменения в патче 9.2
-        url: /enh/patch-9-2.html
 
   - title: Рестор
     url: /resto/intro.html
@@ -73,8 +69,6 @@ categories:
         url: /resto/logs.html
       - title: Руководство по QE Live
         url: /resto/qe.html
-      - title: Изменения в патче 9.2
-        url: /resto/patch-9-2.html
 
   - title: Инфо
     subcategories:
