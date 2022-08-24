@@ -32,6 +32,7 @@ image: /assets/img/ascendance.jpg
 * Необходимо развешивать [Огненные шоки](https://ru.wowhead.com/spell=188389) даже на большом АоЕ.
 
 Подробнее про таланты, ковенант, легендарку, ротацию и характеристики вы узнаете из этой статьи. Записи [моих стримов](https://twitch.tv/amanizandalari) можно найти [здесь](https://youtu.be/GuxbHKMleGU) и [здесь](https://youtu.be/0eq-eYHCxns).
+{: class="bordered"}
 
  <!--more-->
 
