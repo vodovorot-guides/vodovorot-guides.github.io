@@ -1,8 +1,8 @@
 ---
 title: Таланты Шамана Стихии
 layout: page
-last_update: 2021-03-05
-wow: 9.2
+last_update: 2022-09-12
+wow: 9.2.7
 toc: true
 author: Amani
 description: Описание талантов и билдов Шамана Стихии. 
@@ -11,9 +11,7 @@ image: /assets/img/logos/talents.png
 
 # Таланты для рейда
 
-До сбора полного комплекта сетовых доспехов и возможности носить две легендарки в СТ мы будем использовать стандартный билд из патча **9.1.5**:
-
-{% include talents.html data=site.data.talents.ele active="2301022" %}
+{% include talents.html data=site.data.talents.ele active="2311122" %}
 
 # Таланты для Мифик+
 
@@ -21,6 +19,11 @@ image: /assets/img/logos/talents.png
 
 * **30 уровень:** Ситуативный тир, выбирайте между {{ site.data.spells.spirit_wolf }} и {{ site.data.spells.static }}.
 
+# Альтернативный билд для Мифик+
+
+{% include talents.html data=site.data.talents.ele active="2111222" %}
+
+* Подробнее про этот билд можно найти [здесь](https://stormkeeper.ru/2022/08/24/dre-build.html).
 
 # Разбор талантов
 
