@@ -82,7 +82,7 @@ categories:
         url: /info/sim.html
       - title: Количество целей заклинаний
         url: /info/target_cap.html
-      - title: Что такое Spell Queue Window
+      - title: Настройка Spell Queue Window
         url: /info/sqw.html        
       - title: Облачка сообщений
         url: /info/chatbubbles.html        
