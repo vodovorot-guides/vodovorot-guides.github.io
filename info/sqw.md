@@ -1,11 +1,11 @@
 ---
-title: Как работает Spell Queue Window (очередь заклинаний)
+title: Как работает Spell Queue Window 
 layout: page
 last_update: 2022-09-13
 wow: 9.2.7
 author: Amani
 toc: true
-description: Из этой статьи вы узнаете, что такое SQW, зачем оно нужно и как его менять.
+description: Из этой статьи вы узнаете, что такое Spell Queue Window (SQW), также известное как «Очередь заклинаний» или Custom Lag Tolerance, а также зачем оно нужно и как его менять.
 image: /assets/img/sqw2.jpg
 ---
 
