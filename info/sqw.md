@@ -1,5 +1,5 @@
 ---
-title: Как работает Spell Queue Window 
+title: Настройка Spell Queue Window 
 layout: page
 last_update: 2022-09-13
 wow: 9.2.7
