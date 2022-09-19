@@ -260,7 +260,7 @@ custom-javascript-list:
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 4. {:.lava-apl .sk-apl}{{ site.data.spells.sk }}.
   * Если целей не более **2**, то заряд [Хранителя бурь](https://ru.wowhead.com/spell=191634) следует тратить на обычную [Молнию](https://ru.wowhead.com/spell=188196). На **3+** цели – на [Цепную молнию](https://ru.wowhead.com/spell=188443).
-4. {:.flavaire-apl .pw-apl}{{ site.data.covenants.pw }}.
+4. {:.lava-apl .pw-apl}{{ site.data.covenants.pw }}.
 4. {:.lava-apl .ft-apl}{{ site.data.covenants.ft }}.
 4. {:.lava-apl}{{ site.data.spells.quake }}
 4. {:.lava-apl}{{ site.data.spells.fs }}
