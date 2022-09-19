@@ -1,8 +1,8 @@
 ---
 title: Ротация Шамана Стихии
 layout: page
-last_update: 2022-09-07
-wow: 9.2
+last_update: 2022-09-19
+wow: 9.2.7
 toc: true
 author: Amani
 description: Описание ротации Шамана Стихии. Приоритет способностей на этой странице динамически меняется в зависимости от того, какие выбраны таланты, легендарный предмет и ковенант.
@@ -14,6 +14,7 @@ custom-javascript-list:
 <details markdown=1><summary><i>Журнал изменений</i></summary>
 <br>
 
+* **09.07.2022**: Большое обновление АоЕ приоритетов.
 * **09.07.2022**: Изменен приоритет Выброса лавы во время активного Перерождения – Земной шок в одну цель стоит кастовать только во время движения.
 * **28.06.2022**: Изменен приоритет Удара духов стихий во время активного Перерождения.
 * **23.02.2022**: Полное обновление под патч **9.2**. Упрощение списков приоритетов. 
@@ -50,7 +51,9 @@ custom-javascript-list:
 
 {% include talents.html data=site.data.talents.ele active="2301022" switch=true %}
 
-# Открывающая ротация, Opener
+# Бой против **1** цели
+
+## Опенер
 
 **Опенер** – это фиксированный порядок кастов в самом начале боя против одной цели. 
 
@@ -93,7 +96,7 @@ custom-javascript-list:
 
 * {:.ft-apl .lava-apl .sk-apl .mote-apl .eote-apl}Если вы не успеваете сдать вторую [Молнию](https://ru.wowhead.com/spell=188196/) до истечения времени действия баффа [Хранителя бурь](https://ru.wowhead.com/spell=191634), то используйте {{ site.data.covenants.ft }} в конце опенера, а не в начале. Но в таком случае стоит усиливать {{ site.data.spells.es }} баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 
-# Бой против **1** цели
+## Список приоритетов
 
 Ниже представлен список приоритетов заклинаний, который динамически меняется в зависимости от выбранных выше талантов, легендарки и ковенанта. Подробнее о том, как правильно читать список приоритетов можно посмотреть в [этом видео](https://youtu.be/1i5EKuKEpFY).
 
@@ -140,41 +143,133 @@ custom-javascript-list:
 
 # АоЕ бой (**2+** цели)
 
-Изменения приоритетов в бою против двух и более целей при использовании полного [комплекта классовых доспехов](https://stormkeeper.ru/ele/patch-9-2.html#%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82-%D0%B4%D0%BE%D1%81%D0%BF%D0%B5%D1%85%D0%BE%D0%B2) – [Огненное сердце](https://ru.wowhead.com/spell=363671).
+## Опенер
 
-* {:.sk-apl}[Цепная молнию](https://ru.wowhead.com/spell=188443) в сочетании с [Хранителем бурь](https://ru.wowhead.com/spell=191634) – одна из самых сильных наших комбинаций способностей. В бою против **2** целей бафф от [Хранителя бурь](https://ru.wowhead.com/spell=191634) следует тратить на [Молнию](https://ru.wowhead.com/spell=188196). На **3+** цели – на [Цепную молнию](https://ru.wowhead.com/spell=188443).
-* {:.eogs-apl}В бою против **двух** целей стоит кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) по тем же правилам, что против **одной**. На **3+** цели [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется по правилам, указанным ниже. 
-* {:.fire-apl}В бою против **двух** целей стоит кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) по тем же правилам, что против **одной**. На **3+** цели [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется по правилам, указанным ниже. 
-* {:.lava-apl}В бою против **двух** целей стоит кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) по тем же правилам, что против **одной**. На **3+** цели [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется по правилам, указанным ниже. 
-* {:.asc_ele-apl .fire-apl}При активном [Перерождении](https://ru.wowhead.com/spell=114050/) стоит кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) в бою против **1-4** целей. На **5+** целей уже выгоднее использовать [Поток лавы](https://ru.wowhead.com/spell=114074).
-* {:.asc_ele-apl .lava-apl}При активном [Перерождении](https://ru.wowhead.com/spell=114050/) стоит кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) в бою против **1-4** целей. На **5+** целей уже выгоднее использовать [Поток лавы](https://ru.wowhead.com/spell=114074).
-* {:.asc_ele-apl .eogs-apl}При активном [Перерождении](https://ru.wowhead.com/spell=114050/) стоит кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) в бою против **1-4** целей. На **5+** целей уже выгоднее использовать [Поток лавы](https://ru.wowhead.com/spell=114074).
-* {:.sk-apl .deeply-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) в билде с легендаркой [Укоренившиеся стихии](https://ru.wowhead.com/spell=336738) кастуется при **любом** количестве целей.
-* {:.up-apl .deeply-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) в билде с легендаркой [Укоренившиеся стихии](https://ru.wowhead.com/spell=336738) кастуется при **любом** количестве целей.
-* {:.asc_ele-apl .deeply-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) в билде с легендаркой [Укоренившиеся стихии](https://ru.wowhead.com/spell=336738) кастуется при **любом** количестве целей.
-* {:.asc_ele-apl .pw-apl}Перед кастом [Выброса лавы](https://ru.wowhead.com/spell=51505) с баффом от [Первозданной волны](https://ru.wowhead.com/spell=326059), всегда сначала используйте [Перерождение](https://ru.wowhead.com/spell=114050/), если оно не на КД.
-* {{ site.data.spells.fs }} на **4+** цели больше не нужно специально поддерживать, если вы не <span style="color:#40bf40;font-size:1em;">**Некролорд**</span> или не используете легендарки [Огненная гибель "Усмирителя небес"](https://ru.wowhead.com/spell=336734/) или [Укоренившиеся стихии](https://ru.wowhead.com/spell=336738).
-* {:.storm-apl}{{ site.data.spells.fs }} на **2-3** целях поддерживается без активного [Элементаля бури](https://ru.wowhead.com/spell=192249/), для увеличения количества проков [Волны лавы](https://ru.wowhead.com/spell=77756) и ускорения отката [Элементаля бури](https://ru.wowhead.com/spell=192249/) за счет сета.
-* {:.pw-apl}Если вы <span style="color:#40bf40;font-size:1em;">**Некролорд**</span>, то развешивайте максимальное количество [Огненных шоков](https://ru.wowhead.com/spell=188389) за **15** секунд до окончания кулдауна [Первозданной волны](https://ru.wowhead.com/spell=326059).
-* {:.pw-apl}В начале боя с **3+** целями, сначала развесьте несколько [Огненных шоков](https://ru.wowhead.com/spell=188389) и [Первозданную волну](https://ru.wowhead.com/spell=326059), и только потом кастуйте {{ site.data.spells.lvb }}.
-* {:.pw-apl}Кастуйте {{ site.data.covenants.pw }} в том случае, если у вас нет активного баффа от ковенантской легендарки [Расколотые стихии](https://ru.wowhead.com/spell=354647).
-* {:.fire-apl}При использовании легендарки [Огненная гибель "Усмирителя небес"](https://ru.wowhead.com/spell=336734/) развешивайте максимальное количество [Огненных шоков](https://ru.wowhead.com/spell=188389) в те моменты, когда [Элементаль бури](https://ru.wowhead.com/spell=192249/) не активен.
-* {:.storm-apl}Можно повесить один {{ site.data.spells.fs }} во время перебежки.
-* {:.storm-apl}С сетом [Огненное сердце](https://ptr.wowhead.com/spell=364472), во время активного [Элементаля бури](https://ru.wowhead.com/spell=192249/), {{ site.data.spells.lvb }} кастуется только по проку во время передвижения, даже без наличия на цели [Огненного шока](https://ru.wowhead.com/spell=188389).
-* {:.storm-apl}Если цели проживут дольше **50** секунд, стоит скастовоать примерно **5-7** [Выбросов лавы](https://ru.wowhead.com/spell=51505) для того, чтобы продлить [Элементаля бури](https://ru.wowhead.com/spell=192249/) и использовать второй раз [Око шторма](https://ru.wowhead.com/spell=157375).
-* {:.storm-apl}Без активного [Элементаля бури](https://ru.wowhead.com/spell=192249/) стоит кастовать {{ site.data.spells.lvb }} по проку вне зависимости от количества целей, для отката [Элементаля бури](https://ru.wowhead.com/spell=192249/).
-* {{ site.data.spells.cl }} заменяет обычную [Молнию](https://ru.wowhead.com/spell=188196) в качестве филлера на АоЕ.
-* {:.eogs-apl}{{ site.data.spells.quake }} заменяет {{ site.data.spells.es }} на АоЕ боях. Всегда чередуйте {{ site.data.spells.es }} и {{ site.data.spells.quake }} при использовании легендарки [Отголоски Великого Раскола](https://ru.wowhead.com/spell=336215).
-* {:.fire-apl}{{ site.data.spells.quake }} заменяет {{ site.data.spells.es }} на АоЕ боях.
-* {:.lava-apl}{{ site.data.spells.quake }} заменяет {{ site.data.spells.es }} на АоЕ боях.
-* {:.deeply-apl}{{ site.data.spells.quake }} заменяет {{ site.data.spells.es }} на АоЕ боях.
-* {:.primal_elem-apl .mote-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
-* {:.primal_elem-apl .lmt-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
-* {:.primal_elem-apl .storm-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
-* {:.ecs-apl}{{ site.data.spells.ecs }} следует использовать на {{ site.data.spells.quake }}.
-* {:.vt-apl}{{ site.data.covenants.vt }} используется по кулдауну. Кастуйте [Наставления предков](https://ru.wowhead.com/spell=108281), [Щит земли](https://ru.wowhead.com/spell=974), [Тотем исцеляющего потока](https://ru.wowhead.com/spell=5394) или [Исцелющий всплеск](https://ru.wowhead.com/spell=8004) для прока легендарки [Яростный перезвон](https://ru.wowhead.com/spell=356789).
-* {:.ch-apl}{{ site.data.covenants.ch }} используется по кулдауну.
-* {:.ft-apl}{{ site.data.covenants.ft }} используется по кулдауну. По возможности, старайтесь откатить с его помощью кулдаун [Элементаля бури](https://ru.wowhead.com/spell=192249/).
+1. {:.deeply-apl .sk-apl}{{ site.data.spells.sk }} до пула
+1. {:.deeply-apl .mote-apl}{{ site.data.spells.fe }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+1. {:.deeply-apl .lmt-apl}{{ site.data.spells.fe }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+1. {:.deeply-apl .storm-apl}{{ site.data.spells.storm }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+1. {:.deeply-apl}{{ site.data.spells.fs }}.
+1. {:.deeply-apl .pw-apl}{{ site.data.covenants.pw }}.
+1. {:.deeply-apl}{{ site.data.spells.cl }}.
+1. {:.deeply-apl}{{ site.data.spells.quake }}.
+1. {:.deeply-apl}{{ site.data.spells.cl }}.
+1. {:.deeply-apl}{{ site.data.spells.quake }}.
+1. {:.deeply-apl}{{ site.data.spells.fs }}.
+1. {:.deeply-apl}{{ site.data.spells.lvb }}.
+2. {:.eogs-apl .sk-apl}{{ site.data.spells.sk }} до пула.
+2. {:.eogs-apl .mote-apl}{{ site.data.spells.fe }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+2. {:.eogs-apl .lmt-apl}{{ site.data.spells.fe }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+2. {:.eogs-apl .storm-apl}{{ site.data.spells.storm }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+2. {:.eogs-apl}{{ site.data.spells.fs }}.
+2. {:.eogs-apl .pw-apl}{{ site.data.covenants.pw }}.
+2. {:.eogs-apl .ft-apl}{{ site.data.covenants.ft }}.
+2. {:.eogs-apl}{{ site.data.spells.cl }}.
+2. {:.eogs-apl}{{ site.data.spells.es }}.
+2. {:.eogs-apl}{{ site.data.spells.cl }}.
+2. {:.eogs-apl}{{ site.data.spells.quake }}.
+3. {:.fire-apl .sk-apl}{{ site.data.spells.sk }} до пула.
+3. {:.fire-apl .mote-apl}{{ site.data.spells.fe }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.fire-apl .lmt-apl}{{ site.data.spells.fe }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.fire-apl .storm-apl}{{ site.data.spells.storm }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.fire-apl .fire-apl}{{ site.data.spells.fs }}.
+3. {:.fire-apl .pw-apl}{{ site.data.covenants.pw }}.
+3. {:.fire-apl}{{ site.data.spells.cl }}.
+3. {:.fire-apl}{{ site.data.spells.quake }}.
+3. {:.fire-apl}{{ site.data.spells.cl }}.
+3. {:.fire-apl}{{ site.data.spells.quake }}.
+4. {:.lava-apl .sk-apl}{{ site.data.spells.sk }} до пула.
+4. {:.lava-apl .mote-apl}{{ site.data.spells.fe }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.lava-apl .lmt-apl}{{ site.data.spells.fe }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.lava-apl .storm-apl}{{ site.data.spells.storm }} до пула.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.lava-apl}{{ site.data.spells.fs }}.
+4. {:.lava-apl .pw-apl}{{ site.data.covenants.pw }}.
+4. {:.lava-apl .ft-apl}{{ site.data.covenants.ft }}.
+4. {:.lava-apl}{{ site.data.spells.cl }}.
+4. {:.lava-apl}{{ site.data.spells.quake }}.
+4. {:.lava-apl}{{ site.data.spells.cl }}.
+4. {:.lava-apl}{{ site.data.spells.quake }}.
+4. Продолжаем обычную ротацию.
+
+
+## Список приоритетов
+
+1. {:.deeply-apl}{{ site.data.spells.fe }}
+  * Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+1. {:.deeply-apl .sk-apl}{{ site.data.spells.sk }}.
+  * Если целей не более **2**, то заряд [Хранителя бурь](https://ru.wowhead.com/spell=191634) следует тратить на обычную [Молнию](https://ru.wowhead.com/spell=188196). На **3+** цели – на [Цепную молнию](https://ru.wowhead.com/spell=188443).
+  * Не допускайте потери стаков [Хранителя бурь](https://ru.wowhead.com/spell=191634), даже если вам напрокало [Перерождении](https://ru.wowhead.com/spell=114050/)
+1. {:.deeply-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756), если следующее заклинание – {{ site.data.spells.quake }}.
+1. {:.deeply-apl}{{ site.data.spells.quake }}.
+1. {:.deeply-apl}{{ site.data.spells.fs }}, если целей под шоками меньше **6**.
+1. {:.deeply-apl}{{ site.data.covenants.pw }}, если у вас нет активного баффа от ковенантской легендарки [Расколотые стихии](https://ru.wowhead.com/spell=354647).
+1. {:.deeply-apl}{{ site.data.spells.lvb }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) не менее **3** целей.
+1. {:.deeply-apl}{{ site.data.spells.cl }}
+2. {:.eogs-apl .mote-apl}{{ site.data.spells.fe }}.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+2. {:.eogs-apl .lmt-apl}{{ site.data.spells.fe }}.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+2. {:.eogs-apl .storm-apl}{{ site.data.spells.storm }}.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+2. {:.eogs-apl .sk-apl}{{ site.data.spells.sk }}.
+  * Если целей не более **2**, то заряд [Хранителя бурь](https://ru.wowhead.com/spell=191634) следует тратить на обычную [Молнию](https://ru.wowhead.com/spell=188196). На **3+** цели – на [Цепную молнию](https://ru.wowhead.com/spell=188443).
+2. {:.eogs-apl .pw-apl}{{ site.data.covenants.pw }}.
+2. {:.eogs-apl .ft-apl}{{ site.data.covenants.ft }}.
+2. {:.eogs-apl}{{ site.data.spells.es }}, если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+2. {:.eogs-apl}{{ site.data.spells.quake }}, если активен бафф от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
+2. {:.eogs-apl}{{ site.data.spells.fs }}, если {{ site.data.spells.storm }} **не активен**
+2. {:.eogs-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если {{ site.data.spells.storm }} **не активен**.
+  * Если {{ site.data.spells.storm }} **активен** и если цели проживут дольше **50** секунд, стоит скастовоать примерно **5-7** [Выбросов лавы](https://ru.wowhead.com/spell=51505) для того, чтобы продлить [Элементаля бури](https://ru.wowhead.com/spell=192249/) и использовать второй раз {{ site.data.spells.eye_storm }}.
+  * Если целей не более двух, то {{ site.data.spells.lvb }} кастуется по кулдауну.
+2. {:.eogs-apl}{{ site.data.spells.cl }}.
+2. {:.eogs-apl}{{ site.data.spells.fs }} во время перебежки.
+3. {:.fire-apl .mote-apl}{{ site.data.spells.fe }}.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.fire-apl .lmt-apl}{{ site.data.spells.fe }}.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.fire-apl .storm-apl}{{ site.data.spells.storm }}.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+3. {:.fire-apl .sk-apl}{{ site.data.spells.sk }}.
+  * Если целей не более **2**, то заряд [Хранителя бурь](https://ru.wowhead.com/spell=191634) следует тратить на обычную [Молнию](https://ru.wowhead.com/spell=188196). На **3+** цели – на [Цепную молнию](https://ru.wowhead.com/spell=188443).
+3. {:.fire-apl .pw-apl}{{ site.data.covenants.pw }}.
+3. {:.fire-apl .ft-apl}{{ site.data.covenants.ft }}.
+3. {:.fire-apl}{{ site.data.spells.quake }}
+3. {:.fire-apl}{{ site.data.spells.fs }}
+3. {:.fire-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если {{ site.data.spells.storm }} **не активен**.
+  * Если {{ site.data.spells.storm }} **активен** и если цели проживут дольше **50** секунд, стоит скастовоать примерно **5-7** [Выбросов лавы](https://ru.wowhead.com/spell=51505) для того, чтобы продлить [Элементаля бури](https://ru.wowhead.com/spell=192249/) и использовать второй раз {{ site.data.spells.eye_storm }}.
+  * Если целей не более двух, то {{ site.data.spells.lvb }} кастуется по КД
+3. {:.fire-apl}{{ site.data.spells.cl }}.
+3. {:.fire-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756) во время перебежки.
+4. {:.lava-apl .mote-apl}{{ site.data.spells.fe }}.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.lava-apl .lmt-apl}{{ site.data.spells.fe }}.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.lava-apl .storm-apl}{{ site.data.spells.storm }}.
+  * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
+4. {:.lava-apl .sk-apl}{{ site.data.spells.sk }}.
+  * Если целей не более **2**, то заряд [Хранителя бурь](https://ru.wowhead.com/spell=191634) следует тратить на обычную [Молнию](https://ru.wowhead.com/spell=188196). На **3+** цели – на [Цепную молнию](https://ru.wowhead.com/spell=188443).
+4. {:.flavaire-apl .pw-apl}{{ site.data.covenants.pw }}.
+4. {:.lava-apl .ft-apl}{{ site.data.covenants.ft }}.
+4. {:.lava-apl}{{ site.data.spells.quake }}
+4. {:.lava-apl}{{ site.data.spells.fs }}
+4. {:.lava-apl}{{ site.data.spells.lvb }} по проку [Волны лавы](https://ru.wowhead.com/spell=77756), если {{ site.data.spells.storm }} **не активен**.
+  * Если {{ site.data.spells.storm }} **активен** и если цели проживут дольше **50** секунд, стоит скастовоать примерно **5-7** [Выбросов лавы](https://ru.wowhead.com/spell=51505) для того, чтобы продлить [Элементаля бури](https://ru.wowhead.com/spell=192249/) и использовать второй раз {{ site.data.spells.eye_storm }}.
+  * Если целей не более двух, то {{ site.data.spells.lvb }} кастуется по КД
+4. {:.lava-apl}{{ site.data.spells.cl }}.
+4. {:.lava-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756) во время перебежки.
+ 
 
 # Урон в движении
 
