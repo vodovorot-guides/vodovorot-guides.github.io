@@ -152,13 +152,13 @@ custom-javascript-list:
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 1. {:.deeply-apl .storm-apl}{{ site.data.spells.storm }} до пула.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.eye_storm }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
-1. {:.deeply-apl}{{ site.data.spells.fs }}.
-1. {:.deeply-apl .pw-apl}{{ site.data.covenants.pw }}.
+1. {:.deeply-apl}{{ site.data.spells.fs }} в **первую** цель.
+1. {:.deeply-apl .pw-apl}{{ site.data.covenants.pw }} во **вторую** цель.
 1. {:.deeply-apl}{{ site.data.spells.cl }}.
 1. {:.deeply-apl}{{ site.data.spells.quake }}.
 1. {:.deeply-apl}{{ site.data.spells.cl }}.
 1. {:.deeply-apl}{{ site.data.spells.quake }}.
-1. {:.deeply-apl}{{ site.data.spells.fs }}.
+1. {:.deeply-apl}{{ site.data.spells.fs }} в **третью** цель.
 1. {:.deeply-apl}{{ site.data.spells.lvb }}.
 2. {:.eogs-apl .sk-apl}{{ site.data.spells.sk }} до пула.
 2. {:.eogs-apl .mote-apl}{{ site.data.spells.fe }} до пула.
