@@ -215,8 +215,8 @@ custom-javascript-list:
 1. {:.deeply-apl}{{ site.data.spells.quake }}.
 1. {:.deeply-apl}{{ site.data.spells.fs }}, если целей под шоками меньше **6**.
 1. {:.deeply-apl}{{ site.data.covenants.pw }}, если у вас нет активного баффа от ковенантской легендарки [Расколотые стихии](https://ru.wowhead.com/spell=354647).
-1. {:.deeply-apl}{{ site.data.spells.lvb }}, если под [Огненным шоком](https://ru.wowhead.com/spell=188389) не менее **3** целей.
-1. {:.deeply-apl}{{ site.data.spells.cl }}
+1. {:.deeply-apl}{{ site.data.spells.lvb }}, если вы в бою против **2-4** целей.
+1. {:.deeply-apl}{{ site.data.spells.cl }}.
 2. {:.eogs-apl .mote-apl}{{ site.data.spells.fe }}.
   * {:.primal_elem-apl}Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 2. {:.eogs-apl .lmt-apl}{{ site.data.spells.fe }}.
