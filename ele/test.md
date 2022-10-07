@@ -9,7 +9,6 @@ description: В этой статье вы найдете всю самую ва
 image: /assets/img/tiers.jpg
 ---
 
-
 <p align="center">
     <img src="/assets/img/proftitle.jpg"> 
 </p>
