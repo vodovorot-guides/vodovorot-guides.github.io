@@ -36,7 +36,7 @@ image: /assets/img/tiers.jpg
 * Заказы позволят зарабатывать тем, кто вложил время и золото в прокачку профессии. Выполнение каждого заказа приносит прибыль, но требует прокачки профессии, в зависимости от требований заказчика.
 
 <p align="center">
-<img src="/assets/img/comm.jpg" width=600x> 
+<img src="/assets/img/comm.jpg" width=400x> 
 </p>
 
 <hr style="height:1px;background-color:#bbb">
