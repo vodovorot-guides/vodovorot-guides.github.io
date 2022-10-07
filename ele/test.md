@@ -1,7 +1,7 @@
 ---
 layout: page
 last_update: 2021-10-07
-title: Большой обзор профессий Dragonflight
+title: Обзор профессий Dragonflight
 wow: 10.0
 toc: true
 author: Amani
