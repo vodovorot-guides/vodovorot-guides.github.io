@@ -1,11 +1,14 @@
 ---
 layout: page
+last_update: 2021-10-07
 title: Краткий обзор профессий Dragonflight
-wow: 9.2.7
+wow: 10.0
+toc: true
 author: Amani
 description: 
 image: /assets/img/ascendance.jpg
 ---
+
 
 <p align="center">
     <img src="/assets/img/ascendance.jpg"> 
