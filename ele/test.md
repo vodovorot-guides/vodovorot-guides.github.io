@@ -1,17 +1,17 @@
 ---
 layout: page
 last_update: 2021-10-07
-title: Краткий обзор профессий Dragonflight
+title: Большой обзор профессий Dragonflight
 wow: 10.0
 toc: true
 author: Amani
-description: 
-image: /assets/img/ascendance.jpg
+description: В этой статье вы найдете всю самую важную информацию о переработке профессий в Dragonflight. Как работает новая система профессий, какие профессии стоит выбрать, как крафтить топовую экипировку, какие уровни предметов на крафтовом гире, как зарабатывать на профессии и многое другое.
+image: /assets/img/tiers.jpg
 ---
 
 
 <p align="center">
-    <img src="/assets/img/ascendance.jpg"> 
+    <img src="/assets/img/proftitle.jpg"> 
 </p>
 
 # Основная информация о профессиях
