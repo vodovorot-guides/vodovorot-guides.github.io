@@ -19,7 +19,7 @@ image: /assets/img/tiers.jpg
 * Прокачка профессий до максимума будет дорогой, но это будет **необязательно** даже для топ рейдеров. 
 
 <p align="center">
-<img src="/assets/img/sotka.jpg" width=400x> 
+<img src="/assets/img/sotka.jpg" width=600x> 
 </p>
 
 <hr style="height:1px;background-color:#bbb">
@@ -37,7 +37,7 @@ image: /assets/img/tiers.jpg
 * Заказы позволят зарабатывать тем, кто вложил время и золото в прокачку профессии. Выполнение каждого заказа приносит прибыль, но требует прокачки профессии, в зависимости от требований заказчика.
 
 <p align="center">
-<img src="/assets/img/comm.jpg" width=300x> 
+<img src="/assets/img/comm.jpg" width=600x> 
 </p>
 
 <hr style="height:1px;background-color:#bbb">
@@ -64,7 +64,7 @@ image: /assets/img/tiers.jpg
 * Практически все изготавливаемые вещи и новые реагенты для профессий имеют ранги качества, от **1** до **5**. Чем выше ранг, тем выше будет уровень предмета скрафченной экипировки. Для расходников чем выше ранг, тем мощнее эффект. Более качественные реагенты дают на выходе более качественные предметы.
 
 <p align="center">
-<img src="/assets/img/tiers.jpg" width=400x> 
+<img src="/assets/img/tiers.jpg" width=600x> 
 </p>
 
 <hr style="height:1px;background-color:#bbb">
@@ -118,7 +118,7 @@ image: /assets/img/tiers.jpg
 * **Украшение** – это особый эффект, который получается с помощью дополнительных реагентов. Дает различные баффы персонажу и максимум можно носить два предмета с украшениямя. Украшения на данный момент несбалансированы, сейчас на бете есть украшение, продлевающее длительность зелий на **50%**, а другое украшение увеличивает искусность на **0.1%** если у вас более **90%** здоровья.
 
 <p align="center">
-<img src="/assets/img/fancy.jpg" width=400x> 
+<img src="/assets/img/fancy2.jpg" width=400x> 
 </p>
 
 <hr style="height:1px;background-color:#bbb">
