@@ -42,15 +42,6 @@ image: /assets/img/tiers.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-* Для всего крафта Dragonflight потребуется находиться возле **стола профессии**, который доступен в новой столице, Валдраккене. Такие столы также могут крафтить Инженеры.
-
-<p align="center">
-<img src="/assets/img/verstak.jpg" width=400x> 
-</p>
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
 * У всех профессий будут **специализации**, которые открывают доступ к различным уникальным рецептам, дают уникальные перки и добавляют статы профессии. Для прокачки специализации нужны специальные очки, которые можно получить при первом крафте каждого рецепта, за ежедневные задания, найти в случайных сокровищах в открытом мире и так далее. Калькулятор специализаций доступен на [Wowhead](https://www.wowhead.com/beta/profession-tree-calc).
 
 <p align="center">
@@ -144,8 +135,19 @@ image: /assets/img/tiers.jpg
 * Для крафта предметов с высоким ilvl требуется [Изначальный хаос](https://www.wowhead.com/beta/item=190454) (выпадает из подземелий, рейдов и PvP) и [Искра искусности](https://www.wowhead.com/beta/item=19045) (получается за завершение специального квеста, который доступен раз в несколько недель).
 
 <p align="center">
-<img src="/assets/img/sparc.jpg" width=400x> 
+<img src="/assets/img/spark.jpg" width=400x> 
 </p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+* Для всего крафта Dragonflight потребуется находиться возле **стола профессии**, который доступен в новой столице, Валдраккене. Такие столы также могут крафтить Инженеры.
+
+<p align="center">
+<img src="/assets/img/verstak.jpg" width=400x> 
+</p>
+
+
 
 # Особенности профессий 
 
