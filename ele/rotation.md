@@ -119,25 +119,26 @@ custom-javascript-list:
 34. {:.eb-apl .up-apl}{{ site.data.spells.eb }}.
 34. {:.eb-apl .asc_ele-apl}{{ site.data.spells.eb }}, если вы не находитесь в форме [Перерождения](https://ru.wowhead.com/spell=114050).
 36. {:.sk-apl}{{ site.data.spells.sk }}.
-37. {:.pw-apl}{{ site.data.covenants.pw }}, если у вас нет активного баффа от ковенантской легендарки [Расколотые стихии](https://ru.wowhead.com/spell=354647).
-38. {:.mote-apl .eogs-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
-39. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.lvb }}.
-40. {:.vt-apl}{{ site.data.covenants.vt }}.
-41. {:.ft-apl .mote-apl}{{ site.data.covenants.ft }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-42. {:.ft-apl .lmt-apl}{{ site.data.covenants.ft }}.
-43. {:.lmt-apl}{{ site.data.spells.lmt }}.
-44. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
-45. {{ site.data.spells.lvb }}.
-46. {:.if-apl}{{ site.data.spells.if }}.
-47. {:.mote-apl}{{ site.data.spells.es }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+   * {:.deeply-apl}Не допускайте потери стаков [Хранителя бурь](https://ru.wowhead.com/spell=191634), даже если вам напрокало [Перерождение](https://ru.wowhead.com/spell=114050/).
+38. {:.pw-apl}{{ site.data.covenants.pw }}, если у вас нет активного баффа от ковенантской легендарки [Расколотые стихии](https://ru.wowhead.com/spell=354647).
+39. {:.mote-apl .eogs-apl}{{ site.data.spells.quake }} с баффами от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+40. {:.ecs-apl}{{ site.data.spells.ecs }}, если следующее заклинание – {{ site.data.spells.lvb }}.
+41. {:.vt-apl}{{ site.data.covenants.vt }}.
+42. {:.ft-apl .mote-apl}{{ site.data.covenants.ft }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+43. {:.ft-apl .lmt-apl}{{ site.data.covenants.ft }}.
+44. {:.lmt-apl}{{ site.data.spells.lmt }}.
+45. {:.sk-apl .mote-apl}{{ site.data.spells.lb }} с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
+46. {{ site.data.spells.lvb }}.
+47. {:.if-apl}{{ site.data.spells.if }}.
+48. {:.mote-apl}{{ site.data.spells.es }} c баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 49. {:.storm-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 50. {:.lmt-apl .eogs-apl}{{ site.data.spells.quake }} с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=336215).
 52. {:.lmt-apl}{{ site.data.spells.es }}, если есть **60+** ед. энергии Водоворота.
-51. {:.storm-apl}{{ site.data.spells.es }}, если есть **60+** ед. энергии Водоворота.
-52. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
-53. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
-54. {:.vt-apl}[Наставления предков](https://ru.wowhead.com/spell=108281), [Щит земли](https://ru.wowhead.com/spell=974), [Тотем исцеляющего потока](https://ru.wowhead.com/spell=5394) или [Исцелющий всплеск](https://ru.wowhead.com/spell=8004) для прока легендарки [Яростный перезвон](https://ru.wowhead.com/spell=356789).
-55. {:.ch-apl}{{ site.data.covenants.ch }}.
+52. {:.storm-apl}{{ site.data.spells.es }}, если есть **60+** ед. энергии Водоворота.
+53. {{ site.data.spells.fs }}, если до спадения осталось менее **5.4** секунд.
+54. {:.if-apl}{{ site.data.spells.frs }} с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+55. {:.vt-apl}[Наставления предков](https://ru.wowhead.com/spell=108281), [Щит земли](https://ru.wowhead.com/spell=974), [Тотем исцеляющего потока](https://ru.wowhead.com/spell=5394) или [Исцелющий всплеск](https://ru.wowhead.com/spell=8004) для прока легендарки [Яростный перезвон](https://ru.wowhead.com/spell=356789).
+56. {:.ch-apl}{{ site.data.covenants.ch }}.
 57. {{ site.data.spells.lb }}.
 
 
@@ -210,7 +211,7 @@ custom-javascript-list:
   * Не забывайте использовать {{ site.data.spells.meteor }} с панели питомца (рекомендуется использовать [макрос](https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8)).
 1. {:.deeply-apl .sk-apl}{{ site.data.spells.sk }}.
   * Если целей не более **2**, то заряд [Хранителя бурь](https://ru.wowhead.com/spell=191634) следует тратить на обычную [Молнию](https://ru.wowhead.com/spell=188196). На **3+** цели – на [Цепную молнию](https://ru.wowhead.com/spell=188443).
-  * Не допускайте потери стаков [Хранителя бурь](https://ru.wowhead.com/spell=191634), даже если вам напрокало [Перерождении](https://ru.wowhead.com/spell=114050/)
+  * Не допускайте потери стаков [Хранителя бурь](https://ru.wowhead.com/spell=191634), даже если вам напрокало [Перерождение](https://ru.wowhead.com/spell=114050/).
 1. {:.deeply-apl}{{ site.data.spells.lvb }} с проком [Волны лавы](https://ru.wowhead.com/spell=77756), если следующее заклинание – {{ site.data.spells.quake }}.
 1. {:.deeply-apl}{{ site.data.spells.quake }}.
 1. {:.deeply-apl}{{ site.data.spells.fs }}, если целей под шоками меньше **6**.
