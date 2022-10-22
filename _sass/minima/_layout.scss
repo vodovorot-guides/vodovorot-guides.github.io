@@ -11,12 +11,8 @@
 }
 
 .site-title {
-  @include relative-font-size(1.825);
   font-weight: 350;
-  line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
-  margin-bottom: 0;
-  float: left;
+  // text-align: center;
 
   &,
   &:visited {
@@ -231,20 +227,26 @@ img {
 .title-heading {
   @include relative-font-size(1.2);
   text-align: center;
-  color: #ddd;
+  //color: #ddd;
   //-webkit-text-stroke: 0.5px #1e87b4;
   //-webkit-font-smoothing: antialiased;
-  text-shadow: 0 0 8px #0098ff;
+  //text-shadow: 0 0 8px #0098ff;
 }
 
 .title {
-    padding: 20px 0;
-    
+    padding: 0 0;
+
+  img {
+      max-width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+  }
 }
 
 .guide-img-block {
-    margin-top: 50px;
-    margin-bottom: 30px;
+    //margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .guide-img {
@@ -263,7 +265,7 @@ img {
 
 
 @media only screen and (max-width: 576px) {
-  .guide-img { 
+  .guide-img {
       max-width: 300px;
       max-height: 300px;
       width:auto;
@@ -313,6 +315,15 @@ img {
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
   }
+}
+
+.last-news {
+    span {
+        float: right;
+        // font-weight: bolder;
+        // font-size: $mid-font-size;
+        // color: $grey-color;
+    }
 }
 
 .post-content {

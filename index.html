@@ -3,35 +3,14 @@ layout: default
 ---
 
 <div class="home">
-  <!-- <div class="title"> -->
-  <!--   <h1 class="title-heading">{{- site.description_long | escape -}}</h1> -->
-  <!-- </div> -->
-  {%- if site.posts.size > 0  and paginator.previous_page == nil -%}
-    <ul class="post-list">
-      {%- assign post = paginator.posts | first -%}
-        <li>
-          {%- assign months = "января|февраля|марта|апреля|мая|июня|июля|августа|сентября|октября|ноября|декабря" | split: "|" -%}
-          {%- assign m = post.date | date: "%-m" | minus: 1 -%}
-          {%- assign day = post.date | date: "%-d" -%}
-          {%- assign month = months[m] -%}
-          {%- assign year = post.date | date: "%Y" -%}
-          <span class="post-meta">{{ day }} {{ month }}, {{ year }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-            {%- if post.excerpt -%}
-            <a href="{{ post.url | relative_url }}">
-              Читать далее
-            </a>
-            {%- endif -%}
-          {%- endif -%}
-        </li>
-    </ul>
-  {%- endif -%}
+  <div class="title">
+    <img src="{{ site.logo }}" />
+    <!-- <h1 class="title-heading">{{- site.description_long | escape -}}</h1> -->
+    <p class="site-title"><strong>{{- site.description | escape -}}</strong></p>
+    <p>{{- site.description_long | escape -}}</p>
+    <h2 class="post-list-heading">Об авторе:</h2>
+    <p>{{- site.about_author | markdownify -}}</p>
+  </div>
 
     <div class="container guide-img-block">
       <div class="row row-img">
@@ -47,17 +26,62 @@ layout: default
       </div>
     </div>
 
+    {%- comment -%}
+    код для отображения самой первой новости
+    {%- if site.posts.size > 0  and paginator.previous_page == nil -%}
+    <ul class="post-list">
+      {%- assign post = paginator.posts | first -%}
+      <li>
+        {%- assign months = "января|февраля|марта|апреля|мая|июня|июля|августа|сентября|октября|ноября|декабря" | split: "|" -%}
+        {%- assign m = post.date | date: "%-m" | minus: 1 -%}
+        {%- assign day = post.date | date: "%-d" -%}
+        {%- assign month = months[m] -%}
+        {%- assign year = post.date | date: "%Y" -%}
+        <span class="post-meta">{{ day }} {{ month }}, {{ year }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+        {%- if post.excerpt -%}
+        <a href="{{ post.url | relative_url }}">
+          Читать далее
+        </a>
+        {%- endif -%}
+        {%- endif -%}
+      </li>
+    </ul>
+    {%- endif -%}
+    {%- endcomment -%}
+
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {%- if site.posts.size > 1 -%}
+    <h2 class="post-list-heading">Последние события:</h2>
+    <p class="last-news">
+    {%- for news in site.data.last_news -%}
+    {%- if news.link -%}
+      <a href="{{ news.link | relative_url }}">{{ news.title }}</a>
+    {%- else -%}
+      {{ news.title }}
+    {%- endif -%}
+      <span class="post-meta">{{ news.date }}</span><br />
+    {%- endfor -%}
+    </p>
+
+
+  {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Новости" }}</h2>
 
     <ul class="post-list">
       <!-- adjusting the number of posts per page happens in _config.yml 'paginate: ' -->
       {%- for post in paginator.posts -%}
+      {%- comment -%}
       {%- if forloop.index == 1 and paginator.previous_page == nil -%}{%- continue -%}{%- endif -%}
+      {%- endcomment -%}
         <li>
           {%- assign months = "января|февраля|марта|апреля|мая|июня|июля|августа|сентября|октября|ноября|декабря" | split: "|" -%}
           {%- assign m = post.date | date: "%-m" | minus: 1 -%}

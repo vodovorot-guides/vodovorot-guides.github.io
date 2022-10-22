@@ -13,12 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Stormkeeper 
+title: Stormkeeper
 email: d.belyakin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Гайды для Шаманов в World of Warcraft
+  Stormkeeper.ru - специализированный ресурс для Шаманов в World of Warcraft!
 description_long: >-
-  Добро пожаловать на Stormkeeper.ru – специализированный ресурс для Шаманов в World of Warcraft!
+  Здесь вы можете найти актуальную информацию по всем специализациям шамана, а также полезные статьи, новости и многое другое.
+about_author: >
+  Меня зовут **Amani**, я являюсь админом сервера [Водоворот](https://discord.gg/8Bag6kT) и пишу гайды для шаманов с 2018 года.
+  Я один из авторов приоритетов способностей шамана для [Raidbots](https://raidbots.com), а также занимаюсь переводом таких
+  ресурсов, как [MythicTrap](https://mythictrap.com) и [WoWAnalyzer](https://wowanalyzer.com).
+
+
+  Я близко сотрудничаю с англоязычным сообществом шаманов и являюсь MVP на серверах
+  [Earthshrine](https://) и [Ancestral Guidance](https://)
+
+
+  Регулярно стримлю на [Twitch](https://twitch.tv/amanizandalari) и выкладываю ролики на
+  [YouTube](https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg). Подписывайтесь!
+
+
+  Поддержать создание контента можно на [Boosty]() и [Patreon](https://www.patreon.com/amani_vodovorot).
+
 locale: ru_RU
 logo: /assets/img/logos/sk_full.png
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -39,6 +55,7 @@ plugins:
 paginate: 6
 show_excerpts: true
 excerpt_separator: <!--more-->
+list_title: Блог
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -374,11 +374,13 @@ span.devider {
 
 .guide-pic {
     box-shadow: 0 0 10px 0 black;
-    border: 1px solid transparent; 
+    border: 1px solid transparent;
 }
 
 .guide-pic:hover {
-    border: 1px solid $brand-color; 
+    box-shadow: 0 0 10px 0 $brand-color;
+    border: 1px solid transparent;
+    transform: translateY(-3px);
 }
 .guide-btn {
     color: $brand-color;
