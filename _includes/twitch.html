@@ -7,44 +7,45 @@
   </a>
   </div>
   <script type="text/javascript">
-    var options = {
-      channel: "amanizandalari", // TODO: Change this to the streams username you want to embed
-      width: 400,
-      height: 300,
-      muted: true,
-    };
-    var player = new Twitch.Player("twitch", options);
-    var embed = document.getElementById("twitch");
-    var closebtn = document.getElementById("close-button");
+    if ($(window).width() > 992) {
+        var options = {
+            channel: "amanizandalari", // TODO: Change this to the streams username you want to embed
+            width: 400,
+            height: 300,
+            muted: true,
+        };
+        var player = new Twitch.Player("twitch", options);
+        var embed = document.getElementById("twitch");
+        var closebtn = document.getElementById("close-button");
 
-    embed.addEventListener('mouseover', (event) => {
-        closebtn.style.display = 'block';
-    });
+        embed.addEventListener('mouseover', (event) => {
+            closebtn.style.display = 'block';
+        });
 
-    embed.addEventListener('mouseout', (event) => {
-        closebtn.style.display = 'none';
-    });
+        embed.addEventListener('mouseout', (event) => {
+            closebtn.style.display = 'none';
+        });
 
-    player.addEventListener(Twitch.Player.READY, initiate)
+        player.addEventListener(Twitch.Player.READY, initiate)
 
-    function initiate() {
-      console.log("Initiate called");
-      player.addEventListener(Twitch.Player.ONLINE, handleOnline);
-      player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
-      player.removeEventListener(Twitch.Player.READY, initiate);
-    }
+        function initiate() {
+            player.addEventListener(Twitch.Player.ONLINE, handleOnline);
+            player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
+            player.removeEventListener(Twitch.Player.READY, initiate);
+        }
 
-    function handleOnline() {
-      document.getElementById("twitch").classList.remove('hide');
-      player.removeEventListener(Twitch.Player.ONLINE, handleOnline);
-      player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
-      player.setMuted(false);
-    }
+        function handleOnline() {
+            document.getElementById("twitch").classList.remove('hide');
+            player.removeEventListener(Twitch.Player.ONLINE, handleOnline);
+            player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
+            player.setMuted(false);
+        }
 
-    function handleOffline() {
-      document.getElementById("twitch").classList.add('hide');
-      player.removeEventListener(Twitch.Player.OFFLINE, handleOffline);
-      player.addEventListener(Twitch.Player.ONLINE, handleOnline);
-      player.setMuted(true);
+        function handleOffline() {
+            document.getElementById("twitch").classList.add('hide');
+            player.removeEventListener(Twitch.Player.OFFLINE, handleOffline);
+            player.addEventListener(Twitch.Player.ONLINE, handleOnline);
+            player.setMuted(true);
+        }
     }
   </script>
