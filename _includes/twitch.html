@@ -2,7 +2,9 @@
 
   <div id="twitch" class="hide">
     <!-- <input id="close-button" type="button" value="X"></div> -->
-  <a href="#" id="close-button" class="btn btn-outline-danger" onclick='this.parentNode.parentNode.removeChild(this.parentNode)'>X</a>
+  <a href="#" id="close-button" onclick='this.parentNode.parentNode.removeChild(this.parentNode)'>
+    <img src="/assets/img/close-button-icon.svg" />
+  </a>
   </div>
   <script type="text/javascript">
     var options = {
@@ -12,6 +14,16 @@
       muted: true,
     };
     var player = new Twitch.Player("twitch", options);
+    var embed = document.getElementById("twitch");
+    var closebtn = document.getElementById("close-button");
+
+    embed.addEventListener('mouseover', (event) => {
+        closebtn.style.display = 'block';
+    });
+
+    embed.addEventListener('mouseout', (event) => {
+        closebtn.style.display = 'none';
+    });
 
     player.addEventListener(Twitch.Player.READY, initiate)
 
