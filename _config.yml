@@ -51,6 +51,7 @@ plugins:
   - jekyll-feed
   - jekyll-pages
   - jekyll-target-blank
+  - jemoji
 
 paginate: 6
 show_excerpts: true

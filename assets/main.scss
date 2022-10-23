@@ -245,6 +245,27 @@ ul {
     }
 }
 
+.hide {
+    display:none;
+}
+
+/* Optional: The following css just makes sure the twitch video stays responsive */
+#twitch {
+    position: fixed !important;
+    // padding-bottom: 56.25%; /* 16:9 */
+    // padding-top: 25px;
+    height: 0;
+    bottom: 0;
+    left: 0;
+}
+#twitch object, #twitch iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 @media only screen and (max-width: 1590px) {
     .side-categorybar { // hide side menu if we have to assume it would probably overlap the content
         display: none !important;
