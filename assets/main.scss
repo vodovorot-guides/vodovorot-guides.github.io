@@ -246,7 +246,7 @@ ul {
 }
 
 .hide {
-    display:none;
+    // display:none;
 }
 
 /* Optional: The following css just makes sure the twitch video stays responsive */
@@ -259,6 +259,13 @@ ul {
     left: 0;
     width: 400px;
     height: 300px;
+
+    #close-button {
+        width: 30px;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
 }
 #twitch object, #twitch iframe {
     position: absolute;
