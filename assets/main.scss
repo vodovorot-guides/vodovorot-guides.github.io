@@ -269,6 +269,12 @@ ul {
 }
 
 @media only screen and (max-width: 1590px) {
+    .twitch { // hide side menu if we have to assume it would probably overlap the content
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 1590px) {
     .side-categorybar { // hide side menu if we have to assume it would probably overlap the content
         display: none !important;
     }
