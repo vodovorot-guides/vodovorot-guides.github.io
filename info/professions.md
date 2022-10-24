@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2021-10-07
+last_update: 2022-10-07
 title: Обзор профессий Dragonflight
 wow: 10.0
 toc: true
