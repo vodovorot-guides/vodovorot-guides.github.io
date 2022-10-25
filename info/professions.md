@@ -13,7 +13,7 @@ image: /assets/img/tiers.jpg
     <img src="/assets/img/proftitle.jpg"> 
 </p>
 
-*Мои стримы можно найти на Twitch: [AmaniZandalari](https://www.twitch.tv/amanizandalari)*
+*Мои стримы можно найти на Twitch: [AmaniZandalari](https://www.twitch.tv/amanizandalari)*  
 *Запись тестов профессий: [YouTube](https://youtu.be/9MTjgxeqiX8)*
 
 # Основная информация о профессиях
