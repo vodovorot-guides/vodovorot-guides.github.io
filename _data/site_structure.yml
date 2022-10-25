@@ -1,65 +1,21 @@
 categories:
   - title: Элем
-    url: /ele/intro.html
+    url: /ele/prepatch-df.html
     subcategories:
-      - title: Кратко и быстро
-        url: /ele/intro.html
-      - title: Заклинания
-        url: /ele/spells.html
-      - title: Ротация
-        url: /ele/rotation.html
-      - title: Таланты
-        url: /ele/talents.html
-      - title: Ковенанты
-        url: /ele/covenants.html
-      - title: Легендарки
-        url: /ele/legendaries.html
-      - title: Характеристики
-        url: /ele/stats.html
-      - title: Weakauras
-        url: /ele/weakauras.html
-        divided: true
-      - title: PvP-гайд
-        url: /ele/pvp.html
+      - title: Элем в препатче Dragonflight
+        url: /ele/prepatch-df.html
 
   - title: Энх
-    url: /enh/intro.html
+    url: /enh/prepatch-df.html
     subcategories:
-      - title: Кратко и быстро
-        url: /enh/intro.html
-      - title: Ротация
-        url: /enh/rotation.html
-      - title: Таланты
-        url: /enh/talents.html
-      - title: Ковенанты
-        url: /enh/covenants.html
-      - title: Легендарки
-        url: /enh/legendaries.html
-      - title: Характеристики
-        url: /enh/stats.html
-      - title: Weakauras
-        url: /enh/weakauras.html
-        divided: true
-      - title: Рейд Гробница Предвечных
-        url: /enh/raid-92.html
+      - title: Энх в препатче Dragonflight
+        url: /enh/prepatch-df.html
 
   - title: Рестор
-    url: /resto/intro.html
+    url: /resto/prepatch-df.html
     subcategories:
-      - title: Кратко и быстро
-        url: /resto/intro.html
-      - title: Заклинания
-        url: /resto/spells.html
-      - title: Таланты
-        url: /resto/talents.html
-      - title: Ковенанты
-        url: /resto/covenants.html
-      - title: Легендарки
-        url: /resto/legendaries.html
-      - title: Характеристики
-        url: /resto/stats.html
-      - title: Weakauras
-        url: /resto/weakauras.html
+      - title: Рестор в препатче Dragonflight
+        url: /resto/prepatch-df.html
         divided: true
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
@@ -76,8 +32,6 @@ categories:
         url: /info/abbrevs.html
       - title: Макросы
         url: /info/macros.html
-      - title: Проводники
-        url: /info/conduits.html
       - title: Руководство по Raidbots
         url: /info/sim.html
       - title: Количество целей заклинаний
