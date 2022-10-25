@@ -41,6 +41,8 @@ image: /assets/img/ele_tb2.png
   * [Хождение по воде](https://www.wowhead.com/ptr/spell=546/)
   * [Жажда крови](https://www.wowhead.com/ptr/spell=2825/)
 
+<p></p>
+
 * Все остальные способности, которые не указаны в списке выше, получаются через таланты. Можно создать практически неиграбельные билды, например взять [Ледяную ярость](https://www.wowhead.com/ptr/spell=210714) без [Ледяного шока](https://www.wowhead.com/ptr/spell=196840/), либо пойти в Мифик+ без [Пронизывающего ветра](https://www.wowhead.com/ptr/spell=57994/), но [зачем](https://i.imgur.com/5JjMlnj.gifv)?
 
 * В общую ветку талантов добавлено большое количество вспомогательных способностей:
@@ -55,6 +57,8 @@ image: /assets/img/ele_tb2.png
   * [Тотем хватки земли](https://www.wowhead.com/ptr/spell=51485) – обездвиживание мобов.
   * [Возвращение тотемов](https://www.wowhead.com/ptr/spell=108285) – сброс кулдауна тотемов.
   * Множество пассивных защитных и вспомогательных способностей. Подробнее про утилити способности можно узнать в [видео](https://youtu.be/kzsCx9LntrQ).
+
+<p></p>
 
 * Таланты Элема в Dragonlflight условно разделены на две стороны: слева расположено всё, связанное со школой магиией <span style="color:#26d22b;font-size:1em;">**природы**</span> ([Молния](https://www.wowhead.com/ptr/spell=188196) и [Цепния молния](https://www.wowhead.com/ptr/spell=188443)), а справа – со школой магии <span style="color:#f16f25;font-size:1em;">**огня**</span> ([Выброс лавы](https://www.wowhead.com/ptr/spell=51505) и [Огненный шок](https://www.wowhead.com/ptr/spell=188389/)).
 
