@@ -27,7 +27,7 @@ author: "Altenna, Amani, Cayna, HawkCorrigan, Sheffy"
 
 ## Визгунья (Эпохальный режим)
 
-**Тип боя:** Одна цель
+**Тип боя:** Одна жирная цель
 
 **Таланты:**
 * **15**: {{ site.data.spells.eote }}
