@@ -16,7 +16,6 @@ categories:
     subcategories:
       - title: Рестор в препатче Dragonflight
         url: /resto/prepatch-df.html
-        divided: true
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
       - title: Настройка VuhDo
