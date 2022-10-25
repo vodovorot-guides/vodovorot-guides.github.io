@@ -9,10 +9,10 @@ description: В этой статье собрана основная инфор
 image: /assets/img/enh_tb.png
 ---
 
-<p align="center">
-    <img src="/assets/img/proftitle.jpg"> 
-</p>
 
+<p align="center">
+<img src="/assets/img/enh_tb.png" width=400x> 
+</p>
 
 Узнать про основные изменения в препатче Dragonflight, а именно про новую систему талантов, обновленный интерфейс и все другие нововведения можно по этой ссылке:
 
