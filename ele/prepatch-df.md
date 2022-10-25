@@ -189,7 +189,7 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJSRSLRBBASAAAAAAQJApkEl0kUISJJBASAA
 
 <p></p>
 
-Альтернатива этому билду без легендарки [Равновесия стихий](https://www.wowhead.com/ptr/spell=336730/) – [по этой ссылке](https://www.wowhead.com/ptr/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVCoQCABCQQ). В случае этого билда используется лега [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=336215/).
+Альтернатива этому билду без легендарки [Равновесия стихий](https://www.wowhead.com/ptr/spell=336730/) – [по этой ссылке](https://www.wowhead.com/ptr/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVCoQCABCQQ). В этом случае используется лега [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=336215/).
 {: class="bordered"}
 
 ## Приоритет способностей
