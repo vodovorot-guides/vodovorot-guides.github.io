@@ -24,9 +24,43 @@ image: /assets/img/ele_tb2.png
 
 # Элем Шаман в Dragonflight
 
+* Способности, которые доступны без траты очков талантов:
+  * [Молния](https://www.wowhead.com/ptr/spell=188196)
+  * [Огненный шок](https://www.wowhead.com/ptr/spell=188389/)
+  * [Исцеляющий всплеск](https://www.wowhead.com/ptr/spell=8004)
+  * [Тотем оков земли](https://www.wowhead.com/ptr/spell=2484)
+  * [Стихийный удар](https://www.wowhead.com/ptr/spell=73899)
+  * [Вестник шторма](https://www.wowhead.com/ptr/spell=201845)
+  * [Оружие языка пламени](https://www.wowhead.com/ptr/spell=318038)
+  * [Щит молний](https://www.wowhead.com/ptr/spell=192106/)
+  * [Реинкарнация](https://www.wowhead.com/ptr/spell=20608)
+  * [Призрачный волк](https://www.wowhead.com/ptr/spell=2645)
+  * [Дух предков](https://www.wowhead.com/ptr/spell=2008)
+  * [Дальнее зрение](https://www.wowhead.com/ptr/spell=6196/)
+  * [Астральное возвращение](https://www.wowhead.com/ptr/spell=556)
+  * [Хождение по воде](https://www.wowhead.com/ptr/spell=546/)
+  * [Жажда крови](https://www.wowhead.com/ptr/spell=2825/)
+
+* Все остальные способности, которые не указаны в списке выше, получаются через таланты. Можно создать практически неиграбельные билды, например взять [Ледяную ярость](https://www.wowhead.com/ptr/spell=210714) без [Ледяного шока](https://www.wowhead.com/ptr/spell=196840/), либо пойти в Мифик+ без [Пронизывающего ветра](https://www.wowhead.com/ptr/spell=57994/), но [зачем](https://i.imgur.com/5JjMlnj.gifv)?
+
+* В общую ветку талантов добавлено большое количество вспомогательных способностей:
+  * [Порыв ветра](https://www.wowhead.com/ptr/spell=192063) – аналог блинка.
+  * [Тотем ветряного порыва](https://www.wowhead.com/ptr/spell=192077/) – ускорение для рейда, теперь можно брать без ущерба выживаемости.
+  * [Гром и молния](https://www.wowhead.com/ptr/spell=51490/) – можно усилить талантом [Громовой удар](https://www.wowhead.com/ptr/spell=378779).
+  * [Тотем конденсации](https://www.wowhead.com/ptr/spell=192058/) – можно усилить талантом [Дубина стража](https://www.wowhead.com/ptr/spell=381819).
+  * [Тотем источника маны](https://www.wowhead.com/beta/spell=381930) – реген маны для всех хилов в рейде.
+  * [Тотем каменной кожи](https://www.wowhead.com/beta/spell=383017) – **10%** физической защиты для танков.
+  * [Тотем безветрия](https://www.wowhead.com/beta/spell=383019) – ослабления сбития кастов на игроках.
+  * [Тотем противоядия](https://www.wowhead.com/beta/spell=383013) – снятие ядов со всей группы.
+  * [Тотем хватки земли](https://www.wowhead.com/ptr/spell=51485) – обездвиживание мобов.
+  * [Возвращение тотемов](https://www.wowhead.com/ptr/spell=108285) – сброс кулдауна тотемов.
+  * Множество пассивных защитных и вспомогательных способностей. Подробнее про утилити способности можно узнать в [видео](https://youtu.be/kzsCx9LntrQ).
+
 * Таланты Элема в Dragonlflight условно разделены на две стороны: слева расположено всё, связанное со школой магиией <span style="color:#26d22b;font-size:1em;">**природы**</span> ([Молния](https://www.wowhead.com/ptr/spell=188196) и [Цепния молния](https://www.wowhead.com/ptr/spell=188443)), а справа – со школой магии <span style="color:#f16f25;font-size:1em;">**огня**</span> ([Выброс лавы](https://www.wowhead.com/ptr/spell=51505) и [Огненный шок](https://www.wowhead.com/ptr/spell=188389/)).
 
 * На текущий момент все актуальные билды в бою против одной цели и на АоЕ играются через [Элементаля бури](https://www.wowhead.com/ptr/spell=192249) и большое количество усиленных [Молний](https://www.wowhead.com/ptr/spell=188196) и [Цепных молний](https://www.wowhead.com/ptr/spell=188443).
+
+* [Перерождение](https://www.wowhead.com/ptr/spell=114050) получило два вспомогательных таланта – [Клятва провидца](https://www.wowhead.com/ptr/spell=381785) увеличивает Скорость во время [Перерождения](https://www.wowhead.com/ptr/spell=114050) на **15%** и снижает его КД до **2** минут, а [Далекие пределы](https://www.wowhead.com/ptr/spell=381787/) позволяет [Земному шоку](https://www.wowhead.com/ptr/spell=8042) и другим спендерам продлевать время действия [Перерождения](https://www.wowhead.com/ptr/spell=114050).
 
 * Билды через [Элементаля огня](https://www.wowhead.com/ptr/spell=198067), [Выброс лавы](://www.wowhead.com/ptr/spell=51505), [Огненный шок](https://www.wowhead.com/ptr/spell=188389/) и [Укоренившиеся стихии](https://www.wowhead.com/ptr/spell=378270/) сейчас не наносят достаточно урона ни в одном типе боя и не могут конкурировать с билдами через [Молнию](https://www.wowhead.com/ptr/spell=188196).
 
@@ -52,7 +86,7 @@ image: /assets/img/ele_tb2.png
   * [Поток силы](https://www.wowhead.com/ptr/spell=385923/)
   * Все вышеперечисленные таланты также взаимодействуют с [Хранителем бурь](https://www.wowhead.com/ptr/spell=191634) и [Властелином стихий](https://www.wowhead.com/ptr/spell=16166/).
 
-* Выброс лавы также получил усиление через таланты:
+* [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) также получил усиление через таланты:
   * [Лед и пламя](https://www.wowhead.com/ptr/spell=382886/)
   * [Зов огня](https://www.wowhead.com/ptr/spell=378255)
   * [Улучшенное оружие языка пламени](https://www.wowhead.com/ptr/spell=382027)
@@ -64,190 +98,94 @@ image: /assets/img/ele_tb2.png
 
 * [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) переработан – при взятии этого таланта он заменяет на панели [Земной шок](https://www.wowhead.com/ptr/spell=8042) наносит почти **в два раза** больше урона. Количество баффа на вторичные характеристики также удвоено по сравнению с Shadowlands. Из минусов – [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) стоит **в полтора раза** больше энергии Водоворота чем [Земной шок](https://www.wowhead.com/ptr/spell=8042) и имеет время произнесения **2** секунды.
 
-* [Ледяная ярость](https://www.wowhead.com/ptr/spell=210714) – длительность баффа на усиленные [Ледяные шоки](https://www.wowhead.com/ptr/spell=196840) увеличена с **15** секунд до **25** секунд, что ощутимо облегчает использование этой способности. Также были добавлены два вспомогательных таланта
+* [Ледяная ярость](https://www.wowhead.com/ptr/spell=210714) – длительность баффа на усиленные [Ледяные шоки](https://www.wowhead.com/ptr/spell=196840) увеличена с **15** секунд до **25** секунд, что ощутимо облегчает использование этой способности. Также были добавлены два вспомогательных таланта:
+  * [Расплавленная порода](https://www.wowhead.com/ptr/spell=381776) – [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) усиливает следующий [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) на **20%**.
+  * [Электрический шок](https://www.wowhead.com/ptr/spell=382086) – усиленный [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) поражает дополнительно **3** цели и накладывает на них дебафф **6** секунд, увеличивающий весь получаемый урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span> на **15%**.
 
-удс
-оружие водоворота
-канселаура
+* Элем теперь имеет возможность взять в общей ветке талантов [Оружие Водоворота](https://www.wowhead.com/ptr/spell=187880/). Если атаковать цель в ближнем бою с этим талантом, то это увеличивает наносимый урон в бою против одной цели примерно на **0.7%**.
 
+* Одна из самых мощных комбинаций заклинаний с текущей системой талантов – максимальное усиление [Молнии](https://www.wowhead.com/ptr/spell=188196) с баффом от [Хранителя бурь](https://www.wowhead.com/ptr/spell=191634). Для этого требуется сделать следующее:
+  1. [Хранителем бурь](https://www.wowhead.com/ptr/spell=191634).
+  2. [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) с баффом от [Ледяной ярости](https://www.wowhead.com/ptr/spell=210714) и с талантом [Электрический шок](https://www.wowhead.com/ptr/spell=382086).
+  3. [Земной шок](https://www.wowhead.com/ptr/spell=8042), который дает бафф [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) и накладывает на цель дебафф [Грозовой разрядник](https://www.wowhead.com/ptr/spell=210689/).
+  4. Начать каст [Выброса лавы](https://www.wowhead.com/ptr/spell=51505) для баффа [Властелин стихий](https://www.wowhead.com/ptr/spell=16166/) (также может прокнуть [Мощь Водоворота](https://www.wowhead.com/ptr/spell=191861)). Если у вас есть прок [Волны лавы](https://www.wowhead.com/ptr/spell=77756/), то его можно отменить `/cancelaura` макросом.
+  5. По завершению каста – сразу применить [Молнию](https://www.wowhead.com/ptr/spell=188196), которая получит сразу несколько баффов на урон и многократные [Перегрузки](https://www.wowhead.com/ru/spell=168534).
 
+* Если взять таланты [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) и [Отголоски Великого Раскола](https://www.wowhead.com/ptr/spell=384087), то в бою против одной цели чередовать заклинания **не надо** – всегда кастуйте только [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), игнорируя [Землетрясение](https://www.wowhead.com/ptr/spell=61882). На АоЕ их всё еще необходимо чередовать.
 
-* Основной геймплей Энха не изменился – набираем стаки [Оружия Водоворота](https://www.wowhead.com/ptr/spell=187880/) с помощью одних способностей и тратим их на другие.
+* Основной билд для боя против одной цели имеет неплохой АоЕ потенциал ([Элементаль бури](https://www.wowhead.com/ptr/spell=192249) и [Хранителем бурь](https://www.wowhead.com/ptr/spell=191634)), что будет полезно во время спавна аддов в рейде.
 
-* В общую ветку талантов добавлено большое количество вспомогательных способностей:
-  * [Наставления предков](https://www.wowhead.com/ptr/spell=108281) – двухминутный бурст-отхил от нанесенного урона, особенно полезен во время АоЕ.
-  * [Тотем ветряного порыва](https://www.wowhead.com/ptr/spell=192077/) – ускорение для рейда, теперь можно брать без ущерба выживаемости.
-  * [Гром и молния](https://www.wowhead.com/ptr/spell=51490/) – можно использовать для позиционирования мобов. Усиляется талантом [Громовой удар](https://www.wowhead.com/ptr/spell=378779).
-  * [Тотем конденсации](https://www.wowhead.com/ptr/spell=192058/) – можно усилить талантом [Дубина стража](https://www.wowhead.com/ptr/spell=381819).
-  * [Тотем источника маны](https://www.wowhead.com/beta/spell=381930) – реген маны для всех хилов в рейде.
-  * [Тотем каменной кожи](https://www.wowhead.com/beta/spell=383017) – **10%** физической защиты для танков.
-  * [Тотем безветрия](https://www.wowhead.com/beta/spell=383019) – ослабления сбития кастов на игроках.
-  * [Тотем противоядия](https://www.wowhead.com/beta/spell=383013) – снятие ядов со всей группы.
-  * [Тотем хватки земли](https://www.wowhead.com/ptr/spell=51485) – обездвиживание мобов.
-  * Множество пассивных защитных и вспомогательных способностей. Подробнее про утилити способности можно узнать в [видео](https://youtu.be/kzsCx9LntrQ).
- 
-<p></p>
+# Элем Шаман в препатче
 
-* [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) теперь можно взять в общих талантах и использовать в бою против одной цели. Если при этом взять талант [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), то [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) заменяется на [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) и дает ему **второй заряд**.
-
-* Заклинания, тратящие [Оружия Водоворота](https://www.wowhead.com/ptr/spell=187880/) стали значительно сильнее – за счет таланта [Бурлящий Водоворот](https://www.wowhead.com/ptr/spell=384149) теперь можно тратить сразу **10** стаков. 
-
-* [Сокрушающая молния](https://www.wowhead.com/ptr/spell=187874/) теперь наносит ощутимо больше урона, но имеет более долгий КД (**12** секунд вместо **9**) и имеет сниженную эффективность если задевает более **6** целей. [Цепная молния](https://www.wowhead.com/ptr/spell=188443/), благодаря таланту [Сокрушающие бури](https://www.wowhead.com/ptr/spell=334308/) теперь бьет по **5** целям вместо **3**, что также усиливает [Сокрушающую молнию](https://www.wowhead.com/ptr/spell=187874/). Эти изменения ощутимо подняли урон Энха на АоЕ.
-
-* [Дух дикого зверя](https://www.wowhead.com/ptr/spell=51533/feral-spirit) теперь усиливает весь **физический** урон, что также сочетается с переработанным [Наследием ледяной ведьмы](https://www.wowhead.com/ptr/spell=384450/). Это открывает возможность использования «физических» билдов, основанных на [Ударе бури](https://www.wowhead.com/ptr/spell=17364) и [Неистовстве ветра](https://www.wowhead.com/ptr/spell=33757).
-
-* Талант [Духи стихий](https://www.wowhead.com/ptr/spell=262624) был переработан – теперь волк каждой стихии усиливает урон соответствующей школы магии на **20%**, но все старые эффекты (урон от автоатак, ДоТ от [Вскипания лавы](https://www.wowhead.com/ptr/spell=60103) и урон [Удара бури](https://www.wowhead.com/ptr/spell=17364)) были удалены.
-
-* Благодаря талантам [Гнев шторма](https://www.wowhead.com/ptr/spell=392352/), [Свирепость бури](https://www.wowhead.com/ptr/spell=319930) и переработанным [Ветрам рока](https://www.wowhead.com/ptr/spell=384352) для физического билда стала ощутимо полезна [Искусность](https://www.wowhead.com/ptr/spell=77223/), которая раньше была крайне слабой характеристикой для подобных билдов.
-
-* [Усиливающаяся буря](https://www.wowhead.com/ptr/spell=384363) теперь увеличивает урон [Удара бури](https://www.wowhead.com/ptr/spell=17364) на **25%** за каждую пораженную [Сокрушающей молний](https://www.wowhead.com/ptr/spell=187874/) цель, вплоть до **6** стаков. Это дает возможность билдам, основанным на [Ударе бури](https://www.wowhead.com/ptr/spell=17364) наносить повышенный урон по приоритетной целей, подобно стихийным билдам с комбинацией [Вскипание лавы](https://www.wowhead.com/ptr/spell=60103) и [Пепельный катализатор](https://www.wowhead.com/ptr/spell=390370/).
-
-* Урон [Раскола](https://www.wowhead.com/ptr/spell=197214) был повышен на **75%**, что в сочетании с [Ветрами рока](https://www.wowhead.com/ptr/spell=384352), [Наследием ледяной ведьмы](https://www.wowhead.com/ptr/spell=335899/) и [Духом дикого зверя](https://www.wowhead.com/ptr/spell=51533/feral-spirit) позволяет наносить ощутимо большой урон в АоЕ ситуациях без капа целей.
-
-* Базовый урон [Вскипания лавы](https://www.wowhead.com/ptr/spell=60103) был повышен в **два раза**, но талант [Горячая рука](https://www.wowhead.com/ptr/spell=201900) и усиление от огненных волков ([Расплавленное оружие](https://www.wowhead.com/ptr/spell=272665)) были ослаблены. Это привело к тому, что стихийный билд теперь не так зависит от рандома и сочетаний нескольких проков для нанесения урона.
-
-* [Ледяной клинок](https://www.wowhead.com/ptr/spell=342240) был переработан и теперь усиливает урон следующего [Ледяного шока](https://www.wowhead.com/ptr/spell=196840/) на **100%** вместо сброса его КД. [Буря с градом](https://www.wowhead.com/ptr/spell=334195) теперь может получать **10** стаков урона за счет таланта [Бурлящий Водоворот](https://www.wowhead.com/ptr/spell=384149) (количество поражаемых целей не изменилось). Эти изменения, вместе с талантом [Кружаший Водоворот](https://www.wowhead.com/ptr/spell=384359), ощутимо усиливают комбинацию [Ледяной клинок](https://www.wowhead.com/ptr/spell=342240) + [Буря с градом](https://www.wowhead.com/ptr/spell=334195) + [Ледяной шок](https://www.wowhead.com/ptr/spell=196840/). 
-
-* [Перерождение](https://www.wowhead.com/ptr/spell=114051) и [Укоренившиеся стихии](https://www.wowhead.com/ptr/spell=378270) (теперь можно выбрать один из этих талантов) получили крайне мощные вспомогательные таланты – [Статическое накопление](https://www.wowhead.com/ptr/spell=384411) и [Воззвание к Ториму](https://www.wowhead.com/ptr/spell=384444/). В зависимости от выбора, это может быть как крайне мощный трехминутный кулдаун, так и «лотерея» с проками для рисковых шаманов.
-
-* [Тотем неистовства ветра](https://www.wowhead.com/ptr/spell=8512) получил бафф и стал еще более полезен – теперь корректно срабатывает на автоатаки с левой руки и автоатаки от тотема больше не промахиваются.
-
-* Изменение талантов Dragonflight улучшило взаимодействие между способностями, добавив различные сочетания, которые можно объединить по школе магии:
-  * <span style="color:#FFFFFF;font-size:1em;">**Физический урон**</span> – [Удар бури](https://www.wowhead.com/ptr/spell=17364), [Оружие неистовства ветра](https://www.wowhead.com/ptr/spell=33757), [Дух дикого зверя](https://www.wowhead.com/ptr/spell=51533/feral-spirit), [Наследнием ледяной ведьмы](https://www.wowhead.com/ptr/spell=335899/), [Ветра рока](https://www.wowhead.com/ptr/spell=384352), [Раскол](https://www.wowhead.com/ptr/spell=197214).
-  * <span style="color:#f16f25;font-size:1em;">**Огонь**</span> – [Вскипания лавы](https://www.wowhead.com/ptr/spell=60103), [Огненный шок](https://www.wowhead.com/ptr/spell=188389/), [Кольцо огня](https://www.wowhead.com/ptr/spell=333974).
-  * <span style="color:#26d22b;font-size:1em;">**Природа**</span> – [Молния](https://www.wowhead.com/ptr/spell=188196), [Цепная молния](https://www.wowhead.com/ptr/spell=188443/), [Сокрушающая молния](https://www.wowhead.com/ptr/spell=187874/).
-  * <span style="color:#8fd5fe;font-size:1em;">**Лёд**</span> – [Ледяной клинок](https://www.wowhead.com/ptr/spell=342240), [Ледяной шок](https://www.wowhead.com/ptr/spell=196840/), [Буря с градом](https://www.wowhead.com/ptr/spell=334195).
-  * <span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>**Сила стихий**</strong></span> – [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), [Духи стихий](https://www.wowhead.com/ptr/spell=262624).
-
-# Энх Шаман в препатче
-
-**Важно!** В связи с большим количеством изменений в препатче старые сборки WA перестанут адекватно работать. Обновленную WA под препатч и Dragonflight от [Amani](https://www.twitch.tv/amanizandalari) можно найти [по этой ссылке](https://wago.io/HJxL_fG7C).
+**Важно!** В связи с большим количеством изменений в препатче старые сборки WA перестанут адекватно работать. Обновленную WA под препатч и Dragonflight от [Amani](https://www.twitch.tv/amanizandalari) можно найти [по этой ссылке](https://wago.io/KbqSzg3ps).
 
 <p align="center">
-    <img src="https://media.wago.io/screenshots/HJxL_fG7C/635540795a2ec4b6e0ac2195.gif"> 
+    <img src="https://media.wago.io/screenshots/KbqSzg3ps/6351036870c70b6bca4d14f6.gif"> 
 </p>
 
 ## Общие изменения
 
-Несмотря на то, что в целом система талантов Dragonflight подталкивает к использованию <span style="color:#FFFFFF;font-size:1em;">**физического**</span> билда, в препатче не хватит талантов для полной реализации его потенциала. Лучше всего этот билд раскроет себя после релиза, когда в ветке специализации будет доступно на **25** талантов, а **30**.
-{: class="bordered"}
-
-Самое заметное изменение в препатче – повышенный урон от заклинаний, которые тратят стаки [Оружия Водоворота](https://www.wowhead.com/ptr/spell=187880/). Это особенно сильно повлияло на <span style="color:#ff4040;font-size:1em;">**Вентирскую**</span> [Цепную жатву](https://ru.wowhead.com/spell=320674), которая на **10** стаках [Оружия Водоворота](https://www.wowhead.com/ptr/spell=187880/) станет практически в два раза сильней, чем раньше.
-
-Это изменение также затронуло эффективность [Первозданной волны](https://www.wowhead.com/ptr/spell=326059/) – [Молнии](https://www.wowhead.com/ptr/spell=188196) с **10** стаками бьет сразу по всем целям.
-
-В Shadowlands мы все еще имеем доступ к легендарным предметам, ковенантам и проводникам, но классовые комплекты будут не активны. Так как <span style="color:#FFFFFF;font-size:1em;">**физический**</span> билд не имеет таких вспомогательных проводников, как [Магмовый кулак](https://www.wowhead.com/ru/spell=338331/%D0%BC%D0%B0%D0%B3%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%83%D0%BB%D0%B0%D0%BA?ilvl=278) для <span style="color:#f16f25;font-size:1em;">**огненного**</span> билда, последний остается самым эффективным выбором как для боя против одной цели, так и для АоЕ. Но он лишь ненамного уступает другим вариантам, так что для препатча вы можете использовать тот билд, который вам подходит больше всего.
+Во время препатча мы все еще имеем доступ к легендарным предметам, ковенантам и проводникам, но классовые комплекты будут не активны. Также будет доступно меньше очков в спековой ветке талантов, чем на **70** уровне в Dragonflight – **25** вместо **30**. 
 
 ## Таланты, легендарки и ковенант
 
 Основное правило взаимодействия легендарок, ковенантов, проводников и новых талантов – одинаковые эффекты **не стакаются**.
 
-Например, если взять талант [Ветра рока](https://www.wowhead.com/ptr/spell=384352) и легендарку [Ветра рока](https://www.wowhead.com/ru/spell=335902), то работать будет именно талант, несмотря на то, что эффект легендарки сильнее (меньше КД, больше урон, вероятность прока и длительность). Однако если взять легендарку [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=336738) и талант [Перерождение](https://www.wowhead.com/ptr/spell=114051), то они будут работать вместе.
+Например, если взять талант [Отголоски Великого Раскола](https://www.wowhead.com/ptr/spell=384087) и легендарку [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=336215/), то работать будет только одно из них. Однако если взять легендарку [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=336738) и талант [Перерождение](https://www.wowhead.com/ptr/spell=114050), то они будут работать вместе.
 {: class="bordered"}
 
-### Билды для боя против одной цели
-
-Основные таланты, которые берутся в каждом рейдовом билде, это [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) и [Тотем неистовства ветра](https://www.wowhead.com/ptr/spell=8512). Первый дает большое количество урона в одну цель, а второй – увеличивает урон не только шамана, но и всей мили группы.
-
-Ниже представлены билды, которые можно использовать как стартовую точку в своих экспериментах во время препатча.
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-**<span style="color:#f16f25;font-size:1em;">Огненный</span> билд через [Горячую руку](https://www.wowhead.com/ptr/spell=201900)**
+### Билд для боя против одной цели
 
 <p align="center">
-    <img src="/assets/img/hh_buld1.jpg"> 
+    <img src="/assets/img/ele_build1.jpg"> 
 </p>
 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQANVKBURZAUgRAgEBA)
+* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/elemental/DAMBFVFUFFEYIkhCABNVVFFQVGoAQIAECUU)
 * Код для импорта талантов в игре:
 ~~~
-BcQAAAAAAAAAAAAAAAAAAAAAAQSSKRCIJhAJUSIAAAAAAAAAAAAA0iQESIEAlEJFAlEJBA
+BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJBSLRDBFkIBAAAAAAlAkSSUSRShIik0AQAE
 ~~~
-* **Легендарка:** [Огненная гибель "Усмирителя небес"](https://www.wowhead.com/ru/spell=336734) и [Единство](https://www.wowhead.com/ru/spell=364852)
+* **Легендарка:** [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=336063/) и [Единство](https://www.wowhead.com/ru/spell=364852)
 * **Ковенант:** <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
-* **Медиум и проводники:** [Творец Снов](https://www.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AwaZZr4BJShxChMFKZIKFSmbCiUs7wohBSg9Cg)
+* **Медиум и проводники:** [Творец Снов](https://www.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/Awaapr4BJSiAChIFLO8KJSl_CiMFdgAKFSg9CiUoNgo)
 
-Вариация классического стихийного билда из **3-4** сезонов Shadowlands, с некоторыми изменениями. Так как основные легендарки для этого билда ([Волчьи кости колдуна](https://www.wowhead.com/ru/spell=335897/) и [Преобразователи изначальной лавы](https://www.wowhead.com/ru/spell=335895)) стали талантами, то самым оптимальным выбором остается [Огненная гибель "Усмирителя небес"](https://www.wowhead.com/ru/spell=336734). 
+Аналог билда, который сейчас является лучшим на бете Dragonflight, также известен как Amani's Abomination или AA. Сочетает в себе несочетаемое – таланты на урон от [Молнии](https://www.wowhead.com/ptr/spell=188196) и легендарку на [Выброс лавы](https://www.wowhead.com/ptr/spell=51505). Основа билда – реализация баффа [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) на [Молнию](https://www.wowhead.com/ptr/spell=188196) и поддержание на цели дебаффа [Электрический шок](https://www.wowhead.com/ptr/spell=382086).
 {: class="bordered"}
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
-**<span style="color:#FFFFFF;font-size:1em;">Физический</span> билд через легендарку [Ветра рока](https://www.wowhead.com/ru/spell=335902)**
+### АоЕ билд
 
 <p align="center">
-    <img src="/assets/img/dw_build1.jpg"> 
+    <img src="/assets/img/ele_build1.jpg"> 
 </p>
- 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQANVaRUFRBEgBQCBBA)
+
+* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVCoQIABCQQ)
 * Код для импорта талантов в игре:
 ~~~
-BcQAAAAAAAAAAAAAAAAAAAAAAIJJpAJkkECkkQAAAAAAAAAAAAAAtIEhECBQJRSBQJRSgC
+BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJSRSLRBBASAAAAAAQJApkEl0kUISJJBASAA
 ~~~
-* **Легендарка:** [Ветра рока](https://www.wowhead.com/ru/spell=335902) и [Единство](https://www.wowhead.com/ru/spell=364852)
+* **Легендарка:** [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=336215/) и [Единство](https://www.wowhead.com/ru/spell=364852)
 * **Ковенант:** <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
-* **Медиум и проводники:** [Творец Снов](https://www.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AwaZZr4BJShxChMFKZIKFSmbCiUs7wohBSg9Cg)
+* **Медиум и проводники:** [Корейн](https://www.wowhead.com/soulbind-calc/night-fae/korayn/shaman)
 
-Типичный представитель билда через [Оружие неистовства ветра](https://www.wowhead.com/ptr/spell=33757) с зависимостью от рандома от таланта [Укоренившиеся стихии](https://www.wowhead.com/ptr/spell=378270/). Можно также использовать [эту вариацию билда](https://www.wowhead.com/ptr/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQAMVaRUFRBEgBQYBE), без рандомных проков [Перерождения](https://www.wowhead.com/ptr/spell=114051) и с усиленным бурстом.
-{: class="bordered"}
-
-### АоЕ билды
-
-Основные таланты для любого АоЕ боя – [Сокрушающая молния](https://www.wowhead.com/ptr/spell=187874/) и [Сокрушающие бури](https://www.wowhead.com/ptr/spell=334308/). Без них нормально наносить урон в АоЕ не получится при всем желании. 
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-**<span style="color:#f16f25;font-size:1em;">Огненный</span> билд через [Кольцо огня](https://www.wowhead.com/ptr/spell=333974)**
-
-<p align="center">
-    <img src="/assets/img/fn_build1.jpg"> 
-</p>
-
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/enhancement/DAQFFRBQBEQIghhhAEECUANVKBEUYEQhVAgEBQ)
-* Код для импорта талантов в игре:
-~~~
-BcQAAAAAAAAAAAAAAAAAAAAAAIRSaRCiIhgAlEJAAAAAAAAAAAAA0iQES0CBgEJFAlEJBA
-~~~
-* **Легендарка:** [Огненная гибель "Усмирителя небес"](https://www.wowhead.com/ru/spell=336734) и [Единство](https://www.wowhead.com/ru/spell=364852)
-* **Ковенант:** <span style="color:#ff4040;font-size:1em;">Вентиры</span> или <span style="color:#40bf40;font-size:1em;">Некролорды</span>
-* **Медиум и проводники:** [Теотар](https://www.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/AwaW774BFShxChIFKZIKJSzxCiMFKD0KFXYACjUoNgo) или [Марилет](https://www.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/AwaW5r4BJShxChMFKZIKFSmbCiUs8goiFSg9CiV2AAo)
-
-В зависимости от выбора ковенанта меняется и талант – <span style="color:#40bf40;font-size:1em;">Некролорды</span> вкладывают очко из [Первозданной волны](https://www.wowhead.com/ptr/spell=375982) в [Усиливающую бурю](https://www.wowhead.com/ptr/spell=384363). Так же можно отказаться от [Кольца огня](https://www.wowhead.com/ptr/spell=333974) и взять [Бурю с градом](https://www.wowhead.com/ptr/spell=334195/), тогда билд будет выглядеть [вот так](https://www.wowhead.com/ptr/talent-calc/shaman/enhancement/DAQFFRBQBEQIghhhAEECUANVKBUUIEQhVAgEBA).
-{: class="bordered"}
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-**<span style="color:#FFFFFF;font-size:1em;">Физический</span> билд через легендарку [Ветра рока](https://www.wowhead.com/ru/spell=335902)**
-
-<p align="center">
-    <img src="/assets/img/dw_build2.jpg"> 
-</p>
-
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQANVaRUVBEAhBQCBBA)
-* Код для импорта талантов в игре:
-~~~
-BcQAAAAAAAAAAAAAAAAAAAAAAIJJpAJCJhASCRCAAAAAAAAAAAAAtIEhECBQJRSBQJRSgC
-~~~
-* **Легендарка:** [Ветра рока](https://www.wowhead.com/ru/spell=335902) и [Единство](https://www.wowhead.com/ru/spell=364852)
-* **Ковенант:** <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
-* **Медиум и проводники:** [Корейн](https://www.wowhead.com/soulbind-calc/night-fae/korayn/shaman/AwaW6pYBBShxChIFKZsKJSmVCiMVKD0KJXYACjUoNgo)
-
-Этот билд проигрывает стихийному варианту на АоЕ, но может эффективно использоваться в инстах с небольшим количеством треша. 
+Билд на АоЕ отличается от СТ билда всего четырьмя талантами. При этом вместо [Повторного толчка](https://www.wowhead.com/ptr/spell=273221) можно взять [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/), для большего урона в одну цель. Имейте в виду, что в бою против одной цели чередовать [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) и [Землетрясение](https://www.wowhead.com/ptr/spell=61882) **не надо** – всегда кастуйте только [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), игнорируя [Землетрясение](https://www.wowhead.com/ptr/spell=61882). На АоЕ их всё еще необходимо чередовать.
 {: class="bordered"}
 
 ## Приоритет способностей
 
-Основной приоритет способностей не изменился –  не допускайте оверкапа стаков [Оружия Водоворота](https://www.wowhead.com/ptr/spell=187880/) и используйте остальные способности по кулдауну. Однако важность таких заклинаний, как [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), [Молния](https://www.wowhead.com/ptr/spell=188196), [Цепная молния](https://www.wowhead.com/ptr/spell=188443/) и [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) выросла. Они больше не являются филлерами, которые нажимаются пока остальные способности на кулдауне, а стали одним из основных источников урона и центром геймплея.
+Главная задача в бою против одной цели – тратить бафф [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) на [Молнию](https://www.wowhead.com/ptr/spell=188196) и поддержавать на цели дебафф [Электрический шок](https://www.wowhead.com/ptr/spell=382086) от усиленного [Ледяного шока](https://www.wowhead.com/ptr/spell=196840).
 
-Основные моменты приоритета способностей:
-1. Используйте мощные способности по кулдауну – [Перерождение](https://www.wowhead.com/ptr/spell=114051), [Дух дикого зверя](https://www.wowhead.com/ptr/spell=51533/feral-spirit), [Ветра рока](https://www.wowhead.com/ptr/spell=384352) и [Первозданную волну](https://www.wowhead.com/ptr/spell=326059/).
-2. Не допускайте оверкапа стаков [Оружия Водоворота](https://www.wowhead.com/ptr/spell=187880/) и вовремя применяйте соответствующее ситуации заклинание – [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) и [Молнию](https://www.wowhead.com/ptr/spe[Первозданную волну](https://www.wowhead.com/ptr/spell=326059/).ll=188196) в бою против одной цели, [Цепную молния](https://www.wowhead.com/ptr/spell=188443/) и [Молнию](https://www.wowhead.com/ptr/spell=188196) с баффом от [Первозданной волны](https://www.wowhead.com/ptr/spell=326059/) на АоЕ.
-3. Поддерживайте на цели [Огненный шок](https://www.wowhead.com/ptr/spell=188389/). Используйте [Вскипание лавы](https://www.wowhead.com/ptr/spell=60103) со взятым талантом [Натиск лавы](https://www.wowhead.com/ptr/spell=334033) для его обновления.
-4. Используйте остальные способности по кулдауну для генерации стаков [Оружия Водоворота](https://www.wowhead.com/ptr/spell=187880/) и нанесения урона в соответствии с вашим билдом и активными баффами – [Удар бури](https://www.wowhead.com/ptr/spell=17364), [Вскипание лавы](https://www.wowhead.com/ptr/spell=60103), [Ледяной клинок](https://www.wowhead.com/ptr/spell=342240), [Раскол](https://www.wowhead.com/ptr/spell=197214), [Кольцо огня](https://www.wowhead.com/ptr/spell=333974) и [Ледяной шок](https://www.wowhead.com/ptr/spell=196840/).
+Приоритет заклинаний следующий:
+1. [Земной шок](https://www.wowhead.com/ptr/spell=8042) / [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) не допуская оверкапа энергии Водоворота.
+2. [Огненный шок](https://www.wowhead.com/ptr/spell=188389) если отсутствует на цели.
+3. [Элементаль бури](https://www.wowhead.com/ptr/spell=192249) / [Элементаль огня](https://www.wowhead.com/ptr/spell=198067) по кулдауну.
+4. [Перерождение](https://www.wowhead.com/ptr/spell=114050/) / [Первозданная волна](https://www.wowhead.com/ptr/spell=375982/) по кулдауну.
+5. [Хранитель бурь](https://www.wowhead.com/ptr/spell=191634/) по кулдауну.
+6. [Ледяная ярость](https://www.wowhead.com/ptr/spell=210714/) по кулдауну.
+7. [Молния](https://www.wowhead.com/ptr/spell=188196/) если есть бафф [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/).
+8. [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) с баффом от [Ледяной ярости](https://www.wowhead.com/ptr/spell=210714), желательно поддерживая максимальный аптайм дебаффа [Электрический шок](https://www.wowhead.com/ptr/spell=382086).
+9. [Выброс лавы](https://www.wowhead.com/ptr/spell=51505).
+10. [Молния](https://www.wowhead.com/ptr/spell=188196/).
 
 К выходу Dragonflight ротация будет подробно расписана для каждого билда.
 {: class="bordered"}
@@ -256,9 +194,7 @@ BcQAAAAAAAAAAAAAAAAAAAAAAIJJpAJCJhASCRCAAAAAAAAAAAAAtIEhECBQJRSBQJRSgC
 
 Для препатча не будет полной поддержки [Симкрафта](https://www.raidbots.com/), так как оптимизация APL занимает довольно много времени и не имеет много смысла для одного месяца без наличия сложного контента. Можно придерживаться следующих правил при подборе экипировки:
 
-<span style="color:#a330c9;font-size:1em;">**Ночной Народец**</span> / <span style="color:#40bf40;font-size:1em;">**Некролорды**</span> / <span style="color:#68ccef;font-size:1em;">**Кирии**</span>: **Ловкость** > Скорость > Искусность > Универсальность > Критический удар.
-
-<span style="color:#ff4040;font-size:1em;">**Вентиры**</span>:  **Ловкость** > Скорость = Критический удар > Универсальность = Искусность.
+**Интеллект** > Критический удар = Скорость > Искусность = Универсальность
 
 <p></p>
 
