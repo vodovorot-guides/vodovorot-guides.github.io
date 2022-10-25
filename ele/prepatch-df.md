@@ -90,6 +90,8 @@ image: /assets/img/ele_tb2.png
   * [Поток силы](https://www.wowhead.com/ptr/spell=385923/)
   * Все вышеперечисленные таланты также взаимодействуют с [Хранителем бурь](https://www.wowhead.com/ptr/spell=191634) и [Властелином стихий](https://www.wowhead.com/ptr/spell=16166/).
 
+<p></p>
+
 * [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) также получил усиление через таланты:
   * [Лед и пламя](https://www.wowhead.com/ptr/spell=382886/)
   * [Зов огня](https://www.wowhead.com/ptr/spell=378255)
@@ -97,6 +99,8 @@ image: /assets/img/ele_tb2.png
   * [Камера эхо](https://www.wowhead.com/ptr/spell=382032)
   * [Поток силы](https://www.wowhead.com/ptr/spell=385923/)
   * Плюс [Волна лавы](https://www.wowhead.com/ptr/spell=77756/) и [Эхо стихий](https://www.wowhead.com/ptr/spell=333919), которые также берутся в талантах.
+
+<p></p>
 
 * Теперь сразу же можно выбрать между [Элементалем огня](https://www.wowhead.com/ptr/spell=198067) и [Элементалем бури](https://www.wowhead.com/ptr/spell=192249), не тратя дополнительных очков талантов. 
 
