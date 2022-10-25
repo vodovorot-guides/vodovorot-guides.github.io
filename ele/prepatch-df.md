@@ -172,7 +172,7 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJBSLRDBFkIBAAAAAAlAkSSUSRShIik0AQAE
 ### АоЕ билд
 
 <p align="center">
-    <img src="/assets/img/ele_build1.jpg"> 
+    <img src="/assets/img/ele_build2.jpg"> 
 </p>
 
 * [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVCoQIABCQQ)
