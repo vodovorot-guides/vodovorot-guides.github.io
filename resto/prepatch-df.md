@@ -4,7 +4,7 @@ last_update: 2022-10-25
 title: Рестор Шаман в препатче Dragonflight
 wow: 10.0
 toc: true
-author: Amani
+author: "Amani, Niseko"
 description: В этой статье собрана основная информация о новинках Рестор Шамана в препатче Dragonflight. Вы узнаете обо всех изменениях специализации, о лучшем выборе талантов, легендарки и ковенанта и многое другое.
 image: /assets/img/resto_tb2.png
 ---
@@ -52,6 +52,7 @@ image: /assets/img/resto_tb2.png
   * [Тотем ветряного порыва](https://www.wowhead.com/ptr/spell=192077/) – ускорение для рейда, теперь можно брать без ущерба выживаемости.
   * [Гром и молния](https://www.wowhead.com/ptr/spell=51490/) – можно использовать для позиционирования мобов. Усиливается талантом [Громовой удар](https://www.wowhead.com/ptr/spell=378779).
   * [Тотем конденсации](https://www.wowhead.com/ptr/spell=192058/) – можно усилить талантом [Дубина стража](https://www.wowhead.com/ptr/spell=381819).
+  * [Природная стремительность](https://www.wowhead.com/ptr/spell=378081) – дает один мгновенный бесплатный каст раз в минуту.
   * [Тотем источника маны](https://www.wowhead.com/beta/spell=381930) – реген маны для всех хилов в рейде.
   * [Тотем каменной кожи](https://www.wowhead.com/beta/spell=383017) – **10%** физической защиты для танков.
   * [Тотем безветрия](https://www.wowhead.com/beta/spell=383019) – ослабления сбития кастов на игроках.
@@ -71,99 +72,42 @@ image: /assets/img/resto_tb2.png
   * Не работает на отхил от [Тотема целительного прилива](https://www.wowhead.com/ptr/spell=108280).
   * Отлично сочетается со всеми другими бурстами, наприммер c [Цепной жатвой](https://www.wowhead.com/ptr/spell=320674).
 
-* [Порыв ветра](https://www.wowhead.com/ptr/spell=192063) – наконец-то вернулся и очень ощутимо влияет на мобильность Рестора. Позволяет легко поменять позицию практически без потерь времени и избежать опасных ситуаций
+* [Порыв ветра](https://www.wowhead.com/ptr/spell=192063) – наконец-то вернулся и очень ощутимо влияет на мобильность Рестора. Позволяет легко поменять позицию практически без потерь времени и избежать опасных ситуаций.
 
-* [Тотем разразившегося ливня](https://www.wowhead.com/ptr/spell=157153) всё также заменяет [Тотем исцеляющего потока](https://www.wowhead.com/ptr/spell=5394/), к тому же теперь имеет больший кулдаун – **45** секунд вместо **30**. Его время восстановления можно сократить до **41** секунды с помощью таланта [Сила тотемов](https://www.wowhead.com/ptr/spell=381867/) или полностью сбросить его кулдаун при помощи [Возвращения тотемов](https://www.wowhead.com/ptr/spell=108285).
+* В общей ветке талантов теперь можно взять аналог проводника [Кружащие потоки](https://www.wowhead.com/ru/spell=338339/%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%89%D0%B8%D0%B5-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%B8?ilvl=278) – одноименный талант [Кружащие потоки](https://www.wowhead.com/ptr/spell=378094/). **Важно!** Во время препатча следует использовать именно проводник, а не талант, так как его эффект мощнее и они не стакаются.
+
+* [Природная стремительность](https://www.wowhead.com/ptr/spell=378081) еще один полезный спелл из общих талантов, который дает возможность раз в минуту применить одно заклинание мгновенно и без затрат маны. Лучше всего его использовать на [Цепное исцеление](https://www.wowhead.com/ptr/spell=1064), так как это самое дорогое наше заклинание.
+
+* [Щит земли](https://www.wowhead.com/ptr/spell=974) теперь можно поддерживать на себе и еще одном союзнике при помощи таланта [Кружащие стихии](https://www.wowhead.com/ptr/spell=383010/). Также его исцеление можно усилить с помощью таланта [Ободряющие щиты](https://www.wowhead.com/ptr/spell=383010/), который также усилит регенерацию маны от [Водного щита](https://www.wowhead.com/ptr/spell=52127/).
+
+* [Водный щит](https://www.wowhead.com/ptr/spell=52127/) и [Упоение](https://www.wowhead.com/ptr/spell=16196) можно не брать в талантах в бои где мана не будет проблемой, позволяя сэкономить два очка талантов.
+
+* [Тотем разразившегося ливня](https://www.wowhead.com/ptr/spell=157153) всё также заменяет [Тотем исцеляющего потока](https://www.wowhead.com/ptr/spell=5394/), к тому же теперь имеет больший кулдаун – **45** секунд вместо **30**. Его время восстановления можно сократить до **41** секунды с помощью таланта [Сила тотемов](https://www.wowhead.com/ptr/spell=381867/) или полностью сбросить его кулдаун при помощи [Возвращения тотемов](https://www.wowhead.com/ptr/spell=108285). 
+
+* [Повелитель тотемов воды](https://www.wowhead.com/ptr/spell=382030/) также сокращает кулдаун [Тотема разразившегося ливня](https://www.wowhead.com/ptr/spell=157153), как и многих других тотемов, по **0.5** секунд за каждое использование [Приливных волн](https://www.wowhead.com/ptr/spell=51564/).
+
+* [Приливные волны](https://www.wowhead.com/ptr/spell=51564/) были немного переработаны. Теперь [Быстрина](https://www.wowhead.com/ptr/spell=61295) дает сразу два стака этого баффа, а тратить их можно в том числе и на [Цепное исцеление](https://www.wowhead.com/ptr/spell=1064), уменьшая его время произнесения, но самое [Цепное исцеление](https://www.wowhead.com/ptr/spell=1064) больше не дает стаков. 
 
 * Вместо [Тотема разразившегося ливня](https://www.wowhead.com/ptr/spell=157153) можно взять талант [Живой поток](https://www.wowhead.com/ptr/spell=382482), который усиливает [Тотем исцеляющего потока](https://www.wowhead.com/ptr/spell=5394/). Скорее всего это будет неплохим вариантом для тех игроков, кто не хочет таймить [Тотем разразившегося ливня](https://www.wowhead.com/ptr/spell=157153).
 
+* [Тотем защиты предков](https://www.wowhead.com/ptr/spell=207399/) и [Энергия Предков](https://www.wowhead.com/ptr/spell=207401) больше не делят один ряд талантов и теперь есть возможность взять оба этих талантов, повышая выживаемость группы или рейда в самых сложных ситуациях.
 
+* [Наводнение](https://www.wowhead.com/ptr/spell=200076/) из таланта который неберется практически никогда перешло в раздел талантов, которые будут в любом билде, так как без взятия [Наводнения](https://www.wowhead.com/ptr/spell=200076/) нельзя получить [Целительный ливень](https://www.wowhead.com/ptr/spell=73920/).
 
-хтт и кбт
-свирлинг куррентс
+* [Точное озарение](https://www.wowhead.com/ptr/spell=381666/) позволяет усиливать следующее исцеляющее заклинание на **15%** и снижает его стоимость маны на **20%** после каждого применения [Огненного шока](https://www.wowhead.com/ru/spell=188389).
 
-аг и вигор
-делюга мастхев
-не вкладывать очки в ману - взять усорение
-натур свифтнесс на цепнуху
-
-
-* Таланты Элема в Dragonlflight условно разделены на две стороны: слева расположено всё, связанное со школой магиией <span style="color:#26d22b;font-size:1em;">**природы**</span> ([Молния](https://www.wowhead.com/ptr/spell=188196) и [Цепния молния](https://www.wowhead.com/ptr/spell=188443)), а справа – со школой магии <span style="color:#f16f25;font-size:1em;">**огня**</span> ([Выброс лавы](https://www.wowhead.com/ptr/spell=51505) и [Огненный шок](https://www.wowhead.com/ptr/spell=188389/)).
-
-* На текущий момент все актуальные билды в бою против одной цели и на АоЕ играются через [Элементаля бури](https://www.wowhead.com/ptr/spell=192249) и большое количество усиленных [Молний](https://www.wowhead.com/ptr/spell=188196) и [Цепных молний](https://www.wowhead.com/ptr/spell=188443).
-
-* [Перерождение](https://www.wowhead.com/ptr/spell=114050) получило два вспомогательных таланта – [Клятва провидца](https://www.wowhead.com/ptr/spell=381785) увеличивает Скорость во время [Перерождения](https://www.wowhead.com/ptr/spell=114050) на **15%** и снижает его КД до **2** минут, а [Далекие пределы](https://www.wowhead.com/ptr/spell=381787/) позволяет [Земному шоку](https://www.wowhead.com/ptr/spell=8042) и другим спендерам продлевать время действия [Перерождения](https://www.wowhead.com/ptr/spell=114050).
-
-* Билды через [Элементаля огня](https://www.wowhead.com/ptr/spell=198067), [Выброс лавы](://www.wowhead.com/ptr/spell=51505), [Огненный шок](https://www.wowhead.com/ptr/spell=188389/) и [Укоренившиеся стихии](https://www.wowhead.com/ptr/spell=378270/) сейчас не наносят достаточно урона ни в одном типе боя и не могут конкурировать с билдами через [Молнию](https://www.wowhead.com/ptr/spell=188196).
-
-* Урон спендеров был существенно снижен – базовая версия [Земного шока](https://www.wowhead.com/ptr/spell=8042) бьет на **20%** слабее, а [Землетрясение](https://www.wowhead.com/ptr/spell=61882) – почти **в два раза** слабее, чем в Shadowlands. Однако эти способности получили усливающие их таланты – [Безжалостное бедствие](https://www.wowhead.com/ptr/spell=382685), [Око бури](https://www.wowhead.com/ptr/spell=381708/) и [Горы не вечны](https://www.wowhead.com/ptr/spell=381726), так что финальная разница не так велика.
-
-* [Земной шок](https://www.wowhead.com/ptr/spell=8042) и [Землетрясение](https://www.wowhead.com/ptr/spell=61882) больше не являются основными источником урона Элема, но они активируют другие важные таланты: [Грозовой разрядник](https://www.wowhead.com/ptr/spell=210689/) и [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/).
-
-* [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) стал гораздо эффективнее – теперь он гарантированно добавляет следующему касту [Молнии](https://www.wowhead.com/ptr/spell=188196) **2** [Перегрузки](https://www.wowhead.com/ru/spell=168534) вместо шанса на **1-3** [Перегрузки](https://www.wowhead.com/ru/spell=168534). Теперь он также взаимодействует с [Цепной молнией](https://www.wowhead.com/ptr/spell=188443), позволяя ей поражать сразу **6** целей.
-
-* Эффективность [Искусности](https://www.wowhead.com/ru/spell=168534) была увеличена, за счет талантов [Камера эхо](https://www.wowhead.com/ptr/spell=382032) и [Горы не вечны](https://www.wowhead.com/ptr/spell=381726).
-
-* Ощутимо повышена эффективность [Молнии](https://www.wowhead.com/ptr/spell=188196) по сравнению с Shadowlands. Сейчас на неё влияют следующие таланты:
-  * [Улучшенная молния](https://www.wowhead.com/ptr/spell=381674/)
-  * [Гнев природы](https://www.wowhead.com/ptr/spell=381655)
+* Паттерн нанесения урона Рестор шамана также изменится в Dragonflight. В новом дополнении больше не будет легендарки [Камень глубинного землетрясения](https://www.wowhead.com/ru/spell=336739) и [Тотема вечернего колокола](https://www.wowhead.com/ru/spell=324386/), но будут доступны следующие таланты, увеличивающие урон заклинаний:
+  * [Хранитель бурь](https://www.wowhead.com/ptr/spell=383009)
   * [Призыв грома](https://www.wowhead.com/ptr/spell=378241/)
-  * [Безжалостное бедствие](https://www.wowhead.com/ptr/spell=382685)
-  * [Вспышка молнии](https://www.wowhead.com/ptr/spell=381936)
-  * [Электрический шок](https://www.wowhead.com/ptr/spell=382086)
-  * [Грозовой разрядник](https://www.wowhead.com/ptr/spell=210689/)
-  * [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/)
-  * [Мощь Водоворота](https://www.wowhead.com/ptr/spell=191861)
-  * [Камера эхо](https://www.wowhead.com/ptr/spell=382032)
-  * [Поток силы](https://www.wowhead.com/ptr/spell=385923/)
-  * Все вышеперечисленные таланты также взаимодействуют с [Хранителем бурь](https://www.wowhead.com/ptr/spell=191634) и [Властелином стихий](https://www.wowhead.com/ptr/spell=16166/).
+  * [Улучшенная молния](https://www.wowhead.com/ptr/spell=381674)
+  * [Волна лавы](https://www.wowhead.com/ptr/spell=77756/)
+  * [Гнев природы](https://www.wowhead.com/ptr/spell=381655)
 
 <p></p>
 
-* [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) также получил усиление через таланты:
-  * [Лед и пламя](https://www.wowhead.com/ptr/spell=382886/)
-  * [Зов огня](https://www.wowhead.com/ptr/spell=378255)
-  * [Улучшенное оружие языка пламени](https://www.wowhead.com/ptr/spell=382027)
-  * [Камера эхо](https://www.wowhead.com/ptr/spell=382032)
-  * [Поток силы](https://www.wowhead.com/ptr/spell=385923/)
-  * Плюс [Волна лавы](https://www.wowhead.com/ptr/spell=77756/) и [Эхо стихий](https://www.wowhead.com/ptr/spell=333919), которые также берутся в талантах.
+# Рестор Шаман в препатче
 
-<p></p>
-
-* Теперь сразу же можно выбрать между [Элементалем огня](https://www.wowhead.com/ptr/spell=198067) и [Элементалем бури](https://www.wowhead.com/ptr/spell=192249), не тратя дополнительных очков талантов. 
-
-* [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) переработан – при взятии этого таланта он заменяет на панели [Земной шок](https://www.wowhead.com/ptr/spell=8042) наносит почти **в два раза** больше урона. Количество баффа на вторичные характеристики также удвоено по сравнению с Shadowlands. Из минусов – [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) стоит **в полтора раза** больше энергии Водоворота чем [Земной шок](https://www.wowhead.com/ptr/spell=8042) и имеет время произнесения **2** секунды.
-
-* [Ледяная ярость](https://www.wowhead.com/ptr/spell=210714) – длительность баффа на усиленные [Ледяные шоки](https://www.wowhead.com/ptr/spell=196840) увеличена с **15** секунд до **25** секунд, что ощутимо облегчает использование этой способности. Также были добавлены два вспомогательных таланта:
-  * [Расплавленная порода](https://www.wowhead.com/ptr/spell=381776) – [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) усиливает следующий [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) на **20%**.
-  * [Электрический шок](https://www.wowhead.com/ptr/spell=382086) – усиленный [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) поражает дополнительно **3** цели и накладывает на них дебафф **6** секунд, увеличивающий весь получаемый урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span> на **15%**.
-
-<p></p>
-
-* Элем теперь имеет возможность взять в общей ветке талантов [Оружие Водоворота](https://www.wowhead.com/ptr/spell=187880/). Если атаковать цель в ближнем бою с этим талантом, то это увеличивает наносимый урон в бою против одной цели примерно на **0.7%**.
-
-* Одна из самых мощных комбинаций заклинаний с текущей системой талантов – максимальное усиление [Молнии](https://www.wowhead.com/ptr/spell=188196) с баффом от [Хранителя бурь](https://www.wowhead.com/ptr/spell=191634). Для этого требуется сделать следующее:
-  1. [Хранителем бурь](https://www.wowhead.com/ptr/spell=191634).
-  2. [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) с баффом от [Ледяной ярости](https://www.wowhead.com/ptr/spell=210714) и с талантом [Электрический шок](https://www.wowhead.com/ptr/spell=382086).
-  3. [Земной шок](https://www.wowhead.com/ptr/spell=8042), который дает бафф [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) и накладывает на цель дебафф [Грозовой разрядник](https://www.wowhead.com/ptr/spell=210689/).
-  4. Начать каст [Выброса лавы](https://www.wowhead.com/ptr/spell=51505) для баффа [Властелин стихий](https://www.wowhead.com/ptr/spell=16166/) (также может прокнуть [Мощь Водоворота](https://www.wowhead.com/ptr/spell=191861)). Если у вас есть прок [Волны лавы](https://www.wowhead.com/ptr/spell=77756/), то его можно отменить `/cancelaura` макросом.
-  5. По завершению каста – сразу применить [Молнию](https://www.wowhead.com/ptr/spell=188196), которая получит сразу несколько баффов на урон и многократные [Перегрузки](https://www.wowhead.com/ru/spell=168534).
-
-<p></p>
-
-*  [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) по разному взаимодействует с различными баффами. [Властелин стихий](https://www.wowhead.com/ptr/spell=16166/) мы получаем в момент **завершения** каста [Выброса лавы](https://www.wowhead.com/ptr/spell=51505), а бафф от [Прилива мощи](https://www.wowhead.com/ptr/spell=262303/) поглощается в момент **попадания** снаряда в цель. То есть, при касте мгновенной [Молнии](https://www.wowhead.com/ptr/spell=188196) она получит и бафф [Властелина стихий](https://www.wowhead.com/ptr/spell=16166/) (так как [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) уже вылетел), и бафф [Прилива мощи](https://www.wowhead.com/ptr/spell=262303/) (так как [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) еще не долетел). Это работает только с хардкастом [Выброс лавы](https://www.wowhead.com/ptr/spell=51505), то есть без наличия прока [Волны лавы](https://www.wowhead.com/ptr/spell=77756/).
-
-* Если взять таланты [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) и [Отголоски Великого Раскола](https://www.wowhead.com/ptr/spell=384087), то в бою против одной цели чередовать заклинания **не надо** – всегда кастуйте только [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), игнорируя [Землетрясение](https://www.wowhead.com/ptr/spell=61882). На АоЕ их всё еще необходимо чередовать.
-
-* Основной билд для боя против одной цели имеет неплохой АоЕ потенциал ([Элементаль бури](https://www.wowhead.com/ptr/spell=192249) и [Хранителем бурь](https://www.wowhead.com/ptr/spell=191634)), что будет полезно во время спавна аддов в рейде.
-
-# Элем Шаман в препатче
-
-**Важно!** В связи с большим количеством изменений в препатче старые сборки WA перестанут адекватно работать. Обновленную WA под препатч и Dragonflight от [Amani](https://www.twitch.tv/amanizandalari) можно найти [по этой ссылке](https://wago.io/KbqSzg3ps).
-
-<p align="center">
-    <img src="https://media.wago.io/screenshots/KbqSzg3ps/6351036870c70b6bca4d14f6.gif"> 
-</p>
+**Важно!** Во время препатча **не используйте** талант [Кружащие потоки](https://www.wowhead.com/ptr/spell=378094/), так как он не стакается с проводником [Кружащие потоки](https://www.wowhead.com/ru/spell=338339/%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%89%D0%B8%D0%B5-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%B8?ilvl=278), эффект которого сильнее.
 
 ## Общие изменения
 
@@ -173,70 +117,64 @@ image: /assets/img/resto_tb2.png
 
 Основное правило взаимодействия легендарок, ковенантов, проводников и новых талантов – одинаковые эффекты **не стакаются**.
 
-Например, если взять талант [Отголоски Великого Раскола](https://www.wowhead.com/ptr/spell=384087) и легендарку [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=336215/), то работать будет только одно из них. Однако если взять легендарку [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=336738) и талант [Перерождение](https://www.wowhead.com/ptr/spell=114050), то они будут работать вместе.
+Например, если взять талант [Изначальное сердце волн](https://www.wowhead.com/ptr/spell=382045) и легендарку [Изначальное сердце волн](https://www.wowhead.com/ru/spell=335889), то работать будет только одно из них. Однако использование легендарки позволяет сохранить очко талантов и использовать их для другой полезной способности.
 {: class="bordered"}
 
-### Билд для боя против одной цели
+### Билд для рейда
 
 <p align="center">
-    <img src="/assets/img/ele_build1.jpg"> 
+    <img src="/assets/img/resto_build1.jpg"> 
 </p>
 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/elemental/DAMBFVFUFFEYIkhCABNVVFFQVGoAQIAECUU)
+* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/restoration/DAQBQQBCFAFKIlBEgQECAQOZUBYFRURVQgAAQCBR)
 * Код для импорта талантов в игре:
 ~~~
-BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJBSLRDBFkIBAAAAAAlAkSSUSRShIik0AQAE
+BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIBJRKJkWKBJFtoFUSIokAAIlIJNQgEJB
 ~~~
-* **Легендарка:** [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=336063/) и [Единство](https://www.wowhead.com/ru/spell=364852)
-* **Ковенант:** <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
-* **Медиум и проводники:** [Творец Снов](https://www.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/Awaapr4BJSiAChIFLO8KJSl_CiMFdgAKFSg9CiUoNgo)
+* **Легендарка:** [Изначальное сердце волн](https://www.wowhead.com/ru/spell=335889) и [Единство](https://www.wowhead.com/ru/spell=364852)
+* **Ковенант:**  <span style="color:#ff4040;font-size:1em;">**Вентиры**</span> 
+* **Медиум и проводники:** [Теотар](https://www.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/AwaWZZYBJShxCBMFKaMIFSmnCCUs8QgiBSg9CBUoLAg)
 
-Аналог билда, который сейчас является лучшим на бете Dragonflight, также известен как Amani's Abomination или AA. Сочетает в себе несочетаемое – таланты на урон от [Молнии](https://www.wowhead.com/ptr/spell=188196) и легендарку на [Выброс лавы](https://www.wowhead.com/ptr/spell=51505). Основа билда – реализация баффа [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) на [Молнию](https://www.wowhead.com/ptr/spell=188196) и поддержание на цели дебаффа [Электрический шок](https://www.wowhead.com/ptr/spell=382086).
+В этом билде взяты самые необходимые таланты для отхила в ущерб нанесения урона и регенерации маны. Также есть альтернативный вариант для рейда, более направленный на урон ([ссылка на таланты](https://www.wowhead.com/beta/talent-calc/shaman/restoration/DAQBUQFCFAFKIFgAgQEBALYVFYFRVRQYBCQE)).
 {: class="bordered"}
 
-
-### АоЕ билд
+### Билд для Мифик+
 
 <p align="center">
-    <img src="/assets/img/ele_build1.jpg"> 
+    <img src="/assets/img/resto_build2.jpg"> 
 </p>
 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVCoQIABCQQ)
+* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/restoration/DAQBVQFSFAEKgBgBAUEBANZVFYERFRUSAABCVA)
 * Код для импорта талантов в игре:
 ~~~
-BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJSRSLRBBASAAAAAAQJApkEl0kUISJJBASAA
+BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIhkQSaRCpoFkU0AJlECpkECAIRAQJRkEB
 ~~~
-* **Легендарка:** [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=336215/) и [Единство](https://www.wowhead.com/ru/spell=364852)
-* **Ковенант:** <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
-* **Медиум и проводники:** [Корейн](https://www.wowhead.com/soulbind-calc/night-fae/korayn/shaman)
+* **Легендарка:** [Камень глубинного землетрясения](https://www.wowhead.com/ru/spell=336739) и [Единство](https://www.wowhead.com/ru/spell=364852)
+* **Ковенант:** <span style="color:#68ccef;font-size:1em;">**Кирии**</span>
+* **Медиум и проводники:** [Миканикос](https://www.wowhead.com/soulbind-calc/kyrian/forgelite-prime-mikanikos/shaman/AwaW6pYBBShxChIFKaMKJSzuCiMVKD0KJSg2CjV2AAA)
 
-Билд на АоЕ отличается от СТ билда всего четырьмя талантами. При этом вместо [Повторного толчка](https://www.wowhead.com/ptr/spell=273221) можно взять [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/), для большего урона в одну цель. Имейте в виду, что в бою против одной цели чередовать [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) и [Землетрясение](https://www.wowhead.com/ptr/spell=61882) **не надо** – всегда кастуйте только [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), игнорируя [Землетрясение](https://www.wowhead.com/ptr/spell=61882). На АоЕ их всё еще необходимо чередовать.
+В этом билде взяты все возможные таланты для нанесения урона, а на оставшиеся очки – различные бурсты.
 {: class="bordered"}
 
 ## Приоритет способностей
 
-Главная задача в бою против одной цели – тратить бафф [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) на [Молнию](https://www.wowhead.com/ptr/spell=188196) и поддержавать на цели дебафф [Электрический шок](https://www.wowhead.com/ptr/spell=382086) от усиленного [Ледяного шока](https://www.wowhead.com/ptr/spell=196840).
-
-Приоритет заклинаний следующий:
-1. [Земной шок](https://www.wowhead.com/ptr/spell=8042) / [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) не допуская оверкапа энергии Водоворота.
-2. [Огненный шок](https://www.wowhead.com/ptr/spell=188389) если отсутствует на цели.
-3. [Элементаль бури](https://www.wowhead.com/ptr/spell=192249) / [Элементаль огня](https://www.wowhead.com/ptr/spell=198067) по кулдауну.
-4. [Перерождение](https://www.wowhead.com/ptr/spell=114050/) / [Первозданная волна](https://www.wowhead.com/ptr/spell=375982/) по кулдауну.
-5. [Хранитель бурь](https://www.wowhead.com/ptr/spell=191634/) по кулдауну.
-6. [Ледяная ярость](https://www.wowhead.com/ptr/spell=210714/) по кулдауну.
-7. [Молния](https://www.wowhead.com/ptr/spell=188196/) если есть бафф [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/).
-8. [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) с баффом от [Ледяной ярости](https://www.wowhead.com/ptr/spell=210714), желательно поддерживая максимальный аптайм дебаффа [Электрический шок](https://www.wowhead.com/ptr/spell=382086).
-9. [Выброс лавы](https://www.wowhead.com/ptr/spell=51505).
-10. [Молния](https://www.wowhead.com/ptr/spell=188196/).
-
-К выходу Dragonflight ротация будет подробно расписана для каждого билда.
-{: class="bordered"}
+1. Используйте [Быстрину](https://www.wowhead.com/ptr/spell=61295) по кулдауну, особенно если взят талант [Подводное течение](https://www.wowhead.com/ptr/spell=382194/).
+2. Всегда старайтесь выбирать целью самых раненых союзников и в зависимости от опасности используйте либо мгновенные заклинания ([Быстрина](https://www.wowhead.com/ptr/spell=61295) / [Высвободить чары жизни](https://www.wowhead.com/ptr/spell=73685/)), либо дорогой и эффективный [Исцеляющий всплеск](https://www.wowhead.com/ptr/spell=8004/), либо более экономную [Волну исцеления](https://www.wowhead.com/ptr/spell=77472/). Старайтесь минимизировать использование [Исцеляющего всплеска](https://www.wowhead.com/ptr/spell=8004/) чтобы не остаться без маны на долгих боях.
+3. Вы можете подготовиться к большому входящему урону по рейду во время простоя, используя различные заклинания длительного действия. К таким заклинаниям относятся: [Быстрина](https://www.wowhead.com/ptr/spell=61295) (для [Первозданной волны](https://www.wowhead.com/ptr/spell=375982)), [Тотем исцеляющего потока](https://www.wowhead.com/ptr/spell=5394/), [Высвободить чары жизни](https://www.wowhead.com/ptr/spell=73685/), [Тотем земляной стены](https://www.wowhead.com/ptr/spell=198838) и [Целительный ливень](https://www.wowhead.com/ptr/spell=73920/). 
+4. Используйте [Тотема разразившегося ливня](https://www.wowhead.com/ptr/spell=157153) для отхила самых сложных моментов и в сочетании с бурстами, так как он по сути перемножает ваше исцеление.
+5. Используйте заклинания с коротким кулдауном (меньше минуты) так часто, как только возможно. Это одни из самых сильных способностей в арсенале Рестор шамана, и чем больше вы их используете и чем меньше вы хилите филлерными заклинаниями, тем лучше.
+6. [Наставления предков](https://www.wowhead.com/ptr/spell=108281) – универсальный и сильный бурст, который можно применять в том числе и во время нанесения урона, например под [Хранитель бурь](https://www.wowhead.com/ptr/spell=383009). 
+7. Используйте филлерные заклинания в том случае, если другие сильные способности на кулдауне или вы придерживаете их под опасный момент в бою. Во время АоЕ по рейду стоит кастовать [Цепное исцеление](https://www.wowhead.com/ptr/spell=1064), а для отхила одной цели – [Волну исцеления](https://www.wowhead.com/ptr/spell=77472/).
+8. Используйте [Тотем духовной связи](https://www.wowhead.com/ptr/spell=98008) перед получением рейдом большого урона и [Тотема целительного прилива](https://www.wowhead.com/ptr/spell=108280) сразу после него. [Наставления предков](https://www.wowhead.com/ptr/spell=108281) вместе с [Перерождением](https://www.wowhead.com/ptr/spell=114052) также можно использовать как рейдовый кулдаун. Координируйте использование этих способностей с другими целителями.
+9. Если нечего хилить – наносите урон! Поддерживайте на цели [Огненный шок](://www.wowhead.com/ptr/spell=188389), что также усилит ваш следующий отхил с помощью таланта [Точное озарение](https://www.wowhead.com/ptr/spell=381666/), кастуйте [Выброс лавы](https://www.wowhead.com/beta/spell=51505) и [Молнию](https://www.wowhead.com/ptr/spell=188196) в бою против одной цели и [Цепную молнию](https://www.wowhead.com/beta/spell=188443/) на АоЕ.
 
 ## Характеристики
 
-Для препатча не будет полной поддержки [Симкрафта](https://www.raidbots.com/), так как оптимизация APL занимает довольно много времени и не имеет много смысла для одного месяца без наличия сложного контента. Можно придерживаться следующих правил при подборе экипировки:
+Приоритет характеристик не изменился в препатче:
 
-**Интеллект** > Критический удар = Скорость > Искусность = Универсальность
+**Для рейда:** **Интеллект** > Критический удар > Универсальность = Скорость = Искусность.
+**Для Мифик+:** **Интеллект** > Универсальность = Критический удар = Скорость = Искусность.
+
 
 <p></p>
 
