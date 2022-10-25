@@ -26,6 +26,25 @@ image: /assets/img/enh_tb2.png
 
 * Основной геймплей Энха не изменился – набираем стаки [Оружия Водоворота](https://www.wowhead.com/ptr/spell=187880/) с помощью одних способностей и тратим их на другие.
 
+* Способности, которые доступны без траты очков талантов:
+  * [Молния](https://www.wowhead.com/ptr/spell=188196)
+  * [Огненный шок](https://www.wowhead.com/ptr/spell=188389/)
+  * [Исцеляющий всплеск](https://www.wowhead.com/ptr/spell=8004)
+  * [Тотем оков земли](https://www.wowhead.com/ptr/spell=2484)
+  * [Стихийный удар](https://www.wowhead.com/ptr/spell=73899) (заменяется на [Удар бури](https://www.wowhead.com/ptr/spell=17364))
+  * [Вестник шторма](https://www.wowhead.com/ptr/spell=201845)
+  * [Оружие языка пламени](https://www.wowhead.com/ptr/spell=318038)
+  * [Щит молний](https://www.wowhead.com/ptr/spell=192106/)
+  * [Реинкарнация](https://www.wowhead.com/ptr/spell=20608)
+  * [Призрачный волк](https://www.wowhead.com/ptr/spell=2645)
+  * [Дух предков](https://www.wowhead.com/ptr/spell=2008)
+  * [Дальнее зрение](https://www.wowhead.com/ptr/spell=6196/)
+  * [Астральное возвращение](https://www.wowhead.com/ptr/spell=556)
+  * [Хождение по воде](https://www.wowhead.com/ptr/spell=546/)
+  * [Жажда крови](https://www.wowhead.com/ptr/spell=2825/)
+
+* Все остальные способности, которые не указаны в списке выше, получаются через таланты. Можно создать практически неиграбельные билды, например взять [Бурю с градом](https://www.wowhead.com/ptr/spell=334195) без [Ледяного шока](https://www.wowhead.com/ptr/spell=196840/), либо пойти в Мифик+ без [Пронизывающего ветра](https://www.wowhead.com/ptr/spell=57994/), но [зачем](https://i.imgur.com/5JjMlnj.gifv)?
+
 * В общую ветку талантов добавлено большое количество вспомогательных способностей:
   * [Наставления предков](https://www.wowhead.com/ptr/spell=108281) – двухминутный бурст-отхил от нанесенного урона, особенно полезен во время АоЕ.
   * [Тотем ветряного порыва](https://www.wowhead.com/ptr/spell=192077/) – ускорение для рейда, теперь можно брать без ущерба выживаемости.
