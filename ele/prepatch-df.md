@@ -1,17 +1,17 @@
 ---
 layout: page
 last_update: 2022-10-25
-title: Энх Шаман в препатче Dragonflight
+title: Элем Шаман в препатче Dragonflight
 wow: 10.0
 toc: true
-author: "Amani, Rusah, Surge and Wordup"
-description: В этой статье собрана основная информация о новинках Энх Шамана в препатче Dragonflight. Вы узнаете обо всех изменениях специализации, о лучшем выборе талантов, легендарки и ковенанта и многое другое.
-image: /assets/img/enh_tb2.png
+author: Amani
+description: В этой статье собрана основная информация о новинках Элем Шамана в препатче Dragonflight. Вы узнаете обо всех изменениях специализации, о лучшем выборе талантов, легендарки и ковенанта и многое другое.
+image: /assets/img/ele_tb2.png
 ---
 
 
 <p align="center">
-<img src="/assets/img/enh_tb2.png" width=400x> 
+<img src="/assets/img/ele_tb2.png" width=400x> 
 </p>
 
 Узнать про основные изменения в препатче Dragonflight, а именно про новую систему талантов, обновленный интерфейс и все другие нововведения можно по этой ссылке:
@@ -22,7 +22,55 @@ image: /assets/img/enh_tb2.png
 
 <p></p>
 
-# Энх Шаман в Dragonflight
+# Элем Шаман в Dragonflight
+
+* Таланты Элема в Dragonlflight условно разделены на две стороны: слева расположено всё, связанное со школой магиией <span style="color:#26d22b;font-size:1em;">**природы**</span> ([Молния](https://www.wowhead.com/ptr/spell=188196) и [Цепния молния](https://www.wowhead.com/ptr/spell=188443)), а справа – со школой магии <span style="color:#f16f25;font-size:1em;">**огня**</span> ([Выброс лавы](https://www.wowhead.com/ptr/spell=51505) и [Огненный шок](https://www.wowhead.com/ptr/spell=188389/)).
+
+* На текущий момент все актуальные билды в бою против одной цели и на АоЕ играются через [Элементаля бури](https://www.wowhead.com/ptr/spell=192249) и большое количество усиленных [Молний](https://www.wowhead.com/ptr/spell=188196) и [Цепных молний](https://www.wowhead.com/ptr/spell=188443).
+
+* Билды через [Элементаля огня](https://www.wowhead.com/ptr/spell=198067), [Выброс лавы](://www.wowhead.com/ptr/spell=51505), [Огненный шок](https://www.wowhead.com/ptr/spell=188389/) и [Укоренившиеся стихии](https://www.wowhead.com/ptr/spell=378270/) сейчас не наносят достаточно урона ни в одном типе боя и не могут конкурировать с билдами через [Молнию](https://www.wowhead.com/ptr/spell=188196).
+
+* Урон спендеров был существенно снижен – базовая версия [Земного шока](https://www.wowhead.com/ptr/spell=8042) бьет на **20%** слабее, а [Землетрясение](https://www.wowhead.com/ptr/spell=61882) – почти **в два раза** слабее, чем в Shadowlands. Однако эти способности получили усливающие их таланты – [Безжалостное бедствие](https://www.wowhead.com/ptr/spell=382685), [Око бури](https://www.wowhead.com/ptr/spell=381708/) и [Горы не вечны](https://www.wowhead.com/ptr/spell=381726), так что финальная разница не так велика.
+
+* [Земной шок](https://www.wowhead.com/ptr/spell=8042) и [Землетрясение](https://www.wowhead.com/ptr/spell=61882) больше не являются основными источником урона Элема, но они активируют другие важные таланты: [Грозовой разрядник](https://www.wowhead.com/ptr/spell=210689/) и [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/).
+
+* [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) стал гораздо эффективнее – теперь он гарантированно добавляет следующему касту [Молнии](https://www.wowhead.com/ptr/spell=188196) **2** [Перегрузки](https://www.wowhead.com/ru/spell=168534) вместо шанса на **1-3** [Перегрузки](https://www.wowhead.com/ru/spell=168534). Теперь он также взаимодействует с [Цепной молнией](https://www.wowhead.com/ptr/spell=188443), позволяя ей поражать сразу **6** целей.
+
+* Эффективность [Искусности](https://www.wowhead.com/ru/spell=168534) была увеличена, за счет талантов [Камера эхо](https://www.wowhead.com/ptr/spell=382032) и [Горы не вечны](https://www.wowhead.com/ptr/spell=381726).
+
+* Ощутимо повышена эффективность [Молнии](https://www.wowhead.com/ptr/spell=188196) по сравнению с Shadowlands. Сейчас на неё влияют следующие таланты:
+  * [Улучшенная молния](https://www.wowhead.com/ptr/spell=381674/)
+  * [Гнев природы](https://www.wowhead.com/ptr/spell=381655)
+  * [Призыв грома](https://www.wowhead.com/ptr/spell=378241/)
+  * [Безжалостное бедствие](https://www.wowhead.com/ptr/spell=382685)
+  * [Вспышка молнии](https://www.wowhead.com/ptr/spell=381936)
+  * [Электрический шок](https://www.wowhead.com/ptr/spell=382086)
+  * [Грозовой разрядник](https://www.wowhead.com/ptr/spell=210689/)
+  * [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/)
+  * [Мощь Водоворота](https://www.wowhead.com/ptr/spell=191861)
+  * [Камера эхо](https://www.wowhead.com/ptr/spell=382032)
+  * [Поток силы](https://www.wowhead.com/ptr/spell=385923/)
+  * Все вышеперечисленные таланты также взаимодействуют с [Хранителем бурь](https://www.wowhead.com/ptr/spell=191634) и [Властелином стихий](https://www.wowhead.com/ptr/spell=16166/).
+
+* Выброс лавы также получил усиление через таланты:
+  * [Лед и пламя](https://www.wowhead.com/ptr/spell=382886/)
+  * [Зов огня](https://www.wowhead.com/ptr/spell=378255)
+  * [Улучшенное оружие языка пламени](https://www.wowhead.com/ptr/spell=382027)
+  * [Камера эхо](https://www.wowhead.com/ptr/spell=382032)
+  * [Поток силы](https://www.wowhead.com/ptr/spell=385923/)
+  * Плюс [Волна лавы](https://www.wowhead.com/ptr/spell=77756/) и [Эхо стихий](https://www.wowhead.com/ptr/spell=333919), которые также берутся в талантах.
+
+* Теперь сразу же можно выбрать между [Элементалем огня](https://www.wowhead.com/ptr/spell=198067) и [Элементалем бури](https://www.wowhead.com/ptr/spell=192249), не тратя дополнительных очков талантов. 
+
+* [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) переработан – при взятии этого таланта он заменяет на панели [Земной шок](https://www.wowhead.com/ptr/spell=8042) наносит почти **в два раза** больше урона. Количество баффа на вторичные характеристики также удвоено по сравнению с Shadowlands. Из минусов – [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) стоит **в полтора раза** больше энергии Водоворота чем [Земной шок](https://www.wowhead.com/ptr/spell=8042) и имеет время произнесения **2** секунды.
+
+* [Ледяная ярость](https://www.wowhead.com/ptr/spell=210714) – длительность баффа на усиленные [Ледяные шоки](https://www.wowhead.com/ptr/spell=196840) увеличена с **15** секунд до **25** секунд, что ощутимо облегчает использование этой способности. Также были добавлены два вспомогательных таланта
+
+удс
+оружие водоворота
+канселаура
+
+
 
 * Основной геймплей Энха не изменился – набираем стаки [Оружия Водоворота](https://www.wowhead.com/ptr/spell=187880/) с помощью одних способностей и тратим их на другие.
 
