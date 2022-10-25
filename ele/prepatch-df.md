@@ -185,7 +185,7 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJSRSLRBBASAAAAAAQJApkEl0kUISJJBASAA
 * **Медиум и проводники:** [Корейн](https://www.wowhead.com/beta/soulbind-calc/night-fae/korayn/shaman/AwaW6r4CBShxCiUoegoSBSlMCiUs7woiFXYACiUoPQo)
 
 Билд на АоЕ отличается от СТ билда всего четырьмя талантами. При этом вместо [Повторного толчка](https://www.wowhead.com/ptr/spell=273221) можно взять [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/), для большего урона в одну цель. Имейте в виду, что в бою против одной цели чередовать [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) и [Землетрясение](https://www.wowhead.com/ptr/spell=61882) **не надо** – всегда кастуйте только [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), игнорируя [Землетрясение](https://www.wowhead.com/ptr/spell=61882). На АоЕ их всё еще необходимо чередовать.
-{: class="bordered"
+{: class="bordered"}
 
 <p></p>
 
