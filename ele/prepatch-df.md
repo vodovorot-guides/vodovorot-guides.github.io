@@ -45,13 +45,11 @@ image: /assets/img/ele_tb2.png
 
 * Все остальные способности, которые не указаны в списке выше, получаются через таланты. Можно создать практически неиграбельные билды, например взять [Ледяную ярость](https://www.wowhead.com/ptr/spell=210714) без [Ледяного шока](https://www.wowhead.com/ptr/spell=196840/), либо пойти в Мифик+ без [Пронизывающего ветра](https://www.wowhead.com/ptr/spell=57994/), но [зачем](https://i.imgur.com/5JjMlnj.gifv)?
 
-* В общую ветку талантов добавлено большое количество новых вспомогательных способностей:
+* В общую ветку талантов добавлено большое количество вспомогательных способностей:
   * [Порыв ветра](https://www.wowhead.com/ptr/spell=192063) – аналог блинка.
   * [Тотем ветряного порыва](https://www.wowhead.com/ptr/spell=192077/) – ускорение для рейда, теперь можно брать без ущерба выживаемости.
   * [Гром и молния](https://www.wowhead.com/ptr/spell=51490/) – можно усилить талантом [Громовой удар](https://www.wowhead.com/ptr/spell=378779).
   * [Тотем конденсации](https://www.wowhead.com/ptr/spell=192058/) – можно усилить талантом [Дубина стража](https://www.wowhead.com/ptr/spell=381819).
-  * [Наставления предков](https://www.wowhead.com/beta/spell=79206/) – можно усилить талантом [Благосклонный дух](https://www.wowhead.com/beta/spell=192088).
-  * [Природная стремительность](https://www.wowhead.com/ptr/spell=378081) – дает один мгновенный каст раз в минуту.
   * [Тотем источника маны](https://www.wowhead.com/beta/spell=381930) – реген маны для всех хилов в рейде.
   * [Тотем каменной кожи](https://www.wowhead.com/beta/spell=383017) – **10%** физической защиты для танков.
   * [Тотем безветрия](https://www.wowhead.com/beta/spell=383019) – ослабления сбития кастов на игроках.
@@ -62,7 +60,7 @@ image: /assets/img/ele_tb2.png
 
 <p></p>
 
-* Таланты Элема в Dragonlflight условно разделены на две стороны: слева расположено всё, связанное со школой магиией <span style="color:#26d22b;font-size:1em;">**природы**</span> ([Молния](https://www.wowhead.com/ptr/spell=188196) и [Цепния молния](https://www.wowhead.com/ptr/spell=188443)), а справа – со школой магии <span style="color:#f16f25;font-size:1em;">**огня**</span> ([Выброс лавы](https://www.wowhead.com/ptr/spell=51505) и [Огненный шок](https://www.wowhead.com/ptr/spell=188389/)).
+* Таланты Элема в Dragonlflight условно разделены на две стороны: слева расположено всё, связанное со школой магии <span style="color:#26d22b;font-size:1em;">**природы**</span> ([Молния](https://www.wowhead.com/ptr/spell=188196) и [Цепния молния](https://www.wowhead.com/ptr/spell=188443)), а справа – со школой магии <span style="color:#f16f25;font-size:1em;">**огня**</span> ([Выброс лавы](https://www.wowhead.com/ptr/spell=51505) и [Огненный шок](https://www.wowhead.com/ptr/spell=188389/)).
 
 * На текущий момент все актуальные билды в бою против одной цели и на АоЕ играются через [Элементаля бури](https://www.wowhead.com/ptr/spell=192249) и большое количество усиленных [Молний](https://www.wowhead.com/ptr/spell=188196) и [Цепных молний](https://www.wowhead.com/ptr/spell=188443).
 
@@ -72,7 +70,7 @@ image: /assets/img/ele_tb2.png
 
 * Урон спендеров был существенно снижен – базовая версия [Земного шока](https://www.wowhead.com/ptr/spell=8042) бьет на **20%** слабее, а [Землетрясение](https://www.wowhead.com/ptr/spell=61882) – почти **в два раза** слабее, чем в Shadowlands. Однако эти способности получили усливающие их таланты – [Безжалостное бедствие](https://www.wowhead.com/ptr/spell=382685), [Око бури](https://www.wowhead.com/ptr/spell=381708/) и [Горы не вечны](https://www.wowhead.com/ptr/spell=381726), так что финальная разница не так велика.
 
-* [Земной шок](https://www.wowhead.com/ptr/spell=8042) и [Землетрясение](https://www.wowhead.com/ptr/spell=61882) больше не являются основными источником урона Элема, но они активируют другие важные таланты: [Грозовой разрядник](https://www.wowhead.com/ptr/spell=210689/) и [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/).
+* [Земной шок](https://www.wowhead.com/ptr/spell=8042) и [Землетрясение](https://www.wowhead.com/ptr/spell=61882) больше не являются основными источниками урона Элема, но они активируют другие важные таланты: [Грозовой разрядник](https://www.wowhead.com/ptr/spell=210689/) и [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/).
 
 * [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) стал гораздо эффективнее – теперь он гарантированно добавляет следующему касту [Молнии](https://www.wowhead.com/ptr/spell=188196) **2** [Перегрузки](https://www.wowhead.com/ru/spell=168534) вместо шанса на **1-3** [Перегрузки](https://www.wowhead.com/ru/spell=168534). Теперь он также взаимодействует с [Цепной молнией](https://www.wowhead.com/ptr/spell=188443), позволяя ей поражать сразу **6** целей.
 
@@ -106,11 +104,11 @@ image: /assets/img/ele_tb2.png
 
 * Теперь сразу же можно выбрать между [Элементалем огня](https://www.wowhead.com/ptr/spell=198067) и [Элементалем бури](https://www.wowhead.com/ptr/spell=192249), не тратя дополнительных очков талантов. 
 
-* [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) переработан – при взятии этого таланта он заменяет на панели [Земной шок](https://www.wowhead.com/ptr/spell=8042) наносит почти **в два раза** больше урона. Количество баффа на вторичные характеристики также удвоено по сравнению с Shadowlands. Из минусов – [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) стоит **в полтора раза** больше энергии Водоворота чем [Земной шок](https://www.wowhead.com/ptr/spell=8042) и имеет время произнесения **2** секунды.
+* [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) переработан – при взятии этого таланта он заменяет на панели [Земной шок](https://www.wowhead.com/ptr/spell=8042), наносит почти **в два раза** больше урона. Количество баффа на вторичные характеристики также удвоено по сравнению с Shadowlands. Из минусов – [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) стоит **в полтора раза** больше энергии Водоворота чем [Земной шок](https://www.wowhead.com/ptr/spell=8042) и имеет время произнесения **2** секунды.
 
 * [Ледяная ярость](https://www.wowhead.com/ptr/spell=210714) – длительность баффа на усиленные [Ледяные шоки](https://www.wowhead.com/ptr/spell=196840) увеличена с **15** секунд до **25** секунд, что ощутимо облегчает использование этой способности. Также были добавлены два вспомогательных таланта:
   * [Расплавленная порода](https://www.wowhead.com/ptr/spell=381776) – [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) усиливает следующий [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) на **20%**.
-  * [Электрический шок](https://www.wowhead.com/ptr/spell=382086) – усиленный [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) поражает дополнительно **3** цели и накладывает на них дебафф **6** секунд, увеличивающий весь получаемый урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span> на **15%**.
+  * [Электрический шок](https://www.wowhead.com/ptr/spell=382086) – усиленный [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) поражает дополнительно **3** цели и накладывает дебафф на **6** секунд, увеличивающий весь получаемый урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span> на **15%**.
 
 <p></p>
 
@@ -125,11 +123,11 @@ image: /assets/img/ele_tb2.png
 
 <p></p>
 
-*  [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) по разному взаимодействует с различными баффами. [Властелин стихий](https://www.wowhead.com/ptr/spell=16166/) мы получаем в момент **завершения** каста [Выброса лавы](https://www.wowhead.com/ptr/spell=51505), а бафф от [Прилива мощи](https://www.wowhead.com/ptr/spell=262303/) поглощается в момент **попадания** снаряда в цель. То есть, при касте мгновенной [Молнии](https://www.wowhead.com/ptr/spell=188196) она получит и бафф [Властелина стихий](https://www.wowhead.com/ptr/spell=16166/) (так как [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) уже вылетел), и бафф [Прилива мощи](https://www.wowhead.com/ptr/spell=262303/) (так как [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) еще не долетел). Это работает только с хардкастом [Выброс лавы](https://www.wowhead.com/ptr/spell=51505), то есть без наличия прока [Волны лавы](https://www.wowhead.com/ptr/spell=77756/).
+*  [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) по разному взаимодействует с различными баффами. [Властелин стихий](https://www.wowhead.com/ptr/spell=16166/) мы получаем в момент **завершения** каста [Выброса лавы](https://www.wowhead.com/ptr/spell=51505), а бафф от [Прилива мощи](https://www.wowhead.com/ptr/spell=262303/) поглощается в момент **попадания** снаряда в цель. То есть, при касте мгновенной [Молнии](https://www.wowhead.com/ptr/spell=188196) она получит и бафф [Властелина стихий](https://www.wowhead.com/ptr/spell=16166/) (так как [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) уже вылетел), и бафф [Прилива мощи](https://www.wowhead.com/ptr/spell=262303/) (так как [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) еще не долетел). Это работает только с хардкастом [Выброса лавы](https://www.wowhead.com/ptr/spell=51505), то есть без наличия прока [Волны лавы](https://www.wowhead.com/ptr/spell=77756/).
 
 * Если взять таланты [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) и [Отголоски Великого Раскола](https://www.wowhead.com/ptr/spell=384087), то в бою против одной цели чередовать заклинания **не надо** – всегда кастуйте только [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), игнорируя [Землетрясение](https://www.wowhead.com/ptr/spell=61882). На АоЕ их всё еще необходимо чередовать.
 
-* Основной билд для боя против одной цели имеет неплохой АоЕ потенциал ([Элементаль бури](https://www.wowhead.com/ptr/spell=192249) и [Хранителем бурь](https://www.wowhead.com/ptr/spell=191634)), что будет полезно во время спавна аддов в рейде.
+* Основной билд для боя против одной цели имеет неплохой АоЕ потенциал (с [Элементалем бури](https://www.wowhead.com/ptr/spell=192249) и [Хранителем бурь](https://www.wowhead.com/ptr/spell=191634)), что будет полезно во время спавна аддов в рейде.
 
 # Элем Шаман в препатче
 
@@ -189,7 +187,7 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJSRSLRBBASAAAAAAQJApkEl0kUISJJBASAA
 
 ## Приоритет способностей
 
-Главная задача в бою против одной цели – тратить бафф [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) на [Молнию](https://www.wowhead.com/ptr/spell=188196) и поддержавать на цели дебафф [Электрический шок](https://www.wowhead.com/ptr/spell=382086) от усиленного [Ледяного шока](https://www.wowhead.com/ptr/spell=196840).
+Главная задача в бою против одной цели – тратить бафф [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) на [Молнию](https://www.wowhead.com/ptr/spell=188196) и поддерживать на цели дебафф [Электрический шок](https://www.wowhead.com/ptr/spell=382086) от усиленного [Ледяного шока](https://www.wowhead.com/ptr/spell=196840).
 
 Приоритет заклинаний следующий:
 1. [Земной шок](https://www.wowhead.com/ptr/spell=8042) / [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) не допуская оверкапа энергии Водоворота.
