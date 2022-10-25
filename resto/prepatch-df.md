@@ -18,7 +18,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-{% include button.html name="Основные изменения в препатче Dragonflight" link="/ele/test.html" %}  
+{% include button.html name="Основные изменения в препатче Dragonflight" link="https://stormkeeper.ru/2022/10/25/prepatch.html" %}  
 
 <p></p>
 
