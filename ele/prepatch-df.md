@@ -169,7 +169,7 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJBSLRDBFkIBAAAAAAlAkSSUSRShIik0AQAE
 {: class="bordered"}
 
 
-### АоЕ билд
+### Билд на АоЕ
 
 <p align="center">
     <img src="/assets/img/ele_build2.jpg"> 
@@ -180,11 +180,16 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJBSLRDBFkIBAAAAAAlAkSSUSRShIik0AQAE
 ~~~
 BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJSRSLRBBASAAAAAAQJApkEl0kUISJJBASAA
 ~~~
-* **Легендарка:** [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=336215/) и [Единство](https://www.wowhead.com/ru/spell=364852)
+* **Легендарка:** [Равновесие стихий](https://www.wowhead.com/ptr/spell=336730/) и [Единство](https://www.wowhead.com/ru/spell=364852)
 * **Ковенант:** <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 * **Медиум и проводники:** [Корейн](https://www.wowhead.com/beta/soulbind-calc/night-fae/korayn/shaman/AwaW6r4CBShxCiUoegoSBSlMCiUs7woiFXYACiUoPQo)
 
 Билд на АоЕ отличается от СТ билда всего четырьмя талантами. При этом вместо [Повторного толчка](https://www.wowhead.com/ptr/spell=273221) можно взять [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/), для большего урона в одну цель. Имейте в виду, что в бою против одной цели чередовать [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014) и [Землетрясение](https://www.wowhead.com/ptr/spell=61882) **не надо** – всегда кастуйте только [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), игнорируя [Землетрясение](https://www.wowhead.com/ptr/spell=61882). На АоЕ их всё еще необходимо чередовать.
+{: class="bordered"
+
+<p></p>
+
+Альтернатива этому билду без легендарки [Равновесия стихий](https://www.wowhead.com/ptr/spell=336730/) – [по этой ссылке](https://www.wowhead.com/ptr/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVCoQCABCQQ). В случае этого билда используется лега [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=336215/).
 {: class="bordered"}
 
 ## Приоритет способностей
