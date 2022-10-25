@@ -88,6 +88,7 @@ image: /assets/img/enh_tb.png
 Оснвное правило взаимодействия легендарок, ковенантов, проводников и новых талантов – одинаковые эффекты **не стакаются**.
 
 Например, если взять талант [Ветра рока](https://www.wowhead.com/ptr/spell=384352) и легендарку [Ветра рока](https://www.wowhead.com/ru/spell=335902), то работать будет именно талант, несмотря на то, что эффект легендарки сильнее. Однако если взять легендарку [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=336738) и талант [Перерождение](https://www.wowhead.com/ptr/spell=114051), то они будут работать вместе.
+{: class="bordered"}
 
 ## Билды для боя против одной цели
 
@@ -119,9 +120,9 @@ BcQAAAAAAAAAAAAAAAAAAAAAAQSSKRCIJhAJUSIAAAAAAAAAAAAA0iQESIEAlEJFAlEJBA
 **<span style="color:#FFFFFF;font-size:1em;">Физический</span> билд через легендарку [Ветра рока](https://www.wowhead.com/ru/spell=335902)**
 
 <p align="center">
-    <img src="/assets/img/dw_buld1.jpg"> 
+    <img src="/assets/img/dw_build1.jpg"> 
 </p>
-
+ 
 * [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQANVaRUFRBEgBQCBBA)
 * Код для импорта талантов в игре:
 ~~~
@@ -141,7 +142,7 @@ BcQAAAAAAAAAAAAAAAAAAAAAAIJJpAJkkECkkQAAAAAAAAAAAAAAtIEhECBQJRSBQJRSgC
 **<span style="color:#f16f25;font-size:1em;">Огненный</span> билд через [Кольцо огня](https://www.wowhead.com/ptr/spell=333974)**
 
 <p align="center">
-    <img src="/assets/img/fn_buld1.jpg"> 
+    <img src="/assets/img/fn_build1.jpg"> 
 </p>
 
 * [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/enhancement/DAQFFRBQBEQIghhhAEECUANVKBEUYEQhVAgEBQ)
@@ -160,7 +161,7 @@ BcQAAAAAAAAAAAAAAAAAAAAAAIRSaRCiIhgAlEJAAAAAAAAAAAAA0iQES0CBgEJFAlEJBA
 **<span style="color:#FFFFFF;font-size:1em;">Физический</span> билд через легендарку [Ветра рока](https://www.wowhead.com/ru/spell=335902)**
 
 <p align="center">
-    <img src="/assets/img/dw_buld2.jpg"> 
+    <img src="/assets/img/dw_build2.jpg"> 
 </p>
 
 * [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQANVaRUVBEAhBQCBBA)
