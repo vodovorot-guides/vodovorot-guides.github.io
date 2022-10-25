@@ -194,7 +194,7 @@ BcQAAAAAAAAAAAAAAAAAAAAAAIJJpAJCJhASCRCAAAAAAAAAAAAAtIEhECBQJRSBQJRSgC
 3. Поддерживайте на цели [Огненный шок](https://www.wowhead.com/ptr/spell=188389/). Используйте [Вскипание лавы](https://www.wowhead.com/ptr/spell=601030) со взятым талантом [Натиск лавы](https://www.wowhead.com/ptr/spell=334033) для его обновления.
 4. Используйте остальные способности по кулдауну для генерации стаков [Оружия Водоворота](https://www.wowhead.com/ptr/spell=187880/) и нанесения урона в соответствии с вашим билдом и активными баффами – [Удар бури](https://www.wowhead.com/ptr/spell=17364), [Вскипание лавы](https://www.wowhead.com/ptr/spell=60103), [Ледяной клинок](https://www.wowhead.com/ptr/spell=342240), [Раскол](https://www.wowhead.com/ptr/spell=197214), [Кольцо огня](https://www.wowhead.com/ptr/spell=333974) и [Ледяной шок](https://www.wowhead.com/ptr/spell=196840/).
 
-К выходу Dragonflight будет ротация будет подробно расписана для каждого билда.
+К выходу Dragonflight ротация будет подробно расписана для каждого билда.
 {: class="bordered"}
 
 ## Характеристики
