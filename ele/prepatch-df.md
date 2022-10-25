@@ -45,11 +45,13 @@ image: /assets/img/ele_tb2.png
 
 * Все остальные способности, которые не указаны в списке выше, получаются через таланты. Можно создать практически неиграбельные билды, например взять [Ледяную ярость](https://www.wowhead.com/ptr/spell=210714) без [Ледяного шока](https://www.wowhead.com/ptr/spell=196840/), либо пойти в Мифик+ без [Пронизывающего ветра](https://www.wowhead.com/ptr/spell=57994/), но [зачем](https://i.imgur.com/5JjMlnj.gifv)?
 
-* В общую ветку талантов добавлено большое количество вспомогательных способностей:
+* В общую ветку талантов добавлено большое количество новых вспомогательных способностей:
   * [Порыв ветра](https://www.wowhead.com/ptr/spell=192063) – аналог блинка.
   * [Тотем ветряного порыва](https://www.wowhead.com/ptr/spell=192077/) – ускорение для рейда, теперь можно брать без ущерба выживаемости.
   * [Гром и молния](https://www.wowhead.com/ptr/spell=51490/) – можно усилить талантом [Громовой удар](https://www.wowhead.com/ptr/spell=378779).
   * [Тотем конденсации](https://www.wowhead.com/ptr/spell=192058/) – можно усилить талантом [Дубина стража](https://www.wowhead.com/ptr/spell=381819).
+  * [Благосклонность предков](https://www.wowhead.com/beta/spell=79206/) – можно усилить талантом [Благосклонный дух](https://www.wowhead.com/beta/spell=192088).
+  * [Природная стремительность](https://www.wowhead.com/ptr/spell=378081) – дает один мгновенный каст раз в минуту.
   * [Тотем источника маны](https://www.wowhead.com/beta/spell=381930) – реген маны для всех хилов в рейде.
   * [Тотем каменной кожи](https://www.wowhead.com/beta/spell=383017) – **10%** физической защиты для танков.
   * [Тотем безветрия](https://www.wowhead.com/beta/spell=383019) – ослабления сбития кастов на игроках.
@@ -66,7 +68,7 @@ image: /assets/img/ele_tb2.png
 
 * [Перерождение](https://www.wowhead.com/ptr/spell=114050) получило два вспомогательных таланта – [Клятва провидца](https://www.wowhead.com/ptr/spell=381785) увеличивает Скорость во время [Перерождения](https://www.wowhead.com/ptr/spell=114050) на **15%** и снижает его КД до **2** минут, а [Далекие пределы](https://www.wowhead.com/ptr/spell=381787/) позволяет [Земному шоку](https://www.wowhead.com/ptr/spell=8042) и другим спендерам продлевать время действия [Перерождения](https://www.wowhead.com/ptr/spell=114050).
 
-* Билды через [Элементаля огня](https://www.wowhead.com/ptr/spell=198067), [Выброс лавы](://www.wowhead.com/ptr/spell=51505), [Огненный шок](https://www.wowhead.com/ptr/spell=188389/) и [Укоренившиеся стихии](https://www.wowhead.com/ptr/spell=378270/) сейчас не наносят достаточно урона ни в одном типе боя и не могут конкурировать с билдами через [Молнию](https://www.wowhead.com/ptr/spell=188196).
+* Билды через [Элементаля огня](https://www.wowhead.com/ptr/spell=198067), [Выброс лавы](https://www.wowhead.com/ptr/spell=51505), [Огненный шок](https://www.wowhead.com/ptr/spell=188389/) и [Укоренившиеся стихии](https://www.wowhead.com/ptr/spell=378270/) сейчас не наносят достаточно урона ни в одном типе боя и не могут конкурировать с билдами через [Молнию](https://www.wowhead.com/ptr/spell=188196).
 
 * Урон спендеров был существенно снижен – базовая версия [Земного шока](https://www.wowhead.com/ptr/spell=8042) бьет на **20%** слабее, а [Землетрясение](https://www.wowhead.com/ptr/spell=61882) – почти **в два раза** слабее, чем в Shadowlands. Однако эти способности получили усливающие их таланты – [Безжалостное бедствие](https://www.wowhead.com/ptr/spell=382685), [Око бури](https://www.wowhead.com/ptr/spell=381708/) и [Горы не вечны](https://www.wowhead.com/ptr/spell=381726), так что финальная разница не так велика.
 
