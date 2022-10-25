@@ -178,7 +178,7 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJBSLRDBFkIBAAAAAAlAkSSUSRShIik0AQAE
 * [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ptr/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVCoQIABCQQ)
 * Код для импорта талантов в игре:
 ~~~
-BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJSRSLRBBASAAAAAAQJApkEl0kUISJJBASAA
+BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJFJtEFEAIBAAAAAAlAkSSUSTShIlkEAIBA
 ~~~
 * **Легендарка:** [Равновесие стихий](https://www.wowhead.com/ptr/spell=336730/) и [Единство](https://www.wowhead.com/ru/spell=364852)
 * **Ковенант:** <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
