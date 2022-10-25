@@ -64,16 +64,22 @@ image: /assets/img/enh_tb.png
 
 * [Тотем неистовства ветра](https://www.wowhead.com/ptr/spell=8512) получил бафф и стал еще более полезен – теперь корректно срабатывает на автоатаки с левой руки и автоатаки от тотема больше не промахиваются.
 
+* Изменение талантов Dragonflight улучшило взаимодействие между способностями, добавив различные сочетания, которые можно объединить по школе магии:
+  * <span style="color:#FFFFFF;font-size:1em;">**Физический урон**</span> – [Удар бури](https://www.wowhead.com/ptr/spell=17364), [Оружие неистовства ветра](https://www.wowhead.com/ptr/spell=33757), [Дух дикого зверя](https://www.wowhead.com/ptr/spell=51533/feral-spirit), [Наследнием ледяной ведьмы](https://www.wowhead.com/ptr/spell=335899/), [Ветра рока](https://www.wowhead.com/ptr/spell=384352), [Раскол](https://www.wowhead.com/ptr/spell=197214).
+  * <span style="color:#f16f25;font-size:1em;">**Огонь**</span> – [Вскипания лавы](https://www.wowhead.com/ptr/spell=60103), [Огненный шок](https://www.wowhead.com/ptr/spell=188389/), [Кольцо огня](https://www.wowhead.com/ptr/spell=333974).
+  * <span style="color:#26d22b;font-size:1em;">**Природа**</span> – [Молния](https://www.wowhead.com/ptr/spell=188196), [Цепная молния](https://www.wowhead.com/ptr/spell=188443/), [Сокрушающая молния](https://www.wowhead.com/ptr/spell=187874/).
+  * <span style="color:#8fd5fe;font-size:1em;">**Лёд**</span> – [Ледяной клинок](https://www.wowhead.com/ptr/spell=342240), [Ледяной шок](https://www.wowhead.com/ptr/spell=196840/), [Буря с градом](https://www.wowhead.com/ptr/spell=334195).
+  * <span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>**Сила стихий**</strong></span> – [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), [Духи стихий](https://www.wowhead.com/ptr/spell=262624).
+
 # Энх Шаман в препатче
 
-## Общие изменения
+**Важно!** В связи с большим количеством изменений в препатче старые сборки WA перестанут адекватно работать. Обновленную WA под препатч и Dragonflight от [Amani](https://www.twitch.tv/amanizandalari) можно найти [по этой ссылке](https://wago.io/HJxL_fG7C).
 
-Изменение талантов Dragonflight улучшило взаимодействие между способностями, добавив различные сочетания, которые можно объединить по школе магии:
-* <span style="color:#FFFFFF;font-size:1em;">**Физический урон**</span> – [Удар бури](https://www.wowhead.com/ptr/spell=17364), [Оружие неистовства ветра](https://www.wowhead.com/ptr/spell=33757), [Дух дикого зверя](https://www.wowhead.com/ptr/spell=51533/feral-spirit), [Наследнием ледяной ведьмы](https://www.wowhead.com/ptr/spell=335899/), [Ветра рока](https://www.wowhead.com/ptr/spell=384352), [Раскол](https://www.wowhead.com/ptr/spell=197214).
-* <span style="color:#f16f25;font-size:1em;">**Огонь**</span> – [Вскипания лавы](https://www.wowhead.com/ptr/spell=60103), [Огненный шок](https://www.wowhead.com/ptr/spell=188389/), [Кольцо огня](https://www.wowhead.com/ptr/spell=333974).
-* <span style="color:#26d22b;font-size:1em;">**Природа**</span> – [Молния](https://www.wowhead.com/ptr/spell=188196), [Цепная молния](https://www.wowhead.com/ptr/spell=188443/), [Сокрушающая молния](https://www.wowhead.com/ptr/spell=187874/).
-* <span style="color:#8fd5fe;font-size:1em;">**Лёд**</span> – [Ледяной клинок](https://www.wowhead.com/ptr/spell=342240), [Ледяной шок](https://www.wowhead.com/ptr/spell=196840/), [Буря с градом](https://www.wowhead.com/ptr/spell=334195).
-* <span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>**Сила стихий**</strong></span> – [Удар духов стихий](https://www.wowhead.com/ptr/spell=117014), [Духи стихий](https://www.wowhead.com/ptr/spell=262624).
+<p align="center">
+    <img src="https://media.wago.io/screenshots/HJxL_fG7C/635540795a2ec4b6e0ac2195.gif"> 
+</p>
+
+## Общие изменения
 
 Несмотря на то, что в целом система талантов Dragonflight подталкивает к использованию <span style="color:#FFFFFF;font-size:1em;">**физического**</span> билда, в препатче не хватит талантов для полной реализации его потенциала. Лучше всего этот билд раскроет себя после релиза, когда в ветке специализации будет доступно на **25** талантов, а **30**.
 {: class="bordered"}
