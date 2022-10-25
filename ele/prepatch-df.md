@@ -110,6 +110,8 @@ image: /assets/img/ele_tb2.png
   * [Расплавленная порода](https://www.wowhead.com/ptr/spell=381776) – [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) усиливает следующий [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) на **20%**.
   * [Электрический шок](https://www.wowhead.com/ptr/spell=382086) – усиленный [Ледяной шок](https://www.wowhead.com/ptr/spell=196840) поражает дополнительно **3** цели и накладывает на них дебафф **6** секунд, увеличивающий весь получаемый урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span> на **15%**.
 
+<p></p>
+
 * Элем теперь имеет возможность взять в общей ветке талантов [Оружие Водоворота](https://www.wowhead.com/ptr/spell=187880/). Если атаковать цель в ближнем бою с этим талантом, то это увеличивает наносимый урон в бою против одной цели примерно на **0.7%**.
 
 * Одна из самых мощных комбинаций заклинаний с текущей системой талантов – максимальное усиление [Молнии](https://www.wowhead.com/ptr/spell=188196) с баффом от [Хранителя бурь](https://www.wowhead.com/ptr/spell=191634). Для этого требуется сделать следующее:
@@ -118,6 +120,8 @@ image: /assets/img/ele_tb2.png
   3. [Земной шок](https://www.wowhead.com/ptr/spell=8042), который дает бафф [Прилив мощи](https://www.wowhead.com/ptr/spell=262303/) и накладывает на цель дебафф [Грозовой разрядник](https://www.wowhead.com/ptr/spell=210689/).
   4. Начать каст [Выброса лавы](https://www.wowhead.com/ptr/spell=51505) для баффа [Властелин стихий](https://www.wowhead.com/ptr/spell=16166/) (также может прокнуть [Мощь Водоворота](https://www.wowhead.com/ptr/spell=191861)). Если у вас есть прок [Волны лавы](https://www.wowhead.com/ptr/spell=77756/), то его можно отменить `/cancelaura` макросом.
   5. По завершению каста – сразу применить [Молнию](https://www.wowhead.com/ptr/spell=188196), которая получит сразу несколько баффов на урон и многократные [Перегрузки](https://www.wowhead.com/ru/spell=168534).
+
+<p></p>
 
 *  [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) по разному взаимодействует с различными баффами. [Властелин стихий](https://www.wowhead.com/ptr/spell=16166/) мы получаем в момент **завершения** каста [Выброса лавы](https://www.wowhead.com/ptr/spell=51505), а бафф от [Прилива мощи](https://www.wowhead.com/ptr/spell=262303/) поглощается в момент **попадания** снаряда в цель. То есть, при касте мгновенной [Молнии](https://www.wowhead.com/ptr/spell=188196) она получит и бафф [Властелина стихий](https://www.wowhead.com/ptr/spell=16166/) (так как [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) уже вылетел), и бафф [Прилива мощи](https://www.wowhead.com/ptr/spell=262303/) (так как [Выброс лавы](https://www.wowhead.com/ptr/spell=51505) еще не долетел). Это работает только с хардкастом [Выброс лавы](https://www.wowhead.com/ptr/spell=51505), то есть без наличия прока [Волны лавы](https://www.wowhead.com/ptr/spell=77756/).
 
