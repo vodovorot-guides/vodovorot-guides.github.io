@@ -51,6 +51,7 @@ image: /assets/img/ele_tb2.png
   * [Гром и молния](https://www.wowhead.com/ptr/spell=51490/) – можно усилить талантом [Громовой удар](https://www.wowhead.com/ptr/spell=378779).
   * [Тотем конденсации](https://www.wowhead.com/ptr/spell=192058/) – можно усилить талантом [Дубина стража](https://www.wowhead.com/ptr/spell=381819).
   * [Наставления предков](https://www.wowhead.com/beta/spell=79206/) – можно усилить талантом [Благосклонный дух](https://www.wowhead.com/beta/spell=192088).
+  * [Природная стремительность](https://www.wowhead.com/ptr/spell=378081) – дает один мгновенный каст раз в минуту.
   * [Тотем источника маны](https://www.wowhead.com/beta/spell=381930) – реген маны для всех хилов в рейде.
   * [Тотем каменной кожи](https://www.wowhead.com/beta/spell=383017) – **10%** физической защиты для танков.
   * [Тотем безветрия](https://www.wowhead.com/beta/spell=383019) – ослабления сбития кастов на игроках.
