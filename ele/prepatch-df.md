@@ -161,7 +161,7 @@ image: /assets/img/ele_tb2.png
     <img src="/assets/img/ele_build1.jpg"> 
 </p>
 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ru/talent-calc/shaman/elemental/DAMBFVFUFFEYIkhCABNVVFFQVGoAQIAECUU)
+* [Ссылка на билд в калькуляторе талантов Wowhead (включая общие таланты)](https://www.wowhead.com/ru/talent-calc/shaman/elemental/DAMBFVFUFFEYIkhCABNVVFFQVGoAQIAECUU)
 * Код для импорта талантов в игре:
 ~~~
 BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJBSLRDBFkIBAAAAAAlAkSSUSRShIik0AQAE
@@ -180,7 +180,7 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJBSLRDBFkIBAAAAAAlAkSSUSRShIik0AQAE
     <img src="/assets/img/ele_build4.jpg"> 
 </p>
 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ru/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVGYQYABDQQA)
+* [Ссылка на билд в калькуляторе талантов Wowhead (включая общие таланты)](https://www.wowhead.com/ru/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVGYQYABDQQA)
 * Код для импорта талантов в игре:
 ~~~
 BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJFJtEFEUAOQAAAAAAQJApkEl0kUISJJBASAA
