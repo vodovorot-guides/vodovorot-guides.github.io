@@ -202,7 +202,7 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJFJtEFEUAOQAAAAAAQJApkEl0kUISJJBASAA
 Главная задача в бою против одной цели – тратить бафф [Прилив мощи](https://www.wowhead.com/ru/spell=262303/) на [Молнию](https://www.wowhead.com/ru/spell=188196) и поддерживать на цели дебафф [Электрический шок](https://www.wowhead.com/ru/spell=382086) от усиленного [Ледяного шока](https://www.wowhead.com/ru/spell=196840).
 
 Приоритет заклинаний следующий:
-1. [Земной шок](https://www.wowhead.com/ru/spell=8042) / [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) не допуская оверкапа энергии Водоворота.
+1. [Земной шок](https://www.wowhead.com/ru/spell=8042) / [Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
 2. [Огненный шок](https://www.wowhead.com/ru/spell=188389) если отсутствует на цели.
 3. [Элементаль бури](https://www.wowhead.com/ru/spell=192249) / [Элементаль огня](https://www.wowhead.com/ru/spell=198067) по кулдауну.
 4. [Перерождение](https://www.wowhead.com/ru/spell=114050/) / [Первозданная волна](https://www.wowhead.com/ru/spell=375982/) по кулдауну.
