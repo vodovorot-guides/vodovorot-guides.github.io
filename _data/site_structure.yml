@@ -18,6 +18,7 @@ categories:
         url: /resto/prepatch-df.html
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
+        divided: true
       - title: Настройка VuhDo
         url: /resto/vuhdo.html        
       - title: Логи хилов и их важность
