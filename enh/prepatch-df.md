@@ -145,7 +145,7 @@ BcQAAAAAAAAAAAAAAAAAAAAAAQSSKRCIJhAJUSIAAAAAAAAAAAAA0iQESIEAlEJFAlEJBA
 * **Ковенант:** <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 * **Медиум и проводники:** [Творец Снов](https://www.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/AwaZZr4BJShxChMFKZIKFSmbCiUs7wohBSg9Cg)
 
-Вариация классического стихийного билда из **3-4** сезонов Shadowlands, с некоторыми изменениями. Так как основные легендарки для этого билда ([Волчьи кости колдуна](https://www.wowhead.com/ru/spell=335897/) и [Преобразователи изначальной лавы](https://www.wowhead.com/ru/spell=335895)) стали талантами, то самым оптимальным выбором остается [Огненная гибель "Усмирителя небес"](https://www.wowhead.com/ru/spell=336734). 
+Вариация классического стихийного билда из **3-4** сезонов Shadowlands, с некоторыми изменениями. Так как основные легендарки для этого билда ([Волчьи кости колдуна](https://www.wowhead.com/ru/spell=335897/) и [Преобразователи изначальной лавы](https://www.wowhead.com/ru/spell=335895)) стали талантами, то самым оптимальным выбором остается Элемская [Огненная гибель "Усмирителя небес"](https://www.wowhead.com/ru/spell=336734).
 {: class="bordered"}
 
 <hr style="height:1px;background-color:#bbb">
