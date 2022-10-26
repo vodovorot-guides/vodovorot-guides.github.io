@@ -136,7 +136,7 @@ image: /assets/img/enh_tb2.png
     <img src="/assets/img/hh_buld1.jpg"> 
 </p>
 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ru/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQANVKBURZAUgRAgEBA)
+* [Ссылка на билд в калькуляторе талантов Wowhead (включая общие таланты)](https://www.wowhead.com/ru/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQANVKBURZAUgRAgEBA)
 * Код для импорта талантов в игре:
 ~~~
 BcQAAAAAAAAAAAAAAAAAAAAAAQSSKRCIJhAJUSIAAAAAAAAAAAAA0iQESIEAlEJFAlEJBA
@@ -157,7 +157,7 @@ BcQAAAAAAAAAAAAAAAAAAAAAAQSSKRCIJhAJUSIAAAAAAAAAAAAA0iQESIEAlEJFAlEJBA
     <img src="/assets/img/dw_build1.jpg"> 
 </p>
  
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ru/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQANVaRUFRBEgBQCBBA)
+* [Ссылка на билд в калькуляторе талантов Wowhead (включая общие таланты)](https://www.wowhead.com/ru/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQANVaRUFRBEgBQCBBA)
 * Код для импорта талантов в игре:
 ~~~
 BcQAAAAAAAAAAAAAAAAAAAAAAIJJpAJkkECkkQAAAAAAAAAAAAAAtIEhECBQJRSBQJRSgC
@@ -182,7 +182,7 @@ BcQAAAAAAAAAAAAAAAAAAAAAAIJJpAJkkECkkQAAAAAAAAAAAAAAtIEhECBQJRSBQJRSgC
     <img src="/assets/img/fn_build1.jpg"> 
 </p>
 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ru/talent-calc/shaman/enhancement/DAQFFRBQBEQIghhhAEECUANVKBEUYEQhVAgEBQ)
+* [Ссылка на билд в калькуляторе талантов Wowhead (включая общие таланты)](https://www.wowhead.com/ru/talent-calc/shaman/enhancement/DAQFFRBQBEQIghhhAEECUANVKBEUYEQhVAgEBQ)
 * Код для импорта талантов в игре:
 ~~~
 BcQAAAAAAAAAAAAAAAAAAAAAAIRSaRCiIhgAlEJAAAAAAAAAAAAA0iQES0CBgEJFAlEJBA
@@ -203,7 +203,7 @@ BcQAAAAAAAAAAAAAAAAAAAAAAIRSaRCiIhgAlEJAAAAAAAAAAAAA0iQES0CBgEJFAlEJBA
     <img src="/assets/img/dw_build2.jpg"> 
 </p>
 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ru/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQANVaRUVBEAhBQCBBA)
+* [Ссылка на билд в калькуляторе талантов Wowhead (включая общие таланты)](https://www.wowhead.com/ru/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQANVaRUVBEAhBQCBBA)
 * Код для импорта талантов в игре:
 ~~~
 BcQAAAAAAAAAAAAAAAAAAAAAAIJJpAJCJhASCRCAAAAAAAAAAAAAtIEhECBQJRSBQJRSgC
