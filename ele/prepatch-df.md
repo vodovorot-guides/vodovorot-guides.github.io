@@ -177,13 +177,13 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJBSLRDBFkIBAAAAAAlAkSSUSRShIik0AQAE
 ### Билд на АоЕ
 
 <p align="center">
-    <img src="/assets/img/ele_build3.jpg"> 
+    <img src="/assets/img/ele_build4.jpg"> 
 </p>
 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ru/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVCoQYABDQQA)
+* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ru/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVGYQYABDQQA)
 * Код для импорта талантов в игре:
 ~~~
-BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJSRSLRBBFgEAAAAAAUCQKJRJNJFiUSSAgEAA
+BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJFJtEFEUAOQAAAAAAQJApkEl0kUISJJBASAA
 ~~~
 * **Легендарка:** [Равновесие стихий](https://www.wowhead.com/ru/spell=336730/) и [Единство](https://www.wowhead.com/ru/spell=364852)
 * **Ковенант:** <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
