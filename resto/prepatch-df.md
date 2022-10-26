@@ -128,7 +128,7 @@ image: /assets/img/resto_tb2.png
     <img src="/assets/img/resto_build1.jpg"> 
 </p>
 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ru/talent-calc/shaman/restoration/DAQBQQBCFAFKIlBEgQECAQOZUBYFRURVQgAAQCBR)
+* [Ссылка на билд в калькуляторе талантов Wowhead (включая общие таланты)](https://www.wowhead.com/ru/talent-calc/shaman/restoration/DAQBQQBCFAFKIlBEgQECAQOZUBYFRURVQgAAQCBR)
 * Код для импорта талантов в игре:
 ~~~
 BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIBJRKJkWKBJFtoFUSIokAAIlIJNQgEJB
@@ -146,7 +146,7 @@ BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIBJRKJkWKBJFtoFUSIokAAIlIJNQgEJB
     <img src="/assets/img/resto_build2.jpg"> 
 </p>
 
-* [Ссылка на билд в калькуляторе талантов Wowhead](https://www.wowhead.com/ru/talent-calc/shaman/restoration/DAQBVQFSFAEKgBgBAUEBANZVFYERFRUSAABCVA)
+* [Ссылка на билд в калькуляторе талантов Wowhead (включая общие таланты)](https://www.wowhead.com/ru/talent-calc/shaman/restoration/DAQBVQFSFAEKgBgBAUEBANZVFYERFRUSAABCVA)
 * Код для импорта талантов в игре:
 ~~~
 BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIhkQSaRCpoFkU0AJlECpkECAIRAQJRkEB
