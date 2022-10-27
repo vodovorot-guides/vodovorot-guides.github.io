@@ -194,7 +194,7 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJFJtEFEUAOQAAAAAAQJApkEl0kUISJJBASAA
 
 <p></p>
 
-Альтернатива этому билду без легендарки [Равновесия стихий](https://www.wowhead.com/ru/spell=336730/) – [по этой ссылке](https://www.wowhead.com/ru/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVCoQCABCQQ). В этом случае используется лега [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=336215/), но на [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) легендарка не работает, только на одноименный талант.
+Альтернатива этому билду без легендарки [Равновесия стихий](https://www.wowhead.com/ru/spell=336730/) – [по этой ссылке](https://www.wowhead.com/ru/talent-calc/shaman/elemental/DANBFVBUFFFYoEgBCEAMVVFFQVGoASABDQQA). В этом случае используется лега [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=336215/), но на [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) легендарка не работает, только на одноименный талант.
 {: class="bordered"}
 
 ## Приоритет способностей
