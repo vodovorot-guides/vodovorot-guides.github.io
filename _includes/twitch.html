@@ -9,7 +9,7 @@
   <script type="text/javascript">
     if ($(window).width() > 992) {
         var options = {
-            channel: "amanizandalari", // TODO: Change this to the streams username you want to embed
+            channel: "amanizandalari",
             width: 400,
             height: 300,
             muted: true,
@@ -38,7 +38,7 @@
             document.getElementById("twitch").classList.remove('hide');
             player.removeEventListener(Twitch.Player.ONLINE, handleOnline);
             player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
-            player.setMuted(false);
+            player.setMuted(true);
         }
 
         function handleOffline() {
