@@ -120,7 +120,7 @@ image: /assets/img/ele_tb2.png
   1. [Хранителем бурь](https://www.wowhead.com/ru/spell=191634).
   2. [Ледяной шок](https://www.wowhead.com/ru/spell=196840) с баффом от [Ледяной ярости](https://www.wowhead.com/ru/spell=210714) и с талантом [Электрический шок](https://www.wowhead.com/ru/spell=382086).
   3. [Земной шок](https://www.wowhead.com/ru/spell=8042), который дает бафф [Прилив мощи](https://www.wowhead.com/ru/spell=262303/) и накладывает на цель дебафф [Грозовой разрядник](https://www.wowhead.com/ru/spell=210689/).
-  4. [Молния](https://www.wowhead.com/ru/spell=188196), которая получит сразу несколько баффов на урон и многократные [Перегрузки](https://www.wowhead.com/ru/spell=168534).
+  4. [Молния](https://www.wowhead.com/ru/spell=188196), которая получит сразу несколько баффов на урон и многократные [Перегрузки](https://www.wowhead.com/ru/spell=168534), что увеличивает её урон в **14** раз по сравнению с версией без баффов.
 
 <p></p>
 
