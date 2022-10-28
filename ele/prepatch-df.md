@@ -200,7 +200,7 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJFJtEFEUAOQAAAAAAQJApkEl0kUISJJBASAA
 
 Главная задача в бою против одной цели – тратить бафф [Прилив мощи](https://www.wowhead.com/ru/spell=262303/) на [Молнию](https://www.wowhead.com/ru/spell=188196) и поддерживать на цели дебафф [Электрический шок](https://www.wowhead.com/ru/spell=382086) от усиленного [Ледяного шока](https://www.wowhead.com/ru/spell=196840).
 
-Приоритет заклинаний следующий:
+Приоритет заклинаний в бою против одной цели следующий:
 1. [Земной шок](https://www.wowhead.com/ru/spell=8042) / [Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
 2. [Огненный шок](https://www.wowhead.com/ru/spell=188389) если отсутствует на цели.
 3. [Элементаль бури](https://www.wowhead.com/ru/spell=192249) / [Элементаль огня](https://www.wowhead.com/ru/spell=198067) по кулдауну.
@@ -209,8 +209,10 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJFJtEFEUAOQAAAAAAQJApkEl0kUISJJBASAA
 6. [Ледяная ярость](https://www.wowhead.com/ru/spell=210714/) по кулдауну.
 7. [Молния](https://www.wowhead.com/ru/spell=188196/) если есть бафф [Прилив мощи](https://www.wowhead.com/ru/spell=262303/).
 8. [Ледяной шок](https://www.wowhead.com/ru/spell=196840) с баффом от [Ледяной ярости](https://www.wowhead.com/ru/spell=210714), желательно поддерживая максимальный аптайм дебаффа [Электрический шок](https://www.wowhead.com/ru/spell=382086).
-9. [Выброс лавы](https://www.wowhead.com/ru/spell=51505).
+9. [Выброс лавы](https://www.wowhead.com/ru/spell=51505) (в билде через [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=336063/) он кастуется только по проку [Волны лавы](https://www.wowhead.com/ru/spell=77756/)).
 10. [Молния](https://www.wowhead.com/ru/spell=188196/).
+
+На АоЕ следует чередовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) / [Земной шок](https://www.wowhead.com/ru/spell=8042) и [Землетрясение](https://www.wowhead.com/ru/spell=61882), для реализации баффа от [Отголосков Великого Раскола](https://www.wowhead.com/ru/spell=384087). На **2-5** целей поддерживайте на целях дебафф [Электрический шок](https://www.wowhead.com/ru/spell=382086) от усиленного [Ледяной яростью](https://www.wowhead.com/ru/spell=210714) [Ледяного шока](https://www.wowhead.com/ru/spell=196840), а в остальное время – спамьте [Цепную молнию](https://www.wowhead.com/ru/spell=188443). Все бурсты используются по кулдауну.
 
 К выходу Dragonflight ротация будет подробно расписана для каждого билда.
 {: class="bordered"}
