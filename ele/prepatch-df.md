@@ -120,8 +120,7 @@ image: /assets/img/ele_tb2.png
   1. [Хранителем бурь](https://www.wowhead.com/ru/spell=191634).
   2. [Ледяной шок](https://www.wowhead.com/ru/spell=196840) с баффом от [Ледяной ярости](https://www.wowhead.com/ru/spell=210714) и с талантом [Электрический шок](https://www.wowhead.com/ru/spell=382086).
   3. [Земной шок](https://www.wowhead.com/ru/spell=8042), который дает бафф [Прилив мощи](https://www.wowhead.com/ru/spell=262303/) и накладывает на цель дебафф [Грозовой разрядник](https://www.wowhead.com/ru/spell=210689/).
-  4. Начать каст [Выброса лавы](https://www.wowhead.com/ru/spell=51505) для баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) (также может прокнуть [Мощь Водоворота](https://www.wowhead.com/ru/spell=191861)). Если у вас есть прок [Волны лавы](https://www.wowhead.com/ru/spell=77756/), то его можно отменить `/cancelaura` макросом.
-  5. По завершению каста – сразу применить [Молнию](https://www.wowhead.com/ru/spell=188196), которая получит сразу несколько баффов на урон и многократные [Перегрузки](https://www.wowhead.com/ru/spell=168534).
+  4. [Молния](https://www.wowhead.com/ru/spell=188196), которая получит сразу несколько баффов на урон и многократные [Перегрузки](https://www.wowhead.com/ru/spell=168534).
 
 <p></p>
 
