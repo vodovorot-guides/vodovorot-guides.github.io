@@ -191,7 +191,7 @@ BcQAAAAAAAAAAAAAAAAAAAAAAIRSaRCiIhgAlEJAAAAAAAAAAAAA0iQES0CBgEJFAlEJBA
 * **Ковенант:** <span style="color:#ff4040;font-size:1em;">Вентиры</span> или <span style="color:#40bf40;font-size:1em;">Некролорды</span>
 * **Медиум и проводники:** [Теотар](https://www.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/shaman/AwaW774BFShxChIFKZIKJSzxCiMFKD0KFXYACjUoNgo) или [Марилет](https://www.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/shaman/AwaW5r4BJShxChMFKZIKFSmbCiUs8goiFSg9CiV2AAo)
 
-В зависимости от выбора ковенанта меняется и талант – <span style="color:#40bf40;font-size:1em;">Некролорды</span> вкладывают очко из [Первозданной волны](https://www.wowhead.com/ru/spell=375982) в [Усиливающую бурю](https://www.wowhead.com/ru/spell=384363). Так же можно отказаться от [Кольца огня](https://www.wowhead.com/ru/spell=333974) и взять [Бурю с градом](https://www.wowhead.com/ru/spell=334195/), тогда билд будет выглядеть [вот так](https://www.wowhead.com/ru/talent-calc/shaman/enhancement/DAQFFRBQBEQIghhhAEECUANVKBUUIEQhVAgEBA).
+В зависимости от выбора ковенанта меняется и талант – <span style="color:#40bf40;font-size:1em;">Некролорды</span> вкладывают очко из [Первозданной волны](https://www.wowhead.com/ru/spell=375982) в [Усиливающую бурю](https://www.wowhead.com/ru/spell=384363). Так же можно отказаться от [Кольца огня](https://www.wowhead.com/ru/spell=333974) и взять [Бурю с градом](https://www.wowhead.com/ru/spell=334195/), тогда билд будет выглядеть [вот так](https://www.wowhead.com/ru/talent-calc/shaman/enhancement/DAQFFRBQBEQIghhhAEECUANVKBUUIEQhVAgEBA). Этот вариант чуть сложнее в реализации, но даст больше урона против одной цели.
 {: class="bordered"}
 
 <hr style="height:1px;background-color:#bbb">
@@ -212,7 +212,7 @@ BcQAAAAAAAAAAAAAAAAAAAAAAIJJpAJCJhASCRCAAAAAAAAAAAAAtIEhECBQJRSBQJRSgC
 * **Ковенант:** <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 * **Медиум и проводники:** [Корейн](https://www.wowhead.com/soulbind-calc/night-fae/korayn/shaman/AwaW6pYBBShxChIFKZsKJSmVCiMVKD0KJXYACjUoNgo)
 
-Этот билд проигрывает стихийному варианту на АоЕ, но может эффективно использоваться в инстах с небольшим количеством треша. 
+Этот билд проигрывает стихийному варианту на АоЕ, но может эффективно использоваться в инстах с небольшим количеством треша. Можно заменить [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) и связанные с ним таланты на два очка в [Шаманское наследние](https://www.wowhead.com/ru/spell=384447) и [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450). [Этот вариант](https://www.wowhead.com/ru/talent-calc/shaman/enhancement/DAQFFRBQBARIghhhAEECQAMVaRUVBEAhBAoBA) будет менее рандомен.
 {: class="bordered"}
 
 ## Приоритет способностей
