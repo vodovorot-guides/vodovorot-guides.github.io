@@ -127,7 +127,7 @@ image: /assets/img/logos/abbrevs.png
 * {{ site.data.spells.mote }} – Master of the Elements, Mote, Моте.  
 * {{ site.data.spells.storm }} – Storm Elemental, Storm ele, Storm, Шторм элем, Буря, Элем молний, Борис.  
 * {{ site.data.spells.lmt }} – Liquid Magma Totem, LMT, ЛМТ, Тотем магмы.  
-* {{ site.data.spells.ng }} – Nature’s Guadrian, NG, Страж, Сейв на лоу хп.  
+* {{ site.data.spells.ng }} – Nature’s Guardian, NG, Страж, Сейв на лоу хп.  
 * {{ site.data.spells.ag }} – Ancestral Guidance, AG, Наставления, АГ.  
 * {{ site.data.spells.wrt }} – Wind Rush Totem, WRT, ВРТ, Хаст тотем, Тотем на скорость.  
 * {{ site.data.spells.sop }} – Surge of Power, SoP, Соп, Прилив (одно из значений), Мощь, Сурдж (одно из значений).  
