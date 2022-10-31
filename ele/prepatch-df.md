@@ -130,7 +130,12 @@ image: /assets/img/ele_tb2.png
 
 * Основной билд для боя против одной цели имеет неплохой АоЕ потенциал (с [Элементалем бури](https://www.wowhead.com/ru/spell=192249) и [Хранителем бурь](https://www.wowhead.com/ru/spell=191634)), что будет полезно во время спавна аддов в рейде.
 
-* Способность усиленного [Элементаля земли](https://www.wowhead.com/ru/spell=198103) [Каменные доспехи](https://www.wowhead.com/ru/spell=118337) была удалена, а Око шторма усиленного [Элементаля бури](https://www.wowhead.com/ru/spell=192249) теперь называется [Буря](https://www.wowhead.com/ru/spell=157375).
+* Способность усиленного [Элементаля земли](https://www.wowhead.com/ru/spell=198103) [Каменные доспехи](https://www.wowhead.com/ru/spell=118337) была удалена, а Око шторма усиленного [Элементаля бури](https://www.wowhead.com/ru/spell=192249) теперь называется [Буря](https://www.wowhead.com/ru/spell=157375). Новый макрос на эту способность теперь выглядит так:
+~~~
+#showtooltip
+/cast Метеорит
+/cast Буря
+~~~
 
 # Элем Шаман в препатче
 
