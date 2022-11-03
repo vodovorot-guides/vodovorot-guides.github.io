@@ -30,7 +30,6 @@ image: /assets/img/resto_tb2.png
   * [Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004)
   * [Тотем оков земли](https://www.wowhead.com/ru/spell=2484)
   * [Стихийный удар](https://www.wowhead.com/ru/spell=73899)
-  * [Вестник шторма](https://www.wowhead.com/ru/spell=201845)
   * [Оружие языка пламени](https://www.wowhead.com/ru/spell=318038)
   * [Щит молний](https://www.wowhead.com/ru/spell=192106/)
   * [Реинкарнация](https://www.wowhead.com/ru/spell=20608)
