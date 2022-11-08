@@ -49,7 +49,6 @@ image: /assets/img/logos/spells.png
 * Урон [Молнии](https://ru.wowhead.com/spell=188196) **может** быть усилен на **20%** с помощью таланта четвертого тира {{ site.data.spells.mote }}.
 
 </details>
-<br>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
