@@ -21,7 +21,7 @@ image: /assets/img/logos/spells.png
 
 ## Атакующие способности
 
-* [Молния](https://ru.wowhead.com/spell=188196) – наносит средний урон магии природы одной цели и генерирует энергию Водоворота.
+<a href="https://ru.wowhead.com/spell=188196" target="blank" data-wh-icon-size="medium" > **Молния**</a> – наносит средний урон магии природы одной цели и генерирует энергию Водоворота.
 <p></p>
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -51,7 +51,7 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
-* [Огненный шок](https://ru.wowhead.com/spell=188389) – наносит небольшой мгновенный урон одной цели и оставляет на цели дебафф, наносящий средний урон в течение **18** секунд.
+<a href="https://ru.wowhead.com/spell=188389" target="blank" data-wh-icon-size="medium" > **Огненный шок**</a> – наносит небольшой мгновенный урон одной цели и оставляет на цели дебафф, наносящий средний урон в течение **18** секунд.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
