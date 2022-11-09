@@ -21,7 +21,7 @@ image: /assets/img/logos/spells.png
 
 ## Пассивные способности
 
-<a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="medium" >**Водоворот**</a> – основной ресурс, генерируется одними заклинаниями и тратится на другие.
+<a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="medium" > **Водоворот**</a> – основной ресурс, генерируется одними заклинаниями и тратится на другие.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 
@@ -46,7 +46,7 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=168534" target="blank" data-wh-icon-size="medium" >**Искусность: волнение стихий**</a> – дает шанс некоторым заклинаниям поразить цель повторно, нанеся меньше урона и давая меньше энергии Водоворота.
+<a href="https://ru.wowhead.com/spell=168534" target="blank" data-wh-icon-size="medium" > **Искусность: волнение стихий**</a> – дает шанс некоторым заклинаниям поразить цель повторно, нанеся меньше урона и давая меньше энергии Водоворота.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Мастери, Иск, Перегрузка, Дублирование, Волнение стихий.
@@ -487,8 +487,7 @@ image: /assets/img/logos/spells.png
 
 ## Третий ряд
 
-<a href="https://ru.wowhead.com/spell=974" target="blank" data-wh-icon-size="medium" > **Щит земли**</a> – талант третьего тира, хилит при получении урона.
-<details markdown=1><summary><i>Подробнее...</i></summary>
+<a href="https://ru.wowhead.com/spell=974" target="blank" data-wh-icon-size="medium" > **Щит земли**</a> – стихийный щит, увеличивающий получаемое от вас исцеление и лечащий при получении урона.
 <p></p>
 > Earth Shield, ES, Земляной щит, Ерсшилд.
 
