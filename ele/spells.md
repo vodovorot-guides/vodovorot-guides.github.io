@@ -23,9 +23,6 @@ image: /assets/img/logos/spells.png
 
 ## Ресурсы
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
 
 <a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="small" > **Водоворот**</a> – основной ресурс, генерируется одними заклинаниями и тратится на другие.
 <details markdown=1><summary><i>Подробнее...</i></summary>
@@ -79,8 +76,6 @@ image: /assets/img/logos/spells.png
 
 ## Атакующие способности
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 <a href="https://ru.wowhead.com/spell=188196" target="blank" data-wh-icon-size="small" > **Молния**</a> – наносит средний урон магии природы одной цели и генерирует энергию Водоворота.
 <p></p>
@@ -172,8 +167,6 @@ image: /assets/img/logos/spells.png
 
 ## Вспомогательные способности
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 <a href="https://ru.wowhead.com/spell=8004" target="blank" data-wh-icon-size="small" > **Исцеляющий всплеск**</a> – быстрое лечение одной цели.
 <details markdown=1><summary><i>Подробнее...</i></summary>
@@ -380,8 +373,6 @@ image: /assets/img/logos/spells.png
 
 ## Первый ряд
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 <a href="https://ru.wowhead.com/spell=1064" target="blank" data-wh-icon-size="small" > **Цепное исцеление**</a> – АоЕ отхил четырех союзников с долгим кастом. Практически бесполезный талант для Элема.
 <details markdown=1><summary><i>Подробнее...</i></summary>
@@ -410,6 +401,7 @@ image: /assets/img/logos/spells.png
 <p></p>
 > Lava Burst, LvB, Meatball, Лвб, Лава бурст, Лава (одно из значений).  
 
+* Данный способность доступна Элем Шаману по умолчанию, без траты очков талантов.
 * Время восстановления **8** секунд.
 * **Всегда** наносит критический удар по цели, на которую наложен {{ site.data.spells.fs }}, за счет пассивной способности [Выброс лавы: Ранг 2](https://ru.wowhead.com/spell=231721/).
 * Время произнесения – **2** секунды.
@@ -462,7 +454,8 @@ image: /assets/img/logos/spells.png
 <p></p>
 > Chain Lightning, CL, КЛ (одно из значений), Чайник (одно из значений), Цепнуха (одно из значений).  
 
-* Время произнесения – **2** секунды.
+* Данная способность доступна Элем Шаману по умолчанию, без траты очков талантов.
+* Время произнесения – **2** секунды. Талант [Безжалостное бедствие](https://www.wowhead.com/ru/spell=382685) сокращает время произнесения до **1.75** секунд.
 * Наносит урон от сил <span style="color:#26d22b;font-size:1em;">**Природы**</span> и стоит **1%** маны.
 * Генерирует по **4** ед. энергии Водоворота за каждую пораженную цель и дополнительно по **3** ед. при проке [Искусности](https://ru.wowhead.com/spell=168534).
 * Эффективность [Искусности](https://ru.wowhead.com/spell=168534) для [Цепной молнии](https://ru.wowhead.com/spell=188443) **снижена до 33%**. То есть, если у вас **60%** Искусности, то [Цепная молния](https://ru.wowhead.com/spell=188443) имеет только **20%** на прок перегрузки.
@@ -492,7 +485,7 @@ image: /assets/img/logos/spells.png
 
 ## Второй ряд
 
-<a href="https://ru.wowhead.com/spell=198103" target="blank" data-wh-icon-size="small" > **Элементаль земли**</a> – призыв защитного элементаля, которыйя забирает на себя ближайших противников и увеличивает запас здоровья игрока на **15%** на **60** секунд.
+<a href="https://ru.wowhead.com/spell=198103" target="blank" data-wh-icon-size="small" > **Элементаль земли**</a> – призыв защитного элементаля, который забирает на себя ближайших противников и увеличивает запас здоровья игрока на **15%** на **60** секунд.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Earth Elemental, Earth, Steve, Элем земли, Игорь, Стив. 
