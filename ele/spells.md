@@ -21,7 +21,11 @@ image: /assets/img/logos/spells.png
 
 ## Пассивные способности
 
-<a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="medium" > **Водоворот**</a> – основной ресурс, генерируется одними заклинаниями и тратится на другие.
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+* [Водоворот](https://ru.wowhead.com/spell=343725) – основной ресурс, генерируется одними заклинаниями и тратится на другие.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 
@@ -45,8 +49,10 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
-<a href="https://ru.wowhead.com/spell=168534" target="blank" data-wh-icon-size="medium" > **Искусность: волнение стихий**</a> – дает шанс некоторым заклинаниям поразить цель повторно, нанеся меньше урона и давая меньше энергии Водоворота.
+* [Искусность: волнение стихий](https://ru.wowhead.com/spell=168534) – дает шанс некоторым заклинаниям поразить цель повторно, нанеся меньше урона и давая меньше энергии Водоворота.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Мастери, Иск, Перегрузка, Дублирование, Волнение стихий.
@@ -65,6 +71,10 @@ image: /assets/img/logos/spells.png
 * При использовании [Первозданной волны](https://ru.wowhead.com/spell=375982) шанс на прок Искусности расчитывается отдельно на каждую цель. 
 </details>
 <p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 ## Атакующие способности
 
