@@ -344,6 +344,9 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 <a href="https://ru.wowhead.com/spell=51505" target="blank" data-wh-icon-size="small" > **Выброс лавы**</a> – основное заклинание с коротким КД, генерирует большое количество энергии Водоворота и всегда наносит критический удар, если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389).
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -376,6 +379,10 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
 <a href="https://ru.wowhead.com/spell=108271" target="blank" data-wh-icon-size="small" > **Астральный сдвиг**</a> – основное защитное заклинание. Снижает получаемый урон на **40%** на **8** секунд с кулдауном **2** минуты. 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -387,6 +394,10 @@ image: /assets/img/logos/spells.png
 * Может быть усилен одним из связанных талантов – [Между мирами](https://www.wowhead.com/ru/spell=381647) и [Астральный бастион](https://www.wowhead.com/ru/spell=377933).
 </details>
 <p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 <a href="https://ru.wowhead.com/spell=188443" target="blank" data-wh-icon-size="small" > **Цепная молния**</a> – наносит ощутимый урон **5** целям, основной генератор энергии Водоворота на АоЕ.
 <details markdown=1><summary><i>Подробнее...</i></summary>
@@ -416,6 +427,10 @@ image: /assets/img/logos/spells.png
   * [Камера эхо](https://www.wowhead.com/ru/spell=382032) – увеличивает урон от [Перегрузки](https://ru.wowhead.com/spell=168534) на **15%**.
 </details>
 <p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 ## Второй ряд
 
@@ -447,6 +462,9 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 <a href="https://ru.wowhead.com/spell=57994" target="blank" data-wh-icon-size="small" > **Пронизывающий ветер**</a> – прерывание заклинания противника.
 <details markdown=1><summary><i>Подробнее...</i></summary>
@@ -463,15 +481,26 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 Один из двух талантов на выбор:
 * <a href="https://ru.wowhead.com/spell=381647" target="blank" data-wh-icon-size="small" > **Между мирами**</a> – усиливает [Астральный сдвиг](https://ru.wowhead.com/spell=108271), снижая его кулдаун до полутора минут и продлевая время действия до **12** секунд.  
 
 * <a href="https://ru.wowhead.com/spell=377933" target="blank" data-wh-icon-size="small" > **Астральный бастион**</a> – усиливает [Астральный сдвиг](https://ru.wowhead.com/spell=108271), увеличивая размер снижения урона до **55%**.  
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
 Один из двух талантов на выбор:
 * <a href="https://ru.wowhead.com/spell=381647" target="blank" data-wh-icon-size="small" > **Дух волка**</a> – усиливает [Призрачного волка](https://ru.wowhead.com/spell=2645), дополнительно повышаая скорость передвижения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645) на **20%**, а также дает снижение получаемого урона на **20%**. Эффект накапливается по **5%** за одну секунду нахождения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645).  
 * <a href="https://ru.wowhead.com/spell=378075" target="blank" data-wh-icon-size="small" > **Громоподобные лапы**</a> – усиливает [Призрачного волка](https://ru.wowhead.com/spell=2645), позволяя раз в **60** секунд при входе в форму [Призрачного волка](https://ru.wowhead.com/spell=2645) снять с себя все замедления и увеличить скорость передвижения на **25%** на **3** секунды.  
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 <a href="https://ru.wowhead.com/spell=196840" target="blank" data-wh-icon-size="small" > **Ледяной шок**</a> – мгновенное заклинание, наносящее небольшой урон и замедляющее цель. Необходимый талант при взятой [Ледяной ярости](https://ru.wowhead.com/spell=210714) в спековой ветке.
 <details markdown=1><summary><i>Подробнее...</i></summary>
@@ -487,7 +516,15 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
 <a href="https://ru.wowhead.com/spell=187880" target="blank" data-wh-icon-size="small" > **Оружие Водоворота**</a> – атаки в ближнем бою имеют шанс снизить скорость произнесения следующего заклинания на **20%**. 
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 ## Третий ряд
 
