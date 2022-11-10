@@ -23,6 +23,9 @@ image: /assets/img/logos/spells.png
 
 ## Ресурсы
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 <a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="small" > **Водоворот**</a> – основной ресурс, генерируется одними заклинаниями и тратится на другие.
 <details markdown=1><summary><i>Подробнее...</i></summary>
@@ -48,6 +51,8 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 <a href="https://ru.wowhead.com/spell=168534" target="blank" data-wh-icon-size="small" > **Искусность: волнение стихий**</a> – дает шанс некоторым заклинаниям поразить цель повторно, нанеся меньше урона и давая меньше энергии Водоворота.
 <details markdown=1><summary><i>Подробнее...</i></summary>
@@ -69,8 +74,13 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 ## Атакующие способности
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 <a href="https://ru.wowhead.com/spell=188196" target="blank" data-wh-icon-size="small" > **Молния**</a> – наносит средний урон магии природы одной цели и генерирует энергию Водоворота.
 <p></p>
@@ -100,6 +110,9 @@ image: /assets/img/logos/spells.png
   * [Поток силы](https://www.wowhead.com/ru/spell=385923/) – увеличивает генерацию энергии Водоворота.
 
 </details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 <a href="https://ru.wowhead.com/spell=188389" target="blank" data-wh-icon-size="small" > **Огненный шок**</a> – наносит небольшой мгновенный урон одной цели и оставляет на цели дебафф, наносящий средний урон в течение **18** секунд.
@@ -134,6 +147,9 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 <a href="https://ru.wowhead.com/spell=318038" target="blank" data-wh-icon-size="small" > **Оружие языка пламени**</a> – усиливает оружие ближнего боя, нанося дополнительный урон от огня.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -145,10 +161,19 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 <a href="https://ru.wowhead.com/spell=73899" target="blank" data-wh-icon-size="small" > **Стихийный удар**</a> – наносит небольшой урон в ближнем бою. Бесполезная способность для шамана Стихии. 
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
 ## Вспомогательные способности
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 <a href="https://ru.wowhead.com/spell=8004" target="blank" data-wh-icon-size="small" > **Исцеляющий всплеск**</a> – быстрое лечение одной цели.
 <details markdown=1><summary><i>Подробнее...</i></summary>
@@ -172,6 +197,9 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 <a href="https://ru.wowhead.com/spell=2484" target="blank" data-wh-icon-size="small" > **Тотем оков земли**</a> – замедление врагов в указанной области на **50%**.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -188,6 +216,9 @@ image: /assets/img/logos/spells.png
 * Время восстановления – **30** секунд.
 * Имеет укороченный ГКД в **1** секунду, и это время не снижается Скоростью.
 </details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 <a href="https://ru.wowhead.com/spell=2825" target="blank" data-wh-icon-size="small" > **Жажда крови**</a> / <a href="https://ru.wowhead.com/spell=32182" target="blank" data-wh-icon-size="small" >**Героизм**</a> – бафф, повышающий Скорость союзников на **30%** на **40** секунд. Не сочетаается с другими подобными заклинаниями.
@@ -209,6 +240,9 @@ image: /assets/img/logos/spells.png
 * Аналоги других классов – [Искажение времени](https://ru.wowhead.com/spell=80353) Мага, [Древняя истерия](https://ru.wowhead.com/spell=90355) Охотника и [Ярость Аспектов](https://www.wowhead.com/ru/spell=390386) Пробудителя.
 * Другие классы могут использовать [Барабаны смертельной свирепости](https://ru.wowhead.com/item=172233), однако их эффект **в два раза слабее**.
 </details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 <a href="https://ru.wowhead.com/spell=2645" target="blank" data-wh-icon-size="small" > **Призрачный волк**</a> – превращение в призрачного волка, который увеличивает скорость передвижения, но применение заклинаний отменяет эффект.
@@ -240,6 +274,9 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 <a href="https://ru.wowhead.com/spell=20608" target="blank" data-wh-icon-size="small" > **Реинкарнация**</a> – воскрешение в случае смерти.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -250,6 +287,9 @@ image: /assets/img/logos/spells.png
 * Талант [Переполняющая сила жизни](https://www.wowhead.com/ru/spell=381689) увеличивает максимальный запас здоровья на **8%** если [Реинкарнация](https://ru.wowhead.com/spell=20608) не на кулдауне, а при полном здоровье кулдаун [Реинкарнации](https://ru.wowhead.com/spell=20608) сокращается до **~17** минут.
 * [Реинкарнация](https://ru.wowhead.com/spell=20608) не работает на Арене, но работает на РБГ.
 </details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 <a href="https://ru.wowhead.com/spell=192106" target="blank" data-wh-icon-size="small" > **Щит молний**</a> – наносит урон атакующим в ближнем бою.
@@ -263,6 +303,9 @@ image: /assets/img/logos/spells.png
 * Талант [Ободряющие щиты](https://www.wowhead.com/ru/spell=382033/) увеличивает наносимый урон и генерацию энергии Водоворота [Щита молний](https://ru.wowhead.com/spell=192106) в два раза.
 * Дает анимацию электрического шара, кружащего вокруг персонажа.
 </details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
@@ -280,6 +323,9 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 <a href="https://ru.wowhead.com/spell=6196" target="blank" data-wh-icon-size="small" > **Дальнее зрение**</a> – переносит точку обзора в указанное место.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -288,6 +334,9 @@ image: /assets/img/logos/spells.png
 * После каста можно применить это заклинание еще раз, переместив точку обзора в следующее место.
 * Практически не имеет ограничения на дальность применения.
 </details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 <a href="https://ru.wowhead.com/spell=556" target="blank" data-wh-icon-size="small" > **Астральное возвращение**</a> – дополнительный [Камень возвращения](https://ru.wowhead.com/item=6948), переносит вас в привязанную локацию.   
@@ -301,6 +350,9 @@ image: /assets/img/logos/spells.png
 * Время восстановления – **10** минут.
 * Нельзя использовать в бою и на арене.
 </details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 <a href="https://ru.wowhead.com/spell=546" target="blank" data-wh-icon-size="small" > **Хождение по воде**</a>  – позволяет союзнику ходить по воде.
@@ -321,9 +373,15 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 # Общие таланты шамана
 
 ## Первый ряд
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 <a href="https://ru.wowhead.com/spell=1064" target="blank" data-wh-icon-size="small" > **Цепное исцеление**</a> – АоЕ отхил четырех союзников с долгим кастом. Практически бесполезный талант для Элема.
 <details markdown=1><summary><i>Подробнее...</i></summary>
