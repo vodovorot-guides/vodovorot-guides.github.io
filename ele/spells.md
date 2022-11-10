@@ -22,7 +22,7 @@ image: /assets/img/logos/spells.png
 ## Пассивные способности
 
 
-<a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="medium" > **Водоворот**</a> – основной ресурс, генерируется одними заклинаниями и тратится на другие.
+<a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="small" > **Водоворот**</a> – основной ресурс, генерируется одними заклинаниями и тратится на другие.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 
