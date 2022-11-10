@@ -783,7 +783,7 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
-* <a href="https://ru.wowhead.com/spell=51485" target="blank" data-wh-icon-size="medium" > **Тотем хватки земли**</a> – установка тотема, обездвиживащего врагов в указанной области. Урон прерывает действие эффекта.
+* <a href="https://ru.wowhead.com/spell=51485" target="blank" data-wh-icon-size="small" > **Тотем хватки земли**</a> – установка тотема, обездвиживащего врагов в указанной области. Урон прерывает действие эффекта.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Earthgrab Totem, EGT, Тотем рутов.
@@ -941,13 +941,18 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
-<details markdown=1><summary><i>Подробнее...</i></summary>
+<hr style="height:1px;background-color:#bbb">
 <p></p>
+
 
 Один из двух талантов на выбор:
 * <a href="https://ru.wowhead.com/spell=58875" target="blank" data-wh-icon-size="small" > **Поступь духа**</a> – увеличивает скорость передвижения на **60%** на **8** секунд, эффекты обездвиживания в момент активации. Кулдаун – **60** секунд.
 
 * <a href="https://ru.wowhead.com/spell=192063" target="blank" data-wh-icon-size="small" > **Порыв ветра**</a> – рывок на среднее расстояние с кулдауном **30** секунд. Позволяет избежать урона от падения.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 ## Восьмой ряд
 
