@@ -134,8 +134,6 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=73899" target="blank" data-wh-icon-size="small" > **Стихийный удар**</a> – наносит небольшой урон в ближнем бою. Бесполезная способность для шамана Стихии. 
-
 <a href="https://ru.wowhead.com/spell=318038" target="blank" data-wh-icon-size="small" > **Оружие языка пламени**</a> – усиливает оружие ближнего боя, нанося дополнительный урон от огня.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -146,6 +144,9 @@ image: /assets/img/logos/spells.png
 * Добавляет огненную анимацию вокруг оружия персонажа.
 </details>
 <p></p>
+
+<a href="https://ru.wowhead.com/spell=73899" target="blank" data-wh-icon-size="small" > **Стихийный удар**</a> – наносит небольшой урон в ближнем бою. Бесполезная способность для шамана Стихии. 
+
 
 ## Вспомогательные способности
 
@@ -171,7 +172,7 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=2484" target="blank" data-wh-icon-size="small" > **Тотем оков земли**</a> – АоЕ замедление врагов на **50%**.
+<a href="https://ru.wowhead.com/spell=2484" target="blank" data-wh-icon-size="small" > **Тотем оков земли**</a> – замедление врагов в указанной области на **50%**.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Earthbind Totem, Тотем замедления.
@@ -289,7 +290,7 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=556" target="blank" data-wh-icon-size="small" > **Астральное возвращение**</a> – дополнительный [Камень возвращения](https://ru.wowhead.com/item=6948), возвращает вас в привязанную локацию.   
+<a href="https://ru.wowhead.com/spell=556" target="blank" data-wh-icon-size="small" > **Астральное возвращение**</a> – дополнительный [Камень возвращения](https://ru.wowhead.com/item=6948), переносит вас в привязанную локацию.   
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 * Считается заклинанием магии <span style="color:#26d22b;font-size:1em;">**Природы**</span> и не стоит маны.
@@ -387,7 +388,7 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=188443" target="blank" data-wh-icon-size="small" > **Цепная молния**</a> – основной генератор энергии Водоворота на АоЕ, наносит ощутимый урон **5** целям.
+<a href="https://ru.wowhead.com/spell=188443" target="blank" data-wh-icon-size="small" > **Цепная молния**</a> – наносит ощутимый урон **5** целям, основной генератор энергии Водоворота на АоЕ.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Chain Lightning, CL, КЛ (одно из значений), Чайник (одно из значений), Цепнуха (одно из значений).  
@@ -419,10 +420,9 @@ image: /assets/img/logos/spells.png
 ## Второй ряд
 
 <a href="https://ru.wowhead.com/spell=198103" target="blank" data-wh-icon-size="small" > **Элементаль земли**</a> – призыв защитного элементаля, которыйя забирает на себя ближайших противников и увеличивает запас здоровья игрока на **15%** на **60** секунд.
-
-> Earth Elemental, Earth, Steve, Элем земли, Игорь, Стив. 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
+> Earth Elemental, Earth, Steve, Элем земли, Игорь, Стив. 
 * При активации способности призывается Элементаль, который атакует **одного** противника в ближнем бою, нанося **25%** урона от силы заклинаний раз в **2** секунды. Тип урона – <span style="color:#FFFFFF;font-size:1em;">**Физический**</span>.
 * Увеличивает запас здоровья игрока на **15%** на время своего действия.
 * Длительность [Элементаля земли](https://ru.wowhead.com/spell=198103) составляет **60** секунд.
@@ -464,14 +464,14 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=381647" target="blank" data-wh-icon-size="small" > **Между мирами**</a> – усиливает [Астральный сдвиг](https://ru.wowhead.com/spell=108271), снижая его кулдаун до полутора минут и продлевая время действия до **12** секунд.
+Один из двух талантов на выбор:
+* <a href="https://ru.wowhead.com/spell=381647" target="blank" data-wh-icon-size="small" > **Между мирами**</a> – усиливает [Астральный сдвиг](https://ru.wowhead.com/spell=108271), снижая его кулдаун до полутора минут и продлевая время действия до **12** секунд.  
 
-<a href="https://ru.wowhead.com/spell=377933" target="blank" data-wh-icon-size="small" > **Астральный бастион**</a> – усиливает [Астральный сдвиг](https://ru.wowhead.com/spell=108271), увеличивая размер снижения урона до **55%**.
+* <a href="https://ru.wowhead.com/spell=377933" target="blank" data-wh-icon-size="small" > **Астральный бастион**</a> – усиливает [Астральный сдвиг](https://ru.wowhead.com/spell=108271), увеличивая размер снижения урона до **55%**.  
 
-<a href="https://ru.wowhead.com/spell=381647" target="blank" data-wh-icon-size="small" > **Дух волка**</a> – усиливает [Призрачного волка](https://ru.wowhead.com/spell=2645), дополнительно повышаая скорость передвижения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645) на **20%**, а также дает снижение получаемого урона на **20%**. Эффект накапливается по **5%** за одну секунду нахождения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645).
-
-<a href="https://ru.wowhead.com/spell=378075" target="blank" data-wh-icon-size="small" > **Громоподобные лапы**</a> – усиливает [Призрачного волка](https://ru.wowhead.com/spell=2645), позволяя раз в **60** секунд при входе в форму [Призрачного волка](https://ru.wowhead.com/spell=2645) снять с себя все замедления и увеличить скорость передвижения на **25%** на **3** секунды.
-
+Один из двух талантов на выбор:
+* <a href="https://ru.wowhead.com/spell=381647" target="blank" data-wh-icon-size="small" > **Дух волка**</a> – усиливает [Призрачного волка](https://ru.wowhead.com/spell=2645), дополнительно повышаая скорость передвижения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645) на **20%**, а также дает снижение получаемого урона на **20%**. Эффект накапливается по **5%** за одну секунду нахождения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645).  
+* <a href="https://ru.wowhead.com/spell=378075" target="blank" data-wh-icon-size="small" > **Громоподобные лапы**</a> – усиливает [Призрачного волка](https://ru.wowhead.com/spell=2645), позволяя раз в **60** секунд при входе в форму [Призрачного волка](https://ru.wowhead.com/spell=2645) снять с себя все замедления и увеличить скорость передвижения на **25%** на **3** секунды.  
 
 <a href="https://ru.wowhead.com/spell=196840" target="blank" data-wh-icon-size="small" > **Ледяной шок**</a> – мгновенное заклинание, наносящее небольшой урон и замедляющее цель. Необходимый талант при взятой [Ледяной ярости](https://ru.wowhead.com/spell=210714) в спековой ветке.
 <details markdown=1><summary><i>Подробнее...</i></summary>
