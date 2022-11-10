@@ -21,8 +21,6 @@ image: /assets/img/logos/spells.png
 
 ## Пассивные способности
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 
 * [Водоворот](https://ru.wowhead.com/spell=343725) – основной ресурс, генерируется одними заклинаниями и тратится на другие.
@@ -49,8 +47,6 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 * [Искусность: волнение стихий](https://ru.wowhead.com/spell=168534) – дает шанс некоторым заклинаниям поразить цель повторно, нанеся меньше урона и давая меньше энергии Водоворота.
 <details markdown=1><summary><i>Подробнее...</i></summary>
@@ -70,9 +66,6 @@ image: /assets/img/logos/spells.png
 * Искусность не влияет на тотемы и лечащие заклинания.
 * При использовании [Первозданной волны](https://ru.wowhead.com/spell=375982) шанс на прок Искусности расчитывается отдельно на каждую цель. 
 </details>
-<p></p>
-
-<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
