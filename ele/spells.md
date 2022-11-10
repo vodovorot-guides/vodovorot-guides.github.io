@@ -19,7 +19,7 @@ image: /assets/img/logos/spells.png
 
 # Базовые способности
 
-## Пассивные способности
+## Ресурсы
 
 
 <a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="small" > **Водоворот**</a> – основной ресурс, генерируется одними заклинаниями и тратится на другие.
