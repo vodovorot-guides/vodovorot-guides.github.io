@@ -1224,32 +1224,58 @@ image: /assets/img/logos/spells.png
 
 * <a href="https://ru.wowhead.com/spell=77756" target="blank" data-wh-icon-size="small" > **Волна лавы**</a> – каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) имеет **10%** шанс восстановить [Выброс лавы](https://ru.wowhead.com/spell=51505) и сделать его мгновенным.
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+## Пятый ряд
+
+
+* <a href="https://ru.wowhead.com/spell=382685" target="blank" data-wh-icon-size="small" > **Безжалостное бедствие**</a> – пассивный талант, сокращает время применения [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://www.wowhead.com/ru/spell=188443) на **0.25** секунд, а также продлевает время действия [Землетрясения](https://ru.wowhead.com/spell=61882) на **1** секунду.
 
 
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="small" > **Ледяная ярость**</a> – бурст с кулдауном **30** секунд, усиливает **4** следующих [Ледяных шока](https://ru.wowhead.com/spell=196840), увеличивая их урон в **3.25** раз и позволяя им генерировать **8** единиц энергии Водоворота. 
+<details markdown=1><summary><i>Подробнее...</i></summary>
+<p></p>
+> Icefury, IF, ИФ, Айсфьюри.  
+
+* Дает бафф на **25** секунд, увеличивающий урон **4** следующих [Ледяных шоков](https://ru.wowhead.com/spell=196840) на **225%**.
+* Каждый усиленный [Ледяной шок](https://ru.wowhead.com/spell=196840) генерирует **8** единиц энергии Водоворота.
+* Время восстановления **30** секунд.
+* Наносит урон от магии <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> и стоит **3%** маны.
+* Генерирует **25** единиц энергии Водоворота и дополнительно **12** единиц при проке [Искусности](https://ru.wowhead.com/spell=168534).
+* {{ site.data.spells.if }} имеет время полета снаряда около **1** секунды для максимальной дистанции, при этом бафф на урон [Ледяных шоков](https://ru.wowhead.com/spell=196840) накладывается сразу же по завершению каста.
+</details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+<a href="https://www.wowhead.com/ru/spell=381707" target="blank" data-wh-icon-size="small" > **Бурлящий водоворот**</a> – пассивный талант, увеличивает запас энергии Водоворота со **100** до **150** единиц. Позволяет накопить больше энергии под определенные моменты боя, а также не уходить в оверкап во время АоЕ.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
 
+<a href="https://www.wowhead.com/ru/spell=333919" target="blank" data-wh-icon-size="small" > **Эхо стихий**</a> – пассивный талант, дает [Выбросу лавы](https://ru.wowhead.com/spell=51505) второй заряд, в результате чего время восстановления не теряется при проке [Волны лавы](https://ru.wowhead.com/spell=77756), а также сокращает кулдаун [Выброса лавы](https://ru.wowhead.com/spell=51505) до **8** секунд вместо «**8** секунд + время произнесения + время реакции».
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://www.wowhead.com/ru/spell=378255" target="blank" data-wh-icon-size="small" > **Зов огня**</a> – пассивный талант, увеличивает урон <span style="color:#f16f25;font-size:1em;">**огненных**</span> заклинаний на **10%**.
 
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Шестой ряд
 
 
 
@@ -1263,10 +1289,9 @@ image: /assets/img/logos/spells.png
 
 
 
-## Пятый ряд
 
 
-## Шестой ряд
+
 
 
 ## Седьмой ряд
@@ -1289,31 +1314,6 @@ image: /assets/img/logos/spells.png
 
 
 
-
-
-
-
-<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="small" >**Ледяная ярость**</a> – талант шестого тира, является частью ротации в основном билде против одной цели.
-<details markdown=1><summary><i>Подробнее...</i></summary>
-<p></p>
-> Icefury, IF, ИФ, Айсфьюри.  
-
-* Наносит **82.5%** урона от силы заклинаний.
-* Дает бафф на **15** секунд, увеличивающий урон **4** следующих [Ледяных шоков](https://ru.wowhead.com/spell=196840) на **300%**.
-* Каждый усиленный [Ледяной шок](https://ru.wowhead.com/spell=196840) генерирует **8** единиц энергии Водоворота.
-* Время восстановления **30** секунд.
-* Наносит урон от магии <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> и стоит **3%** маны.
-* Генерирует **25** единиц энергии Водоворота и дополнительно **12** единиц при проке [Искусности](https://ru.wowhead.com/spell=168534).
-* {{ site.data.spells.if }} имеет время полета снаряда около **1** секунды для максимальной дистанции, при этом бафф на урон [Ледяных шоков](https://ru.wowhead.com/spell=196840) накладывается сразу же по завершению каста.
-* Урон [Ледяной ярости](https://ru.wowhead.com/spell=210714) **может** быть усилен на **20%** с помощью таланта четвертого тира {{ site.data.spells.mote }}, однако само заклинание наносит урона даже меньше чем {{ site.data.spells.lb }} и бафф по возможности лучше тратить на усиленный {{ site.data.spells.frs }}.
-* Данный талант ощутимо усложняет ротацию в бою против одной цели, особенно для новичков. Альтернатива – {{ site.data.spells.primal_elem }}, дает чуть меньше урона, но гораздо проще в использовании.
-* Если вы не можете идеально отыгрывать [Ледяную ярость](https://ru.wowhead.com/spell=210714) (без потерь баффов [Ледяного шока](https://ru.wowhead.com/spell=196840)), то лучше использовать [Повелителя изначальных стихий](https://ru.wowhead.com/spell=117013), это даст больше урона.
-* После использования [Ледяной ярости](https://ru.wowhead.com/spell=210714) представьте, что вместо четырех следующих [Молний](https://ru.wowhead.com/spell=188196) вам нужно использовать четыре [Ледяных шока](https://ru.wowhead.com/spell=196840).
-* В идеале каждый усиленный {{ site.data.spells.frs }} следует бафать талантом {{ site.data.spells.mote }}. 
-* Не придерживайте стаки слишком долго, так как **потерять стак баффа [Ледяной ярости](https://ru.wowhead.com/spell=210714) гораздо хуже, чем потерять бафф от [Властелина стихий](https://ru.wowhead.com/spell=16166).**
-* Если с талантом {{ site.data.spells.eote }} у вас есть два заряда [Выброса лавы](https://ru.wowhead.com/spell=51505), то используйте между ними усиленный [Ледяной шок](https://ru.wowhead.com/spell=196840).
-</details>
-<p></p>
 
 
 
