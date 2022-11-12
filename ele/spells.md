@@ -1296,51 +1296,172 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
+Один из двух талантов на выбор:
+* <a href="https://ru.wowhead.com/spell=381776" target="blank" data-wh-icon-size="small" >**Расплавленная порода**</a> – усиливает [Ледяную ярость](https://ru.wowhead.com/spell=210714), увеличивая урон [Выброса лавы](https://ru.wowhead.com/spell=51505) на **20%** после применения [Ледяного шока](https://ru.wowhead.com/spell=196840).
+
+* <a href="https://ru.wowhead.com/spell=382086" target="blank" data-wh-icon-size="small" >**Электрический шок**</a> – усиливает [Ледяную ярость](https://ru.wowhead.com/spell=210714), позволяя [Ледяным шокам](https://ru.wowhead.com/spell=196840) бить сразу по **4** противником и накладывать на них дебафф, увеличивающий получаемый урон от силы природы на **15%** на **6** секунд.
 
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Один из двух талантов на выбор:
+* <a href="https://ru.wowhead.com/spell=273221" target="blank" data-wh-icon-size="small" >**Повторный толчок**</a> – пассивный талант, дает **25%** вернуть потраченную энергию водоворота при касте [Земного шока](https://ru.wowhead.com/spell=8042), [Землетрясения](https://ru.wowhead.com/spell=61882) и [Удара духов стихий](https://www.wowhead.com/ru/spell=117014).
+
+* <a href="https://ru.wowhead.com/spell=262303" target="blank" data-wh-icon-size="small" >**Прилив мощи**</a> – пассивный талант, после применения [Земного шока](https://ru.wowhead.com/spell=8042), [Землетрясения](https://ru.wowhead.com/spell=61882) и [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) усиливается следующее заклинание:
+  * [Огненный шок](https://ru.wowhead.com/spell=188389) – накладывает второй дебафф на соседнюю цель в радиусе **8** метров от основной.
+  * [Молния](https://ru.wowhead.com/spell=188196) – вызывает срабатывание двух дополнительных [Перегрузок](https://ru.wowhead.com/spell=168534).
+  * [Цепная молния](https://ru.wowhead.com/spell=188443) – бьет по **6** целям.
+  * [Выброс лавы](https://ru.wowhead.com/spell=51505) – снижает время восстановления [Элементаля огня](https://ru.wowhead.com/spell=198067) или [Элементаля бури](https://ru.wowhead.com/spell=192249) на **6** секунд.
+  * [Ледяной шок](https://ru.wowhead.com/spell=196840) – замораживает цель на одном месте на **6** секунд.
 
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
+<a href="https://ru.wowhead.com/spell=378266" target="blank" data-wh-icon-size="small" >**Пламя Котла**</a> – пассивный талант, снижает время восстановления [Огненного шока](https://ru.wowhead.com/spell=188389) до **4.5** секунд и увеличивает частоту тиков на **15%**.
 
-
-
-
-
-
-
-
-
-
-
-
-
- * {{ site.data.spells.es }} – наносит средний урон одной цели, применяется мгновенно, стоит **60** единиц энергии Водоворота.
-  * [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) – наносит большой урон одной цели, кастуется **2** секунды, дает баффы на характеристики и стоит **90** единиц энергии Водоворота. При взятии этого таланта заменяет на панели {{ site.data.spells.es }}.
-  * {{ site.data.spells.quake }} – наносит средний урон на АоЕ в течение **6** секунд, применяется мгновенно и стоит **60** единиц энергии Водоворота. Несколько [Землетрясений](https://ru.wowhead.com/spell=61882) стакаются.
-
-
-
-
-
-
-
-
-
-
-
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 ## Седьмой ряд
 
+<a href="https://ru.wowhead.com/spell=381936" target="blank" data-wh-icon-size="small" >**Вспышка молнии**</a> – пассивный талант, при касте [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) время восстановления заклинаний школы магии <span style="color:#26d22b;font-size:1em;">**природы**</span> снижается на **1** секунду.
+
+<details markdown=1><summary><i>Подробнее...</i></summary>
+<p></p>
+Работает на следующие способности:
+* [Хранитель бурь](https://ru.wowhead.com/spell=191634) 
+* [Элементалем бури](https://ru.wowhead.com/spell=192249)
+* [Молния-лассо](https://ru.wowhead.com/spell=305483)
+* [Астральный сдвиг](https://ru.wowhead.com/spell=108271)
+* [Порыв ветра](https://ru.wowhead.com/spell=192063)
+* [Пронизывающего ветра](https://ru.wowhead.com/spell=57994) 
+* [Благосклонности предков](https://ru.wowhead.com/spell=79206).
+* [Тотем конденсации](https://ru.wowhead.com/spell=192058)
+* [Тотем оков земли](https://ru.wowhead.com/spell=2484)
+* [Тотем хватки земли](https://ru.wowhead.com/spell=51485)
+* [Тотем противоядия](https://ru.wowhead.com/spell=383013)
+* [Тотем каменной кожи](https://ru.wowhead.com/spell=383017)
+* [Тотем ветряного порыва](https://ru.wowhead.com/spell=192077)
+* [Тотем исцеляющего потока](https://ru.wowhead.com/spell=5394)
+* [Природная стремительность](https://ru.wowhead.com/spell=378081)
+* [Возвращение тотемов](https://ru.wowhead.com/spell=108285)
+* [Тотем трепета](https://ru.wowhead.com/spell=8143)
+* [Элементаль земли](https://ru.wowhead.com/spell=198103)
+* [Жажда крови](https://ru.wowhead.com/spell=2825)
+* [Реинкарнация](https://ru.wowhead.com/spell=20608)
+* [Великое очищение](https://ru.wowhead.com/spell=378773)
+* [Очищение духа](https://ru.wowhead.com/spell=51886)
+</details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=381708" target="blank" data-wh-icon-size="small" >**Око бури**</a> – пассивный талант, снижает стоимость энергии Водоворота на [Земной шок](https://ru.wowhead.com/spell=8042) и [Землетрясение](https://ru.wowhead.com/spell=61882) и на **5/10** единиц, а стоимость [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) – на **7/15** единиц.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=191861" target="blank" data-wh-icon-size="small" >**Мощь Водоворота**</a> – пассивный талант, дает [Выбросу лавы](https://ru.wowhead.com/spell=51505) **10%** шанс усилить две следующих [Молнии](https://ru.wowhead.com/spell=188196) или [Цепная молнии](https://ru.wowhead.com/spell=188443), вызывая дополнительное срабатывание [Перегрузки](https://ru.wowhead.com/spell=168534).
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+<a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="small" >**Властелин стихий**</a> – пассивный талант, после применения [Выброса лавы](https://ru.wowhead.com/spell=51505) ваше следующе не-огненное заклинание усиливается на **20%** 
+<details markdown=1><summary><i>Подробнее...</i></summary>
+<p></p>
+> Master of the Elements, Mote, Моте.
+
+* Работает на следующие способности:
+  * **Сила природы** – {{ site.data.spells.es }}, {{ site.data.spells.lb }}, {{ site.data.spells.cl }}, [Гром и молния](https://ru.wowhead.com/spell=51490), [Молния-лассо](https://ru.wowhead.com/spell=305483).
+  * **Магия льда** – {{ site.data.spells.frs }}, {{ site.data.spells.if }}.
+  * **Физический урон** – {{ site.data.spells.quake }}.
+</details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+<a href="https://ru.wowhead.com/spell=382027" target="blank" data-wh-icon-size="small" >**Улучшенное оружие языка пламени**</a> – пассивный талант, усиливает [Оружие языка пламени](https://ru.wowhead.com/spell=318038), увеличивая наносимый урон от магии <span style="color:#f16f25;font-size:1em;">**огня**</span> на **5%**.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 ## Восьмой ряд
+
+<a href="https://ru.wowhead.com/spell=117014" target="blank" data-wh-icon-size="small" >**Удар духов стихий**</a> – заменяет {{ site.data.spells.es }}, наносит большой урон одной цели, кастуется **2** секунды, дает баффы на характеристики и стоит **90** единиц энергии Водоворота.
+
+<details markdown=1><summary><i>Подробнее...</i></summary>
+<p></p>
+
+> Elemental Blast, EB, УДС.  
+
+* При завершении каста вы получаете бафф на **10** секунд на одну случайную вторичную характеристику – Критический удар, Скорость или Искусность.
+* Время произнесения – **2** секунды.
+* Базовая стоимость составляет **90** единиц энергии Водоворота, а с талантом [Око бури](https://www.wowhead.com/ru/spell=381708) – **75** единиц.
+* Наносит урон от <span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>Силы стихий</strong></span> (сочетание школ магии <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span>) и стоит **2.75%** маны.
+* Заклинание с уроном от <span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>Силы стихий</strong></span> может применяться даже в том случае, если вам заблокировали любую школу магии, кроме всех трех одновременно.
+* Однако, если вы получите прерывание во время каста [Удара духов стихий](https://ru.wowhead.com/spell=117014), то вы не сможете применять заклинания с уроном от сил  <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#f16f25;font-size:1em;">**Огня**</span> или <span style="color:#8fd5fe;font-size:1em;">**Льда**</span>.
+* Эффект таланта [Равновесие стихий](https://www.wowhead.com/ru/spell=378271/) срабатывает от [Удара духов стихий](https://ru.wowhead.com/spell=117014), без необходимости каста трех различных заклинаний.
+* {{ site.data.spells.eb }} имеет время полета снаряда около **1** секунды для максимальной дистанции, при этом бафф на характеристику накладывается сразу же по завершению каста.
+* Прок [Искусности](https://ru.wowhead.com/spell=168534) гарантированно дает второй бафф, отличный от первого.
+</details>
+<p></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Девятый ряд
 
 
 ## Десятый ряд
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
