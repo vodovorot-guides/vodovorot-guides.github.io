@@ -63,11 +63,7 @@ image: /assets/img/ele_tb2.png
 
 * Таланты Элема в Dragonlflight условно разделены на две стороны: слева расположено всё, связанное со школой магии <span style="color:#26d22b;font-size:1em;">**природы**</span> ([Молния](https://www.wowhead.com/ru/spell=188196) и [Цепния молния](https://www.wowhead.com/ru/spell=188443)), а справа – со школой магии <span style="color:#f16f25;font-size:1em;">**огня**</span> ([Выброс лавы](https://www.wowhead.com/ru/spell=51505) и [Огненный шок](https://www.wowhead.com/ru/spell=188389/)).
 
-* На текущий момент все актуальные билды в бою против одной цели и на АоЕ играются через [Элементаля бури](https://www.wowhead.com/ru/spell=192249) и большое количество усиленных [Молний](https://www.wowhead.com/ru/spell=188196) и [Цепных молний](https://www.wowhead.com/ru/spell=188443).
-
 * [Перерождение](https://www.wowhead.com/ru/spell=114050) получило два вспомогательных таланта – [Клятва провидца](https://www.wowhead.com/ru/spell=381785) увеличивает Скорость во время [Перерождения](https://www.wowhead.com/ru/spell=114050) на **15%** и снижает его КД до **2** минут, а [Далекие пределы](https://www.wowhead.com/ru/spell=381787/) позволяет [Земному шоку](https://www.wowhead.com/ru/spell=8042) и другим спендерам продлевать время действия [Перерождения](https://www.wowhead.com/ru/spell=114050).
-
-* Билды через [Элементаля огня](https://www.wowhead.com/ru/spell=198067), [Выброс лавы](https://www.wowhead.com/ru/spell=51505), [Огненный шок](https://www.wowhead.com/ru/spell=188389/) и [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/) сейчас не наносят достаточно урона ни в одном типе боя и не могут конкурировать с билдами через [Молнию](https://www.wowhead.com/ru/spell=188196).
 
 * Урон спендеров был существенно снижен – базовая версия [Земного шока](https://www.wowhead.com/ru/spell=8042) бьет на **20%** слабее, а [Землетрясение](https://www.wowhead.com/ru/spell=61882) – почти **в два раза** слабее, чем в Shadowlands. Однако эти способности получили усливающие их таланты – [Безжалостное бедствие](https://www.wowhead.com/ru/spell=382685), [Око бури](https://www.wowhead.com/ru/spell=381708/) и [Горы не вечны](https://www.wowhead.com/ru/spell=381726), так что финальная разница не так велика.
 
