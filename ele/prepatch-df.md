@@ -154,9 +154,17 @@ image: /assets/img/ele_tb2.png
 
 ### Билд для боя против одной цели
 
-<p align="center">
-    <img src="/assets/img/ele_build1.jpg"> 
-</p>
+**Билд через Огонь**
+
+* [Ссылка на билд в калькуляторе талантов Wowhead (включая общие таланты)](https://www.wowhead.com/beta/talent-calc/shaman/elemental/DAOBFRBAFBFIoghACCAENVVVUFRSIFAgAQDAQA)
+* Код для импорта талантов в игре:
+~~~
+BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSSJJgQShSAJEAAAAAAQJApkEQUgUSk0CABA
+~~~
+* **Легендарка:** [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=336063/) и [Единство](https://www.wowhead.com/ru/spell=364852)
+* **Ковенант:** Некролорды
+
+**Билд через Молнии**
 
 * [Ссылка на билд в калькуляторе талантов Wowhead (включая общие таланты)](https://www.wowhead.com/ru/talent-calc/shaman/elemental/DAMBFVFUFFEYIkhCABNVVFFQVGoAQIAECUU)
 * Код для импорта талантов в игре:
@@ -166,9 +174,6 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJBSLRDBFkIBAAAAAAlAkSSUSRShIik0AQAE
 * **Легендарка:** [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=336063/) и [Единство](https://www.wowhead.com/ru/spell=364852)
 * **Ковенант:** <span style="color:#a330c9;font-size:1em;">Ночной Народец</span>
 * **Медиум и проводники:** [Творец Снов](https://www.wowhead.com/soulbind-calc/night-fae/dreamweaver/shaman/Awaapr4BJSiAChIFLO8KJSl_CiMFdgAKFSg9CiUoNgo)
-
-Аналог билда, который сейчас является лучшим на бете Dragonflight, также известен как Amani's Abomination или AA. Сочетает в себе несочетаемое – таланты на урон от [Молнии](https://www.wowhead.com/ru/spell=188196) и легендарку на [Выброс лавы](https://www.wowhead.com/ru/spell=51505). Основа билда – реализация баффа [Прилив мощи](https://www.wowhead.com/ru/spell=262303/) на [Молнию](https://www.wowhead.com/ru/spell=188196) и поддержание на цели дебаффа [Электрический шок](https://www.wowhead.com/ru/spell=382086).
-{: class="bordered"}
 
 
 ### Билд на АоЕ
