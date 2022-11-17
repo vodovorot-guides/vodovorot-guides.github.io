@@ -1417,21 +1417,18 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
+<a href="https://ru.wowhead.com/spell=375982" target="blank" data-wh-icon-size="small" >**Первозданная волна**</a> – накладыает [Огненный шок](https://ru.wowhead.com/spell=188389) на одну цель, после чего следующий [Выброс лавы](https://ru.wowhead.com/spell=51505) дублируется на все цели под [Огненным шоком](https://ru.wowhead.com/spell=188389), нанося **80%** от своего урона.
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
+Один из двух талантов на выбор:
+* <a href="https://ru.wowhead.com/spell=378270" target="blank" data-wh-icon-size="small" >**Укоренившиеся стихии**</a> – 
 
-
-
-
-
-
-
-
-
-
-
-
+* <a href="https://ru.wowhead.com/spell=114050" target="blank" data-wh-icon-size="small" >**Перерождение**</a> – п
 
 ## Девятый ряд
 
