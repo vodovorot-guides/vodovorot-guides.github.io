@@ -24,3 +24,7 @@ bgcolor
 
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJFJtEFEUAOQAAAAAAQJApkEl0kUISJJBASAA?width=700&bgcolor=565a67" width="710" height="450"></iframe>
+3e4250
+
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJFJtEFEUAOQAAAAAAQJApkEl0kUISJJBASAA?width=700&bgcolor=3e4250" width="710" height="450"></iframe>
