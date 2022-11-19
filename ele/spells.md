@@ -1562,6 +1562,8 @@ image: /assets/img/logos/spells.png
 
 <a href="https://ru.wowhead.com/spell=381787" target="blank" data-wh-icon-size="small" >**Далекие пределы**</a> – пассивный талант, позволяет [Земному шоку](https://ru.wowhead.com/spell=8042) и [Землетрясению](https://ru.wowhead.com/spell=61882) продлевать активное [Перерождение](https://ru.wowhead.com/spell=114050) на **2.5** секунд, а [Удару духов стихий](https://ru.wowhead.com/spell=117014) – на **3.5** секунд.
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
 
