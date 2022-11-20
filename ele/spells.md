@@ -854,7 +854,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=381655" target="blank" data-wh-icon-size="small" >**Гнев природы**</a> – пассивный талант, увеличивает шанс критического удара заклинаний пророды на **2%/4%**.
+<a href="https://ru.wowhead.com/spell=381655" target="blank" data-wh-icon-size="small" >**Гнев природы**</a> – пассивный талант, увеличивает шанс критического удара заклинаний природы на **2%/4%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
