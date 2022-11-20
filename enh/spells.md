@@ -469,17 +469,16 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=196840" target="blank" data-wh-icon-size="small" >**Ледяной шок**</a> – мгновенное заклинание, наносящее небольшой урон и замедляющее цель. Необходимый талант при взятой [Ледяной ярости](https://ru.wowhead.com/spell=210714) в спековой ветке.
+<a href="https://ru.wowhead.com/spell=196840" target="blank" data-wh-icon-size="small" >**Ледяной шок**</a> – мгновенное заклинание, наносящее небольшой урон и замедляющее цель. Необходимый талант при взятой [Бури с градом](https://www.wowhead.com/ru/spell=334195) в спековой ветке.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Frost Shock, FrS, Фрост шок, Фрост.  
 
 * Кастуется мгновенно и не имеет времени восстановления.
 * Наносит урон от магии <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> и стоит **1%** маны.
-* [Искусность](https://ru.wowhead.com/spell=168534) никак не взаимодействует с [Ледяным шоком](https://ru.wowhead.com/spell=196840).
 * Не имеет времени полета снаряда, то есть накладывается мгновенно.
 * Снижает скорость передвижения цели на **50%** на **6** секунд.
-* С талантом [Ледяная ярость](https://ru.wowhead.com/spell=210714), {{ site.data.spells.frs }} превращается в очень мощное заклинание, нанося в **4** раза больше урона и генерируя **8** единиц энергии Водоворота.
+* С талантом [Буря с градом](https://ru.wowhead.com/spell=334195), {{ site.data.spells.frs }} наносит увеличенный урон сразу нескольким противникам.
 </details>
 <p></p>
 
@@ -487,7 +486,27 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=187880" target="blank" data-wh-icon-size="small" >**Оружие Водоворота**</a> – атаки в ближнем бою имеют шанс повысить скорость произнесения следующего заклинания на **20%**. 
+<a href="https://ru.wowhead.com/spell=187880" target="blank" data-wh-icon-size="small" >**Оружие Водоворота**</a> – основной ресурс, генерируется автоатаками и способностями ближнего боя. Каждый заряд снижает время произнесения заклинаний на **20%**, делая их мгновенными при трате **5** стаков.
+
+<details markdown=1><summary><i>Подробнее...</i></summary>
+<p></p>
+
+> Maelstrom Weapon, MW, Водоворот, Стаки.
+
+* Данный талант доступен Энх Шаману по умолчанию, без траты очков талантов.
+* Базовый шанс срабатывания **16%**. 
+* [Улучшенное оружие Водоворота](https://www.wowhead.com/ru/spell=383303) увеличивает урон и исцеление заклинаний на **10%** за каждый потраченный стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+* С талантом [Бурлящий водоворот](https://www.wowhead.com/ru/spell=384149) за раз можно тратить до **10** стаков.
+* Стаки можно тратить на следующие заклинания:
+  * [Молния](https://www.wowhead.com/ru/spell=188196/)
+  * [Цепная молния](https://www.wowhead.com/ru/spell=188443/)
+  * [Выброс лавы](https://www.wowhead.com/ru/spell=5150)
+  * [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)
+  * [Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/)
+  * [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/)   
+
+</details>
+<p></p>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -518,7 +537,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=382886" target="blank" data-wh-icon-size="small" >**Лед и пламя**</a> – пассивный талант, увеличивает урон от заклинаний школ магии <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> на **3%**. Действует на [Выброса лавы](https://ru.wowhead.com/spell=51505), [Огненный шок](https://ru.wowhead.com/spell=188389), [Ледяной шок](https://ru.wowhead.com/spell=196840) и [Ледяную ярость](https://ru.wowhead.com/spell=210714).
+<a href="https://ru.wowhead.com/spell=382886" target="blank" data-wh-icon-size="small" >**Лед и пламя**</a> – пассивный талант, увеличивает урон от заклинаний школ магии <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> на **3%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -560,7 +579,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=381666" target="blank" data-wh-icon-size="small" >**Точное озарение**</a> – после применения [Огненного шока](https://ru.wowhead.com/spell=188389) увеличивает лечение следующего заклинания на **15%/30%** и снижает его стоимость маны на **10%/20%** (в зависимости от ранга).
+<a href="https://ru.wowhead.com/spell=381666" target="blank" data-wh-icon-size="small" >**Точное озарение**</a> – после применения [Огненного шока](https://ru.wowhead.com/spell=188389) увеличивает лечение следующего заклинания на **15%/30%** и снижает его стоимость маны на **10%/20%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -573,17 +592,6 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 <a href="https://ru.wowhead.com/spell=79206" target="blank" data-wh-icon-size="small" >**Благосклонность предков**</a> – позволяет применять заклинания на ходу в течение **15** секунд раз в **2** минуты.
-<details markdown=1><summary><i>Подробнее...</i></summary>
-<p></p>
-> Spiritwalker's Grace, SWG, СВГ, Спиритволк, Каст на ходу.  
-
-* Не имеет ГКД.
-* Может применяться во время произнесения другого заклинания.
-* [Благосклонность предков](https://ru.wowhead.com/spell=79206) считается заклинанием магии <span style="color:#26d22b;font-size:1em;">**Природы**</span> и стоит **14%** маны.
-* Работает как «белый список», то есть действует только на те способности и заклинания, которые указаны на странице заклинания на Wowhead.
-* Можно усилить одним из связанных талантов – [Благосклонный дух](https://www.wowhead.com/ru/spell=192088) и [Эгида предков](https://www.wowhead.com/ru/spell=378077).
-</details>
-<p></p>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -647,7 +655,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=382888" target="blank" data-wh-icon-size="small" >**Шквал**</a> – нанесение критического удара увеличивает скорость атаки в ближнем бою.
+<a href="https://ru.wowhead.com/spell=382888" target="blank" data-wh-icon-size="small" >**Шквал**</a> – нанесение критического удара способностью увеличивает скорость **3** следующих автоатак на **15%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -728,7 +736,7 @@ image: /assets/img/logos/spells.png
 * В PvP базовое время действия составляет **8** секунд, без учета Diminishing returns.
 * Является Проклятием, а не Магией.
 * Время восстановления **30** секунд.
-* Время произнесения – **1.7** секунд.
+* Время произнесения – **1.7** секунд. Это время **НЕ** сокращается от стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 * Радиус действия [Сглаза](https://ru.wowhead.com/spell=51514) меньше, чем у других заклинаний – **30** метров вместо **40** метров.
 * Работает только на **гуманоидов** и **зверей**.
 * Не сбивается уроном мгновенно, в отличие от других подобных заклинаний.
@@ -915,7 +923,7 @@ image: /assets/img/logos/spells.png
 ## Девятый ряд
 
 
-<a href="https://ru.wowhead.com/spell=381930" target="blank" data-wh-icon-size="small" >**Тотем источника маны**</a> – тотем длительностью **2** минуты, который восстанавливает **200** единиц маны четырем союзникам в радиусе **30** метров каждый раз когда вы применяете [Выброс лавы](https://ru.wowhead.com/spell=51505). В первую очередь восстанавливает ману целителям. Увеличивает генерацию маны хилам примерно на **4-7%**.
+<a href="https://ru.wowhead.com/spell=381930" target="blank" data-wh-icon-size="small" >**Тотем источника маны**</a> – тотем длительностью **2** минуты, который восстанавливает **200** единиц маны четырем союзникам в радиусе **30** метров каждый раз когда вы применяете [Удар бури](https://ru.wowhead.com/spell=17364). В первую очередь восстанавливает ману целителям. Увеличивает генерацию маны хилам примерно на **4-7%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
