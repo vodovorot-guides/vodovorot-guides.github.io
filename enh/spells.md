@@ -106,7 +106,7 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=318038" target="blank" data-wh-icon-size="small" >**Вестник шторма**</a> – пассивная способность, позволяет всем способностям ближнего боя с шансом **5%** обновить кулдаун [Удара бури](https://www.wowhead.com/ru/spell=17364). Шанс срабатывания увеличивается от показателя [Искусности](https://ru.wowhead.com/spell=77223).
+<a href="https://ru.wowhead.com/spell=201845" target="blank" data-wh-icon-size="small" >**Вестник шторма**</a> – пассивная способность, позволяет всем способностям ближнего боя с шансом **5%** обновить кулдаун [Удара бури](https://www.wowhead.com/ru/spell=17364). Шанс срабатывания увеличивается от показателя [Искусности](https://ru.wowhead.com/spell=77223).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
