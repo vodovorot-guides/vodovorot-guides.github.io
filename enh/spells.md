@@ -1258,9 +1258,9 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://www.wowhead.com/ru/spell=390370" target="blank" data-wh-icon-size="small" >**Пепельный катализатор**</a> –
- [Огненного шока](https://ru.wowhead.com/spell=188389) 
-[Вскипание лавы](https://www.wowhead.com/ru/spell=60103) 
+<a href="https://www.wowhead.com/ru/spell=390370" target="blank" data-wh-icon-size="small" >**Пепельный катализатор**</a> – каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) увеличивает урон следующего [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) на **12%** и сокращает его кулдаун на **0.5** секунд. Максимум **8** cтаков.
+
+
 ## Седьмой ряд
 
 
