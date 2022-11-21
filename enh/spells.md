@@ -1196,7 +1196,18 @@ image: /assets/img/logos/spells.png
 
 <a href="https://www.wowhead.com/ru/spell=384149" target="blank" data-wh-icon-size="small" >**Бурлящий водоворот**</a> – заклинания могут тратить сразу до **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), получая усиление урона за каждый стак.
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
+<a href="https://www.wowhead.com/ru/spell=8512" target="blank" data-wh-icon-size="small" >**Тотем неистовства ветра**</a> – уставливает тотем, который усиливает всех в вашей **группе** в радиусе **30** метров, давая **20%** шанс нанести дополнительную автоатаку. Не работает на питомцев и стражей, а также на Охотников.
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+<a href="https://www.wowhead.com/ru/spell=384359" target="blank" data-wh-icon-size="small" >**Кружащий водоворот**</a> – уставливает тотем, который усиливает всех в вашей **группе** в радиусе **30** метров, давая **20%** шанс нанести дополнительную автоатаку. Не работает на питомцев и стражей, а также на Охотников.
+
+
+  * [](https://www.wowhead.com/ru/spell=384359)
 
 ## Шестой ряд
 
