@@ -13,7 +13,7 @@ image: /assets/img/logos/spells.png
 
 * Шаман Совершенствования, он же Энх Шаман – боец ближнего боя, который обрушивает на врагов ярость стихий. Основная характеристика – Ловкость.
 * Энх использует кольчужные доспехи, а из оружия предпочитает одноручные булавы и топоры, а также кистевое оружие.
-* Помимо <span style="color:#FFFFFF;font-size:1em;">**Физического**</span> урона, Шаман Совершенствования использует также школы магии <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span>.
+* Помимо <span style="color:#FFFFFF;font-size:1em;">**физического**</span> урона, Шаман Совершенствования использует также школы магии <span style="color:#26d22b;font-size:1em;">**Природы**</span>, <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span>.
 * Основной ресурс Шамана Совершенствования – стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880), а дополнительный – **Мана** (используется для лечения и вспомогательных заклинаний).
 * Дальность действия способность и атак ближнего боя – **5** метров, дальность атакующих и лечащих заклинаний **40** метров. Некоторые вспомогательные способности имеют радиус действия **30** метров.
 
@@ -35,7 +35,7 @@ image: /assets/img/logos/spells.png
 
 > Maelstrom Weapon, MW, Водоворот, Стаки.
 
-* Базовый шанс срабатывания **16%**. 
+* Базовый шанс срабатывания **16%**. Талант [Шаманское наследие](https://ru.wowhead.com/spell=384447) может увеличить шанс срабатывания до **20%**.
 * [Улучшенное оружие Водоворота](https://www.wowhead.com/ru/spell=383303) увеличивает урон и исцеление заклинаний на **10%** за каждый потраченный стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 * Талант [Яростный водоворот](https://www.wowhead.com/ru/spell=384143) увеличивает максимальный запас [Оружия Водоворота](https://ru.wowhead.com/spell=187880) до **10** стаков, а также увеличивает урон и исцеление дополнительно на **5%** за каждый стак.
 * С талантом [Бурлящий водоворот](https://www.wowhead.com/ru/spell=384149) за раз можно тратить до **10** стаков.
@@ -1260,20 +1260,119 @@ image: /assets/img/logos/spells.png
 
 <a href="https://www.wowhead.com/ru/spell=390370" target="blank" data-wh-icon-size="small" >**Пепельный катализатор**</a> – каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) увеличивает урон следующего [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) на **12%** и сокращает его кулдаун на **0.5** секунд. Максимум **8** cтаков.
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 ## Седьмой ряд
 
+<a href="https://ru.wowhead.com/spell=117014" target="blank" data-wh-icon-size="small" >**Удар духов стихий**</a> – заклинание с кулдауном **12** секунд, которое наносит большой урон одной цели и дает бафф на характеристику на **10** секунд. Время произнесения сокращается за счет стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880). При взятии в талантах [Выброса лавы](https://www.wowhead.com/ru/spell=5150), заменяет его и получает второй заряд.
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=319930" target="blank" data-wh-icon-size="small" >**Свирепость бури**</a> – прок [Удара бури](https://www.wowhead.com/ru/spell=17364) от [Вестника шторма](https://www.wowhead.com/ru/spell=201845/) теперь наносит дополнительно **25%** урона от сил <span style="color:#26d22b;font-size:1em;">**Природы**</span>.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=384355" target="blank" data-wh-icon-size="small" >**Оружие стихий**</a> – увеличивает весь наносимый урон от школ магии <span style="color:#f16f25;font-size:1em;">**Огня**</span>, <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> и <span style="color:#26d22b;font-size:1em;">**Природы**</span> на **5%/10%**.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+<a href="https://ru.wowhead.com/spell=384363" target="blank" data-wh-icon-size="small" >**Сливающиеся бури**</a> – [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) увеличивает урон следующего [Удара бури](https://www.wowhead.com/ru/spell=17364) на **25%** за каждую пораженную цель. Максимальный урон достигается при поражении **6** противников.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=334308" target="blank" data-wh-icon-size="small" >**Сокрушающие бури**</a> – [Цепная молния](https://www.wowhead.com/ru/spell=188443/) поражает дополнительно **2** противников (максимум **5**). [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) наносит на **40%** больше урона.
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=334046" target="blank" data-wh-icon-size="small" >**Хлещущее пламя**</a> – цель, пораженная [Вскипанием лавы](https://www.wowhead.com/ru/spell=60103), получает на **100%** больше урона от [Огненного шока](https://ru.wowhead.com/spell=188389) на **20** секунд. 
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 ## Восьмой ряд
 
+<a href="https://ru.wowhead.com/spell=375982" target="blank" data-wh-icon-size="small" >**Первозданная волна**</a> – накладывает [Огненный шок](https://ru.wowhead.com/spell=188389) на одну цель, после чего следующая [Молния](https://ru.wowhead.com/spell=188196) дублируется на все цели под [Огненным шоком](https://ru.wowhead.com/spell=188389) нанося на **150%** больше урона. Усиливается талантами [Первозданный Водоворот](https://www.wowhead.com/ru/spell=384405) и [Расколотые стихии](https://www.wowhead.com/ru/spell=382042).
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=51533" target="blank" data-wh-icon-size="small" >**Дух дикого зверя**</a> – бурст с кулдауном **1.30** минут. Призывает двух волков на **15** секунд, которые увеличивают весь наносимый <span style="color:#FFFFFF;font-size:1em;">**физический**</span> урон на **32.25%** и дают **1** стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880) каждые **3** секунды.
+
+<details markdown=1><summary><i>Подробнее...</i></summary>
+<p></p>
+
+> Feral Spirit, FS, Волки.
+
+* Волки атакуют вашу текущую цель, совершая к ней рывок в момент призыва. Дальность активации – **30** метров.
+* Каждый волк усиливает наносимый урон на **15%**, и это значение работает мультипликативно. Два волка по вместе увеличивают урон не на **30%**, а на **32.25%**.
+* Внешний вид волков можно сменить на призрачных ящеров с помощью [Символа духов ящера](https://www.wowhead.com/ru/item=104126), который покупается на аукционе.
+
+</details>
+<p></p>
+
+Один из двух талантов на выбор:
+* <a href="https://ru.wowhead.com/spell=114051" target="blank" data-wh-icon-size="small" >**Перерождение**</a> – бурст с кулдауном **3** минуты и длительностью **15** секунд, превращает [Удар бури](https://www.wowhead.com/ru/spell=17364) в [Удар ветра](https://www.wowhead.com/ru/spell=115356), а автоатаки в [Хлещущий ветер](https://www.wowhead.com/ru/spell=147051), позволяя им бить цели на расстоянии до **30** метров и игнорировать броню. [Удар ветра](https://www.wowhead.com/ru/spell=115356) при этом имеет сниженный на **60%** кулдаун. При активации [Перерождения](https://ru.wowhead.com/spell=114051) вы мгновенно наносите урон всем противникам в радиусе **8** метров от вас.
+
+* <a href="https://ru.wowhead.com/spell=378270" target="blank" data-wh-icon-size="small" >**Укоренившиеся стихии**</a> – [Удар бури](https://www.wowhead.com/ru/spell=17364) имеет **7%** шанс активировать [Перерождения](https://ru.wowhead.com/spell=114051) на **6** секунд, нанося при этом урон от активации.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 ## Девятый ряд
 
 
+<a href="https://ru.wowhead.com/spell=384405" target="blank" data-wh-icon-size="small" >**Первозданный Водоворот**</a> – [Первозданная волна](https://ru.wowhead.com/spell=375982) при активации дает **5/10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=210853" target="blank" data-wh-icon-size="small" >**Атака стихий**</a> – усиливает урон [Удара бури](https://www.wowhead.com/ru/spell=17364) на **10%/20%** и [Удар бури](https://www.wowhead.com/ru/spell=17364) с вероятностью **50%/100%** дает **1** стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=384447" target="blank" data-wh-icon-size="small" >**Шаманское наследие**</a> – увеличивает шанс получения стака [Оружия Водоворота](https://ru.wowhead.com/spell=187880) на **2%/4%** и каждый полученный стак снижает кулдаун [Духа дикого зверя](https://ru.wowhead.com/spell=51533) на **1/2** секунды. Работает в том числе на стаки, полученные от [Первозданного Водоворота](https://ru.wowhead.com/spell=384405).
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+<a href="https://ru.wowhead.com/spell=384450" target="blank" data-wh-icon-size="small" >**Наследие ледяной ведьмы**</a> – после поглощения суммарно **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) одним или несколькими заклинаниями, сбрасывается время восстановления [Удара бури](https://www.wowhead.com/ru/spell=17364) и вы получаете бафф, увеличивающий весь наносимый <span style="color:#FFFFFF;font-size:1em;">**физический**</span> урон на **5%/25%** на **5** секунд.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=384411" target="blank" data-wh-icon-size="small" >**Статическое накопление*</a> – во время активного [Перерождения](https://ru.wowhead.com/spell=114051) вы пассивно генерируете **1/2** стака [Оружия Водоворота](https://ru.wowhead.com/spell=187880) раз в **1** секунду.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 ## Десятый ряд
+
+<a href="https://ru.wowhead.com/spell=382042" target="blank" data-wh-icon-size="small" >**Расколотые стихии*</a> – каждая [Молния](https://www.wowhead.com/ru/spell=188196/), дублированная [Первозданной волной](https://ru.wowhead.com/spell=375982) увеличивает показатель Скорости на **10%** на **12** секунд.
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+Один из двух талантов на выбор:
+* <a href="https://ru.wowhead.com/spell=362624" target="blank" data-wh-icon-size="small" >**Духи стихий*</a> – [Дух дикого зверя](https://ru.wowhead.com/spell=51533) баффа на <span style="color:#FFFFFF;font-size:1em;">**физический урон**</span> усиливает весь урон от школ магии <span style="color:#f16f25;font-size:1em;">**Огня**</span>, <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> или <span style="color:#26d22b;font-size:1em;">**Природы**</span>. Каждый из двух призванных волков усиливает случайную стихию, которые могут совпадать.
+
+<a href="https://ru.wowhead.com/spell=198434" target="blank" data-wh-icon-size="small" >**Альфа-волк*</a> – пока активен [Дух дикого зверя](https://ru.wowhead.com/spell=51533), применение [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874) или [Цепной молнии](https://www.wowhead.com/ru/spell=188443/) усиливает ваших волков, позволяя им наносить урон ближайшим противникам в течение **8** секунд.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=384444" target="blank" data-wh-icon-size="small" >**Воззвание к Ториму*</a> – во время активного [Перерождения](https://ru.wowhead.com/spell=114051) [Удар ветра](https://www.wowhead.com/ru/spell=115356) автоматически поглощает **5** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), выпуская в цель [Молнии](https://www.wowhead.com/ru/spell=188196/) или [Цепную молнию](https://www.wowhead.com/ru/spell=188443/). Выбирается то заклинание, которое было применено последним.
+
+
 
 
 
