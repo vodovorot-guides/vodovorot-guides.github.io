@@ -1204,14 +1204,47 @@ image: /assets/img/logos/spells.png
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
-<a href="https://www.wowhead.com/ru/spell=384359" target="blank" data-wh-icon-size="small" >**Кружащий водоворот**</a> – уставливает тотем, который усиливает всех в вашей **группе** в радиусе **30** метров, давая **20%** шанс нанести дополнительную автоатаку. Не работает на питомцев и стражей, а также на Охотников.
 
+<a href="https://www.wowhead.com/ru/spell=384359" target="blank" data-wh-icon-size="small" >**Кружащий водоворот**</a> – дает **1** стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880) при каждом использовании [Ледяного клинка](https://www.wowhead.com/ru/spell=342240) и при поглощении **2+** стаков [Бури с градом](https://www.wowhead.com/ru/spell=334195), а также по одному стаку [Оружия Водоворота](https://ru.wowhead.com/spell=187880) за каждого противника с [Огненным шоком](https://ru.wowhead.com/spell=188389) при активации [Кольца огня](https://www.wowhead.com/ru/spell=333974).
 
-  * [](https://www.wowhead.com/ru/spell=384359)
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://www.wowhead.com/ru/spell=201900" target="blank" data-wh-icon-size="small" >**Горячая рука**</a> – дает автоатакам шанс **5%** активировать бафф на **8** секунд, сокращающий кулдаун [Вскипания лавы](https://ru.wowhead.com/spell=60103) на **60/75%** и увеличивающий его урон на **20%/40%**.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 ## Шестой ряд
 
+<a href="https://www.wowhead.com/ru/spell=392352" target="blank" data-wh-icon-size="small" >**Гнев шторма**</a> – увеличивает бонус [Искусности](https://ru.wowhead.com/spell=77223) на шанс прока [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757/) и [Вестника шторма](https://www.wowhead.com/ru/spell=201845/) на **150%**.
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Один из двух талантов на выбор:
+* <a href="https://www.wowhead.com/ru/spell=393905" target="blank" data-wh-icon-size="small" >**Освежающие воды**</a> – ваш [Исцеляющий всплеск](https://ru.wowhead.com/spell=8004) восстанавливает вам на **25%** больше здоровья.
+
+* <a href="https://www.wowhead.com/ru/spell=382197" target="blank" data-wh-icon-size="small" >**Сродство с волком**</a> – позволяет оставаться в форме [Призрачного волка](https://www.wowhead.com/ru/spell=2645) при применении различных вспомогательных заклинаний.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://www.wowhead.com/ru/spell=187874" target="blank" data-wh-icon-size="small" >**Сокрущающая молния**</a> – АоЕ способность ближнего боя. Вы поражаете противников в конусе перед собой, нанося урон от сил <span style="color:#26d22b;font-size:1em;">**Природы**</span>. Если вы поразите **2+** противников, то получите бафф на **12** секунд, позволяющий [Удару бури](https://www.wowhead.com/ru/spell=17364), [Вскипанию лавы](https://www.wowhead.com/ru/spell=60103) и [Ледяному клинок](https://www.wowhead.com/ru/spell=342240/) также наносить дополнительный урон всем целям перед собой. Цели после **6** получают уменьшенный урон.
+
+
+<details markdown=1><summary><i>Подробнее...</i></summary>
+<p></p>
+
+> Crash Lightning, CL (одно из значений), КЛ (одно из значений), Краш.
+
+* Время восстановления – **12** секунд, это значение снижается от показателя Скорости.
+* [Цепная молния](https://www.wowhead.com/ru/spell=188443/) снижает кулдаун [Сокрущающей молнии](https://www.wowhead.com/ru/spell=187874) на **1** секунду за каждую пораженную цель.
+* Также [Цепная молния](https://www.wowhead.com/ru/spell=188443/) увеличивает первоначальный урон [Сокрущающей молнии](https://www.wowhead.com/ru/spell=187874) на **20%** за каждую пораженную цель.
+
+
+</details>
+<p></p>
 
 ## Седьмой ряд
 
