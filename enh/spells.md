@@ -1004,6 +1004,7 @@ image: /assets/img/logos/spells.png
 * Наносит урон с обеих рук одновременно, при этом урон с левой руки всегда в два раза меньше урона с правой руки.
 * Прок [Вестника шторма](https://www.wowhead.com/ru/spell=201845/) позволяет сбросить кулдаун [Удара бури](https://www.wowhead.com/ru/spell=17364).
 * Под воздействием [Перерождением](https://www.wowhead.com/ru/spell=114051) [Удар бури](https://www.wowhead.com/ru/spell=17364) превращается в [Удар ветра](https://www.wowhead.com/ru/spell=115356), позволяя бить цели на расстоянии до **30** метров и игнорирующий броню, а также имея сниженный на **60%** кулдаун.
+* Все усиления [Удара бури](https://www.wowhead.com/ru/spell=17364) также работают и на [Удар ветра](https://www.wowhead.com/ru/spell=115356).
 * [Удар бури](https://www.wowhead.com/ru/spell=17364) усиливается следующими талантами:
   * [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874)
   * [Грозовой шквал](https://www.wowhead.com/ru/spell=344357)
@@ -1238,6 +1239,8 @@ image: /assets/img/logos/spells.png
 
 > Crash Lightning, CL (одно из значений), КЛ (одно из значений), Краш.
 
+* Угол конуса поражения равен **120** градусам перед персонажем.
+* [Сокрущающую молнию](https://www.wowhead.com/ru/spell=187874) можно использовать без выбора цели, но если противник находится дальше чем в **5** метрах, то урон не нанесется.
 * Время восстановления – **12** секунд, это значение снижается от показателя Скорости.
 * [Цепная молния](https://www.wowhead.com/ru/spell=188443/) снижает кулдаун [Сокрущающей молнии](https://www.wowhead.com/ru/spell=187874) на **1** секунду за каждую пораженную цель.
 * Также [Цепная молния](https://www.wowhead.com/ru/spell=188443/) увеличивает первоначальный урон [Сокрущающей молнии](https://www.wowhead.com/ru/spell=187874) на **20%** за каждую пораженную цель.
@@ -1246,6 +1249,18 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://www.wowhead.com/ru/spell=344357" target="blank" data-wh-icon-size="small" >**Грозовой шквал**</a> – [Удар бури](https://www.wowhead.com/ru/spell=17364) с вероятностью **25%** поразит цель еще раз, нанося **40%** от обычного урона. Этот эффект может срабатывать сам от себя – второе срабатывание нанесет **16%** от первоначального урона, третье **6.4%** и так далее.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://www.wowhead.com/ru/spell=390370" target="blank" data-wh-icon-size="small" >**Пепельный катализатор**</a> –
+ [Огненного шока](https://ru.wowhead.com/spell=188389) 
+[Вскипание лавы](https://www.wowhead.com/ru/spell=60103) 
 ## Седьмой ряд
 
 
