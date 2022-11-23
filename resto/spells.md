@@ -1061,7 +1061,7 @@ image: /assets/img/logos/spells.png
 
 <a href="https://ru.wowhead.com/spell=77472" target="blank" data-wh-icon-size="small" >**Волна исцеления**</a> – медленное, но эффективное по мане исцеление одной цели.
 
-<hr style="height:1px;background-color:#bbb">
+<details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 
 
