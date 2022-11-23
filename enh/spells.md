@@ -864,6 +864,15 @@ image: /assets/img/logos/spells.png
 Один из двух талантов на выбор:
 * <a href="https://ru.wowhead.com/spell=58875" target="blank" data-wh-icon-size="small" >**Поступь духа**</a> – увеличивает скорость передвижения на **60%** на **8** секунд, эффекты обездвиживания в момент активации снимаются. Кулдаун – **60** секунд.
 
+<details markdown=1><summary><i>Подробнее...</i></summary>
+<p></p>
+
+* Бафф Пробудителей [Дар бронзовых драконов](https://www.wowhead.com/ru/spell=364342/) снижает время восстановления [Поступи духа](https://ru.wowhead.com/spell=58875) на **15%**.
+* Активация талант Пробудителей [Спираль времени](https://www.wowhead.com/ru/spell=374968/) позволяет применить [Поступь духа](https://ru.wowhead.com/spell=58875) даже в том случае, если она восстанавливается.
+</details>
+<p></p>
+
+
 * <a href="https://ru.wowhead.com/spell=192063" target="blank" data-wh-icon-size="small" >**Порыв ветра**</a> – рывок на среднее расстояние с кулдауном **30** секунд. Позволяет избежать урона от падения.
 
 <hr style="height:1px;background-color:#bbb">
