@@ -78,7 +78,7 @@ custom-javascript-list:
 **Филлеры** – это способности, которые не имеют кулдауна и не тратят какие-либо специализированные ресурсы. Филлеры кастуются тогда, когда более мощные способности недоступны.
 {: class="bordered"}
 
-<a href="https://ru.wowhead.com/spell=8004" target="blank" data-wh-icon-size="medium" >**Исцеляющий всплеск**</a> – быстрое, но дорогое по мане исцеление. 
+<a href="https://ru.wowhead.com/spell=8004" target="blank" data-wh-icon-size="small" >**Исцеляющий всплеск**</a> – быстрое, но дорогое по мане исцеление. 
 
 > Healing Surge, HS, ХС, Всплеск, Флешка, Сурдж.
 
@@ -90,7 +90,7 @@ custom-javascript-list:
 * Взаимодействует с легендаркой [Природное средоточие Джоната](https://ru.wowhead.com/spell=335893).
 * Усиливается от проводника [Кружащие потоки](https://ru.wowhead.com/spell=338339/%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%89%D0%B8%D0%B5-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%B8?ilvl=252).
 
-<a href="https://ru.wowhead.com/spell=77472" target="blank" data-wh-icon-size="medium" >**Волна исцеления**</a> – медленное, но эффективное по мане исцеление.
+<a href="https://ru.wowhead.com/spell=77472" target="blank" data-wh-icon-size="small" >**Волна исцеления**</a> – медленное, но эффективное по мане исцеление.
 
 > Healing Wave, HW, ХВ, Волна, Вейв.
 
@@ -104,7 +104,7 @@ custom-javascript-list:
 * Взаимодействует со способностью <span style="color:#40bf40;font-size:1em;">Некролордов</span> [Первозданная волна](https://ru.wowhead.com/spell=326059). Подробнее про их взамодействие можно почитать в разделе [способности ковенантов](https://stormkeeper.ru/resto/spells.html#%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BA%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0%D0%BD%D1%82%D0%BE%D0%B2).
 
 
-<a href="https://ru.wowhead.com/spell=1064" target="blank" data-wh-icon-size="medium" >**Цепное исцеление**</a> – АоЕ отхил **4** союзников.
+<a href="https://ru.wowhead.com/spell=1064" target="blank" data-wh-icon-size="small" >**Цепное исцеление**</a> – АоЕ отхил **4** союзников.
 
 > Chain Heal, CH, Чайник, Цепнуха.
 
@@ -129,7 +129,7 @@ custom-javascript-list:
 * Взаимодействует с талантами [Высвободить чары жизни](https://ru.wowhead.com/spell=73685), [Наводнение](https://ru.wowhead.com/spell=200076/), [Стремительные волны](https://ru.wowhead.com/spell=280614) и [Прилив](https://ru.wowhead.com/spell=157154).
 * Изначально перескакивает только на **2** цели, но [Цепное исцеление: Ранг 2](https://ru.wowhead.com/spell=231780/) добавляет дополнительную цель.
 
-<a href="https://ru.wowhead.com/spell=974" target="blank" data-wh-icon-size="medium" >**Щит земли**</a> – бафф на одну цель, увеличивает получаемое от вас исцеление и хилит при получении урона. Всегда должен висеть на одном из союзников, желательно на активном танке. 
+<a href="https://ru.wowhead.com/spell=974" target="blank" data-wh-icon-size="small" >**Щит земли**</a> – бафф на одну цель, увеличивает получаемое от вас исцеление и хилит при получении урона. Всегда должен висеть на одном из союзников, желательно на активном танке. 
 
 > Earth Shield, ES, Земляной щит, Ерсшилд.
 
@@ -150,7 +150,7 @@ custom-javascript-list:
 Способности из этого раздела следует использовать практически по кулдауну. Главное – не забывать заряжать ими {{ site.data.spells.cbt }}.
 {: class="bordered"}
 
-<a href="https://ru.wowhead.com/spell=61295" target="blank" data-wh-icon-size="medium" >**Быстрина**</a> – мгновенно исцеляет союзника и накладывает ХоТ на **18** секунд. 
+<a href="https://ru.wowhead.com/spell=61295" target="blank" data-wh-icon-size="small" >**Быстрина**</a> – мгновенно исцеляет союзника и накладывает ХоТ на **18** секунд. 
 
 > Riptide, RT, Риптайд, Хотка.
 
@@ -166,7 +166,7 @@ custom-javascript-list:
 * Взаимодействует со способностью <span style="color:#40bf40;font-size:1em;">Некролордов</span> [Первозданная волна](https://ru.wowhead.com/spell=326059). Подробнее про их взамодействие можно почитать в разделе [способности ковенантов](https://stormkeeper.ru/resto/spells.html#%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BA%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0%D0%BD%D1%82%D0%BE%D0%B2).
 * Ударение в этом слове ставится на последний слог – [Быстрина́](https://ru.wiktionary.org/wiki/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%B8%D0%BD%D0%B0). Однако в множесвенном числе – на предпоследний (Быстри́ны).
 
-<a href="https://ru.wowhead.com/spell=73920" target="blank" data-wh-icon-size="medium" >**Целительный ливень**</a> – АоЕ заклинание, лечит **6** союзников в выбранной зоне в течение **10** секунд.
+<a href="https://ru.wowhead.com/spell=73920" target="blank" data-wh-icon-size="small" >**Целительный ливень**</a> – АоЕ заклинание, лечит **6** союзников в выбранной зоне в течение **10** секунд.
 
 > Healing Rain, HR, Лужа, Дождь, Ливень, Рейн.
 
@@ -186,7 +186,7 @@ custom-javascript-list:
 /cast [@cursor] Целительный ливень
 ~~~
 
-<a href="https://ru.wowhead.com/spell=73685" target="blank" data-wh-icon-size="medium" >**Высвободить чары жизни**</a> – талант [первого](https://stormkeeper.ru/resto/talents.html#%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D1%82%D0%B8%D1%80-15-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, мгновенно исцеляет одного союзника и усиливает следующее заклинание прямого лечения на **35%**.
+<a href="https://ru.wowhead.com/spell=73685" target="blank" data-wh-icon-size="small" >**Высвободить чары жизни**</a> – талант [первого](https://stormkeeper.ru/resto/talents.html#%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D1%82%D0%B8%D1%80-15-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, мгновенно исцеляет одного союзника и усиливает следующее заклинание прямого лечения на **35%**.
 
 > Unleash Life, UL, УЛ, Анлиш, Молоток.
 
@@ -207,7 +207,7 @@ custom-javascript-list:
 * Отлично сочетается со способностью <span style="color:#ff4040;font-size:1em;">Вентиров</span> {{ site.data.covenants.ch }}.
 * В отличие от таланта {{ site.data.spells.torrent }}, при взаимодействии с [Быстриной](https://ru.wowhead.com/spell=61295/) увеличивает не только первоначальное исцеление, но и периодическое.
 
-<a href="https://ru.wowhead.com/spell=197995" target="blank" data-wh-icon-size="medium" >**Родник**</a> – талант [седьмого](https://stormkeeper.ru/resto/talents.html#%D1%81%D0%B5%D0%B4%D1%8C%D0%BC%D0%BE%D0%B9-%D1%82%D0%B8%D1%80-50-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, мощный АоЕ-отхил с коротким кулдауном.
+<a href="https://ru.wowhead.com/spell=197995" target="blank" data-wh-icon-size="small" >**Родник**</a> – талант [седьмого](https://stormkeeper.ru/resto/talents.html#%D1%81%D0%B5%D0%B4%D1%8C%D0%BC%D0%BE%D0%B9-%D1%82%D0%B8%D1%80-50-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, мощный АоЕ-отхил с коротким кулдауном.
 
 > Wellspring, WP, Веллспринг.
 
@@ -238,7 +238,7 @@ custom-javascript-list:
 В этом разделе вы найдете достаточно сильные способности, которые не просто используются по кулдауну, а зачастую кастуются под определенные способности боссов. Тем не менее, не стоит придерживать их слишком долго, это может привести к потери эффективности.
 {: class="bordered"}
 
-<a href="https://ru.wowhead.com/spell=157153" target="blank" data-wh-icon-size="medium" >**Тотем разразившегося ливня**</a> – талант [шестого](https://stormkeeper.ru/resto/talents.html#%D1%88%D0%B5%D1%81%D1%82%D0%BE%D0%B9-%D1%82%D0%B8%D1%80-45-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, заменяет [Тотем исцеляющего потока](https://ru.wowhead.com/spell=5394). Собирает **30%** исцеления и затем взрывается, отхиливая союзников на собранное значение.
+<a href="https://ru.wowhead.com/spell=157153" target="blank" data-wh-icon-size="small" >**Тотем разразившегося ливня**</a> – талант [шестого](https://stormkeeper.ru/resto/talents.html#%D1%88%D0%B5%D1%81%D1%82%D0%BE%D0%B9-%D1%82%D0%B8%D1%80-45-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, заменяет [Тотем исцеляющего потока](https://ru.wowhead.com/spell=5394). Собирает **30%** исцеления и затем взрывается, отхиливая союзников на собранное значение.
 
 > Cloudburst Totem, CBT, КБТ, Клаудбурст.
 
@@ -264,7 +264,7 @@ custom-javascript-list:
 * WA для отслеживания этого таланта можно найти [в этом разделе](https://stormkeeper.ru/resto/weakauras.html).
 
 
-<a href="https://ru.wowhead.com/spell=198838" target="blank" data-wh-icon-size="medium" >**Тотем земляной стены**</a> – талант [четвертого](https://stormkeeper.ru/resto/talents.html#%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B9-%D1%82%D0%B8%D1%80-35-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, поглощает часть урона, получаемого игроками в зоне его действия.
+<a href="https://ru.wowhead.com/spell=198838" target="blank" data-wh-icon-size="small" >**Тотем земляной стены**</a> – талант [четвертого](https://stormkeeper.ru/resto/talents.html#%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B9-%D1%82%D0%B8%D1%80-35-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, поглощает часть урона, получаемого игроками в зоне его действия.
 
 > Earthen Wall Totem, EWT, EST, Тотем щита, Тотем абсорба, Тотем земли.
 
@@ -279,7 +279,7 @@ custom-javascript-list:
 * Не стоит одновременно ставить два [Тотема земляной стены](https://ru.wowhead.com/spell=198838) от разных шаманов – сначала будет работать тот, который установлен первым. Когда он сломается, начнет действовать второй тотем.
 * Единственный талант четвертого тира, который увеличивает ХПС и пользу которого можно увидеть в логах.
 
-<a href="https://ru.wowhead.com/spell=79206" target="blank" data-wh-icon-size="medium" >**Благосклонность предков**</a> – позволяет применять заклинания на ходу.
+<a href="https://ru.wowhead.com/spell=79206" target="blank" data-wh-icon-size="small" >**Благосклонность предков**</a> – позволяет применять заклинания на ходу.
 
 > Spiritwalker's Grace, SWG, СВГ, Спиритволк, Каст на ходу.  
 
@@ -292,7 +292,7 @@ custom-javascript-list:
 * Талант [пятого](https://stormkeeper.ru/resto/talents.html#%D0%BF%D1%8F%D1%82%D1%8B%D0%B9-%D1%82%D0%B8%D1%80-40-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира [Благосклонный дух](https://ru.wowhead.com/spell=192088) уменьшает кулдаун до **1** минуты и увеличивает скорость передвижения во время действия баффа на **20%**.
 * Следует применять тогда, когда ожидается долгая перебежка, а мгновенные заклинания на кулдауне.
 
-<a href="https://ru.wowhead.com/spell=5394" target="blank" data-wh-icon-size="medium" >**Тотем исцеляющего потока**</a> – тотем, который дает небольшой пассивный отхил. Заменяется талантом [Тотем разразившегося ливня](https://ru.wowhead.com/spell=157153).
+<a href="https://ru.wowhead.com/spell=5394" target="blank" data-wh-icon-size="small" >**Тотем исцеляющего потока**</a> – тотем, который дает небольшой пассивный отхил. Заменяется талантом [Тотем разразившегося ливня](https://ru.wowhead.com/spell=157153).
 
 > Healing Stream Totem, HST, ХСТ, Тотемчик, Хил-тотем, Малыш.
 
@@ -312,7 +312,7 @@ custom-javascript-list:
 В этом разделе собраны основные бурсты Рестор Шамана, также известные как «трехминутки». Это крайне сильные способности и в рейде их установка обычно расписана заранее. Используйте их с умом и в нужный момент.
 {: class="bordered"}
 
-<a href="https://ru.wowhead.com/spell=108280" target="blank" data-wh-icon-size="medium" >**Тотем целительного прилива**</a> – АоЕ отхил всех союзников в течение **12** секунд.
+<a href="https://ru.wowhead.com/spell=108280" target="blank" data-wh-icon-size="small" >**Тотем целительного прилива**</a> – АоЕ отхил всех союзников в течение **12** секунд.
 
 > Healing Tide Totem, HTT, ХТТ, Хилинг тайд, Рейд сейв.
 
@@ -329,7 +329,7 @@ custom-javascript-list:
 * В отличие от сейвов некоторых других классов, например [Спокойствие](https://ru.wowhead.com/spell=740) Рестор Друида, Шаман может хилить во время активного бурста от тотема.
 * Отхил от тотема не меняется от количества целей и нахождения внутри или вне рейдовой группы. 
 
-<a href="https://ru.wowhead.com/spell=98008" target="blank" data-wh-icon-size="medium" >**Тотем духовной связи**</a> – уникальная способность, аналогов которой нет ни у одного другого класса. Уменьшает получаемый урон и выравнивает здоровье всех союзников в области действия.
+<a href="https://ru.wowhead.com/spell=98008" target="blank" data-wh-icon-size="small" >**Тотем духовной связи**</a> – уникальная способность, аналогов которой нет ни у одного другого класса. Уменьшает получаемый урон и выравнивает здоровье всех союзников в области действия.
 
 > Spirit Link Totem, SLT, СЛТ, Спирит линк, Дележка, Шара, [Тотем Коммунизма](https://wago.io/h1kok0jQt).  
 
@@ -350,7 +350,7 @@ custom-javascript-list:
 * На иконке способности изображены руки орка, таурена и тролля – единственные расы, которым был доступен Шаман в классической версии игры.
 
 
-<a href="https://ru.wowhead.com/spell=114052" target="blank" data-wh-icon-size="medium" >**Перерождение**</a> – талант [седьмого](https://stormkeeper.ru/resto/talents.html#%D1%81%D0%B5%D0%B4%D1%8C%D0%BC%D0%BE%D0%B9-%D1%82%D0%B8%D1%80-50-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, сильный бурст с кулдауном **3** минуты.
+<a href="https://ru.wowhead.com/spell=114052" target="blank" data-wh-icon-size="small" >**Перерождение**</a> – талант [седьмого](https://stormkeeper.ru/resto/talents.html#%D1%81%D0%B5%D0%B4%D1%8C%D0%BC%D0%BE%D0%B9-%D1%82%D0%B8%D1%80-50-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, сильный бурст с кулдауном **3** минуты.
 
 > Ascendance, Asc, Асенданс, Асц, Мужик.
 
@@ -380,7 +380,7 @@ custom-javascript-list:
 * Иконка [Перерождения](https://ru.wowhead.com/spell=114052) представляет собой момент смерти Громмаша Адского Крика от взрыва Маннорота из финального ролика Warcraft 3: Reign of Chaos. [Таймкод момента](https://youtu.be/b-YMR6l7h4g?t=136).
 
 
-<a href="https://ru.wowhead.com/spell=16191" target="blank" data-wh-icon-size="medium" >**Тотем прилива маны**</a> – увеличивает регенерацию маны всем союзникам в радусе **20** метров.
+<a href="https://ru.wowhead.com/spell=16191" target="blank" data-wh-icon-size="small" >**Тотем прилива маны**</a> – увеличивает регенерацию маны всем союзникам в радусе **20** метров.
 
 > Mana Tide Totem, MTT, Мана тайд, Рес маны.
 
@@ -403,7 +403,7 @@ custom-javascript-list:
 /cast Тотем Прилива Маны
 ~~~
 
-<a href="https://ru.wowhead.com/spell=207399" target="blank" data-wh-icon-size="medium" >**Тотем защиты Предков**</a> – талант [четвертого](https://stormkeeper.ru/resto/talents.html#%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B9-%D1%82%D0%B8%D1%80-35-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, повышает здоровье союзников и воскрешает первого погибшего игрока в зоне своего действия.
+<a href="https://ru.wowhead.com/spell=207399" target="blank" data-wh-icon-size="small" >**Тотем защиты Предков**</a> – талант [четвертого](https://stormkeeper.ru/resto/talents.html#%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B9-%D1%82%D0%B8%D1%80-35-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, повышает здоровье союзников и воскрешает первого погибшего игрока в зоне своего действия.
 
 > Ancestral Protection Totem, APT, Рес тотем.
 
@@ -419,7 +419,7 @@ custom-javascript-list:
 
 ## Способности ковенантов
 
-<a href="https://ru.wowhead.com/spell=326059" target="blank" data-wh-icon-size="medium" >**Первозданная волна**</a> – способность <span style="color:#40bf40;font-size:1em;">Некролордов</span>. Излечивает одну цель и накладывает на неё [Быстрину](https://ru.wowhead.com/spell=61295). Следующая {{ site.data.spells.hw }} также применится ко **всем целям** под [Быстриной](https://ru.wowhead.com/spell=61295) c **60%** от своего изначального исцеления, включая основную.
+<a href="https://ru.wowhead.com/spell=326059" target="blank" data-wh-icon-size="small" >**Первозданная волна**</a> – способность <span style="color:#40bf40;font-size:1em;">Некролордов</span>. Излечивает одну цель и накладывает на неё [Быстрину](https://ru.wowhead.com/spell=61295). Следующая {{ site.data.spells.hw }} также применится ко **всем целям** под [Быстриной](https://ru.wowhead.com/spell=61295) c **60%** от своего изначального исцеления, включая основную.
 
 > Primordial Wave, Pwave, PW, ПВ, Вейв, Волна Некров, Некроволна.
 
@@ -452,7 +452,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * [Расколотые стихии](https://ru.wowhead.com/spell=354647) – легендарка, усиливающая эту способность. На данный момент не используется.
 * WA для отслеживания этой способности можно найти [в этом разделе](https://stormkeeper.ru/resto/weakauras.html).
 
-<a href="https://ru.wowhead.com/spell=324386" target="blank" data-wh-icon-size="medium" >**Тотем вечернего колокола**</a> – способность <span style="color:#68ccef;font-size:1em;">Кирий</span>. Лечит союзников и дамажит противников в радиусе вокруг тотема.
+<a href="https://ru.wowhead.com/spell=324386" target="blank" data-wh-icon-size="small" >**Тотем вечернего колокола**</a> – способность <span style="color:#68ccef;font-size:1em;">Кирий</span>. Лечит союзников и дамажит противников в радиусе вокруг тотема.
 
 > Vesper Totem, VT,  Vesper, ВТ, Веспер, Тотем Кирий.
 
@@ -480,7 +480,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
   * Крайне мощный эффект для нанесения урона, что делает эту легендарку обязательным выбором для Кирий в Мифик+.
 * WA для отслеживания этой способности можно найти [в этом разделе](https://stormkeeper.ru/resto/weakauras.html).
 
-<a href="https://ru.wowhead.com/spell=320674" target="blank" data-wh-icon-size="medium" >**Цепная жатва**</a> – способность <span style="color:#ff4040;font-size:1em;">Вентиров</span>, лечит **5** союзников и наносит урон **5** противникам.
+<a href="https://ru.wowhead.com/spell=320674" target="blank" data-wh-icon-size="small" >**Цепная жатва**</a> – способность <span style="color:#ff4040;font-size:1em;">Вентиров</span>, лечит **5** союзников и наносит урон **5** противникам.
 
 > Chain Harvest, Harvest, CH, Харвест, Жатва, Красная цепнуха.
 
@@ -502,7 +502,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
   * На цели в том числе применяется и первоначальное исцеление от [Быстрины](https://ru.wowhead.com/spell=61295).
   * Эта легендарка крайне сильна в рейде, но зависит от паттерна боя. В Мифик+ практически не используется.
 
-<a href="https://ru.wowhead.com/spell=328923" target="blank" data-wh-icon-size="medium" >**Волшебное переливание**</a> – способность <span style="color:#a330c9;font-size:1em;">Ночного Народца</span>. Дамажит **1** цель, после чего второе применение способности хилит **4** союзников на часть нанесенного урона.
+<a href="https://ru.wowhead.com/spell=328923" target="blank" data-wh-icon-size="small" >**Волшебное переливание**</a> – способность <span style="color:#a330c9;font-size:1em;">Ночного Народца</span>. Дамажит **1** цель, после чего второе применение способности хилит **4** союзников на часть нанесенного урона.
 
 > Fae Transfusion, FT, Fae, ФТ, Трансфьюжен, Чаннел Феечек.
 
@@ -528,7 +528,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 
 ## Пассивные способности 
 
-<a href="https://ru.wowhead.com/spell=13606" target="blank" data-wh-icon-size="medium" >**Мана**</a> – основной ресурс Шамана Исцеления. Тратится на большинство заклинаний и восстанавливается со временем или с помощью различных зелий.
+<a href="https://ru.wowhead.com/spell=13606" target="blank" data-wh-icon-size="small" >**Мана**</a> – основной ресурс Шамана Исцеления. Тратится на большинство заклинаний и восстанавливается со временем или с помощью различных зелий.
 
 > Mana, MP, МП.
 
@@ -547,7 +547,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * [Упоение](https://ru.wowhead.com/spell=16196) восстаналивает примерно **10000-20000** маны за **5** минут боя.
 
 
-<a href="https://ru.wowhead.com/spell=77226/" target="blank" data-wh-icon-size="medium" >**Искусность: глубокое исцеление**</a> – увеличивает исцеление тем сильнее, чем меньше здоровья у цели.
+<a href="https://ru.wowhead.com/spell=77226/" target="blank" data-wh-icon-size="small" >**Искусность: глубокое исцеление**</a> – увеличивает исцеление тем сильнее, чем меньше здоровья у цели.
 
 > Mastery: Deep Healing, Мастери, Иск.
 
@@ -564,7 +564,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * В среднем она лучше себя показывает на освоении нового босса, чем на фарме.
 * Искусность никаким образом не влияет на наносимый урон, следовательно не так полезна в Мифик+.
 
-<a href="https://ru.wowhead.com/spell=51564/" target="blank" data-wh-icon-size="medium" >**Приливные волны**</a> – пассивный бафф, усиливает [Волну исцеления](https://ru.wowhead.com/spell=77472) и [Исцеляющий всплеск](https://ru.wowhead.com/spell=8004).
+<a href="https://ru.wowhead.com/spell=51564/" target="blank" data-wh-icon-size="small" >**Приливные волны**</a> – пассивный бафф, усиливает [Волну исцеления](https://ru.wowhead.com/spell=77472) и [Исцеляющий всплеск](https://ru.wowhead.com/spell=8004).
 
 > Tidal Waves, TW, ТВ, Бафф волн.
 
@@ -579,7 +579,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * Взаимодействует с талантом [Стремительные волны](https://ru.wowhead.com/spell=280614).
 * Усиливается с помощью [Приливные волны: Ранг 2](https://ru.wowhead.com/spell=231785/).
 
-<a href="https://ru.wowhead.com/spell=16196" target="blank" data-wh-icon-size="medium" >**Упоение**</a> – возвращает некоторое количество маны при критическом эффекте лечащих заклинаний.
+<a href="https://ru.wowhead.com/spell=16196" target="blank" data-wh-icon-size="small" >**Упоение**</a> – возвращает некоторое количество маны при критическом эффекте лечащих заклинаний.
 
 > Resurgence.
 
@@ -600,7 +600,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 Рестор Шаман обладает достаточно большим арсеналом атакующих способностей в бою против одной цели, но имеет всего одну абилку на АоЕ, которая бьет максимум **3** цели (не считая способностей ковенантов). 
 {: class="bordered"}
 
-<a href="https://ru.wowhead.com/spell=188196" target="blank" data-wh-icon-size="medium" >**Молния**</a> – наносит урон одной цели, не имеет времени восстановления.
+<a href="https://ru.wowhead.com/spell=188196" target="blank" data-wh-icon-size="small" >**Молния**</a> – наносит урон одной цели, не имеет времени восстановления.
 
 > Lightning Bolt, Bolt, LB, Болт, ЛБ.
 
@@ -612,7 +612,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * {{ site.data.spells.lb }} не имеет времени полета снаряда (потому что [очень быстро](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F) двигается).
 * Кастуется тогда, когда [Выброс лавы](https://ru.wowhead.com/spell=51505) на кулдауне.
 
-<a href="https://ru.wowhead.com/spell=188389" target="blank" data-wh-icon-size="medium" >**Огненный шок**</a> – основной ДоТ.
+<a href="https://ru.wowhead.com/spell=188389" target="blank" data-wh-icon-size="small" >**Огненный шок**</a> – основной ДоТ.
 
 > Flame Shock, FS, Флейм шок, ФШ, Фаер шок (не стоит), Шок, Дотка.
 
@@ -630,7 +630,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * Все время свыше **5.4** секунд на момент обновления [Огненного шока](https://ru.wowhead.com/spell=188389) **не добавится** к новому эффекту.
 * Каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) имеет **15%** шанс восстановить [Выброс лавы](https://ru.wowhead.com/spell=51505) и сделать следующее его применение мгновенным, за счет прока [Волны лавы](https://ru.wowhead.com/spell=77756).
 
-<a href="https://ru.wowhead.com/spell=51505" target="blank" data-wh-icon-size="medium" >**Выброс лавы**</a> – наносит урон одной цели, имеет время восстановления **8** секунд.
+<a href="https://ru.wowhead.com/spell=51505" target="blank" data-wh-icon-size="small" >**Выброс лавы**</a> – наносит урон одной цели, имеет время восстановления **8** секунд.
 
 > Lava Burst, LvB, Meatball, Лвб, Лава бурст, Лава.  
 
@@ -648,7 +648,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * Каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) имеет **15%** шанс восстановить кулдаун [Выброса лавы](https://ru.wowhead.com/spell=51505) и сделать следующее его применение мгновенным, за счет прока [Волны лавы](https://ru.wowhead.com/spell=77756).
 * Талант первого тира [Эхо стихий](https://ru.wowhead.com/spell=333919/) дает [Выбросу лавы](https://ru.wowhead.com/spell=51505) второй заряд, в результате чего время восстановления не теряется при проке [Волны лавы](https://ru.wowhead.com/spell=77756), а также сокращает время восстановления [Выброс лавы](https://ru.wowhead.com/spell=51505) до **8** секунд вместо «**8** секунд + время произнесения + время реакции».
 
-<a href="https://ru.wowhead.com/spell=196840" target="blank" data-wh-icon-size="medium" >**Ледяной шок**</a> – наносит урон одной цели, кастуется мгновенно.
+<a href="https://ru.wowhead.com/spell=196840" target="blank" data-wh-icon-size="small" >**Ледяной шок**</a> – наносит урон одной цели, кастуется мгновенно.
 
 > Frost Shock, FrS, Фрост шок, Фрост.  
 
@@ -661,7 +661,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * Полезно для нанесения урона на ходу, если нет необходимости обновлять {{ site.data.spells.fs }} и нет мгновенного [Выброса лавы](https://ru.wowhead.com/spell=51505).
 * Крайне полезная способность в Мифик+ для уничтожения [Взрывоопасных сфер](https://ru.wowhead.com/spell=240446) от соответствующего аффикса.
 
-<a href="https://ru.wowhead.com/spell=188443" target="blank" data-wh-icon-size="medium" >**Цепная молния**</a> – основное заклинание на АоЕ
+<a href="https://ru.wowhead.com/spell=188443" target="blank" data-wh-icon-size="small" >**Цепная молния**</a> – основное заклинание на АоЕ
 
 > Chain Lightning, CL, КЛ, Чайник, Цепнуха.  
 
@@ -677,7 +677,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 
 ## Защита
 
-<a href="https://ru.wowhead.com/spell=108271" target="blank" data-wh-icon-size="medium" >**Астральный сдвиг**</a> – основное защитное заклинание.
+<a href="https://ru.wowhead.com/spell=108271" target="blank" data-wh-icon-size="small" >**Астральный сдвиг**</a> – основное защитное заклинание.
 
 > Astral Shift, AS, Shift, АС, Шифт, Астрал, Сейв, Личка, Минус сорок.
 
@@ -692,7 +692,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 Проценты снижения получаемого урона высчитываются не все разом (например, **40%** + **40%**), а по порядку. То есть если вам наносится **1000** урона, то при активном [Астральном сдвиге](https://ru.wowhead.com/spell=108271) и стоя в области действия [Тотема духовной связи](https://ru.wowhead.com/spell=98008) сначала посчитается первый сейв, **1000**-**40%**, что равняется **600** урона. Потом от **600** урона отнимается **10%**, то есть **600**-**10%**=**540**. Таким же образом считается снижение урона от Универсальности и внешних сейвов, например от [Железной кора](https://ru.wowhead.com/spell=102342) Друида и других подобных заклинаний.
 {: class="bordered"}
 
-<a href="https://ru.wowhead.com/spell=198103" target="blank" data-wh-icon-size="medium" >**Элементаль земли**</a> – призыв элементаля со слабой атакой, который забирает на себя окружающих мобов. 
+<a href="https://ru.wowhead.com/spell=198103" target="blank" data-wh-icon-size="small" >**Элементаль земли**</a> – призыв элементаля со слабой атакой, который забирает на себя окружающих мобов. 
 
 > Earth Elemental, Earth, Steve, Элем земли, Игорь, Стив. 
 
@@ -724,7 +724,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 /cast [@player] Элементаль земли
 ```
 
-<a href="https://ru.wowhead.com/spell=20608" target="blank" data-wh-icon-size="medium" >**Реинкарнация**</a> – воскрешение в случае смерти.
+<a href="https://ru.wowhead.com/spell=20608" target="blank" data-wh-icon-size="small" >**Реинкарнация**</a> – воскрешение в случае смерти.
 
 * **Не является боевым воскрешением**, то есть не идет в счетчик Батл Ресов в Рейде и в Мифик+.
 * Уникальная способность шамана, не имеет аналогов у других классов.
@@ -737,7 +737,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 
 ## Поддержка
 
-<a href="https://ru.wowhead.com/spell=192077" target="blank" data-wh-icon-size="medium" >**Тотем ветряного порыва**</a> – талант [пятого](https://stormkeeper.ru/resto/talents.html#%D0%BF%D1%8F%D1%82%D1%8B%D0%B9-%D1%82%D0%B8%D1%80-40-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, увеличивает скорость передвижения союзников.
+<a href="https://ru.wowhead.com/spell=192077" target="blank" data-wh-icon-size="small" >**Тотем ветряного порыва**</a> – талант [пятого](https://stormkeeper.ru/resto/talents.html#%D0%BF%D1%8F%D1%82%D1%8B%D0%B9-%D1%82%D0%B8%D1%80-40-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, увеличивает скорость передвижения союзников.
 
 > Wind Rush Totem, WRT, ВРТ, Хаст тотем, Тотем ветроступа, Тотем на скорость.
 
@@ -758,7 +758,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 ~~~
 * Аналог подобного ускорения – [Тревожный рев](https://ru.wowhead.com/spell=106898) **Друида**. Он требует находиться в радиусе **15** метров от Друида во время каста и не дает бафф, если союзник был дальше этого расстояния, однако имеет большую длительность – **8** секунд. Проводник [Во главе стаи](https://ru.wowhead.com/spell=341450/%D0%B2%D0%BE-%D0%B3%D0%BB%D0%B0%D0%B2%D0%B5-%D1%81%D1%82%D0%B0%D0%B8?ilvl=226) увеличивает расстояние до **18.6** метров и длительность до **10** секунд. 
 
-<a href="https://ru.wowhead.com/spell=2825" target="blank" data-wh-icon-size="medium" >**Жажда крови**</a> / <a href="https://ru.wowhead.com/spell=32182" target="blank" data-wh-icon-size="medium" >**Героизм**</a> – бафф, повышающий Скорость союзников на **30%** на **40** секунд.
+<a href="https://ru.wowhead.com/spell=2825" target="blank" data-wh-icon-size="small" >**Жажда крови**</a> / <a href="https://ru.wowhead.com/spell=32182" target="blank" data-wh-icon-size="small" >**Героизм**</a> – бафф, повышающий Скорость союзников на **30%** на **40** секунд.
 
 > Bloodlust, Heroism, BL, Hero, БЛ, Гера, Рост.
 
@@ -777,7 +777,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * Аналоги есть только у двух классов – [Искажение времени](https://ru.wowhead.com/spell=80353) Мага и [Древняя истерия](https://ru.wowhead.com/spell=90355) Охотника.
 * Другие классы могут использовать [Барабаны смертельной свирепости](https://ru.wowhead.com/item=172233), однако их эффект **в два раза слабее**.
 
-<a href="https://ru.wowhead.com/spell=8143" target="blank" data-wh-icon-size="medium" >**Тотем трепета**</a> – снимает с союзников эффекты страха, подчинения и сна.
+<a href="https://ru.wowhead.com/spell=8143" target="blank" data-wh-icon-size="small" >**Тотем трепета**</a> – снимает с союзников эффекты страха, подчинения и сна.
 
 > Tremor Totem, Тремор, Антифир. 
 
@@ -804,7 +804,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 
 ## Прочие
 
-<a href="https://ru.wowhead.com/spell=2645" target="blank" data-wh-icon-size="medium" >**Призрачный волк**</a> – превращение в призрачного волка, который увеличивает скорость передвижения.
+<a href="https://ru.wowhead.com/spell=2645" target="blank" data-wh-icon-size="small" >**Призрачный волк**</a> – превращение в призрачного волка, который увеличивает скорость передвижения.
 
 > Ghost Wolf, Волк, Форма волка, Пес, Раптор, Динозавр.  
 
@@ -828,7 +828,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * В форме [Призрачного волка](https://ru.wowhead.com/spell=2645) можно атаковать, нанося при этом базовый урон от оружия.
 
 
-<a href="https://ru.wowhead.com/spell=52127" target="blank" data-wh-icon-size="medium" >**Водный щит**</a> – бафф, который увеличивает регенерацию маны.
+<a href="https://ru.wowhead.com/spell=52127" target="blank" data-wh-icon-size="small" >**Водный щит**</a> – бафф, который увеличивает регенерацию маны.
 
 > Water Shield, WS, Щит маны, Щит.
 
@@ -848,7 +848,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * WA для отслеживания [Водного щит](https://ru.wowhead.com/spell=52127) можно найти [в этом разделе](https://stormkeeper.ru/resto/weakauras.html).
 
 
-<a href="https://ru.wowhead.com/spell=77130" target="blank" data-wh-icon-size="medium" >**Возрождение духа**</a> – снимает все магические эффекты и проклятия с выбранного союзника.
+<a href="https://ru.wowhead.com/spell=77130" target="blank" data-wh-icon-size="small" >**Возрождение духа**</a> – снимает все магические эффекты и проклятия с выбранного союзника.
 
 > Purify Spirit, Dispel, Диспел, Декурс.
 
@@ -867,7 +867,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
   * [Очищение от токсинов](https://ru.wowhead.com/spell=213644/) **Паладина**.
 * Рестор шаман **не может** снимать яды и болезни.
 
-<a href="https://ru.wowhead.com/spell=370" target="blank" data-wh-icon-size="medium" >**Развеивание магии**</a> – снимает с противника один благотворный магический эффект.
+<a href="https://ru.wowhead.com/spell=370" target="blank" data-wh-icon-size="small" >**Развеивание магии**</a> – снимает с противника один благотворный магический эффект.
 
 > Purge, Пурдж, Диспел, Очищение, Снятие магии.  
 
@@ -911,7 +911,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
     * [Призрачное перенаправление](https://ru.wowhead.com/spell=320272) на **первом боссе**.
     * [Костяной щит](https://ru.wowhead.com/spell=333293) **Костяного чародея** (лучше оставить под [Чарокрад](https://ru.wowhead.com/spell=30449) Магов).
 
-<a href="https://ru.wowhead.com/spell=212048" target="blank" data-wh-icon-size="medium" >**Древнее видение**</a> – воскрешение союзника вне боя.
+<a href="https://ru.wowhead.com/spell=212048" target="blank" data-wh-icon-size="small" >**Древнее видение**</a> – воскрешение союзника вне боя.
 
 > Ancestral Vision, Рес.
 
@@ -925,7 +925,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 ## Контроль
 
 
-<a href="https://ru.wowhead.com/spell=57994" target="blank" data-wh-icon-size="medium" >**Пронизывающий ветер**</a> – прерывание заклинания противника.
+<a href="https://ru.wowhead.com/spell=57994" target="blank" data-wh-icon-size="small" >**Пронизывающий ветер**</a> – прерывание заклинания противника.
 
 > Wind Shear, WS, Интерапт, Сбивалка, Ветер, Кик.
 
@@ -953,7 +953,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
   * [Запрет чар](https://ru.wowhead.com/spell=19647) **Чернокнижника** (Питомец, **24** секунды КД, **40** метров).
 
 
-<a href="https://ru.wowhead.com/spell=2484" target="blank" data-wh-icon-size="medium" >**Тотем оков земли**</a> – АоЕ замедление.
+<a href="https://ru.wowhead.com/spell=2484" target="blank" data-wh-icon-size="small" >**Тотем оков земли**</a> – АоЕ замедление.
 
 > Earthbind Totem, ET, Тотем замедления.
 
@@ -970,7 +970,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * Имеет укороченный ГКД в **1** секунду, и это время не снижается Скоростью.
 
 
-<a href="https://ru.wowhead.com/spell=192058" target="blank" data-wh-icon-size="medium" >**Тотем конденсации**</a> – АоЕ стан.
+<a href="https://ru.wowhead.com/spell=192058" target="blank" data-wh-icon-size="small" >**Тотем конденсации**</a> – АоЕ стан.
 
 > Capacitor Totem, CT, Капаситор, Стан-тотем, Стан.
 
@@ -990,7 +990,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
   * [Ударная волна](https://ru.wowhead.com/spell=46968) **Воина** (Защита, **40** секунд КД, **2** секунды длительности).
   * [Кольцо хаоса](https://ru.wowhead.com/spell=344867) **Охотника на демонов** (**60** секунд КД, **2** секунды длительности).
 
-<a href="https://ru.wowhead.com/spell=51485" target="blank" data-wh-icon-size="medium" >**Тотем хватки земли**</a> – талант [третьего](https://stormkeeper.ru/resto/talents.html#%D1%82%D1%80%D0%B5%D1%82%D0%B8%D0%B9-%D1%82%D0%B8%D1%80-30-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, АоЕ обездвиживание противников в указанной области.
+<a href="https://ru.wowhead.com/spell=51485" target="blank" data-wh-icon-size="small" >**Тотем хватки земли**</a> – талант [третьего](https://stormkeeper.ru/resto/talents.html#%D1%82%D1%80%D0%B5%D1%82%D0%B8%D0%B9-%D1%82%D0%B8%D1%80-30-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C) тира, АоЕ обездвиживание противников в указанной области.
 
 > Earthgrab Totem, EGT, Тотем рутов.
 
@@ -1006,7 +1006,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * Имеет укороченный ГКД в **1** секунду, и это время не снижается Скоростью.
 * Полезная способность в Мифик+ особенно, на [Злопамятном](https://www.wowhead.com/affix=123/).
 
-<a href="https://ru.wowhead.com/spell=51514" target="blank" data-wh-icon-size="medium" >**Сглаз**</a> – долгий контроль гуманоида или зверя.
+<a href="https://ru.wowhead.com/spell=51514" target="blank" data-wh-icon-size="small" >**Сглаз**</a> – долгий контроль гуманоида или зверя.
 
 > Hex, Хекс, Лягушка, Контроль, Полиморф шамана.  
 
@@ -1048,12 +1048,12 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 
 # Остальное
 
-<a href="https://ru.wowhead.com/spell=137039" target="blank" data-wh-icon-size="medium" >**Шаман - Исцеление**</a> – скрытая аура, используется как модификатор урона и затрат ресурсов для различных заклинаний.
+<a href="https://ru.wowhead.com/spell=137039" target="blank" data-wh-icon-size="small" >**Шаман - Исцеление**</a> – скрытая аура, используется как модификатор урона и затрат ресурсов для различных заклинаний.
 
 * С помощью таких аур разработчики могут менять показатели урона и исцеления сразу всех способностей специализации, не меняя значения «урона от силы заклинаний» для каждой по отдельности.
 * Например, в ауре Шамана Исцеления повышен урон всех атакующих заклинаний на **40%**, а всё лечение снижено на **4%**.
 
-<a href="https://ru.wowhead.com/spell=192106" target="blank" data-wh-icon-size="medium" >**Щит молний**</a> – наносит урон атакующим в ближнем бою.
+<a href="https://ru.wowhead.com/spell=192106" target="blank" data-wh-icon-size="small" >**Щит молний**</a> – наносит урон атакующим в ближнем бою.
 
 >  Lightning Shield, LS, ЛС, Щит.  
 
@@ -1064,7 +1064,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * Щит не спадает при смерти.
 * Дает анимацию электрического шара, кружащего вокруг персонажа.
 
-<a href="https://ru.wowhead.com/spell=6196" target="blank" data-wh-icon-size="medium" >**Дальнее зрение**</a> – переносит точку обзора в указанное место.
+<a href="https://ru.wowhead.com/spell=6196" target="blank" data-wh-icon-size="small" >**Дальнее зрение**</a> – переносит точку обзора в указанное место.
 
 * Считается заклинанием магии <span style="color:#26d22b;font-size:1em;">**Природы**</span> и не стоит маны.
 * Кастуется **2** секунды и длится **1** минуту.
@@ -1072,7 +1072,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * Практически не имеет ограничения на дальность применения.
 * Может найти применение в Башне Торгаст, так как позволяет найти кратчайший путь до выход, стоя у входа на этаж.
 
-<a href="https://ru.wowhead.com/spell=556" target="blank" data-wh-icon-size="medium" >**Астральное возвращение**</a> – дополнительный [Камень возвращения](https://ru.wowhead.com/item=6948), перемещает вас в привязанную локацию.   
+<a href="https://ru.wowhead.com/spell=556" target="blank" data-wh-icon-size="small" >**Астральное возвращение**</a> – дополнительный [Камень возвращения](https://ru.wowhead.com/item=6948), перемещает вас в привязанную локацию.   
 
 * Считается заклинанием магии <span style="color:#26d22b;font-size:1em;">**Природы**</span> и не стоит маны.
 * Возвращает в ту же точку, куда назначен [Камень возвращения](https://ru.wowhead.com/item=6948), но позволяет делать это чаще.
@@ -1082,7 +1082,7 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 * Время восстановления – **10** минут.
 * Нельзя использовать в бою и на арене.
 
-<a href="https://ru.wowhead.com/spell=546" target="blank" data-wh-icon-size="medium" >**Хождение по воде**</a>  – позволяет союзнику ходить по воде.
+<a href="https://ru.wowhead.com/spell=546" target="blank" data-wh-icon-size="small" >**Хождение по воде**</a>  – позволяет союзнику ходить по воде.
 
 * Считается заклинанием магии <span style="color:#26d22b;font-size:1em;">**Природы**</span> и не стоит маны.  
 * При использовании накладывает бафф на **10** минут, который позволяет ходить по воде.
@@ -1097,12 +1097,12 @@ WA для отслеживания [Пульсации](https://ru.wowhead.com/s
 /run C_MountJournal.SummonByID(0)
 ~~~
 
-<a href="https://ru.wowhead.com/spell=73899" target="blank" data-wh-icon-size="medium" >**Стихийный удар**</a> – бесполезная способность для Шамана Исцеления. 
+<a href="https://ru.wowhead.com/spell=73899" target="blank" data-wh-icon-size="small" >**Стихийный удар**</a> – бесполезная способность для Шамана Исцеления. 
 
 * Данная способность нужна только для того, чтобы показать весь арсенал шамана в самом начале прокачки, на уровнях с **1** по **10**.
 * После получения **10** уровня, выбрав специализацию, про [Стихийный удар](https://ru.wowhead.com/spell=73899) можно забыть.
 
-<a href="https://ru.wowhead.com/spell=318038" target="blank" data-wh-icon-size="medium" >**Оружие языка пламени**</a> – бесполезная способность для Шамана Исцеления.
+<a href="https://ru.wowhead.com/spell=318038" target="blank" data-wh-icon-size="small" >**Оружие языка пламени**</a> – бесполезная способность для Шамана Исцеления.
 
 * Не дает использовать масло на оружие, например [Масло теневого ядра](https://ru.wowhead.com/item=171285).
 * Добавляет огненную анимацию вокруг оружия персонажа.
