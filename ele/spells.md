@@ -619,7 +619,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=382886" target="blank" data-wh-icon-size="small" >**Лед и пламя**</a> – пассивный талант, увеличивает урон от заклинаний школ магии <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> на **3%**. Действует на [Выброса лавы](https://ru.wowhead.com/spell=51505), [Огненный шок](https://ru.wowhead.com/spell=188389), [Ледяной шок](https://ru.wowhead.com/spell=196840) и [Ледяную ярость](https://ru.wowhead.com/spell=210714).
+<a href="https://ru.wowhead.com/spell=382886" target="blank" data-wh-icon-size="small" >**Лед и пламя**</a> – пассивный талант, увеличивает урон от заклинаний школ магии <span style="color:#f16f25;font-size:1em;">**Огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> на **3%**. Действует на [Выброс лавы](https://ru.wowhead.com/spell=51505), [Огненный шок](https://ru.wowhead.com/spell=188389), [Ледяной шок](https://ru.wowhead.com/spell=196840) и [Ледяную ярость](https://ru.wowhead.com/spell=210714).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
