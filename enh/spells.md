@@ -940,7 +940,7 @@ image: /assets/img/logos/spells.png
 Один из двух талантов на выбор:
 * <a href="https://ru.wowhead.com/spell=378779" target="blank" data-wh-icon-size="small" >**Громовой удар**</a> – усиливает [Гром и молнии](https://ru.wowhead.com/spell=51490), заменяя отбрасывание противников в стороны на подбрасывание вверх, и снижает кулдаун на **5** секунд. Полезно в том случае, если нужно сбить применение заклинаний без перемещения противников.
 
-* <a href="https://ru.wowhead.com/spell=305483" target="blank" data-wh-icon-size="small" >**Молния-лассо**</a> – бывший PvP-талант. Потоковое заклинание, наносит средний урон одной цели и оглушает её на время каста. 
+* <a href="https://ru.wowhead.com/spell=305483" target="blank" data-wh-icon-size="small" >**Молния-лассо**</a> – бывший PvP-талант. Потоковое заклинание, наносит средний урон одной цели и оглушает её на время каста. Можно кастовать на ходу.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
