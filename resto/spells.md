@@ -970,7 +970,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=108285" target="blank" data-wh-icon-size="small" >**Возвращение тотемов**</a> – сбрасывает время восстановления последнего примененного тотема, кулдаун **3** минуты. 
+<a href="https://ru.wowhead.com/spell=108285" target="blank" data-wh-icon-size="small" >**Возвращение тотемов**</a> – сбрасывает время восстановления последнего примененного тотема, кулдаун **3** минуты. Не работает на тотемы, чье **базовое** время восстановления **3** минуты или более.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -1061,7 +1061,7 @@ image: /assets/img/logos/spells.png
 
 <a href="https://ru.wowhead.com/spell=77472" target="blank" data-wh-icon-size="small" >**Волна исцеления**</a> – медленное, но эффективное по мане исцеление одной цели.
 
-<details markdown=1><summary><i>Подробнее...</i></summary>
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
@@ -1074,7 +1074,7 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
-<details markdown=1><summary><i>Подробнее...</i></summary>
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
@@ -1095,7 +1095,7 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
-<details markdown=1><summary><i>Подробнее...</i></summary>
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 # Третий ряд
@@ -1126,7 +1126,7 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
-<details markdown=1><summary><i>Подробнее...</i></summary>
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 Один из двух талантов на выбор:
@@ -1135,7 +1135,7 @@ image: /assets/img/logos/spells.png
 * <a href="https://ru.wowhead.com/spell=383009" target="blank" data-wh-icon-size="small" >**Хранитель бурь**</a> – вы получаете бафф на **15** секунд, усиливающий урон **2** следующих [Молния](https://ru.wowhead.com/spell=188196) или [Цепных молний](https://ru.wowhead.com/spell=188443) на **150%** и делающий их мгновенными.
 
 
-<details markdown=1><summary><i>Подробнее...</i></summary>
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 <a href="https://ru.wowhead.com/spell=52127" target="blank" data-wh-icon-size="small" >**Водный щит**</a> – стихийный щит, который увеличивает регенерацию маны.
@@ -1158,49 +1158,113 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
-<details markdown=1><summary><i>Подробнее...</i></summary>
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 <a href="https://ru.wowhead.com/spell=378241" target="blank" data-wh-icon-size="small" >**Водный щит**</a> – увеличивает урон [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) на **35%**.
 
 
 
-<details markdown=1><summary><i>Подробнее...</i></summary>
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
 <a href="https://ru.wowhead.com/spell=51564" target="blank" data-wh-icon-size="small" >**Приливные волны**</a> – [Быстрина](https://www.wowhead.com/ru/spell=61295) дает вам два заряда баффа, который уменьшает время произнесения [Волны исцеления](https://ru.wowhead.com/spell=77472) и [Цепного исцеления](https://ru.wowhead.com/spell=1064) на **20%**, или увеличивает шанс критического удара [Исцеляющего всплеска](https://ru.wowhead.com/spell=8004) на **40%**. Каждое усиленное заклинание тратит один заряд баффа.
 
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+## Четвертый ряд
+
+
+Один из двух талантов на выбор[Целительного ливня](https://ru.wowhead.com/spell=73920)
+* <a href="https://ru.wowhead.com/spell=383222" target="blank" data-wh-icon-size="small" >**Хляби небесные**</a> – [Целительный ливень](https://ru.wowhead.com/spell=73920) мгновенно восполняет здоровье **6** союзникам по завершению каста, а также увеличивает радиус действия с **8** до **10** метров.
+
+* <a href="https://ru.wowhead.com/spell=378443" target="blank" data-wh-icon-size="small" >**Кислотный дождь**</a> – [Целительный ливень](https://ru.wowhead.com/spell=73920) наносит небольшой урон противникам в области применения в течение всего времени действия.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=207401" target="blank" data-wh-icon-size="small" >**Энергия Предков**</a> – увеличивает максимальный запас здоровья целей ваших способностей прямого исцеления на **5%/10%**.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=16196" target="blank" data-wh-icon-size="small" >**Упоение**</a> – восстанавливает часть маны при критическом эффекте основных лечащих заклинаний.
+
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 
+> Resurgence.
+
+* Возвращает ману при критическом эффекте следующих лечащих заклинаний:
+  * [Волна исцеления](https://ru.wowhead.com/spell=77472) – **1%** маны.
+  * [Исцеляющий всплеск](https://ru.wowhead.com/spell=8004) – **0.6%** маны.
+  * [Быстрина](https://ru.wowhead.com/spell=61295) – **0.6%** маны.
+  * [Высвободить чары жизни](https://ru.wowhead.com/spell=73685/) – **0.6%** маны.
+  * [Цепное исцеление](https://ru.wowhead.com/spell=1064) – **0.25%** маны за каждый прыжок.
+* Не работает от тиков [Целительного ливня](https://ru.wowhead.com/spell=73920) или от любых других способностей, которые не перечислены в списке выше.
+* [Упоение](https://ru.wowhead.com/spell=16196) никак не связано с [Водным щитом](https://ru.wowhead.com/spell=52127) и работает как с ним, так и без него.
+* Не имеет внутреннего кулдауна на срабатывание.
+</details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=280614" target="blank" data-wh-icon-size="small" >**Стремительные волны**</a> – когда вы расходуете заряд баффа [Приливных волн](https://ru.wowhead.com/spell=51564), время произнесения следующего заклинания лечения сокращается на **10%/20%**.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=280614" target="blank" data-wh-icon-size="small" >**Повелитель тотемов воды**</a> – когда вы расходуете заряд баффа [Приливных волн](https://ru.wowhead.com/spell=51564), время восстановления [Тотема исцеляющего потока](https://www.wowhead.com/ru/spell=5394), [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153), [Тотема целительного прилива](https://www.wowhead.com/ru/spell=108280), [Тотема прилива маны](https://www.wowhead.com/ru/spell=16191) и [Тотема противоядия](https://www.wowhead.com/ru/spell=383013) сокращается на **0.5** секунд.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+## Пятый ряд
+
+Один из двух талантов на выбор:
+* <a href="https://ru.wowhead.com/spell=382732" target="blank" data-wh-icon-size="small" >**Устремление предков**</a> – усиливает лечение [Цепного исцеления](https://ru.wowhead.com/spell=1064) на **8%** и добавляет дополнительный прыжок.
 
 
+* <a href="https://ru.wowhead.com/spell=382039" target="blank" data-wh-icon-size="small" >**Приливные течения**</a> – [Цепное исцеление](https://ru.wowhead.com/spell=1064) поглощает периодический эффект [Быстрины](https://www.wowhead.com/ru/spell=61295) на цели и увеличивает своё исцеление на **30%**.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
+<a href="https://ru.wowhead.com/spell=98008" target="blank" data-wh-icon-size="small" >**Тотем духовной связи**</a> – устанавливает тотем, который уменьшает получаемый урон союзниками в области действия на **10%**, а также перераспределяет и выравнивает их здоровье между собой.
+
+<details markdown=1><summary><i>Подробнее...</i></summary>
+<p></p>
+
+> Spirit Link Totem, SLT, СЛТ, Спирит линк, Дележка, Шара, [Тотем Коммунизма](https://wago.io/h1kok0jQt).  
+
+* Считается заклинанием школы магии <span style="color:#26d22b;font-size:1em;">**Природы**</span> и стоит **2.2%** маны.
+* Радиус действия – **10** метров.
+* Длительность действия – **6** секунд.
+* Имеет укороченный ГКД в **1** секунду, и это время не снижается Скоростью.
+* Снижает получаемый урон союзников на **10%** в области действия.
+* Перераспределяет и выравнивает здоровье союзников в области действия.
+* Перераспределение срабатывает раз в **1** секунду.
+* Урон и лечение от перераспределения вычитается из логов и не идет ни в ДПС, ни в ХПС.
+* Лучше всего ставить [Тотем духовной связи](https://ru.wowhead.com/spell=98008) **перед** получением урона, а не после него.
+* Сочетается с другими бурстами Рестор Шамана, такими как [Тотем целительного прилива](https://ru.wowhead.com/spell=108280) и [Перерождение](https://ru.wowhead.com/spell=114052), но может использоваться и как отдельный рейд-сейв.
+* Очень хорошо сочетается с [Мраком](https://ru.wowhead.com/spell=196718) Охотников на демонов, практически убирая из него эффект случайности.
+* Вместо **20%** шанса не получить **100%** урона, [Мрак](https://ru.wowhead.com/spell=196718) под [Тотемом духовной связи](https://ru.wowhead.com/spell=98008) дает **100%** не получить **20%** урона. Это работает за счет большого количества небольших эффектов нанесения урона в области действия тотема.
+* [Тотем духовной связи](https://ru.wowhead.com/spell=98008) это по сути единственный танковый сейв, доступный Рестор Шаману. 
+* На иконке способности изображены руки орка, таурена и тролля – единственные расы, которым был доступен Шаман в классической версии игры.
+
+</details>
+<p></p>
 
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Один из двух талантов на выбор:
 
 
 
