@@ -26,6 +26,12 @@ image: /assets/img/logos/spells.png
 Если в описании таланта указаны два значения через черточку, например **8%/15%**, то это значит, что в талант можно вложить два очка. Эффект от вкладывания одного очка составляет в этом случае **8%**, а от двух – **15%**.
 {: class="bordered"}
 
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
 # Базовые способности
 
 Способности в этом разделе доступны без взятия каких-либо талантов.
@@ -349,6 +355,13 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 # Общие таланты шамана
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASIokAQBIJJNEBJJRE?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
 
 ## Первый ряд
 
@@ -1020,6 +1033,13 @@ image: /assets/img/logos/spells.png
 
 
 # Таланты специализации Исцеление
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIRSSQSJplSUSSRLaBAAAAAAAAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
 
 # Первый ряд
 
