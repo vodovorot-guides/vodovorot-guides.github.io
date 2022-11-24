@@ -1041,7 +1041,7 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
-# Первый ряд
+## Первый ряд
 
 
 <a href="https://ru.wowhead.com/spell=108281" target="blank" data-wh-icon-size="small" >**Быстрина**</a> – мгновенно исцеляет одного союзника и накладывает эффект периодического лечения на **18** секунд. 
@@ -1067,7 +1067,7 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
-# Второй ряд
+## Второй ряд
 
 <a href="https://ru.wowhead.com/spell=200076" target="blank" data-wh-icon-size="small" >**Наводнение**</a> – усиливает лечение [Волны исцеления](https://ru.wowhead.com/spell=77472), [Исцеляющего всплеска](https://ru.wowhead.com/spell=8004) и [Цепного исцеления](https://ru.wowhead.com/spell=1064) на **10%/20%** по целям, которые стоят в зоне действия [Целительного ливня](https://www.wowhead.com/ru/spell=73920) или имеют эффект периодического лечения от [Быстрины](https://ru.wowhead.com/spell=108281). 
 
@@ -1117,7 +1117,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-# Третий ряд
+## Третий ряд
 
 <a href="https://ru.wowhead.com/spell=73920" target="blank" data-wh-icon-size="small" >**Целительный ливень**</a> – АоЕ заклинание, лечит **6** союзников в выбранной зоне в течение **10** секунд.
 
