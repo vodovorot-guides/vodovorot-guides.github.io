@@ -28,7 +28,7 @@ image: /assets/img/logos/spells.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
@@ -362,7 +362,7 @@ image: /assets/img/logos/spells.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASIokAQBIJJNEBJJRE?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASIokAQBIJJNEBJJRE?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
@@ -1039,7 +1039,7 @@ image: /assets/img/logos/spells.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIRSSQSJplSUSSRLaBAAAAAAAAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIRSSQSJplSUSSRLaBAAAAAAAAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
