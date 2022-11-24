@@ -1414,7 +1414,7 @@ image: /assets/img/logos/spells.png
 
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=200071" target="blank" data-wh-icon-size="small" >**Тотем земляной стены**</a> – устанавливает тотем, который поглощает часть урона получаемого игроками в зоне его действия. 
+* <a href="https://ru.wowhead.com/spell=198838" target="blank" data-wh-icon-size="small" >**Тотем земляной стены**</a> – устанавливает тотем, который поглощает часть урона получаемого игроками в зоне его действия. 
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
