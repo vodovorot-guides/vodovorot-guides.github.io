@@ -9,12 +9,14 @@ description: В данной статье собраны часто задава
 image: /assets/img/grid2/ind4.png
 ---
 
-# Вступление
-
-
 <p align="center">
 <img src="/assets/img/grid2/grid2_look.png" width=450x> 
 </p>
+
+
+# Вступление
+
+
 
 
 **Важно!** Не путайте [Grid2](https://www.curseforge.com/wow/addons/grid2) и [Grid](https://www.curseforge.com/wow/addons/grid), так как это два абсолютно [разных аддона](https://stormkeeper.ru/resto/raidframes.html)!
