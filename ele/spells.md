@@ -1409,7 +1409,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=191861" target="blank" data-wh-icon-size="small" >**Мощь Водоворота**</a> – пассивный талант, дает [Выбросу лавы](https://ru.wowhead.com/spell=51505) **10%** шанс усилить две следующих [Молнии](https://ru.wowhead.com/spell=188196) или [Цепных молнии](https://ru.wowhead.com/spell=188443), вызывая дополнительное срабатывание [Перегрузки](https://ru.wowhead.com/spell=168534).
+<a href="https://ru.wowhead.com/spell=191861" target="blank" data-wh-icon-size="small" >**Мощь Водоворота**</a> – пассивный талант, дает [Выбросу лавы](https://ru.wowhead.com/spell=51505) **5%/10%** шанс усилить две следующих [Молнии](https://ru.wowhead.com/spell=188196) или [Цепных молнии](https://ru.wowhead.com/spell=188443), вызывая дополнительное срабатывание [Перегрузки](https://ru.wowhead.com/spell=168534).
 
 
 <hr style="height:1px;background-color:#bbb">
