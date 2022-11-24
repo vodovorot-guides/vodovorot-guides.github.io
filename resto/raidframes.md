@@ -1,8 +1,8 @@
 ---
 title: Рейдовые фреймы для Шамана Исцеления
 layout: page
-last_update: 2022-05-20
-wow: 9.2
+last_update: 2022-11-24
+wow: 10.0
 toc: true
 author: "Amani, Haelrail, Omeja, Langrim"
 ---
@@ -66,51 +66,7 @@ author: "Amani, Haelrail, Omeja, Langrim"
 
 Также в ElvUI отсутствует функция назначения заклинаний на кнопки мыши и маусовер, так что придется использовать аддон [Clique](https://www.curseforge.com/wow/addons/clique) или макросы ([об этом далее](https://stormkeeper.ru/resto/raidframes.html#%D0%BC%D0%B0%D1%83%D1%81%D0%BE%D0%B2%D0%B5%D1%80-%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%81%D1%8B)).
 
-Ниже представлены различные **профили ElvUI**, которые вы можете загрузить по ссылкам. Больше профилей можно найти на [Wago.io](https://wago.io/elvui).
-
-<details open markdown=1><summary><i>Cписок профилей <b>ElvUI:</b></i></summary>
-<br>
-**Cвяжитесь c Amani#0001 в [Discord](https://discordapp.com/invite/zTQhBn8) если вы хотите поделиться своим профилем.**
-
-[**Undmo:**](https://wago.io/KkufMW9Np) + [**иконки ХоТ**](https://pastebin.com/h1fRJcAp)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/775683849614655500/778015402739105862/unknown.png" width=400x> 
-</p>
-
-[**Christi:**](https://wago.io/XAftH1U3U)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/775683849614655500/778362491826208768/unknown.png" width=400x> 
-</p>
-
-[**Omeja:**](https://wago.io/cFFDxTJDW)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/628683700116258816/774250687504580608/unknown.png" width=400x> 
-</p>
-
-[**Mono:**](https://wago.io/HC-6Jgdgk)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/775683849614655500/778376225563344926/unknown.png" width=400x> 
-</p>
-
-[**Andru:**](https://wago.io/58pXDuR-s)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/775683849614655500/778370665924526120/unknown.png" width=400x> 
-</p>
-
-</details>
-
-
-<br>
+Профили Elvui можно найти по этой ссылке на [Wago.io](https://wago.io/elvui).
 
 # Grid2
 
@@ -126,24 +82,11 @@ Grid2 является специализированным аддоном, ко
 
 Для Grid2 также необходимо использовать маусовер макросы или аддон [Clique](https://www.curseforge.com/wow/addons/clique). 
 
-В Grid2 можно загружать профили других игроков, но на [Wago.io](https://wago.io/) нет соответствующего раздела, а значит выбор будет меньше, чем у ElvUI. Плюс, при импорте профиля, могут возникнуть проблемы с баффами и дебаффами, так как они могли быть добавлены в виде названий заклинаний, а не ID, и на русском клиенте такой профиль будет работать не полностью.
+В Grid2 можно загружать профили других игроков, найти их можно на [Wago.io](https://wago.io/search/grid2). 
 
-Поэтому просто загрузить готовый профиль и сразу пойти его использовать не всегда получится, предварительно следует проверить его работоспособность.
+Также у нас на сайте есть подробная статья, которая поможет вам настроить профиль с нуля или кастомизировать чужой:
 
-<details open markdown=1><summary><i>Cписок профилей <b>Grid2:</b></i></summary>
-<br>
-**Cвяжитесь c Amani#0001 в [Discord](https://discordapp.com/invite/zTQhBn8) если вы хотите поделиться своим профилем.**
-
-[**Лордшамми:**](https://pastebin.com/w0836gN8)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/215442237813686272/976953897635696690/lrdhtrd_raid_grid2.jpg" width=400x> 
-</p>
-
-</details>
-
-<br>
+{% include button.html name="Grid2 – часто задаваемые вопросы" link="/resto/grid2.html" %}  
 
 # VuhDo
 
@@ -164,24 +107,6 @@ VuhDo имеет **встроенную поддержку** назначени�
 Лучший вариант – разобраться в настройках и сделать все самостоятельно. В этом вам поможет наша статья:
 
 {% include button.html name="VuhDo – часто задаваемые вопросы" link="/resto/vuhdo.html" %}  
-
-<p></p>
-
-
-<details open markdown=1><summary><i>Cписок профилей <b>VuhDo:</b></i></summary>
-<br>
-**Cвяжитесь c Amani#0001 в [Discord](https://discordapp.com/invite/zTQhBn8) если вы хотите поделиться своим профилем.**
-
-[**Jayare:**](https://wago.io/nXQqnHwkm)
-{: style="text-align: center;"}
-
-<p align="center">
-<img src="https://media.wago.io/screenshots/nXQqnHwkm/5f7f292b49cd10461ffad1b5.jpg" width=400x> 
-</p>
-
-</details>
-
-<br>
 
 # Другие аддоны для хила
 
