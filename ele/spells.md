@@ -20,6 +20,12 @@ image: /assets/img/logos/spells.png
 Если в описании таланта указаны два значения через черточку, например **8%/15%**, то это значит, что в талант можно вложить два очка. Эффект от вкладывания одного очка составляет в этом случае **8%**, а от двух – **15%**.
 {: class="bordered"}
 
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
 # Базовые способности
 
 Способности в этом разделе доступны без взятия каких-либо талантов.
@@ -382,6 +388,14 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 # Общие таланты шамана
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlAokkARBSJRSLlASkEA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+
 
 ## Первый ряд
 
@@ -1092,6 +1106,13 @@ image: /assets/img/logos/spells.png
 
 # Таланты специализации Стихии
 
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAAAAAAAAAAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+
 ## Первый ряд
 
 <a href="https://ru.wowhead.com/spell=8042" target="blank" data-wh-icon-size="small" >**Земной шок**</a> – наносит средний урон одной цели, применяется мгновенно и тратит **60** единиц энергии Водоворота. 
@@ -1587,6 +1608,11 @@ image: /assets/img/logos/spells.png
 
 * <a href="https://ru.wowhead.com/spell=378310" target="blank" data-wh-icon-size="small" >**Огненная гибель "Усмирителя небес"**</a> – пассивный таланат, повышает шанс Критического удара [Огненного шока](https://ru.wowhead.com/spell=188389) на **50%**, а каждый критический тик [Огненного шока](https://ru.wowhead.com/spell=188389) снижает кулдаун [Элементаля огня](https://www.wowhead.com/ru/spell=198067) / [Элементаля бури](https://www.wowhead.com/ru/spell=192249) на **1** секунду.
 
+<p></p>
+
+{% include button.html name="Обсудить на сервере Водоворот" link="https://discord.gg/8Bag6kT" %}  
+
+<p></p>
 
 
 
