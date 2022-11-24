@@ -19,6 +19,8 @@ categories:
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
         divided: true
+      - title: Настройка Grid2
+        url: /resto/grid2.html   
       - title: Настройка VuhDo
         url: /resto/vuhdo.html        
       - title: Логи хилов и их важность
