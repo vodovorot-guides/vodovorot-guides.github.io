@@ -21,6 +21,12 @@ image: /assets/img/logos/spells.png
 {: class="bordered"}
 
 
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
 # Базовые способности
 
 Способности в этом разделе доступны без взятия каких-либо талантов.
@@ -327,6 +333,14 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 # Общие таланты шамана
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlIEhEQUgUSSSBElEJBA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
 
 ## Первый ряд
 
@@ -996,6 +1010,15 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 # Таланты специализации Совершенствование
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJBkERSicAkkIhAAAAAAAAAAAAAAAAAAAAAAK?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+
 
 ## Первый ряд
 
