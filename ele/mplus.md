@@ -68,9 +68,9 @@ image: /assets/img/ele_tb2.png
 
 Несмотря на взятые таланты [Ледяная ярость](https://ru.wowhead.com/spell=210714) и [Электрический шок](https://ru.wowhead.com/spell=382086), усиленные [Ледяные шоки](https://ru.wowhead.com/spell=196840) используются только в бою против **1-2** целей, потому что уже на **3** целях это потеря ДПС. В результате чего АоЕ ротация (не считая бурстов) представляет собой буквально спам трех кнопок – [Цепной молнии](https://ru.wowhead.com/spell=188443), [Удара духов стихий](https://ru.wowhead.com/spell=117014) и [Землетрясения](https://ru.wowhead.com/spell=61882).
 
-В бою против одной цели кнопок становится больше – необходимо поддерживать [Огненный шок](https://ru.wowhead.com/spell=188389), кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну (но только если нет активного [Элементаля бури](https://www.wowhead.com/ru/spell=192249)) и поддерживать на цели дебафф [Электрического шока](https://ru.wowhead.com/spell=382086) с помощью [Ледяного шока](https://ru.wowhead.com/spell=196840) и [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+В бою против одной цели кнопок становится больше – необходимо поддерживать [Огненный шок](https://ru.wowhead.com/spell=188389), кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну (но только если нет активного [Элементаля бури](https://www.wowhead.com/ru/spell=192249)) и поддерживать на цели дебафф [Электрического шока](https://ru.wowhead.com/spell=382086) с помощью [Ледяного шока](https://ru.wowhead.com/spell=196840).
 
-Однако [Землетрясение](https://ru.wowhead.com/spell=61882) в этом билде в бою против одной цели не используется, несмотря на взятый талант [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087). [Удар духов стихий](https://ru.wowhead.com/spell=117014) наносит больше урона и его удобнее использовать, так что здесь только плюсы.
+Однако [Землетрясение](https://ru.wowhead.com/spell=61882) в этом билде в бою против одной цели не используется, несмотря на взятый талант [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087). Если нет дополнительных целей, то вся энергия Водоворота тратится на [Удар духов стихий](https://ru.wowhead.com/spell=117014). 
 
 ### Приоритет заклинаний
 
@@ -99,6 +99,8 @@ image: /assets/img/ele_tb2.png
 7. [Удар духов стихий](https://ru.wowhead.com/spell=117014) для траты энергии Водоворота и активации баффа от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
 8. [Молния](https://ru.wowhead.com/spell=188196) с баффом от таланта [Хранитель бурь](https://www.wowhead.com/ru/spell=191634).
 9. [Цепная молния](https://ru.wowhead.com/spell=188443) как филлер.
+10. [Огненный шок](https://ru.wowhead.com/spell=188389) или [Ледяной шок](https://ru.wowhead.com/spell=196840) во время движения.
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -109,6 +111,7 @@ image: /assets/img/ele_tb2.png
 6. [Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
 7. [Удар духов стихий](https://ru.wowhead.com/spell=117014) для траты энергии Водоворота и активации баффа от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
 9. [Цепная молния](https://ru.wowhead.com/spell=188443) как филлер.
+10. [Огненный шок](https://ru.wowhead.com/spell=188389) или [Ледяной шок](https://ru.wowhead.com/spell=196840) во время движения.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -116,7 +119,7 @@ image: /assets/img/ele_tb2.png
 ### Вариации билда
 
 * Если заменить [Повторный толчок](https://www.wowhead.com/ru/spell=273221) на [Прилив мощи](https://www.wowhead.com/ru/spell=262303), то в ротации изменится следующее:
-  * В бою против **1** целей бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Молнию](https://ru.wowhead.com/spell=188196).
+  * В бою против **1** цели бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Молнию](https://ru.wowhead.com/spell=188196).
   * В бою против **2-5** целей бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Огненный шок](https://ru.wowhead.com/spell=188389).
   * В бою против **6+** целей бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Цепную молнию](https://ru.wowhead.com/spell=188443).
 * Если не брать [Удар духов стихий](https://ru.wowhead.com/spell=117014), стоит чередовать [Земной шок](https://ru.wowhead.com/spell=8042) и [Землетрясение](https://ru.wowhead.com/spell=61882) с [Отголосками Великого Раскола](https://ru.wowhead.com/spell=384087) даже в бою против одной цели.
@@ -158,13 +161,14 @@ image: /assets/img/ele_tb2.png
 3. [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) по кулдауну.
 4. [Огненный шок](https://ru.wowhead.com/spell=188389), если отсутствует на цели.
 5. [Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну.
-6. [Перерождение](https://ru.wowhead.com/spell=114050), если [Хранителя бурь](https://www.wowhead.com/ru/spell=191634) не активен.
-7. [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), если [Перерождение](https://www.wowhead.com/ru/spell=114050) не активно.
+6. [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), если [Перерождение](https://www.wowhead.com/ru/spell=114050) не активно.
+7. [Перерождение](https://ru.wowhead.com/spell=114050), если [Хранителя бурь](https://www.wowhead.com/ru/spell=191634) не активен.
 8. [Земной шок](https://ru.wowhead.com/spell=8042) для траты энергии Водоворота.
-9. [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
-10. [Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
-11. [Молния](https://ru.wowhead.com/spell=188196) как филлер.
-12. [Огненный шок](https://ru.wowhead.com/spell=188389) или [Ледяной шок](https://ru.wowhead.com/spell=196840) во время движения.
+9. [Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://www.wowhead.com/ru/spell=191634) и [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
+10. [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
+11. [Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
+12. [Молния](https://ru.wowhead.com/spell=188196) как филлер.
+13. [Огненный шок](https://ru.wowhead.com/spell=188389) или [Ледяной шок](https://ru.wowhead.com/spell=196840) во время движения.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
