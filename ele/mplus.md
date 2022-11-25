@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2022-10-25
+last_update: 2022-11-25
 title: Гайд на Элем Шамана в Мифик+
 wow: 10.0
 toc: true
