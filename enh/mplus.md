@@ -32,6 +32,14 @@ image: /assets/img/enh_tb2.png
 
 <span style="color:#40bf40;font-size:1em;">Плюсы Элема в Мифик+</span>
 
+New talent tree is broad in scope with a lot of room to build the playstyle you want with good results
+Fast paced gameplay with planning plus moment-to-moment decisions mixed together
+Lots of options with very few (if any) truly dead talents on the spec tree
+Most previous iterations of the spec are represented in some way
+Extremely strong lockdown and control tools, alongside a variety of niche but useful utility for Mythic+
+Durable and mobile
+Windfury Totem provides a unique group damage buff
+
 * Большое количество бурстов на каждый пак с различными КД.
 * Имеет самый короткий кулдаун на прерывание заклинаний в игре.
 * Может снимать проклятия, страх и сон, яды, отбрасывать или подкидывать противников, диспелить с врага магию, замедлять и станить группу врагов, превращать врагов в лягушку, а также имеет [Жажду крови](https://ru.wowhead.com/spell=2825).
