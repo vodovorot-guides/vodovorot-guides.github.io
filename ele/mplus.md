@@ -60,7 +60,7 @@ image: /assets/img/ele_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlDk0SUQQBJSAAAAAAQJApkkIkUgUSSSDgEJBA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlDk0SUQQBJSAAAAAAQJApkECJFIlkk0AIJJBA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
@@ -129,7 +129,7 @@ image: /assets/img/ele_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpIJlkEIIlkW4AtkQAAAAAAAlAkSSIkUAlkk0SJARSA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpIJlkEIIlkW4AtkQAAAAAAAlAkSSIkUASSSLlAkkEA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
@@ -211,19 +211,50 @@ image: /assets/img/ele_tb2.png
   * В бою против **2-6** целей бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Огненный шок](https://ru.wowhead.com/spell=188389).
   * В бою против **7+** целей бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Цепную молнию](https://ru.wowhead.com/spell=188443).
 * Если заменить [Перерождение](https://ru.wowhead.com/spell=114050) на [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/), то [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется по проку [Волны лавы](https://www.wowhead.com/ru/spell=77756) вне зависимости от количества целей. Без прока – согласно приоритетом стандартной версии билда.
-* Со взятым талантом [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/) стоит убрать таланты [Клятва провидца](https://www.wowhead.com/ru/spell=381785) и [Далекие пределы](https://www.wowhead.com/ru/spell=381787) и взять талант [Огненная гибель "Усмирителя небес"](https://www.wowhead.com/ru/spell=378310)
+* Со взятым талантом [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/) стоит убрать таланты [Клятва провидца](https://www.wowhead.com/ru/spell=381785) и [Далекие пределы](https://www.wowhead.com/ru/spell=381787) и взять талант [Огненная гибель "Усмирителя небес"](https://www.wowhead.com/ru/spell=378310).
 
 ## Общая ветка талантов
 
 Общая ветка талантов предлагает широкий выбор вспомогательных способностей, которые найдут применение в различных ситуациях.
 
 Два таланта Элем Шаман получает по умолчанию без траты на них очков – это [Выброс лавы](https://ru.wowhead.com/spell=51505) и [Цепная молния](https://ru.wowhead.com/spell=188443). Так же есть несколько основных талантов, которые напрямую влияют на наносимый урон и выживаемость и их стоит брать в любом билде. К ним относятся:
-* 
+* [Астральный сдвиг](https://www.wowhead.com/ru/spell=108271/) – основной сейв.
+* [Лед и пламя](https://www.wowhead.com/ru/spell=382886) – пассивное увеличение урона.
+* [Гнев природы](https://www.wowhead.com/ru/spell=381655) – пассивное увеличение урона.
+* [Улучшенная молния](https://www.wowhead.com/ru/spell=381674) – пассивное увеличение урона.
+* [Защита от стихий](https://www.wowhead.com/ru/spell=381650) – снижает получаемый магический урон.
+* [Защита предков](https://www.wowhead.com/ru/spell=382947) – увеличивает Избежание и Самоисцеление.
+* [Переполняющая сила жизни](https://www.wowhead.com/ru/spell=381689/) – увеличивает здоровья на **8%**.
+* [Пронизыващий ветер](https://www.wowhead.com/ru/spell=57994/) – сбитие кастов, обязательный талант в Мифик+.
+* [Благосклонность предков](https://www.wowhead.com/ru/spell=79206) – позволяет кастовать на ходу.
+* При игре с [Тотемом жидкой магмы](https://www.wowhead.com/ru/spell=192222/) также берутся таланты [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285) и [Зов стихий](https://www.wowhead.com/ru/spell=383011).
+* [Наставления предков](https://www.wowhead.com/ru/spell=108281) – позволяет раз в **2** минуты в течение **10** секунд хилить союзников на процент от нанесенного вами урона. Во время бурстов вы можете практически соло держать всю группу на максимальном здоровье. Не имеет ГКД.
+* [Природная стремительность](https://www.wowhead.com/ru/spell=378081/) – позволяет раз в минуту применить одно заклинание школы магии природы мгновенно. Не имеет ГКД.
+
+Следующие таланты выбираются в зависимости от подземелья и состава группы:
+* [Тотем конденсации](https://www.wowhead.com/ru/spell=192058/) – АоЕ стан на **3** секунды.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снятие магического эффекта с врага.
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снятие проклятия с союзника.
+* [Тотем трепета](https://www.wowhead.com/ru/spell=813) – снятие эффектов страха, подчинения и сна.
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снятие эффектов яда.
+* [Сглаз](https://www.wowhead.com/ru/spell=51514) – контроль одного противника.
+
+<p></p>
+
+{% include button.html name="Подробнее про способности и таланты Элем Шамана" link="/ele/spells.html" %}  
+
+<p></p>
 
 # Характеристики
 
-> под спойлером - подробности о статах
-> под спойлером - Diminishing Returns
+**Интеллект** – лучшая характеристика, так как повышает весь урон и растет от уровня предметов гораздо сильнее, чем вторичные статы. Поэтому в первую очередь стоит смотреть на уровень предметов.
+
+Приоритет статов для Мифик+ для обоих билдов следующий:
+
+* **Интеллект** > **Скорость** = **Критический удар** > **Искусность** > **Универсальность**.
+
+Данный раздел будет дополнен ближе к открытию Мифик+. 
+{: class="bordered"}
 
 # Экипировка
 
