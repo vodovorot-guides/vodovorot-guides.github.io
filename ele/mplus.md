@@ -262,12 +262,16 @@ image: /assets/img/ele_tb2.png
     <img src="/assets/img/ilvl.png"> 
 </p>
 
+До старта первого сезона **14** декабря
+
 Данный раздел будет дополнен ближе к открытию Мифик+. 
 {: class="bordered"}
 
 
 
-# Макросы и WA 
+# Интерфейс
+
+## Макросы
 
 В первую очередь – рекомендую настроить на касты по наведению мыши (mouseover) через стандартный интерфейс. Это позволит кастовать все заклинания без выбора цели, что особенно удобно для [Огненного шока](https://ru.wowhead.com/spell=188389) и [Пронизыващего ветра](https://www.wowhead.com/ru/spell=57994/), но я это использую для всех заклинаний:
 
@@ -338,6 +342,13 @@ image: /assets/img/ele_tb2.png
 /use [combat] Сложные манжеты; [nocombat] Дух предков
 ~~~
 
+## WeakAuras
+
+Рекомендованная сборка от [Amani](https://www.twitch.tv/amanizandalari) – [по этой ссылке](https://wago.io/KbqSzg3ps).
+
+<p align="center">
+    <img src="https://media.wago.io/screenshots/KbqSzg3ps/6351036870c70b6bca4d14f6.gif"> 
+</p>
 
 <p></p>
 
