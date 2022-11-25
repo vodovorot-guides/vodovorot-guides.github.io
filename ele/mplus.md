@@ -97,7 +97,7 @@ image: /assets/img/ele_tb2.png
 5. [Ледяной шок](https://ru.wowhead.com/spell=196840), если на цели нет дебаффа от таланта [Электрический шок](https://ru.wowhead.com/spell=382086).
 6. [Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
 7. [Удар духов стихий](https://ru.wowhead.com/spell=117014) для траты энергии Водоворота и активации баффа от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
-8. [Молния](https://ru.wowhead.com/spell=188196) как филлер с баффом от таланта [Хранитель бурь](https://www.wowhead.com/ru/spell=191634).
+8. [Молния](https://ru.wowhead.com/spell=188196) с баффом от таланта [Хранитель бурь](https://www.wowhead.com/ru/spell=191634).
 9. [Цепная молния](https://ru.wowhead.com/spell=188443) как филлер.
 
 <hr style="height:1px;background-color:#bbb">
