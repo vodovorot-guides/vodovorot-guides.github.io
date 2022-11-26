@@ -30,202 +30,270 @@ image: /assets/img/enh_tb2.png
 
 ## Плюсы и минусы 
 
-<span style="color:#40bf40;font-size:1em;">Плюсы Элема в Мифик+</span>
+<span style="color:#40bf40;font-size:1em;">Плюсы Энха в Мифик+</span>
 
-New talent tree is broad in scope with a lot of room to build the playstyle you want with good results
-Fast paced gameplay with planning plus moment-to-moment decisions mixed together
-Lots of options with very few (if any) truly dead talents on the spec tree
-Most previous iterations of the spec are represented in some way
-Extremely strong lockdown and control tools, alongside a variety of niche but useful utility for Mythic+
-Durable and mobile
-Windfury Totem provides a unique group damage buff
-
-* Большое количество бурстов на каждый пак с различными КД.
-* Имеет самый короткий кулдаун на прерывание заклинаний в игре.
+* Интересный и приятный геймплей, ощущение импакта от нажимаемых кнопок, а также классные анимации.
+* Разнообразное древо талантов и варианты билдов, практически полное отсутствие бесполезных «мертвых» талантов.
+* Имеет три различных вида контроля больших групп врагов – [Громовой удар](https://www.wowhead.com/ru/spell=378779), [Тотем конденсации](https://ru.wowhead.com/spell=192058) и [Раскол](https://www.wowhead.com/ru/spell=197214).
 * Может снимать проклятия, страх и сон, яды, отбрасывать или подкидывать противников, диспелить с врага магию, замедлять и станить группу врагов, превращать врагов в лягушку, а также имеет [Жажду крови](https://ru.wowhead.com/spell=2825).
 * Может подхиливать союзников, а также в соло хилить группу с помощью [Благосклонности предков](https://ru.wowhead.com/spell=108281) во время бурстов на АоЕ.
 
-<span style="color:#ff4040;font-size:1em;">Минусы Элема в Мифик+</span>
-* В зависимости от билда, ротация может показаться неудобной и переусложненной.
-* Большая часть урона на АоЕ зависит от местоположения врагов – если танк выведет их из зоны [Землетрясения](https://ru.wowhead.com/spell=61882), то ДПС резко упадет.
-* Требуется время для набора энергии чтобы наносить урон на АоЕ, особенно при отсутствии бурстов.
-* Не имеет иммуна, для выживания следует полагаться на собственное исцеление и [Астральный сдвиг](https://ru.wowhead.com/spell=108271).
+<span style="color:#ff4040;font-size:1em;">Минусы Энха в Мифик+</span>
+
+* Большое количество кнопок, необходимых для игры на адекватном уровне. 
+* Неправильный отыгрыш приоритетов способностей может привести к простоям и потере урона, так что необходимо продумывать нажимаемые кнопки наперед.
+* Основные АоЕ способности имеют кап **5-6** целей.	
+* Не имеет иммуна (не считая [Реинкарнации](https://ru.wowhead.com/spell=20608), для выживания следует полагаться на собственное исцеление и [Астральный сдвиг](https://ru.wowhead.com/spell=108271).
 
 # Билды талантов
 
 ## Общая информация
 
-Древо талантов Элема условно разделено на две стороны – слева расположены таланты, усиливающие заклинания <span style="color:#26d22b;font-size:1em;">**природы**</span> ([Молния](https://ru.wowhead.com/spell=188196), [Цепная молния](https://ru.wowhead.com/spell=188443)), которые обычно называют «молниевые», а справа находятся таланты, усиливающие школу магии <span style="color:#f16f25;font-size:1em;">**огня**</span> ([Выброс лавы](https://ru.wowhead.com/spell=51505), [Огненный шок](https://ru.wowhead.com/spell=188389)). В середине ветки расположены усиления энергии [Водоворота](https://ru.wowhead.com/spell=343725), [Искусности](https://ru.wowhead.com/spell=168534) и другие общие таланты.
+Древо талантов Энха подразумевает использование двух различных билдов – с одной стороны расположены усиления <span style="color:#FFFFFF;font-size:1em;">**физического**</span> урона ([Ветра рока](https://www.wowhead.com/ru/spell=384352), [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757/)), а с другой –  <span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>стихийного</strong></span> ([Вскипание лавы](https://www.wowhead.com/ru/spell=60103), [Огненный шок](https://ru.wowhead.com/spell=188389), [Духи стихий](https://ru.wowhead.com/spell=362624)).
 
-И молниевые, и огненные билды актуальны в зависимости от подземелья, состава группы и ваших личных предпочтений. Огненные билды более бурстовые и лучше показывают себя лучше в подземельях с большими АоЕ запулами, тогда как молниевые билды не так сильно зависят от бурстов и легче подстраиваются под разные паттерны боя.
+В середине ветки расположены усиления [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и основные АоЕ способности – [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) и усиление [Цепной молнии](https://www.wowhead.com/ru/spell=188443/). Эти таланты являются **обязательными** в любом билде для Мифик+, так как без них практически нет нормально АоЕ урона. Другой талант, который также отлично себя показывает на АоЕ бою – [Раскол](https://www.wowhead.com/ru/spell=197214), к тому же он не имеет ограничения на количество целей, плюс усиливается и от физического, и от стихийного билдов.
+
+Соответственно билды Энха в Мифик+ можно разделить на **физические**, **стихийные**, и **гибридные** варианты.
+
+Основа физических билдов – способность [Ветра рока](https://www.wowhead.com/ru/spell=384352), которая является основным бурстом с кулдауном полторы минуты, а также усиления [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757/) и [Удара бури](https://www.wowhead.com/ru/spell=17364). Талант [Укоренившиеся стихии](https://ru.wowhead.com/spell=378270) дает прок [Перерождения](https://ru.wowhead.com/spell=114051) на **6** секунд, но за счет его рандомности на него нельзя серьезно рассчитывать как на бурст, так как он может не прокнуть в нужный момент.
+
+В стихийных билдах активно используется [Огненный шок](https://ru.wowhead.com/spell=188389) и [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), и их его усиления – [Горячая рука](https://www.wowhead.com/ru/spell=201900), [Пепельный катализатор](https://www.wowhead.com/ru/spell=390370) и [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046). Вместо обычных волков от таланта [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/), которые по умолчанию усиливает физический урон, призываются стихийные версии, за счет таланта [Духи стихий](https://ru.wowhead.com/spell=362624). Бурстом в стихийном билде выступает [Первозданная волна](https://ru.wowhead.com/spell=375982), которая за счет таланта [Расколотые стихии](https://ru.wowhead.com/spell=382042) дает **60%** Скорости на **12** секунд.
+
+В гибридном берутся и [Ветра рока](https://www.wowhead.com/ru/spell=384352), и [Первозданная волна](https://ru.wowhead.com/spell=375982), что обеспечивает **60%** Скорости под всю длительность бурста от [Ветров рока](https://www.wowhead.com/ru/spell=384352). Но в этом билде чуть слабее урон по одной цели, чем в физическом и стихийном.
+
+Обязательные таланты для любого Мифик+ это [Буря с градом](https://www.wowhead.com/ru/spell=334195) либо [Кольцо огня](https://www.wowhead.com/ru/spell=333974/). Можно выбрать любой из них, у каждого из талантов есть свои плюсы и минусы:
+* [Буря с градом](https://www.wowhead.com/ru/spell=334195) чуть сложнее в реализации и требует еще один талант для полной работоспособности – [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/). Но [Буря с градом](https://www.wowhead.com/ru/spell=334195) дает чуть больше урона в **1-3** цели, чем [Кольцо огня](https://www.wowhead.com/ru/spell=333974/).
+
+* [Кольцо огня](https://www.wowhead.com/ru/spell=333974/) проще для реализации и дает большое количество стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) за счет таланта [Кружащий Водоворот](https://www.wowhead.com/ru/spell=384359), но наносит меньше урона в бою против одной цели.
 
 Не бойтесь экспериментировать с билдами если вы считаете, что какие-то таланты лучше подойдут в определенной ситуации. 
 {: class="bordered"}
 
-Один из талантов, который будет представлен в любом билде Мифик+ это [Хранитель бурь](https://www.wowhead.com/ru/spell=191634). Он дает отличный бурст раз в минуту, и будет полезен как на АоЕ, так и в бою против одной цели. 
-
-## Молниевый билд
+## Физический билд
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlDk0SUQQBJSAAAAAAQJApkECJFIlkk0AIJJBA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSKQSCJJCIJtEJAAAAAAAAAAAAAUiQESiQUgUSSSBQJRSgC?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
-Данный билд является по сути «стандартным» билдом для Мифик+ и точкой отсчета для экспериментов. Довольно сбалансированный билд в соотношении урона по одной цели и АоЕ. Основные бурсты это [Элементаль бури](https://www.wowhead.com/ru/spell=192249) и [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), кулдаун которых к тому же сокращается за счет [Вспышки молнии](https://www.wowhead.com/ru/spell=381936).
+[Ветра рока](https://www.wowhead.com/ru/spell=384352) – основной бурст талант физического билда. Раз в полторы минуты он дает бафф на **8** секунд, утраивающий шанс срабатывания [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757/) и увеличивающий его урон на **10%**. При этом [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), как и [Раскол](https://www.wowhead.com/ru/spell=197214), являются ударами с правой руки и при использовании под баффом [Ветров рока](https://www.wowhead.com/ru/spell=384352) вызывают срабатывание [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757/) по всем пораженным целям. 
 
-Несмотря на взятые таланты [Ледяная ярость](https://ru.wowhead.com/spell=210714) и [Электрический шок](https://ru.wowhead.com/spell=382086), усиленные [Ледяные шоки](https://ru.wowhead.com/spell=196840) используются только в бою против **1-2** целей, потому что уже на **3** целях это потеря ДПС. В результате чего АоЕ ротация (не считая бурстов) представляет собой буквально спам трех кнопок – [Цепной молнии](https://ru.wowhead.com/spell=188443), [Удара духов стихий](https://ru.wowhead.com/spell=117014) и [Землетрясения](https://ru.wowhead.com/spell=61882). Главное не забывать менять цели при касте спендеров для равномерного развешивания [Грозового разрядника](https://www.wowhead.com/spell=210689).
+Следовательно основная задача на АоЕ во активного баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352) – использовать [Раскол](https://www.wowhead.com/ru/spell=197214) и максимальное количество раз прожать [Сокрушающую молнию](https://www.wowhead.com/ru/spell=187874). Кулдаун [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874) составляет **12** секунд и снижается Скоростью, но его можно сократить еще больше за счет [Цепной молнии](https://ru.wowhead.com/spell=188443) с талантом [Сокрушающие бури](https://www.wowhead.com/ru/spell=334308). [Цепная молния](https://ru.wowhead.com/spell=188443) сокращает кулдаун [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874) на **1** секунду за каждого пораженного противника, и поражает до **5** противников.
 
-В бою против одной цели кнопок становится больше – необходимо поддерживать [Огненный шок](https://ru.wowhead.com/spell=188389), кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну (но только если нет активного [Элементаля бури](https://www.wowhead.com/ru/spell=192249)) и поддерживать на цели дебафф [Электрического шока](https://ru.wowhead.com/spell=382086) с помощью [Ледяного шока](https://ru.wowhead.com/spell=196840).
+Не забывайте также перед [Ветрами рока](https://www.wowhead.com/ru/spell=384352) использовать [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/), который усиливает весь наносимый физический урон на **32%** на **15** секунд.
 
-Однако [Землетрясение](https://ru.wowhead.com/spell=61882) в этом билде в бою против одной цели не используется, несмотря на взятый талант [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087). Если нет дополнительных целей, то вся энергия Водоворота тратится на [Удар духов стихий](https://ru.wowhead.com/spell=117014). 
+Ротация вне бурста в физическом билде заключается в трате стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) на [Цепную молнию](https://ru.wowhead.com/spell=188443) (желательно при **10** стаках) и использовании по кулдауну [Раскола](https://www.wowhead.com/ru/spell=197214), [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874), [Ледяного клинка](https://www.wowhead.com/ru/spell=342240/), [Удара бури](https://www.wowhead.com/ru/spell=17364) и [Вскипания лавы](https://www.wowhead.com/ru/spell=60103).
+
+[Вскипание лавы](https://www.wowhead.com/ru/spell=60103) с талантом [Натиск лавы](https://www.wowhead.com/ru/spell=334033) распространяет [Огненные шоки](https://ru.wowhead.com/spell=188389) на **4** ближайших союзников и этим тоже не стоит пренебрегать. Используйте [Огненной шок](https://ru.wowhead.com/spell=188389) при подходе к паку и сразу же спредайте его [Вскипанием лавы](https://www.wowhead.com/ru/spell=60103), после чего переходите к другим способностям.
+
+После каждой траты стаков стоит также использовать [Ледяной шок](https://www.wowhead.com/ru/spell=196840/), который усиливается талантом [Буря с градом](https://www.wowhead.com/ru/spell=334195/) и баффом после использования [Ледяного клинка](https://www.wowhead.com/ru/spell=342240/).
+
+Еще один важный момент – реализация таланта [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444), который автоматически применяет [Молнию](https://www.wowhead.com/ru/spell=188196/) или [Цепную молнию](https://ru.wowhead.com/spell=188443) к текущей цели при использовании [Удара ветра](https://www.wowhead.com/ru/spell=115356) (это [Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)). Выбор между [Молнии](https://www.wowhead.com/ru/spell=188196/) или [Цепной молнии](https://ru.wowhead.com/spell=188443) зависит от последнего примененного заклинания, так что если в бою против одной цели у вас автоматически применяется [Цепная молния](https://ru.wowhead.com/spell=188443), то стоит вручную «перезаписать» его на [Молнию](https://www.wowhead.com/ru/spell=188196/) вручную. [WA для отслеживания](https://wago.io/DT4YbYlpN) [Воззвания к Ториму](https://www.wowhead.com/ru/spell=384444) (она же есть в моей [сборке на Энха](https://wago.io/HJxL_fG7C)).
 
 ### Приоритет заклинаний
 
 **Бой против одной цели:**
-1. [Элементаль бури](https://www.wowhead.com/ru/spell=192249) по кулдауну.
-2. [Огненный шок](https://ru.wowhead.com/spell=188389), если отсутствует на цели.
-3. [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) по кулдауну.
-4. [Ледяная ярость](https://ru.wowhead.com/spell=210714) по кулдауну.
-5. [Ледяной шок](https://ru.wowhead.com/spell=196840), если на цели нет дебаффа от таланта [Электрический шок](https://ru.wowhead.com/spell=382086).
-6. [Удар духов стихий](https://ru.wowhead.com/spell=117014) для траты энергии Водоворота, желательно с баффом от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-8. [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
-9. [Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
-10. [Молния](https://ru.wowhead.com/spell=188196) как филлер.
-11. [Огненный шок](https://ru.wowhead.com/spell=188389) или [Ледяной шок](https://ru.wowhead.com/spell=196840) во время движения.
+1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) по кулдауну.
+2. [Ветра рока](https://www.wowhead.com/ru/spell=384352), если в ближайшее время не будет дополнительных аддов.
+3. [Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
+4. [Удар бури](https://www.wowhead.com/ru/spell=17364) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+5. [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+6. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+7. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+8. [Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
+9. [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) по кулдауну.
+10. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
+11. [Выброс лавы](https://ru.wowhead.com/spell=51505) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+12. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+13. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
+14. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по кулдауну.
+15. [Выброс лавы](https://ru.wowhead.com/spell=51505) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+16. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+17. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, если в ближайшее время не будет дополнительных аддов.
+18. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) по кулдауну.
+19. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
+20. [Огненный шок](https://ru.wowhead.com/spell=188389), если все остальные способности не доступны.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-**Бой против 2 целей:**
-1. [Элементаль бури](https://www.wowhead.com/ru/spell=192249) по кулдауну.
-3. [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) по кулдауну.
-4. [Ледяная ярость](https://ru.wowhead.com/spell=210714) по кулдауну.
-5. [Ледяной шок](https://ru.wowhead.com/spell=196840), если на цели нет дебаффа от таланта [Электрический шок](https://ru.wowhead.com/spell=382086).
-6. [Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
-7. [Удар духов стихий](https://ru.wowhead.com/spell=117014) для траты энергии Водоворота и активации баффа от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
-8. [Молния](https://ru.wowhead.com/spell=188196) с баффом от таланта [Хранитель бурь](https://www.wowhead.com/ru/spell=191634).
-9. [Цепная молния](https://ru.wowhead.com/spell=188443) как филлер.
-10. [Огненный шок](https://ru.wowhead.com/spell=188389) или [Ледяной шок](https://ru.wowhead.com/spell=196840) во время движения.
+**Бой против 2+ целей:**
+1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) по кулдауну.
+2. [Огненный шок](https://ru.wowhead.com/spell=188389), если его нет ни на одной из целей.
+3. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389), а на соседних целях [Огненный шок](https://ru.wowhead.com/spell=188389) отсутствует.
+4. [Ветра рока](https://www.wowhead.com/ru/spell=384352) по кулдауну.
+5. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352) или если нет активного баффа от этого заклинания.
+6. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+7. [Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
+8. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+9. [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) по кулдауну.
+10. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
+11. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, желательно с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+12. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+13. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
+14. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
+15. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по кулдауну.
+16. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+17. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) по кулдауну.
+18. [Огненный шок](https://ru.wowhead.com/spell=188389), если остальные способности не доступны.
+
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-**Бой против 3+ целей:**
-1. [Элементаль бури](https://www.wowhead.com/ru/spell=192249) по кулдауну.
-3. [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) по кулдауну.
-6. [Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
-7. [Удар духов стихий](https://ru.wowhead.com/spell=117014) для траты энергии Водоворота и активации баффа от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
-9. [Цепная молния](https://ru.wowhead.com/spell=188443) как филлер.
-10. [Огненный шок](https://ru.wowhead.com/spell=188389) или [Ледяной шок](https://ru.wowhead.com/spell=196840) во время движения.
+### Вариации билда
+* Если вместо [Укоренившихся стихий](https://ru.wowhead.com/spell=378270) взять [Перерождение](https://ru.wowhead.com/spell=114051), то это даст более контролируемый бурст, который следует прожимать под [Ветра рока](https://www.wowhead.com/ru/spell=384352), но трехминутный кулдаун [Перерождения](https://ru.wowhead.com/spell=114051) нужно отыгрывать и по возможности запуливать под него большие группы врагов.
+* Если вместо [Укоренившихся стихий](https://ru.wowhead.com/spell=378270) взять [Первозданную волну](https://www.wowhead.com/ru/spell=375982), то получится **гибридный** билд, который будет описан далее в этом руководстве.
+* Если взять такие таланты, как [Свирепость бури](https://www.wowhead.com/ru/spell=319930) и [Сливающиеся бури](https://www.wowhead.com/ru/spell=384363), то это поднимет ценность [Удара бури](https://www.wowhead.com/ru/spell=17364) на АоЕ.
+* Если заменить [Бурю с градом](https://www.wowhead.com/ru/spell=334195) на [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), то его приоритет будет примерно равен усиленному [Ледяному шоку](https://www.wowhead.com/ru/spell=196840/), а приоритет [Ледяного клинка](https://www.wowhead.com/ru/spell=342240/) упадет чуть ниже [Удара бури](https://www.wowhead.com/ru/spell=17364).
+
+
+## Cтихийный билд
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSaRCiIhIJJUSkAAAAAAAAAAAAAQJCRIJCRBSJJJFAlEJBA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+
+<p></p>
+
+Основа стихийного билда – спред [Огненных шоков](https://ru.wowhead.com/spell=188389) на **6** целей (максимальное количество активных дебаффов) и последующее их усиление с помощью таланта [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046). В этом также помогают таланты [Пепельный катализатор](https://www.wowhead.com/ru/spell=390370/) и [Горячая рука](https://www.wowhead.com/ru/spell=201900), сокращающие кулдаун [Вскипания лавы](https://www.wowhead.com/ru/spell=60103).
+
+Также [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) с талантом [Натиск лавы](https://www.wowhead.com/ru/spell=334033) распространяет [Огненные шоки](https://ru.wowhead.com/spell=188389) на **4** ближайших союзников, нанося при этом урон при наложении. Стоит использовать [Огненной шок](https://ru.wowhead.com/spell=188389) при подходе к паку и сразу же спредать его [Вскипанием лавы](https://www.wowhead.com/ru/spell=60103), после чего применить [Первозданную волну](https://ru.wowhead.com/spell=375982) и [Молнию](https://www.wowhead.com/ru/spell=188196/). Это даст **60%** бонус к Скорости (за **6** целей под [Огненным шоком](https://ru.wowhead.com/spell=188389)), что является основным бурстом стихийного билда.
+
+Когда под [Огненными шоками](https://ru.wowhead.com/spell=188389) находятся максимальное количество целей следует кастовать [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), которое наносит отличный АоЕ урон. С талантом [Кружащий Водоворот](https://www.wowhead.com/ru/spell=384359) оно также дает довольно много стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), так что не стоит кастовать его на максимальном количестве стаков, сначала потратьте их на [Цепную молнию](https://ru.wowhead.com/spell=188443).
+
+В стихийном билде также берется [Удар духов стихий](https://www.wowhead.com/ru/spell=117014), хотя его использование в Мифик+ опционально. Но этот талант дает отличный урон в бою против одной цели, и особенно с активными волками от таланта [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533), которые в сочетании с талантом [Духи стихий](https://www.wowhead.com/ru/spell=262624) увеличивают не физический урон, а стихийный. При этом на АоЕ [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) только в том случае, если активны волки от [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533)
+
+### Приоритет заклинаний
+
+**Бой против одной цели:**
+1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) по кулдауну.
+2. [Первозданная волна](https://ru.wowhead.com/spell=375982), если в ближайшее время не будет дополнительных аддов.
+3. [Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
+4. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) при активном баффе [Горячая рука](https://www.wowhead.com/ru/spell=201900) или при наличии **6+** стаков от таланта [Пепельный катализатор](https://www.wowhead.com/ru/spell=390370/).
+5. [Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://ru.wowhead.com/spell=375982) и при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+6. [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) если у вас **2** заряда этой способности и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), либо если **1** заряд и **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+7. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+8. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
+9. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по кулдауну.
+10. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+11. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, если в ближайшее время не будет дополнительных аддов.
+12. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/) по кулдауну.
+13. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) по кулдауну.
+19. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
+20. [Огненный шок](https://ru.wowhead.com/spell=188389), если остальные способности не доступны.
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+**Бой против 2+ целей:**
+1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) по кулдауну.
+2. [Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну.
+3. [Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://ru.wowhead.com/spell=375982), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество врагов.
+4. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+5. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество врагов.
+6. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
+7. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) и без активного дебаффа [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046).
+8. [Огненный шок](https://ru.wowhead.com/spell=188389), если под этим дебаффом не максимальное количество врагов.
+9. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну.
+10. [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и активных волках от [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533).
+11. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
+12. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
+13. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если в бою не более **2** целей.
+14. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+15. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/), если остальные способности не доступны.
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 ### Вариации билда
 
-* Если заменить [Повторный толчок](https://www.wowhead.com/ru/spell=273221) на [Прилив мощи](https://www.wowhead.com/ru/spell=262303), то в ротации изменится следующее:
-  * В бою против **1** цели бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Молнию](https://ru.wowhead.com/spell=188196).
-  * В бою против **2-5** целей бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Огненный шок](https://ru.wowhead.com/spell=188389).
-  * В бою против **6+** целей бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Цепную молнию](https://ru.wowhead.com/spell=188443).
-* Если не брать [Удар духов стихий](https://ru.wowhead.com/spell=117014), стоит чередовать [Земной шок](https://ru.wowhead.com/spell=8042) и [Землетрясение](https://ru.wowhead.com/spell=61882) с [Отголосками Великого Раскола](https://ru.wowhead.com/spell=384087) даже в бою против одной цели.
-* Если взять талант [Огненная гибель "Усмирителя небес"](https://www.wowhead.com/ru/spell=378310) то вы будете чаще откатывать [Элементаля бури](https://www.wowhead.com/ru/spell=192249). Обычно этот талант берется с [Приливом мощи](https://www.wowhead.com/ru/spell=262303) и основной задачей стоит развешивание максимального количества [Огненных шоков](https://ru.wowhead.com/spell=188389).
+* Если заменить [Кольцо огня](https://www.wowhead.com/ru/spell=333974/) на [Бурю с градом](https://www.wowhead.com/ru/spell=334195) и взять [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/), то приоритет усиленного [Ледяного шока](https://www.wowhead.com/ru/spell=196840/) будет примерно равен [Кольцу огня](https://www.wowhead.com/ru/spell=333974/) с максимальным количеством [Огненных шоков](https://ru.wowhead.com/spell=188389).
+* Если вместо талантов [Горячая рука](https://www.wowhead.com/ru/spell=201900), [Пепельный катализатор](https://www.wowhead.com/ru/spell=390370) и [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046) взять таланты на физический урон, вплоть до [Ветров рока](https://www.wowhead.com/ru/spell=384352), то получится аналог гибридного билда, описанного дальше в этом руководстве.
+* Если взять такие таланты, как [Свирепость бури](https://www.wowhead.com/ru/spell=319930) и [Сливающиеся бури](https://www.wowhead.com/ru/spell=384363), то это поднимет ценность [Удара бури](https://www.wowhead.com/ru/spell=17364) на АоЕ.
 
-
-## Огненный билд
+## Гибридный билд
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpIJlkEIIlkW4AtkQAAAAAAAlAkSSIkUASSSLlAkkEA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSaAJikISik0SkAAAAAAAAAAAAAQJCRIJCRBSJJJFAlEJBA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
-Огненный билд является более бурстовым, за счет сочетания сразу нескольких способностей:
-* [Перерождение](https://ru.wowhead.com/spell=114050), которое продлевается с помощью таланта [Дальние пределы](https://ru.wowhead.com/spell=381787).
-* [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) как бурст с коротким кулдауном.
-* [Первозданная волна](https://ru.wowhead.com/spell=375982) с баффом на Скорость от таланта [Расколотые стихии](https://ru.wowhead.com/spell=382042).
-* [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/), который помогает развешивать [Огненные шоки](https://ru.wowhead.com/spell=188389).
 
-Этот билд не зависит от проков таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/), так как основная идея билда – реализация [Перерождения](https://ru.wowhead.com/spell=114050) на больших запулах, где гораздо эффективней версия через двухминутный кулдаун, а не прок от [Выброса лавы](https://ru.wowhead.com/spell=51505).
+Данный билд сочетает в себе оба бурста физического и стихийного билдов – [Ветра рока](https://www.wowhead.com/ru/spell=384352) и [Первозданную волну](https://ru.wowhead.com/spell=375982). В результате бурст от [Ветров рока](https://www.wowhead.com/ru/spell=384352) будет усилен дополнительной Скоростью от [Расколотых стихий](https://ru.wowhead.com/spell=382042), что очень сильно увеличивает урон на АоЕ.
 
-Однако в случае неудачного развития событий в этом билде вы потеряет гораздо больше, чем в молниевом. Данный билд критичен к большим запулам и лучше всего себя раскрывает в подземельях типа Академии Алгет'ар, а также в скоординированной группе.
-{: class="bordered"}
+Во время активных [Ветров рока](https://www.wowhead.com/ru/spell=384352) с баффом на Скорость получится сдать гораздо больше [Сокрушающих молний](https://www.wowhead.com/ru/spell=187874), чем без дополнительной Скорости. Нередко получается чередовать подряд только [Сокрушающую молнию](https://www.wowhead.com/ru/spell=187874) и [Цепную молнию](https://ru.wowhead.com/spell=188443), которые усиливают друг друга. [Сокрушающая молнию](https://www.wowhead.com/ru/spell=187874) под [Ветрами рока](https://www.wowhead.com/ru/spell=384352) часто дает достаточно стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для применения [Цепной молнии](https://ru.wowhead.com/spell=188443), которая в свою очередь снижает кулдаун и увеличивает урон следующей [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874).
 
-Основная идея билда – мега-бурст через комбинацию различных талантов. Сначала стоит скастовать [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), потом с помощью [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/) и сброса его кулдауна от [Возвращения тотемов](https://www.wowhead.com/ru/spell=108285/) наложить [Огненные шоки](https://ru.wowhead.com/spell=188389), после чего скастовать [Первозданну волну](https://ru.wowhead.com/spell=375982), затем [Перерождение](https://ru.wowhead.com/spell=114050) и один [Выброс лавы](https://ru.wowhead.com/spell=51505).
+Этот билд не зависит от рандома, а только от реализации ваших бурстов и понимания таймингов. Здесь не используется талант [Укоренившиеся стихии](https://ru.wowhead.com/spell=378270), а волки от таланта [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/) всегда дают фиксированный бафф на физический урон, а не один из трех стихийных.
 
-В результате чего вы получите **15** секунд [Перерождения](https://ru.wowhead.com/spell=114050) с баффом **60%** Скорости от таланта [Расколотые стихии](https://ru.wowhead.com/spell=382042), а ваша [Цепная молния](https://ru.wowhead.com/spell=188443) превратится в [Поток лавы](https://ru.wowhead.com/spell=114074). Плюс каждое [Землетрясение](https://ru.wowhead.com/spell=61882) будет на **2.5** секунд продлевать длительность [Перерождения](https://ru.wowhead.com/spell=114050) за счет таланта [Дальние пределы](https://ru.wowhead.com/spell=381787). На достатончно большом запуле это может дать более **40** секунд активного [Перерождения](https://ru.wowhead.com/spell=114050)!
+Еще один плюс этого билда – отсутствие необходимости менять цели для реализации дебаффа от таланта [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046), как это следует делать в стихийном билде. Главное первым [Вскипанием лавы](https://www.wowhead.com/ru/spell=60103) ударить именно по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389), чтобы развесить этот дебафф на **4** дополнительные цели. Здесь нет сокрашения кулдауна [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) от таланта [Пепельный катализатор](https://www.wowhead.com/ru/spell=390370), поэтому нужно быть внимательным и не промахнуться по цели без [Огненного шока](https://ru.wowhead.com/spell=188389).
 
-В бою против одной цели этот билд слабее, чем молниевый, так что это будет не лучший выбор на [Тиранические](https://www.wowhead.com/ru/affix=9/) недели.
-{: class="bordered"}
+К минусам гибридного билда можно отнести его чуть более низкий урон в бою против одной цели, в сравнении с физическим и стихийным. Однако это окупается его бурст потенциалом на АоЕ, если вы сможете полноценно реализовать свои кулдауны.
+
 
 ### Приоритет заклинаний
 
 **Бой против одной цели:**
-1. [Элементаль огня](https://www.wowhead.com/ru/spell=198067) по кулдауну.
-2. [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/), если кулдаун [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/) больше **45** секунд.
-3. [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) по кулдауну.
-4. [Огненный шок](https://ru.wowhead.com/spell=188389), если отсутствует на цели.
-5. [Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну.
-6. [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), если [Перерождение](https://www.wowhead.com/ru/spell=114050) не активно.
-9. [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
-7. [Перерождение](https://ru.wowhead.com/spell=114050), если нет баффа от [Хранителя бурь](https://www.wowhead.com/ru/spell=191634) не активен.
-8. [Земной шок](https://ru.wowhead.com/spell=8042) для траты энергии Водоворота.
-10. [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
-11. [Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
-12. [Молния](https://ru.wowhead.com/spell=188196) как филлер.
-13. [Огненный шок](https://ru.wowhead.com/spell=188389) или [Ледяной шок](https://ru.wowhead.com/spell=196840) во время движения.
+1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) по кулдауну.
+2. [Первозданная волна](https://ru.wowhead.com/spell=375982), если в ближайшее время не будет дополнительных аддов.
+3. [Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
+4. [Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://ru.wowhead.com/spell=375982) и при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+5. [Ветра рока](https://www.wowhead.com/ru/spell=384352), если в ближайшее время не будет дополнительных аддов.
+6. [Удар бури](https://www.wowhead.com/ru/spell=17364) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+7. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+8. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+9. [Выброс лавы](https://ru.wowhead.com/spell=51505) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+10. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+11. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
+12. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по кулдауну.
+13. [Выброс лавы](https://ru.wowhead.com/spell=51505) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+14. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+15. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, если в ближайшее время не будет дополнительных аддов.
+16. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/) по кулдауну.
+17. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) по кулдауну.
+18. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
+19. [Огненный шок](https://ru.wowhead.com/spell=188389), если все остальные способности не доступны.
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-**Бой против 2 целей:**
-1. [Элементаль огня](https://www.wowhead.com/ru/spell=198067) по кулдауну.
-2. [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) по кулдауну.
-3. [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/), если кулдаун [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/) больше **45** секунд.
-4. [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) по кулдауну.
-5. [Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну, на цель с минимальной длительностью [Огненного шока](https://ru.wowhead.com/spell=188389).
-6. [Огненный шок](https://ru.wowhead.com/spell=188389), если отсутствует на одной из целей.
-7. [Перерождение](https://ru.wowhead.com/spell=114050)
-8. [Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756).
-9. [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
-10. [Землетрясение](https://ru.wowhead.com/spell=61882) для траты энергии Водоворота, желательно с баффом от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-11. [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
-12. [Цепная молния](https://ru.wowhead.com/spell=188443) как филлер.
+**Бой против 2+ целей:**
+
+1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) по кулдауну.
+2. [Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну.
+3. [Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://ru.wowhead.com/spell=375982), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество врагов.
+4. [Ветра рока](https://www.wowhead.com/ru/spell=384352) по кулдауну.
+5. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352) или если нет активного баффа от этого заклинания.
+6. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+8. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352), либо при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) без баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352)
+6. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество врагов.
+7. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
+8. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) и без активного дебаффа [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046).
+9. [Огненный шок](https://ru.wowhead.com/spell=188389), если под этим дебаффом не максимальное количество врагов.
+10. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, желательно с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+12. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
+13. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
+14. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если в бою не более **2** целей.
+15. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+16. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/), если остальные способности не доступны.
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-**Бой против 3+ целей:**
-1. [Элементаль огня](https://www.wowhead.com/ru/spell=198067) по кулдауну.
-2. [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) по кулдауну.
-3. [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/), если кулдаун [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/) больше **45** секунд.
-4. [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) по кулдауну.
-5. [Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну, на цель с минимальной длительностью [Огненного шока](https://ru.wowhead.com/spell=188389).
-6. [Огненный шок](https://ru.wowhead.com/spell=188389), если отсутствует на одной из целей.
-7. [Перерождение](https://ru.wowhead.com/spell=114050)
-8. [Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756), если отсутствует бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-9. [Выброс лавы](https://ru.wowhead.com/spell=51505) без прока [Волны лавы](https://www.wowhead.com/ru/spell=77756) кастуется только если в бою не более **3** целей.
-10. [Землетрясение](https://ru.wowhead.com/spell=61882) для траты энергии Водоворота.
-11. [Цепная молния](https://ru.wowhead.com/spell=188443) как филлер.
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-### Вариации билда
-
-* Если заменить [Повторный толчок](https://www.wowhead.com/ru/spell=273221) на [Прилив мощи](https://www.wowhead.com/ru/spell=262303), то в ротации изменится следующее:
-  * В бою против **1** цели бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Молнию](https://ru.wowhead.com/spell=188196).
-  * В бою против **2-6** целей бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Огненный шок](https://ru.wowhead.com/spell=188389).
-  * В бою против **7+** целей бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303) стоит тратить на [Цепную молнию](https://ru.wowhead.com/spell=188443).
-* Если заменить [Перерождение](https://ru.wowhead.com/spell=114050) на [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/), то [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется по проку [Волны лавы](https://www.wowhead.com/ru/spell=77756) вне зависимости от количества целей. Без прока – согласно приоритетом стандартной версии билда.
-* Со взятым талантом [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/) стоит убрать таланты [Клятва провидца](https://www.wowhead.com/ru/spell=381785) и [Далекие пределы](https://www.wowhead.com/ru/spell=381787) и взять талант [Огненная гибель "Усмирителя небес"](https://www.wowhead.com/ru/spell=378310).
 
 ## Общая ветка талантов
 
 Общая ветка талантов предлагает широкий выбор вспомогательных способностей, которые найдут применение в различных ситуациях.
 
-Два таланта Элем Шаман получает по умолчанию без траты на них очков – это [Выброс лавы](https://ru.wowhead.com/spell=51505) и [Цепная молния](https://ru.wowhead.com/spell=188443). Так же есть несколько основных талантов, которые напрямую влияют на наносимый урон и выживаемость и их стоит брать в любом билде. К ним относятся:
+Два таланта Энх Шаман получает по умолчанию без траты на них очков – это [Цепная молния](https://ru.wowhead.com/spell=188443) и [Оружие Водоворота](https://www.wowhead.com/ru/spell=187880). Так же есть несколько основных талантов, которые напрямую влияют на наносимый урон и выживаемость и их стоит брать в любом билде. К ним относятся:
+* [Шквал](https://www.wowhead.com/ru/spell=382888) – пассивное увеличение урона.
 * [Астральный сдвиг](https://www.wowhead.com/ru/spell=108271/) – основной сейв.
 * [Лед и пламя](https://www.wowhead.com/ru/spell=382886) – пассивное увеличение урона.
 * [Гнев природы](https://www.wowhead.com/ru/spell=381655) – пассивное увеличение урона.
@@ -234,10 +302,8 @@ Windfury Totem provides a unique group damage buff
 * [Защита предков](https://www.wowhead.com/ru/spell=382947) – увеличивает Избежание и Самоисцеление.
 * [Переполняющая сила жизни](https://www.wowhead.com/ru/spell=381689/) – увеличивает здоровья на **8%**.
 * [Пронизыващий ветер](https://www.wowhead.com/ru/spell=57994/) – сбитие кастов, обязательный талант в Мифик+.
-* [Благосклонность предков](https://www.wowhead.com/ru/spell=79206) – позволяет кастовать на ходу.
-* При игре с [Тотемом жидкой магмы](https://www.wowhead.com/ru/spell=192222/) также берутся таланты [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285) и [Зов стихий](https://www.wowhead.com/ru/spell=383011).
+* [Поступь духов](https://www.wowhead.com/ru/spell=58875/) – увеличение скорости передвижения и снятие ограничивающих передвижение эффектов.
 * [Наставления предков](https://www.wowhead.com/ru/spell=108281) – позволяет раз в **2** минуты в течение **10** секунд хилить союзников на процент от нанесенного вами урона. Во время бурстов вы можете практически соло держать всю группу на максимальном здоровье. Не имеет ГКД.
-* [Природная стремительность](https://www.wowhead.com/ru/spell=378081/) – позволяет раз в минуту применить одно заклинание школы магии природы мгновенно. Не имеет ГКД.
 
 Следующие таланты выбираются в зависимости от подземелья и состава группы:
 * [Тотем конденсации](https://www.wowhead.com/ru/spell=192058/) – АоЕ стан на **3** секунды.
@@ -255,11 +321,16 @@ Windfury Totem provides a unique group damage buff
 
 # Характеристики
 
-**Интеллект** – лучшая характеристика, так как повышает весь урон и растет от уровня предметов гораздо сильнее, чем вторичные статы. Поэтому в первую очередь стоит смотреть на уровень предметов.
+**Ловкость** – лучшая характеристика, так как повышает весь урон и растет от уровня предметов гораздо сильнее, чем вторичные статы. Поэтому в первую очередь стоит смотреть на уровень предметов.
 
-Приоритет статов для Мифик+ для всех билдов следующий:
+Приоритет статов для Мифик+ для физического и гибридного билда следующий:
 
-* **Интеллект** > **Скорость** = **Критический удар** > **Искусность** > **Универсальность**.
+* **Ловкость** > **Скорость** > **Критический удар** = **Искусность** > **Универсальность**.
+
+Приоритет статов для Мифик+ для стихийного билда следующий:
+
+* **Ловкость** > **Скорость** = **Искусность** > **Критический удар** > **Универсальность**.
+
 
 Данный раздел будет дополнен ближе к открытию Мифик+. 
 {: class="bordered"}
@@ -279,7 +350,7 @@ Windfury Totem provides a unique group damage buff
 
 # Интерфейс
 
-В зависимости от билда Элем отслеживает два типа дебаффов на цели. В молниевом это [Грозовой разрядник](https://www.wowhead.com/spell=210689), а в огненном – [Огненный шок](https://ru.wowhead.com/spell=188389). Для отслеживания этих дебаффов рекомендую использовать этот [мод на Plater](https://wago.io/o9Q7MSLDi).
+В каждом билде Энх Шамана крайне важно отслеживать [Огненный шок](https://ru.wowhead.com/spell=188389) на целях. В стихийном билде также необходимо отслеживать [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046). Для отслеживания обоих этих дебаффов рекомендую использовать этот [мод на Plater](https://wago.io/o9Q7MSLDi).
 
 ## Макросы
 
@@ -301,17 +372,16 @@ Windfury Totem provides a unique group damage buff
 /cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
 ~~~
 
-* Данный макррос позволяет кастовать {{ site.data.spells.quake }} сразу на место под курсором, избавляя от лишнего клика мышкой:  
+* Данный макррос позволяет кастовать любые тотемы сразу на место под курсором, избавляя от лишнего клика мышкой:  
 ~~~
 #showtooltip
-/cast [@cursor] Землетрясение
+/cast [@cursor] Тотем конденсации
 ~~~
 
-* Способности элементалей [Метеорит](https://www.wowhead.com/ru/spell=117588) и [Буря](https://ru.wowhead.com/spell=157375/) на одну кнопку:
+* Использование [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757) и [Оружия языка пламени](https://www.wowhead.com/ru/spell=318038) на одной кнопке:
 ~~~
 #showtooltip
-/cast Метеорит
-/cast Буря
+/castsequence Оружие неистовства ветра, Оружие языка пламени
 ~~~
 
 * Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
@@ -340,7 +410,6 @@ Windfury Totem provides a unique group damage buff
 /cast [@player] Тотем ветряного порыва
 ~~~
 
-
 * Позволяет вынести {{ site.data.spells.rez }} на панель заклинаний чтобы следить за временем восстановления:  
 ~~~
 #showtooltip Реинкарнация
@@ -354,15 +423,15 @@ Windfury Totem provides a unique group damage buff
 
 ## WeakAuras
 
-Рекомендованная сборка от [Amani](https://www.twitch.tv/amanizandalari) – [по этой ссылке](https://wago.io/KbqSzg3ps).
+Рекомендованная сборка от [Amani](https://www.twitch.tv/amanizandalari) – [по этой ссылке](https://wago.io/HJxL_fG7C).
 
 <p align="center">
-    <img src="https://media.wago.io/screenshots/KbqSzg3ps/6351036870c70b6bca4d14f6.gif"> 
+    <img src="https://media.wago.io/screenshots/HJxL_fG7C/635540795a2ec4b6e0ac2195.gif"> 
 </p>
 
 <p></p>
 
-{% include button.html name="Сборки WA на Wago.io" link="https://wago.io/search/elemental" %}  
+{% include button.html name="Сборки WA на Wago.io" link="https://wago.io/search/enhancement" %}  
 
 <p></p>
 
