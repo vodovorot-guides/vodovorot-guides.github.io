@@ -192,7 +192,7 @@ image: /assets/img/enh_tb2.png
 **Бой против 2+ целей:**
 1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) по кулдауну.
 2. [Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну.
-3. [Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://ru.wowhead.com/spell=375982), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество врагов.
+3. [Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://ru.wowhead.com/spell=375982), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество врагов и при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 4. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 5. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество врагов.
 6. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
@@ -267,7 +267,7 @@ image: /assets/img/enh_tb2.png
 
 1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) по кулдауну.
 2. [Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну.
-3. [Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://ru.wowhead.com/spell=375982), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество врагов.
+3. [Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://ru.wowhead.com/spell=375982), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество врагов и при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 4. [Ветра рока](https://www.wowhead.com/ru/spell=384352) по кулдауну.
 5. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352) или если нет активного баффа от этого заклинания.
 6. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
