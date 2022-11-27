@@ -101,6 +101,13 @@ image: /assets/img/df_map4.jpg
 * Если вам лень обновлять на себе [Щит земли](https://www.wowhead.com/ru/spell=974/), то можно взять [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) и ставить его после боя с паком.
 * Используйте [Жажду крови](https://www.wowhead.com/ru/spell=2825/) / [Героизм](https://www.wowhead.com/ru/spell=32182) на прокачке по КД.
 
+<p></p>
+
+{% include button.html name="Гайд на Элема в Мифик+" link="/ele/mplus.html" %}  
+
+<p></p>
+
+
 ## Совершенствование
 
 Стартовый билд на **60** уровне:
@@ -125,6 +132,11 @@ image: /assets/img/df_map4.jpg
 * Если вам лень обновлять на себе [Щит земли](https://www.wowhead.com/ru/spell=974/), то можно взять [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) и ставить его после боя с паком.
 * Используйте [Жажду крови](https://www.wowhead.com/ru/spell=2825/) / [Героизм](https://www.wowhead.com/ru/spell=32182) на прокачке по КД.
 
+<p></p>
+
+{% include button.html name="Гайд на Энха в Мифик+" link="/enh/mplus.html" %}  
+
+<p></p>
 
 ## Опустошение
 
