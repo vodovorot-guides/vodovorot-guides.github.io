@@ -12,7 +12,7 @@ image: /assets/img/ele_tb2.png
 <p align="center">
 <img src="/assets/img/df_map3.png" > 
 
-<p align="center">[Картинка в полном размере по этой ссылке](https://i.redd.it/mf238b8ycyz91.png)</p>
+<p align="center">[url=https://i.redd.it/mf238b8ycyz91.png]Картинка в полном размере по этой ссылке[/url]</p>
 
 
 Таланты на прокачку
