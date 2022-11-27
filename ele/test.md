@@ -122,21 +122,21 @@ image: /assets/img/ele_tb2.png
 Так как я теперь являюсь админом [Discord-сервера Пробудителей](https://discord.gg/R5bMMyFdeS), то не могу не написать таланты на прокачку драктиров. Стартовый билд на **60** уровне:
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BsbBAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAahkISCBSkUSSCAISIJBkkkQiEJ?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BsbBAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAahkISCBSkUSSCAISIJBkkkQiEJ?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="550"></iframe>
 
 <p></p>
 
 Финальный билд на **70** уровне:
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BsbBAAAAAAAAAAAAAAAAAAAAAASCAAAAAAKahkISCJIRSJJJtgAiESSgkkkEJSSC?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BsbBAAAAAAAAAAAAAAAAAAAAAASCAAAAAAKahkISCJIRSJJJtgAiESSgkkkEJSSC?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="550"></iframe>
 
 <p></p>
 
 * [Огненное дыхание](https://www.wowhead.com/ru/spell=357208) стоит заряжать до максимального ранга, чтобы сразу нанести большое количество урона, а в начале прокачки – ваншотнуть целый пак мобов.
 * В бою против **1-3** целей используйте [Дезинтеграцию](https://www.wowhead.com/ru/spell=356995), а [Погребальный костер](https://www.wowhead.com/ru/spell=357211/) стоит кастовать либо при наличии стаков [Заряженного взрыва](https://www.wowhead.com/ru/spell=370455) (**20** стаков в **3** цели и **10+** стаков в **3** цели), либо в бою против **4+** врагов.
 * Вы можете подхиливать себя не только [Изумрудным цветком](https://www.wowhead.com/ru/spell=355913) и [Живым жаром](https://www.wowhead.com/ru/spell=361469), но и [Живительными объятиями](https://www.wowhead.com/ru/spell=360995/). Эта способность применяется мгновенно и её можно использовать после каждого боя с паком.
-* Используйте [Ярость Аспектов](https://www.wowhead.com/ru/spell=390386/) на прокачке по КД.
+* Используйте [Ярость Аспектов](https://www.wowhead.com/ru/spell=390386/) и [Ярость дракона](https://www.wowhead.com/ru/spell=375087) на прокачке по кулдауну.
 
 
 ## Исцеление и Хранитель
