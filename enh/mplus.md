@@ -440,3 +440,10 @@ image: /assets/img/enh_tb2.png
 
 Данный раздел будет дополнен ближе к открытию Мифик+. 
 {: class="bordered"}
+
+
+<p></p>
+
+{% include button.html name="Обсудить на сервере Водоворот" link="https://discord.gg/8Bag6kT" %}  
+
+<p></p>
