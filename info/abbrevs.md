@@ -74,29 +74,6 @@ image: /assets/img/logos/abbrevs.png
 * {{ site.data.spells.bl }} – Bloodlust, BL, Hero, БЛ, Гера.  
 * {{ site.data.spells.hero }} – Heroism, BL, Hero, БЛ, Гера.  
 
-# Ковенанты
-
-* {{ site.data.covenants.vt }} – Vesper Totem, VT, Vesper, Веспер, Тотем Кирий.  
-* {{ site.data.covenants.steward }} – Summon Steward, Steward, Совушек.  
-* {{ site.data.covenants.phial }} – Phial of Serenity, Phial, Фиал, Флакон, Хилка Кирий.  
-* {{ site.data.covenants.ch }} – Chain Harvest, Harvest, CH, Харвест, Жатва, Красная цепнуха.  
-* {{ site.data.covenants.door }} – Door of Shadows, DoS, Телепорт, Врата, ТП Вентиров.  
-* {{ site.data.covenants.pw }} – Primordial Wave, Pwave, PW, ПВ, Вейв, Волна Некров.  
-* {{ site.data.covenants.fleshcraft }} – Fleshcraft, FC, Флешкрафт, ФК, Щит Некров.  
-* {{ site.data.covenants.ft }} – Fae Transfusion, FT, Fae, ФТ, Трансфьюжен, Чаннел Феечек.  
-* {{ site.data.covenants.soulshape }} – Soulshape, SS, Лисичка, Блинк Феечек.  
-* {{ site.data.conduits.dirge }} – Elisian Dirge, ED, Дирж, Панихида.
-* {{ site.data.conduits.fae }} – Essential Extraction, EE, Экстракция.
-* {{ site.data.conduits.wave }} – Tumbling Waves, TW, Прок волны.
-* {{ site.data.conduits.harvest }} – Lavish Harvest, LH, Лавиш харвест, ЛХ.
-
-## Легендарные предметы
-
-* {{ site.data.legend.stone }} – Deeptremor Stone, DS, Диптремор, Лега на Игоря.
-* {{ site.data.legend.reminder }} – Ancestral Reminder, AR, Ремайндер, Лега на БЛ.
-* {{ site.data.legend.chains }} – Chains of Devastation, Chains, Чейнс, Лега на Цепнухи.
-* {{ site.data.legend.deeply }} – Deeply Rooted Elements, DRE, Лега на Перерождение.
-* [Семена буйной поросли](https://ru.wowhead.com/spell=356218) – Seeds of Rampant Growth, SORG, Сорг, Феечекина лега.
 
 # Стихии
 
@@ -137,13 +114,6 @@ image: /assets/img/logos/abbrevs.png
 * {{ site.data.spells.sk }} – Stormkeeper, SK, Keeper, СК, Штормкипер, Кипер, ХБ (не стоит).  
 * {{ site.data.spells.asc_ele }} – Ascendance, Asc, Асц, Мужик.  
 
-## Легендарные предметы
-
-* {{ site.data.legend.lava }} – Windspeaker's Lava Resurgence, WLR, Виндспикерс, Лега на лаву.
-* {{ site.data.legend.eogs }} – Echoes of Great Sundering, EOGS, ЕОГС, Отголоски, Лега на кваку.
-* {{ site.data.legend.fire }} – Skybreaker's Fiery Demise, SkyB, Скайбрейкерс, Лега на элема.
-* {{ site.data.legend.ee }} – Elemental Equilibrium, EEq, Эквилибриум.
-
 # Совершенствование
 
 ## Способности
@@ -181,13 +151,6 @@ image: /assets/img/logos/abbrevs.png
 * {{ site.data.spells.spirits }} – Elemental Spirits, ElS, Бафф волков.  
 * {{ site.data.spells.spike }} – Earthen Spike, ES (Одно из значений), Спайк, Шип.  
 * {{ site.data.spells.asc_enh }} – Ascendance, Asc, Асц, Мужик.  
-
-## Легендарные предметы
-
-* {{ site.data.legend.doom }} – Doom Winds, DW, Ветра, Лега на ВФ.
-* {{ site.data.legend.wolf }} – Witch Doctor's Wolf Bones, WD, Кости, Лега на волков.
-* {{ site.data.legend.actuators }} – Primal Lava Actuators, PLA, Актуаторы, Лега на лаваш.
-* {{ site.data.legend.witch }} – Legacy of the Frost Witch, LFW, Witch, Ведьма, Лега на СС.
 
 # Исцеление
 
@@ -229,9 +192,3 @@ image: /assets/img/logos/abbrevs.png
 * {{ site.data.spells.wellspring }} – Wellspring, WP, Веллспринг.  
 * {{ site.data.spells.asc_resto }} – Ascendance, Asc, Асц, Мужик, Пепега.  
 
-## Легендарные предметы
-
-* {{ site.data.legend.riptide }} – Primal Tide Core, PTC, Лега на Быстрину.
-* {{ site.data.legend.mtt }} – Spiritwalker's Tidal Totem, STT, MTT leggo, Лега на Тотем, Лега на МТТ.
-* {{ site.data.legend.earth }} – Earthen Harmony, EH, Гармония, Лега на Щит земли.
-* {{ site.data.legend.jonat }} – Jonat's Natural Focus, JNF, Jonat's, Джонатс, Лега на Цепгнуху.
