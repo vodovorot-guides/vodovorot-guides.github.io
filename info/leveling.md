@@ -1,13 +1,21 @@
 ---
 layout: page
 last_update: 2022-11-27
-title: Прокачка Шамана в Dragonflight
+title: Советы по прокачке
 wow: 10.0
 toc: true
 author: Amani
 description: Здесь собрана вся необходимая информация для быстрой прокачки вашего персонажа в дополнении Dragonflight.
-image: /assets/img/df_map3.png
+image: /assets/img/df_map4.jpg
 ---
+
+# Вступление
+
+<p align="center">
+<img src="/assets/img/df_map4.jpg" > 
+</p>
+
+В данной статье вы найдете советы и рекомендации по прокачке, основанные на личном опыте с бета-тестирования. За время беты [я качнул](https://www.twitch.tv/amanizandalari) около **6** персонажей до максимального уровня, поиграл на максимальном уровне свежепрокачанным персонажем, качал профессии и делал ежедневные и еженедельные задания.
 
 # Основная информация о прокачке
 
@@ -47,6 +55,7 @@ image: /assets/img/df_map3.png
   * [Handynotes Dragonflight](https://www.curseforge.com/wow/addons/handynotes-dragonflight) – показывает места спавна рарников, различные секреты и прочее. Опционально.
   * [Handynotes Valdrakken](https://www.curseforge.com/wow/addons/handynotes-valdrakken) – делает подробнее карту новой столицы дополнения, Валдраккена. Добавляет отображение аукциона, банка, вендоров, тренеров профессий и так далее. Опционально.
 * После установки [Handynotes](https://www.curseforge.com/wow/addons/handynotes) и [Handynotes Dragon Glyphs](https://www.curseforge.com/wow/addons/handynotes-dragon-glyphs) вы увидите на карте и миникарте отображение глифов. Для более удобного сбора рекомендуется летать по карте из картинки выше.
+* Handynotes гораздо удобнее, чем TomTom для сбора глифов, так как вам не придется вручную загружать координаты в аддон и потом очищать их с карты в том случае, если они не пропали самостоятельно.
 * Карта глифов в полном размере [по этой ссылке](https://i.redd.it/mf238b8ycyz91.png). Источник на [Reddit](https://www.reddit.com/r/wow/comments/yv6lgo/inspired_and_with_the_help_from_youtuber_grays/). Оригинальное [видео от Gray](https://youtu.be/x3Olo9G7GbU). 
 * Сразу после получения дракона не спешите взлетать на нем – на площадке рядом будет стоять квестовый транспорт-дракон, который доставит вас на вершину башни, откуда будет гораздо удобнее начинать полет за глифами.
 
