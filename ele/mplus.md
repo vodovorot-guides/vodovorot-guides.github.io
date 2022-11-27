@@ -295,7 +295,7 @@ image: /assets/img/ele_tb2.png
 /cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
 ~~~
 
-* Данный макррос позволяет кастовать {{ site.data.spells.quake }} сразу на место под курсором, избавляя от лишнего клика мышкой:  
+* Данный макрос позволяет кастовать {{ site.data.spells.quake }} сразу на место под курсором, избавляя от лишнего клика мышкой:  
 ~~~
 #showtooltip
 /cast [@cursor] Землетрясение
