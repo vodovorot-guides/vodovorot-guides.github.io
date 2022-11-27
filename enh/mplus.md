@@ -124,20 +124,21 @@ image: /assets/img/enh_tb2.png
 2. [Огненный шок](https://ru.wowhead.com/spell=188389), если его нет ни на одной из целей.
 3. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389), а на соседних целях [Огненный шок](https://ru.wowhead.com/spell=188389) отсутствует.
 4. [Ветра рока](https://www.wowhead.com/ru/spell=384352) по кулдауну.
-5. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352) или если нет активного баффа от этого заклинания.
-6. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-7. [Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
-8. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-9. [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) по кулдауну.
-10. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
-11. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, желательно с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-12. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-13. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
-14. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
-15. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по кулдауну.
-16. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-17. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) по кулдауну.
-18. [Огненный шок](https://ru.wowhead.com/spell=188389), если остальные способности недоступны.
+5. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+6. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
+7. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+8. [Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
+9. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+10. [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) по кулдауну.
+11. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
+12. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, желательно с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+13. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+14. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
+15. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
+16. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по кулдауну.
+17. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+18. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) по кулдауну.
+19. [Огненный шок](https://ru.wowhead.com/spell=188389), если остальные способности недоступны.
 
 
 
@@ -196,10 +197,10 @@ image: /assets/img/enh_tb2.png
 4. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 5. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество врагов.
 6. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
-7. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) и без активного дебаффа [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046).
+7. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) и без активного дебаффа от таланта [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046).
 8. [Огненный шок](https://ru.wowhead.com/spell=188389), если под этим дебаффом не максимальное количество целей.
 9. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну.
-10. [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и активных волков от [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533).
+10. [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и активных волках от [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533).
 11. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
 12. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
 13. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если в бою не более **2** целей.
@@ -269,19 +270,20 @@ image: /assets/img/enh_tb2.png
 2. [Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну.
 3. [Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://ru.wowhead.com/spell=375982), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество целей и при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 4. [Ветра рока](https://www.wowhead.com/ru/spell=384352) по кулдауну.
-5. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352) или если нет активного баффа от этого заклинания.
-6. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+5. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352)
+6. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
+7. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 8. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352), либо при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) без баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-6. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество целей.
-7. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
-8. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) и без активного дебаффа [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046).
-9. [Огненный шок](https://ru.wowhead.com/spell=188389), если под этим дебаффом не максимальное количество целей.
-10. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, желательно с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-12. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
-13. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
-14. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если в бою не более **2** целей.
-15. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-16. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/), если остальные способности недоступны.
+9. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество целей.
+10. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
+11. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) и без активного дебаффа [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046).
+12. [Огненный шок](https://ru.wowhead.com/spell=188389), если под этим дебаффом не максимальное количество целей.
+13. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, желательно с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+14. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
+15. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
+16. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если в бою не более **2** целей.
+17. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+18. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/), если остальные способности недоступны.
 
 
 <hr style="height:1px;background-color:#bbb">
