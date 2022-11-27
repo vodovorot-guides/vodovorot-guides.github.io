@@ -20,6 +20,12 @@ image: /assets/img/logos/spells.png
 Если в описании таланта указаны два значения через черточку, например **8%/15%**, то это значит, что в талант можно вложить два очка. Эффект от вкладывания одного очка составляет в этом случае **8%**, а от двух – **15%**.
 {: class="bordered"}
 
+Данная статья является описанием талантов и способностей Элем Шамана. Для подробного гайда стоит заглянуть сюда:
+
+<p></p>
+
+{% include button.html name="Гайд на Элем Шамана в Мифик+" link="/ele/mplus.html" %}  
+
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
