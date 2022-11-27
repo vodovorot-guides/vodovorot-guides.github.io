@@ -374,6 +374,12 @@ image: /assets/img/enh_tb2.png
 /cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
 ~~~
 
+* Макрос для [Ледяного клинка](https://www.wowhead.com/ru/spell=342240/) и [Кольца огня](https://www.wowhead.com/ru/spell=333974/) на одной кнопке:
+~~~
+#showtooltip
+/cast [known: 342240] Ледяной клинок; [known: 333974] Кольцо огня
+~~~
+
 * Данный макрос позволяет кастовать любые тотемы сразу на место под курсором, избавляя от лишнего клика мышкой:  
 ~~~
 #showtooltip
