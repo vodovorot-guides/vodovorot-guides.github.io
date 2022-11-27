@@ -119,10 +119,7 @@ image: /assets/img/ele_tb2.png
 
 ## Опустошение
 
-Так как я теперь являюсь админом [Discord-сервера Пробудителей](https://discord.gg/R5bMMyFdeS), то не могу не написать таланты на прокачку драктиров.
-{: class="bordered"}
-
-Стартовый билд на **60** уровне:
+Так как я теперь являюсь админом [Discord-сервера Пробудителей](https://discord.gg/R5bMMyFdeS), то не могу не написать таланты на прокачку драктиров. Стартовый билд на **60** уровне:
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BsbBAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAahkISCBSkUSSCAISIJBkkkQiEJ?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
