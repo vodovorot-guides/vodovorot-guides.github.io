@@ -1,7 +1,7 @@
 ---
 layout: page
 last_update: 2022-11-27
-title: Советы по прокачке
+title: Советы по прокачке в Dragonflight
 wow: 10.0
 toc: true
 author: Amani
