@@ -237,7 +237,7 @@ image: /assets/img/ele_tb2.png
 * [Тотем конденсации](https://www.wowhead.com/ru/spell=192058/) – АоЕ стан на **3** секунды.
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снятие магического эффекта с врага.
 * [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снятие проклятия с союзника.
-* [Тотем трепета](https://www.wowhead.com/ru/spell=813) – снятие эффектов страха, подчинения и сна.
+* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) – снятие эффектов страха, подчинения и сна.
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снятие эффектов яда.
 * [Сглаз](https://www.wowhead.com/ru/spell=51514) – контроль одного противника.
 
