@@ -1,7 +1,7 @@
 ---
 layout: page
 last_update: 2022-11-28
-title: Подробный разбор ротации Драктира Опустошителя
+title: Подробный разбор  Драктира Опустошителя
 wow: 10.0
 toc: true
 author: "Kerrovitarr, Amani, Preheat"
