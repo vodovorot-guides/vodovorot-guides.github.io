@@ -1,21 +1,27 @@
 categories:
   - title: Элем
-    url: /ele/prepatch-df.html
+    url: /ele/mplus.html
     subcategories:
-      - title: Элем в препатче Dragonflight
-        url: /ele/prepatch-df.html
+      - title: Гайд на Мифик+
+        url: /ele/mplus.html
+      - title: Заклинания и таланты
+        url: /ele/spells.html
 
   - title: Энх
-    url: /enh/prepatch-df.html
+    url: /enh/mplus.html
     subcategories:
-      - title: Энх в препатче Dragonflight
-        url: /enh/prepatch-df.html
+      - title: Гайд на Мифик+
+        url: /enh/mplus.html
+      - title: Заклинания и таланты
+        url: /enh/spells.html
 
   - title: Рестор
-    url: /resto/prepatch-df.html
+    url: /resto/mplus.html
     subcategories:
-      - title: Рестор в препатче Dragonflight
-        url: /resto/prepatch-df.html
+      - title: Гайд на Мифик+
+        url: /resto/mplus.html
+      - title: Заклинания и таланты
+        url: /raid/spells.html
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
         divided: true
