@@ -11,6 +11,6 @@ image: /assets/img/logos/restoguide.png
 
 <p></p>
 
-{% include button.html name="Рестор Шаман в препатче Dragonflight" link="/resto/prepatch-df.html" %}  
+{% include button.html name="Гайд на Рестор Шамана в Мифик+" link="/resto/mplus.html" %}  
 
 <p></p>
