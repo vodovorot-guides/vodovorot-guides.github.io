@@ -11,6 +11,7 @@ image: /assets/img/logos/enhguide.png
 
 <p></p>
 
-{% include button.html name="Энх Шаман в препатче Dragonflight" link="/enh/prepatch-df.html" %}  
+{% include button.html name="Гайд на Энх Шамана в Мифик+" link="/enh/mplus.html" %}  
 
 <p></p>
+
