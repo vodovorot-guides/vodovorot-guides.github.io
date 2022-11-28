@@ -4,7 +4,7 @@ categories:
     subcategories:
       - title: Гайд на Мифик+
         url: /ele/mplus.html
-      - title: Заклинания и таланты
+      - title: Способности и таланты
         url: /ele/spells.html
 
   - title: Энх
@@ -12,7 +12,7 @@ categories:
     subcategories:
       - title: Гайд на Мифик+
         url: /enh/mplus.html
-      - title: Заклинания и таланты
+      - title: Способности и таланты
         url: /enh/spells.html
 
   - title: Рестор
@@ -20,7 +20,7 @@ categories:
     subcategories:
       - title: Гайд на Мифик+
         url: /resto/mplus.html
-      - title: Заклинания и таланты
+      - title: Способности и таланты
         url: /raid/spells.html
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
