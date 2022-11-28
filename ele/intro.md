@@ -11,6 +11,6 @@ image: /assets/img/logos/eleguide.png
 
 <p></p>
 
-{% include button.html name="Элем Шаман в препатче Dragonflight" link="/ele/prepatch-df.html" %}  
+{% include button.html name="Гайд на Элем Шамана в Мифик+" link="/ele/mplus.html" %}  
 
 <p></p>
