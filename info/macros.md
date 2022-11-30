@@ -1,17 +1,41 @@
 ---
 title: Макросы для шамана
 layout: page
-last_update: 2022-02-15
-wow: 9.2
+last_update: 2022-11-=30
+wow: 10.0
 toc: true
 author: Amani
 description: Здесь вы найдете полезные макросы для Шаманов всех специализаций. Плюс – различные универсальные макросы, которые сделают вашу жизнь лучше и приятнее.
 image: /assets/img/logos/macros.png
 ---
 
+
+В первую очередь – рекомендую настроить на касты по наведению мыши (mouseover) через стандартный интерфейс. Это позволит кастовать все заклинания без выбора цели, что особенно удобно для [Огненного шока](https://ru.wowhead.com/spell=188389) и [Пронизывающего ветра](https://www.wowhead.com/ru/spell=57994/), но я это использую для всех заклинаний:
+
+<p align="center">
+    <img src="/assets/img/mouseover.png"> 
+</p>
+
+
 # Все специализации
 
+* Макрос для призыва летающего маунта в зависимости от зоны. Также применяет {{ site.data.spells.waterwalking }} (без ГКД).
+~~~
+#showtooltip
+/cast [nomounted,nocombat] Хождение по воде
+#showtooltip
+/cast [dragonriding] Обновленный протодракон
+/cast [flyable] Красный протодракон
+/cast [noflyable] Громадный гррлок
+/dismount [mounted]
+~~~
 
+* Использовать одновременно {{ site.data.spells.waterwalking }} (без ГКД) и призыв случайного избранного маунта: 
+~~~
+#showtooltip Яростная буря предсказателя
+/cast [nomounted,nocombat] Хождение по воде
+/run C_MountJournal.SummonByID(0)
+~~~
 
 * Универсальный маусовер макрос для атакующих заклинаний. Если у вас есть противник под курсором – кинет в него, иначе в вашу цель. Удобно развешивать {{ site.data.spells.fs }} не меняя текущей цели. Можно использовать для таких заклинаний, как {{ site.data.spells.lb }}, {{ site.data.spells.lvb }}, {{ site.data.spells.purge }} и других:
 ~~~
@@ -260,20 +284,7 @@ image: /assets/img/logos/macros.png
 /click DropDownList1Button9
 ~~~
 
-* Использовать одновременно {{ site.data.spells.waterwalking }} (без ГКД) и призыв случайного избранного маунта: 
-~~~
-#showtooltip Яростная буря предсказателя
-/cast [nomounted,nocombat] Хождение по воде
-/run C_MountJournal.SummonByID(0)
-~~~
 
-* Три маунта одной кнопкой, в зависимости от вашего местонахождения. Замените названия на ваших любимых маунтов:
-~~~
-#showtooltip 
-/cast [nomounted,nocombat] Хождение по воде
-/cast [swimming] Багровый бурунный конек; [noflyable] Механоцикл модели W;   [flyable] Яростная буря предсказателя;
-/dismount [mounted]
-~~~
 
 * Использование активных (прожимных) Аксессуаров с панели заклинаний:  
 ~~~
