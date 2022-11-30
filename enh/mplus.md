@@ -200,7 +200,7 @@ image: /assets/img/enh_tb2.png
 7. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) и без активного дебаффа от таланта [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046).
 8. [Огненный шок](https://ru.wowhead.com/spell=188389), если под этим дебаффом не максимальное количество целей.
 9. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну.
-10. [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и активных волках от [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533).
+10. [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и активных волках от [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533) и если в бою не более **2** целей.
 11. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
 12. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
 13. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если в бою не более **2** целей.
