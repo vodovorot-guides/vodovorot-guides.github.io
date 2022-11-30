@@ -289,6 +289,9 @@ image: /assets/img/enh_tb2.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+### Вариации билда
+
+* Можно заменить [Кольцо огня](https://www.wowhead.com/ru/spell=333974/) и [Кружащий Водоворот](https://www.wowhead.com/ru/spell=384359/) на [Бурю с градом](https://www.wowhead.com/ru/spell=334195) и [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) для большего урона по **1-4** целям.
 
 ## Общая ветка талантов
 
