@@ -1,7 +1,7 @@
 ---
 title: Сокращения и аббревиатуры
 layout: page
-last_update: 2022–11–28
+last_update: 2022-11-28
 wow: 10.02
 toc: true
 author: Amani
