@@ -124,110 +124,12 @@ image: /assets/img/logos/macros.png
 #showtooltip
 /use [combat] Одноразовый спектросинхронный оживитель; [nocombat] Дух предков
 ~~~
+#
 
-# Элем
-
-* Позволяет кастовать АоЕ заклинания (например {{ site.data.spells.quake }} и {{ site.data.spells.rain }}) сразу на место под курсором, избавляя от лишнего клика мышкой:  
-~~~
-#showtooltip
-/cast [@cursor] Землетрясение
-~~~
-
-* Назначить способности элементалей [Метеорит](https://www.wowhead.com/ru/spell=117588) и [Буря](https://ru.wowhead.com/spell=157375/) на одну кнопку:
-~~~
-#showtooltip
-/cast Метеорит
-/cast Буря
-~~~
-
-* Применяет к себе {{ site.data.spells.ls }}, либо {{ site.data.spells.eshield }}, если он выбран в талантах:  
-~~~
-#showtooltip 
-/cast [talent:3/1] Щит молний
-/cast [talent:3/2] Щит земли
-/cast [talent:3/3] Щит молний
-~~~
-
-# Энх
-
-* Основной макрос для всех способностей:
-~~~
-#showtooltip 
-/stopmacro [channeling]
-/cast [@mouseover,harm,exists,nodead][] Вскипание лавы
-~~~
-
-* Использование {{ site.data.spells.ww }} и {{ site.data.spells.ftw }} на одной кнопке:  
-~~~
-#showtooltip
-/castsequence Оружие неистовства ветра, Оружие языка пламени
-~~~
-
-* В зависимости от выбранного таланта использует {{ site.data.spells.sk_enh }} или {{ site.data.spells.sunder }}:  
-~~~
-#showtooltip
-/cast [talent:6/2] Хранитель бурь
-/cast [talent:6/3] Раскол
-~~~
-
-* В зависимости от выбранного таланта использует {{ site.data.spells.spike }} или {{ site.data.spells.asc_enh }}:  
-~~~
-#showtooltip
-/cast [talent:7/2] Земляной шип
-/cast [talent:7/3] Перерождение
-~~~
-
-* Использование {{ site.data.spells.bl }} на ближайшего союзника, при  игре с PvP-талантом [Шаманство](https://ru.wowhead.com/spell=193876/).
-~~~
-/targetparty
-/cast Жажда крови
-/targetlastenemy
-~~~
-
-* Применяет к себе {{ site.data.spells.ls }}, либо {{ site.data.spells.eshield }}, если он выбран в талантах:  
-~~~
-#showtooltip 
-/cast [talent:3/1] Щит молний
-/cast [talent:3/2] Щит земли
-/cast [talent:3/3] Щит молний
-~~~
-
-# Рестор
-
-* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.cl }} + {{ site.data.spells.ch }}, [Возрождение духа](https://ru.wowhead.com/spell=77130) + {{ site.data.spells.purge }} и другие:
-~~~
-#showtooltip Цепная молния
-/use [@mouseover,nodead,harm]Цепная молния;[@mouseover,nodead,help]Цепное исцеление;[@target,nodead,harm]Цепная молния;[@target,nodead,help][@player] Цепное исцеление
-~~~
-
-* Маусовер для атакующих заклинания для Рестора, позволяет атаковать даже в цель союзника под маусовером. Не рекомендуется использовать в ПвП:  
-~~~
-#showtooltip 
-/cast [@mouseover, exists, harm, nodead] [@mouseovertarget, exists, harm, nodead] [@targettarget, exists, harm, nodead] [exists, harm, nodead] Молния
-~~~
-
-* Макрос на взятие в фокус [Элементаля земли](https://ru.wowhead.com/spell=198103). Следует нажимать кнопку макроса дважды:
-~~~
-#showtooltip
-/use Элементаль земли
-/target Большой элементаль земли
-/focus
-/targetlasttarget
-~~~
-
-* В зависимости от выбранного таланта использует {{ site.data.spells.ewt }} или {{ site.data.spells.apt }} на землю под курсором:  
-~~~
-#showtooltip
-/cast [@cursor,talent:4/2] Тотем земляной стены
-/cast [@cursor,talent:4/3] Тотем защиты Предков
-~~~
-
-* В зависимости от выбранного таланта использует {{ site.data.spells.wellspring }} или {{ site.data.spells.asc_resto }}:  
-~~~
-#showtooltip
-/cast [talent:7/2] Родник
-/cast [talent:7/3] Перерождение
-~~~
+Макросы специализаций можно посмотреть в гайдах:
+* [Элем в Мифик+](https://stormkeeper.ru/ele/mplus.html#%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%81%D1%8B)
+* [Энх в Мифик+](https://stormkeeper.ru/enh/mplus.html#%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%81%D1%8B)
+* [Рестор в Мифик+](https://stormkeeper.ru/resto/mplus.html#%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%81%D1%8B)
 
 # Универсальные и полезные макросы
 
