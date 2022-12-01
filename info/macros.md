@@ -140,20 +140,6 @@ image: /assets/img/logos/macros.png
 /cast Буря
 ~~~
 
-* В зависимости от выбранного таланта использует {{ site.data.spells.ecs }} или {{ site.data.spells.eb }}:  
-~~~
-#showtooltip
-/cast [talent:2/2] Вторящий шок
-/cast [talent:2/3] Удар духов стихий
-~~~
-
-* В зависимости от выбранного таланта использует {{ site.data.spells.sk }} или {{ site.data.spells.asc_ele }}:  
-~~~
-#showtooltip
-/cast [talent:7/2] Хранитель бурь
-/cast [talent:7/3] Перерождение
-~~~
-
 * Применяет к себе {{ site.data.spells.ls }}, либо {{ site.data.spells.eshield }}, если он выбран в талантах:  
 ~~~
 #showtooltip 
