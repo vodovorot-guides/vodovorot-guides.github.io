@@ -180,7 +180,7 @@ image: /assets/img/ele_tb2.png
 4. [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) по кулдауну.
 5. [Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну, на цель с минимальной длительностью [Огненного шока](https://ru.wowhead.com/spell=188389).
 6. [Огненный шок](https://ru.wowhead.com/spell=188389), если отсутствует на одной из целей.
-7. [Перерождение](https://ru.wowhead.com/spell=114050).
+7. [Перерождение](https://ru.wowhead.com/spell=114050) по кулдауну.
 8. [Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756).
 9. [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
 10. [Землетрясение](https://ru.wowhead.com/spell=61882) для траты энергии Водоворота, желательно с баффом от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
@@ -197,7 +197,7 @@ image: /assets/img/ele_tb2.png
 4. [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) по кулдауну.
 5. [Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну, на цель с минимальной длительностью [Огненного шока](https://ru.wowhead.com/spell=188389).
 6. [Огненный шок](https://ru.wowhead.com/spell=188389), если отсутствует на одной из целей.
-7. [Перерождение](https://ru.wowhead.com/spell=114050).
+7. [Перерождение](https://ru.wowhead.com/spell=114050) по кулдауну.
 8. [Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756), если отсутствует бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 9. [Выброс лавы](https://ru.wowhead.com/spell=51505) без прока [Волны лавы](https://www.wowhead.com/ru/spell=77756) кастуется только если в бою не более **3** целей.
 10. [Землетрясение](https://ru.wowhead.com/spell=61882) для траты энергии Водоворота.
@@ -314,7 +314,6 @@ image: /assets/img/ele_tb2.png
 /cast Природная стремительность
 /cast [@mouseover,harm,exists,nodead][] Цепная молния
 ~~~
-
 
 * Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
 ~~~
