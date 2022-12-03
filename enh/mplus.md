@@ -285,7 +285,6 @@ image: /assets/img/enh_tb2.png
 7. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 8. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352), либо при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) без баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 9. [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится максимальное количество целей.
-10. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
 11. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) и без активного дебаффа [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046).
 12. [Огненный шок](https://ru.wowhead.com/spell=188389), если под этим дебаффом не максимальное количество целей.
 13. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, желательно с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
