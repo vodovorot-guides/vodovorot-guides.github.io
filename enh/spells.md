@@ -1120,6 +1120,17 @@ image: /assets/img/logos/spells.png
 
 <a href="https://www.wowhead.com/ru/spell=334033" target="blank" data-wh-icon-size="small" >**Натиск лавы**</a> – снижает кулдаун [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) на **3/6** секунд. Если на цель наложен [Огненный шок](https://ru.wowhead.com/spell=188389), то [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) обновит его время действия на текущей цели и наложит его на **2/4** соседние цели. При этом [Огненный шок](https://ru.wowhead.com/spell=188389) также наносит урон при наложении.
  
+<details markdown=1><summary><i>Подробнее...</i></summary>
+<p></p>
+
+> Molten Assault, Спред шоков 
+
+* При спреде [Огненный шок](https://ru.wowhead.com/spell=188389) также наносит урон при наложении.
+* [Огненный шок](https://ru.wowhead.com/spell=188389) при спреде накладывается на цели, не имеющие этого дебаффа.
+* Радиус спреда – **8** метров вокруг основной цели.
+ 
+</details>
+<p></p>
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
