@@ -23,7 +23,7 @@ image: /assets/img/logos/macros.png
 ~~~
 #showtooltip
 /cast [nomounted,nocombat] Хождение по воде
-/cast [dragonriding] Обновленный протодракон
+/cast Обновленный протодракон
 /cast [flyable] Красный протодракон
 /cast [noflyable] Громадный гррлок
 /dismount [mounted]
