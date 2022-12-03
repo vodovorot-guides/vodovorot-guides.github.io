@@ -369,7 +369,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=51505" target="blank" data-wh-icon-size="small" >**Выброс лавы**</a> – заклинание с коротким кулдауном, наносит урон одному протвнику и всегда критует, если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389).
+<a href="https://ru.wowhead.com/spell=51505" target="blank" data-wh-icon-size="small" >**Выброс лавы**</a> – заклинание с коротким кулдауном, наносит урон одному противнику и всегда критует, если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389).
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
