@@ -1189,7 +1189,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=378241" target="blank" data-wh-icon-size="small" >**Водный щит**</a> – увеличивает урон [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) на **35%**.
+<a href="https://ru.wowhead.com/spell=378241" target="blank" data-wh-icon-size="small" >**Призыв грома**</a> – увеличивает урон [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) на **35%**.
 
 
 
