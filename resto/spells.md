@@ -1197,7 +1197,7 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=51564" target="blank" data-wh-icon-size="small" >**Приливные волны**</a> – [Быстрина](https://www.wowhead.com/ru/spell=61295) дает вам два заряда баффа, который уменьшает время произнесения [Волны исцеления](https://ru.wowhead.com/spell=77472) и [Цепного исцеления](https://ru.wowhead.com/spell=1064) на **20%**, или увеличивает шанс критического удара [Исцеляющего всплеска](https://ru.wowhead.com/spell=8004) на **40%**. Каждое усиленное заклинание тратит один заряд баффа.
+<a href="https://ru.wowhead.com/spell=51564" target="blank" data-wh-icon-size="small" >**Приливные волны**</a> – [Быстрина](https://www.wowhead.com/ru/spell=61295) дает вам два заряда баффа, который уменьшает время произнесения [Волны исцеления](https://ru.wowhead.com/spell=77472) и [Цепного исцеления](https://ru.wowhead.com/spell=1064) на **20%**, или увеличивает шанс критического удара [Исцеляющего всплеска](https://ru.wowhead.com/spell=8004) на **30%**. Каждое усиленное заклинание тратит один заряд баффа.
 
 
 <hr style="height:1px;background-color:#bbb">
