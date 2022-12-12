@@ -27,8 +27,8 @@ custom-javascript-list:
 </ul>
 
 
-1. {:.rotation_line_totem_off style="display:none;"}Тотем неистовства ветра как можно ближе к боссу на момент пула.
-2. {:.rotation_line_pw_off style="display:none;"}Огненный шок на пути к цели.
+1. {:.rotation_line_totem_off style="display:checked;"}Тотем неистовства ветра как можно ближе к боссу на момент пула.
+2. {:.rotation_line_pw_off style="display:checked;"}Огненный шок на пути к цели.
 3. {:.rotation_line_feral_on style="display:none;"}Дух дикого зверя.
 4. {:.rotation_line_pw_on style="display:none;"}Первозданная волна для наложения Огненного шока и генерации стаков Оружия Водоворота.
 5. {:.rotation_line_pw_on style="display:none;"}Вскипание лавы для спреда Огненного шока, если в бою несколько целей.
@@ -38,7 +38,7 @@ custom-javascript-list:
 9. {:.rotation_line_asc_on style="display:none;"}Перерождение в ближнем бою и сразу же Удар ветра.
 10. {:.rotation_line_dw_on style="display:none;"}Ветра рока и соазу же Удар бури.
 11. {:.rotation_line_eb_on style="display:none;"}Удар духов стихий как только накопится 8+ стаков Оружия Водоворота.
-12. {:.rotation_line_eb_off style="display:none;"}Выброс лавы как только накопится 8+ стаков Оружия Водоворота.
+12. {:.rotation_line_eb_off style="display:checked;"}Выброс лавы как только накопится 8+ стаков Оружия Водоворота.
 13. Продолжайте обычную ротацию.
 
 
