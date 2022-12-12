@@ -91,6 +91,8 @@ image: /assets/img/resto_tb2.png
 
 # Таланты для Мифик+
 
+## Основной билд
+
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIpJJkkWkQKpFEl0CSSJIEJRJlQBIJBQUSSSIB?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
