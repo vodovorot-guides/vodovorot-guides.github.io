@@ -23,7 +23,8 @@ custom-javascript-list:
 
 
 1. {:.rotation_line_first_on style="display:none;"}Первый Вкл
-2. {:.rotation_line_first_off style="display:none;"}Первый Выкл
+2. {:.rotation_line_first_on style="display:checked;"}Первый Выкл Checked On
+2. {:.rotation_line_first_off style="display:checked;"}Первый Выкл Checked Off
 4. {:.rotation_line_test_on style="display:none;"}Второй
 5. Третий
 6. Четвертый
