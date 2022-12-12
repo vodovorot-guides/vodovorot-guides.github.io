@@ -29,3 +29,23 @@ custom-javascript-list:
 5. Третий
 6. Четвертый
 7. Пятый
+
+<p></p>
+
+1. {:.rotation_line_first_on style="display:none;"}Первый Обычный On - None
+2. Тестовый между ними Один
+3. {:.rotation_line_first_on style="display:checked;"}Первый On - Checked
+4. Тестовый между ними Два
+5. {:.rotation_line_first_off style="display:checked;"}Первый Off - Checked
+6. Тестовый между ними Три
+7. {:.rotation_line_first_off style="display:none;"}Первый Off - None
+8. Тестовый между ними Четыре
+9. {:.rotation_line_test_on style="display:none;"}Второй
+10. Третий
+11. Четвертый
+12. Пятый
+
+
+
+
+
