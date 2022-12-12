@@ -27,15 +27,6 @@ custom-javascript-list:
 </ul>
 
 
-
-1. {:.rotation_line_first_on style="display:none;"}Первый Вкл
-4. {:.rotation_line_test_on style="display:none;"}Второй
-5. Третий
-6. Четвертый
-7. Пятый
-
-<p></p>
-
 1. {:.rotation_line_totem_off style="display:none;"}Тотем неистовства ветра как можно ближе к боссу на момент пула.
 2. {:.rotation_line_pw_off style="display:none;"}Огненный шок на пути к цели.
 3. {:.rotation_line_feral_on style="display:none;"}Дух дикого зверя.
