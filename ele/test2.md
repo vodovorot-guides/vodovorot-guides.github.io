@@ -15,8 +15,8 @@ custom-javascript-list:
 
 <ul class="rotation_switches" style="list-style-type: none;">
 
-  <li id="rotation_switch_stormkeeper" class="rotation_switch"><input type="checkbox"> 1. {{ site.data.spells.sk }}</li>
-  <li id="rotation_switch_test" class="rotation_switch"><input type="checkbox"> 2. Test</li>
+  <li id="rotation_switch_stormkeeper" class="rotation_switch"><input type="checkbox"> {{ site.data.spells.sk }}</li>
+  <li id="rotation_switch_test" class="rotation_switch"><input type="checkbox"> Test</li>
 
 </ul>
 
