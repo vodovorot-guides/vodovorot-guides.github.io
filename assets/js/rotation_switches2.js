@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  $('.rotation_switches input[type="checkbox"]').click(function() {
+  $('.rotation_switches input[type="checkbox"]').change(function() {
     name = $(this).parent().attr("id").replace("rotation_switch_", "");
     if ($(this).is(':checked')) {
       $('.rotation_line_' + name + '_off').hide();
