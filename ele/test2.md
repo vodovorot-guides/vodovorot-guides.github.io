@@ -22,7 +22,6 @@ custom-javascript-list:
   <li id="rotation_switch_alpha" class="rotation_switch"><input type="checkbox"> Альфа-волк</li>
   <li id="rotation_switch_eb" class="rotation_switch"><input type="checkbox"> Удар духов стихий</li>
   <li id="rotation_switch_totem" class="rotation_switch"><input type="checkbox"> Тотем неистовства ветра</li>
-  <li id="rotation_switch_test" class="rotation_switch"><input type="checkbox"> Второй</li>
     
 </ul>
 
