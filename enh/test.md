@@ -215,7 +215,11 @@ custom-javascript-list:
 
 <ul class="rotation_switches" style="list-style-type: none;">
   
-  <li id="rotation_switch_totemopen" class="rotation_switch"><input type="checkbox"><div markdown=1> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) </div></li>
+  <li id="rotation_switch_totemopen" class="rotation_switch"><input type="checkbox"><div markdown="span"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) </div></li>
+
+  <li id="rotation_switch_totemopen" class="rotation_switch"><input type="checkbox"><div markdown="span"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) </div></li>
+
+  <li id="rotation_switch_totemopen" class="rotation_switch"><input type="checkbox"><div markdown="span"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) </div></li>
   <li id="rotation_switch_ascopen" class="rotation_switch"><input type="checkbox"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
   <li id="rotation_switch_dwopen" class="rotation_switch"><input type="checkbox"> [Ветра рока](https://www.wowhead.com/ru/spell=384352)</li>
   <li id="rotation_switch_feralopen" class="rotation_switch"><input type="checkbox"> [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/)</li>
