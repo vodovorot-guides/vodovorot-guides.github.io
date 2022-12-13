@@ -215,13 +215,13 @@ custom-javascript-list:
 
 <ul markdown="1" class="rotation_switches" style="list-style-type: none;" >
 
-  <li id="rotation_switch_ascopen" class="rotation_switch"><input type="checkbox"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
-  <li id="rotation_switch_dwopen" class="rotation_switch"><input type="checkbox"> [Ветра рока](https://www.wowhead.com/ru/spell=384352)</li>
-  <li id="rotation_switch_feralopen" class="rotation_switch"><input type="checkbox"> [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/)</li>
-  <li id="rotation_switch_pwopen" class="rotation_switch"><input type="checkbox"> [Первозданная волна](https://ru.wowhead.com/spell=375982)</li>
-  <li id="rotation_switch_alphaopen" class="rotation_switch"><input type="checkbox"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
-  <li id="rotation_switch_ebopen" class="rotation_switch"><input type="checkbox"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li>
-  <li id="rotation_switch_totemopen" class="rotation_switch"><input type="checkbox"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
+  <li markdown=1 id="rotation_switch_ascopen" class="rotation_switch"><input type="checkbox"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
+  <li markdown=1 id="rotation_switch_dwopen" class="rotation_switch"><input type="checkbox"> [Ветра рока](https://www.wowhead.com/ru/spell=384352)</li>
+  <li markdown=1 id="rotation_switch_feralopen" class="rotation_switch"><input type="checkbox"> [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/)</li>
+  <li markdown=1 id="rotation_switch_pwopen" class="rotation_switch"><input type="checkbox"> [Первозданная волна](https://ru.wowhead.com/spell=375982)</li>
+  <li markdown=1 id="rotation_switch_alphaopen" class="rotation_switch"><input type="checkbox"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
+  <li markdown=1 id="rotation_switch_ebopen" class="rotation_switch"><input type="checkbox"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li>
+  <li markdown=1 id="rotation_switch_totemopen" class="rotation_switch"><input type="checkbox"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
     
 </ul>
 
