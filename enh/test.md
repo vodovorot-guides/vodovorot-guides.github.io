@@ -8,7 +8,7 @@ author: Amani
 description: Большое руководство по всем аспектам игры за Шамана Совершенствования. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и WA и многое другое.
 image: /assets/img/enh_tb2.png
 custom-javascript-list:
-    - "/assets/js/rotation_switches2.js"
+    - "/assets/js/rotation_switches.js"
 ---
 
 
@@ -168,15 +168,15 @@ custom-javascript-list:
 
 
 <ul class="rotation_switches" style="list-style-type: none;">
-  <li markdown="span" id="rotation_switch_ascphys" class="rotation_switch"><input type="checkbox"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
-  <li markdown="span" id="rotation_switch_drephys" class="rotation_switch"><input type="checkbox"> [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270)</li>
-  <li markdown="span" id="rotation_switch_icphys" class="rotation_switch"><input type="checkbox"> [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/)</li> 
-  <li markdown="span" id="rotation_switch_hailstormphys" class="rotation_switch"><input type="checkbox"> [Буря с градом](https://www.wowhead.com/ru/spell=334195/)</li>
-  <li markdown="span" id="rotation_switch_fnphys" class="rotation_switch"><input type="checkbox"> [Кольцо огня](https://www.wowhead.com/ru/spell=333974/)</li> 
-  <li markdown="span" id="rotation_switch_alphaphys" class="rotation_switch"><input type="checkbox"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
-  <li markdown="span" id="rotation_switch_ebphys" class="rotation_switch"><input type="checkbox"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li>
-  <li markdown="span" id="rotation_switch_totemphys" class="rotation_switch"><input type="checkbox"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
-  <li markdown="span" id="rotation_switch_clphys" class="rotation_switch"><input type="checkbox"> [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874)</li>  
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_ascphys"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_drephys"> [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270)</li>
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_icphys"> [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/)</li> 
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_hailstormphys"> [Буря с градом](https://www.wowhead.com/ru/spell=334195/)</li>
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_fnphys"> [Кольцо огня](https://www.wowhead.com/ru/spell=333974/)</li> 
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_alphaphys"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_ebphys"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li>
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_totemphys"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_clphys"> [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874)</li>  
 </ul>
 
 
@@ -185,15 +185,15 @@ custom-javascript-list:
 
 
 **Опенер для боя против одной цели:**
-1. {:.rotation_line_totemphys_on style="display:none;"}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
+1. {:.totemphys-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
 2. [Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели.
 3. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/).
-7. {:.rotation_line_alphaphys_on style="display:none;"}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) для активации таланта [Альфа-волк](https://ru.wowhead.com/spell=198434).
+7. {:.alphaphys-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) для активации таланта [Альфа-волк](https://ru.wowhead.com/spell=198434).
 8. [Удар бури](https://www.wowhead.com/ru/spell=17364) для генерации стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
-9. {:.rotation_line_ascphys_on style="display:none;"}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра](https://www.wowhead.com/ru/spell=115356).
+9. {:.ascphys-apl}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра](https://www.wowhead.com/ru/spell=115356).
 10. [Ветра рока](https://www.wowhead.com/ru/spell=384352) и сразу же [Удар бури](https://www.wowhead.com/ru/spell=17364).
-11. {:.rotation_line_ebphys_on style="display:none;"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880) и если в бою не более **2** целей.
-12. {:.rotation_line_ebphys_off style="display:checked;"}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
+11. {:.ebphys-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880) и если в бою не более **2** целей.
+12. {:.ebphys-apl .totemphys-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
 13. Продолжайте обычную ротацию.
 
 <hr style="height:1px;background-color:#bbb">
