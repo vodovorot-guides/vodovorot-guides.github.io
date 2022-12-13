@@ -1,27 +1,27 @@
 categories:
   - title: Элем
-    url: /ele/mplus.html
+    url: /ele/guide.html
     subcategories:
-      - title: Гайд на Мифик+
-        url: /ele/mplus.html
+      - title: Гайд на Элем Шамана
+        url: /ele/guide.html
       - title: Способности и таланты
         url: /ele/spells.html
 
   - title: Энх
     url: /enh/mplus.html
     subcategories:
-      - title: Гайд на Мифик+
-        url: /enh/mplus.html
+      - title: Гайд на Энх Шамана
+        url: /enh/guide.html
       - title: Способности и таланты
-        url: /enh/spells.html
+        url: /enh/guide.html
 
   - title: Рестор
-    url: /resto/mplus.html
+    url: /resto/guide.html
     subcategories:
-      - title: Гайд на Мифик+
-        url: /resto/mplus.html
+      - title: Гайд на Рестор Шамана
+        url: /resto/guide.html
       - title: Способности и таланты
-        url: /resto/spells.html
+        url: /resto/guide.html
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
         divided: true
