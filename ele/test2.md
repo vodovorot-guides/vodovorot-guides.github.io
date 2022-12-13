@@ -25,7 +25,7 @@ custom-javascript-list:
   <li markdown="span" id="rotation_switch_totem" class="rotation_switch"><input type="checkbox"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
 </ul>
 
-1. {:.rotation_line_totem_on style="display:none;"}{:.rotation_line_feral_on style="display:none;"}Тотем неистовства ветра как можно ближе к боссу на момент пула.
+1. {:.rotation_line_totem_on .rotation_line_feral_on style="display:none;"}Тотем + Ферал
 2. {:.rotation_line_pw_off style="display:checked;"}Огненный шок на пути к цели.
 3. {:.rotation_line_feral_on style="display:none;"}Дух дикого зверя.
 4. {:.rotation_line_pw_on style="display:none;"}Первозданная волна для наложения Огненного шока и генерации стаков Оружия Водоворота.
