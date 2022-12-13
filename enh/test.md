@@ -82,7 +82,7 @@ custom-javascript-list:
 
 ## <span style="color:#FFFFFF;font-size:1em;">**Физические**</span> билды
 
-### Билд для рейда
+### Для рейда
 
 В рейдовом <span style="color:#FFFFFF;font-size:1em;">**физическом**</span> билде берутся большинство талантов, усиливающих [Оружие неистовства ветра](https://www.wowhead.com/ru/spell=33757/) и [Удар бури](https://www.wowhead.com/ru/spell=17364).
 
@@ -122,19 +122,19 @@ custom-javascript-list:
 
 <p></p>
 
-[Ветра рока](https://www.wowhead.com/ru/spell=384352) – основной бурст талант <span style="color:#FFFFFF;font-size:1em;">**физического**</span> билда. Раз в полторы минуты он дает бафф на **8** секунд, утраивающий шанс срабатывания [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757/) и увеличивающий его урон на **10%**. Помните, что [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), как и [Раскол](https://www.wowhead.com/ru/spell=197214), являются ударами с правой руки и при использовании под баффом [Ветров рока](https://www.wowhead.com/ru/spell=384352) вызывают срабатывание [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757/) по всем пораженным целям. 
+[Ветра рока](https://www.wowhead.com/ru/spell=384352) – основной бурст талант <span style="color:#FFFFFF;font-size:1em;">**физического**</span> билда на АоЕ. Раз в полторы минуты он дает бафф на **8** секунд, утраивающий шанс срабатывания [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757/) и увеличивающий его урон на **10%**. Помните, что [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), как и [Раскол](https://www.wowhead.com/ru/spell=197214), являются ударами с правой руки и при использовании под баффом [Ветров рока](https://www.wowhead.com/ru/spell=384352) вызывают срабатывание [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757/) по всем пораженным целям. 
 
 Следовательно основная задача на АоЕ во время активного баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352) – использовать [Раскол](https://www.wowhead.com/ru/spell=197214) и максимальное количество раз прожать [Сокрушающую молнию](https://www.wowhead.com/ru/spell=187874). Кулдаун [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874) составляет **12** секунд и снижается Скоростью, но его можно сократить еще больше за счет [Цепной молнии](https://ru.wowhead.com/spell=188443) с талантом [Сокрушающие бури](https://www.wowhead.com/ru/spell=334308). [Цепная молния](https://ru.wowhead.com/spell=188443) сокращает кулдаун [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874) на **1** секунду за каждого пораженного противника, и поражает до **5** противников.
 
 Не забывайте также перед [Ветрами рока](https://www.wowhead.com/ru/spell=384352) использовать [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/), который усиливает весь наносимый физический урон на **32%** на **15** секунд.
 
-Ротация вне бурста в <span style="color:#FFFFFF;font-size:1em;">**физическом**</span> билде заключается в трате стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) на [Цепную молнию](https://ru.wowhead.com/spell=188443) (желательно при **10** стаках) и использовании [Раскола](https://www.wowhead.com/ru/spell=197214), [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874), [Ледяного клинка](https://www.wowhead.com/ru/spell=342240/), [Удара бури](https://www.wowhead.com/ru/spell=17364) и [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) согласно приоритетам.
+Ротация вне бурста на АоЕ в <span style="color:#FFFFFF;font-size:1em;">**физическом**</span> билде заключается в трате стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) на [Цепную молнию](https://ru.wowhead.com/spell=188443) (желательно при **10** стаках) и использовании [Раскола](https://www.wowhead.com/ru/spell=197214), [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874), [Ледяного клинка](https://www.wowhead.com/ru/spell=342240/), [Удара бури](https://www.wowhead.com/ru/spell=17364) и [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) согласно приоритетам.
 
 [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) с талантом [Натиск лавы](https://www.wowhead.com/ru/spell=334033) распространяет [Огненные шоки](https://ru.wowhead.com/spell=188389) на **4** ближайших противников и этим тоже не стоит пренебрегать. Используйте [Огненной шок](https://ru.wowhead.com/spell=188389) при подходе к паку и сразу же спредайте его [Вскипанием лавы](https://www.wowhead.com/ru/spell=60103), после чего переходите к другим способностям.
 
 При использовании таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195/) следует использовать [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) после каждой траты стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880). Также стоит использовать по кулдауну [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/), увеличивающим урон следующего [Ледяного шока](https://www.wowhead.com/ru/spell=196840/) на **100%**.
 
-Можно заменить [Бурю с градом](https://www.wowhead.com/ru/spell=334195) и [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) на [Кольцо огня](https://www.wowhead.com/ru/spell=333974/), что сделает билд проще для реализации, но ценой меньшего урона в бою против **1-3** целей.
+Можно заменить [Бурю с градом](https://www.wowhead.com/ru/spell=334195) + [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) на [Кольцо огня](https://www.wowhead.com/ru/spell=333974/) + [Кружащий Водоворот](https://www.wowhead.com/ru/spell=384359/), что сделает билд проще для реализации, но ценой меньшего урона в бою против **1-3** целей.
 
 Еще один важный момент – реализация таланта [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444), который автоматически применяет [Молнию](https://www.wowhead.com/ru/spell=188196/) или [Цепную молнию](https://ru.wowhead.com/spell=188443) к текущей цели при использовании [Удара ветра](https://www.wowhead.com/ru/spell=115356) (это [Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)). Выбор между [Молнией](https://www.wowhead.com/ru/spell=188196/) или [Цепной молнией](https://ru.wowhead.com/spell=188443) зависит от последнего примененного заклинания, так что если в бою против одной цели у вас автоматически применяется [Цепная молния](https://ru.wowhead.com/spell=188443), то стоит вручную «перезаписать» его на [Молнию](https://www.wowhead.com/ru/spell=188196/). На АоЕ, соответственно, следует тоже самое сделать с [Цепной молнией](https://ru.wowhead.com/spell=188443). [WA для отслеживания](https://wago.io/DT4YbYlpN) [Воззвания к Ториму](https://www.wowhead.com/ru/spell=384444) (она же есть в [сборке на Энха](https://wago.io/HJxL_fG7C) от [Амани](https://www.twitch.tv/amanizandalari)).
 
@@ -148,12 +148,14 @@ custom-javascript-list:
 
 Основа игры на Шамане Совершенствования заключается в накоплении стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) с помощью способностей ближнего боя и тратой этих стаков на мощные мгновенные заклинания ([Удар духов стихий](https://www.wowhead.com/ru/spell=117014), [Выброс лавы](https://ru.wowhead.com/spell=51505), [Молния](https://www.wowhead.com/ru/spell=188196/)).
 
-Мгновенно применять заклинания можно при накоплении **5** стаков или более, а максимум можно набрать **10** стаков. Не стоит сразу же тратить стаки, как только их накопится **5**, сначала используйте способности с кулдауном, чтобы они не простаивали.
+Мгновенно применять заклинания можно при накоплении **5** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) или более, а максимум можно набрать **10** стаков. Не стоит сразу же тратить стаки, как только их накопится **5**, сначала используйте способности с кулдауном, чтобы они не простаивали.
 
-Ниже вы найдете приоритет способностей, который читается следующим образом:
-1. Выберите интересующие вас таланты с помощью галочек, после чего приоритет изменится соответствующим образом.
+Также довольно важно обращать внимание на бафф от [Духов дикого зверя](https://www.wowhead.com/ru/spell=51533) и [Наследия ледяной ведьмы](https://www.wowhead.com/ru/spell=384450), которые увеличивают физический урон. Под действием этих баффов меняется приоритет некоторых способностей.
+
+Приоритет способностей ниже читается следующим образом:
+1. Выберите интересующие вас таланты с помощью чекбоксов, после чего приоритет изменится соответствующим образом.
 2. Читайте приоритет с первого пункта и вниз. Если вы можете «выполнить» первый пункт, например когда способность не на кулдауне и соблюдены другие условия, вы используете эту способность.
-3. Если вы не можете «выполнить» её, то переходите к следующему пункту.
+3. Если вы не можете «выполнить» какой-то пункт, то переходите к следующему пункту до тех пор, пока не встретите выполнимый.
 4. После каждого применения заклинаний мысленно возвращайтесь в начала списка приоритетов и проходите по всем пунктам заново.
 
 **Важно!** Убедитесь, что у вас всегда наложены усиления на оружия – [Оружие неистовства ветра](https://ru.wowhead.com/spell=33757/) и [Оружие языка пламени](https://ru.wowhead.com/spell=318038/).
@@ -164,6 +166,7 @@ custom-javascript-list:
 
 <ul class="rotation_switches" style="list-style-type: none;">
   <li markdown="span" id="rotation_switch_ascphys" class="rotation_switch"><input type="checkbox"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
+  <li markdown="span" id="rotation_switch_drephys" class="rotation_switch"><input type="checkbox"> [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270)</li>
   <li markdown="span" id="rotation_switch_icphys" class="rotation_switch"><input type="checkbox"> [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/)</li> 
   <li markdown="span" id="rotation_switch_hailstormphys" class="rotation_switch"><input type="checkbox"> [Буря с градом](https://www.wowhead.com/ru/spell=334195/)</li>
   <li markdown="span" id="rotation_switch_fnphys" class="rotation_switch"><input type="checkbox"> [Кольцо огня](https://www.wowhead.com/ru/spell=333974/)</li> 
@@ -178,15 +181,14 @@ custom-javascript-list:
 <p></p>
 
 
-**Опенер** – это фиксированный порядок способностей в самом начале боя. Подразумевается, что перед боем у вас нет стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880) и все способности не на кулдауне. Данный опенер подходит и для боя против одной цели, и на АоЕ:
+**Опенер** – это фиксированный порядок способностей в самом начале боя. Подразумевается, что перед боем у вас нет стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880) и все способности не на кулдауне. Опенер для боя против **одной цели**:
 1. {:.rotation_line_totemphys_on style="display:none;"}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
 2. [Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели.
 3. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/).
-5. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) для спреда [Огненного шока](https://ru.wowhead.com/spell=188389), если в бою несколько целей.
-7. {:.rotation_line_alphaphys_on style="display:none;"}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) или [Цепная молния](https://ru.wowhead.com/spell=188443) для активации таланта [Альфа-волк](https://ru.wowhead.com/spell=198434).
+7. {:.rotation_line_alphaphys_on style="display:none;"}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) для активации таланта [Альфа-волк](https://ru.wowhead.com/spell=198434).
 8. [Удар бури](https://www.wowhead.com/ru/spell=17364) для генерации стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
 9. {:.rotation_line_ascphys_on style="display:none;"}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра](https://www.wowhead.com/ru/spell=115356).
-10. [Ветра рока](https://www.wowhead.com/ru/spell=384352) и соазу же [Удар бури]().
+10. [Ветра рока](https://www.wowhead.com/ru/spell=384352) и сразу же [Удар бури](https://www.wowhead.com/ru/spell=17364).
 11. {:.rotation_line_ebphys_on style="display:none;"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880) и если в бою не более **2** целей.
 12. {:.rotation_line_ebphys_off style="display:checked;"}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
 13. Продолжайте обычную ротацию.
@@ -197,56 +199,65 @@ custom-javascript-list:
 
 **Бой против одной цели:**
 1. {:.rotation_line_totemphys_on style="display:none;"}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
-2. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) по кулдауну.
-3. [Ветра рока](https://www.wowhead.com/ru/spell=384352), если в ближайшее время не будет дополнительных мобов.
-4. {:.rotation_line_ascphys_on style="display:none;"}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
-5. [Удар бури](https://www.wowhead.com/ru/spell=17364) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-6. {:.rotation_line_icphys_on style="display:none;"}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-7. {:.rotation_line_clphys_on style="display:none;"}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-8. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-9. [Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
-10. {:.rotation_line_ebphys_on style="display:none;"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) если у вас **2** заряда этой способности и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), либо если **1** заряд и **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-10. {:.rotation_line_ebphys_off style="display:checked;"}[Выброс лавы](https://ru.wowhead.com/spell=51505) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-12. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, желательно с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+2. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+3. {:.rotation_line_ascphys_on style="display:none;"}[Перерождение](https://www.wowhead.com/ru/spell=114051).
+4. [Ветра рока](https://www.wowhead.com/ru/spell=384352).
+5. {:.rotation_line_ascphys_on style="display:none;"}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
+6. {:.rotation_line_drephys_on style="display:none;"}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
+7. [Удар бури](https://www.wowhead.com/ru/spell=17364) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+8. {:.rotation_line_icphys_on style="display:none;"}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+9. {:.rotation_line_clphys_on style="display:none;"}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+10. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+11. [Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
+12. {:.rotation_line_ebphys_on style="display:none;"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) если у вас **2** заряда этой способности и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), либо если **1** заряд и **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+13. {:.rotation_line_ebphys_off style="display:checked;"}[Выброс лавы](https://ru.wowhead.com/spell=51505) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+14. [Раскол](https://www.wowhead.com/ru/spell=197214) с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 17. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если длительность [Огненного шока](https://ru.wowhead.com/spell=188389) на цели составляет **4** секунды или менее.
-12. {:.rotation_line_icphys_on style="display:none;"}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) по кулдауну.
-13. {:.rotation_line_hailstormphys_on style="display:none;"}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
-16. [Удар бури](https://www.wowhead.com/ru/spell=17364) с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-15. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-16. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
-17. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по кулдауну.
-19. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-20. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну.
-21. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) по кулдауну.
-22. {:.rotation_line_clphys_on style="display:none;"}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
-23. [Огненный шок](https://ru.wowhead.com/spell=188389) по кулдауну.
-24. {:.rotation_line_totemphys_on style="display:none;"}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512), если все остальные способности недоступны.
+16. {:.rotation_line_icphys_on style="display:none;"}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
+17. {:.rotation_line_hailstormphys_on style="display:none;"}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
+18. [Удар бури](https://www.wowhead.com/ru/spell=17364) с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+19. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+20. [Удар бури](https://www.wowhead.com/ru/spell=17364).
+21. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+22. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+23. [Раскол](https://www.wowhead.com/ru/spell=197214).
+24. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
+25. {:.rotation_line_fnphys_on style="display:none;"}[Кольцо огня](https://www.wowhead.com/ru/spell=333974).
+26. {:.rotation_line_clphys_on style="display:none;"}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+27. [Огненный шок](https://ru.wowhead.com/spell=188389).
+28. {:.rotation_line_totemphys_on style="display:none;"}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512), если все остальные способности недоступны.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 **Бой против 2+ целей:**
-1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) по кулдауну.
+1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 2. [Огненный шок](https://ru.wowhead.com/spell=188389), если его нет ни на одной из целей.
 3. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389), а на соседних целях [Огненный шок](https://ru.wowhead.com/spell=188389) отсутствует.
-4. [Ветра рока](https://www.wowhead.com/ru/spell=384352) по кулдауну.
-5. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-6. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
-7. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-8. [Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
-9. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-10. [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) по кулдауну.
-11. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
-12. [Раскол](https://www.wowhead.com/ru/spell=197214) по кулдауну, желательно с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-13. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-14. [Удар бури](https://www.wowhead.com/ru/spell=17364) по кулдауну.
-15. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) по кулдауну.
-16. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по кулдауну.
-17. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-18. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) по кулдауну.
-19. [Огненный шок](https://ru.wowhead.com/spell=188389), если остальные способности недоступны.
+4. [Перерождение](https://www.wowhead.com/ru/spell=114051), если в [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444) [записана](https://wago.io/DT4YbYlpN) [Цепная молния](https://ru.wowhead.com/spell=188443).
+5. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+6. [Ветра рока](https://www.wowhead.com/ru/spell=384352).
+7. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+9. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+9. {:.rotation_line_fnphys_on style="display:none;"}[Кольцо огня](https://www.wowhead.com/ru/spell=333974)
+8. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
+11. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+12. [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
+13. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
+14. [Раскол](https://www.wowhead.com/ru/spell=197214) с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+10. {:.rotation_line_ascphys_on style="display:none;"}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
+11. {:.rotation_line_drephys_on style="display:none;"}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
+16. [Удар бури](https://www.wowhead.com/ru/spell=17364).
+17. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+18. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+19. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+20. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
+21. [Огненный шок](https://ru.wowhead.com/spell=188389), если остальные способности недоступны.
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
+**Заметки:**
 
 
 
@@ -324,7 +335,9 @@ custom-javascript-list:
 
 Основа игры на Шамане Совершенствования заключается в накоплении стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) с помощью способностей ближнего боя и тратой этих стаков на мощные мгновенные заклинания ([Удар духов стихий](https://www.wowhead.com/ru/spell=117014), [Выброс лавы](https://ru.wowhead.com/spell=51505), [Молния](https://www.wowhead.com/ru/spell=188196/)).
 
-Мгновенно применять заклинания можно при накоплении **5** стаков или более, а максимум можно набрать **10** стаков. Не стоит сразу же тратить стаки, как только их накопится **5**, сначала используйте способности с кулдауном, чтобы они не простаивали.
+Мгновенно применять заклинания можно при накоплении **5** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) или более, а максимум можно набрать **10** стаков. Не стоит сразу же тратить стаки, как только их накопится **5**, сначала используйте способности с кулдауном, чтобы они не простаивали.
+
+Также довольно важно обращать внимание на бафф от [Духов дикого зверя](https://www.wowhead.com/ru/spell=51533) и [Наследия ледяной ведьмы](https://www.wowhead.com/ru/spell=384450), которые увеличивают физический урон. Под действием этих баффов приоритет способностей может меняться.
 
 Ниже вы найдете приоритет способностей, который читается следующим образом:
 1. Выберите интересующие вас таланты с помощью галочек, после чего приоритет изменится соответствующим образом.
@@ -338,44 +351,6 @@ custom-javascript-list:
 Опенер – это фиксированный порядок способностей в самом начале боя. Подразумевается, что перед боем у вас нет стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880) и все способности не на кулдауне.
 
 Выберите используемые таланты и опенер соответственно поменяется. Данный опенер является универсальным и для боя против одной цели, и для АоЕ.
-
-
-
-## Бой против одной цели
-
-
-
-
-1. Тотем неистовства ветра it's not active.
-2. Дух дикого зверя.
-3. Перерождение (with  Воззвание к Ториму primed).
-4. Ветра рока.
-4. Удар ветра if  Перерождение is active.
-4. Вскипание лавы if  Горячая рука is active, or  Пепельный катализатор has 6 or more stacks.
-4. Ледяной клинок if  Ветра рока is active.
-4. Удар бури if  Ветра рока is active.
-4. Сокрушающая молния if  Ветра рока is active.
-4. Раскол if  Ветра рока is active.
-4. Огненный шок if it's not active on your target.
-4. Молния if at 5+ (10 with  Бурлящий Водоворот) stacks of  Оружие Водоворота and the  Первозданная волна buff.
-4. Первозданная волна.
-4. Удар духов стихий if at 5+ stacks of  Оружие Водоворота and any  Духи стихий are active, or you are about to hit 2 charges.
-4. Выброс лавы if you have 5+ stacks of  Оружие Водоворота.
-4. Раскол with  Оружие земли and / or  Наследие ледяной ведьмы buffs active.
-4. Ледяной клинок.
-4. Ледяной шок with  Буря с градом active.
-4. Вскипание лавы if  Огненный шок has less than 4 seconds remaining.
-4. Удар бури with  Оружие земли and / or  Наследие ледяной ведьмы buffs active.
-4. Удар духов стихий if you have 5+ stacks of  Оружие Водоворота.
-4. Молния if you have 10 stacks of  Оружие Водоворота.
-4. Удар бури.
-4. Вскипание лавы.
-4. Молния if you have 5+ stacks of  Оружие Водоворота.
-4. Раскол.
-4. Ледяной шок.
-4. Сокрушающая молния.
-Refresh  Огненный шок.
-Refresh  Тотем неистовства ветра
 
 
 
