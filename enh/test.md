@@ -223,7 +223,6 @@ custom-javascript-list:
   <li id="rotation_switch_alphaopen" class="rotation_switch"><input type="checkbox"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
   <li id="rotation_switch_ebopen" class="rotation_switch"><input type="checkbox"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li>
   <li id="rotation_switch_totemopen" class="rotation_switch"><input type="checkbox"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
-  <li id="rotation_switch_totemopen" class="rotation_switch"><input type="checkbox"><div markdown=1> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) </div></li>    
 </ul>
 
 
