@@ -223,7 +223,7 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Выберите используемые таланты и приоритет способностей соответственно изменится. Некоторые таланты, такие как [Удар бури](https://www.wowhead.com/ru/spell=17364), [Вскипание лавы](https:// www.wowhead.com/ru/spell=60103), [Раскол](https://www.wowhead.com/ru/spell=197214) и [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/) подразумеваются как взятые по умолчанию.
+Выберите используемые таланты и приоритет способностей соответственно изменится. Некоторые таланты, такие как [Удар бури](https://www.wowhead.com/ru/spell=17364), [Вскипание лавы](https:// www.wowhead.com/ru/spell=60103), [Раскол](https://www.wowhead.com/ru/spell=197214) и [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/), подразумеваются как взятые по умолчанию.
 
 <ul class="rotation_switches" style="list-style-type: none;">
   <li markdown="span" id="rotation_switch_totem" class="rotation_switch"><input type="checkbox"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
@@ -275,7 +275,7 @@ custom-javascript-list:
 8. {:.rotation_line_hh_on style="display:none;"}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом от [Горячей руки](https://www.wowhead.com/ru/spell=201900) или при наличии **6+** стаков от таланта [Пепельный катализатор](https://www.wowhead.com/ru/spell=390371/).
 9. {:.rotation_line_dw_on style="display:none;"}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 10. {:.rotation_line_dw_on style="display:none;"}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-11. [Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+11. {:.rotation_line_dw_on style="display:none;"}[Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 12. [Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
 13. {:.rotation_line_pw_on style="display:none;"}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982) и при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 14. {:.rotation_line_pw_on style="display:none;"}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
