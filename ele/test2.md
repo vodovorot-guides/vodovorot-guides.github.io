@@ -25,6 +25,16 @@ custom-javascript-list:
     
 </ul>
 
+<ul class="rotation_switches" style="list-style-type: none;">
+
+  <li markdown="span" id="rotation_switch_asc" class="rotation_switch"><input type="checkbox"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
+  <li markdown="span" id="rotation_switch_dw" class="rotation_switch"><input type="checkbox"> [Ветра рока](https://www.wowhead.com/ru/spell=384352)</li>
+  <li markdown="span" id="rotation_switch_feral" class="rotation_switch"><input type="checkbox"> [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/)</li>
+  <li markdown="span" id="rotation_switch_pw" class="rotation_switch"><input type="checkbox"> [Первозданная волна](https://ru.wowhead.com/spell=375982)</li>
+  <li markdown="span" id="rotation_switch_alpha" class="rotation_switch"><input type="checkbox"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
+  <li markdown="span" id="rotation_switch_eb" class="rotation_switch"><input type="checkbox"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li>
+  <li markdown="span" id="rotation_switch_totem" class="rotation_switch"><input type="checkbox"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
+</ul>
 
 1. {:.rotation_line_totem_on style="display:none;"}Тотем неистовства ветра как можно ближе к боссу на момент пула.
 2. {:.rotation_line_pw_off style="display:checked;"}Огненный шок на пути к цели.
