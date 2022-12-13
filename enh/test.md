@@ -209,6 +209,10 @@ custom-javascript-list:
 
 ## Опенер
 
+Опенер – это фиксированный порядок способностей в самом начале боя. Подразумевается, что перед боем у вас нет стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880) и все способности не на кулдауне.
+
+Выберите используемые таланты и опенер соответственно поменяется. Данный опенер является универсальным и для боя против одной цели, и для АоЕ.
+
 <ul class="rotation_switches" style="list-style-type: none;">
 
   <li id="rotation_switch_asc" class="rotation_switch"><input type="checkbox"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
@@ -232,7 +236,7 @@ custom-javascript-list:
 8. [Удар бури]() для генерации стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
 9. {:.rotation_line_asc_on style="display:none;"}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра]().
 10. {:.rotation_line_dw_on style="display:none;"}[Ветра рока](https://www.wowhead.com/ru/spell=384352) и соазу же [Удар бури]().
-11. {:.rotation_line_eb_on style="display:none;"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) как только накопится **8+** стаков [Оружия Водоворота]().
+11. {:.rotation_line_eb_on style="display:none;"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880) и если в бою не более **2** целей.
 12. {:.rotation_line_eb_off style="display:checked;"}[Выброс лавы]() как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
 13. Продолжайте обычную ротацию.
 
