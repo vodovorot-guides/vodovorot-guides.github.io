@@ -209,31 +209,31 @@ custom-javascript-list:
 
 ## Опенер
 
-<ul class="rotation-switches" style="list-style-type: none;">
+<ul class="rotation_switches" style="list-style-type: none;">
 
-  <li id="rotation-switch-asc" class="rotation-switch"><input type="checkbox"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
-  <li id="rotation-switch-dw" class="rotation-switch"><input type="checkbox"> [Ветра рока](https://www.wowhead.com/ru/spell=384352)</li>
-  <li id="rotation-switch-feral" class="rotation-switch"><input type="checkbox"> [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/)</li>
-  <li id="rotation-switch-pw" class="rotation-switch"><input type="checkbox"> [Первозданная волна](https://ru.wowhead.com/spell=375982)</li>
-  <li id="rotation-switch-alpha" class="rotation-switch"><input type="checkbox"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
-  <li id="rotation-switch-eb" class="rotation-switch"><input type="checkbox"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li>
-  <li id="rotation-switch-totem" class="rotation-switch"><input type="checkbox"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
+  <li id="rotation_switch_asc" class="rotation_switch"><input type="checkbox"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
+  <li id="rotation_switch_dw" class="rotation_switch"><input type="checkbox"> [Ветра рока](https://www.wowhead.com/ru/spell=384352)</li>
+  <li id="rotation_switch_feral" class="rotation_switch"><input type="checkbox"> [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/)</li>
+  <li id="rotation_switch_pw" class="rotation_switch"><input type="checkbox"> [Первозданная волна](https://ru.wowhead.com/spell=375982)</li>
+  <li id="rotation_switch_alpha" class="rotation_switch"><input type="checkbox"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
+  <li id="rotation_switch_eb" class="rotation_switch"><input type="checkbox"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li>
+  <li id="rotation_switch_totem" class="rotation_switch"><input type="checkbox"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
     
 </ul>
 
 
-1. {:.rotation-line-totem-on style="display:none;"}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
-2. {:.rotation-line-pw-off style="display:checked;"}[Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели.
-3. {:.rotation-line-feral-on style="display:none;"}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/).
-4. {:.rotation-line-pw-on style="display:none;"}[Первозданная волна](https://ru.wowhead.com/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389) и генерации стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
-5. {:.rotation-line-pw-on style="display:none;"}[Вскипание лавы]() для спреда [Огненного шока](https://ru.wowhead.com/spell=188389), если в бою несколько целей.
-6. {:.rotation-line-pw-on style="display:none;"}[Молния](https://www.wowhead.com/ru/spell=188196/) с **10** стаками [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880) и баффом от [Первозданной волны](https://ru.wowhead.com/spell=375982).
-7. {:.rotation-line-alpha-on style="display:none;"}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) или [Цепная молния](https://ru.wowhead.com/spell=188443) для активации таланта [Альфа-волк](https://ru.wowhead.com/spell=198434).
+1. {:.rotation_line_totem_on style="display:none;"}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
+2. {:.rotation_line_pw_off style="display:checked;"}[Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели.
+3. {:.rotation_line_feral_on style="display:none;"}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/).
+4. {:.rotation_line_pw_on style="display:none;"}[Первозданная волна](https://ru.wowhead.com/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389) и генерации стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
+5. {:.rotation_line_pw_on style="display:none;"}[Вскипание лавы]() для спреда [Огненного шока](https://ru.wowhead.com/spell=188389), если в бою несколько целей.
+6. {:.rotation_line_pw_on style="display:none;"}[Молния](https://www.wowhead.com/ru/spell=188196/) с **10** стаками [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880) и баффом от [Первозданной волны](https://ru.wowhead.com/spell=375982).
+7. {:.rotation_line_alpha_on style="display:none;"}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) или [Цепная молния](https://ru.wowhead.com/spell=188443) для активации таланта [Альфа-волк](https://ru.wowhead.com/spell=198434).
 8. [Удар бури]() для генерации стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
-9. {:.rotation-line-asc-on style="display:none;"}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра]().
-10. {:.rotation-line-dw-on style="display:none;"}[Ветра рока](https://www.wowhead.com/ru/spell=384352) и соазу же [Удар бури]().
-11. {:.rotation-line-eb-on style="display:none;"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) как только накопится **8+** стаков [Оружия Водоворота]().
-12. {:.rotation-line-eb-off style="display:checked;"}[Выброс лавы]() как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
+9. {:.rotation_line_asc_on style="display:none;"}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра]().
+10. {:.rotation_line_dw_on style="display:none;"}[Ветра рока](https://www.wowhead.com/ru/spell=384352) и соазу же [Удар бури]().
+11. {:.rotation_line_eb_on style="display:none;"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) как только накопится **8+** стаков [Оружия Водоворота]().
+12. {:.rotation_line_eb_off style="display:checked;"}[Выброс лавы]() как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
 13. Продолжайте обычную ротацию.
 
 
