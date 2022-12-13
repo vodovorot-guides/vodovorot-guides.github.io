@@ -109,7 +109,7 @@ custom-javascript-list:
 
 * Данный билд также известен как **Gambling Build**. Он зависит от проков таланта [Укоренившиеся стихии](https://ru.wowhead.com/spell=378270), но показывает лучший результат в бою против одной цели даже со средним количеством проков.
 
-## <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд с Мифик+
+## <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд в Мифик+
 
 <p></p>
 
