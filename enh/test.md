@@ -213,7 +213,7 @@ custom-javascript-list:
 
 Выберите используемые таланты и опенер соответственно поменяется. Данный опенер является универсальным и для боя против одной цели, и для АоЕ.
 
-<ul class="rotation_switches" style="list-style-type: none;" >
+<ul class="rotation_switches" style="list-style-type: none;">
 
   <li markdown=1 id="rotation_switch_ascopen" class="rotation_switch"><input type="checkbox"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
   <li markdown=1 id="rotation_switch_dwopen" class="rotation_switch"><input type="checkbox"> [Ветра рока](https://www.wowhead.com/ru/spell=384352)</li>
