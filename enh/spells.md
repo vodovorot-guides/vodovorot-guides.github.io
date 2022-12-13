@@ -519,7 +519,7 @@ image: /assets/img/logos/spells.png
 * Стаки можно тратить на следующие заклинания:
   * [Молния](https://www.wowhead.com/ru/spell=188196/)
   * [Цепная молния](https://www.wowhead.com/ru/spell=188443/)
-  * [Выброс лавы](https://www.wowhead.com/ru/spell=5150)
+  * [Выброс лавы](https://www.wowhead.com/ru/spell=51505)
   * [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)
   * [Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/)
   * [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/)   
