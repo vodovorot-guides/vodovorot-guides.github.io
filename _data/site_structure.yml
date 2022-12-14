@@ -13,7 +13,7 @@ categories:
       - title: Гайд на Энх Шамана
         url: /enh/guide.html
       - title: Способности и таланты
-        url: /enh/guide.html
+        url: /enh/spells.html
 
   - title: Рестор
     url: /resto/guide.html
@@ -21,7 +21,7 @@ categories:
       - title: Гайд на Рестор Шамана
         url: /resto/guide.html
       - title: Способности и таланты
-        url: /resto/guide.html
+        url: /resto/spells.html
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
         divided: true
