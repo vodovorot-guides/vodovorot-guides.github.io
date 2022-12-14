@@ -193,7 +193,7 @@ custom-javascript-list:
 9. {:.ascphys-apl}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра](https://www.wowhead.com/ru/spell=115356).
 10. [Ветра рока](https://www.wowhead.com/ru/spell=384352) и сразу же [Удар бури](https://www.wowhead.com/ru/spell=17364).
 11. {:.ebphys-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880) и если в бою не более **2** целей.
-12. {:.ebphys-apl .totemphys-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
+12. {:.ebphys-apl .no-totemphys-apl .no-ascphys-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
 13. Продолжайте обычную ротацию.
 
 <hr style="height:1px;background-color:#bbb">

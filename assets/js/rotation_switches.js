@@ -20,25 +20,35 @@ function pick_talents(talents) {
 function change_listener(element) {
     element.addEventListener("change", function(e) {
         let radio = e.target;
+
         let elem_name = radio.id.split('_')[2];
+        let apl_elem_name = elem_name + "-apl";
+        let no_apl_elem_name = "no-" + elem_name + "-apl";
+
         let apl_elems = document.querySelectorAll("." + elem_name + "-apl, " + ".no-" + elem_name + "-apl");
 
         for (let item of apl_elems) {
-            if (radio.checked == true) {
-                item.classList.remove("no-" + elem_name + "-apl");
-                item.classList.add(elem_name + "-apl");
-                item.style.display = "list-item";
+            if (item.classList.contains(no_apl_elem_name)) {
+                item.classList.remove(no_apl_elem_name);
+                item.classList.add(apl_elem_name);
+            } else if (item.classList.contains(apl_elem_name)) {
+                item.classList.remove(apl_elem_name);
+                item.classList.add(no_apl_elem_name);
+            }
 
-                for (let className of item.classList) {
-                    if (className.includes("no-")) {
-                        item.style.display = "none";
-                        break;
-                    }
+            let has_exclude = false;
+            for (let className of item.classList) {
+                if (className.includes("no-")) {
+                    has_exclude = true;
+                    break;
                 }
-            } else {
-                item.classList.remove(elem_name + "-apl");
-                item.classList.add("no-" + elem_name + "-apl");
+
+            }
+
+            if (has_exclude) {
                 item.style.display = "none";
+            } else {
+                item.style.display = "list-item";
             }
         }
     });
