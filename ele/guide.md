@@ -295,8 +295,8 @@ custom-javascript-list:
 9. {:.rotation_line_pwaoe_on style="display:none;"}[Выброс лавы](https://ru.wowhead.com/spell=51505), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) максимальное количество целей и у вас есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=375982).
 10. {:.rotation_line_ascaoe_on style="display:none;"}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
 11. {:.rotation_line_dreaoe_on style="display:none;"}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
-12. {:.rotation_line_primalfireaoe_on style="display:none;"}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
-13. {:.rotation_line_primalstormaoe_on style="display:none;"}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
+12. {:.rotation_line_primalstormaoe_on style="display:none;"}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
+13. {:.rotation_line_primalfiremaoe_on style="display:none;"}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
 14. {:.rotation_line_ifshocksaoe_on style="display:none;"}[Ледяная ярость](https://ru.wowhead.com/spell=210714), если в бою не более **2** целей, либо если в ближайшие несколько секунд предстоит перебежка.
 15. {:.rotation_line_ifshocksaoe_on style="display:none;"}[Ледяной шок](https://ru.wowhead.com/spell=196840), если на целях нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086) и в бою не более **2** целей.
 16. {:.rotation_line_eogsaoe_off style="display:checked;"}[Землетрясение](https://ru.wowhead.com/spell=61882), если у вас достаточно Энергии Водоворота.
