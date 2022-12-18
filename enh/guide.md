@@ -142,7 +142,7 @@ custom-javascript-list:
 
 ## <span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд
 
-### В рейде
+### Для рейда
 
 <p></p>
 
@@ -156,7 +156,7 @@ custom-javascript-list:
 Билды для рейда являются **рекомендацией** для тех, кто не хочет подбирать таланты самостоятельно. На каждом боссе так или иначе будут использоваться разные билды, которые можно увидеть на [Warcraftlogs](https://www.warcraftlogs.com/) и [Subcreation](https://raid.subcreation.net/enhancement-shaman.html).
 {: class="bordered"}
 
-### В Мифик+
+### Для Мифик+
 
 <p></p>
 
