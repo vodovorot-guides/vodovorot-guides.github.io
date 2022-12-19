@@ -331,7 +331,7 @@ custom-javascript-list:
 11. {:.rotation_line_fn_on style="display:none;"}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится **6** противников.
 12. {:.rotation_line_cl_on style="display:none;"}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если нет активного баффа от этого заклинания.
 13. {:.rotation_line_ic_on style="display:none;"}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
-14. {:.rotation_line_hailstorm_on style="display:none;"}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
+14. {:.rotation_line_hs_on style="display:none;"}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
 15. {:.rotation_line_pw_on style="display:none;"}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 16. {:.rotation_line_dre_on style="display:none;"}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
 17. {:.rotation_line_dre_on style="display:none;"}[Удар бури](https://www.wowhead.com/ru/spell=17364).
