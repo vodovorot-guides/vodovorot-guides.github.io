@@ -8,7 +8,7 @@ author: Amani
 description: Большое руководство по всем аспектам игры за Шамана Совершенствования. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и WA и многое другое.
 image: /assets/img/enh_tb2.png
 custom-javascript-list:
-    - "/assets/js/rotation_switches2.js"
+    - "/assets/js/rotation_switches.js"
 ---
 
 
@@ -213,10 +213,6 @@ custom-javascript-list:
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
-
-1. {:.asc-apl} Появляется если включен чекбокс
-2. {:.no-asc-apl} Исчезает если включен чекбокс
-
 
 **Опенер для боя против одной цели:**
 1. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
