@@ -357,6 +357,7 @@ custom-javascript-list:
 **Лазурное Хранилище:**
 * [Тотем трепета](https://www.wowhead.com/ru/spell=8143) можно использовать для снятия [Изгнания в сон](https://www.wowhead.com/ru/spell=386546/), которое кастуют элементали.
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370/) снимает [Сверкающую чешую](https://www.wowhead.com/ru/spell=374778/), которую накладывают [Стражи хранилища](https://www.wowhead.com/ru/npc=190510/) перед вторым боссом.
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) снимает [Ледяные пути](https://www.wowhead.com/ru/spell=377488) от [Хранительницы печати](https://www.wowhead.com/ru/npc=187155) перед вторым боссом и замедление от [Подавляющих миазмов](https://www.wowhead.com/ru/spell=388777) на финальном боссе.
 
 **Нападаение клана Нокхуд:**
 * [Тотем трепета](https://www.wowhead.com/ru/spell=8143) может снять эффект [Отпугивающего рыка](https://www.wowhead.com/ru/spell=386063/) на третьем боссе ([Маруук](https://www.wowhead.com/ru/npc=186338/)), игрок всё равно получит большой урон от наложения этого эффекта. Не стойте в круге!
