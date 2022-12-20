@@ -20,6 +20,6 @@ author: Amani
 * **Baek**
 * **Andoriz**
 * **Зачем**
-* Моим подписчикам на [Patreon](https://www.patreon.com/amani_vodovorot).
+* Моим подписчикам на [Boosty](https://boosty.to/amani) и [Patreon](https://www.patreon.com/amani_vodovorot).
 * Поддержавшим меня на [Twitch](https://www.twitch.tv/amanizandalari) и [YouTube](https://www.youtube.com/Amanizandalari).
 * **Всему Discord серверу** [**«Водоворот»**](https://discordapp.com/invite/zTQhBn8)
