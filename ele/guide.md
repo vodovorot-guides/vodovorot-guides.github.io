@@ -358,10 +358,10 @@ custom-javascript-list:
 * [Тотем трепета](https://www.wowhead.com/ru/spell=8143) может снять эффект [Отпугивающего рыка](https://www.wowhead.com/ru/spell=386063/) на третьем боссе ([Маруук](https://www.wowhead.com/ru/npc=186338/)), игрок всё равно получит большой урон от наложения этого эффекта. Не стойте в круге!
 * [Тотем трепета](https://www.wowhead.com/ru/spell=8143) также снимает эффект [Кровожадного вопля](https://www.wowhead.com/ru/spell=373395/), который накладывает [Батак](https://www.wowhead.com/ru/npc=193462/) перед финальным боссом.
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370/) снимает [Щит бури](https://www.wowhead.com/ru/spell=386223), который накладывает [Яростная бури](https://www.wowhead.com/ru/npc=186615/) на треше перед вторым боссом.
-* [Улучшенное возрождение духа](https://www.wowhead.com/ru/spell=383016) позволяет снять дебафф [Хватка мертвеца](https://www.wowhead.com/ru/spell=387615) перед третьим боссом.
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) позволяет снять дебафф [Хватка мертвеца](https://www.wowhead.com/ru/spell=387615) перед третьим боссом.
 
 **Квартал Звезд:**
-* [Улучшенное возрождение духа](https://www.wowhead.com/ru/spell=383016) снимает дебафф от [Луча дезинтеграции](https://www.wowhead.com/ru/spell=207981/) [Баалгара Бдительного](https://www.wowhead.com/ru/npc=104274) перед вторым боссом.
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) снимает дебафф от [Луча дезинтеграции](https://www.wowhead.com/ru/spell=207981/) [Баалгара Бдительного](https://www.wowhead.com/ru/npc=104274) перед вторым боссом.
 * [Поступь духа](https://www.wowhead.com/ru/spell=58875/) позволяет полностью снять дебафф от [Чародейской изоляции](https://www.wowhead.com/ru/spell=207278/) на первом боссе, без необходимости подпрыгивать.
 
 
