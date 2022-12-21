@@ -543,7 +543,7 @@ custom-javascript-list:
 
 ## Аксессуары
 
-Ниже представлены неплохие аксессуары из Мифик+ и рейда. Полный рейтинг аксессуаров можно найти на [QE Live](https://questionablyepic.com/live/trinkets).
+Ниже представлены неплохие аксессуары из Мифик+ и рейда. Полный рейтинг аксессуаров можно найти на [Bloodmallet.com](https://bloodmallet.com/chart/shaman/elemental/trinkets/castingpatchwerk).
 
 **Аксессуары из Мифик+:**
 * [Яростное перо](https://www.wowhead.com/ru/item=193677/) – Наступление клана Нокхуд.
