@@ -272,11 +272,6 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_eogs"> [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087)</li>
 </ul>
 
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_sknosop"> [Хранитель бурь](https://ru.wowhead.com/spell=191634) без таланта [Прилив мощи](https://www.wowhead.com/ru/spell=262303/)</li>    
-
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_ifnoshocks"> [Ледяная ярость](https://ru.wowhead.com/spell=210714) без таланта [Электрический шок](https://www.wowhead.com/ru/spell=382086)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_ifshocks"> [Ледяная ярость](https://ru.wowhead.com/spell=210714) с талантом [Электрический шок](https://www.wowhead.com/ru/spell=382086)</li>    
-
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
