@@ -310,6 +310,8 @@ custom-javascript-list:
 10. {:.sk-apl .mote-apl .no-sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 10. {:.sk-apl .no-mote-apl .no-sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 11. {:.sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
+12. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу Энергии Водоворота. 
+20. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если следующее заклинание приведет к оверкапу Энергии Водоворота. 
 16. {:.if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840), если у вас есть бафф от [Ледяной ярости](https://ru.wowhead.com/spell=210714), а на цели нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
 17. {:.if-apl .flux-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840), если у вас есть бафф от [Ледяной ярости](https://ru.wowhead.com/spell=210714), но нет баффа от [Расплавленной породы](https://www.wowhead.com/ru/spell=381776/).
 18. {:.ls-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
