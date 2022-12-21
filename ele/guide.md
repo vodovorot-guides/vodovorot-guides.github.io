@@ -265,6 +265,7 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_dre"> [Укоренившиеся стихии](https://ru.wowhead.com/spell=378270)</li>
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_sop"> [Прилив мощи](https://www.wowhead.com/ru/spell=262303/)</li>   
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_mote"> [Властелин стихий](https://ru.wowhead.com/spell=16166)</li> 
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_if"> [Ледяная ярость](https://ru.wowhead.com/spell=210714)</li> 
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_flux"> [Расплавленная порода](https://www.wowhead.com/ru/spell=381776/)</li>
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_es"> [Электрический шок](https://www.wowhead.com/ru/spell=382086)</li>
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_ls"> [Волна лавы](https://ru.wowhead.com/spell=77756) или [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=378268)</li>
