@@ -317,6 +317,7 @@ custom-javascript-list:
 13. {:.ic-apl .no-hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 24. {:.no-dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 15. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и если в бою не более **2** целей.
+  * {:.es-apl}Старайтесь использовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при активных [Духах дикого зверя](https://www.wowhead.com/ru/spell=51533) с талантом [Духи стихий](https://www.wowhead.com/ru/spell=262624).
 26. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 27. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
 28. [Огненный шок](https://ru.wowhead.com/spell=188389).
