@@ -1408,7 +1408,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 Один из двух талантов на выбор:
-<a href="https://ru.wowhead.com/spell=362624" target="blank" data-wh-icon-size="small" >**Духи стихий**</a> – [Дух дикого зверя](https://ru.wowhead.com/spell=51533) вместо баффа на <span style="color:#FFFFFF;font-size:1em;">**физический урон**</span> усиливает весь урон от школ магии <span style="color:#f16f25;font-size:1em;">**огня**</span>, <span style="color:#8fd5fe;font-size:1em;">**льда**</span> или <span style="color:#26d22b;font-size:1em;">**природы**</span>. Каждый из двух призванных волков усиливает случайную стихию, которые могут совпадать.
+<a href="https://ru.wowhead.com/spell=262624" target="blank" data-wh-icon-size="small" >**Духи стихий**</a> – [Дух дикого зверя](https://ru.wowhead.com/spell=51533) вместо баффа на <span style="color:#FFFFFF;font-size:1em;">**физический урон**</span> усиливает весь урон от школ магии <span style="color:#f16f25;font-size:1em;">**огня**</span>, <span style="color:#8fd5fe;font-size:1em;">**льда**</span> или <span style="color:#26d22b;font-size:1em;">**природы**</span>. Каждый из двух призванных волков усиливает случайную стихию, которые могут совпадать.
 
 <a href="https://ru.wowhead.com/spell=198434" target="blank" data-wh-icon-size="small" >**Альфа-волк**</a> – пока активен [Дух дикого зверя](https://ru.wowhead.com/spell=51533), применение [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874) или [Цепной молнии](https://www.wowhead.com/ru/spell=188443/) усиливает ваших волков, позволяя им наносить урон ближайшим противникам в течение **8** секунд.
 
