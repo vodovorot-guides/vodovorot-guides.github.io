@@ -278,9 +278,9 @@ custom-javascript-list:
 
 **Опенер в бою против одной цели:**
 1. {:.sk-apl .no-sop-apl}[Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) за **5** секунд до пула.
+3. {:.fire-apl}[Элементаль огня](https://www.wowhead.com/ru/spell=198067) за **3** секунды до пула
 1. {:.no-if-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) за **1.5** секунд до пула.
 2. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **1.5** секунд до пула.
-3. {:.fire-apl}[Элементаль огня](https://www.wowhead.com/ru/spell=198067).
 4. {:.storm-apl}[Элементаль бури](https://www.wowhead.com/ru/spell=192249).
 5. {:.no-pw-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
 6. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=326059).
