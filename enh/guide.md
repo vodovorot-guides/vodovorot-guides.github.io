@@ -274,7 +274,7 @@ custom-javascript-list:
 <p></p>
 
 **Опенер в бою против 2+ целей:**
-1. {:.totem-apl}Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
+1. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
 2. {:.no-pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели.
 3. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/).
 4. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389).
@@ -290,7 +290,7 @@ custom-javascript-list:
 <p></p>
 
 **Бой против 2+ целей:**
-1. {:.totem-apl}Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
+1. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
 1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 2. [Огненный шок](https://ru.wowhead.com/spell=188389), если его нет ни на одной из целей.
 3. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389), а на соседних целях [Огненный шок](https://ru.wowhead.com/spell=188389) отсутствует.
