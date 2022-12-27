@@ -227,8 +227,6 @@ custom-javascript-list:
 9. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра](https://www.wowhead.com/ru/spell=115356).
 10. {:.dw-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352) и сразу же [Удар бури](https://www.wowhead.com/ru/spell=17364).
 11. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
-12. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
-13. {:.no-eb-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) как только накопится **8+** стаков [Оружия Водоворота](https://www.wowhead.com/ru/spell=187880).
 14. Продолжайте обычную ротацию.
 
 <hr style="height:1px;background-color:#bbb">
