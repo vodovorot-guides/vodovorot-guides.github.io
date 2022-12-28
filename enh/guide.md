@@ -319,7 +319,7 @@ custom-javascript-list:
 26. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 27. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
 28. [Огненный шок](https://ru.wowhead.com/spell=188389).
-29. {:.totem-apl}Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512), если все остальные способности недоступны.
+29. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512), если все остальные способности недоступны.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
