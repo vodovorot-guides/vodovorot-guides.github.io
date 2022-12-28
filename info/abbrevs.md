@@ -302,5 +302,5 @@ image: /assets/img/logos/abbrevs.png
 * [Изначальное сердце волн](https://www.wowhead.com/ru/spell=382045) – Primal Tide Core.
 * {{ site.data.spells.high_tide }} – High Tide, HT, ХТ, Хай тайд.
 * {{ site.data.spells.asc_resto }} – Ascendance, Asc, Асц, Мужик, Пепега.
-* [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) – Deeply Rooted Elements, Корни, Казино.
+* [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) – Deeply Rooted Elements, DRE, Дре, Корни, Казино.
 * {{ site.data.spells.wellspring }} – Wellspring, WP, Веллспринг.
