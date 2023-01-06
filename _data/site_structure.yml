@@ -52,6 +52,8 @@ categories:
         url: /info/professions.html      
       - title: Прокачка в Dragonflight
         url: /info/leveling.html  
+      - title: Утилити таланты в Мифик+
+        url: /info/utiity.html  
       - title: Авторы и благодарности
         url: /info/patrons.html
         divided: true
