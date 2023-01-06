@@ -224,6 +224,11 @@ image: /assets/img/resto_tb2.png
 * [Сглаз](https://www.wowhead.com/ru/spell=51514) – контроль одного противника.
 * [Гром и молния](https://www.wowhead.com/ru/spell=51490) – отбрасывание противников с последующим замедлением. Можно использовать с талантом [Громовой удар](https://www.wowhead.com/ru/spell=378779/) для дополнительного сбивания кастов, но без откидывания.
 
+<p></p>
+
+{% include button.html name="Выбор утилити талантов в Мифик+" link="https://stormkeeper.ru/info/utility.html" %}  
+
+<p></p>
 
 # Характеристики
 
