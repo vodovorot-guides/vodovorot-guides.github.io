@@ -496,7 +496,7 @@ custom-javascript-list:
 
 ## Аксессуары
 
-Ниже представлены неплохие аксессуары из Мифик+ и рейда. Полный рейтинг аксессуаров можно найти на [QE Live](https://questionablyepic.com/live/trinkets).
+Ниже представлены неплохие аксессуары из Мифик+ и рейда. Полный рейтинг аксессуаров можно найти на [Bloodmallet](https://bloodmallet.com/chart/shaman/enhancement/trinkets/castingpatchwerk).
 
 **Аксессуары из Мифик+:**
 * [Алгет'арская шкатулка с секретом](https://www.wowhead.com/ru/item=193701) – **Академия Алгет'ар**.
@@ -504,6 +504,7 @@ custom-javascript-list:
 * [Светозарный дар](https://www.wowhead.com/ru/item=133647) – **Чертоги Доблести** (падает только танку, можно потрейдить).
 * [Голод стаи](https://www.wowhead.com/ru/item=136975/) – **Чертоги Доблести**.
 * [Унесенные ветром страницы](https://www.wowhead.com/ru/item=144113) – **Храм Нефритовой Змеи**.
+* [Точильный камень секущих ветров](https://www.wowhead.com/ru/item=137486) – **Квартал Звезд**.
 
 
 **Аксессуары из Хранилища Воплощений:**
