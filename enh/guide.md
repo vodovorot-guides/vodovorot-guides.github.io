@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2023-01-09
+last_update: 2023-01-11
 title: Гайд на Энх Шамана
 wow: 10.0.2
 toc: true
@@ -108,19 +108,17 @@ custom-javascript-list:
 
 ### Стихийный билд
 
-В Мифик+ на данный момент используются два билда – <span style="color:#f16f25;font-size:1em;">**Стихийный**</span> и **Гибридный**. Полностью <span style="color:#FFFFFF;font-size:1em;">**физические**</span> билды на данный момент в Мифик+ не эффективны.
+В Мифик+ на данный момент используется <span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд. **Гибридный** является альтернативным вариантом для некоторых подземелий, например в Академии Алгет'ар на Укрепленных неделях. Полностью <span style="color:#FFFFFF;font-size:1em;">**физические**</span> билды на данный момент в Мифик+ не эффективны.
 
-
-Основной <span style="color:#f16f25;font-size:1em;">**стихийный**</span> билд для большинства подземелий, через [Кольцо огня](https://www.wowhead.com/ru/spell=333974):
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSaRCiIhIJJUSkAAAAAAAAAAAAAQJCRIJCRBSJJJFAlEJBA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд через [Бурю с градом](https://www.wowhead.com/ru/spell=334195) и с [Тотемом неистовства ветра](https://www.wowhead.com/ru/spell=8512):
 
 <p></p>
 
-Вариант <span style="color:#f16f25;font-size:1em;">**стихийного**</span> билда через [Бурю с градом](https://www.wowhead.com/ru/spell=334195), подойдет для высоких ключей и **Тиранического** модификатора, но он сложнее в реализации:
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAfcj78nJtvjmejSqe5Zhm9IJJpEJISSISCUSkAAAAAAAAAAAAAQJCRIhUEFIlkkUAUSkEA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
+<p></p>
+
+<span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд через [Бурю с градом](https://www.wowhead.com/ru/spell=334195) с [Ударом духов стихий](https://www.wowhead.com/ru/spell=117014):
 
 <p></p>
 
@@ -128,11 +126,11 @@ custom-javascript-list:
 
 <p></p>
 
-<span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд через [Бурю с градом](https://www.wowhead.com/ru/spell=334195) и с [Тотемом неистовства ветра](https://www.wowhead.com/ru/spell=8512), для групп с несколькими милишниками:
+<span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд через [Кольцо огня](https://www.wowhead.com/ru/spell=333974), подойдет для новичков:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAfcj78nJtvjmejSqe5Zhm9IJJpEJISSISCUSkAAAAAAAAAAAAAQJCRIhUEFIlkkUAUSkEA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSaRCiIhIJJUSkAAAAAAAAAAAAAQJCRIJCRBSJJJFAlEJBA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
@@ -149,7 +147,7 @@ custom-javascript-list:
 
 При игре с талантами [Буря с градом](https://www.wowhead.com/ru/spell=334195) и [Ледяной клинок](https://www.wowhead.com/ru/spell=342240) **не нужно** подгадывать каждый [Ледяной шок](https://www.wowhead.com/ru/spell=196840) под баффы от обоих талантов. Так как кулдаун [Ледяного клинка](https://www.wowhead.com/ru/spell=342240) в три раза длиннее кулдауна [Ледяного шока](https://www.wowhead.com/ru/spell=196840), то не бойтесь тратить стаки [Бури с градом](https://www.wowhead.com/ru/spell=334195) без баффа от [Ледяного клинка](https://www.wowhead.com/ru/spell=342240).
 
-В <span style="color:#f16f25;font-size:1em;">**стихийном**</span> билде также берется [Удар духов стихий](https://www.wowhead.com/ru/spell=117014), хотя его использование в Мифик+ опционально. Но этот талант дает отличный урон в бою против одной цели, и особенно с активными волками от таланта [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533), которые в сочетании с талантом [Духи стихий](https://www.wowhead.com/ru/spell=262624) увеличивают не физический урон, а стихийный. 
+В одной из версий <span style="color:#f16f25;font-size:1em;">**стихийного**</span> билда также берется [Удар духов стихий](https://www.wowhead.com/ru/spell=117014), хотя его использование в Мифик+ опционально. Но этот талант дает отличный урон в бою против одной цели, и особенно с активными волками от таланта [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533), которые в сочетании с талантом [Духи стихий](https://www.wowhead.com/ru/spell=262624) увеличивают не физический урон, а стихийный. Но на **3+** цели этот талант не эффективен.
 
 ### Гибридный билд
 
