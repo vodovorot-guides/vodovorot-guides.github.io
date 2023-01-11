@@ -1363,6 +1363,9 @@ image: /assets/img/logos/spells.png
 </details>
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 Один из двух талантов на выбор:
 * <a href="https://ru.wowhead.com/spell=114051" target="blank" data-wh-icon-size="small" >**Перерождение**</a> – бурст с кулдауном **3** минуты и длительностью **15** секунд, превращает [Удар бури](https://www.wowhead.com/ru/spell=17364) в [Удар ветра](https://www.wowhead.com/ru/spell=115356), а автоатаки в [Хлещущий ветер](https://www.wowhead.com/ru/spell=147051), позволяя им бить цели на расстоянии до **30** метров и игнорировать броню. [Удар ветра](https://www.wowhead.com/ru/spell=115356) при этом имеет сниженный на **60%** кулдаун. При активации [Перерождения](https://ru.wowhead.com/spell=114051) вы мгновенно наносите урон всем противникам в радиусе **8** метров от вас.
 
