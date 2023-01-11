@@ -344,10 +344,11 @@ custom-javascript-list:
 8. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114050).
 11. {:.sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/), если в бою не более **2** целей.
 9. {:.pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) максимальное количество целей и у вас есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=375982).
-8. {:.dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) в бою против **2-5** целей.
-8. {:.no-dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если в бою не более **2** целей.
-10. {:.asc-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
-11. {:.dre-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+8. {:.dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) в бою против **2-4** целей.
+  * {:.dre-apl}В бою против **5** целей [Выброс лавы](https://ru.wowhead.com/spell=51505) стоит кастовать с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756). На **6+** целей – только во время передвижения.
+10. {:.no-dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если в бою не более **2** целей.
+11. {:.asc-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+12. {:.dre-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
 14. {:.if-apl .es-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714), если в бою не более **2** целей.
 15. {:.if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840), если на целях нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086) и если в бою не более **2** целей.
 16. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если у вас достаточно Энергии Водоворота.
