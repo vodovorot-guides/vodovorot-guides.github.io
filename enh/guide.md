@@ -223,7 +223,7 @@ custom-javascript-list:
 4. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389).
 5. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982) и при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 7. {:.cl-apl .alpha-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) для активации таланта [Альфа-волк](https://ru.wowhead.com/spell=198434).
-8. [Удар бури](https://www.wowhead.com/ru/spell=17364).
+8. {:.no-dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 9. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра](https://www.wowhead.com/ru/spell=115356).
 10. {:.dw-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352) и сразу же [Удар бури](https://www.wowhead.com/ru/spell=17364).
 11. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
