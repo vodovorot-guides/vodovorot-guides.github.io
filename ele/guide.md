@@ -314,9 +314,9 @@ custom-javascript-list:
 11. {:.sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 12. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу Энергии Водоворота. 
 20. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если следующее заклинание приведет к оверкапу Энергии Водоворота. 
+18. {:.ls-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
 16. {:.if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840), если у вас есть бафф от [Ледяной ярости](https://ru.wowhead.com/spell=210714), а на цели нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
 17. {:.if-apl .flux-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840), если у вас есть бафф от [Ледяной ярости](https://ru.wowhead.com/spell=210714), но нет баффа от [Расплавленной породы](https://www.wowhead.com/ru/spell=381776/).
-18. {:.ls-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
 19. {:.eogs-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 20. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042).
 21. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
