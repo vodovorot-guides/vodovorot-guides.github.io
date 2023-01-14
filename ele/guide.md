@@ -319,10 +319,10 @@ custom-javascript-list:
 17. {:.if-apl .flux-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840), если у вас есть бафф от [Ледяной ярости](https://ru.wowhead.com/spell=210714), но нет баффа от [Расплавленной породы](https://www.wowhead.com/ru/spell=381776/).
 19. {:.eogs-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 20. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042).
-21. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
 22. {:.no-dre-apl .flux-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Расплавленной породы](https://www.wowhead.com/ru/spell=381776/).
 23. {:.dre-apl .flux-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 23. {:.dre-apl .no-flux-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
+21. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
 24. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
 26. {:.if-apl .no-es-apl .no-flux-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 27. {:.storm-apl}[Молния](https://ru.wowhead.com/spell=188196) во время активного [Элементаля бури](https://ru.wowhead.com/spell=192249).
