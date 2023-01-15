@@ -232,7 +232,7 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-**Бой против одной цели:**
+**Приоритет способностей для боя против одной цели:**
 1. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
 2. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 3. {:.asc-apl}[Перерождение](https://www.wowhead.com/ru/spell=114051).
@@ -290,7 +290,7 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-**Бой против 2+ целей:**
+**Приоритет способностей в бою против 2+ целей:**
 1. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
 1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 2. [Огненный шок](https://ru.wowhead.com/spell=188389), если его нет ни на одной из целей.
