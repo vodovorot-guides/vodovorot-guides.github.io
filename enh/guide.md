@@ -204,13 +204,13 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_hs"> [Буря с градом](https://www.wowhead.com/ru/spell=334195/)</li>
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_fn"> [Кольцо огня](https://www.wowhead.com/ru/spell=333974/)</li> 
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_eb"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_alpha"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_dw"> [Ветра рока](https://www.wowhead.com/ru/spell=384352)</li>   
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_pw"> [Первозданная волна](https://www.wowhead.com/ru/spell=375982)</li>   
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_hh"> [Горячая рука](https://www.wowhead.com/ru/spell=201900)</li>     
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_lf"> [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046)</li>   
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_fw"> [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450)</li>     
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_es"> [Духи стихий](https://www.wowhead.com/ru/spell=262624)</li>       
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_fw"> [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450)</li>   
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_es"> [Духи стихий](https://www.wowhead.com/ru/spell=262624)</li>     
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_alpha"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
 </ul>
 
 <hr style="height:1px;background-color:#bbb">
