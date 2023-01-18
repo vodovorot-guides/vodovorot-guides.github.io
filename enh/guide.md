@@ -239,8 +239,8 @@ custom-javascript-list:
 17. {:.dw-apl .ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 18. {:.dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 19. {:.dw-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-20. [Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
 21. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
+20. [Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
 22. {:.no-es-apl .fw-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) с баффом от таланта [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450).
 23. {:.es-apl .fw-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 24. {:.ic-apl .hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
