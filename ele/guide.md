@@ -348,7 +348,8 @@ custom-javascript-list:
 14. {:.if-apl .es-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714), если в бою не более **2** целей.
 15. {:.if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840), если на целях нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086) и если в бою не более **2** целей.
 16. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если у вас достаточно Энергии Водоворота.
-  * В бою против **2** целей, если мобы могут выйти из зоны действия [Землетрясения](https://ru.wowhead.com/spell=61882), то его стоит заменить на [Земной шок](https://ru.wowhead.com/spell=8042).
+  * {:.no-eb-apl}В бою против **2** целей, если мобы могут выйти из зоны действия [Землетрясения](https://ru.wowhead.com/spell=61882), то его стоит заменить на [Земной шок](https://ru.wowhead.com/spell=8042).
+  * {:.eb-apl .no-eogs-apl}В бою против **2-3** целей стоит использовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) вместо [Землетрясения](https://ru.wowhead.com/spell=61882).
 17. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) c баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087), если у вас достаточно Энергии Водоворота.
 18. {:.no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087) и если у вас достаточно Энергии Водоворота.
 18. {:.eb-apl .eogs-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087) и если у вас достаточно Энергии Водоворота.
