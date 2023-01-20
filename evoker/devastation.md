@@ -361,7 +361,7 @@ image: /assets/img/dev_tb2.png
 
 ## Использование Дезинтеграции подряд
 
-[Дезинтеграция](https://www.wowhead.com/ru/spell=356995) имеет **4** тика. При применении [Дезинтеграции](https://www.wowhead.com/ru/spell=356995) можно повторно применить [Дезинтеграцию](https://www.wowhead.com/ru/spell=356995) после **3** тика без потери урона. Это заставляет новую [Дезинтеграцию](https://www.wowhead.com/ru/spell=356995) наложиться на предыдущую и нанести последний тик предыдущей между **1** и **2** тиком новой. Используйте [WA](https://wago.io/Yg2IYXvC_) чтобы отслеживать тики [Дезинтеграции](https://www.wowhead.com/ru/spell=356995).
+[Дезинтеграция](https://www.wowhead.com/ru/spell=356995) имеет **4** тика. При применении [Дезинтеграции](https://www.wowhead.com/ru/spell=356995) можно повторно применить [Дезинтеграцию](https://www.wowhead.com/ru/spell=356995) после **3** тика без потери урона. Это заставляет новую [Дезинтеграцию](https://www.wowhead.com/ru/spell=356995) наложиться на предыдущую и нанести последний тик предыдущей между **1** и **2** тиком новой. Используйте [WA](https://wago.io/5kai1Dwe9) чтобы отслеживать тики [Дезинтеграции](https://www.wowhead.com/ru/spell=356995).
 
 <p align="center">
     <img src="https://media.giphy.com/media/K3RGDj01oFBdRJRABe/giphy.gif"> 
