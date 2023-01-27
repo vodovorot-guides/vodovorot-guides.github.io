@@ -48,9 +48,8 @@ image: /assets/img/resto_tb2.png
 
 # Таланты для Рейда
 
-Здесь представлены несколько билдов Рестора – через [Быстрину](https://www.wowhead.com/ru/spell=61295), [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/) и бурстовый вариант через [Перерождение](https://www.wowhead.com/ru/spell=114052).
-
-Большинство талантов Рестора примерно равны по эффективности в рейде, так что состав группы, паттерны урона и другие факторы оказывают гораздо большее влияние, чем билд.
+Для точных данных по каждому боссу рекомендуется смотреть таланты на [Warcraftlogs](https://www.warcraftlogs.com/).
+{: class="bordered"}
 
 Если вы новичок на Рестор Шамане, то вместо [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153) можно брать усиление [Тотема исцеляющего потока](https://www.wowhead.com/ru/spell=5394) – талант [Живой поток](https://www.wowhead.com/ru/spell=382482).
 
@@ -58,35 +57,24 @@ image: /assets/img/resto_tb2.png
 
 ## Основной билд
 
-Стандартный билд для рейда, дающий простор для экспериментов. Здесь взяты самые сильные таланты, в основном влияющие на [Быстрину](https://www.wowhead.com/ru/spell=61295). В случае нехватки маны можно взять [Водный щит](https://www.wowhead.com/ru/spell=52127) и [Упоение](https://www.wowhead.com/ru/spell=16196) вместо [Энергии Предков](https://www.wowhead.com/ru/spell=207401).
+Стандартный билд для рейда, дающий простор для экспериментов. Подходит для боев, где союзники стоят кучно.
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAhEkEpkQapElEl0iWQJhgSCAgUik0SJEIJRA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIRSSokQaKRLJFtoFJlECKJAAJlIBtEBSSkE?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
 <p></p>
 
-## Билд через Прилив
+## Альтернативный билд
 
-Данный билд основан на усилении [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/), со взятыми талантами на регенерацию маны. Подойдет для боев, где рейд стоит кучно, так как радиус прыжка [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) составляет **15** метров.
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIRSSkSCppEtEl0iWQJhQKJAASJJJNQgkERA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+Данный билд подойдет для боев, где союзники стоят разрозненно – например, как на Дафии Перерожденной.
 
 <p></p>
 
-## Бурстовый билд
-
-Данный билд дает сочетание бурста от [Перерождения](https://www.wowhead.com/ru/spell=114052) с распределением отхила от [Наставлений предков](https://www.wowhead.com/ru/spell=108281/), а также позволяет сбрасывать кулдаун тотемов с помощью [Возвращения тотемов](https://www.wowhead.com/ru/spell=108285/), что также дает дополнительное исцеление в нужный момент.
-
-[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/) стоит использовать сразу после [Тотема земляной стены](https://www.wowhead.com/ru/spell=198838), либо для [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153) / [Тотема исцеляющего потока](https://www.wowhead.com/ru/spell=5394).
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAfcj78nJtvjmejSqe5Zhm9AAAAAAAAAAAAAQIRSSoEkiSUSUSLKRiECKJhAgUCJNtEgkEJB?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIBJRkQaKRJRJtoFJlECpkAAkUiEUSEIJRE?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
-
-<p></p>
 
 # Таланты для Мифик+
 
@@ -105,9 +93,6 @@ image: /assets/img/resto_tb2.png
 Не бойтесь экспериментировать с билдами, если вы считаете, что какие-то таланты лучше подойдут в определенной ситуации. Например, на Тиранических неделях могут быть полезны таланты на регенерацию маны ([Водный щит](https://www.wowhead.com/ru/spell=52127/), [Упоение](https://www.wowhead.com/ru/spell=16196)), так как бои с боссами могут длиться достаточно долго. Если вам не нравится механика определенного заклинания, например [Первозданной волны](https://www.wowhead.com/ru/spell=375982) или [Вечного прилива](https://www.wowhead.com/ru/spell=382029), то можно заменить эти таланты на другие, и так далее.
 
 [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) с талантом [Живой поток](https://www.wowhead.com/ru/spell=382482) будет хорошей альтернативой [Тотему разразившегося ливня](https://www.wowhead.com/ru/spell=157153/) в низких ключах, но в более высоких он теряет свою эффективность. [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153/) может спасти союзника от смерти, тогда как [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) дает просто пассивный отхил без какого-либо контроля с вашей стороны.
-
-После старта сезона будет доступно больше информации об эффективности тех или иных талантов в Мифик+, и эта статья будет соответствующее обновлена.
-{: class="bordered"}
 
 # Приоритет способностей
 
