@@ -94,7 +94,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIpJJkkWkQKpFEl0CSSJIEJRJlQBIJBQUSSSIB?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAgkmkQSapkQKaRLBtAJlECRSIFUgDUSSAAJJJHIB?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
 <p></p>
 
@@ -151,7 +151,6 @@ image: /assets/img/resto_tb2.png
 
 1. Используйте [Целительный ливень](https://ru.wowhead.com/spell=73920) для нанесения урона с талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) по кулдауну, желательно с баффом от [Властелина стихий](https://www.wowhead.com/ru/spell=16166).
 1. Используйте [Хранитель бурь](https://www.wowhead.com/ru/spell=383009) для усиления урона [Молнии](https://ru.wowhead.com/spell=188196) в бою против **1** цели или для баффа [Цепной молнии](https://ru.wowhead.com/spell=188443) если целей больше **2**.
-2. Талант [Вечный прилив](https://www.wowhead.com/ru/spell=382029) может пригодиться и для нанесения урона, и для увеличенного отхила.
 4. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443), если целей больше **2**.
 5. [Огненный шок](https://ru.wowhead.com/spell=188389) стоит поддерживать в бою против **1** цели, на большем количестве целей он кастуется только во время передвижения. Обновляйте [Огненный шок](https://ru.wowhead.com/spell=188389), когда до его спадения остается менее **5.4** секунд, чтобы это время добавилось к новому наложению дебаффа.
 6. [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется по кулдауну в бою против **1** цели, либо по проку [Волны лавы](https://ru.wowhead.com/spell=77756) во время движения на большем количестве целей.
