@@ -185,10 +185,11 @@ custom-javascript-list:
 4. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389).
 5. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982) и при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 7. {:.cl-apl .alpha-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) для активации таланта [Альфа-волк](https://ru.wowhead.com/spell=198434).
-8. {:.no-dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
-9. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра](https://www.wowhead.com/ru/spell=115356).
-10. {:.dw-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352) и сразу же [Удар бури](https://www.wowhead.com/ru/spell=17364).
-11. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
+8. {:.hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
+9. {:.no-dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+10. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра](https://www.wowhead.com/ru/spell=115356).
+11. {:.dw-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352) и сразу же [Удар бури](https://www.wowhead.com/ru/spell=17364).
+12. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 14. Продолжайте обычную ротацию.
 
 <hr style="height:1px;background-color:#bbb">
@@ -222,9 +223,9 @@ custom-javascript-list:
 27. {:.no-eb-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 29. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 29. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если длительность [Огненного шока](https://ru.wowhead.com/spell=188389) на цели составляет **4** секунды или менее.
+33. {:.no-dre-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
 31. {:.no-dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 32. {:.ic-apl .no-hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
-33. {:.no-dre-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
 34. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 35. [Раскол](https://www.wowhead.com/ru/spell=197214).
 36. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
