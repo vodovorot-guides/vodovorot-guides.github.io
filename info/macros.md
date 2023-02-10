@@ -107,28 +107,15 @@ image: /assets/img/logos/macros.png
 /cast [@cursor] Тотем конденсации
 ~~~
 
-* Каст способности <span style="color:#a330c9;font-size:1em;">**Ночного Народца**</span> [Волшебное переливание](https://ru.wowhead.com/spell=328923) без выбора зоны на земле и с защитой от повторного нажатия и отмены заклинания:
-~~~
-#showtooltip
-/stopmacro [channeling]
-/cast [@cursor] Волшебное переливание
-~~~
-
 * Позволяет вынести {{ site.data.spells.rez }} на панель заклинаний чтобы следить за временем восстановления:  
 ~~~
 #showtooltip Реинкарнация
 ~~~
 
-* Вне боя использует {{ site.data.spells.ressurect }} (для Рестора замените на {{ site.data.spells.mass_res }}), а в бою – инженерский батл-рес [Одноразовый спектросинхронный оживитель](https://ru.wowhead.com/item=184308): 
-~~~
+* Вне боя использует {{ site.data.spells.ressurect }} (для Рестора замените на {{ site.data.spells.mass_res }}), а в бою – инженерский батл-рес в наручах.
 #showtooltip
-/use [combat] Одноразовый спектросинхронный оживитель; [nocombat] Дух предков
+/use [combat] Сложные манжеты; [nocombat] Дух предков
 ~~~
-
-Макросы специализаций можно посмотреть в гайдах:
-* [Элем в Мифик+](https://stormkeeper.ru/ele/mplus.html#%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%81%D1%8B)
-* [Энх в Мифик+](https://stormkeeper.ru/enh/mplus.html#%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%81%D1%8B)
-* [Рестор в Мифик+](https://stormkeeper.ru/resto/mplus.html#%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%81%D1%8B)
 
 # Универсальные и полезные макросы
 
