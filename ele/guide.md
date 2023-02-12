@@ -95,150 +95,131 @@ custom-javascript-list:
 
 ### Эраног
 
-[Хранитель бурь](https://www.wowhead.com/ru/spell=191634) + [Первозданная волна](https://ru.wowhead.com/spell=375982) являются основными талантами. Пример билда:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSSLJQCJNKBSSSAAAAAAAlAkSS0STUgUSSSLASSAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJlkAJINKRJtkQOAAAAAAAUCQKJBNRBSJSSLlAkQSA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
 ### Террос
 
-Стандартный СТ билд. Очко из [Повелителя изначальных стихий](https://ru.wowhead.com/spell=117013) можно перекинуть в [Равновесие стихий](https://www.wowhead.com/ru/spell=378271/), разница между ними в районе погрешности:
+Казино-билд через [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270):
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoElUSCRAAAAAAQJApkESRSBSJJJtAHgkAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUSKBSiDEBAAAAAAtAkSSQTUgUSSSLAkkEA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+Менее рандомный билд:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDkUSShSUikQEAAAAAAUSApkANBIlkk0CAJkEA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
 ### Совет Стихий
 
-На Совете можно использовать как огненный, так и молниевый билды. Пример наиболее популярного огненного билда:
-
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkACSjSOQLtkQOAAAAAAAUCQKJhUIFQJJJlUCQQSA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkACSjSOQLtkQOAAAAAAAUCQKJRLFRBQk0SJgkkEA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
 ### Сеннарт
 
-Стандартный СТ билд с [Повелителем изначальных стихий](https://ru.wowhead.com/spell=117013):
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoElUSCRAAAAAAQJApkESRSBSJJJtAHgkAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJAJQA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
 ### Дафия
 
-[Хранитель бурь](https://www.wowhead.com/ru/spell=191634) + [Первозданная волна](https://ru.wowhead.com/spell=375982) для бурста по мелким аддам на платформе и урона в одну цель:
-
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSSLJQCJNKBSSSAAAAAAAlAkSS0STUgUSSSLASSAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSSJJQCJNKBNJJBAAAAAAUCQKJBEF4Alkk0SJAJkEA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
 ### Курог
 
-Стандартный СТ билд с [Повелителем изначальных стихий](https://ru.wowhead.com/spell=117013):
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoElUSCRAAAAAAQJApkESRSBSJJJtAHgkAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEt0SCRAAAAAAQJAKJBEFIlkk0SJAJkEA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
 ### Денна
 
-Стандартный СТ билд, но с [Тотемом жидкой магмы](https://ru.wowhead.com/spell=192222) под спавны аддов:
+Билд на аддов, огненный вариант:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkESRSBSJJJtAHgkAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCgSSIEFIlcgkUSJAJkEA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
+
+
+Билд на аддов, молниевый вариант:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJJlDk0S0QQBJSAAAAAAQJApkE0EFIlkkUCAJkEA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+Если вы назначены на босса, то используйте СТ билд с Терроса.
 
 ### Рашагет
 
-[Хранитель бурь](https://www.wowhead.com/ru/spell=191634) + [Первозданная волна](https://ru.wowhead.com/spell=375982) для бурста по аддам на переходках и для урона в одну цель:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSSLJQCJNKBSSSAAAAAAAlAkSS0STUgUSSSLASSAA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJlkAJINKBtkkkDAAAAAAAlAkSSIFRBSJJJNASCJB?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
 
 ### Таланты для Мифик+
 
-<span style="color:#71d5ff;font-size:1em;">**Молниевый**</span> билд, вариант через [Удар духов стихий](https://ru.wowhead.com/spell=117014):
+
+Стандартный <span style="color:#f16f25;font-size:1em;">**огненный**</span> билд:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlDk0SUQQBJSAAAAAAQLAKJJCJFIlkk0AIJJBA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJlkACSjSOQLtkQOAAAAAAAUCQKJhUEFAJJtUCIJJBA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
-Данный билд является по сути «стандартным» билдом для Мифик+ и точкой отсчета для экспериментов. Довольно сбалансированный билд в соотношении урона по одной цели и АоЕ. Основные бурсты это [Элементаль бури](https://www.wowhead.com/ru/spell=192249) и [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), кулдаун которых к тому же сокращается за счет [Вспышки молнии](https://www.wowhead.com/ru/spell=381936).
+На Тиранической неделе можно взять [Удара духов стихий](https://ru.wowhead.com/spell=117014) вместо [Жгучего пламени](https://www.wowhead.com/ru/spell=381782) для большего урона в бою против одной цели.
 
-Несмотря на взятые таланты [Ледяная ярость](https://ru.wowhead.com/spell=210714) и [Электрический шок](https://ru.wowhead.com/spell=382086), усиленные [Ледяные шоки](https://ru.wowhead.com/spell=196840) используются только в бою против **1-2** целей, потому что уже на **3** целях это потеря ДПС. В результате чего АоЕ ротация (не считая бурстов) представляет собой буквально спам трех кнопок – [Цепной молнии](https://ru.wowhead.com/spell=188443), [Удара духов стихий](https://ru.wowhead.com/spell=117014) и [Землетрясения](https://ru.wowhead.com/spell=61882). Главное не забывать менять цели при касте спендеров для равномерного развешивания [Грозового разрядника](https://www.wowhead.com/spell=210689).
 
-В бою против одной цели кнопок становится больше – необходимо поддерживать [Огненный шок](https://ru.wowhead.com/spell=188389), кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну (но только если нет активного [Элементаля бури](https://www.wowhead.com/ru/spell=192249)) и поддерживать на цели дебафф [Электрического шока](https://ru.wowhead.com/spell=382086) с помощью [Ледяного шока](https://ru.wowhead.com/spell=196840).
-
-[Землетрясение](https://ru.wowhead.com/spell=61882) в этом билде в бою против одной цели не используется, несмотря на взятый талант [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087). Если нет дополнительных целей, то вся энергия Водоворота тратится на [Удар духов стихий](https://ru.wowhead.com/spell=117014). 
-
-<span style="color:#71d5ff;font-size:1em;">**Молниевый**</span> билд, вариант через [Прилив мощи](https://www.wowhead.com/ru/spell=262303):
+<span style="color:#f16f25;font-size:1em;">**Огненный**</span> билд с [Ледяной яростью](https://www.wowhead.com/ru/spell=210714/) и [Ударом духов стихий](https://ru.wowhead.com/spell=117014). Дает больше урона в бою против **1-3** целей, чем стандартный огненный билд:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlItENEUQiEAAAAAA0CgSSiQSBSJJJNASSSA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJlkACSjSOQLtkQOAAAAAAAUCQKJhUEFAJJtUCIJJBA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
-Вариация билда для тех, кто не любит использование [Удара духов стихий](https://ru.wowhead.com/spell=117014) на АоЕ. [Прилив мощи](https://www.wowhead.com/ru/spell=262303) также дает неплохой урон в бою против 1 и 6+ целей.
 
-
-
-<span style="color:#f16f25;font-size:1em;">**Огненный**</span> билд, упор в максимальный бурст:
+<span style="color:#71d5ff;font-size:1em;">**Молниевый**</span> билд для тех, кому по какой-то причине не нравятся огненные варианты. Урон в этом билде падает во время передвижения гораздо сильнее, чем в огненных билдах.
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpIJlkACSJpFOQLJkDAAAAAAAtAkSSIkUASSSLlAkkEA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlDk0S0QQBJSAAAAAAQJApkESRUgDUSSSDQJJJBA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
-Эта версия <span style="color:#f16f25;font-size:1em;">**огненного**</span> билда является более бурстовой, за счет сочетания сразу нескольких способностей:
-* [Перерождение](https://ru.wowhead.com/spell=114050), которое продлевается с помощью таланта [Дальние пределы](https://ru.wowhead.com/spell=381787).
-* [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) как бурст с коротким кулдауном.
-* [Первозданная волна](https://ru.wowhead.com/spell=375982) с баффом на Скорость от таланта [Расколотые стихии](https://ru.wowhead.com/spell=382042).
-* [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/), который помогает развешивать [Огненные шоки](https://ru.wowhead.com/spell=188389).
 
-Этот билд не зависит от проков таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/), так как основная идея билда – реализация [Перерождения](https://ru.wowhead.com/spell=114050) на больших запулах, где гораздо эффективней версия через двухминутный кулдаун, а не прок от [Выброса лавы](https://ru.wowhead.com/spell=51505).
 
-Однако в случае неудачного развития событий в этом билде вы потеряете гораздо больше, чем в молниевом. Данный билд критичен к большим запулам и лучше всего себя раскрывает в подземельях типа Академии Алгет'ар, а также в скоординированной группе.
-{: class="bordered"}
 
-Основная идея билда – мега-бурст через комбинацию различных талантов. Сначала стоит скастовать [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), потом с помощью [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/) и сброса его кулдауна от [Возвращения тотемов](https://www.wowhead.com/ru/spell=108285/) наложить [Огненные шоки](https://ru.wowhead.com/spell=188389), после чего скастовать [Первозданну волну](https://ru.wowhead.com/spell=375982), затем [Перерождение](https://ru.wowhead.com/spell=114050) и один [Выброс лавы](https://ru.wowhead.com/spell=51505).
 
-В результате вы получите **15** секунд [Перерождения](https://ru.wowhead.com/spell=114050) с баффом **60%** Скорости от таланта [Расколотые стихии](https://ru.wowhead.com/spell=382042), а ваша [Цепная молния](https://ru.wowhead.com/spell=188443) превратится в [Поток лавы](https://ru.wowhead.com/spell=114074). Плюс каждое [Землетрясение](https://ru.wowhead.com/spell=61882) будет на **2.5** секунд продлевать длительность [Перерождения](https://ru.wowhead.com/spell=114050) за счет таланта [Дальние пределы](https://ru.wowhead.com/spell=381787). На достаточно большом запуле это может дать более **40** секунд активного [Перерождения](https://ru.wowhead.com/spell=114050)!
-
-В бою против одной цели этот билд слабее, чем молниевый, так что это будет не лучший выбор на [Тиранические](https://www.wowhead.com/ru/affix=9/) недели.
-{: class="bordered"}
-
-<span style="color:#f16f25;font-size:1em;">**Огненный**</span> билд, сустейн урон:
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpIJlkEAShS0SLJOQCAAAAAA0CQKJhQSBIJJtUCQSSA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
-
-<p></p>
-
-Этот билд не так сильно полагается на бурст во время [Перерождения](https://ru.wowhead.com/spell=114050) и наносит более равномерный урон. В нем можно заменить [Повторный толчок](https://ru.wowhead.com/spell=273221) на [Прилив мощи](https://ru.wowhead.com/spell=262303) и взять [Повелитель изначальных стихий](https://ru.wowhead.com/spell=117013) вместо [Тотема жидкой магмы](https://ru.wowhead.com/spell=192222).
 
 
 # Приоритет заклинаний
@@ -481,13 +462,13 @@ custom-javascript-list:
 
 ## Приоритет характеристик
 
-Приоритет статов для **рейдового** <span style="color:#f16f25;font-size:1em;">**огненного**</span> билда следующий:
+Приоритет статов для **Рейда**
 
 * **Интеллект** > **Скорость** > **Искусность** > **Критический удар** > **Универсальность**.
 
-Приоритет статов для **Мифик+** билдов следующий:
+Приоритет статов для **Мифик+**:
 
-* **Интеллект** > **Скорость** = **Универсальность** > **Критический удар** > **Искусность**.
+* **Интеллект** > **Критический удар** = **Скорость** > **Универсальность** > **Искусность**.
 
 # Экипировка
 
@@ -516,14 +497,9 @@ custom-javascript-list:
 **Аксессуары из Мифик+:**
 * [Яростное перо](https://www.wowhead.com/ru/item=193677/) – Наступление клана Нокхуд.
 * [Инфернальное писание](https://www.wowhead.com/ru/item=137485/) – Квартал Звезд.
-* [Рог доблести](https://www.wowhead.com/ru/item=133642/) – Чертоги Доблести.
-* [Камень теней исцелителя Бездны](https://www.wowhead.com/ru/item=110007/) – Некрополь Призрачной луны (падает только с лутом на Рестора).
 
 **Аксессуары из Хранилища Воплощений:**
 * [Знак воплощения шепота](https://www.wowhead.com/ru/item=194301) – **Совет стихий**. «Очень редкий» дроп, лучший пассивный тринкет.
-* [Чародейская леденящая сфера](https://www.wowhead.com/ru/item=194300/) – Совет стихий. 
-* [Злопамятный вихрь](https://www.wowhead.com/ru/item=194309/) – Рашагет.
-
 
 * Крафтовые аксессуары на данный момент проигрывают перечисленным выше вариантам.
 
@@ -576,12 +552,12 @@ WA на все аксессуары есть в [сборке на Элема](h
 
 
 **Зачарования** лучше всего использовать максимального качества. Как альтернатива здесь также указаны более дешевые варианты:
-* **Оружие**: [Посвящение мудрости](https://www.wowhead.com/ru/spell=389550/) либо [Завет мудрости](https://www.wowhead.com/ru/spell=389542/).
+* **Оружие**: [Посвящение мудрости](https://www.wowhead.com/ru/spell=389550/).
 * **Нагрудный доспех**: [Пробужденные характеристики](https://www.wowhead.com/ru/spell=389550/).
-* **Поножи**: [Замерзшая чародейская нить](https://www.wowhead.com/ru/spell=376539/) или [Яркая чародейская нить](https://www.wowhead.com/ru/item=376538/).
-* **Кольца**: [Посвящение скорости](https://www.wowhead.com/ru/spell=389293/) либо [Завет скорости](https://www.wowhead.com/ru/spell=389135/).
-* **Плащ**: [Грациозное избежание](https://www.wowhead.com/ru/spell=389403/) или [Завет избежания](https://www.wowhead.com/ru/spell=389397/).
-* **Наручи**: [Посвящение избежания](https://www.wowhead.com/ru/spell=389301/) либо [Завет избежания](https://www.wowhead.com/ru/spell=389297/).
+* **Поножи**: [Замерзшая чародейская нить](https://www.wowhead.com/ru/spell=376539/).
+* **Кольца**: [Посвящение скорости](https://www.wowhead.com/ru/spell=389293/).
+* **Плащ**: [Грациозное избежание](https://www.wowhead.com/ru/spell=389403/).
+* **Наручи**: [Посвящение избежания](https://www.wowhead.com/ru/spell=389301/).
 * **Ботинки**: [Ветер равнин](https://www.wowhead.com/ru/spell=389479/).
 
 <hr style="height:1px;background-color:#bbb">
@@ -598,9 +574,10 @@ WA на все аксессуары есть в [сборке на Элема](h
 
 
 Вместо настоев теперь используются **флаконы** – они длятся меньше времени, но и стоят меньше реагентов. Лучше всего использовать флаконы максимального качества. Существует множество различных видов флаконов, лучшие из них следующие:
-* [Флакон статичного усиления](https://www.wowhead.com/ru/item=191338/): лучший показатель ДПС, но при его использовании нужно меньше бегать и чаще стоять на месте.
-* [Флакон ледового неистовства](https://www.wowhead.com/ru/item=191333/): подойдет для Мифик+ и для боссов с большим количеством спавнящихся аддов.
-* [Флакон сдержанной универсальности](https://www.wowhead.com/ru/item=191341): дешевый вариант.
+* [Флакон стихийного хаоса](https://www.wowhead.com/ru/item=191357): отличный вариант без каких-либо негативных эффектов.
+* [Флакон сдержанной универсальности](https://www.wowhead.com/ru/item=191341): универсальный дешевый вариант.
+* [Замерзший флакон оскверняющей ярости](https://www.wowhead.com/ru/item=191329/): вариант для Мифик+, имеет довольно высокий аптайм, но может быть опасен в высоких ключах.
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -632,6 +609,7 @@ WA на все аксессуары есть в [сборке на Элема](h
 
 
 * [Драконья руна усиления](https://www.wowhead.com/ru/item=201325): руна на Интеллект, спадающая при смерти.
+* [Затененная руна усиления](https://www.wowhead.com/ru/item=181468/): дешевый вариант.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
