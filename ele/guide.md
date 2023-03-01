@@ -185,7 +185,7 @@ custom-javascript-list:
 <p></p>
 
 
-### Таланты для Мифик+
+## Таланты для Мифик+
 
 
 Стандартный <span style="color:#f16f25;font-size:1em;">**огненный**</span> билд:
