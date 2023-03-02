@@ -326,8 +326,8 @@ custom-javascript-list:
 10. {:.no-dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если в бою не более **2** целей.
 11. {:.asc-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
 12. {:.dre-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
-14. {:.if-apl .es-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714), если в бою не более **3** целей.
-15. {:.if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840), если на целях нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086) и если в бою не более **3** целей.
+14. {:.if-apl .es-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714), если в бою не более **4** целей.
+15. {:.if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840), если на целях нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086) и если в бою не более **4** целей.
 16. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если у вас достаточно Энергии Водоворота.
   * {:.no-eb-apl}В бою против **2** целей, если мобы могут выйти из зоны действия [Землетрясения](https://ru.wowhead.com/spell=61882), то его стоит заменить на [Земной шок](https://ru.wowhead.com/spell=8042).
   * {:.eb-apl .no-eogs-apl}В бою против **2-3** целей стоит использовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) вместо [Землетрясения](https://ru.wowhead.com/spell=61882).
