@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2023-02-28
+last_update: 2023-03-03
 title: Гайд на Элем Шамана
 wow: 10.0.7
 toc: true
@@ -646,6 +646,12 @@ WA на все аксессуары есть в [сборке на Элема](h
 ~~~
 #showtooltip
 /cast [@cursor] Землетрясение
+~~~
+
+* [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) и [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285) на одной кнопке:
+~~~
+#showtooltip 
+/castsequence reset=60 [@cursor] Тотем жидкой магмы, Возвращение тотемов`
 ~~~
 
 * Способности элементалей [Метеорит](https://www.wowhead.com/ru/spell=117588) и [Буря](https://ru.wowhead.com/spell=157375/) на одну кнопку:
