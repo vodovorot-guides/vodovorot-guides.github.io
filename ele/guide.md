@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2023-03-03
+last_update: 2023-03-05
 title: Гайд на Элем Шамана
 wow: 10.0.7
 toc: true
@@ -240,6 +240,7 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_fire"> [Элементаль огня](https://ru.wowhead.com/spell=198067)</li>
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_storm"> [Элементаль бури](https://ru.wowhead.com/spell=192249)</li>    
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_lmt"> [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/)</li>
+  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_primal"> [Повелитель изначальных стихий](https://www.wowhead.com/ru/spell=117013/)</li>   
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_pw"> [Первозданная волна](https://ru.wowhead.com/spell=375982)</li>    
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_sk"> [Хранитель бурь](https://ru.wowhead.com/spell=191634)</li>    
   <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_asc"> [Перерождение](https://ru.wowhead.com/spell=114050)</li>
@@ -275,9 +276,9 @@ custom-javascript-list:
 
 **Бой против одной цели:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
-1. {:.fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
+1. {:.primal-apl .fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
 2. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
-2. {:.storm-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
+2. {:.storm-apl .primal-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
 3. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285), если [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) на кулдауне.
 4. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
 5. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
@@ -310,9 +311,9 @@ custom-javascript-list:
 
 **АоЕ бой:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
-1. {:.fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
+1. {:..primal-apl fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
 2. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
-2. {:.storm-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
+2. {:.primal-apl .storm-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
 3. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/). 
 4. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285), если [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) на кулдауне.
 5. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
