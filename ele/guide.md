@@ -311,7 +311,7 @@ custom-javascript-list:
 
 **АоЕ бой:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
-1. {:..primal-apl fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
+1. {:.primal-apl .fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
 2. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
 2. {:.primal-apl .storm-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
 3. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/). 
