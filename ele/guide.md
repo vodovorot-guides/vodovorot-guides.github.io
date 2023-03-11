@@ -188,18 +188,7 @@ custom-javascript-list:
 ## Таланты для Мифик+
 
 
-Стандартный <span style="color:#f16f25;font-size:1em;">**огненный**</span> билд:
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJlkACSjSOQLtkQOAAAAAAAUCQKJhUEFAJJtUCIJJBA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
-
-<p></p>
-
-На Тиранической неделе можно взять [Удар духов стихий](https://ru.wowhead.com/spell=117014) вместо [Жгучего пламени](https://www.wowhead.com/ru/spell=381782) для большего урона в бою против одной цели.
-
-
-<span style="color:#f16f25;font-size:1em;">**Огненный**</span> билд с [Ледяной яростью](https://www.wowhead.com/ru/spell=210714/) и [Ударом духов стихий](https://ru.wowhead.com/spell=117014). Дает больше урона в бою против **1-3** целей, чем стандартный огненный билд:
+Стандартный <span style="color:#f16f25;font-size:1em;">**Огненный**</span> билд с [Ледяной яростью](https://www.wowhead.com/ru/spell=210714/) и [Ударом духов стихий](https://ru.wowhead.com/spell=117014):
 
 <p></p>
 
