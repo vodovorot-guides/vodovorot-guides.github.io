@@ -143,8 +143,6 @@ custom-javascript-list:
 
 ### Гибридный билд
 
-### Гибридный билд
-
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSKAJkkISik0SkAAAAAAAAAAAAAQJCRIhUEFIlkkUAUSkEA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
