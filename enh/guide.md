@@ -654,6 +654,12 @@ WA на все аксессуары есть в [сборке на Энха](htt
 /cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
 ~~~
 
+* Макрос для [Первозданной волны](https://www.wowhead.com/ru/spell=375982) по маусоверу, чтобы она кастовалась только во врагов, а не союзников:
+~~~
+#showtooltip Первозданная волна
+/cast [@mouseover,harm,exists,nodead][@target,harm,exists,nodead] Первозданная волна
+~~~
+
 * Макрос для [Ледяного клинка](https://www.wowhead.com/ru/spell=342240/) и [Кольца огня](https://www.wowhead.com/ru/spell=333974/) на одной кнопке:
 ~~~
 #showtooltip
