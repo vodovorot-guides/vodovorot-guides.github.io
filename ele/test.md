@@ -85,6 +85,54 @@ custom-javascript-list:
 
 # Изменения Рестора
 
+* Всё лечение повышено на **8%**.
+* Лечение от [Родника](https://www.wowhead.com/ru/spell=197995) снижено на **30%**.
+* [Высвободить чары жизни](https://ru.wowhead.com/spell=73685) теперь переводит **40%** оверхила от [Родника](https://www.wowhead.com/ru/spell=197995) в абсорб щит вместо **25%**.
+  * Данное изменение сбаланисирует отхил между [Родником](https://www.wowhead.com/ru/spell=197995) и его подпиткой в [Тотем разразившегося ливня](https://ru.wowhead.com/spell=157153) и другими способостями Рестор Шамана.
+
+
+* Урон [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) увеличен на **35%**.
+* Талант [Призыв грома](https://www.wowhead.com/ru/spell=378241) удален.
+  * Удаление [Призыва грома](https://www.wowhead.com/ru/spell=378241) и перенос его урона в базовое значение заклинаний освободит одно очко талантов, что будет особенно полезно в Мифик+, где талант [Призыв грома](https://www.wowhead.com/ru/spell=378241) брался по умолчанию.
+
+* Урон [Кислотного дождя](https://ru.wowhead.com/spell=378443) снижен на **20%**.
+* [Кислотный дождь](https://ru.wowhead.com/spell=378443) и [Хляби небесные](https://www.wowhead.com/ru/spell=383222) были разделены и больше не являются взаимозаменямым выбором.
+  * [Кислотный дождь](https://ru.wowhead.com/spell=378443) после последнего баффа наносил крайне много урона, за что и подвергся балансировке. Но в месте с талантом [Хляби небесные](https://www.wowhead.com/ru/spell=383222) радиус [Целительного ливня](https://www.wowhead.com/ru/spell=73920) будет увеличен на **2** метра, что также поможет в нанесении урона от [Кислотного дождя](https://ru.wowhead.com/spell=378443).
+
+* [Водный щит](https://www.wowhead.com/ru/spell=52127) удален из талантов и теперь учится на **12** уровне.
+  * Еще одно свободное очко таланта. [Упоение](https://www.wowhead.com/ru/spell=16196) при этом всё также является талантом и находится в том же месте, где находился [Водный щит](https://www.wowhead.com/ru/spell=52127).
+
+* Два новых таланта на выбор под [Тотемом целительного прилива](https://ru.wowhead.com/spell=108280):
+  * [Управление потоками](https://www.wowhead.com/ptr-2/spell=404015) – снижает кулдаун [Тотема целительного прилива](https://ru.wowhead.com/spell=108280) на **30** секунд.
+  * [Смена течения](https://www.wowhead.com/ptr-2/spell=404019) – цель [Тотема целительного прилива](https://ru.wowhead.com/spell=108280) с самым низким уровнем здоровья восполняет на **30%** больше здоровья и получает от вас на **15%** больше исцеления в течение **4** секунд.
+
+New Talent: Current Control – Reduces the cooldown of Healing Tide Totem by 30 seconds.
+New Talent: Tide Turner – The lowest health target of Healing Tide Totem is healed for 30% more and receives 15% more healing from you for 4 seconds.
+
+A choice node has been added below Mana Tide Totem:
+New Talent: Resonant Waters – Increases the duration of Mana Tide Totem by 4 seconds and increases its radius by 20 yards.
+New Talent: Spiritwalker’s Tidal Totem – After using Mana Tide Totem, the cast time of Healing Wave and Chain Heal is reduced by 50% and the mana cost of Healing Wave and Chain Heal are reduced by 50% for 10 seconds.
+
+Flow of the Tides now grants an additional bounce of Chain Heal in addition to its current effect.
+
+Ever-Rising Tide has been removed.
+Nature’s Focus has been removed.
+The PvP Talent Tidebringer has moved to Nature’s Focus’ position as a 2-point talent.
+
+
+Ancestral Awakening heals for 15%/30% of the amount healed (was 10%/20%).
+
+Earthen Harmony has been redesigned – Earth Shield reduces damage taken by 3%/6% and its healing is increased by 50%/100% on targets below 75% health.
+
+Cloudburst Totem healing no longer contributes to Ancestral Guidance.
+Ancestral Awakening and Ancestral Guidance now contribute to Cloudburst Totem healing.
+
+Earthliving Weapon’s proc sound effect has been lowered in volume.
+Fixed an issue causing Ancestral Awakening to double dip into healing reduction effects.
+
+Improved Primordial Wave increases the healing done by Healing Wave by 13%/25% (was 8%/15%).
+
+Improved Earthliving Weapon increases the healing of Earthliving by 20%/40% (was 15%/30%) and always triggers on targets below 18%/35% health (was 13%/25%).
 
 
 <p></p>
