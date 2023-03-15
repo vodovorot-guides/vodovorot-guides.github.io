@@ -11,11 +11,13 @@ custom-javascript-list:
     - "/assets/js/rotation_switches.js"
 ---
 
-# Видео-гайд
-
 <p align="center">
 <img src="/assets/img/enh_tb2.png" width=400x> 
 </p>
+
+
+# Видео-гайд
+
 
 
 <p></p>
