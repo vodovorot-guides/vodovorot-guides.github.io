@@ -6,6 +6,7 @@ wow: 10.0.5
 author: Amani
 toc: true
 description: Мини-руководство по самому полезному инструменту любого дамагера – Raidbots.com. 
+image: /assets/img/raidbots3.png
 ---
 
 # Вступление
