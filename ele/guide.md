@@ -649,7 +649,7 @@ WA на все аксессуары есть в [сборке на Элема](h
 * Добавить оповещние в чат об использовании какой-либо способности. Сообщение не будет показано, если способность на КД. Не злоупотребляйте этим макросом! Пример для [Наставления предков](https://ru.wowhead.com/spell=108281):
 ~~~
 #showtooltip Наставления предков
-/run if GetSpellCooldown("") == 0 then SendChatMessage("Ancestral Guidance","SAY") end
+/run if GetSpellCooldown("Наставления предков") == 0 then SendChatMessage("Ancestral Guidance","SAY") end
 /cast Наставления предков
 ~~~
 
