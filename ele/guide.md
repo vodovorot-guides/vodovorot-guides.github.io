@@ -227,9 +227,9 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_fire_ele" class="btn btn-primary rotation-btn">Огненный рейд</button>
-    <button type="button" id="build_fire_mplus_ele" class="btn btn-primary rotation-btn">Огненный M+</button>
-    <button type="button" id="build_lightning_mplus_ele" class="btn btn-primary rotation-btn">Молниевый M+</button>
+    <button type="button" id="build_fire_ele" class="btn btn-primary rotation-btn">Огненный билд (СТ)</button>
+    <button type="button" id="build_fire_mplus_ele" class="btn btn-primary rotation-btn">Огненный билд (Мифик+)</button>
+    <button type="button" id="build_lightning_mplus_ele" class="btn btn-primary rotation-btn">Молниевый билд (Мифик+)</button>
   </div>
 </div>
 
