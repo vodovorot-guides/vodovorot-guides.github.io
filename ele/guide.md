@@ -223,40 +223,75 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Выберите используемые таланты, и приоритет способностей соответственно изменится:
+<center>Выберите используемые таланты, и приоритет способностей соответственно изменится:</center>
 
-  <ul class="rotation_switches" style="list-style-type: none;">
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_fire"> [Элементаль огня](https://ru.wowhead.com/spell=198067)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_storm"> [Элементаль бури](https://ru.wowhead.com/spell=192249)</li>    
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_lmt"> [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_primal"> [Повелитель изначальных стихий](https://www.wowhead.com/ru/spell=117013/)</li>   
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_pw"> [Первозданная волна](https://ru.wowhead.com/spell=375982)</li>    
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_sk"> [Хранитель бурь](https://ru.wowhead.com/spell=191634)</li>    
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_asc"> [Перерождение](https://ru.wowhead.com/spell=114050)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_dre"> [Укоренившиеся стихии](https://ru.wowhead.com/spell=378270)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_sop"> [Прилив мощи](https://www.wowhead.com/ru/spell=262303/)</li>   
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_mote"> [Властелин стихий](https://ru.wowhead.com/spell=16166)</li> 
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_if"> [Ледяная ярость](https://ru.wowhead.com/spell=210714)</li> 
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_es"> [Электрический шок](https://www.wowhead.com/ru/spell=382086)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_ls"> [Волна лавы](https://ru.wowhead.com/spell=77756) или [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=378268)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_eb"> [Удар духов стихий](https://ru.wowhead.com/spell=117014)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_eogs"> [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087)</li>
+<div class="btn-toolbar justify-content-center mt-2 mb-3">
+  <div class="btn-group" role="group">
+    <button type="button" id="build_fire_ele" class="btn btn-primary rotation-btn">Огненный рейд</button>
+    <button type="button" id="build_fire_mplus_ele" class="btn btn-primary rotation-btn">Огненный M+</button>
+    <button type="button" id="build_lightning_mplus_ele" class="btn btn-primary rotation-btn">Молниевый M+</button>
+  </div>
+</div>
+
+<ul class="rotation_switches form-check form-switch mb-2" style="list-style-type: none;">
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_fire"> [Элементаль огня](https://ru.wowhead.com/spell=198067)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_storm"> [Элементаль бури](https://ru.wowhead.com/spell=192249)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_lmt"> [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_primal"> [Повелитель изначальных стихий](https://www.wowhead.com/ru/spell=117013/)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_pw"> [Первозданная волна](https://ru.wowhead.com/spell=375982)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_sk"> [Хранитель бурь](https://ru.wowhead.com/spell=191634)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_asc"> [Перерождение](https://ru.wowhead.com/spell=114050)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_dre"> [Укоренившиеся стихии](https://ru.wowhead.com/spell=378270)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_sop"> [Прилив мощи](https://www.wowhead.com/ru/spell=262303/)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_mote"> [Властелин стихий](https://ru.wowhead.com/spell=16166)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_if"> [Ледяная ярость](https://ru.wowhead.com/spell=210714)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_es"> [Электрический шок](https://www.wowhead.com/ru/spell=382086)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_ls"> [Волна лавы](https://ru.wowhead.com/spell=77756) или [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=378268)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_eb"> [Удар духов стихий](https://ru.wowhead.com/spell=117014)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_eogs"> [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087)</li>
 </ul>
+
+<center>Количество целей:</center>
+<div class="btn-toolbar justify-content-center mt-2 mb-3">
+  <div class = "btn-group btn-group-sm">
+    <button type="button" id="target_1" class="btn btn-primary px-3 rotation-btn active">1</button>
+    <button type="button" id="target_2" class="btn btn-primary px-3 rotation-btn">2</button>
+    <button type="button" id="target_3" class="btn btn-primary px-3 rotation-btn">3</button>
+    <button type="button" id="target_4" class="btn btn-primary px-3 rotation-btn">4</button>
+    <button type="button" id="target_p" class="btn btn-primary px-3 rotation-btn">5+</button>
+  </div>
+</div>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+<div id="st" markdown="1">
 **Опенер в бою против одной цели:**
 1. {:.sk-apl .no-sop-apl}[Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) за **5** секунд до пула.
-3. {:.fire-apl}[Элементаль огня](https://www.wowhead.com/ru/spell=198067) за **3** секунды до пула
+1. {:.fire-apl}[Элементаль огня](https://www.wowhead.com/ru/spell=198067) за **3** секунды до пула
 1. {:.no-if-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) за **1.5** секунд до пула.
-2. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **1.5** секунд до пула.
-4. {:.storm-apl}[Элементаль бури](https://www.wowhead.com/ru/spell=192249).
-5. {:.no-pw-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
-6. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=326059).
-7. {:.if-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
-8. [Выброс лавы](https://www.wowhead.com/ru/spell=51505).
-9. {:.sk-apl .sop-apl}Придержите [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) для комбо с [Приливом мощи](https://www.wowhead.com/ru/spell=262303/), описанным выше.
+1. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **1.5** секунд до пула.
+1. {:.storm-apl}[Элементаль бури](https://www.wowhead.com/ru/spell=192249).
+1. {:.no-pw-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
+1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=326059).
+1. {:.if-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
+1. [Выброс лавы](https://www.wowhead.com/ru/spell=51505).
+1. {:.sk-apl .sop-apl}Придержите [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) для комбо с [Приливом мощи](https://www.wowhead.com/ru/spell=262303/), описанным выше.
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -297,35 +332,38 @@ custom-javascript-list:
 29. [Молния](https://ru.wowhead.com/spell=188196).
 30. [Огненный шок](https://ru.wowhead.com/spell=188389) во время передвижения.
 31. [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
+</div>
 
+<div id="aoe" markdown="1" style="display:none;">
 **АоЕ бой:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
 1. {:.primal-apl .fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
-2. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
-2. {:.primal-apl .storm-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
-3. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/). 
-4. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285), если [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) на кулдауне.
+1. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
+1. {:.primal-apl .storm-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
+1. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
+1. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285), если [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) на кулдауне.
   * В низких ключах не стоит ставить сразу два [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), а лучше распределять их на разные паки.
-5. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
-6. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
-7. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
-8. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114050).
-11. {:.sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/), если в бою не более **2** целей.
-9. {:.pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) максимальное количество целей и у вас есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=375982).
-8. {:.dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) в бою против **2-3** целей.
-  * {:.dre-apl}В бою против **4+** целей [Выброс лавы](https://ru.wowhead.com/spell=51505) стоит кастовать с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756). На **5+** целей – только во время передвижения.
-10. {:.no-dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если в бою не более **2** целей.
-11. {:.asc-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
-12. {:.dre-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
-14. {:.if-apl .es-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714), если в бою не более **4** целей.
-15. {:.if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840), если на целях нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086) и если в бою не более **4** целей.
-16. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если у вас достаточно Энергии Водоворота.
-  * {:.no-eb-apl}В бою против **2** целей, если мобы могут выйти из зоны действия [Землетрясения](https://ru.wowhead.com/spell=61882), то его стоит заменить на [Земной шок](https://ru.wowhead.com/spell=8042).
-  * {:.eb-apl .no-eogs-apl}В бою против **2-3** целей стоит использовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) вместо [Землетрясения](https://ru.wowhead.com/spell=61882).
-17. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) c баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087), если у вас достаточно Энергии Водоворота.
-18. {:.no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087) и если у вас достаточно Энергии Водоворота.
-18. {:.eb-apl .eogs-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087) и если у вас достаточно Энергии Водоворота.
-19. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
+1. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
+1. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
+1. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
+1. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114050).
+1. {:.sop-apl targets="<3"}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/), если в бою не более **2** целей.
+1. {:.pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) максимальное количество целей и у вас есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=375982).
+1. {:.dre-apl targets="2 3"}[Выброс лавы](https://ru.wowhead.com/spell=51505) в бою против **2-3** целей.
+  * {:.dre-apl targets="<5"}В бою против **4+** целей [Выброс лавы](https://ru.wowhead.com/spell=51505) стоит кастовать с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756). На **5+** целей – только во время передвижения.
+1. {:.no-dre-apl targets="<3"}[Выброс лавы](https://ru.wowhead.com/spell=51505), если в бою не более **2** целей.
+1. {:.asc-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+1. {:.dre-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+1. {:.if-apl .es-apl targets="<5"}[Ледяная ярость](https://ru.wowhead.com/spell=210714), если в бою не более **4** целей.
+1. {:.if-apl .es-apl targets="<5"}[Ледяной шок](https://ru.wowhead.com/spell=196840), если на целях нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086) и если в бою не более **4** целей.
+1. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если у вас достаточно Энергии Водоворота.
+  * {:.no-eb-apl targets="2"}В бою против **2** целей, если мобы могут выйти из зоны действия [Землетрясения](https://ru.wowhead.com/spell=61882), то его стоит заменить на [Земной шок](https://ru.wowhead.com/spell=8042).
+  * {:.eb-apl .no-eogs-apl targets="2 3"}В бою против **2-3** целей стоит использовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) вместо [Землетрясения](https://ru.wowhead.com/spell=61882).
+1. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) c баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087), если у вас достаточно Энергии Водоворота.
+1. {:.no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087) и если у вас достаточно Энергии Водоворота.
+1. {:.eb-apl .eogs-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087) и если у вас достаточно Энергии Водоворота.
+1. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
+</div>
 
 # Общая ветка талантов
 

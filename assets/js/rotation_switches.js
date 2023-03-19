@@ -2,8 +2,18 @@ HTMLCollection.prototype[Symbol.iterator] = Array.prototype[Symbol.iterator];
 function listeners() {
     let inputs = document.getElementsByTagName("input");
     for (let i of inputs) {
-        if (i.type == "checkbox") {
+        if (i.type == "checkbox" && i.id.includes("rotation_switch")) {
             change_listener(i);
+            i.dispatchEvent(new Event("change"));
+        }
+    }
+}
+
+function reset_selections() {
+    let inputs = document.getElementsByTagName("input");
+    for (let i of inputs) {
+        if (i.type == "checkbox" && i.id.includes("rotation_switch") && i.checked) {
+            i.checked = false;
             i.dispatchEvent(new Event("change"));
         }
     }
@@ -11,7 +21,7 @@ function listeners() {
 
 function pick_talents(talents) {
     talents.forEach(function(talent) {
-        let input = document.getElementById(talent + "-radio");
+        let input = document.getElementById("rotation_switch_" + talent);
         input.checked = true;
         input.dispatchEvent(new Event("change"));
     });
@@ -19,6 +29,8 @@ function pick_talents(talents) {
 
 function change_listener(element) {
     element.addEventListener("change", function(e) {
+        reset_buttons_state();
+
         let radio = e.target;
 
         let elem_name = radio.id.split('_')[2];
@@ -42,16 +54,36 @@ function change_listener(element) {
                     has_exclude = true;
                     break;
                 }
-
             }
 
-            if (has_exclude) {
+
+            if (has_exclude || !isEnoughTargets(item)) {
                 item.style.display = "none";
             } else {
                 item.style.display = "list-item";
             }
         }
     });
+}
+
+function isEnoughTargets(item) {
+    if (item.hasAttribute("targets")) {
+        let target_n = $("button.active[id^='target_']").attr("id").split("_")[1];
+        if (target_n == "p") target_n = "100";
+
+        let exprs = item.getAttribute("targets").split(" ");
+
+        for (let expr of exprs) {
+            /<|>/i.test(expr) ? expr = target_n + expr : expr += "==" + target_n;
+            if (eval(expr)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    return true;
 }
 
 listeners();
@@ -62,23 +94,67 @@ $('.switch-link').on('click touchend', function(e) {
     e.preventDefault();
 });
 
-$('a#mplus_build_enh').on('click', function(e) {
-    pick_talents(["lf", "hh", "fn", "sunder", "spirits", "actuators", "pw"]);
+function reset_buttons_state() {
+    $("button[id^='build_']").removeClass("active");
+}
+
+function reset_target_buttons_state() {
+    $("button[id^='target_']").removeClass("active");
+}
+
+function on_build_button_click(button, talent_list) {
+    reset_selections();
+    pick_talents(talent_list);
+    // reset_buttons_state();
+    button.classList.add("active");
+    button.blur();
+}
+
+$('button#build_fire_ele').on('click', function() {
+    on_build_button_click(this, ["fire", "pw", "dre", "mote", "if", "flux", "ls", "eb"]);
     return false;
 });
 
-$('a#raid_build_enh').on('click', function(e) {
-    pick_talents(["lf", "hh", "ea", "sunder", "spirits", "wolf", "ft"]);
+$('button#build_fire_mplus_ele').on('click', function() {
+    on_build_button_click(this, ["fire", "lmt", "pw", "sk", "dre", "sop", "mote", "if", "es", "ls", "eb"]);
     return false;
 });
 
-$('a#mplus_build_ele').on('click', function(e) {
-    pick_talents(["eote", "afs", "storm", "primal_elem", "sk", "eogs"]);
+$('button#build_lightning_mplus_ele').on('click', function() {
+    on_build_button_click(this, ["storm", "primal", "sk", "sop", "mote", "if", "es", "eb", "eogs"]);
     return false;
 });
 
-$('a#raid_build_ele').on('click', function(e) {
-    pick_talents(["eote", "eb", "mote", "primal_elem", "sk", "lava"]);
-    return false;
+$("button[id^='target_']").on('click', function() {
+    reset_target_buttons_state();
+    this.classList.add("active");
+    this.blur();
+
+    if (this.id == "target_1") {
+        $("div#st").show();
+        $("div#aoe").hide();
+    } else {
+        $("div#st").hide();
+        $("div#aoe").show();
+        process_target_button();
+    }
 });
 
+function process_target_button() {
+    $("[targets]").each(function(index) {
+        let has_exclude = false;
+
+        for (let className of this.classList) {
+            if (className.includes("no-")) {
+                has_exclude = true;
+                break;
+            }
+        }
+
+        if (has_exclude || !isEnoughTargets(this)) {
+            $(this).css("display", "none");
+        } else {
+            $(this).css("display", "list-item");
+        }
+    });
+}
