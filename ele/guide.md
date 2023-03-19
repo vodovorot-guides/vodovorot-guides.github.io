@@ -281,15 +281,16 @@ custom-javascript-list:
 9. {:.sk-apl .no-mote-apl .sop-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) если есть бафф от [Хранителя бурь](https://ru.wowhead.com/spell=191634), но нет баффа от таланта [Прилив мощи](https://www.wowhead.com/ru/spell=262303/).
 10. {:.sk-apl .mote-apl .no-sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://ru.wowhead.com/spell=16166).
 10. {:.sk-apl .no-mote-apl .no-sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
-11. {:.sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
-12. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу Энергии Водоворота. 
+11. {:.sop-apl .no-dre-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
+12. {:.sop-apl .dre-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/), если нет баффа от [Перерождения](https://ru.wowhead.com/spell=114050).
+13. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу Энергии Водоворота. 
 20. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если следующее заклинание приведет к оверкапу Энергии Водоворота. 
 18. {:.ls-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
 19. {:.eogs-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 20. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042).
 23. {:.dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 21. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
-16. {:.if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
+20. {:.if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 24. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
 27. {:.storm-apl}[Молния](https://ru.wowhead.com/spell=188196) во время активного [Элементаля бури](https://ru.wowhead.com/spell=192249).
 28. {:.no-dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
