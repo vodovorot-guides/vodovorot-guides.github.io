@@ -125,6 +125,26 @@ $('button#build_lightning_mplus_ele').on('click', function() {
     return false;
 });
 
+$('button#build_physical_enh').on('click', function() {
+    on_build_button_click(this, ["totem", "ic", "dre", "eb", "fw"]);
+    return false;
+});
+
+$('button#build_elemental_enh').on('click', function() {
+    on_build_button_click(this, ["totem", "ic", "hs", "eb", "pw", "hh", "lf", "es"]);
+    return false;
+});
+
+$('button#build_hybrid_mplus_enh').on('click', function() {
+    on_build_button_click(this, ["cl", "ic", "hs", "dw", "pw", "fw", "alpha"]);
+    return false;
+});
+
+$('button#build_elemental_mplus_enh').on('click', function() {
+    on_build_button_click(this, ["totem", "cl", "ic", "hs", "pw", "hh", "lf", "es"]);
+    return false;
+});
+
 $("button[id^='target_']").on('click', function() {
     reset_target_buttons_state();
     this.classList.add("active");

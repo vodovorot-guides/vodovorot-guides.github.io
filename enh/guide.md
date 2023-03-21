@@ -190,27 +190,60 @@ custom-javascript-list:
 
 Выберите используемые таланты, и приоритет способностей соответственно изменится. Некоторые таланты, такие как [Удар бури](https://www.wowhead.com/ru/spell=17364), [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), [Раскол](https://www.wowhead.com/ru/spell=197214) и [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/), подразумеваются как взятые по умолчанию.
 
-<ul class="rotation_switches" style="list-style-type: none;">
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_totem"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_cl"> [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874)</li> 
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_asc"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_dre"> [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_ic"> [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/)</li> 
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_hs"> [Буря с градом](https://www.wowhead.com/ru/spell=334195/)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_fn"> [Кольцо огня](https://www.wowhead.com/ru/spell=333974/)</li> 
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_eb"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li>
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_dw"> [Ветра рока](https://www.wowhead.com/ru/spell=384352)</li>   
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_pw"> [Первозданная волна](https://www.wowhead.com/ru/spell=375982)</li>   
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_hh"> [Горячая рука](https://www.wowhead.com/ru/spell=201900)</li>     
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_lf"> [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046)</li>   
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_fw"> [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450)</li>   
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_es"> [Духи стихий](https://www.wowhead.com/ru/spell=262624)</li>     
-  <li markdown="span" class="rotation_switch"><input type="checkbox" id="rotation_switch_alpha"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
+<div class="btn-toolbar justify-content-center mt-2 mb-3">
+  <div class="btn-group" role="group">
+    <button type="button" id="build_physical_enh" class="btn btn-primary rotation-btn">Физический билд (СТ)</button>
+    <button type="button" id="build_elemental_enh" class="btn btn-primary rotation-btn">Стихийный билд (СТ)</button>
+    <button type="button" id="build_hybrid_mplus_enh" class="btn btn-primary rotation-btn">Гибридный билд (Мифик+)</button>
+    <button type="button" id="build_elemental_mplus_enh" class="btn btn-primary rotation-btn">Стихийный билд (Мифик+)</button>
+  </div>
+</div>
+
+<ul class="rotation_switches form-check form-switch mb-2" style="list-style-type: none;">
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_totem"> [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_cl"> [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_asc"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_dre"> [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_ic"> [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_hs"> [Буря с градом](https://www.wowhead.com/ru/spell=334195/)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_fn"> [Кольцо огня](https://www.wowhead.com/ru/spell=333974/)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_eb"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_dw"> [Ветра рока](https://www.wowhead.com/ru/spell=384352)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_pw"> [Первозданная волна](https://www.wowhead.com/ru/spell=375982)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_hh"> [Горячая рука](https://www.wowhead.com/ru/spell=201900)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_lf"> [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_fw"> [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_es"> [Духи стихий](https://www.wowhead.com/ru/spell=262624)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_alpha"> [Альфа-волк](https://ru.wowhead.com/spell=198434)</li>
 </ul>
+
+<center>Количество целей:</center>
+<div class="btn-toolbar justify-content-center mt-2 mb-3">
+  <div class = "btn-group btn-group-sm">
+    <button type="button" id="target_1" class="btn btn-primary px-3 rotation-btn active">1</button>
+    <button type="button" id="target_p" class="btn btn-primary px-3 rotation-btn">2+</button>
+  </div>
+</div>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+<div id="st" markdown="1">
 **Опенер для боя против одной цели:**
 1. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
 2. {:.no-pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели.
@@ -266,10 +299,9 @@ custom-javascript-list:
 38. {:.cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 39. [Огненный шок](https://ru.wowhead.com/spell=188389).
 40. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512), если все остальные способности недоступны.
+</div>
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
+<div id="aoe" markdown="1" style="display:none;">
 **Опенер в бою против 2+ целей:**
 1. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512) как можно ближе к боссу на момент пула.
 2. {:.no-pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели.
@@ -325,6 +357,7 @@ custom-javascript-list:
 30. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
 31. [Огненный шок](https://ru.wowhead.com/spell=188389).
 32. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512), если все остальные способности недоступны.
+</div>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
