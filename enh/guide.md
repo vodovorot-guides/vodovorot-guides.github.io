@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2023-01-27
+last_update: 2023-03-22
 title: Гайд на Энх Шамана
-wow: 10.0.5
+wow: 10.0.7
 toc: true
 author: Amani
 description: Большое руководство по всем аспектам игры за Шамана Совершенствования. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и WA и многое другое.
@@ -81,19 +81,22 @@ custom-javascript-list:
 Таланты могут меняться в зависимости от босса и сложности рейда. Для точных данных смотрите информацию на [WarcraftLogs](https://www.warcraftlogs.com/zone/rankings/31#boss=2587&class=Shaman&spec=Enhancement).
 {: class="bordered"}
 
-Основной <span style="color:#f16f25;font-size:1em;">**стихийный**</span> билд для рейда, используется в боях против **Эранога**, **Терроса**, **Сеннарт**, **Дафии**, **Курога**, **Денны** (если вы назначены на босса) и **Рашагет**:
+Основной <span style="color:#f16f25;font-size:1em;">**стихийный**</span> билд для рейда, используется в боях против **Эранога**, **Сеннарт**, **Дафии**, **Курога**, **Денны** (если вы назначены на босса) и **Рашагет**:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJpEJgkEikkQJhAAAAAAAAAAAAAQJCRIBNBkUSSSJwBQkEA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJpEJgkEikkQJhAAAAAAAAAAAAAaRICJoIQSLJpEIaRkAI?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
-<span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд для АоЕ боя, используется в боях против **Совета Стихий** и **Денны** (если вы назначены на аддов):
+* На Эпохальном **Куроге** вместо [Кружащего водоворота](https://www.wowhead.com/ru/spell=384359) стоит использовать [Сокрушающую молнию](https://www.wowhead.com/ru/spell=187874).
+* На Эпохальной **Рашагет** вместо [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757/) на освоении берется [Свирепый выпад](https://www.wowhead.com/ru/spell=196884/). В этом случае не забывайте использовать [Воющую руну](https://www.wowhead.com/ru/item=194820/) на оружие.
+
+<span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд для АоЕ боя, используется в боях против **Совета Стихий**:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAfcj78nJtvjmejSqe5Zhm9IJJpEJISSISCUSkAAAAAAAAAAAAAQJCRIBNBkUSSS5AQQkEA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJpEJISSISCUSkAAAAAAAAAAAAAaRICJoIQSLJpEIaRkAI?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
@@ -101,7 +104,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJHAkcARSSSQSiECAAAAAAAAAAAAAlIEhANBkUSSSJQQkEoA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJHAkcARSSSQSiECAAAAAAAAAAAAoFhIkgiAJtkkSgoFRCKI?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
@@ -112,21 +115,14 @@ custom-javascript-list:
 
 ### Стихийные билды
 
-<span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд через [Бурю с градом](https://www.wowhead.com/ru/spell=334195) и с [Тотемом неистовства ветра](https://www.wowhead.com/ru/spell=8512):
+Основной <span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд через [Бурю с градом](https://www.wowhead.com/ru/spell=334195) и с [Тотемом неистовства ветра](https://www.wowhead.com/ru/spell=8512):
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAfcj78nJtvjmejSqe5Zhm9IJJpEJISSISCUSkAAAAAAAAAAAAAQJCRIhUEFIlkkUAUSkEA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJpEJISSISCUSkAAAAAAAAAAAAAKRiIkokikCJtkkCEKBBgA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
-<span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд через [Бурю с градом](https://www.wowhead.com/ru/spell=334195) с [Ударом духов стихий](https://www.wowhead.com/ru/spell=117014):
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSKRCCJhIJJUSkAAAAAAAAAAAAAQJCRIJCRBSJJJFAlEJBA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
-
-<p></p>
 
 Основа <span style="color:#f16f25;font-size:1em;">**стихийных**</span> билдов в Мифик+ – спред [Огненных шоков](https://ru.wowhead.com/spell=188389) вплоть до **6** целей (максимальное количество активных дебаффов) и последующее их усиление с помощью таланта [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046). В этом также помогают таланты [Пепельный катализатор](https://www.wowhead.com/ru/spell=390370/) и [Горячая рука](https://www.wowhead.com/ru/spell=201900), сокращающие кулдаун [Вскипания лавы](https://www.wowhead.com/ru/spell=60103).
 
@@ -147,7 +143,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSKAJkkISik0SkAAAAAAAAAAAAAQJCRIhUEFIlkkUAUSkEA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSKAJkkISik0SkAAAAAAAAAAAAAKRiIkokikCJtkkCEKBBgA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 

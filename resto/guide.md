@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2023-02-09
+last_update: 2023-03-22
 title: Гайд на Рестор Шамана
-wow: 10.0.5
+wow: 10.0.7
 toc: true
 author: "Amani, Ортаз"
 description: Большое руководство по всем аспектам игры за Шамана Исцеления. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и WA и многое другое.
@@ -55,7 +55,10 @@ image: /assets/img/resto_tb2.png
 
 ## Основной билд
 
-Стандартный билд для рейда, дающий простор для экспериментов. Подходит для боев, где союзники стоят кучно.
+Основной рейдовый билд, рассчитанный на использование [Цепного исцеления](https://ru.wowhead.com/spell=1064). Однако не стоит им спамить, усиливайте его соответствующими талантами и применяйте в нужное время.
+
+Пробуждение предка можно заменить на [Первозданную волну](https://www.wowhead.com/ru/spell=375982) и [Благословение Говорящей с волнами](https://ru.wowhead.com/spell=381946) для более удобного отхила разрозненных целей. 
+{: class="bordered"}
 
 <p></p>
 
@@ -65,11 +68,14 @@ image: /assets/img/resto_tb2.png
 
 ## Альтернативный билд
 
-Данный билд подойдет для боев, где союзники стоят разрозненно – например, как на Дафии Перерожденной.
+Данный билд подойдет для боев, где рейд стоит разрозненно (например на **Дафии**), а также там, где паттерн наносимого урона совпадает с кулдауном [Первозданной волны](https://www.wowhead.com/ru/spell=375982).
+
+Чем лучше вы отыгрывайте комбинацию [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153/) и [Первозданной волны](https://www.wowhead.com/ru/spell=375982), тем лучше себя показывает этот билд. 
+{: class="bordered"}
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAfcj78nJtvjmejSqe5Zhm9AAAAAAAAAAAAAQIRSSoEkiSUSUSLKRiECKJhAgUCJNtEgkEJB?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIRSCJlkWSUSSRLahSQQJBAItkgSigkkkEiA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
 <p></p>
 
@@ -79,7 +85,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAgkmkQSapkQKaRLBtAJlECRSIFUgUSSAAJJxBSA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAgkmkQSaJoIJtkQDSKBhUSCBKINJgIKJJxBSQL?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
 <p></p>
 
