@@ -315,7 +315,7 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_dre"> [Укоренившиеся стихии](https://ru.wowhead.com/spell=378270)</li>
   <li markdown="span" class="rotation_switch">
-    <input class="form-check-input" type="checkbox" id="rotation_switch_lmt"> [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/)</li>
+    <input class="form-check-input" type="checkbox" id="rotation_switch_lmt"> [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) + [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285)</li>
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_primal"> [Повелитель изначальных стихий](https://www.wowhead.com/ru/spell=117013/)</li>
   <li markdown="span" class="rotation_switch">
