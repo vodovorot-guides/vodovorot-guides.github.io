@@ -362,7 +362,7 @@ custom-javascript-list:
 2. {:.fire-apl .primal-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
 4. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
   * {:.comm-apl}Приберегите кулдаун [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), если в ближайшее время ожидается появление аддов.
-4. [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285) для сброса кулдауна [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
+4. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285) для сброса кулдауна [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
 5. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 6. {:.no-sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если длительность дебаффа на цели составляет менее **5.4** секунд.
 6. {:.sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если длительность дебаффа на цели составляет менее **5.4** секунд и у вас нет баффа от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
