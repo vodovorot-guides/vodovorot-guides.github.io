@@ -1,11 +1,11 @@
 ---
 layout: page
-last_update: 2023-03-12
+last_update: 2023-03-22
 title: Гайд на Элем Шамана
 wow: 10.0.7
 toc: true
 author: Amani
-description: Описание изменений Шамана в патче 10.0.7.
+description: Большое руководство по всем аспектам игры за Шамана Стихии. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и WA и многое другое.
 image: /assets/img/ele_tb2.png
 custom-javascript-list:
     - "/assets/js/rotation_switches.js"
@@ -16,127 +16,201 @@ custom-javascript-list:
 <img src="/assets/img/ele_tb2.png" width=400x> 
 </p>
 
-# Основные новинки патча 10.0.7
+# Вступление
 
-* Обновление выйдет [22 марта 2023 года](https://worldofwarcraft.blizzard.com/en-gb/news/23923483/).
-* Новая зона для исследования – [Запретный Край](https://www.noob-club.ru/index.php?topic=82853.0). 
-* [Ониксовое колечко](https://www.wowhead.com/ptr/item=203460), в которое можно вставлять [изначальные самоцветы](https://www.noob-club.ru/index.php?topic=82534.0).
-* Возможность получить [традиционные доспехи людей и орков](https://www.noob-club.ru/index.php?topic=82831.0).
-* Новая фракция – [фурболги из клана Зимней Шкуры](https://www.noob-club.ru/index.php?topic=82393).
-* Новый [сюжет про Бейна](https://www.noob-club.ru/index.php?topic=82760.0).
-* Различные изменения талантов и способностей для многих специализаций, а также большая переработка Паладинов Воздаяния. В этой статье речь пойдет исключительно об изменениях Шаманов.
+* Шаман Стихии, он же Элем Шаман – боец дальнего боя, полагающийся на заклинания и помощь стихий. Основная характеристика – Интеллект.
+* Элем использует кольчужные доспехи, а из оружия предпочитает щит с одноручным молотом, кинжалом или кистевым оружием, а также посохи.
+* Шаман Стихии использует школы магии <span style="color:#26d22b;font-size:1em;">**природы**</span>, <span style="color:#f16f25;font-size:1em;">**огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**льда**</span>, а также наносит <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> урон (только [Землетрясение](https://ru.wowhead.com/spell=61882)).
+* Дальность всех атакующих заклинаний – **40** метров. Исключениями являются некоторые вспомогательные способности, которые имеют дальность **30** метров.
+* Основной ресурс Шамана Стихии – [Водоворот](https://ru.wowhead.com/spell=343725), а дополнительный – **Мана** (используется для лечения и вспомогательных заклинаний).
 
-# Изменения общей ветки талантов Шамана
+Подробная статья по всем заклинаниям и талантам Элем Шамана:
 
-* [Элементаль земли](https://www.wowhead.com/ru/spell=198103/) больше не агрит мобов, которые не учавствуют с вами в бою.
-  * Это изменение позволит более свободно призывать [Элементаля земли](https://www.wowhead.com/ru/spell=198103/), не боясь запулить лишних мобов.
+<p></p>
 
-* [Астральный сдвиг](https://ru.wowhead.com/spell=108271) теперь базово имеет кулдаун **12** секунд вместо **8** секунд.
-* Талант [Между мирами](https://www.wowhead.com/ptr-2/spell=381647/) теперь сокращает кулдаун [Астрального сдвига](https://ru.wowhead.com/spell=108271) на **30** секунд, но больше не продлевает его время действия.
-* Талант [Астральный бастион](https://www.wowhead.com/ptr-2/spell=377933) теперь добавляет к [Астральному сдвигу](https://ru.wowhead.com/spell=108271) **20%** снижения урона вместо **15%**.
-  * Для тех, кто всегда выбирал талант [Между мирами](https://www.wowhead.com/ptr-2/spell=381647/) – ничего не изменилось. Однако теперь будет иметь смысл брать именно [Астральный бастион](https://www.wowhead.com/ptr-2/spell=377933), снижая получаемый урон на **60%** на **12** секунд раз в **2** минуты. Это хорошее изменение для боев, где [Астральный сдвиг](https://ru.wowhead.com/spell=108271) сдается не чаще, чем раз в две минуты, позволяя еще больше уменьшить количество получаемого урона, не жертвуя при этом длительностью баффа.
+{% include button.html name="Способности и таланты Элем Шамана" link="/ele/spells.html" %}  
 
-* Удален талант [Улучшенная молния](https://www.wowhead.com/ru/spell=381674).
-* Урон [Молнии](https://ru.wowhead.com/spell=188196) увеличен на **20%** для всех специализаций.
- *  Данный талант брался практически во всех ситуациях, не оставляя за собой никакой альтернативы. Это изменение освобождает нам два очка талантов в общей ветке, позволяя найти им лучшее применение. 
+<p></p>
 
-* Талант [Точное озарение](https://www.wowhead.com/ru/spell=381666) удален из общей ветки и перенесен в ветки специализации Элема и Энха.
-  * Данный талант больше недоступен Рестору, чтобы не иметь слишком большого количество различных вариантов изменения значения отхила.
+## Плюсы и минусы 
 
-* Множество талантов поменяли свои позиции.
-  * Одно из самых приятных изменений патча, особенно учитывая освободившиеся очки талантов от удаления [Улучшенной молнии](https://www.wowhead.com/ru/spell=381674).
-  * [Переполняющая сила жизни](https://www.wowhead.com/ru/spell=381689) теперь находится не в ответвлении от [Гнева природы](https://www.wowhead.com/ru/spell=381655), а на месте [Точного озарения](https://www.wowhead.com/ru/spell=381666), а значит этот талант стало гораздо удобнее брать.
-  * [Наставления предков](https://www.wowhead.com/ru/spell=108281) теперь не требует взятие полубесполезных талантов на отхил, а берется сразу после обязательной [Защиты от стихий](https://www.wowhead.com/ru/spell=381650).
-  * Все таланты на тотемы теперь сосредоточены в одном месте, а не разбросаны по всей ветке. Аналогичная ситуация с талантами на стихийные щиты, которые сейчас идут один за другим с левой стороны ветки.
-  * Талант [Гром и молния](https://www.wowhead.com/ru/spell=51490/) теперь находится на месте [Улучшенной молнии](https://www.wowhead.com/ru/spell=381674), что также облегчает его взятие.
+<span style="color:#40bf40;font-size:1em;">Плюсы Элема</span>
 
-* [Громоподобные лапы](https://www.wowhead.com/ptr-2/spell=378075) теперь могут снимать замедления раз в **20** секунд, а не раз в **60** секунд.
-  * Данный талант будет крайне полезен на энкаунтерах с различными рутами и замедлениями, давая Шаману бюджетную версию решифта Друида.
+* Имеет большое количество играбельных и эффективных билдов на любой вкус.
+* Может дать отличный бурст на АоЕ фазах, при правильном использовании кулдаунов.
+* Хороший урон в одну цель.
+* Может снимать проклятия, страх и сон, яды, отбрасывать или подкидывать противников, диспелить с врага магию, замедлять и станить группу врагов, превращать врагов в лягушку, а также имеет [Жажду крови](https://ru.wowhead.com/spell=2825).
+* Может подхиливать союзников, а также в соло хилить группу с помощью [Наставления предков](https://ru.wowhead.com/spell=108281) во время бурстов на АоЕ.
 
-* [Тотем противоядия](https://www.wowhead.com/ptr-2/spell=383013/) теперь снимает не один стак яда, а **все** стаки.
-  * В первом сезоне этот талант будет полезен на Заросшем древе в Академии Алгет'ар, снимая все стаки яда от мелких мобов за каждый тик в течение долгого количества времени.
+<span style="color:#ff4040;font-size:1em;">Минусы Элема</span>
+* Не имеет заметного рейдового утилити.
+* В зависимости от билда, ротация может показаться неудобной и переусложненной.
+* Требуется время для набора энергии чтобы наносить урон на АоЕ, особенно при отсутствии бурстов.
+* Не имеет иммуна, для выживания следует полагаться на собственное исцеление и [Астральный сдвиг](https://ru.wowhead.com/spell=108271).
 
-* Талант [Родство с волком](https://www.wowhead.com/ptr-2/spell=382197) переместился из веток специализаций в общую ветку талантов.
-  * Данный талант крайне ситуативен и нужен далеко не во всех ситуациях, но иногда он может быть довольно полезен. Например, он позволяет использовать [Развеивание магии](https://www.wowhead.com/ru/spell=370/) на Яростную бурю в Нокхуде не выходя из формы [Призрачного волка](https://www.wowhead.com/ru/spell=2645/) и не теряя стаки [Духа волка](https://www.wowhead.com/ru/spell=260878).
+# Билды талантов
 
-* Талант [Кружащие потоки](https://www.wowhead.com/ptr-2/spell=378094/) был переработан. Теперь он усиливает [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394/) / [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) на **10**/**20%** для Рестора и на **20**/**40%** для Элема и Энха.
-  * Данное изменение сделает [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394/) чуть полезнее для Элема и Энха даже в том случае, если они не кастуют заклинания лечения после его установки, что требовала старая версия таланта.
+## Общая информация
 
-* [Тотем хватки земли](https://www.wowhead.com/ru/spell=51485) теперь заменяет [Тотем оков земли](https://www.wowhead.com/ru/spell=2484/) при взятии таланта.
+Древо талантов Элема условно разделено на две стороны – слева расположены таланты, усиливающие заклинания природы ([Молния](https://ru.wowhead.com/spell=188196), [Цепная молния](https://ru.wowhead.com/spell=188443)), которые обычно называют <span style="color:#71d5ff;font-size:1em;">**молниевые**</span>, а справа находятся таланты, усиливающие школу магии <span style="color:#f16f25;font-size:1em;">**огня**</span> ([Выброс лавы](https://ru.wowhead.com/spell=51505), [Огненный шок](https://ru.wowhead.com/spell=188389)). В середине ветки расположены усиления энергии [Водоворота](https://ru.wowhead.com/spell=343725), [Искусности](https://ru.wowhead.com/spell=168534) и другие общие таланты.
 
-* Исправлены различные баги, включая сброс стихийных щитов при смене талантов, баг с [Проецированием тотемов](https://www.wowhead.com/ru/spell=108287) (что особенно полезно для Энха), и другие.
+И <span style="color:#71d5ff;font-size:1em;">**молниевые**</span>, и <span style="color:#f16f25;font-size:1em;">**огненные**</span> билды актуальны в зависимости от энкаунтера. Не существует одного билда на все случаи жизни, но вы можете модифицировать ваш любимый билд под необходимые ситуации.
 
+В рейде используются различные комбинации данных билдов, например под выход аддов вы хотите использовать [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), а для урона по боссу – [Первозданную волну](https://www.wowhead.com/ru/spell=326059/) с талантом [Первозданный выброс](https://www.wowhead.com/ru/spell=386474). Ниже будут представлены рейдовые билды под каждого босса, а еще больше вариантов можно найти на [Warcraftlogs](https://www.warcraftlogs.com/).
 
-# Изменения Элема
+## <span style="color:#f16f25;font-size:1em;">**Огненный**</span> билд
 
-* Длительность дебаффа от [Электрического шока](https://www.wowhead.com/ptr-2/spell=382086) составляет **9** секунд вместо **6** секунд.
-* Исправлена неполадка, из-за которой дебафф от [Электрического шока](https://www.wowhead.com/ptr-2/spell=382086) иногда не накладывался на основную цель.
-  * Отличный бафф таланта, который особенно хорошо себя показывает после [хотфиксов от 27 февраля](https://news.blizzard.com/en-us/world-of-warcraft/23892230/hotfixes-march-10-2023). Продленная длительность дебаффа позволит проще отыгрывать как усиленные [Молнии](https://ru.wowhead.com/spell=188196) под [Хранителем бурь](https://ru.wowhead.com/spell=191634), так и не терять бафф для [Удара духов стихий](https://ru.wowhead.com/spell=117014)
+<span style="color:#f16f25;font-size:1em;">**Огненные**</span> билды подразумевают активное использование [Выброса лавы](https://www.wowhead.com/ru/spell=51505), [Первозданной волны](https://www.wowhead.com/ru/spell=326059/), [Укоренившихся стихий](https://www.wowhead.com/ru/spell=378270), а также талантов с правой стороны древа в различных комбинациях.
 
-# Изменения Энха
+Основной урон в бою против одной цели идет от [Выброса лавы](https://www.wowhead.com/ru/spell=51505), который получает усиление от различных талантов. Однако на АоЕ основным источником урона всё также остается [Цепная молния](https://www.wowhead.com/ru/spell=188443/), которая под действием [Перерождения](https://www.wowhead.com/ru/spell=114050) превращается в [Поток лавы](https://www.wowhead.com/ru/spell=114074).
 
-* Основные изменения Энха припасены на патч **10.0.1**, так что в **10.0.7** мы получаем только свободные очки талантов в общей ветке.
-* Энх Шаман сможет в любом билде использовать [Проецирование тотемов](https://www.wowhead.com/ru/spell=108287) без необходимости жертвовать более полезными талантами. Плюс был исправлен баг с этой способностью, что сделает её использование еще удобнее. Не забудьте про использование макроса на [Проецирование тотемов](https://www.wowhead.com/ru/spell=108287):
-~~~
-#showtooltip Удар бури
-/cast [@player] Проецирование тотемов
-/cast Удар бури
-~~~
-
-# Изменения Рестора
-
-* Всё лечение повышено на **8%**.
-* Лечение от [Родника](https://www.wowhead.com/ru/spell=197995) снижено на **30%**.
-* [Высвободить чары жизни](https://ru.wowhead.com/spell=73685) теперь переводит **40%** оверхила от [Родника](https://www.wowhead.com/ru/spell=197995) в абсорб щит вместо **25%**.
-  * Данное изменение сбаланисирует отхил между [Родником](https://www.wowhead.com/ru/spell=197995) и его подпиткой в [Тотем разразившегося ливня](https://ru.wowhead.com/spell=157153) и другими способостями Рестор Шамана.
+Проки [Перерождения](https://ru.wowhead.com/spell=114050)
 
 
-* Урон [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) увеличен на **35%**.
-* Талант [Призыв грома](https://www.wowhead.com/ru/spell=378241) удален.
-  * Удаление [Призыва грома](https://www.wowhead.com/ru/spell=378241) и перенос его урона в базовое значение заклинаний освободит одно очко талантов, что будет особенно полезно в Мифик+, где талант [Призыв грома](https://www.wowhead.com/ru/spell=378241) брался по умолчанию.
+## <span style="color:#71d5ff;font-size:1em;">**Молниевый**</span> билд
 
-* Урон [Кислотного дождя](https://ru.wowhead.com/spell=378443) снижен на **20%**.
-* [Кислотный дождь](https://ru.wowhead.com/spell=378443) и [Хляби небесные](https://www.wowhead.com/ru/spell=383222) были разделены и больше не являются взаимозаменямым выбором.
-  * [Кислотный дождь](https://ru.wowhead.com/spell=378443) после последнего баффа наносил крайне много урона, за что и подвергся балансировке. Но в месте с талантом [Хляби небесные](https://www.wowhead.com/ru/spell=383222) радиус [Целительного ливня](https://www.wowhead.com/ru/spell=73920) будет увеличен на **2** метра, что также поможет в нанесении урона от [Кислотного дождя](https://ru.wowhead.com/spell=378443).
+Основные таланты для любого <span style="color:#71d5ff;font-size:1em;">**молниевого**</span> билда это [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), [Безжалостное бедствие](https://www.wowhead.com/ru/spell=382685/) и [Призыв грома](https://www.wowhead.com/ru/spell=378241/).
 
-* [Водный щит](https://www.wowhead.com/ru/spell=52127) удален из талантов и теперь учится на **12** уровне.
-  * Еще одно свободное очко таланта. [Упоение](https://www.wowhead.com/ru/spell=16196) при этом всё также является талантом и находится в том же месте, где находился [Водный щит](https://www.wowhead.com/ru/spell=52127).
+Также часто берутся [Ледяная ярость](https://ru.wowhead.com/spell=210714) и [Электрический шок](https://ru.wowhead.com/spell=382086). Они практически не используются на АоЕ, но вот в бою против одной цели необходимо поддерживать на враге дебафф от [Электрического шока](https://ru.wowhead.com/spell=382086). 
 
-* Два новых таланта на выбор под [Тотемом целительного прилива](https://ru.wowhead.com/spell=108280):
-  * [Управление потоками](https://www.wowhead.com/ptr-2/spell=404015) – снижает кулдаун [Тотема целительного прилива](https://ru.wowhead.com/spell=108280) на **30** секунд.
-  * [Смена течения](https://www.wowhead.com/ptr-2/spell=404019) – цель [Тотема целительного прилива](https://ru.wowhead.com/spell=108280) с самым низким уровнем здоровья восполняет на **30%** больше здоровья и получает от вас на **15%** больше исцеления в течение **4** секунд.
+Также важно правильное отыгрывание таланта [Прилив мощи](https://www.wowhead.com/ru/spell=262303). Он используется не во всех билдах, однако очень важно помнить о нем в бою против одной цели. Этот талант усиливает следующее после [Земного шока](https://ru.wowhead.com/spell=8042) и [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) заклинание, добавляя ему дополнительные эффекты.
 
-New Talent: Current Control – Reduces the cooldown of Healing Tide Totem by 30 seconds.
-New Talent: Tide Turner – The lowest health target of Healing Tide Totem is healed for 30% more and receives 15% more healing from you for 4 seconds.
+В <span style="color:#71d5ff;font-size:1em;">**молниевом**</span> билде нас интересует именно бафф [Молнии](https://ru.wowhead.com/spell=188196) от [Прилива мощи](https://www.wowhead.com/ru/spell=262303). Он добавляет две дополнительные [Перегрузки](https://ru.wowhead.com/spell=168534), которые к тому же усиливаются от таланта [Хранитель бурь](https://www.wowhead.com/ru/spell=191634). То есть мы хотим обе [Молнии](https://ru.wowhead.com/spell=188196) баффнутые [Хранителем бурь](https://www.wowhead.com/ru/spell=191634) дополнительно усилить [Приливом мощи](https://www.wowhead.com/ru/spell=262303).
 
-A choice node has been added below Mana Tide Totem:
-New Talent: Resonant Waters – Increases the duration of Mana Tide Totem by 4 seconds and increases its radius by 20 yards.
-New Talent: Spiritwalker’s Tidal Totem – After using Mana Tide Totem, the cast time of Healing Wave and Chain Heal is reduced by 50% and the mana cost of Healing Wave and Chain Heal are reduced by 50% for 10 seconds.
-
-Flow of the Tides now grants an additional bounce of Chain Heal in addition to its current effect.
-
-Ever-Rising Tide has been removed.
-Nature’s Focus has been removed.
-The PvP Talent Tidebringer has moved to Nature’s Focus’ position as a 2-point talent.
+Данная комбинация называется **Surge-combo** (от англ. [Surge of Power](https://www.wowhead.com/spell=262303)) и выглядит следующим образом (пример при использовании талантов [Око бури](https://www.wowhead.com/ru/spell=381708/) и [Поток силы](https://www.wowhead.com/ru/spell=385923/)):
+1. Накопите **58** ед. Энергии Водоворота и используйте [Хранитель бурь](https://www.wowhead.com/ru/spell=191634).
+2. Используйте [Земной шок](https://www.wowhead.com/ru/spell=8042) – у вас осталось **8** ед. Энергии Водоворота и вы получили бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303).
+3. Используйте [Молнию](https://ru.wowhead.com/spell=188196), после которой вылетят **3** [Перегрузки](https://ru.wowhead.com/spell=168534) (**1** от [Хранителя бурь](https://www.wowhead.com/ru/spell=191634) и **2** от [Прилива мощи](https://www.wowhead.com/ru/spell=262303)). У вас получится **30** ед. Энергии Водоворота.
+4. Используйте [Выброс лавы](https://www.wowhead.com/ru/spell=51505/), после чего будет **42** ед. Энергии Водоворота.
+5. Используйте [Ледяной шок](https://www.wowhead.com/ru/spell=196840), что даст **50** ед. Энергии Водоворота и бафф от [Электрического шока](https://ru.wowhead.com/spell=382086).
+6. Используйте вторую [Молнию](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://www.wowhead.com/ru/spell=191634), [Прилива мощи](https://www.wowhead.com/ru/spell=262303) и [Электрического шока](https://ru.wowhead.com/spell=382086).
 
 
-Ancestral Awakening heals for 15%/30% of the amount healed (was 10%/20%).
+## Таланты для Рейда
 
-Earthen Harmony has been redesigned – Earth Shield reduces damage taken by 3%/6% and its healing is increased by 50%/100% on targets below 75% health.
+У Элема есть большое разнообразие билдов, которые крайне близки по эффективности. Очень хорошо себя показывает [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) в тех случаях, где можно его использовать под выход аддов.
 
-Cloudburst Totem healing no longer contributes to Ancestral Guidance.
-Ancestral Awakening and Ancestral Guidance now contribute to Cloudburst Totem healing.
+Билды для рейда являются **рекомендацией** для тех, кто не хочет подбирать таланты самостоятельно. На каждом боссе так или иначе будут использоваться разные билды, которые можно увидеть на [Warcraftlogs](https://www.warcraftlogs.com/) и [Subcreation](https://raid.subcreation.net/enhancement-shaman.html).
+{: class="bordered"}
 
-Earthliving Weapon’s proc sound effect has been lowered in volume.
-Fixed an issue causing Ancestral Awakening to double dip into healing reduction effects.
+<details markdown=1><summary><b>Эраног</b></summary>
+<p></p>
 
-Improved Primordial Wave increases the healing done by Healing Wave by 13%/25% (was 8%/15%).
 
-Improved Earthliving Weapon increases the healing of Earthliving by 20%/40% (was 15%/30%) and always triggers on targets below 18%/35% health (was 13%/25%).
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpIJlkAJINKRJtkQOAAAAAAgWASJJoJg0SSaHoECCJBI?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+</details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+### Эраног
+
+
+
+
+
+
+
+### Террос
+
+Казино-билд через [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270):
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUSKBSiDEBAAAAAoFgUSCaCItkk2BKhgQSAC?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+
+### Совет Стихий
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkACSjSOQLtkQOAAAAAAgWASJJoJg0SSaHoECCJBI?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+### Сеннарт
 
 
 <p></p>
 
-{% include button.html name="Обсудить на сервере Водоворот" link="https://discord.gg/8Bag6kT" %}  
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAaBIlkgmASLJpdgSIIkEgA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
+
+### Дафия
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSSLJQCJNKBNJJBAAAAAgWASJJoJg0SSaHoECCJBI?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+### Курог
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlk0oEt0SCRAAAAAAaBIlkgmASLJpdgSIIkEgA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+### Денна
+
+Билд на аддов, огненный вариант:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAgWASJJoJg0SSaHoECCJBI?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+
+Билд на аддов, молниевый вариант:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJJlDk0S0QQBJSAAAAAAaBIlkgmASLJpdgSIIkEgA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+Если вы назначены на босса, то используйте СТ билд с Терроса.
+
+### Рашагет
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAoFgUSCaCItkk2BKhgQSAC?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+
+## Таланты для Мифик+
+
+
+Стандартный <span style="color:#f16f25;font-size:1em;">**Огненный**</span> билд с [Ледяной яростью](https://www.wowhead.com/ru/spell=210714/) и [Ударом духов стихий](https://ru.wowhead.com/spell=117014):
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJlkAJtINKRLNJEAAAAAAKBIlkQKiCSLJppEokQEgA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+* На Укрепленных неделях, в подземельях с большим количеством треша, можно взять [Жгучее пламя](https://www.wowhead.com/ru/spell=381782) вместо [Ударa духов стихий](https://www.wowhead.com/ru/spell=117014).
+
+
+<span style="color:#71d5ff;font-size:1em;">**Молниевый**</span> билд для тех, кому по какой-то причине не нравятся огненные варианты. Урон в этом билде падает во время передвижения гораздо сильнее, чем в огненных билдах.
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlDk0S0QQBJSAAAAAAKBIlkokikCSLJpFgSCBgA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+
