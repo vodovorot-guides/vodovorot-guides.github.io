@@ -416,7 +416,7 @@ custom-javascript-list:
 1. {:.dre-apl targets="2 3"}[Выброс лавы](https://ru.wowhead.com/spell=51505) в цель с наибольшим количеством здоровья.
 1. {:.dre-apl .ls-apl targets="4 5"}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
 1. {:.no-eogs-apl .no-eb-apl targets="2 3"}[Землетрясение](https://ru.wowhead.com/spell=61882).
-1. {:..no-eogs-apl eb-apl targets="2 3"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
+1. {:.no-eogs-apl .eb-apl targets="2 3"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
 1. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) c баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 1. {:.no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 1. {:.eb-apl .eogs-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
