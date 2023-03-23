@@ -321,7 +321,7 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_eogs"> [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087)</li>
   <li markdown="span" class="rotation_switch">
-    <input class="form-check-input" type="checkbox" id="rotation_switch_com"> Включить подробные комментарии.</li>
+    <input class="form-check-input" type="checkbox" id="rotation_switch_comm"> Включить подробные комментарии.</li>
 </ul>
 
 <center>Количество целей:</center>
@@ -361,8 +361,8 @@ custom-javascript-list:
 2. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
 2. {:.fire-apl .primal-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
 4. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
-  * Приберегите кулдаун [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), если в ближайшее время ожидается появление аддов.
-  * Сразу же используйте [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285) для сброса кулдауна [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
+  * {:.comm-apl}Приберегите кулдаун [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), если в ближайшее время ожидается появление аддов.
+4. [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285) для сброса кулдауна [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
 5. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 6. {:.no-sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если длительность дебаффа на цели составляет менее **5.4** секунд.
 6. {:.sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если длительность дебаффа на цели составляет менее **5.4** секунд и у вас нет баффа от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
@@ -399,6 +399,7 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+
 **АоЕ бой:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
 1. {:.primal-apl .fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
@@ -406,25 +407,27 @@ custom-javascript-list:
 1. {:.primal-apl .storm-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
 1. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
 1. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285), если [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) на кулдауне.
-  * В низких ключах не стоит ставить сразу два [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), а лучше распределять их на разные паки.
+  * {:.comm-apl}В низких ключах не стоит ставить сразу два [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), а лучше распределять их на разные паки.
 1. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
 1. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
 1. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
-1. {:.sop-apl targets="<3"}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/), если в бою не более **2** целей.
+1. {:.sop-apl targets="2"}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) максимальное количество целей и у вас есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=375982).
-1. {:.dre-apl targets="2 3"}[Выброс лавы](https://ru.wowhead.com/spell=51505) в бою против **2-3** целей.
-  * {:.dre-apl targets="<5"}В бою против **4+** целей [Выброс лавы](https://ru.wowhead.com/spell=51505) стоит кастовать с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756). На **5+** целей – только во время передвижения.
-1. {:.no-dre-apl targets="<3"}[Выброс лавы](https://ru.wowhead.com/spell=51505), если в бою не более **2** целей.
-1. {:.dre-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
-1. {:.if-apl .es-apl targets="<5"}[Ледяная ярость](https://ru.wowhead.com/spell=210714), если в бою не более **4** целей.
-1. {:.if-apl .es-apl targets="<5"}[Ледяной шок](https://ru.wowhead.com/spell=196840), если на целях нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086) и если в бою не более **4** целей.
-1. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если у вас достаточно Энергии Водоворота.
-  * {:.no-eb-apl targets="2"}В бою против **2** целей, если мобы могут выйти из зоны действия [Землетрясения](https://ru.wowhead.com/spell=61882), то его стоит заменить на [Земной шок](https://ru.wowhead.com/spell=8042).
-  * {:.eb-apl .no-eogs-apl targets="2 3"}В бою против **2-3** целей стоит использовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) вместо [Землетрясения](https://ru.wowhead.com/spell=61882).
-1. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) c баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087), если у вас достаточно Энергии Водоворота.
-1. {:.no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087) и если у вас достаточно Энергии Водоворота.
-1. {:.eb-apl .eogs-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087) и если у вас достаточно Энергии Водоворота.
+1. {:.dre-apl targets="2 3"}[Выброс лавы](https://ru.wowhead.com/spell=51505) в цель с наибольшим количеством здоровья.
+1. {:.dre-apl .ls-apl targets="4 5"}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
+1. {:.no-eogs-apl .no-eb-apl targets="2 3"}[Землетрясение](https://ru.wowhead.com/spell=61882).
+1. {:..no-eogs-apl eb-apl targets="2 3"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
+1. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) c баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+1. {:.no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+1. {:.eb-apl .eogs-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+1. {:.dre-apl targets="5"}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+1. {:.if-apl .es-apl targets="<5"}[Ледяной шок](https://ru.wowhead.com/spell=196840), если на целях нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
+1. {:.if-apl .es-apl targets="<5"}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
 1. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
+
+
+
+
 </div>
 
 # Общая ветка талантов
