@@ -91,7 +91,8 @@ custom-javascript-list:
 {: class="bordered"}
 
 
-
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
 <details markdown=1><summary><b>Эраног</b></summary>
@@ -125,9 +126,8 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-
-
-### Совет Стихий
+<details markdown=1><summary><b>Совет Стихий</b></summary>
+<p></p>
 
 <p></p>
 
@@ -135,8 +135,14 @@ custom-javascript-list:
 
 <p></p>
 
-### Сеннарт
+</details>
+<p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<details markdown=1><summary><b>Сеннарт</b></summary>
+<p></p>
 
 <p></p>
 
@@ -144,7 +150,14 @@ custom-javascript-list:
 
 <p></p>
 
-### Дафия
+</details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<details markdown=1><summary><b>Дафия</b></summary>
+<p></p>
 
 <p></p>
 
@@ -152,8 +165,14 @@ custom-javascript-list:
 
 <p></p>
 
-### Курог
+</details>
+<p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<details markdown=1><summary><b>Курог</b></summary>
+<p></p>
 
 <p></p>
 
@@ -161,7 +180,15 @@ custom-javascript-list:
 
 <p></p>
 
-### Денна
+</details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+<details markdown=1><summary><b>Денна</b></summary>
+<p></p>
 
 Билд на аддов, огненный вариант:
 
@@ -180,16 +207,35 @@ custom-javascript-list:
 
 <p></p>
 
-Если вы назначены на босса, то используйте СТ билд с Терроса.
+Билд на босса:
 
-### Рашагет
+<p></p>
 
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUSKBSiDEBAAAAAoFgUSCaCItkkSggkkAI?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+</details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<details markdown=1><summary><b>Рашагет</b></summary>
+<p></p>
 
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAoFgUSCaCItkk2BKhgQSAC?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
+
+</details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 
 ## Таланты для Мифик+
