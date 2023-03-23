@@ -83,7 +83,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAgkmkIJplQKSOQLBNIpEESJJEog0kAiokkEHIRjA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIpJJJJplQKSSTCNIpEESJJEog0kAiokkEHIBtA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
 <p></p>
 
@@ -411,9 +411,8 @@ image: /assets/img/resto_tb2.png
 * [Печать избранного Денны](https://www.wowhead.com/ru/item=195480/) – **Эраног**. «Очень редкий» дроп, лучшее кольцо для рейда и Мифик+. Прок на урон срабатывает от [Выброса лавы](https://ru.wowhead.com/spell=51505) и наложения [Огненного шока](https://ru.wowhead.com/spell=188389).
 * [Печать сыновнего долга](https://www.wowhead.com/ru/item=195526) – **Хранительница стаи Денна**. «Очень редкий» дроп, не лучшие статы для Мифик+, но подойдет для рейда. Щит считается в ХПС, но лучше не претендовать на это кольцо и оставить его тем, кому эти статы подойдут лучше.
 
-[Ониксовое колечко](https://www.wowhead.com/ru/item=203460) из патча **10.0.7** на данный момент эквивалентно обычному кольцу с нормальными статами **408** уровня предмета. Если ваши кольца выше по ilvl и/или имеют сокет, то новое кольцо можно не фармить. Однако его могут в любой момент усилить до более адекватного уровня, имейте это в виду.
+[Ониксовое колечко](https://www.wowhead.com/ru/item=203460) из патча **10.0.7** можно использовать для нанесения урона. Используйте [Камень гудящей магии](https://www.wowhead.com/ru/item=204018/), [Камень пророческих сумерек](https://www.wowhead.com/ru/item=204029) и [Камень алчущей крови](https://www.wowhead.com/ru/item=204027).
 {: class="bordered"}
-
 ## Аксессуары
 
 Ниже представлены неплохие аксессуары из Мифик+ и рейда. Полный рейтинг аксессуаров можно найти на [QE Live](https://questionablyepic.com/live/trinkets).

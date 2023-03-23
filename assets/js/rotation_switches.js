@@ -111,7 +111,7 @@ function on_build_button_click(button, talent_list) {
 }
 
 $('button#build_fire_ele').on('click', function() {
-    on_build_button_click(this, ["fire", "pw", "dre", "mote", "if", "flux", "ls", "eb"]);
+    on_build_button_click(this, ["fire", "pw", "dre", "mote", "if", "ls", "eb"]);
     return false;
 });
 
