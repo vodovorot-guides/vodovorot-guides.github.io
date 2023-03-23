@@ -321,7 +321,7 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_eogs"> [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087)</li>
   <li markdown="span" class="rotation_switch">
-    <input class="form-check-input" type="checkbox" id="rotation_switch_comm"> Включить подробные комментарии.</li>
+    <input class="form-check-input" type="checkbox" id="rotation_switch_comm"> Включить подробные комментарии (в разработке).</li>
 </ul>
 
 <center>Количество целей:</center>
