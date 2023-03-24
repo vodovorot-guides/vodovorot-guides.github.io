@@ -248,10 +248,11 @@ custom-javascript-list:
 5. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982) и при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 7. {:.cl-apl .alpha-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) для активации таланта [Альфа-волк](https://ru.wowhead.com/spell=198434).
 8. {:.hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
+2. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 9. {:.no-dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+12. {:.ic-apl .pw-apl .hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
 10. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра](https://www.wowhead.com/ru/spell=115356).
 11. {:.dw-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352) и сразу же [Удар бури](https://www.wowhead.com/ru/spell=17364).
-12. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 14. Продолжайте обычную ротацию.
 
 <hr style="height:1px;background-color:#bbb">
