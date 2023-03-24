@@ -393,8 +393,20 @@ custom-javascript-list:
 </div>
 
 <div id="aoe" markdown="1" style="display:none;">
+
 **Опенер на АоЕ:**
-1. В разработке.
+
+1. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
+1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
+  * {:.primal-apl .fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
+1. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
+  * {:.primal-apl .storm-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
+1. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
+1. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285).
+1. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
+7. {:.pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
+1. Продолжайте обычную ротацию, указанную ниже.
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -402,9 +414,9 @@ custom-javascript-list:
 
 **АоЕ бой:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
-1. {:.primal-apl .fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
+  * {:.primal-apl .fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
 1. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
-1. {:.primal-apl .storm-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
+  * {:.primal-apl .storm-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
 1. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
 1. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285), если [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) на кулдауне.
   * {:.comm-apl}В низких ключах не стоит ставить сразу два [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), а лучше распределять их на разные паки.
