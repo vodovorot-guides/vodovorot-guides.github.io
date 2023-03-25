@@ -339,12 +339,24 @@ custom-javascript-list:
 <p></p>
 
 <div id="st" markdown="1">
+
 **Опенер в бою против одной цели:**
 1. {:.sk-apl .no-sop-apl}[Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) за **5** секунд до пула.
-1. {:.fire-apl}[Элементаль огня](https://www.wowhead.com/ru/spell=198067) за **3** секунды до пула
+  * {:.comm-apl}Прекаст [Хранителя бурь](https://www.wowhead.com/ru/spell=191634/) стоит делать перед началом боя, чтобы не тратить время на его применение в бою, так как бафф висит **15** секунд.
+1. {:.fire-apl}[Элементаль огня](https://www.wowhead.com/ru/spell=198067) за **3** секунды до пула.
+  * {:.comm-apl}[Элементаль огня](https://www.wowhead.com/ru/spell=198067) также призывается до пула, после чего он начинает кастовать свою обычную атаку в босса.
+  * {:.comm-apl}После призыва [Элементаля огня](https://www.wowhead.com/ru/spell=198067) все новые [Огненные шоки](https://www.wowhead.com/ru/spell=188389) будут висеть в два раза дольше.
+1. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) за **3** секунды до пула.
+  * {:.comm-apl .no-primal.apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) также призывается до пула, после чего он начинает кастовать свою обычную атаку в босса.
+  * {:.comm-apl .primal.apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) также призывается до пула, после чего он начинает кастовать [Призыв молнии](https://www.wowhead.com/ru/spell=157348/), увеличивая свой урон на **300%**.
 1. {:.no-if-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) за **1.5** секунд до пула.
+  * {:.comm-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) применяется до пула, так как имеет время полета снаряда и не пулит босса сразу же.
 1. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **1.5** секунд до пула.
-1. {:.no-pw-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
+  * {:.comm-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) применяется до пула, так как имеет время полета снаряда и не пулит босса сразу же.
+1. {:.no-pw-apl .if-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
+  * {:.comm-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389), скастованный после [Выброса лавы](https://www.wowhead.com/ru/spell=51505), дает ему **100%** шанс критического удара.
+1. {:.no-if-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
+  * {:.comm-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389), скастованный после [Выброса лавы](https://www.wowhead.com/ru/spell=51505), дает ему **100%** шанс критического удара.
 1. {:.storm-apl}[Элементаль бури](https://www.wowhead.com/ru/spell=192249).
 1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=326059).
 1. [Выброс лавы](https://www.wowhead.com/ru/spell=51505).
