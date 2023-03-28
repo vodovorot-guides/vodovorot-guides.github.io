@@ -377,20 +377,22 @@ custom-javascript-list:
 5. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 6. {:.no-sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если длительность дебаффа на цели составляет менее **5.4** секунд.
 6. {:.sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если длительность дебаффа на цели составляет менее **5.4** секунд и у вас нет баффа от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
-7. {:.sk-apl .dre-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634), если [Перерождение](https://ru.wowhead.com/spell=114050) не активно.
-  * Желательно кастовать [Хранитель бурь](https://ru.wowhead.com/spell=191634) тогда, когда хотя бы одна из усиленных [Молний](https://ru.wowhead.com/spell=188196) будет с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
-7. {:.sk-apl .no-dre-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
-  * Желательно кастовать [Хранитель бурь](https://ru.wowhead.com/spell=191634) тогда, когда хотя бы одна из усиленных [Молний](https://ru.wowhead.com/spell=188196) будет с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
+1. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042) во время активного [Перерождения](https://ru.wowhead.com/spell=114050), если следующий [Выброс лавы](https://ru.wowhead.com/spell=51505) приведет к оверкапу энергии Водоворота.
+1. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+  * {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) со взятым талантом [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087) не используется в бою против одной цели.
+1. {:.dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+7. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
+  * {:.sop-apl}Желательно кастовать [Хранитель бурь](https://ru.wowhead.com/spell=191634) тогда, когда хотя бы одна из усиленных [Молний](https://ru.wowhead.com/spell=188196) будет с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.sk-apl .no-sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 2. {:.if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714), если на цели нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
-2. {:.if-apl .es-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
 1. {:.ls-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
 1. {:.eb-apl .no-mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
   * {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) со взятым талантом [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087) не используется в бою против одной цели.
 1. {:.eb-apl .mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
   * {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) со взятым талантом [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087) не используется в бою против одной цели.
 1. {:.eogs-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+2. {:.if-apl .es-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
 1. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042).
 2. {:.storm-apl}[Молния](https://ru.wowhead.com/spell=188196) во время активного [Элементаля бури](https://ru.wowhead.com/spell=192249).
 1. [Выброс лавы](https://ru.wowhead.com/spell=51505).
