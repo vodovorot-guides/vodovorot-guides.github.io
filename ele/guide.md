@@ -377,8 +377,8 @@ custom-javascript-list:
 5. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 6. {:.no-sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если длительность дебаффа на цели составляет менее **5.4** секунд.
 6. {:.sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если длительность дебаффа на цели составляет менее **5.4** секунд и у вас нет баффа от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
-1. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042) во время активного [Перерождения](https://ru.wowhead.com/spell=114050), если следующий [Выброс лавы](https://ru.wowhead.com/spell=51505) приведет к оверкапу энергии Водоворота.
-1. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+1. {:.no-eb-apl .dre-apl .sk-apl .if-apl}[Земной шок](https://ru.wowhead.com/spell=8042) во время активного [Перерождения](https://ru.wowhead.com/spell=114050), если следующий [Выброс лавы](https://ru.wowhead.com/spell=51505) приведет к оверкапу энергии Водоворота.
+1. {:.eb-apl .dre-apl .sk-apl .if-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
   * {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) со взятым талантом [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087) не используется в бою против одной цели.
 1. {:.dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
 7. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
