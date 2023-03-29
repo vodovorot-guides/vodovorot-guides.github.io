@@ -427,6 +427,7 @@ custom-javascript-list:
 2. {:.if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 2. {:.if-apl .no-es-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
 2. [Молния](https://ru.wowhead.com/spell=188196).
+  * {:.comm-apl}[Молния](https://ru.wowhead.com/spell=188196) является филлером и всегда доступна, кастуйте её когда остальные способности на кулдауне.
 3. [Огненный шок](https://ru.wowhead.com/spell=188389) во время передвижения.
 3. [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 
