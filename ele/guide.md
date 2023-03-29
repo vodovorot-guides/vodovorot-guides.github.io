@@ -807,12 +807,6 @@ WA на все аксессуары есть в [сборке на Элема](h
 /cast Буря
 ~~~
 
-* [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) и [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285) на одной кнопке:
-```
-#showtooltip
-/castsequence [known:381867, @cursor] reset=53 Тотем жидкой магмы, Возвращение тотемов; [@cursor] reset=59 Тотем жидкой магмы, Возвращение тотемов
-```
-
 * [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Удар духов стихий](https://ru.wowhead.com/spell=117014/) на одной кнопке. Аналогичны макрос рекомендуется сделать на [Молнию](https://ru.wowhead.com/spell=188196) и [Цепную молни](https://ru.wowhead.com/spell=188443)
 ~~~
 #showtooltip Удар духов стихий
