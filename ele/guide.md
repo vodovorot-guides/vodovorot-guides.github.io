@@ -370,33 +370,59 @@ custom-javascript-list:
 
 **Бой против одной цели:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
+  * {:.comm-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067) является нашим бурстом и его следует кастовать по кулдауну.
 1. {:.fire-apl .primal-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
+  * {:.comm-apl}[Метеорит](https://ru.wowhead.com/spell=117588) это отдельная способность [Элементаля огня](https://ru.wowhead.com/spell=198067), которую он получает за счет таланта [Повелитель изначальных стихий](https://www.wowhead.com/ru/spell=117013).
+  * {:.comm-apl}[Метеорит](https://ru.wowhead.com/spell=117588) поражает **8** целей в радиусе **10** метров от основной цели.
+  * {:.comm-apl}Если за время жизни [Элементаля огня](https://ru.wowhead.com/spell=198067) появятся дополнительные враги, стоит приберечь использование [Метеорита](https://ru.wowhead.com/spell=117588) под них.
+  * {:.comm-apl}[Метеорит](https://ru.wowhead.com/spell=117588) не имеет ГКД, так как применяется не игроком, а питомцем.
 2. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
+  * {:.comm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) является нашим бурстом и его следует кастовать по кулдауну.
 2. {:.fire-apl .primal-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
+  * {:.comm-apl}[Буря](https://ru.wowhead.com/spell=157375/) это отдельная способность [Элементаля бури](https://ru.wowhead.com/spell=192249), которую он получает за счет таланта [Повелитель изначальных стихий](https://www.wowhead.com/ru/spell=117013).
+  * {:.comm-apl}Перед использованием [Бури](https://ru.wowhead.com/spell=157375/) убедитесь, что [Элементаль бури](https://ru.wowhead.com/spell=192249) усилил себя [Призывом молнии](https://ru.wowhead.com/spell=157348), который увеличивает наносимый им урон на **300%**.
+  * {:.comm-apl}[Буря](https://ru.wowhead.com/spell=157375/) поражает основную цель и противников вокруг неё, максимум **6** целей.
+  * {:.comm-apl}Если за время жизни [Элементаля бури](https://ru.wowhead.com/spell=192249) появятся дополнительные враги, стоит приберечь использование [Бури](https://ru.wowhead.com/spell=157375/) под них.
+  * {:.comm-apl}[Метеорит](https://ru.wowhead.com/spell=117588) не имеет ГКД, так как применяется не игроком, а питомцем.
 4. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
   * {:.comm-apl}Приберегите кулдаун [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), если в ближайшее время ожидается появление аддов.
 4. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285) для сброса кулдауна [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
+  * {:.comm-apl}Убедитесь, что [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) был последним использованным тотемом перед примением [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
 5. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
+  * {:.comm-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) является нашим бурстом и его следует кастовать по кулдауну.
 6. {:.no-sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если длительность дебаффа на цели составляет менее **5.4** секунд.
+  * {:.comm-apl}Если время действия дебаффа составляет менее **30%** от его полной длительности, то это время добавится к новому наложению.
 6. {:.sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если длительность дебаффа на цели составляет менее **5.4** секунд и у вас нет баффа от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
+  * {:.comm-apl}Если время действия дебаффа составляет менее **30%** от его полной длительности, то это время добавится к новому наложению.
+  * {:.comm-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) поглощает эффект [Прилива мощи](https://www.wowhead.com/ru/spell=262303/), при этом не оказывает никакого эффекта в бою против одной цели. Поэтому [Прилив мощи](https://www.wowhead.com/ru/spell=262303/) лучше тратить на [Молнию](https://ru.wowhead.com/spell=188196).
 1. {:.no-eb-apl .dre-apl .sk-apl .if-apl}[Земной шок](https://ru.wowhead.com/spell=8042) во время активного [Перерождения](https://ru.wowhead.com/spell=114050), если следующий [Выброс лавы](https://ru.wowhead.com/spell=51505) приведет к оверкапу энергии Водоворота.
+  * {:.comm-apl}Во время [Перерождения](https://ru.wowhead.com/spell=114050) необходимо кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505), при этом используя по кулдауну [Первозданную волну](https://ru.wowhead.com/spell=375982) и тратя энергию Водоворота.
 1. {:.eb-apl .dre-apl .sk-apl .if-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
-  * {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) со взятым талантом [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087) не используется в бою против одной цели.
+  * {:.comm-apl}Во время [Перерождения](https://ru.wowhead.com/spell=114050) необходимо кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505), при этом используя по кулдауну [Первозданную волну](https://ru.wowhead.com/spell=375982) и тратя энергию Водоворота.
+  * {:.comm-apl .eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) со взятым талантом [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087) не используется в бою против одной цели.
 1. {:.dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+  * {:.comm-apl}Во время [Перерождения](https://ru.wowhead.com/spell=114050) [Выброс лавы](https://ru.wowhead.com/spell=51505) не имеет кулдауну и наносит увеличенный урон, равный шансу Критического удара.
 7. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
-  * {:.sop-apl}Желательно кастовать [Хранитель бурь](https://ru.wowhead.com/spell=191634) тогда, когда хотя бы одна из усиленных [Молний](https://ru.wowhead.com/spell=188196) будет с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
+  * {:.comm-apl .sop-apl}Желательно кастовать [Хранитель бурь](https://ru.wowhead.com/spell=191634) тогда, когда хотя бы одна из усиленных [Молний](https://ru.wowhead.com/spell=188196) будет с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
+  * {:.comm-apl .no-es-apl}Бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303/), который дается после использования [Земного шока](https://ru.wowhead.com/spell=8042), дает [Молнии](https://ru.wowhead.com/spell=188196) два дополнительных эффекта [Перегрузки](https://www.wowhead.com/ru/spell=168534/), ощутимо увеличивая её урон.
+    * {:.comm-apl .es-apl}Бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303/), который дается после использования [Удара духов стихий](https://ru.wowhead.com/spell=117014), дает [Молнии](https://ru.wowhead.com/spell=188196) два дополнительных эффекта [Перегрузки](https://www.wowhead.com/ru/spell=168534/), ощутимо увеличивая её урон.
 1. {:.sk-apl .no-sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634).
+  * {:.comm-apl}[Хранителя бурь](https://ru.wowhead.com/spell=191634) крайне сильно увеличивает урон [Молнии](https://ru.wowhead.com/spell=188196].
+  * {:.comm-apl .sop-apl}По возможности стоит совмещать баффы [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 2. {:.if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714), если на цели нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
+  * {:.comm-apl}Талант [Электрический шок](https://www.wowhead.com/ru/spell=382086) увеличивает получаемый целью урон от сил природы и его стоит обновлять по спадению, если у вас есть стаки усиленного [Ледяного шока](https://ru.wowhead.com/spell=196840).
 1. {:.ls-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
+  *  {:.comm-apl}[Волна лавы](https://ru.wowhead.com/spell=77756) позволяет применять [Выброс лавы](https://ru.wowhead.com/spell=51505) мгновенно, поэтому не стоит терять этот бафф.
 1. {:.eb-apl .no-mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
-  * {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) со взятым талантом [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087) не используется в бою против одной цели.
+  * {:.comm-apl .eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) со взятым талантом [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087) не используется в бою против одной цели.
 1. {:.eb-apl .mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), желательно с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-  * {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) со взятым талантом [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087) не используется в бою против одной цели.
+  * {:.comm-apl .eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) со взятым талантом [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087) не используется в бою против одной цели.
 1. {:.eogs-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 2. {:.if-apl .es-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
 1. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042).
 2. {:.storm-apl}[Молния](https://ru.wowhead.com/spell=188196) во время активного [Элементаля бури](https://ru.wowhead.com/spell=192249).
+  * {:.comm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) ускоряет время произнесения [Молния](https://ru.wowhead.com/spell=188196), что ставит её выше по приоритету чем [Выброс лавы](https://ru.wowhead.com/spell=51505).
 1. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 2. {:.if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 2. {:.if-apl .no-es-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
