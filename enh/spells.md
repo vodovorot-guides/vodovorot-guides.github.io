@@ -24,7 +24,7 @@ image: /assets/img/logos/spells.png
 
 <p></p>
 
-{% include button.html name="Гайд на Энх Шамана в Мифик+" link="/enh/mplus.html" %}  
+{% include button.html name="Гайд на Энх Шамана" link="/enh/guide.html" %}  
 
 <p></p>
 
