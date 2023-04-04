@@ -29,7 +29,7 @@ image: /assets/img/logos/spells.png
 
 # Ресурсы
 
-<a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="small" >**Водоворот**</a> – основной ресурс, генерируется одними заклинаниями и тратится на другие.
+<a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="medium" >**Водоворот**</a> – основной ресурс, генерируется одними заклинаниями и тратится на другие.
 
 > Maelstrom, MS, МС, Рага, Энергия.
 
@@ -52,9 +52,8 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=168534" target="blank" data-wh-icon-size="small" >**Искусность: волнение стихий**</a> – дает шанс некоторым заклинаниям поразить цель повторно, нанеся меньше урона и давая меньше энергии Водоворота.
-<details markdown=1><summary><i>Подробнее...</i></summary>
-<p></p>
+<a href="https://ru.wowhead.com/spell=168534" target="blank" data-wh-icon-size="medium" >**Искусность: волнение стихий**</a> – дает шанс некоторым заклинаниям поразить цель повторно, нанеся меньше урона и давая меньше энергии Водоворота.
+
 > Мастери, Иск, Перегрузка, Дублирование, Волнение стихий.
 
 * Базовый шанс на перегрузку, без учета характеристик, составляет **15%**.
@@ -73,11 +72,9 @@ image: /assets/img/logos/spells.png
 * Все таланты, увеличивающие урон основного заклинания, влияют также и на его прок искусности.
 * Искусность не влияет на тотемы и лечащие заклинания.
 * При использовании [Первозданной волны](https://ru.wowhead.com/spell=375982) шанс на прок Искусности расчитывается отдельно на каждую цель. 
-</details>
-<p></p>
 
 
-<a href="https://ru.wowhead.com/spell=13606" target="blank" data-wh-icon-size="small" >**Мана**</a> – вспомогательный ресурс, тратится на лечение и утилити способности.
+<a href="https://ru.wowhead.com/spell=13606" target="blank" data-wh-icon-size="medium" >**Мана**</a> – вспомогательный ресурс, тратится на лечение и утилити способности.
 
 > Mana, MP, МП.
 
@@ -93,7 +90,8 @@ image: /assets/img/logos/spells.png
 
 ## Генераторы ресурса
 
-<a href="https://ru.wowhead.com/spell=188196" target="blank" data-wh-icon-size="small" >**Молния**</a> – наносит средний урон магии природы одной цели и генерирует энергию Водоворота.
+<a href="https://ru.wowhead.com/spell=188196" target="blank" data-wh-icon-size="medium" >**Молния**</a> – наносит средний урон магии природы одной цели и генерирует энергию Водоворота.
+
 
 > (Lightning Bolt, Bolt, LB, Болт, ЛБ)
 
@@ -121,7 +119,7 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=188443" target="blank" data-wh-icon-size="small" >**Цепная молния**</a> – наносит ощутимый урон **5** целям, основной генератор энергии Водоворота на АоЕ.
+<a href="https://ru.wowhead.com/spell=188443" target="blank" data-wh-icon-size="medium" >**Цепная молния**</a> – наносит ощутимый урон **5** целям, основной генератор энергии Водоворота на АоЕ.
 
 > Chain Lightning, CL, КЛ (одно из значений), Чайник (одно из значений), Цепнуха (одно из значений).  
 
@@ -148,31 +146,138 @@ image: /assets/img/logos/spells.png
   * [Мощь Водоворота](https://www.wowhead.com/ru/spell=191861) – добавляет **1** гарантированное срабатывание [Перегрузки](https://ru.wowhead.com/spell=168534).
   * [Камера эхо](https://www.wowhead.com/ru/spell=382032) – увеличивает урон от [Перегрузки](https://ru.wowhead.com/spell=168534) на **15%**.
 * [Поток лавы](https://ru.wowhead.com/spell=114074) ([Цепная молния](https://ru.wowhead.com/spell=188443) во время [Перерождения](https://ru.wowhead.com/spell=114050)) усиливается следующими талантами:
+  * [Лед и пламя](https://ru.wowhead.com/spell=382886) – добавляет **3%** урона.
+  * [Безжалостное бедствие](https://www.wowhead.com/ru/spell=382685) – сокращает время применения на **0.25** секунд.
+  * [Зов огня](https://ru.wowhead.com/spell=378255) – добавляет **10%** урона.
+  * [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) – позволяет применять мгновенно и гарантирует срабатывания [Перегрузки](https://ru.wowhead.com/spell=168534) на каждой цели.
+  * [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) – добавляет **20%** урона.
+  * [Прилив мощи](https://www.wowhead.com/ru/spell=262303/) – позволяет поразить **6** целей.
+  * [Мощь Водоворота](https://www.wowhead.com/ru/spell=191861) – добавляет **1** гарантированное срабатывание [Перегрузки](https://ru.wowhead.com/spell=168534).
+  * [Улучшенное оружие языка пламени](https://ru.wowhead.com/spell=382027) – добавляет **5%** урона.
+  * [Грозовой разрядник](https://www.wowhead.com/ru/spell=210689/) – добавляет **20%** урона за каждый наложенный дебафф.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+
+
+
+<a href="https://ru.wowhead.com/spell=51505" target="blank" data-wh-icon-size="medium" >**Выброс лавы**</a> – основное заклинание с коротким КД, генерирует большое количество энергии Водоворота и всегда наносит критический удар, если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389).
+
+> Lava Burst, LvB, Meatball, Лвб, Лава бурст, Лава (одно из значений).  
+
+* Данная способность доступна Элем Шаману по умолчанию, без траты очков талантов.
+* Время восстановления **8** секунд.
+* **Всегда** наносит критический урон по цели, на которую наложен {{ site.data.spells.fs }}, за счет пассивной способности [Выброс лавы: Ранг 2](https://ru.wowhead.com/spell=231721/).
+* Время произнесения – **2** секунды.
+* Наносит урон от магии <span style="color:#f16f25;font-size:1em;">**огня**</span> и стоит **2.5%** маны.
+* Генерирует **10** единиц энергии Водоворота и дополнительно **4** единицы при проке [Искусности](https://ru.wowhead.com/spell=168534). С талантом [Поток силы](https://www.wowhead.com/ru/spell=385923) генерирует **12** и **5** единиц энергии Водоворота соответственно.
+* {{ site.data.spells.lvb }} имеет время полета снаряда около **1** секунды для максимальной дистанции.
+* Проверка на наличие [Огненного шока](https://ru.wowhead.com/spell=188389) на цели происходит в момент попадания снаряда, а не в момент завершения каста [Выброса лавы](https://ru.wowhead.com/spell=51505).
+* Если сразу после окончания каста [Выброса лавы](https://ru.wowhead.com/spell=51505) использовать {{ site.data.spells.fs }}, то это гарантирует критический удар.
+* Обратная ситуация – если во время полета [Выброса лавы](https://ru.wowhead.com/spell=51505) закончится {{ site.data.spells.fs }}, то критический удар не гарантируется.
+* Характеристика Критический удар **НЕ ВЛИЯЕТ** на урон [Выброса лавы](https://ru.wowhead.com/spell=51505) (не считая активного таланта [Перерождение](https://ru.wowhead.com/spell=114050)).
+* Усиливается следующими талантами:
   * [Лед и пламя](https://ru.wowhead.com/spell=382886) –  **3%** урона.
-
-Talent                                 | Chain Lightning  | Lava Beam
----                                    | ---              | ---
-Fire and Ice (+3% damage)                           | no  | yes
-Nature's Fury (+4% crit chance)                     | yes | no
-Elemental Fury (+50% crit damage)                   | yes | yes
-Storm Elemental (+3% cast time reduction per stack) | yes | no
-Call of Thunder (+15% damage)                       | yes | no
-Unrelenting Calamity (-0.25s cast time)             | yes | yes
-Call of Fire (+10% damage)                          | no  | yes
-Stormkeeper                                         | yes | yes
-Electrified Shocks (+15% damage)                    | yes | no
-Surge of Power (+1 target)                          | yes | yes
-Power of the Maelstrom (+1 Overload)                | yes | yes
-Master of the Elements (+20% damage)                | yes | yes
-Improved Flametongue Weapon (+5% damage)            | no  | yes
-Lighting Rod (+25% damage per debuff)               | yes | yes
-Flash of Lightning                                  | yes | no
-
+  * [Волна лавы](https://ru.wowhead.com/spell=77756) – каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) имеет **10%** шанс восстановить [Выброс лавы](https://ru.wowhead.com/spell=51505) и сделать его мгновенным.
+  * [Зов огня](https://ru.wowhead.com/spell=378255) – добавляет **10%** урона.
+  * [Улучшенное оружие языка пламени](https://ru.wowhead.com/spell=382027) – добавляет **5%** урона. 
+  * [Камера эхо](https://www.wowhead.com/ru/spell=382032/) – увеличивает урон от прока Искусности на **8%/15%**.
+  * [Поток силы](https://www.wowhead.com/ru/spell=385923) – увеличивает генерацию энергии Водоворота.
+  * [Эхо стихий](https://www.wowhead.com/ru/spell=333919) – добавляет второй заряд.
+  * [Расплавленная порода](https://www.wowhead.com/ru/spell=381776/) – увеличивает урон на **20%**.
+  * [Прилив мощи](https://www.wowhead.com/ru/spell=262303/) – сокращает время восстановления [Элементаля огня](https://ru.wowhead.com/spell=198067) и [Элементаля бури](https://ru.wowhead.com/spell=192249) на **6** секунд.
+  * [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=378268) – увеличивает урон на **10%** и дает гарантированный прок [Волны лавы](https://ru.wowhead.com/spell=77756).
+  * [Перерождение](https://www.wowhead.com/ru/spell=114050) – во время действия баффа пропадает кулдаун и урон увеличивается на значение шанса Критического удара.
+  * [Первозданная волна](https://www.wowhead.com/ru/spell=375982) – позволяет поразить всех противников, на которых действуют [Огненные шоки](https://ru.wowhead.com/spell=188389).
+  * [Волна жара](https://www.wowhead.com/ru/spell=386474) – добавляет **20%** урона.
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
-		Выброс лавы
+
+
+<a href="https://ru.wowhead.com/spell=188389" target="blank" data-wh-icon-size="medium" >**Огненный шок**</a> – наносит небольшой мгновенный урон одной цели и оставляет на ней дебафф, наносящий средний урон в течение **18** секунд.
+
+> Flame Shock, FS, Флейм шок, ФШ, Фаер шок (не стоит), Шок (одно из значений), Дотка.
+
+* Наносит небольшой урон при наложении, а также средний урон за **18** секунд.
+* Максимум [Огненный шок](https://ru.wowhead.com/spell=188389) может быть наложен на **6** целей.
+* Наносит урон от магии <span style="color:#f16f25;font-size:1em;">**огня**</span> и стоит **1.5%** маны.
+* Периодический урон наносится раз в **2** секунды, это время сокращается за счет Скорости. С талантом [Пламя Котла](https://ru.wowhead.com/spell=378266) урон наносится на **15%** быстрее.
+* Имеет время восстановления **6** секунд, которое **НЕ** снижается Скоростью, в отличие от Шамана Совершенствования. С талантом [Пламя Котла](https://ru.wowhead.com/spell=378266) кулдаун составляет **4.5** секунд.
+* Скорость добавляет дополнительный тик в конце действия эффекта, ослабленный в зависимости от недостающего времени до «полного» тика.
+* Является **магическим** эффектом, то есть может быть развеяно противником с помощью способностей [Возрождение духа](https://ru.wowhead.com/spell=77130), [Очищение](https://ru.wowhead.com/spell=527), [Детоксикация](https://ru.wowhead.com/spell=115450) и другими.
+* Не имеет времени полета снаряда, то есть накладывается мгновенно.
+* [Огненный шок](https://ru.wowhead.com/spell=188389) накладывается на цель при использовании [Первозданной волны](https://www.wowhead.com/ru/spell=326059/).
+* При активном [Элементале огня](https://ru.wowhead.com/spell=198067) длительность [Огненного шока](https://ru.wowhead.com/spell=188389) увеличена **вдвое** и составляет **36** секунд. Данный эффект **не работает** с [Элементалем бури](https://ru.wowhead.com/spell=192249).
+* Если обновить {{ site.data.spells.fs }}, когда до спадения остается менее **5.4** секунд, то это время действия добавится к новому наложению, продлевая шок вплоть до **23.4** секунд (так называемое [«окно пандемии»](https://wowwiki-archive.fandom.com/wiki/Pandemic)).
+* Все время свыше **5.4** секунд на момент обновления [Огненного шока](https://ru.wowhead.com/spell=188389) **не добавится** к новому эффекту.
+* При активном [Элементале огня](https://ru.wowhead.com/spell=198067) {{ site.data.spells.fs }} можно обновлять на **10.8** секунде, что даст [Огненный шок](https://ru.wowhead.com/spell=188389) длительностью **46.8** секунд.
+* Также при активном [Элементале огня](https://ru.wowhead.com/spell=198067) {{ site.data.spells.fs }} тикает на **25%** чаще, то есть раз в **1.5** секунды (без учета Скорости). Данный эффект **не работает** с [Элементалем бури](https://ru.wowhead.com/spell=192249).
+* Усиливается следующими талантами:
+  * [Лед и пламя](https://ru.wowhead.com/spell=382886) –  **3%** урона.
+  * [Волна лавы](https://ru.wowhead.com/spell=77756) – каждый тик имеет **10%** шанс восстановить [Выброс лавы](https://ru.wowhead.com/spell=51505) и сделать его мгновенным.
+  * [Зов огня](https://ru.wowhead.com/spell=378255) – добавляет **10%** урона.
+  * [Пламя Котла](https://ru.wowhead.com/spell=378266) – снижает КД на **1.5** секунды и увеличивает скорость тиков на **15%**.
+  * [Улучшенное оружие языка пламени](https://ru.wowhead.com/spell=382027) – добавляет **5%** урона. 
+  * [Жгучее пламя](https://ru.wowhead.com/spell=381782) – каждый тик дает **1/2** единицы энергии Водоворота.
+  * [Огненная гибель "Усмирителя небес"](https://ru.wowhead.com/spell=378310) – увеличивает шанс Критического удара на **50%** и каждый крит снижает КД  [Элементаля огня](https://ru.wowhead.com/spell=198067) или [Элементаля бури](https://ru.wowhead.com/spell=192249) на **1** секунду.
+  * [Магматическая камера](https://ru.wowhead.com/spell=381932) – каждый тик увеличивает урон следующего [Земного шока](https://ru.wowhead.com/spell=8042), [Землетрясения](https://ru.wowhead.com/spell=61882) или [Удара духов стихий](https://ru.wowhead.com/spell=117014) на **1.5%/3%**, суммируется до **20** раз.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+
+
+<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="medium" >**Ледяная ярость**</a> – бурст с кулдауном **30** секунд, усиливает **4** следующих [Ледяных шока](https://ru.wowhead.com/spell=196840), увеличивая их урон в **3.25** раз и позволяя им генерировать **14** единиц энергии Водоворота. 
+
+> Icefury, IF, ИФ, Айсфьюри.  
+
+* Дает бафф на **25** секунд, увеличивающий урон **4** следующих [Ледяных шоков](https://ru.wowhead.com/spell=196840) на **225%**.
+* Каждый усиленный [Ледяной шок](https://ru.wowhead.com/spell=196840) генерирует **14** единиц энергии Водоворота.
+* Время восстановления **30** секунд.
+* Наносит урон от магии <span style="color:#8fd5fe;font-size:1em;">**Льда**</span> и стоит **3%** маны.
+* Генерирует **25** единиц энергии Водоворота и дополнительно **12** единиц при проке [Искусности](https://ru.wowhead.com/spell=168534).
+* {{ site.data.spells.if }} имеет время полета снаряда около **1** секунды для максимальной дистанции, при этом бафф на урон [Ледяных шоков](https://ru.wowhead.com/spell=196840) накладывается сразу же по завершению каста.
+* Усиливается следующими талантами:
+  * [Расплавленная порода](https://ru.wowhead.com/spell=381776) – после применения [Ледяного шока](https://ru.wowhead.com/spell=196840) увеличивая урон [Выброса лавы](https://ru.wowhead.com/spell=51505) на **20%**.
+  * [Электрический шок](https://ru.wowhead.com/spell=382086) – позволет [Ледяным шокам](https://ru.wowhead.com/spell=196840) бить сразу по **4** противником и накладывать на них дебафф, увеличивающий получаемый урон от силы природы на **15%** на **9** секунд.
+  * [Лед и пламя](https://ru.wowhead.com/spell=382886) –  **3%** урона.
+  * [Камера эхо](https://www.wowhead.com/ru/spell=382032/) – увеличивает урон от прока Искусности на **8%/15%**.
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+
+<a href="https://ru.wowhead.com/spell=196840" target="blank" data-wh-icon-size="medium" >**Ледяной шок**</a> – мгновенное заклинание, наносящее небольшой урон и замедляющее цель. Необходимый талант при взятой [Ледяной ярости](https://ru.wowhead.com/spell=210714) в спековой ветке.
+
+> Frost Shock, FrS, Фрост шок, Фрост.  
+
+* Кастуется мгновенно и не имеет времени восстановления.
+* Наносит урон от магии <span style="color:#8fd5fe;font-size:1em;">**льда**</span> и стоит **1%** маны.
+* [Искусность](https://ru.wowhead.com/spell=168534) никак не взаимодействует с [Ледяным шоком](https://ru.wowhead.com/spell=196840).
+* Не имеет времени полета снаряда, то есть накладывается мгновенно.
+* Снижает скорость передвижения цели на **50%** на **6** секунд.
+* С талантом [Ледяная ярость](https://ru.wowhead.com/spell=210714), {{ site.data.spells.frs }} превращается в очень мощное заклинание, нанося в **4** раза больше урона и генерируя **8** единиц энергии Водоворота.
+* Усиливается следующими талантами:
+  * [Расплавленная порода](https://ru.wowhead.com/spell=381776) – после применения [Ледяного шока](https://ru.wowhead.com/spell=196840) увеличивая урон [Выброса лавы](https://ru.wowhead.com/spell=51505) на **20%**.
+  * [Электрический шок](https://ru.wowhead.com/spell=382086) – позволет [Ледяным шокам](https://ru.wowhead.com/spell=196840) бить сразу по **4** противником и накладывать на них дебафф, увеличивающий получаемый урон от силы природы на **15%** на **9** секунд.
+  * [Лед и пламя](https://ru.wowhead.com/spell=382886) –  **3%** урона.
+
+## Спендеры
+
+
+
+
+
+# Основные способности
+## Генераторы ресурса
+
 		Огненный шок
 		Ледяная ярость
 		Ледяной шок
@@ -234,7 +339,7 @@ Flash of Lightning                                  | yes | no
 ## Атакующие способности
 
 
-<a href="https://ru.wowhead.com/spell=188196" target="blank" data-wh-icon-size="small" >**Молния**</a> – наносит средний урон магии природы одной цели и генерирует энергию Водоворота.
+<a href="https://ru.wowhead.com/spell=188196" target="blank" data-wh-icon-size="medium" >**Молния**</a> – наносит средний урон магии природы одной цели и генерирует энергию Водоворота.
 <p></p>
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -267,7 +372,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=188389" target="blank" data-wh-icon-size="small" >**Огненный шок**</a> – наносит небольшой мгновенный урон одной цели и оставляет на ней дебафф, наносящий средний урон в течение **18** секунд.
+<a href="https://ru.wowhead.com/spell=188389" target="blank" data-wh-icon-size="medium" >**Огненный шок**</a> – наносит небольшой мгновенный урон одной цели и оставляет на ней дебафф, наносящий средний урон в течение **18** секунд.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -302,7 +407,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=318038" target="blank" data-wh-icon-size="small" >**Оружие языка пламени**</a> – усиливает оружие ближнего боя, нанося дополнительный урон от огня.
+<a href="https://ru.wowhead.com/spell=318038" target="blank" data-wh-icon-size="medium" >**Оружие языка пламени**</a> – усиливает оружие ближнего боя, нанося дополнительный урон от огня.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Flametongue Weapon, Флеймтонг, огненная чарка.
@@ -316,7 +421,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=73899" target="blank" data-wh-icon-size="small" >**Стихийный удар**</a> – наносит небольшой урон в ближнем бою. Бесполезная способность для шамана Стихии. 
+<a href="https://ru.wowhead.com/spell=73899" target="blank" data-wh-icon-size="medium" >**Стихийный удар**</a> – наносит небольшой урон в ближнем бою. Бесполезная способность для шамана Стихии. 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -325,7 +430,7 @@ Flash of Lightning                                  | yes | no
 ## Вспомогательные способности
 
 
-<a href="https://ru.wowhead.com/spell=8004" target="blank" data-wh-icon-size="small" >**Исцеляющий всплеск**</a> – быстрое лечение одной цели.
+<a href="https://ru.wowhead.com/spell=8004" target="blank" data-wh-icon-size="medium" >**Исцеляющий всплеск**</a> – быстрое лечение одной цели.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Healing Surge, HS, ХС, Всплеск, Флешка, Сурдж, Хилка.
@@ -351,7 +456,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=2484" target="blank" data-wh-icon-size="small" >**Тотем оков земли**</a> – замедление врагов в указанной области на **50%**.
+<a href="https://ru.wowhead.com/spell=2484" target="blank" data-wh-icon-size="medium" >**Тотем оков земли**</a> – замедление врагов в указанной области на **50%**.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Earthbind Totem, Тотем замедления.
@@ -377,7 +482,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=2825" target="blank" data-wh-icon-size="small" >**Жажда крови**</a> / <a href="https://ru.wowhead.com/spell=32182" target="blank" data-wh-icon-size="small" >**Героизм**</a> – бафф, повышающий Скорость союзников на **30%** на **40** секунд. Не сочетается с другими подобными заклинаниями.
+<a href="https://ru.wowhead.com/spell=2825" target="blank" data-wh-icon-size="medium" >**Жажда крови**</a> / <a href="https://ru.wowhead.com/spell=32182" target="blank" data-wh-icon-size="medium" >**Героизм**</a> – бафф, повышающий Скорость союзников на **30%** на **40** секунд. Не сочетается с другими подобными заклинаниями.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Bloodlust, Heroism, BL, Hero, БЛ, Гера, Рост.
@@ -401,7 +506,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=2645" target="blank" data-wh-icon-size="small" >**Призрачный волк**</a> – превращение в призрачного волка, который увеличивает скорость передвижения, но применение заклинаний отменяет эффект.
+<a href="https://ru.wowhead.com/spell=2645" target="blank" data-wh-icon-size="medium" >**Призрачный волк**</a> – превращение в призрачного волка, который увеличивает скорость передвижения, но применение заклинаний отменяет эффект.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Ghost Wolf, Волк, Форма волка, Пес, Раптор, Динозавр.  
@@ -433,7 +538,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=20608" target="blank" data-wh-icon-size="small" >**Реинкарнация**</a> – воскрешение в случае смерти.
+<a href="https://ru.wowhead.com/spell=20608" target="blank" data-wh-icon-size="medium" >**Реинкарнация**</a> – воскрешение в случае смерти.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 * **Не является «боевым воскрешением»**, то есть не идет в счетчик БР в Рейде и в Мифик+.
@@ -448,7 +553,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=192106" target="blank" data-wh-icon-size="small" >**Щит молний**</a> – наносит урон атакующим в ближнем бою.
+<a href="https://ru.wowhead.com/spell=192106" target="blank" data-wh-icon-size="medium" >**Щит молний**</a> – наносит урон атакующим в ближнем бою.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 >  Lightning Shield, LS, ЛС, Щит.  
@@ -465,7 +570,7 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=2008" target="blank" data-wh-icon-size="small" >**Дух предков**</a> – воскрешение союзника вне боя.
+<a href="https://ru.wowhead.com/spell=2008" target="blank" data-wh-icon-size="medium" >**Дух предков**</a> – воскрешение союзника вне боя.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Ancestral Spirit, Рес.
@@ -482,7 +587,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=6196" target="blank" data-wh-icon-size="small" >**Дальнее зрение**</a> – переносит точку обзора в указанное место.
+<a href="https://ru.wowhead.com/spell=6196" target="blank" data-wh-icon-size="medium" >**Дальнее зрение**</a> – переносит точку обзора в указанное место.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 * Считается заклинанием магии <span style="color:#26d22b;font-size:1em;">**природы**</span> и не стоит маны.
@@ -495,7 +600,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=556" target="blank" data-wh-icon-size="small" >**Астральное возвращение**</a> – дополнительный [Камень возвращения](https://ru.wowhead.com/item=6948), переносит вас в привязанную локацию.   
+<a href="https://ru.wowhead.com/spell=556" target="blank" data-wh-icon-size="medium" >**Астральное возвращение**</a> – дополнительный [Камень возвращения](https://ru.wowhead.com/item=6948), переносит вас в привязанную локацию.   
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 * Считается заклинанием магии <span style="color:#26d22b;font-size:1em;">**природы**</span> и не стоит маны.
@@ -511,7 +616,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=546" target="blank" data-wh-icon-size="small" >**Хождение по воде**</a>  – позволяет союзнику ходить по воде.
+<a href="https://ru.wowhead.com/spell=546" target="blank" data-wh-icon-size="medium" >**Хождение по воде**</a>  – позволяет союзнику ходить по воде.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 * При использовании накладывает бафф на **10** минут, который позволяет ходить по воде.
@@ -545,7 +650,7 @@ Flash of Lightning                                  | yes | no
 ## Первый ряд
 
 
-<a href="https://ru.wowhead.com/spell=1064" target="blank" data-wh-icon-size="small" >**Цепное исцеление**</a> – АоЕ отхил четырех союзников с долгим кастом. Практически бесполезный талант для Элема.
+<a href="https://ru.wowhead.com/spell=1064" target="blank" data-wh-icon-size="medium" >**Цепное исцеление**</a> – АоЕ отхил четырех союзников с долгим кастом. Практически бесполезный талант для Элема.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 
@@ -567,7 +672,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=51505" target="blank" data-wh-icon-size="small" >**Выброс лавы**</a> – основное заклинание с коротким КД, генерирует большое количество энергии Водоворота и всегда наносит критический удар, если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389).
+<a href="https://ru.wowhead.com/spell=51505" target="blank" data-wh-icon-size="medium" >**Выброс лавы**</a> – основное заклинание с коротким КД, генерирует большое количество энергии Водоворота и всегда наносит критический удар, если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389).
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Lava Burst, LvB, Meatball, Лвб, Лава бурст, Лава (одно из значений).  
@@ -604,7 +709,7 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=108271" target="blank" data-wh-icon-size="small" >**Астральный сдвиг**</a> – основное защитное заклинание. Снижает получаемый урон на **40%** на **8** секунд с кулдауном **2** минуты. 
+<a href="https://ru.wowhead.com/spell=108271" target="blank" data-wh-icon-size="medium" >**Астральный сдвиг**</a> – основное защитное заклинание. Снижает получаемый урон на **40%** на **8** секунд с кулдауном **2** минуты. 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Astral Shift, AS, Shift, АС, Шифт, Астрал, Сейв, Личка, Минус сорок.
@@ -623,7 +728,7 @@ Flash of Lightning                                  | yes | no
 
 ## Второй ряд
 
-<a href="https://ru.wowhead.com/spell=198103" target="blank" data-wh-icon-size="small" >**Элементаль земли**</a> – призыв защитного элементаля, который забирает на себя ближайших противников и увеличивает запас здоровья игрока на **15%** на **60** секунд.
+<a href="https://ru.wowhead.com/spell=198103" target="blank" data-wh-icon-size="medium" >**Элементаль земли**</a> – призыв защитного элементаля, который забирает на себя ближайших противников и увеличивает запас здоровья игрока на **15%** на **60** секунд.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -659,7 +764,7 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=57994" target="blank" data-wh-icon-size="small" >**Пронизывающий ветер**</a> – прерывание заклинания противника.
+<a href="https://ru.wowhead.com/spell=57994" target="blank" data-wh-icon-size="medium" >**Пронизывающий ветер**</a> – прерывание заклинания противника.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Wind Shear, WS, Интерапт, Сбивалка, Ветер, Кик.
@@ -679,24 +784,24 @@ Flash of Lightning                                  | yes | no
 
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=381647" target="blank" data-wh-icon-size="small" >**Между мирами**</a> – усиливает [Астральный сдвиг](https://ru.wowhead.com/spell=108271), снижая его кулдаун до полутора минут и продлевая время действия до **12** секунд.  
+* <a href="https://ru.wowhead.com/spell=381647" target="blank" data-wh-icon-size="medium" >**Между мирами**</a> – усиливает [Астральный сдвиг](https://ru.wowhead.com/spell=108271), снижая его кулдаун до полутора минут и продлевая время действия до **12** секунд.  
 
-* <a href="https://ru.wowhead.com/spell=377933" target="blank" data-wh-icon-size="small" >**Астральный бастион**</a> – усиливает [Астральный сдвиг](https://ru.wowhead.com/spell=108271), увеличивая размер снижения урона до **55%**.  
+* <a href="https://ru.wowhead.com/spell=377933" target="blank" data-wh-icon-size="medium" >**Астральный бастион**</a> – усиливает [Астральный сдвиг](https://ru.wowhead.com/spell=108271), увеличивая размер снижения урона до **55%**.  
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=260878" target="blank" data-wh-icon-size="small" >**Дух волка**</a> – усиливает [Призрачного волка](https://ru.wowhead.com/spell=2645), дополнительно повышая скорость передвижения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645) на **20%**, а также дает снижение получаемого урона на **20%**. Эффект накапливается по **5%** за одну секунду нахождения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645).  
+* <a href="https://ru.wowhead.com/spell=260878" target="blank" data-wh-icon-size="medium" >**Дух волка**</a> – усиливает [Призрачного волка](https://ru.wowhead.com/spell=2645), дополнительно повышая скорость передвижения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645) на **20%**, а также дает снижение получаемого урона на **20%**. Эффект накапливается по **5%** за одну секунду нахождения в форме [Призрачного волка](https://ru.wowhead.com/spell=2645).  
  
-* <a href="https://ru.wowhead.com/spell=378075" target="blank" data-wh-icon-size="small" >**Громоподобные лапы**</a> – усиливает [Призрачного волка](https://ru.wowhead.com/spell=2645), позволяя раз в **60** секунд при входе в форму [Призрачного волка](https://ru.wowhead.com/spell=2645) снять с себя все замедления и увеличить скорость передвижения на **25%** на **3** секунды.  
+* <a href="https://ru.wowhead.com/spell=378075" target="blank" data-wh-icon-size="medium" >**Громоподобные лапы**</a> – усиливает [Призрачного волка](https://ru.wowhead.com/spell=2645), позволяя раз в **60** секунд при входе в форму [Призрачного волка](https://ru.wowhead.com/spell=2645) снять с себя все замедления и увеличить скорость передвижения на **25%** на **3** секунды.  
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=196840" target="blank" data-wh-icon-size="small" >**Ледяной шок**</a> – мгновенное заклинание, наносящее небольшой урон и замедляющее цель. Необходимый талант при взятой [Ледяной ярости](https://ru.wowhead.com/spell=210714) в спековой ветке.
+<a href="https://ru.wowhead.com/spell=196840" target="blank" data-wh-icon-size="medium" >**Ледяной шок**</a> – мгновенное заклинание, наносящее небольшой урон и замедляющее цель. Необходимый талант при взятой [Ледяной ярости](https://ru.wowhead.com/spell=210714) в спековой ветке.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Frost Shock, FrS, Фрост шок, Фрост.  
@@ -714,7 +819,7 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=187880" target="blank" data-wh-icon-size="small" >**Оружие Водоворота**</a> – атаки в ближнем бою имеют шанс повысить скорость произнесения следующего заклинания на **20%**. 
+<a href="https://ru.wowhead.com/spell=187880" target="blank" data-wh-icon-size="medium" >**Оружие Водоворота**</a> – атаки в ближнем бою имеют шанс повысить скорость произнесения следующего заклинания на **20%**. 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -722,7 +827,7 @@ Flash of Lightning                                  | yes | no
 
 ## Третий ряд
 
-<a href="https://ru.wowhead.com/spell=974" target="blank" data-wh-icon-size="small" >**Щит земли**</a> – стихийный щит, увеличивающий получаемое от вас исцеление и лечащий при получении урона.
+<a href="https://ru.wowhead.com/spell=974" target="blank" data-wh-icon-size="medium" >**Щит земли**</a> – стихийный щит, увеличивающий получаемое от вас исцеление и лечащий при получении урона.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Earth Shield, ES, Земляной щит, Ерсшилд.
@@ -745,12 +850,12 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=382886" target="blank" data-wh-icon-size="small" >**Лед и пламя**</a> – пассивный талант, увеличивает урон от заклинаний школ магии <span style="color:#f16f25;font-size:1em;">**огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**льда**</span> на **3%**. Действует на [Выброс лавы](https://ru.wowhead.com/spell=51505), [Огненный шок](https://ru.wowhead.com/spell=188389), [Ледяной шок](https://ru.wowhead.com/spell=196840) и [Ледяную ярость](https://ru.wowhead.com/spell=210714).
+<a href="https://ru.wowhead.com/spell=382886" target="blank" data-wh-icon-size="medium" >**Лед и пламя**</a> – пассивный талант, увеличивает урон от заклинаний школ магии <span style="color:#f16f25;font-size:1em;">**огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**льда**</span> на **3%**. Действует на [Выброс лавы](https://ru.wowhead.com/spell=51505), [Огненный шок](https://ru.wowhead.com/spell=188389), [Ледяной шок](https://ru.wowhead.com/spell=196840) и [Ледяную ярость](https://ru.wowhead.com/spell=210714).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=192058" target="blank" data-wh-icon-size="small" >**Тотем конденсации**</a> – АоЕ оглушение врагов на **3** секунды, срабатывающее через **2** секунды после установки тотема. 
+<a href="https://ru.wowhead.com/spell=192058" target="blank" data-wh-icon-size="medium" >**Тотем конденсации**</a> – АоЕ оглушение врагов на **3** секунды, срабатывающее через **2** секунды после установки тотема. 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 * При использовании устанавливается тотем в выбранном месте, оглушающий ближайших врагов. Оглушение срабатывает не сразу, а спустя **2** секунды после установки тотема.
@@ -767,7 +872,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=51886" target="blank" data-wh-icon-size="small" >**Очищение духа**</a> – снятие проклятия с себя или союзника. 
+<a href="https://ru.wowhead.com/spell=51886" target="blank" data-wh-icon-size="medium" >**Очищение духа**</a> – снятие проклятия с себя или союзника. 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Cleanse Spirit, Decurse, Очищение, Декурс, Диспел.  
@@ -787,19 +892,19 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=381666" target="blank" data-wh-icon-size="small" >**Точное озарение**</a> – после применения [Огненного шока](https://ru.wowhead.com/spell=188389) увеличивает лечение следующего заклинания на **15%/30%** и снижает его стоимость маны на **10%/20%** (в зависимости от ранга).
+<a href="https://ru.wowhead.com/spell=381666" target="blank" data-wh-icon-size="medium" >**Точное озарение**</a> – после применения [Огненного шока](https://ru.wowhead.com/spell=188389) увеличивает лечение следующего заклинания на **15%/30%** и снижает его стоимость маны на **10%/20%** (в зависимости от ранга).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 ## Четвертый ряд
 
-<a href="https://ru.wowhead.com/spell=383010" target="blank" data-wh-icon-size="small" >**Кружащие стихии**</a> – позволяет держать на себе сразу два стихийных щита ([Щит молний](https://ru.wowhead.com/spell=192106) и [Щит земли](https://ru.wowhead.com/spell=974)), а также применять [Щит земли](https://ru.wowhead.com/spell=974) на себя и на союзника.
+<a href="https://ru.wowhead.com/spell=383010" target="blank" data-wh-icon-size="medium" >**Кружащие стихии**</a> – позволяет держать на себе сразу два стихийных щита ([Щит молний](https://ru.wowhead.com/spell=192106) и [Щит земли](https://ru.wowhead.com/spell=974)), а также применять [Щит земли](https://ru.wowhead.com/spell=974) на себя и на союзника.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=79206" target="blank" data-wh-icon-size="small" >**Благосклонность предков**</a> – позволяет применять заклинания на ходу в течение **15** секунд раз в **2** минуты.
+<a href="https://ru.wowhead.com/spell=79206" target="blank" data-wh-icon-size="medium" >**Благосклонность предков**</a> – позволяет применять заклинания на ходу в течение **15** секунд раз в **2** минуты.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Spiritwalker's Grace, SWG, СВГ, Спиритволк, Каст на ходу.  
@@ -817,12 +922,12 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=382947" target="blank" data-wh-icon-size="small" >**Защита предков**</a> – пассивный талант, увеличивает Самоисцеление и Избежание на **2%**.
+<a href="https://ru.wowhead.com/spell=382947" target="blank" data-wh-icon-size="medium" >**Защита предков**</a> – пассивный талант, увеличивает Самоисцеление и Избежание на **2%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=8143" target="blank" data-wh-icon-size="small" >**Тотем трепета**</a> – снимает с союзников эффекты страха, подчинения и сна. Можно поставить тотем до применения эффекта, чтобы сразу же снять его в том числе и с себя.
+<a href="https://ru.wowhead.com/spell=8143" target="blank" data-wh-icon-size="medium" >**Тотем трепета**</a> – снимает с союзников эффекты страха, подчинения и сна. Можно поставить тотем до применения эффекта, чтобы сразу же снять его в том числе и с себя.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Tremor Totem, Тремор, Антифир. 
@@ -842,15 +947,15 @@ Flash of Lightning                                  | yes | no
 
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=265046" target="blank" data-wh-icon-size="small" >**Статический разряд**</a> – усиливает [Тотем конденсации](https://ru.wowhead.com/spell=192058), снижая его кулдаун на **5** секунд за каждого пораженного противника, вплоть до **20** секунд.  
+* <a href="https://ru.wowhead.com/spell=265046" target="blank" data-wh-icon-size="medium" >**Статический разряд**</a> – усиливает [Тотем конденсации](https://ru.wowhead.com/spell=192058), снижая его кулдаун на **5** секунд за каждого пораженного противника, вплоть до **20** секунд.  
 
-* <a href="https://ru.wowhead.com/spell=381819" target="blank" data-wh-icon-size="small" >**Дубина стража**</a> – усиливает [Тотем конденсации](https://ru.wowhead.com/spell=192058), призывая его повторно после исчезновения. Второй стан будет длиться короче за счет Diminishing Returns.
+* <a href="https://ru.wowhead.com/spell=381819" target="blank" data-wh-icon-size="medium" >**Дубина стража**</a> – усиливает [Тотем конденсации](https://ru.wowhead.com/spell=192058), призывая его повторно после исчезновения. Второй стан будет длиться короче за счет Diminishing Returns.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=370" target="blank" data-wh-icon-size="small" >**Развеивание магии**</a> – снимает с противника один благотворный магический эффект, не имеет кулдауна.
+* <a href="https://ru.wowhead.com/spell=370" target="blank" data-wh-icon-size="medium" >**Развеивание магии**</a> – снимает с противника один благотворный магический эффект, не имеет кулдауна.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Purge, Пурдж, Диспел (одно из значений), Очищение, Снятие магии.  
@@ -871,12 +976,12 @@ Flash of Lightning                                  | yes | no
 </details>
 <p></p>
 
-* <a href="https://ru.wowhead.com/spell=378773" target="blank" data-wh-icon-size="small" >**Великое очищение**</a> – снимает с противника два благотворных магических эффекта, имеет кулдаун **12** секунд.
+* <a href="https://ru.wowhead.com/spell=378773" target="blank" data-wh-icon-size="medium" >**Великое очищение**</a> – снимает с противника два благотворных магических эффекта, имеет кулдаун **12** секунд.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=382888" target="blank" data-wh-icon-size="small" >**Шквал**</a> – нанесение критического удара увеличивает скорость атаки в ближнем бою.
+<a href="https://ru.wowhead.com/spell=382888" target="blank" data-wh-icon-size="medium" >**Шквал**</a> – нанесение критического удара увеличивает скорость атаки в ближнем бою.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -884,15 +989,15 @@ Flash of Lightning                                  | yes | no
 ## Пятый ряд
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=192088" target="blank" data-wh-icon-size="small" >**Благосклонный дух**</a> – усиливает [Благосклонность предков](https://ru.wowhead.com/spell=79206), снижая его кулдаун на **30** секунд и увеличивая скорость передвижения во время его действия на **20%**.
+* <a href="https://ru.wowhead.com/spell=192088" target="blank" data-wh-icon-size="medium" >**Благосклонный дух**</a> – усиливает [Благосклонность предков](https://ru.wowhead.com/spell=79206), снижая его кулдаун на **30** секунд и увеличивая скорость передвижения во время его действия на **20%**.
 
-* <a href="https://ru.wowhead.com/spell=378077" target="blank" data-wh-icon-size="small" >**Эгида предков**</a> – усиливает [Благосклонность предков](https://ru.wowhead.com/spell=79206), давая иммунитет к прерываниям заклинаний на **5** секунд после его применения.
+* <a href="https://ru.wowhead.com/spell=378077" target="blank" data-wh-icon-size="medium" >**Эгида предков**</a> – усиливает [Благосклонность предков](https://ru.wowhead.com/spell=79206), давая иммунитет к прерываниям заклинаний на **5** секунд после его применения.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=192077" target="blank" data-wh-icon-size="small" >**Тотем ветряного порыва**</a> – установка тотема, увеличивающего скорость передвижения союзников на **40%**, с кулдауном в **2** минуты.
+* <a href="https://ru.wowhead.com/spell=192077" target="blank" data-wh-icon-size="medium" >**Тотем ветряного порыва**</a> – установка тотема, увеличивающего скорость передвижения союзников на **40%**, с кулдауном в **2** минуты.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -920,7 +1025,7 @@ Flash of Lightning                                  | yes | no
 </details>
 <p></p>
 
-* <a href="https://ru.wowhead.com/spell=51485" target="blank" data-wh-icon-size="small" >**Тотем хватки земли**</a> – установка тотема, обездвиживающего врагов в указанной области. Урон прерывает действие эффекта.
+* <a href="https://ru.wowhead.com/spell=51485" target="blank" data-wh-icon-size="medium" >**Тотем хватки земли**</a> – установка тотема, обездвиживающего врагов в указанной области. Урон прерывает действие эффекта.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Earthgrab Totem, EGT, Тотем рутов.
@@ -945,7 +1050,7 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=51514" target="blank" data-wh-icon-size="small" >**Сглаз**</a> – превращает гуманоида или животное в зверушку, не давая возможности атаковать в течении **1** минуты.
+<a href="https://ru.wowhead.com/spell=51514" target="blank" data-wh-icon-size="medium" >**Сглаз**</a> – превращает гуманоида или животное в зверушку, не давая возможности атаковать в течении **1** минуты.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -982,24 +1087,24 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=381655" target="blank" data-wh-icon-size="small" >**Гнев природы**</a> – пассивный талант, увеличивает шанс критического удара заклинаний природы на **2%/4%**.
+<a href="https://ru.wowhead.com/spell=381655" target="blank" data-wh-icon-size="medium" >**Гнев природы**</a> – пассивный талант, увеличивает шанс критического удара заклинаний природы на **2%/4%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 ## Шестой ряд
 
-<a href="https://ru.wowhead.com/spell=381867" target="blank" data-wh-icon-size="small" >**Сила тотемов**</a> – пассивный талант, сокращает время восстановления тотемов на **2/4** секунды.
+<a href="https://ru.wowhead.com/spell=381867" target="blank" data-wh-icon-size="medium" >**Сила тотемов**</a> – пассивный талант, сокращает время восстановления тотемов на **2/4** секунды.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=381650" target="blank" data-wh-icon-size="small" >**Защита от стихий**</a> – пассивный талант, снижает получаемый магический урон на **2%/4%**.
+<a href="https://ru.wowhead.com/spell=381650" target="blank" data-wh-icon-size="medium" >**Защита от стихий**</a> – пассивный талант, снижает получаемый магический урон на **2%/4%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=30884" target="blank" data-wh-icon-size="small" >**Cтраж природы**</a> – пассивный талант, исцеляет вас на **10%/20%**, когда уровень вашего здоровья падает ниже **35%** от максимального запаса. Срабатывает не чаще раза в **45** секунд.
+<a href="https://ru.wowhead.com/spell=30884" target="blank" data-wh-icon-size="medium" >**Cтраж природы**</a> – пассивный талант, исцеляет вас на **10%/20%**, когда уровень вашего здоровья падает ниже **35%** от максимального запаса. Срабатывает не чаще раза в **45** секунд.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Nature’s Guadrian, NG, Страж, прок хила.
@@ -1012,26 +1117,26 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=204268" target="blank" data-wh-icon-size="small" >**Сильное вуду**</a> – усиливает [Сглаз](https://ru.wowhead.com/spell=51514), сокращая его кулдаун до **15** секунд.
+* <a href="https://ru.wowhead.com/spell=204268" target="blank" data-wh-icon-size="medium" >**Сильное вуду**</a> – усиливает [Сглаз](https://ru.wowhead.com/spell=51514), сокращая его кулдаун до **15** секунд.
 
-* <a href="https://ru.wowhead.com/spell=378079" target="blank" data-wh-icon-size="small" >**Ослабление**</a> – усиливает [Сглаз](https://ru.wowhead.com/spell=51514), замедляя цель на **70%** на **4** секунды по завершении его действия.
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-<a href="https://ru.wowhead.com/spell=382215" target="blank" data-wh-icon-size="small" >**Ветра Ал'акира**</a> – пассивный талант, увеличивает скорость передвижения в форме [Призрачного волка](https://www.wowhead.com/ru/spell=2645) на **5%/10%**. Также, при трех активных тотемах, увеличивает скорость передвижения на **7%/15%**.
+* <a href="https://ru.wowhead.com/spell=378079" target="blank" data-wh-icon-size="medium" >**Ослабление**</a> – усиливает [Сглаз](https://ru.wowhead.com/spell=51514), замедляя цель на **70%** на **4** секунды по завершении его действия.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=381689" target="blank" data-wh-icon-size="small" >**Переполняющая сила жизни**</a> – пассивный талант, увеличивает максимальный запас здоровья на **8%** если [Реинкарнация](https://ru.wowhead.com/spell=20608) не на кулдауне, а при полном здоровье кулдаун [Реинкарнации](https://ru.wowhead.com/spell=20608) сокращается до **~17** минут.
+<a href="https://ru.wowhead.com/spell=382215" target="blank" data-wh-icon-size="medium" >**Ветра Ал'акира**</a> – пассивный талант, увеличивает скорость передвижения в форме [Призрачного волка](https://www.wowhead.com/ru/spell=2645) на **5%/10%**. Также, при трех активных тотемах, увеличивает скорость передвижения на **7%/15%**.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=381689" target="blank" data-wh-icon-size="medium" >**Переполняющая сила жизни**</a> – пассивный талант, увеличивает максимальный запас здоровья на **8%** если [Реинкарнация](https://ru.wowhead.com/spell=20608) не на кулдауне, а при полном здоровье кулдаун [Реинкарнации](https://ru.wowhead.com/spell=20608) сокращается до **~17** минут.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 ## Седьмой ряд
 
-<a href="https://ru.wowhead.com/spell=5394" target="blank" data-wh-icon-size="small" >**Тотем исцеляющего потока**</a> – тотем, который дает небольшой пассивный отхил в течение **15** секунд.
+<a href="https://ru.wowhead.com/spell=5394" target="blank" data-wh-icon-size="medium" >**Тотем исцеляющего потока**</a> – тотем, который дает небольшой пассивный отхил в течение **15** секунд.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Healing Stream Totem, HST, ХСТ, Тотемчик, Хил-тотем, Малыш.
@@ -1058,12 +1163,12 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=381674" target="blank" data-wh-icon-size="small" >**Улучшенная молния**</a> – пассивный талант, увеличивает урон [Молнии](https://ru.wowhead.com/spell=188196) на **10%/20%**.
+<a href="https://ru.wowhead.com/spell=381674" target="blank" data-wh-icon-size="medium" >**Улучшенная молния**</a> – пассивный талант, увеличивает урон [Молнии](https://ru.wowhead.com/spell=188196) на **10%/20%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=108287" target="blank" data-wh-icon-size="small" >**Проецирование тотемов**</a> – переносит все установленные тотемы в указанное место.
+<a href="https://ru.wowhead.com/spell=108287" target="blank" data-wh-icon-size="medium" >**Проецирование тотемов**</a> – переносит все установленные тотемы в указанное место.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -1083,7 +1188,7 @@ Flash of Lightning                                  | yes | no
 
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=58875" target="blank" data-wh-icon-size="small" >**Поступь духа**</a> – увеличивает скорость передвижения на **60%** на **8** секунд, эффекты обездвиживания в момент активации снимаются. Кулдаун – **60** секунд.
+* <a href="https://ru.wowhead.com/spell=58875" target="blank" data-wh-icon-size="medium" >**Поступь духа**</a> – увеличивает скорость передвижения на **60%** на **8** секунд, эффекты обездвиживания в момент активации снимаются. Кулдаун – **60** секунд.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -1093,7 +1198,7 @@ Flash of Lightning                                  | yes | no
 </details>
 <p></p>
 
-* <a href="https://ru.wowhead.com/spell=192063" target="blank" data-wh-icon-size="small" >**Порыв ветра**</a> – рывок на среднее расстояние с кулдауном **30** секунд. Позволяет избежать урона от падения.
+* <a href="https://ru.wowhead.com/spell=192063" target="blank" data-wh-icon-size="medium" >**Порыв ветра**</a> – рывок на среднее расстояние с кулдауном **30** секунд. Позволяет избежать урона от падения.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -1101,17 +1206,17 @@ Flash of Lightning                                  | yes | no
 
 ## Восьмой ряд
 
-<a href="https://ru.wowhead.com/spell=378094" target="blank" data-wh-icon-size="small" >**Кружащие потоки**</a> – после применения [Тотема исцеляющего потока](https://www.wowhead.com/ru/spell=5394) три ваших следующих лечащих заклинаний будут сильнее на **13%/25%**.
+<a href="https://ru.wowhead.com/spell=378094" target="blank" data-wh-icon-size="medium" >**Кружащие потоки**</a> – после применения [Тотема исцеляющего потока](https://www.wowhead.com/ru/spell=5394) три ваших следующих лечащих заклинаний будут сильнее на **13%/25%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=378081" target="blank" data-wh-icon-size="small" >**Природная стремительность**</a> – делает ваше следующее заклинание школы магии природы мгновенным. Кулдаун заклинания – **60** секунд и оно не имеет ГКД.
+<a href="https://ru.wowhead.com/spell=378081" target="blank" data-wh-icon-size="medium" >**Природная стремительность**</a> – делает ваше следующее заклинание школы магии природы мгновенным. Кулдаун заклинания – **60** секунд и оно не имеет ГКД.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=51490" target="blank" data-wh-icon-size="small" >**Гром и молния**</a> – отбрасывает противников в сторону, после чего замедляет на **40%** на **5** секунд. 
+<a href="https://ru.wowhead.com/spell=51490" target="blank" data-wh-icon-size="medium" >**Гром и молния**</a> – отбрасывает противников в сторону, после чего замедляет на **40%** на **5** секунд. 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Thunderstorm, Knockback, Нокбек, Тандер, Откидывание, Отброс.  
@@ -1134,17 +1239,17 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=382201" target="blank" data-wh-icon-size="small" >**Тотемное средоточие**</a> – увеличивает радиус действия тотемов на **8%/15%** и продлевает их время действия.
+<a href="https://ru.wowhead.com/spell=382201" target="blank" data-wh-icon-size="medium" >**Тотемное средоточие**</a> – увеличивает радиус действия тотемов на **8%/15%** и продлевает их время действия.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=382033" target="blank" data-wh-icon-size="small" >**Ободряющие щиты**</a> – усиливает эффекты [Щита молний](https://ru.wowhead.com/spell=192106) и [Щита земли](https://ru.wowhead.com/spell=974).
+<a href="https://ru.wowhead.com/spell=382033" target="blank" data-wh-icon-size="medium" >**Ободряющие щиты**</a> – усиливает эффекты [Щита молний](https://ru.wowhead.com/spell=192106) и [Щита земли](https://ru.wowhead.com/spell=974).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=381678" target="blank" data-wh-icon-size="small" >**Плыви по течению**</a> – снижает время восстановления [Поступи духа](https://ru.wowhead.com/spell=58875) на **7.5/15** секунд и [Порыва ветра](https://ru.wowhead.com/spell=192063) на **5/10** секунд.
+<a href="https://ru.wowhead.com/spell=381678" target="blank" data-wh-icon-size="medium" >**Плыви по течению**</a> – снижает время восстановления [Поступи духа](https://ru.wowhead.com/spell=58875) на **7.5/15** секунд и [Порыва ветра](https://ru.wowhead.com/spell=192063) на **5/10** секунд.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -1152,25 +1257,25 @@ Flash of Lightning                                  | yes | no
 ## Девятый ряд
 
 
-<a href="https://ru.wowhead.com/spell=381930" target="blank" data-wh-icon-size="small" >**Тотем источника маны**</a> – тотем длительностью **2** минуты, который восстанавливает **200** единиц маны четырем союзникам в радиусе **30** метров каждый раз, когда вы применяете [Выброс лавы](https://ru.wowhead.com/spell=51505). В первую очередь восстанавливает ману целителям. Увеличивает генерацию маны хилам примерно на **4-7%**.
+<a href="https://ru.wowhead.com/spell=381930" target="blank" data-wh-icon-size="medium" >**Тотем источника маны**</a> – тотем длительностью **2** минуты, который восстанавливает **200** единиц маны четырем союзникам в радиусе **30** метров каждый раз, когда вы применяете [Выброс лавы](https://ru.wowhead.com/spell=51505). В первую очередь восстанавливает ману целителям. Увеличивает генерацию маны хилам примерно на **4-7%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=378779" target="blank" data-wh-icon-size="small" >**Громовой удар**</a> – усиливает [Гром и молнию](https://ru.wowhead.com/spell=51490), заменяя отбрасывание противников в стороны на подбрасывание вверх, и снижает кулдаун на **5** секунд. Полезно в том случае, если нужно сбить применение заклинаний без перемещения противников.
+* <a href="https://ru.wowhead.com/spell=378779" target="blank" data-wh-icon-size="medium" >**Громовой удар**</a> – усиливает [Гром и молнию](https://ru.wowhead.com/spell=51490), заменяя отбрасывание противников в стороны на подбрасывание вверх, и снижает кулдаун на **5** секунд. Полезно в том случае, если нужно сбить применение заклинаний без перемещения противников.
 
-* <a href="https://ru.wowhead.com/spell=305483" target="blank" data-wh-icon-size="small" >**Молния-лассо**</a> – бывший PvP-талант. Потоковое заклинание, наносит средний урон одной цели и оглушает её на время каста. Используется только как контроль цели. Можно кастовать на ходу.
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-<a href="https://ru.wowhead.com/spell=383013" target="blank" data-wh-icon-size="small" >**Тотем противоядия**</a> – снимает по одному яду с союзников каждые **1.5** секунды в течение **6** секунд.
+* <a href="https://ru.wowhead.com/spell=305483" target="blank" data-wh-icon-size="medium" >**Молния-лассо**</a> – бывший PvP-талант. Потоковое заклинание, наносит средний урон одной цели и оглушает её на время каста. Используется только как контроль цели. Можно кастовать на ходу.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=108285" target="blank" data-wh-icon-size="small" >**Возвращение тотемов**</a> – сбрасывает время восстановления последнего примененного тотема, кулдаун **3** минуты. Обязательный талант в том случае, если взят [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222) в древе талантов специализации. Также может сбрасывать кулдаун вспомогательных тотемов, что будет полезно в определенных ситуациях.
+<a href="https://ru.wowhead.com/spell=383013" target="blank" data-wh-icon-size="medium" >**Тотем противоядия**</a> – снимает по одному яду с союзников каждые **1.5** секунды в течение **6** секунд.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=108285" target="blank" data-wh-icon-size="medium" >**Возвращение тотемов**</a> – сбрасывает время восстановления последнего примененного тотема, кулдаун **3** минуты. Обязательный талант в том случае, если взят [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222) в древе талантов специализации. Также может сбрасывать кулдаун вспомогательных тотемов, что будет полезно в определенных ситуациях.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -1178,7 +1283,7 @@ Flash of Lightning                                  | yes | no
 ## Десятый ряд
 
 
-<a href="https://ru.wowhead.com/spell=108281" target="blank" data-wh-icon-size="small" >**Наставления предков**</a> – в течение **10** секунд превращает **25%** нанесенного урона и исцеления в отхил для трех человек, выбирая в первую очередь раненые цели. Позволяет практически в соло прохиливать всю группу во время большого АоЕ под бурстами, например на первом боссе в Рубиновых Омутах Жизни.
+<a href="https://ru.wowhead.com/spell=108281" target="blank" data-wh-icon-size="medium" >**Наставления предков**</a> – в течение **10** секунд превращает **25%** нанесенного урона и исцеления в отхил для трех человек, выбирая в первую очередь раненые цели. Позволяет практически в соло прохиливать всю группу во время большого АоЕ под бурстами, например на первом боссе в Рубиновых Омутах Жизни.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -1200,18 +1305,18 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=383017" target="blank" data-wh-icon-size="small" >**Тотем каменной кожи**</a> – тотем, уменьшающий получаемый физический урон на **10%** для вас и четырех ближайших союзников. Можно перенести этот тотем к танку с помощью [Проецирования тотемов](https://www.wowhead.com/ru/spell=108287). Время действия составляет **15** секунд, а кулдаун – **30** секунд.
+* <a href="https://ru.wowhead.com/spell=383017" target="blank" data-wh-icon-size="medium" >**Тотем каменной кожи**</a> – тотем, уменьшающий получаемый физический урон на **10%** для вас и четырех ближайших союзников. Можно перенести этот тотем к танку с помощью [Проецирования тотемов](https://www.wowhead.com/ru/spell=108287). Время действия составляет **15** секунд, а кулдаун – **30** секунд.
 
-* <a href="https://ru.wowhead.com/spell=383019" target="blank" data-wh-icon-size="small" >**Тотем безветрия**</a> – тотем, предовтращающий задержку применения заклинаний при получении урона и сокращающий время действия эффектов прерывания на **50%** для вас и четырех ближайших союзников. 
+* <a href="https://ru.wowhead.com/spell=383019" target="blank" data-wh-icon-size="medium" >**Тотем безветрия**</a> – тотем, предовтращающий задержку применения заклинаний при получении урона и сокращающий время действия эффектов прерывания на **50%** для вас и четырех ближайших союзников. 
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=383011" target="blank" data-wh-icon-size="small" >**Зов стихий**</a> – усиливает [Возвращение тотемов](https://ru.wowhead.com/spell=108285), снижая его время восстановления до **2** минут.
+* <a href="https://ru.wowhead.com/spell=383011" target="blank" data-wh-icon-size="medium" >**Зов стихий**</a> – усиливает [Возвращение тотемов](https://ru.wowhead.com/spell=108285), снижая его время восстановления до **2** минут.
 
-* <a href="https://ru.wowhead.com/spell=383012" target="blank" data-wh-icon-size="small" >**Ядро созидания**</a> – усиливает [Возвращение тотемов](https://ru.wowhead.com/spell=108285), позволяя сбрасывать кулдаун двух тотемов, а не одного.
+* <a href="https://ru.wowhead.com/spell=383012" target="blank" data-wh-icon-size="medium" >**Ядро созидания**</a> – усиливает [Возвращение тотемов](https://ru.wowhead.com/spell=108285), позволяя сбрасывать кулдаун двух тотемов, а не одного.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -1227,11 +1332,11 @@ Flash of Lightning                                  | yes | no
 
 ## Первый ряд
 
-<a href="https://ru.wowhead.com/spell=8042" target="blank" data-wh-icon-size="small" >**Земной шок**</a> – наносит средний урон одной цели, применяется мгновенно и тратит **60** единиц энергии Водоворота. 
+<a href="https://ru.wowhead.com/spell=8042" target="blank" data-wh-icon-size="medium" >**Земной шок**</a> – наносит средний урон одной цели, применяется мгновенно и тратит **60** единиц энергии Водоворота. 
 
 ## Второй ряд
 
-<a href="https://ru.wowhead.com/spell=61882" target="blank" data-wh-icon-size="small" >**Землетрясение**</a> – наносит средний АоЕ урон в течение **6** секунд, применяется мгновенно и тратит **60** единиц энергии Водоворота. Несколько [Землетрясений](https://ru.wowhead.com/spell=61882) стакаются. Имеет **5%** шанс сбить противника с ног.
+<a href="https://ru.wowhead.com/spell=61882" target="blank" data-wh-icon-size="medium" >**Землетрясение**</a> – наносит средний АоЕ урон в течение **6** секунд, применяется мгновенно и тратит **60** единиц энергии Водоворота. Несколько [Землетрясений](https://ru.wowhead.com/spell=61882) стакаются. Имеет **5%** шанс сбить противника с ног.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Earthquake, EQ, ЕК, Квака, Землетряс, Лужа.
@@ -1260,7 +1365,7 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=60188" target="blank" data-wh-icon-size="small" >**Неистовство стихий**</a> – увеличивает критический урон заклинаний на **250%** вместо **200%**.
+<a href="https://ru.wowhead.com/spell=60188" target="blank" data-wh-icon-size="medium" >**Неистовство стихий**</a> – увеличивает критический урон заклинаний на **250%** вместо **200%**.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 * Работает как «белый список», то есть действует только на те способности и заклинания, которые указаны на странице Wowhead.
@@ -1275,7 +1380,7 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=198067" target="blank" data-wh-icon-size="small" >**Элементаль огня**</a> – <span style="color:#f16f25;font-size:1em;">**огненный**</span> бурст, наносит урон одной цели и усиливает [Огненный шок](https://ru.wowhead.com/spell=188389), увеличивая время его действия при наложении и частоту тиков.
+* <a href="https://ru.wowhead.com/spell=198067" target="blank" data-wh-icon-size="medium" >**Элементаль огня**</a> – <span style="color:#f16f25;font-size:1em;">**огненный**</span> бурст, наносит урон одной цели и усиливает [Огненный шок](https://ru.wowhead.com/spell=188389), увеличивая время его действия при наложении и частоту тиков.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -1306,7 +1411,7 @@ Flash of Lightning                                  | yes | no
 </details>
 <p></p>
 
-* <a href="https://ru.wowhead.com/spell=192249" target="blank" data-wh-icon-size="small" >**Элементаль бури**</a> – <span style="color:#26d22b;font-size:1em;">**штормовой**</span> бурст, сокращает время произнесения [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) за каждый каст, вплоть до **30%**.
+* <a href="https://ru.wowhead.com/spell=192249" target="blank" data-wh-icon-size="medium" >**Элементаль бури**</a> – <span style="color:#26d22b;font-size:1em;">**штормовой**</span> бурст, сокращает время произнесения [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) за каждый каст, вплоть до **30%**.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -1338,25 +1443,25 @@ Flash of Lightning                                  | yes | no
 ## Третий ряд
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=381743" target="blank" data-wh-icon-size="small" >**Беспокойные разломы**</a> – усиливает [Землетрясение](https://ru.wowhead.com/spell=61882), увеличивая шанс сбить противников с ног с **5%** до **8%**.
+* <a href="https://ru.wowhead.com/spell=381743" target="blank" data-wh-icon-size="medium" >**Беспокойные разломы**</a> – усиливает [Землетрясение](https://ru.wowhead.com/spell=61882), увеличивая шанс сбить противников с ног с **5%** до **8%**.
 
-* <a href="https://ru.wowhead.com/spell=378776" target="blank" data-wh-icon-size="small" >**Затопление**</a> – дает **8** единиц энергии Водоворота при успешном применении различных вспомогательных заклинаний во время боя. Небольшая компенсация за трату ГКД на утилити способности.
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=378193" target="blank" data-wh-icon-size="small" >**Первозданная ярость**</a> – увеличивает критичсеский эффект лечащих заклинаний до **250%**.
-
-* <a href="https://ru.wowhead.com/spell=382197" target="blank" data-wh-icon-size="small" >**Сродство с волком**</a> – позволяет оставаться в форме [Призрачного волка](https://www.wowhead.com/ru/spell=2645) при применении различных вспомогательных заклинаний.
+* <a href="https://ru.wowhead.com/spell=378776" target="blank" data-wh-icon-size="medium" >**Затопление**</a> – дает **8** единиц энергии Водоворота при успешном применении различных вспомогательных заклинаний во время боя. Небольшая компенсация за трату ГКД на утилити способности.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=378211" target="blank" data-wh-icon-size="small" >**Освежающие воды**</a> – ваш [Исцеляющий всплеск](https://ru.wowhead.com/spell=8004) восстанавливает вам на **30%** больше здоровья.
+* <a href="https://ru.wowhead.com/spell=378193" target="blank" data-wh-icon-size="medium" >**Первозданная ярость**</a> – увеличивает критичсеский эффект лечащих заклинаний до **250%**.
 
-* <a href="https://ru.wowhead.com/spell=381764" target="blank" data-wh-icon-size="small" >**Первозданная связь**</a> – во время действия любого элементаля вы получаете на **5%** меньше урона. Усиливает защитный потенциал [Элементаля земли](https://ru.wowhead.com/spell=198103).
+* <a href="https://ru.wowhead.com/spell=382197" target="blank" data-wh-icon-size="medium" >**Сродство с волком**</a> – позволяет оставаться в форме [Призрачного волка](https://www.wowhead.com/ru/spell=2645) при применении различных вспомогательных заклинаний.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Один из двух талантов на выбор:
+* <a href="https://ru.wowhead.com/spell=378211" target="blank" data-wh-icon-size="medium" >**Освежающие воды**</a> – ваш [Исцеляющий всплеск](https://ru.wowhead.com/spell=8004) восстанавливает вам на **30%** больше здоровья.
+
+* <a href="https://ru.wowhead.com/spell=381764" target="blank" data-wh-icon-size="medium" >**Первозданная связь**</a> – во время действия любого элементаля вы получаете на **5%** меньше урона. Усиливает защитный потенциал [Элементаля земли](https://ru.wowhead.com/spell=198103).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -1364,18 +1469,18 @@ Flash of Lightning                                  | yes | no
 ## Четвертый ряд
 
 
-<a href="https://ru.wowhead.com/spell=378241" target="blank" data-wh-icon-size="small" >**Призыв грома**</a> – на **15%** увеличивает урон [Молнии](https://ru.wowhead.com/spell=188196), [Цепной молнии](https://ru.wowhead.com/spell=188443) и [Элементаля бури](https://ru.wowhead.com/spell=192249).
+<a href="https://ru.wowhead.com/spell=378241" target="blank" data-wh-icon-size="medium" >**Призыв грома**</a> – на **15%** увеличивает урон [Молнии](https://ru.wowhead.com/spell=188196), [Цепной молнии](https://ru.wowhead.com/spell=188443) и [Элементаля бури](https://ru.wowhead.com/spell=192249).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=385923" target="blank" data-wh-icon-size="small" >**Поток силы**</a> – увеличивает генерацию энергии Водоворота [Молнии](https://ru.wowhead.com/spell=188196) до **10** единиц при касте и **4** единиц при проке Искусности, а [Выброса лавы](https://ru.wowhead.com/spell=51505) – **12** и **5** единиц соответственно.
+<a href="https://ru.wowhead.com/spell=385923" target="blank" data-wh-icon-size="medium" >**Поток силы**</a> – увеличивает генерацию энергии Водоворота [Молнии](https://ru.wowhead.com/spell=188196) до **10** единиц при касте и **4** единиц при проке Искусности, а [Выброса лавы](https://ru.wowhead.com/spell=51505) – **12** и **5** единиц соответственно.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=77756" target="blank" data-wh-icon-size="small" >**Волна лавы**</a> – каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) имеет **10%** шанс восстановить [Выброс лавы](https://ru.wowhead.com/spell=51505) и сделать его мгновенным.
+<a href="https://ru.wowhead.com/spell=77756" target="blank" data-wh-icon-size="medium" >**Волна лавы**</a> – каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) имеет **10%** шанс восстановить [Выброс лавы](https://ru.wowhead.com/spell=51505) и сделать его мгновенным.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -1383,7 +1488,7 @@ Flash of Lightning                                  | yes | no
 ## Пятый ряд
 
 
-<a href="https://ru.wowhead.com/spell=382685" target="blank" data-wh-icon-size="small" >**Безжалостное бедствие**</a> – пассивный талант, сокращает время применения [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://www.wowhead.com/ru/spell=188443) на **0.25** секунд, а также продлевает время действия [Землетрясения](https://ru.wowhead.com/spell=61882) на **1** секунду.
+<a href="https://ru.wowhead.com/spell=382685" target="blank" data-wh-icon-size="medium" >**Безжалостное бедствие**</a> – пассивный талант, сокращает время применения [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://www.wowhead.com/ru/spell=188443) на **0.25** секунд, а также продлевает время действия [Землетрясения](https://ru.wowhead.com/spell=61882) на **1** секунду.
 
 
 
@@ -1391,7 +1496,7 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="small" >**Ледяная ярость**</a> – бурст с кулдауном **30** секунд, усиливает **4** следующих [Ледяных шока](https://ru.wowhead.com/spell=196840), увеличивая их урон в **3.25** раз и позволяя им генерировать **8** единиц энергии Водоворота. 
+<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="medium" >**Ледяная ярость**</a> – бурст с кулдауном **30** секунд, усиливает **4** следующих [Ледяных шока](https://ru.wowhead.com/spell=196840), увеличивая их урон в **3.25** раз и позволяя им генерировать **8** единиц энергии Водоворота. 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Icefury, IF, ИФ, Айсфьюри.  
@@ -1409,19 +1514,19 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 
-<a href="https://www.wowhead.com/ru/spell=381707" target="blank" data-wh-icon-size="small" >**Бурлящий водоворот**</a> – пассивный талант, увеличивает запас энергии Водоворота со **100** до **150** единиц. Позволяет накопить больше энергии под определенные моменты боя, а также не уходить в оверкап во время АоЕ.
+<a href="https://www.wowhead.com/ru/spell=381707" target="blank" data-wh-icon-size="medium" >**Бурлящий водоворот**</a> – пассивный талант, увеличивает запас энергии Водоворота со **100** до **150** единиц. Позволяет накопить больше энергии под определенные моменты боя, а также не уходить в оверкап во время АоЕ.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
 
-<a href="https://www.wowhead.com/ru/spell=333919" target="blank" data-wh-icon-size="small" >**Эхо стихий**</a> – пассивный талант, дает [Выбросу лавы](https://ru.wowhead.com/spell=51505) второй заряд, в результате чего время восстановления не теряется при проке [Волны лавы](https://ru.wowhead.com/spell=77756), а также сокращает кулдаун [Выброса лавы](https://ru.wowhead.com/spell=51505) до **8** секунд вместо «**8** секунд + время произнесения + время реакции».
+<a href="https://www.wowhead.com/ru/spell=333919" target="blank" data-wh-icon-size="medium" >**Эхо стихий**</a> – пассивный талант, дает [Выбросу лавы](https://ru.wowhead.com/spell=51505) второй заряд, в результате чего время восстановления не теряется при проке [Волны лавы](https://ru.wowhead.com/spell=77756), а также сокращает кулдаун [Выброса лавы](https://ru.wowhead.com/spell=51505) до **8** секунд вместо «**8** секунд + время произнесения + время реакции».
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://www.wowhead.com/ru/spell=378255" target="blank" data-wh-icon-size="small" >**Зов огня**</a> – пассивный талант, увеличивает урон <span style="color:#f16f25;font-size:1em;">**огненных**</span> заклинаний на **10%**.
+<a href="https://www.wowhead.com/ru/spell=378255" target="blank" data-wh-icon-size="medium" >**Зов огня**</a> – пассивный талант, увеличивает урон <span style="color:#f16f25;font-size:1em;">**огненных**</span> заклинаний на **10%**.
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -1432,7 +1537,7 @@ Flash of Lightning                                  | yes | no
 
 
 
-<a href="https://ru.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" >**Хранитель бурь**</a> – бурст способность с кулдауном **1** минута, усиливает две следующих [Молнии](https://ru.wowhead.com/spell=188196) или [Цепные молнии](https://ru.wowhead.com/spell=188443). [Молния](https://ru.wowhead.com/spell=188196) получает увеличенный на **150%** урон и гарантированную [Перегрузку](https://ru.wowhead.com/spell=168534), [Цепная молнии](https://ru.wowhead.com/spell=188443) вызывает прок [Перегрузки](https://ru.wowhead.com/spell=168534) на каждой цели.
+<a href="https://ru.wowhead.com/spell=191634" target="blank" data-wh-icon-size="medium" >**Хранитель бурь**</a> – бурст способность с кулдауном **1** минута, усиливает две следующих [Молнии](https://ru.wowhead.com/spell=188196) или [Цепные молнии](https://ru.wowhead.com/spell=188443). [Молния](https://ru.wowhead.com/spell=188196) получает увеличенный на **150%** урон и гарантированную [Перегрузку](https://ru.wowhead.com/spell=168534), [Цепная молнии](https://ru.wowhead.com/spell=188443) вызывает прок [Перегрузки](https://ru.wowhead.com/spell=168534) на каждой цели.
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Stormkeeper, SK, Keeper, СК, ХБ (не стоит), Штормкипер, Кипер.
@@ -1454,18 +1559,18 @@ Flash of Lightning                                  | yes | no
 
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=381776" target="blank" data-wh-icon-size="small" >**Расплавленная порода**</a> – усиливает [Ледяную ярость](https://ru.wowhead.com/spell=210714), увеличивая урон [Выброса лавы](https://ru.wowhead.com/spell=51505) на **20%** после применения [Ледяного шока](https://ru.wowhead.com/spell=196840).
+* <a href="https://ru.wowhead.com/spell=381776" target="blank" data-wh-icon-size="medium" >**Расплавленная порода**</a> – усиливает [Ледяную ярость](https://ru.wowhead.com/spell=210714), увеличивая урон [Выброса лавы](https://ru.wowhead.com/spell=51505) на **20%** после применения [Ледяного шока](https://ru.wowhead.com/spell=196840).
 
-* <a href="https://ru.wowhead.com/spell=382086" target="blank" data-wh-icon-size="small" >**Электрический шок**</a> – усиливает [Ледяную ярость](https://ru.wowhead.com/spell=210714), позволяя [Ледяным шокам](https://ru.wowhead.com/spell=196840) бить сразу по **4** противником и накладывать на них дебафф, увеличивающий получаемый урон от силы природы на **15%** на **6** секунд.
+* <a href="https://ru.wowhead.com/spell=382086" target="blank" data-wh-icon-size="medium" >**Электрический шок**</a> – усиливает [Ледяную ярость](https://ru.wowhead.com/spell=210714), позволяя [Ледяным шокам](https://ru.wowhead.com/spell=196840) бить сразу по **4** противником и накладывать на них дебафф, увеличивающий получаемый урон от силы природы на **15%** на **6** секунд.
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=273221" target="blank" data-wh-icon-size="small" >**Повторный толчок**</a> – пассивный талант, дает **25%** шанс вернуть потраченную энергию водоворота при касте [Земного шока](https://ru.wowhead.com/spell=8042), [Землетрясения](https://ru.wowhead.com/spell=61882) и [Удара духов стихий](https://www.wowhead.com/ru/spell=117014).
+* <a href="https://ru.wowhead.com/spell=273221" target="blank" data-wh-icon-size="medium" >**Повторный толчок**</a> – пассивный талант, дает **25%** шанс вернуть потраченную энергию водоворота при касте [Земного шока](https://ru.wowhead.com/spell=8042), [Землетрясения](https://ru.wowhead.com/spell=61882) и [Удара духов стихий](https://www.wowhead.com/ru/spell=117014).
 
-* <a href="https://ru.wowhead.com/spell=262303" target="blank" data-wh-icon-size="small" >**Прилив мощи**</a> – пассивный талант, после применения [Земного шока](https://ru.wowhead.com/spell=8042), [Землетрясения](https://ru.wowhead.com/spell=61882) и [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) усиливается следующее заклинание:
+* <a href="https://ru.wowhead.com/spell=262303" target="blank" data-wh-icon-size="medium" >**Прилив мощи**</a> – пассивный талант, после применения [Земного шока](https://ru.wowhead.com/spell=8042), [Землетрясения](https://ru.wowhead.com/spell=61882) и [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) усиливается следующее заклинание:
   * [Огненный шок](https://ru.wowhead.com/spell=188389) – накладывает второй дебафф на соседнюю цель в радиусе **8** метров от основной.
   * [Молния](https://ru.wowhead.com/spell=188196) – вызывает срабатывание двух дополнительных [Перегрузок](https://ru.wowhead.com/spell=168534).
   * [Цепная молния](https://ru.wowhead.com/spell=188443) – бьет по **6** целям.
@@ -1476,14 +1581,14 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=378266" target="blank" data-wh-icon-size="small" >**Пламя Котла**</a> – пассивный талант, снижает время восстановления [Огненного шока](https://ru.wowhead.com/spell=188389) до **4.5** секунд и увеличивает частоту тиков на **15%**.
+<a href="https://ru.wowhead.com/spell=378266" target="blank" data-wh-icon-size="medium" >**Пламя Котла**</a> – пассивный талант, снижает время восстановления [Огненного шока](https://ru.wowhead.com/spell=188389) до **4.5** секунд и увеличивает частоту тиков на **15%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 ## Седьмой ряд
 
-<a href="https://ru.wowhead.com/spell=381936" target="blank" data-wh-icon-size="small" >**Вспышка молнии**</a> – пассивный талант, при касте [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) время восстановления заклинаний школы магии <span style="color:#26d22b;font-size:1em;">**природы**</span> снижается на **1** секунду.
+<a href="https://ru.wowhead.com/spell=381936" target="blank" data-wh-icon-size="medium" >**Вспышка молнии**</a> – пассивный талант, при касте [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443) время восстановления заклинаний школы магии <span style="color:#26d22b;font-size:1em;">**природы**</span> снижается на **1** секунду.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -1516,19 +1621,19 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=381708" target="blank" data-wh-icon-size="small" >**Око бури**</a> – пассивный талант, снижает стоимость энергии Водоворота на [Земной шок](https://ru.wowhead.com/spell=8042) и [Землетрясение](https://ru.wowhead.com/spell=61882) на **5/10** единиц, а стоимость [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) – на **7/15** единиц.
+<a href="https://ru.wowhead.com/spell=381708" target="blank" data-wh-icon-size="medium" >**Око бури**</a> – пассивный талант, снижает стоимость энергии Водоворота на [Земной шок](https://ru.wowhead.com/spell=8042) и [Землетрясение](https://ru.wowhead.com/spell=61882) на **5/10** единиц, а стоимость [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) – на **7/15** единиц.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=191861" target="blank" data-wh-icon-size="small" >**Мощь Водоворота**</a> – пассивный талант, дает [Выбросу лавы](https://ru.wowhead.com/spell=51505) **5%/10%** шанс усилить две следующих [Молнии](https://ru.wowhead.com/spell=188196) или [Цепных молнии](https://ru.wowhead.com/spell=188443), вызывая дополнительное срабатывание [Перегрузки](https://ru.wowhead.com/spell=168534).
+<a href="https://ru.wowhead.com/spell=191861" target="blank" data-wh-icon-size="medium" >**Мощь Водоворота**</a> – пассивный талант, дает [Выбросу лавы](https://ru.wowhead.com/spell=51505) **5%/10%** шанс усилить две следующих [Молнии](https://ru.wowhead.com/spell=188196) или [Цепных молнии](https://ru.wowhead.com/spell=188443), вызывая дополнительное срабатывание [Перегрузки](https://ru.wowhead.com/spell=168534).
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="small" >**Властелин стихий**</a> – пассивный талант, после применения [Выброса лавы](https://ru.wowhead.com/spell=51505) ваше следующее не огненное заклинание усиливается на **20%** 
+<a href="https://ru.wowhead.com/spell=16166" target="blank" data-wh-icon-size="medium" >**Властелин стихий**</a> – пассивный талант, после применения [Выброса лавы](https://ru.wowhead.com/spell=51505) ваше следующее не огненное заклинание усиливается на **20%** 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
 > Master of the Elements, Mote, Моте.
@@ -1544,14 +1649,14 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=382027" target="blank" data-wh-icon-size="small" >**Улучшенное оружие языка пламени**</a> – пассивный талант, усиливает [Оружие языка пламени](https://ru.wowhead.com/spell=318038), увеличивая наносимый урон от магии <span style="color:#f16f25;font-size:1em;">**огня**</span> на **5%**.
+<a href="https://ru.wowhead.com/spell=382027" target="blank" data-wh-icon-size="medium" >**Улучшенное оружие языка пламени**</a> – пассивный талант, усиливает [Оружие языка пламени](https://ru.wowhead.com/spell=318038), увеличивая наносимый урон от магии <span style="color:#f16f25;font-size:1em;">**огня**</span> на **5%**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 ## Восьмой ряд
 
-<a href="https://ru.wowhead.com/spell=117014" target="blank" data-wh-icon-size="small" >**Удар духов стихий**</a> – заменяет {{ site.data.spells.es }}, наносит большой урон одной цели, кастуется **2** секунды, дает баффы на характеристики и стоит **90** единиц энергии Водоворота.
+<a href="https://ru.wowhead.com/spell=117014" target="blank" data-wh-icon-size="medium" >**Удар духов стихий**</a> – заменяет {{ site.data.spells.es }}, наносит большой урон одной цели, кастуется **2** секунды, дает баффы на характеристики и стоит **90** единиц энергии Водоворота.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -1573,15 +1678,15 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=375982" target="blank" data-wh-icon-size="small" >**Первозданная волна**</a> – накладывает [Огненный шок](https://ru.wowhead.com/spell=188389) на одну цель, после чего следующий [Выброс лавы](https://ru.wowhead.com/spell=51505) дублируется на все цели под [Огненным шоком](https://ru.wowhead.com/spell=188389), нанося **80%** от своего урона.
+<a href="https://ru.wowhead.com/spell=375982" target="blank" data-wh-icon-size="medium" >**Первозданная волна**</a> – накладывает [Огненный шок](https://ru.wowhead.com/spell=188389) на одну цель, после чего следующий [Выброс лавы](https://ru.wowhead.com/spell=51505) дублируется на все цели под [Огненным шоком](https://ru.wowhead.com/spell=188389), нанося **80%** от своего урона.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=114050" target="blank" data-wh-icon-size="small" >**Перерождение**</a> – бурст с кулдауном **3** минуты и длительностью **15** секунд, убирает время восстановления [Выброса лавы](https://ru.wowhead.com/spell=51505) и увеличивает его урон на величину шанса Критического удара. При активации обновляет [Огненный шок](https://ru.wowhead.com/spell=188389) на всех целях и использует на них [Выброс лавы](https://ru.wowhead.com/spell=51505). {{ site.data.spells.cl }} под действием [Перерождения](https://ru.wowhead.com/spell=114049) превращается в [Поток лавы](https://ru.wowhead.com/spell=114074), увеличивая свой урон на **10%** за каждую пораженную дополнительную цель.
+* <a href="https://ru.wowhead.com/spell=114050" target="blank" data-wh-icon-size="medium" >**Перерождение**</a> – бурст с кулдауном **3** минуты и длительностью **15** секунд, убирает время восстановления [Выброса лавы](https://ru.wowhead.com/spell=51505) и увеличивает его урон на величину шанса Критического удара. При активации обновляет [Огненный шок](https://ru.wowhead.com/spell=188389) на всех целях и использует на них [Выброс лавы](https://ru.wowhead.com/spell=51505). {{ site.data.spells.cl }} под действием [Перерождения](https://ru.wowhead.com/spell=114049) превращается в [Поток лавы](https://ru.wowhead.com/spell=114074), увеличивая свой урон на **10%** за каждую пораженную дополнительную цель.
 
-* <a href="https://ru.wowhead.com/spell=378270" target="blank" data-wh-icon-size="small" >**Укоренившиеся стихии**</a> – [Выброс лавы](https://ru.wowhead.com/spell=51505) имеет шанс в **7%** активировать эффект [Перерождения](https://ru.wowhead.com/spell=114050) на **6** секунд. При активации обновляет [Огненный шок](https://ru.wowhead.com/spell=188389) на всех целях и использует на них [Выброс лавы](https://ru.wowhead.com/spell=51505).
+* <a href="https://ru.wowhead.com/spell=378270" target="blank" data-wh-icon-size="medium" >**Укоренившиеся стихии**</a> – [Выброс лавы](https://ru.wowhead.com/spell=51505) имеет шанс в **7%** активировать эффект [Перерождения](https://ru.wowhead.com/spell=114050) на **6** секунд. При активации обновляет [Огненный шок](https://ru.wowhead.com/spell=188389) на всех целях и использует на них [Выброс лавы](https://ru.wowhead.com/spell=51505).
 
 
 
@@ -1590,7 +1695,7 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=117013" target="blank" data-wh-icon-size="small" >**Повелитель изначальных стихий**</a> – усиливает [Элементаля огня](https://www.wowhead.com/ru/spell=198067) и [Элементаля бури](https://www.wowhead.com/ru/spell=192249), увеличивая их урон на **80%** и наделяя их новыми способностями.
+<a href="https://ru.wowhead.com/spell=117013" target="blank" data-wh-icon-size="medium" >**Повелитель изначальных стихий**</a> – усиливает [Элементаля огня](https://www.wowhead.com/ru/spell=198067) и [Элементаля бури](https://www.wowhead.com/ru/spell=192249), увеличивая их урон на **80%** и наделяя их новыми способностями.
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -1619,7 +1724,7 @@ Flash of Lightning                                  | yes | no
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=192222" target="blank" data-wh-icon-size="small" >**Тотем жидкой магмы**</a> – АоЕ-бурст с кулдауном **1** минута, наносит урон в радиусе **8** метров в течение **6** секунд, а также накладвывает на **3** противников [Огненный шок](https://ru.wowhead.com/spell=188389).
+<a href="https://ru.wowhead.com/spell=192222" target="blank" data-wh-icon-size="medium" >**Тотем жидкой магмы**</a> – АоЕ-бурст с кулдауном **1** минута, наносит урон в радиусе **8** метров в течение **6** секунд, а также накладвывает на **3** противников [Огненный шок](https://ru.wowhead.com/spell=188389).
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -1640,7 +1745,7 @@ Flash of Lightning                                  | yes | no
 
 ## Девятый ряд
 
-<a href="https://ru.wowhead.com/spell=384087" target="blank" data-wh-icon-size="small" >**Отголоски Великого Раскола**</a> – пассивный талант, меняющий АоЕ ротацию. Усиливает [Землетрясение](https://ru.wowhead.com/spell=61882) после применения [Земного шока](https://ru.wowhead.com/spell=8042) на **60%/120%** (на **80%/140%** после применения [Удара духов стихий](https://ru.wowhead.com/spell=117014)). С этим талантом стоит чередовать [Земной шок](https://ru.wowhead.com/spell=8042) и [Землетрясение](https://ru.wowhead.com/spell=61882) (или [Удар духов стихий](https://ru.wowhead.com/spell=117014) и [Землетрясение](https://ru.wowhead.com/spell=61882)).
+<a href="https://ru.wowhead.com/spell=384087" target="blank" data-wh-icon-size="medium" >**Отголоски Великого Раскола**</a> – пассивный талант, меняющий АоЕ ротацию. Усиливает [Землетрясение](https://ru.wowhead.com/spell=61882) после применения [Земного шока](https://ru.wowhead.com/spell=8042) на **60%/120%** (на **80%/140%** после применения [Удара духов стихий](https://ru.wowhead.com/spell=117014)). С этим талантом стоит чередовать [Земной шок](https://ru.wowhead.com/spell=8042) и [Землетрясение](https://ru.wowhead.com/spell=61882) (или [Удар духов стихий](https://ru.wowhead.com/spell=117014) и [Землетрясение](https://ru.wowhead.com/spell=61882)).
 
 <details markdown=1><summary><i>Подробнее...</i></summary>
 <p></p>
@@ -1655,28 +1760,28 @@ Flash of Lightning                                  | yes | no
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=386443" target="blank" data-wh-icon-size="small" >**Перекатывающаяся магма**</a> – пассивный талант, позволяет [Выбросу лавы](https://ru.wowhead.com/spell=51505) и его [Перегрузкам](https://ru.wowhead.com/spell=168534) сокращать кулдаун [Первозданной волны](https://ru.wowhead.com/spell=375982) на **0.5/1** секунду.
+<a href="https://ru.wowhead.com/spell=386443" target="blank" data-wh-icon-size="medium" >**Перекатывающаяся магма**</a> – пассивный талант, позволяет [Выбросу лавы](https://ru.wowhead.com/spell=51505) и его [Перегрузкам](https://ru.wowhead.com/spell=168534) сокращать кулдаун [Первозданной волны](https://ru.wowhead.com/spell=375982) на **0.5/1** секунду.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=382032" target="blank" data-wh-icon-size="small" >**Камера эхо**</a> – пассивный талант, увеличивает урон от [Перегрузки](https://ru.wowhead.com/spell=168534) на **8%/15%**, то есть с **85%** до **100%**. С этим талантом проки Искусности наносят такой же урон, как и обычные заклинания. 
+<a href="https://ru.wowhead.com/spell=382032" target="blank" data-wh-icon-size="medium" >**Камера эхо**</a> – пассивный талант, увеличивает урон от [Перегрузки](https://ru.wowhead.com/spell=168534) на **8%/15%**, то есть с **85%** до **100%**. С этим талантом проки Искусности наносят такой же урон, как и обычные заклинания. 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=381785" target="blank" data-wh-icon-size="small" >**Клятва провидца**</a> – пассивный талант, увеличивает Скорость во время активного [Перерождения](https://ru.wowhead.com/spell=114050) на **7%/15%** и снижает его время восстановления на **30/60** секунд. Увеличение Скорости также работает во время прока [Укоренившихся стихий](https://ru.wowhead.com/spell=378270). 
+<a href="https://ru.wowhead.com/spell=381785" target="blank" data-wh-icon-size="medium" >**Клятва провидца**</a> – пассивный талант, увеличивает Скорость во время активного [Перерождения](https://ru.wowhead.com/spell=114050) на **7%/15%** и снижает его время восстановления на **30/60** секунд. Увеличение Скорости также работает во время прока [Укоренившихся стихий](https://ru.wowhead.com/spell=378270). 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=381932" target="blank" data-wh-icon-size="small" >**Магматическая камера**</a> – пассивный талант, каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) увеличивает урон вашего следующего [Земного шока](https://ru.wowhead.com/spell=8042), [Землетрясения](https://ru.wowhead.com/spell=61882) или [Удара духов стихий](https://ru.wowhead.com/spell=117014) на **1.5%/3%**. Максимум **20** стаков.
+<a href="https://ru.wowhead.com/spell=381932" target="blank" data-wh-icon-size="medium" >**Магматическая камера**</a> – пассивный талант, каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) увеличивает урон вашего следующего [Земного шока](https://ru.wowhead.com/spell=8042), [Землетрясения](https://ru.wowhead.com/spell=61882) или [Удара духов стихий](https://ru.wowhead.com/spell=117014) на **1.5%/3%**. Максимум **20** стаков.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
-<a href="https://ru.wowhead.com/spell=381782" target="blank" data-wh-icon-size="small" >**Жгучее пламя**</a> – пассивный талант, каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) дает **1/2** единицы энергии Водоворота.
+<a href="https://ru.wowhead.com/spell=381782" target="blank" data-wh-icon-size="medium" >**Жгучее пламя**</a> – пассивный талант, каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) дает **1/2** единицы энергии Водоворота.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -1684,30 +1789,30 @@ Flash of Lightning                                  | yes | no
 ## Десятый ряд
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=210689" target="blank" data-wh-icon-size="small" >**Грозовой разрядник**</a> – пассивный талант, позволяет [Земному шоку](https://ru.wowhead.com/spell=8042), [Землетрясению](https://ru.wowhead.com/spell=61882) или [Удару духов стихий](https://ru.wowhead.com/spell=117014) накладывать на цель дебафф, который в течение **8** секунд наносит этой цели **20%** урона от всех [Молний](https://ru.wowhead.com/spell=188196) и [Цепных молний](https://ru.wowhead.com/spell=188443).
+* <a href="https://ru.wowhead.com/spell=210689" target="blank" data-wh-icon-size="medium" >**Грозовой разрядник**</a> – пассивный талант, позволяет [Земному шоку](https://ru.wowhead.com/spell=8042), [Землетрясению](https://ru.wowhead.com/spell=61882) или [Удару духов стихий](https://ru.wowhead.com/spell=117014) накладывать на цель дебафф, который в течение **8** секунд наносит этой цели **20%** урона от всех [Молний](https://ru.wowhead.com/spell=188196) и [Цепных молний](https://ru.wowhead.com/spell=188443).
 
-* <a href="https://ru.wowhead.com/spell=191634" target="blank" data-wh-icon-size="small" >**Хранитель бурь**</a> – дубликат такого же заклинания из [шестого ряда](https://stormkeeper.ru/ele/spells.html#%D1%88%D0%B5%D1%81%D1%82%D0%BE%D0%B9-%D1%80%D1%8F%D0%B4-1) талантов. Взятие двух этих талантов даст вам два заряда этой способности, позволяя не терять время восстановления при использовании одного из зарядов.
+* <a href="https://ru.wowhead.com/spell=191634" target="blank" data-wh-icon-size="medium" >**Хранитель бурь**</a> – дубликат такого же заклинания из [шестого ряда](https://stormkeeper.ru/ele/spells.html#%D1%88%D0%B5%D1%81%D1%82%D0%BE%D0%B9-%D1%80%D1%8F%D0%B4-1) талантов. Взятие двух этих талантов даст вам два заряда этой способности, позволяя не терять время восстановления при использовании одного из зарядов.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=386474" target="blank" data-wh-icon-size="small" >**Первозданный выброс**</a> – пассивный талант, после применения [Первозданной волны](https://ru.wowhead.com/spell=375982) вы получаете прок [Волны лавы](https://www.wowhead.com/ru/spell=77756/) каждые **3** секунды в течение **12** секунд. Эти проки также увеличивают урон [Выброса лавы](https://ru.wowhead.com/spell=51505) на **20%**.
+* <a href="https://ru.wowhead.com/spell=386474" target="blank" data-wh-icon-size="medium" >**Первозданный выброс**</a> – пассивный талант, после применения [Первозданной волны](https://ru.wowhead.com/spell=375982) вы получаете прок [Волны лавы](https://www.wowhead.com/ru/spell=77756/) каждые **3** секунды в течение **12** секунд. Эти проки также увеличивают урон [Выброса лавы](https://ru.wowhead.com/spell=51505) на **20%**.
 
-* <a href="https://ru.wowhead.com/spell=382042" target="blank" data-wh-icon-size="small" >**Расколотые стихии**</a> – пассивный талант, усиливает [Первозданную волну](https://ru.wowhead.com/spell=375982). Дает бафф на **10%** Скорости за каждую пораженную дублированным [Выбросом лавы](https://ru.wowhead.com/spell=51505) цель. Максимум **6** целей (ограничение  [Огненного шока](https://ru.wowhead.com/spell=188389)).
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-<a href="https://ru.wowhead.com/spell=381726" target="blank" data-wh-icon-size="small" >**Горы не вечны**</a> – пассивный талант, позволяет [Искусности](https://ru.wowhead.com/spell=168534) работать на [Земной шок](https://ru.wowhead.com/spell=8042), [Землетрясение](https://ru.wowhead.com/spell=61882) и [Удар духов стихий](https://ru.wowhead.com/spell=117014) со сниженной на **50%** эффективностью.
-
+* <a href="https://ru.wowhead.com/spell=382042" target="blank" data-wh-icon-size="medium" >**Расколотые стихии**</a> – пассивный талант, усиливает [Первозданную волну](https://ru.wowhead.com/spell=375982). Дает бафф на **10%** Скорости за каждую пораженную дублированным [Выбросом лавы](https://ru.wowhead.com/spell=51505) цель. Максимум **6** целей (ограничение  [Огненного шока](https://ru.wowhead.com/spell=188389)).
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=381787" target="blank" data-wh-icon-size="small" >**Далекие пределы**</a> – пассивный талант, позволяет [Земному шоку](https://ru.wowhead.com/spell=8042) и [Землетрясению](https://ru.wowhead.com/spell=61882) продлевать активное [Перерождение](https://ru.wowhead.com/spell=114050) на **2.5** секунд, а [Удару духов стихий](https://ru.wowhead.com/spell=117014) – на **3.5** секунд.
+<a href="https://ru.wowhead.com/spell=381726" target="blank" data-wh-icon-size="medium" >**Горы не вечны**</a> – пассивный талант, позволяет [Искусности](https://ru.wowhead.com/spell=168534) работать на [Земной шок](https://ru.wowhead.com/spell=8042), [Землетрясение](https://ru.wowhead.com/spell=61882) и [Удар духов стихий](https://ru.wowhead.com/spell=117014) со сниженной на **50%** эффективностью.
+
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=381787" target="blank" data-wh-icon-size="medium" >**Далекие пределы**</a> – пассивный талант, позволяет [Земному шоку](https://ru.wowhead.com/spell=8042) и [Землетрясению](https://ru.wowhead.com/spell=61882) продлевать активное [Перерождение](https://ru.wowhead.com/spell=114050) на **2.5** секунд, а [Удару духов стихий](https://ru.wowhead.com/spell=117014) – на **3.5** секунд.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -1715,10 +1820,10 @@ Flash of Lightning                                  | yes | no
 
 
 Один из двух талантов на выбор:
-* <a href="https://ru.wowhead.com/spell=378268" target="blank" data-wh-icon-size="small" >**Извержение говорящего с ветром**</a> – пассивный талант, после использования [Земного шока](https://ru.wowhead.com/spell=8042), [Землетрясения](https://ru.wowhead.com/spell=61882) и [Удара духов стихий](https://ru.wowhead.com/spell=117014) вы получаете [Волну лавы](https://www.wowhead.com/ru/spell=77756/), а урон следующего [Выброса лавы](https://ru.wowhead.com/spell=51505) увеличен на **10%**.
+* <a href="https://ru.wowhead.com/spell=378268" target="blank" data-wh-icon-size="medium" >**Извержение говорящего с ветром**</a> – пассивный талант, после использования [Земного шока](https://ru.wowhead.com/spell=8042), [Землетрясения](https://ru.wowhead.com/spell=61882) и [Удара духов стихий](https://ru.wowhead.com/spell=117014) вы получаете [Волну лавы](https://www.wowhead.com/ru/spell=77756/), а урон следующего [Выброса лавы](https://ru.wowhead.com/spell=51505) увеличен на **10%**.
 
 
-* <a href="https://ru.wowhead.com/spell=378310" target="blank" data-wh-icon-size="small" >**Огненная гибель "Усмирителя небес"**</a> – пассивный таланат, повышает шанс Критического удара [Огненного шока](https://ru.wowhead.com/spell=188389) на **50%**, а каждый критический тик [Огненного шока](https://ru.wowhead.com/spell=188389) снижает кулдаун [Элементаля огня](https://www.wowhead.com/ru/spell=198067) / [Элементаля бури](https://www.wowhead.com/ru/spell=192249) на **1** секунду.
+* <a href="https://ru.wowhead.com/spell=378310" target="blank" data-wh-icon-size="medium" >**Огненная гибель "Усмирителя небес"**</a> – пассивный таланат, повышает шанс Критического удара [Огненного шока](https://ru.wowhead.com/spell=188389) на **50%**, а каждый критический тик [Огненного шока](https://ru.wowhead.com/spell=188389) снижает кулдаун [Элементаля огня](https://www.wowhead.com/ru/spell=198067) / [Элементаля бури](https://www.wowhead.com/ru/spell=192249) на **1** секунду.
 
 <p></p>
 
