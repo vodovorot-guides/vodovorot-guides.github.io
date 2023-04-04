@@ -179,7 +179,7 @@ image: /assets/img/logos/spells.png
 * Обратная ситуация – если во время полета [Выброса лавы](https://ru.wowhead.com/spell=51505) закончится {{ site.data.spells.fs }}, то критический удар не гарантируется.
 * Характеристика Критический удар **НЕ ВЛИЯЕТ** на урон [Выброса лавы](https://ru.wowhead.com/spell=51505) (не считая активного таланта [Перерождение](https://ru.wowhead.com/spell=114050)).
 * Усиливается следующими талантами:
-  * [Лед и пламя](https://ru.wowhead.com/spell=382886) –  **3%** урона.
+  * [Лед и пламя](https://ru.wowhead.com/spell=382886) – добавляет **3%** урона.
   * [Волна лавы](https://ru.wowhead.com/spell=77756) – каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) имеет **10%** шанс восстановить [Выброс лавы](https://ru.wowhead.com/spell=51505) и сделать его мгновенным.
   * [Зов огня](https://ru.wowhead.com/spell=378255) – добавляет **10%** урона.
   * [Улучшенное оружие языка пламени](https://ru.wowhead.com/spell=382027) – добавляет **5%** урона. 
@@ -191,7 +191,10 @@ image: /assets/img/logos/spells.png
   * [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=378268) – увеличивает урон на **10%** и дает гарантированный прок [Волны лавы](https://ru.wowhead.com/spell=77756).
   * [Перерождение](https://www.wowhead.com/ru/spell=114050) – во время действия баффа пропадает кулдаун и урон увеличивается на значение шанса Критического удара.
   * [Первозданная волна](https://www.wowhead.com/ru/spell=375982) – позволяет поразить всех противников, на которых действуют [Огненные шоки](https://ru.wowhead.com/spell=188389).
+  * [Перекатывающаяся магма](https://www.wowhead.com/ru/spell=386443) – каждый [Выброс лавы](https://ru.wowhead.com/spell=51505) сокращает КД [Первозданной волны](https://www.wowhead.com/ru/spell=375982)
   * [Волна жара](https://www.wowhead.com/ru/spell=386474) – добавляет **20%** урона.
+  * [Мощь Водоворота](https://www.wowhead.com/ru/spell=191861) – дает шанс усилить две следующие [Молнии](https://ru.wowhead.com/spell=188196) / [Цепные молнии](https://ru.wowhead.com/spell=188443).
+  * [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) — [Выброс лавы](https://ru.wowhead.com/spell=51505) добавляет **20%** урона следующему заклинанию, наносящему урон от школы магии природы, льда или физический.
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -217,7 +220,7 @@ image: /assets/img/logos/spells.png
 * При активном [Элементале огня](https://ru.wowhead.com/spell=198067) {{ site.data.spells.fs }} можно обновлять на **10.8** секунде, что даст [Огненный шок](https://ru.wowhead.com/spell=188389) длительностью **46.8** секунд.
 * Также при активном [Элементале огня](https://ru.wowhead.com/spell=198067) {{ site.data.spells.fs }} тикает на **25%** чаще, то есть раз в **1.5** секунды (без учета Скорости). Данный эффект **не работает** с [Элементалем бури](https://ru.wowhead.com/spell=192249).
 * Усиливается следующими талантами:
-  * [Лед и пламя](https://ru.wowhead.com/spell=382886) –  **3%** урона.
+  * [Лед и пламя](https://ru.wowhead.com/spell=382886) – добавляет **3%** урона.
   * [Волна лавы](https://ru.wowhead.com/spell=77756) – каждый тик имеет **10%** шанс восстановить [Выброс лавы](https://ru.wowhead.com/spell=51505) и сделать его мгновенным.
   * [Зов огня](https://ru.wowhead.com/spell=378255) – добавляет **10%** урона.
   * [Пламя Котла](https://ru.wowhead.com/spell=378266) – снижает КД на **1.5** секунды и увеличивает скорость тиков на **15%**.
@@ -232,7 +235,7 @@ image: /assets/img/logos/spells.png
 
 
 
-<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="medium" >**Ледяная ярость**</a> – бурст с кулдауном **30** секунд, усиливает **4** следующих [Ледяных шока](https://ru.wowhead.com/spell=196840), увеличивая их урон в **3.25** раз и позволяя им генерировать **14** единиц энергии Водоворота. 
+<a href="https://ru.wowhead.com/spell=210714" target="blank" data-wh-icon-size="medium" >**Ледяная ярость**</a> – способность с кулдауном **30** секунд, усиливает **4** следующих [Ледяных шока](https://ru.wowhead.com/spell=196840), увеличивая их урон в **3.25** раз и позволяя им генерировать **14** единиц энергии Водоворота. 
 
 > Icefury, IF, ИФ, Айсфьюри.  
 
@@ -245,9 +248,9 @@ image: /assets/img/logos/spells.png
 * Усиливается следующими талантами:
   * [Расплавленная порода](https://ru.wowhead.com/spell=381776) – после применения [Ледяного шока](https://ru.wowhead.com/spell=196840) увеличивая урон [Выброса лавы](https://ru.wowhead.com/spell=51505) на **20%**.
   * [Электрический шок](https://ru.wowhead.com/spell=382086) – позволет [Ледяным шокам](https://ru.wowhead.com/spell=196840) бить сразу по **4** противником и накладывать на них дебафф, увеличивающий получаемый урон от силы природы на **15%** на **9** секунд.
-  * [Лед и пламя](https://ru.wowhead.com/spell=382886) –  **3%** урона.
+  * [Лед и пламя](https://ru.wowhead.com/spell=382886) – добавляет **3%** урона.
   * [Камера эхо](https://www.wowhead.com/ru/spell=382032/) – увеличивает урон от прока Искусности на **8%/15%**.
-
+  * [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) — добавляет **20%** урона.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -267,12 +270,65 @@ image: /assets/img/logos/spells.png
 * Усиливается следующими талантами:
   * [Расплавленная порода](https://ru.wowhead.com/spell=381776) – после применения [Ледяного шока](https://ru.wowhead.com/spell=196840) увеличивая урон [Выброса лавы](https://ru.wowhead.com/spell=51505) на **20%**.
   * [Электрический шок](https://ru.wowhead.com/spell=382086) – позволет [Ледяным шокам](https://ru.wowhead.com/spell=196840) бить сразу по **4** противником и накладывать на них дебафф, увеличивающий получаемый урон от силы природы на **15%** на **9** секунд.
-  * [Лед и пламя](https://ru.wowhead.com/spell=382886) –  **3%** урона.
+  * [Лед и пламя](https://ru.wowhead.com/spell=382886) – добавляет **3%** урона.
+  * [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) — добавляет **20%** урона.
 
 ## Спендеры
 
+<a href="https://ru.wowhead.com/spell=8042" target="blank" data-wh-icon-size="medium" >**Земной шок**</a> – наносит средний урон одной цели, применяется мгновенно и тратит **60** единиц энергии Водоворота. 
 
+> Earth Shock, ES (одно из значений), Ерсшок, ЕШ, ЗШ, Шок (одно из значений).
 
+* Кастуется и поражает цель мгновенно.
+* Наносит урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span>.
+* Базовая стоимость составляет **60** единиц энергии Водоворота, а с талантом [Око бури](https://www.wowhead.com/ru/spell=381708) – **50** единиц.
+* [Земной шок](https://ru.wowhead.com/spell=8042) заменяется на [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при взятии его в талантах.
+* Усиливается следующими талантами:
+  * [Гнев природы](https://www.wowhead.com/ru/spell=381655) – повышает на **2/4%** шанс Критического удара.
+  * [Повторный толчок](https://www.wowhead.com/ru/spell=273221) — дает **25%** шанс вернуть затраченную энергию Водоворота.
+  * [Прилив мощи](https://www.wowhead.com/ru/spell=262303) — усиливает следующее заклинание после применения [Земного шока](https://ru.wowhead.com/spell=8042).
+  * [Око бури](https://www.wowhead.com/ru/spell=381708) — снижает стоимость энергии Водоворота на **5/10** единиц.
+  * [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) — добавляет **20%** урона.
+  * [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087) — [Земной шок](https://ru.wowhead.com/spell=8042) усиливает урон следующего [Землетрясения](https://www.wowhead.com/ru/spell=61882/) на **60%/120%**.
+  * [Горы не вечны](https://www.wowhead.com/ru/spell=381726) — добавяет возможность активировать эффект [Перегрузки](https://ru.wowhead.com/spell=168534) со сниженным на **50%** эффективностью.
+  * [Камера эхо](https://www.wowhead.com/ru/spell=382032) — увеличивает урон от [Перегрузки](https://ru.wowhead.com/spell=168534).
+  * [Магматическая камера](https://ru.wowhead.com/spell=381932) – каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) увеличивает урон [Земного шока](https://ru.wowhead.com/spell=8042) на **1.5%/3%**, суммируется до **20** раз.
+  * [Далекие пределы](https://www.wowhead.com/ru/spell=381787) — [Земной шок](https://ru.wowhead.com/spell=8042) продлевает время действия [Перерождения](https://www.wowhead.com/ru/spell=114050) на **2.5** секунды.
+  * [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=378268/) — [Земной шок](https://ru.wowhead.com/spell=8042) дает эффект [Волны лавы](https://ru.wowhead.com/spell=77756) и увеличивает урон следующего [Выброса лавы](https://ru.wowhead.com/spell=51505) на **10%**.
+  * [Грозовой разрядник](https://www.wowhead.com/ru/spell=210689) – [Земной шок](https://ru.wowhead.com/spell=8042) накладывает на цель дебафф, который в течение **8** секунд наносит этой цели **20%** урона от всех [Молний](https://ru.wowhead.com/spell=188196) и [Цепных молний](https://ru.wowhead.com/spell=188443).
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<a href="https://ru.wowhead.com/spell=117014" target="blank" data-wh-icon-size="medium" >**Удар духов стихий**</a> – заменяет {{ site.data.spells.es }}, наносит большой урон одной цели, кастуется **2** секунды, дает баффы на характеристики и стоит **90** единиц энергии Водоворота.
+
+> Elemental Blast, EB, УДС.  
+
+* При завершении каста вы получаете бафф на **10** секунд на одну случайную вторичную характеристику – Критический удар, Скорость или Искусность.
+* Время произнесения – **2** секунды.
+* Базовая стоимость составляет **90** единиц энергии Водоворота, а с талантом [Око бури](https://www.wowhead.com/ru/spell=381708) – **75** единиц.
+* Наносит урон от <span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>силы стихий</strong></span> (сочетание школ магии <span style="color:#26d22b;font-size:1em;">**природы**</span>, <span style="color:#f16f25;font-size:1em;">**огня**</span> и <span style="color:#8fd5fe;font-size:1em;">**льда**</span>) и стоит **2.75%** маны.
+* Заклинание с уроном от <span style="color:#e600a6;font-size:1em;background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><strong>силы стихий</strong></span> может применяться даже в том случае, если вам заблокировали любую школу магии, кроме всех трех одновременно.
+* Однако, если вы получите прерывание во время каста [Удара духов стихий](https://ru.wowhead.com/spell=117014), то вы не сможете применять заклинания с уроном от сил  <span style="color:#26d22b;font-size:1em;">**природы**</span>, <span style="color:#f16f25;font-size:1em;">**огня**</span> или <span style="color:#8fd5fe;font-size:1em;">**льда**</span>.
+* Эффект таланта [Равновесие стихий](https://www.wowhead.com/ru/spell=378271/) срабатывает от [Удара духов стихий](https://ru.wowhead.com/spell=117014), без необходимости каста трех различных заклинаний.
+* {{ site.data.spells.eb }} имеет время полета снаряда около **1** секунды для максимальной дистанции, при этом бафф на характеристику накладывается сразу же по завершению каста.
+* Усиливается следующими талантами:
+  * [Лед и пламя](https://ru.wowhead.com/spell=382886) – добавляет **3%** урона.
+  * [Гнев природы](https://www.wowhead.com/ru/spell=381655) – повышает на **2/4%** шанс Критического удара.
+  * [Повторный толчок](https://www.wowhead.com/ru/spell=273221) — дает **25%** шанс вернуть затраченную энергию Водоворота.
+  * [Прилив мощи](https://www.wowhead.com/ru/spell=262303) — усиливает следующее заклинание после применения [Земного шока](https://ru.wowhead.com/spell=8042).
+  * [Око бури](https://www.wowhead.com/ru/spell=381708) — снижает стоимость энергии Водоворота на **7/15** единиц.
+  * [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) — добавляет **20%** урона.
+  * [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087) — [Удар духов стихий](https://ru.wowhead.com/spell=117014) усиливает урон следующего [Землетрясения](https://www.wowhead.com/ru/spell=61882/) на **70%/140%**.
+  * [Горы не вечны](https://www.wowhead.com/ru/spell=381726) — добавяет возможность активировать эффект [Перегрузки](https://ru.wowhead.com/spell=168534) со сниженным на **50%** эффективностью. Прок [Перегрузки](https://ru.wowhead.com/spell=168534) гарантированно дает второй бафф, отличный от первого.
+  * [Камера эхо](https://www.wowhead.com/ru/spell=382032) — увеличивает урон от [Перегрузки](https://ru.wowhead.com/spell=168534).
+  * [Магматическая камера](https://ru.wowhead.com/spell=381932) – каждый тик [Огненного шока](https://ru.wowhead.com/spell=188389) увеличивает урон [Удара духов стихий](https://ru.wowhead.com/spell=117014) на **1.5%/3%**, суммируется до **20** раз.
+  * [Далекие пределы](https://www.wowhead.com/ru/spell=381787) — [Удар духов стихий](https://ru.wowhead.com/spell=117014) продлевает время действия [Перерождения](https://www.wowhead.com/ru/spell=114050) на **3.5** секунды.
+  * [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=378268/) — [Удар духов стихий](https://ru.wowhead.com/spell=117014) дает эффект [Волны лавы](https://ru.wowhead.com/spell=77756) и увеличивает урон следующего [Выброса лавы](https://ru.wowhead.com/spell=51505) на **10%**.
+  * [Грозовой разрядник](https://www.wowhead.com/ru/spell=210689) – [Удар духов стихий](https://ru.wowhead.com/spell=117014) накладывает на цель дебафф, который в течение **8** секунд наносит этой цели **20%** урона от всех [Молний](https://ru.wowhead.com/spell=188196) и [Цепных молний](https://ru.wowhead.com/spell=188443).
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
 # Основные способности
