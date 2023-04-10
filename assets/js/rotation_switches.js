@@ -126,7 +126,7 @@ $('button#build_lightning_mplus_ele').on('click', function() {
 });
 
 $('button#build_physical_enh').on('click', function() {
-    on_build_button_click(this, ["totem", "ic", "dre", "eb", "fw"]);
+    on_build_button_click(this, ["totem", "ic", "dre", "eb", "dw", "fw"]);
     return false;
 });
 
