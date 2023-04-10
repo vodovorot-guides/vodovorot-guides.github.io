@@ -190,8 +190,8 @@ custom-javascript-list:
   <div class="btn-group" role="group">
     <button type="button" id="build_physical_enh" class="btn btn-primary rotation-btn">Физический билд (СТ)</button>
     <button type="button" id="build_elemental_enh" class="btn btn-primary rotation-btn">Стихийный билд (СТ)</button>
-    <button type="button" id="build_hybrid_mplus_enh" class="btn btn-primary rotation-btn">Гибридный билд (Мифик+)</button>
     <button type="button" id="build_elemental_mplus_enh" class="btn btn-primary rotation-btn">Стихийный билд (Мифик+)</button>
+    <button type="button" id="build_hybrid_mplus_enh" class="btn btn-primary rotation-btn">Гибридный билд (Мифик+)</button>
   </div>
 </div>
 
