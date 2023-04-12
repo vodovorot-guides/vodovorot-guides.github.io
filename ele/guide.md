@@ -368,7 +368,7 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-**Бой против одной цели:**
+**Приоритет в бою против одной цели:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
   * {:.comm-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067) является нашим бурстом и его следует кастовать по кулдауну.
 1. {:.fire-apl .primal-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
@@ -454,7 +454,7 @@ custom-javascript-list:
 <p></p>
 
 
-**АоЕ бой:**
+**Приоритет в бою на АоЕ:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
   * {:.primal-apl .fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
 1. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
