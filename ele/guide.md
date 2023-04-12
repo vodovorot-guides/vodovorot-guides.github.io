@@ -469,16 +469,16 @@ custom-javascript-list:
 1. {:.pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) максимальное количество целей и у вас есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=375982).
 1. {:.dre-apl targets="<4"}[Выброс лавы](https://ru.wowhead.com/spell=51505) в цель с наибольшим количеством здоровья.
 1. {:.dre-apl .ls-apl targets=">3"}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
-1. {:.no-eogs-apl .no-eb-apl targets="<4"}[Землетрясение](https://ru.wowhead.com/spell=61882).
-1. {:.no-eogs-apl .eb-apl targets=">3"}[Землетрясение](https://ru.wowhead.com/spell=61882).
-1. {:.no-eogs-apl .eb-apl targets="<4"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
-1. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) c баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
-1. {:.no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
-1. {:.eb-apl .eogs-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
-1. {:.dre-apl targets=">3"}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
-1. {:.if-apl .es-apl targets="<5"}[Ледяной шок](https://ru.wowhead.com/spell=196840), если на целях нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
-1. {:.if-apl .es-apl targets="<5"}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
-1. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
+3. {:.no-eogs-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
+4. {:.no-eogs-apl .eb-apl targets=">3"}[Землетрясение](https://ru.wowhead.com/spell=61882).
+6. {:.no-eogs-apl .eb-apl targets="<4"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
+7. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) c баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+8. {:.no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+9. {:.eb-apl .eogs-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014), если у вас нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+10. {:.dre-apl targets=">3"}[Поток лавы](https://www.wowhead.com/ru/spell=114074/) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+11. {:.if-apl .es-apl targets="<5"}[Ледяной шок](https://ru.wowhead.com/spell=196840), если на целях нет дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
+12. {:.if-apl .es-apl targets="<5"}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
+13. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 
 
 
