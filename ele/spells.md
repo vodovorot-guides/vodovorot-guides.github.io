@@ -88,17 +88,12 @@ image: /assets/img/logos/spells.png
 * Атакующие заклинания стоят некоторое количество маны, но это значение покрывается регенерацией маны.
 * Полный запас с **0%** до **100%** восстанавливается за **~31** секунд.
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
 
 
 # Основные способности
 
 ## Генераторы ресурса
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 <a href="https://ru.wowhead.com/spell=188196" target="blank" data-wh-icon-size="medium" >**Молния**</a> – филлер в бою против одной цели. 
 
@@ -389,13 +384,10 @@ image: /assets/img/logos/spells.png
   * [Далекие пределы](https://www.wowhead.com/ru/spell=381787) — [Землетрясение](https://ru.wowhead.com/spell=61882) продлевает время действия [Перерождения](https://www.wowhead.com/ru/spell=114050) на **2.5** секунды.
   * [Грозовой разрядник](https://www.wowhead.com/ru/spell=210689) – [Землетрясение](https://ru.wowhead.com/spell=61882) накладывает на случайную цель дебафф, который в течение **8** секунд наносит этой цели **20%** урона от всех [Молний](https://ru.wowhead.com/spell=188196) и [Цепных молний](https://ru.wowhead.com/spell=188443).
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 ## Бурсты
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+
 
 <a href="https://ru.wowhead.com/spell=198067" target="blank" data-wh-icon-size="medium" >**Элементаль огня**</a> – наносит урон и усиливает [Огненные шоки](https://ru.wowhead.com/spell=188389) на **30** секунд с кулдауном **2:30** минут.
 
@@ -509,15 +501,13 @@ image: /assets/img/logos/spells.png
   * [Тотемное средоточие](https://www.wowhead.com/ru/spell=382201) – увеличивает радиус, но не время действия тотема.
   * [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285) – сбрасывает кулдаун последнего примененного тотема.
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+
 
 # Вспомогательные способности
 
 ## Защита
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+
 
 <a href="https://ru.wowhead.com/spell=108271" target="blank" data-wh-icon-size="medium" >**Астральный сдвиг**</a> – основной сейв. Снижает получаемый урон на **40%** на **12** секунд с кулдауном **2** минуты. 
 
@@ -584,13 +574,10 @@ image: /assets/img/logos/spells.png
 Помимо перечисленных выше заклинаний, защитной способностью также является [Призрачный волк](https://ru.wowhead.com/spell=2645) с талантом [Дух волка](https://ru.wowhead.com/spell=260878), снижающий получаемый урон на **20%**. О нем рассказно в разделе [Передвижение](https://stormkeeper.ru/ele/spells.html#%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5).
 {: class="bordered"}
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 ## Лечение
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+
 
 <a href="https://ru.wowhead.com/spell=8004" target="blank" data-wh-icon-size="medium" >**Исцеляющий всплеск**</a> – быстрое лечение одной цели.
 
@@ -712,13 +699,11 @@ image: /assets/img/logos/spells.png
   * [Кружащие стихии](https://www.wowhead.com/ru/spell=383010) – позволяет поддерживать на себе два стихийных щита, а также применять [Щит земли](https://ru.wowhead.com/spell=974) к себе и к союзнику.
   * [Ободряющие щиты](https://www.wowhead.com/ru/spell=382033/) увеличивает лечение на **13%/25%.
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+
 
 ## Передвижение
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+
 
 <a href="https://ru.wowhead.com/spell=2645" target="blank" data-wh-icon-size="medium" >**Призрачный волк**</a> – превращение в призрачного волка, который увеличивает скорость передвижения, но применение заклинаний отменяет эффект.
 
@@ -822,14 +807,12 @@ image: /assets/img/logos/spells.png
   * [Тотемное средоточие](https://www.wowhead.com/ru/spell=382201) – увеличивает радиус и время действия тотема.
   * [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285) – сбрасывает кулдаун последнего примененного тотема.
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+
 
 ## Контроль
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+
 
 
 <a href="https://ru.wowhead.com/spell=57994" target="blank" data-wh-icon-size="medium" >**Пронизывающий ветер**</a> – прерывание заклинания противника.
@@ -983,15 +966,11 @@ image: /assets/img/logos/spells.png
 
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 
 
 ## Другое
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 <a href="https://ru.wowhead.com/spell=2825" target="blank" data-wh-icon-size="medium" >**Жажда крови**</a> / <a href="https://ru.wowhead.com/spell=32182" target="blank" data-wh-icon-size="medium" >**Героизм**</a> – бафф, повышающий Скорость союзников на **30%** на **40** секунд. Не сочетается с другими подобными заклинаниями.
 
