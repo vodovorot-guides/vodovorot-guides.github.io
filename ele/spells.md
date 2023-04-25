@@ -29,8 +29,7 @@ image: /assets/img/logos/spells.png
 
 # Ресурсы
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+
 
 <a href="https://ru.wowhead.com/spell=343725" target="blank" data-wh-icon-size="medium" >**Водоворот**</a> – основной ресурс, генерируется одними заклинаниями и тратится на другие.
 
