@@ -212,7 +212,7 @@ image: /assets/img/logos/abbrevs.png
 * {{ site.data.spells.is }} – Ice Strike, IS, Айс страйк.
 * {{ site.data.spells.hailstorm }} – Hailstorm, HS, Хейлшторм, Буря, бафф фрост шока.
 * {{ site.data.spells.fn }} – Fire Nova, FN, ФН, Фаер нова, Нова.
-* [Ветра рока](https://www.wowhead.com/ru/spell=384352) – Doom Winds, Дум Виндс.
+* [Ветра рока](https://www.wowhead.com/ru/spell=384352) – Doom Winds, DW, ДВ, Ветра, Дум Виндс.
 * {{ site.data.spells.sunder }} – Sundering, Сандер.
 * [Бурлящий Водоворот](https://www.wowhead.com/ru/spell=384149) – Overflowing Maelstrom, Спенд 10 водоворота.
 * {{ site.data.spells.wt }} – Windfury Totem, WT, ВФ тотем.
