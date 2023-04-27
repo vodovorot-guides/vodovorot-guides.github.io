@@ -477,9 +477,6 @@ image: /assets/img/logos/spells.png
 
 
 
-
-# Вспомогательные способности
-
 ## Защита
 
 
