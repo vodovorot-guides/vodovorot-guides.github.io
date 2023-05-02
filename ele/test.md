@@ -6,7 +6,7 @@ wow: 10.1
 toc: true
 author: Amani
 description: В этой статье вы найдете подробное описание всех изменений Шамана в патче 10.1.
-image: /assets/img/logos/embers.jpg
+image: /assets/img/embers.jpg
 ---
 
 
