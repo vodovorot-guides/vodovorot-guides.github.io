@@ -110,20 +110,26 @@ function on_build_button_click(button, talent_list) {
     button.blur();
 }
 
-$('button#build_fire_ele').on('click', function() {
+$('button#build_ele_fire_raid').on('click', function() {
     on_build_button_click(this, ["fire", "pw", "dre", "mote", "if", "ls", "eb"]);
     return false;
 });
 
-$('button#build_fire_mplus_ele').on('click', function() {
+$('button#build_ele_fire_mplus').on('click', function() {
     on_build_button_click(this, ["fire", "lmt", "pw", "sk", "dre", "sop", "mote", "if", "es", "ls", "eb"]);
     return false;
 });
 
-$('button#build_lightning_mplus_ele').on('click', function() {
-    on_build_button_click(this, ["storm", "primal", "sk", "sop", "mote", "if", "es", "eb", "eogs"]);
+$('button#build_ele_storm_raid').on('click', function() {
+    on_build_button_click(this, ["storm", "ls", "sk", "sop", "mote", "if", "es", "eb", "2p", "4p"]);
     return false;
 });
+
+$('button#build_ele_storm_mplus').on('click', function() {
+    on_build_button_click(this, ["storm", "sk", "sop", "mote", "if", "es", "eb", "eogs", "2p", "4p"]);
+    return false;
+});
+
 
 $('button#build_enh_phys_raid').on('click', function() {
     on_build_button_click(this, ["totem", "ic", "dre", "eb", "dw", "fw", "2p", "4p"]);
