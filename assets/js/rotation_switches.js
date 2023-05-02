@@ -135,7 +135,6 @@ $('button#build_enh_phys_mplus').on('click', function() {
     return false;
 });
 
-
 $('button#build_enh_elem_raid').on('click', function() {
     on_build_button_click(this, ["totem", "asc", "ic", "hs", "eb", "hh", "lf", "es", "4p"]);
     return false;
