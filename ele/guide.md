@@ -112,7 +112,7 @@ custom-javascript-list:
 
 
 
-<details markdown=1><summary><b>Основной <span style="color:#71d5ff;font-size:1em;">молниевый</span> билд для боя против одной цели:</b></summary>
+<details markdown=1><summary><b><span style="color:#71d5ff;font-size:1em;">Молниевый</span> билд для боя против одной цели:</b></summary>
 <p></p>
 
 <p></p>
@@ -129,7 +129,7 @@ custom-javascript-list:
 
 
 
-<details markdown=1><summary><b>Гибридный <span style="color:#71d5ff;font-size:1em;">молниевый</span> билд для рейда:</b></summary>
+<details markdown=1><summary><b><span style="color:#71d5ff;font-size:1em;">Молниевый</span> билд для рейда, гибридный на СТ и АоЕ:</b></summary>
 <p></p>
 
 <p></p>
@@ -174,7 +174,7 @@ custom-javascript-list:
 
 
 
-<details markdown=1><summary><b>Основной <span style="color:#71d5ff;font-size:1em;">молниевый</span> билд для Мифик+ и АоЕ:</b></summary>
+<details markdown=1><summary><b><span style="color:#71d5ff;font-size:1em;">Молниевый</span> билд для Мифик+ и АоЕ:</b></summary>
 <p></p>
 
 <p></p>
@@ -209,10 +209,10 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_ele_fire_raid" class="btn btn-primary rotation-btn">Огненный билд (СТ)</button>
-    <button type="button" id="build_ele_fire_mplus" class="btn btn-primary rotation-btn">Огненный билд (Мифик+)</button>
     <button type="button" id="build_ele_storm_raid" class="btn btn-primary rotation-btn">Молниевый билд (СТ)</button>
-    <button type="button" id="build_ele_storm_mplus" class="btn btn-primary rotation-btn">Молниевый билд (Мифик+)</button>
+    <button type="button" id="build_ele_storm_mplus" class="btn btn-primary rotation-btn">Молниевый билд (АоЕ)</button>
+    <button type="button" id="build_ele_fire_raid" class="btn btn-primary rotation-btn">Огненный билд (СТ)</button>
+    <button type="button" id="build_ele_fire_mplus" class="btn btn-primary rotation-btn">Огненный билд (АоЕ)</button>
   </div>
 </div>
 
@@ -280,6 +280,39 @@ custom-javascript-list:
 1. {:.sk-apl .sop-apl}Придержите [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) до набора достаточного количества энергии Водоворота, чтобы усилить [Молнию](https://ru.wowhead.com/spell=188196) [Приливом мощи](https://www.wowhead.com/ru/spell=262303/).
 1. Продолжайте обычную ротацию, указанную ниже.
 
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<details markdown=1><summary><b>Полная версия опенера для <span style="color:#71d5ff;font-size:1em;">молниевого</span> билда:</b></summary>
+<p></p>
+
+
+1. [Элементаль бури](https://ru.wowhead.com/spell=192249) за **3** секунды до пула.
+1. [Ледяная ярость](https://ru.wowhead.com/spell=210714) за **1.5** секунд до пула.
+1. [Огненный шок](https://www.wowhead.com/ru/spell=188389).
+1. [Ледяной шок](https://ru.wowhead.com/spell=196840).
+1. [Молния](https://ru.wowhead.com/spell=188196).
+2. {:.no-2p-apl no-4p-apl}[Молния](https://ru.wowhead.com/spell=188196).
+2. {:.no-2p-apl no-4p-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840).
+2. {:.no-2p-apl}[Молния](https://ru.wowhead.com/spell=188196).
+2. {:.no-4p-apl}[Молния](https://ru.wowhead.com/spell=188196).
+2. {:.no-2p-apl no-4p-apl}[Хранитель бурь](https://www.wowhead.com/ru/spell=191634/).
+2. {:.no-2p-apl no-4p-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
+1. [Выброс лавы](https://www.wowhead.com/ru/spell=51505).
+1. [Удар духов стихий](https://ru.wowhead.com/spell=117014).
+3. {:.4p-apl}[Хранитель бурь](https://www.wowhead.com/ru/spell=191634/).
+1. [Молния](https://ru.wowhead.com/spell=188196).
+1. [Ледяной шок](https://ru.wowhead.com/spell=196840).
+1. [Молния](https://ru.wowhead.com/spell=188196).
+1. [Удар духов стихий](https://ru.wowhead.com/spell=117014).
+1. [Молния](https://ru.wowhead.com/spell=188196).
+
+
+
+
+</details>
+<p></p>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
