@@ -126,22 +126,22 @@ $('button#build_lightning_mplus_ele').on('click', function() {
 });
 
 $('button#build_enh_phys_raid').on('click', function() {
-    on_build_button_click(this, ["totem", "ic", "dre", "eb", "dw", "fw", "4p"]);
+    on_build_button_click(this, ["totem", "ic", "dre", "eb", "dw", "fw", "2p", "4p"]);
     return false;
 });
 
 $('button#build_enh_phys_mplus').on('click', function() {
-    on_build_button_click(this, ["totem", "cl", "dre", "fn", "dw", "fw", "4p"]);
+    on_build_button_click(this, ["totem", "cl", "dre", "fn", "dw", "fw", "2p", "4p"]);
     return false;
 });
 
 $('button#build_enh_elem_raid').on('click', function() {
-    on_build_button_click(this, ["totem", "asc", "ic", "hs", "eb", "hh", "lf", "es", "4p"]);
+    on_build_button_click(this, ["totem", "asc", "ic", "hs", "eb", "hh", "lf", "es", "2p", "4p"]);
     return false;
 });
 
 $('button#build_enh_elem_mplus').on('click', function() {
-    on_build_button_click(this, ["totem", "cl", "ic", "hs", "pw", "hh", "lf", "es", "4p"]);
+    on_build_button_click(this, ["cl", "ic", "hs", "pw", "hh", "lf", "es", "2p", "4p"]);
     return false;
 });
 

@@ -282,18 +282,16 @@ custom-javascript-list:
 12. {:.4p-apl}[Цепная молния](https://ru.wowhead.com/spell=188443) с баффом от сет-бонуса [Трескучий гром](https://www.wowhead.com/ru/spell=409834/) и при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 17. {:.dw-apl .ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 18. {:.dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-19. {:.dw-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+19. {:.dw-apl .no-2p-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 15. {:.eb-apl .dre-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) если у вас **2** заряда этой способности и **8+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 21. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 20. [Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
 30. {:.dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
-22. {:.no-es-apl .fw-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) с баффом от таланта [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450).
-23. {:.es-apl .fw-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) с баффами от талантов [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) и/или [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 24. {:.ic-apl .hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 25. {:.hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
 33. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если время действия [Огненного шока](https://ru.wowhead.com/spell=188389) менее **5.4** секунд.
 15. {:.eb-apl .dre-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-27. {:.no-eb-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+27. {:.no-eb-apl .no-asc-apl .no-dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 29. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 33. {:.no-dre-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
 31. {:.no-dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
