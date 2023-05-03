@@ -493,7 +493,7 @@ custom-javascript-list:
 
 ## Приоритет характеристик
 
-Приоритет статов для **всех** <span style="color:#71d5ff;font-size:1em;">Молниевый</span> билдов и **всех** типов PvE контента следующий:
+Приоритет статов для **всех** <span style="color:#71d5ff;font-size:1em;">Молниевых</span> билдов и **всех** типов PvE контента следующий:
 
 * **Интеллект** > **Скорость** = **Критический удар** > **Универсальность** > **Искусность**.
 
@@ -512,7 +512,7 @@ custom-javascript-list:
 <p></p>
 
 
-<details markdown=1><summary><b>Подробности про 2 части комплекта:</b></summary>
+<details markdown=1><summary><i>Подробнее про 2 части комплекта...</i></summary>
 <p></p>
 
 Подробности про **2** части комплекта:
@@ -538,7 +538,7 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<details markdown=1><summary><b>Подробности про 4 части комплекта:</b></summary>
+<details markdown=1><summary><i>Подробнее про 4 части комплекта...</i></summary>
 <p></p>
 
 * Эффект [Изначального разлома](https://www.wowhead.com/ptr/spell=410018/) накладывается только после траты **всех** стаков [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
