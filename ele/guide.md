@@ -394,11 +394,6 @@ custom-javascript-list:
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снятие эффектов яда.
 * [Сглаз](https://www.wowhead.com/ru/spell=51514) – контроль одного противника.
 
-<p></p>
-
-{% include button.html name="Выбор утилити талантов в Мифик+" link="https://stormkeeper.ru/info/utility.html" %}  
-
-<p></p>
 
 # Характеристики
 
