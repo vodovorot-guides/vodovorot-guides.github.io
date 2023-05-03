@@ -70,6 +70,7 @@ custom-javascript-list:
 2. Используйте [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) – у вас осталось **41** ед. Энергии Водоворота и вы получили бафф [Прилива мощи](https://www.wowhead.com/ru/spell=262303).
 3. Используйте [Молнию](https://ru.wowhead.com/spell=188196), после которой вылетят **3** [Перегрузки](https://ru.wowhead.com/spell=168534) (**1** от [Хранителя бурь](https://www.wowhead.com/ru/spell=191634) и **2** от [Прилива мощи](https://www.wowhead.com/ru/spell=262303)). У вас получится **63** ед. Энергии Водоворота.
 4. Используйте [Выброс лавы](https://www.wowhead.com/ru/spell=51505/), после чего будет **75** ед. Энергии Водоворота.
+5. Используйте второй [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) для получения баффа [Прилива мощи](https://www.wowhead.com/ru/spell=262303).
 6. Используйте вторую [Молнию](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://www.wowhead.com/ru/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303).
 
 
