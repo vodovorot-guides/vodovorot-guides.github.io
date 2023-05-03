@@ -655,7 +655,7 @@ custom-javascript-list:
 
 **Еду** следует использовать следующую:
 * [Большой калуакский банкет](https://www.wowhead.com/ru/item=197794): пир на множество игроков, увеличивает Ловкость.
-* [Печенье с судьбоносными предсказаниями](https://www.wowhead.com/ru/item=197792) / [Жестоко фаршированные яйца](https://www.wowhead.com/ru/item=204072/): аналог пира, но для одного игрока.
+* [Печенье с судьбоносными предсказаниями](https://www.wowhead.com/ru/item=197792) или [Жестоко фаршированные яйца](https://www.wowhead.com/ru/item=204072/): аналог пира, но для одного игрока.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -668,6 +668,7 @@ custom-javascript-list:
 
 
 * [Драконья руна усиления](https://www.wowhead.com/ru/item=201325): руна на Ловкость, спадающая при смерти.
+* [Затененная руна усиления](https://www.wowhead.com/ru/item=181468/): дешевый вариант.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -676,6 +677,7 @@ custom-javascript-list:
 # Интерфейс
 
 В каждом билде Энх Шамана крайне важно отслеживать [Огненный шок](https://ru.wowhead.com/spell=188389) на целях. В стихийном билде также необходимо отслеживать [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046). Для отслеживания обоих этих дебаффов рекомендую использовать этот [мод на Plater](https://wago.io/o9Q7MSLDi).
+
 
 ## Макросы
 
