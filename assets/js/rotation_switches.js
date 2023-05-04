@@ -121,32 +121,32 @@ $('button#build_ele_fire_mplus').on('click', function() {
 });
 
 $('button#build_ele_storm_raid').on('click', function() {
-    on_build_button_click(this, ["storm", "ls", "sk", "sop", "mote", "if", "es", "eb", "2p", "4p"]);
+    on_build_button_click(this, ["storm", "ls", "sk", "sop", "mote", "if", "es", "eb"]);
     return false;
 });
 
 $('button#build_ele_storm_mplus').on('click', function() {
-    on_build_button_click(this, ["storm", "sk", "sop", "mote", "if", "es", "eb", "eogs", "2p", "4p"]);
+    on_build_button_click(this, ["storm", "sk", "sop", "mote", "if", "es", "eb", "eogs"]);
     return false;
 });
 
 $('button#build_enh_phys_raid').on('click', function() {
-    on_build_button_click(this, ["totem", "ic", "dre", "sa", "eb", "dw", "fw", "2p", "4p"]);
+    on_build_button_click(this, ["totem", "ic", "dre", "sa", "eb", "dw", "fw", "two", "four"]);
     return false;
 });
 
 $('button#build_enh_phys_mplus').on('click', function() {
-    on_build_button_click(this, ["cl", "dre", "sa", "fn", "dw", "fw", "2p", "4p"]);
+    on_build_button_click(this, ["cl", "dre", "sa", "fn", "dw", "fw", "two", "four"]);
     return false;
 });
 
 $('button#build_enh_elem_raid').on('click', function() {
-    on_build_button_click(this, ["totem", "asc", "sa", "ic", "hs", "eb", "hh", "lf", "es", "2p", "4p"]);
+    on_build_button_click(this, ["totem", "asc", "sa", "ic", "hs", "eb", "hh", "lf", "es", "two", "four"]);
     return false;
 });
 
 $('button#build_enh_elem_mplus').on('click', function() {
-    on_build_button_click(this, ["totem", "cl", "ic", "hs", "pw", "hh", "lf", "es", "2p", "4p"]);
+    on_build_button_click(this, ["totem", "cl", "ic", "hs", "pw", "hh", "lf", "es", "two", "four"]);
     return false;
 });
 

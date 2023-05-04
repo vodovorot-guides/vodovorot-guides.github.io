@@ -246,10 +246,6 @@ custom-javascript-list:
     <input class="form-check-input" type="checkbox" id="rotation_switch_primal"> [Повелитель изначальных стихий](https://www.wowhead.com/ru/spell=117013/)</li>
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_eogs"> [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087)</li>
-  <li markdown="span" class="rotation_switch">
-      <input class="form-check-input" type="checkbox" id="rotation_switch_2p"> [Две части сетового комплекта](https://www.wowhead.com/ptr/item-set=1550)</li>
-  <li markdown="span" class="rotation_switch">
-      <input class="form-check-input" type="checkbox" id="rotation_switch_4p"> [Четыре части сетового комплекта](https://www.wowhead.com/ptr/item-set=1550)</li>
 </ul>
 
 <center>Количество целей:</center>
