@@ -172,7 +172,7 @@ image: /assets/img/logos/abbrevs.png
 * [Улучшенное оружие языка пламени](https://www.wowhead.com/ru/spell=382027) – Improved Flametongue Weapon.
 * {{ site.data.spells.eb }} – Elemental Blast, EB, УДС.
 * [Первозданная волна](https://www.wowhead.com/ru/spell=375982) – Primordial Wave, PWave, PW, ПВ, Волна Некров.
-* [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) – Deeply Rooted Elements, Корни, Казино.
+* [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) – Deeply Rooted Elements, DRE, ДРЕ, Корни, Казино.
 * {{ site.data.spells.asc_ele }} – Ascendance, Asc, Асц, Мужик.
 * {{ site.data.spells.primal_elem }} – Primal Elementalist, Primal, PE, Примал, Усиленные элемы.
 * {{ site.data.spells.lmt }} – Liquid Magma Totem, LM2T, ЛМТ, Тотем магмы.
