@@ -91,26 +91,6 @@ custom-javascript-list:
 ## Таланты для Рейда
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-<details markdown=1><summary><b><span style="color:#f16f25;font-size:1em;">Огненный</span> билд для боя против одной цели из первого сезона:</b></summary>
-<p></p>
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUSKBSiDEBAAAAAoFgUSCaCItkk2BKhgQSAC?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
-
-<p></p>
-
-</details>
-<p></p>
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
 
 
 <details markdown=1><summary><b><span style="color:#71d5ff;font-size:1em;">Молниевый</span> билд для боя против одной цели:</b></summary>
@@ -118,7 +98,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSASJJkiEItkkWAkkEAC?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSASJJkiASLJpFAJJJAC?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
 
 <p></p>
 
@@ -154,8 +134,28 @@ custom-javascript-list:
 
 
 
+
+
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
+
+
+<details markdown=1><summary><b><span style="color:#71d5ff;font-size:1em;">Молниевый</span> билд для Мифик+ и АоЕ:</b></summary>
+<p></p>
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJJlk0S0QAkIBAAAAAoEgUSCpIKk0SSaBhSCBgA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+
+<p></p>
+
+</details>
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 
 <details markdown=1><summary><b><span style="color:#f16f25;font-size:1em;">Огненный</span> билд для Мифик+ из первого сезона:</b></summary>
@@ -170,22 +170,6 @@ custom-javascript-list:
 </details>
 <p></p>
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-
-<details markdown=1><summary><b><span style="color:#71d5ff;font-size:1em;">Молниевый</span> билд для Мифик+ и АоЕ:</b></summary>
-<p></p>
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJJlk0S0QAkIBAAAAAoEgUSCpIpISLJpFgSCBgA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
-
-<p></p>
-
-</details>
-<p></p>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>

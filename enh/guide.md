@@ -76,11 +76,15 @@ custom-javascript-list:
 
 ## Таланты для Рейда
 
+На данный момент <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд показывает себя в рейде гораздо лучше <span style="color:#f16f25;font-size:1em;">**Cтихийного**</span> билда. Возможно это изменится по ходу освоения рейда, но сейчас на всех боссов, кроме Нападения Закали, стоит использовать <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд для боя против одной цели. На Нападении Закали – любой из билдов из раздела Мифик+.
+{: class="bordered"}
+
+
 <span style="color:#f16f25;font-size:1em;">**Cтихийный**</span> рейдовый билд для боя против одной цели:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJpEJJIJhAJUSIAAAAAAAAAAAAgSEiQCKCk0SSKBCkkgGC?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJpEJJIJhAJUSIAAAAAAAAAAAAgSEiUSCKCk0SSKBAJJohA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
@@ -98,7 +102,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJHAkcARSSSQSiECAAAAAAAAAAAAoEhkQCKCk0SSKBAJJkCC?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJHAkcARSSSQSiECAAAAAAAAAAAAoEBSJJoJQSLJpE4AQSCKI?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
@@ -118,7 +122,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJpEJISSISCUSkAAAAAAAAAAAAAKRIJkokioQSLJpAoEkQgA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJpEJISSISCUSkAAAAAAAAAAAAAKRICJapIpQSLJpcAEKBBgA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
@@ -143,7 +147,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSaQSSikIAJtEJAAAAAAAAAAAAgSESCJapIKk0SSKAKBJkCC?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSaQSSikIAJtEJAAAAAAAAAAAAgSEIkolikCJtkkSQoEEogA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
