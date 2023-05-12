@@ -257,7 +257,7 @@ custom-javascript-list:
 1. {:.no-pw-apl .if-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
 1. {:.no-if-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
 1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=326059).
-1. {:.if-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505).
+1. {:.if-apl .pw-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505).
 1. {:.if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840).
 1. {:.sk-apl .sop-apl}Придержите [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) до набора достаточного количества энергии Водоворота, чтобы усилить [Молнию](https://ru.wowhead.com/spell=188196) [Приливом мощи](https://www.wowhead.com/ru/spell=262303/).
 1. Продолжайте обычную ротацию, указанную ниже.
