@@ -663,8 +663,9 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-
-Вместо масел теперь используются **руны на оружие**. Лучшим вариантом является [Воющая руна](https://www.wowhead.com/ru/item=194820/), однако она не сочетается с талантом [Улучшенное оружие языка пламени](https://www.wowhead.com/ru/spell=382027).
+Вместо масел теперь используются **руны на оружие**, однако они не сочетаются с талантом [Улучшенное оружие языка пламени](https://www.wowhead.com/ru/spell=382027).
+* [Жужжащая руна](https://www.wowhead.com/ru/item=194823): руна на Критический удар.
+* [Воющая руна](https://www.wowhead.com/ru/item=194820): руна на Скорость.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>

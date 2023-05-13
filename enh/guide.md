@@ -662,7 +662,7 @@ custom-javascript-list:
 <p></p>
 
 
-**Руны на оружие** Энх Шаман **не использует**, так как они не сочетаются с [Оружием неистовства ветра](https://www.wowhead.com/ru/spell=33757/) и [Оружием языка пламени](https://www.wowhead.com/ru/spell=318038/) (кроме [эпохальной Рашагет](https://www.warcraftlogs.com/zone/rankings/31#boss=2607&class=Shaman&spec=Enhancement)).
+**Руны на оружие** Энх Шаман **не использует**, так как они не сочетаются с [Оружием неистовства ветра](https://www.wowhead.com/ru/spell=33757/) и [Оружием языка пламени](https://www.wowhead.com/ru/spell=318038/).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
