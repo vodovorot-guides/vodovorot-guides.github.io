@@ -131,22 +131,22 @@ $('button#build_ele_storm_mplus').on('click', function() {
 });
 
 $('button#build_enh_phys_raid').on('click', function() {
-    on_build_button_click(this, ["totem", "ic", "dre", "sa", "eb", "dw", "fw", "two", "four"]);
+    on_build_button_click(this, ["totem", "ll", "ic", "dre", "sa", "eb", "dw", "fw", "two", "four"]);
     return false;
 });
 
 $('button#build_enh_phys_mplus').on('click', function() {
-    on_build_button_click(this, ["cl", "dre", "sa", "fn", "dw", "fw", "two", "four"]);
+    on_build_button_click(this, ["ll", "cl", "dre", "sa", "fn", "dw", "fw", "two", "four"]);
     return false;
 });
 
 $('button#build_enh_elem_raid').on('click', function() {
-    on_build_button_click(this, ["totem", "asc", "sa", "ic", "hs", "eb", "hh", "lf", "es", "two", "four"]);
+    on_build_button_click(this, ["totem", "ll", "asc", "sa", "ic", "hs", "eb", "hh", "lf", "es", "two", "four"]);
     return false;
 });
 
 $('button#build_enh_elem_mplus').on('click', function() {
-    on_build_button_click(this, ["totem", "cl", "ic", "hs", "pw", "hh", "lf", "es", "two", "four"]);
+    on_build_button_click(this, ["totem", "ll", "cl", "ic", "hs", "pw", "hh", "lf", "es", "two", "four"]);
     return false;
 });
 
