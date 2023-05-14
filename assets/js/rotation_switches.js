@@ -140,6 +140,11 @@ $('button#build_enh_phys_mplus').on('click', function() {
     return false;
 });
 
+$('button#build_enh_phys_bfa').on('click', function() {
+    on_build_button_click(this, ["totem", "cl", "dre", "sa", "ic", "dw", "fw", "two", "four"]);
+    return false;
+});
+
 $('button#build_enh_elem_raid').on('click', function() {
     on_build_button_click(this, ["totem", "ll", "asc", "sa", "ic", "hs", "eb", "hh", "lf", "es", "two", "four"]);
     return false;

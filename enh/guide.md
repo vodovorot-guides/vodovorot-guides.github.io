@@ -146,7 +146,7 @@ custom-javascript-list:
 
 
 
-<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд с [Кольцом огня](https://www.wowhead.com/ru/spell=333974/):
+<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> АоЕ билд с [Кольцом огня](https://www.wowhead.com/ru/spell=333974/):
 
 <p></p>
 
@@ -163,7 +163,7 @@ custom-javascript-list:
 * Если заменить всю ветку после таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) на [Первозданную волну](https://ru.wowhead.com/spell=375982) и связанные с ней таланты, то получится так называемый **гибридный** билд, который дает самый сильный бурст Энх Шамана – сочетание бонусной Скорости от таланта [Расколотые стихии](https://www.wowhead.com/ru/spell=382042), урон от [Ветров рока](https://www.wowhead.com/ru/spell=384352) и бонус [сетового комплекта](https://www.wowhead.com/ptr/item-set=1550) после использования [Раскола](https://www.wowhead.com/ru/spell=197214).
 
 
-<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> клив-билд с минимумом кнопок:
+<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> АоЕ-билд с минимумом кнопок:
 
 <p></p>
 
@@ -171,13 +171,14 @@ custom-javascript-list:
 
 <p></p>
 
-* Данный билд является одним из вариантов <span style="color:#FFFFFF;font-size:1em;">**Физических**</span>, но без взятых талантов [Кольцо огня](https://www.wowhead.com/ru/spell=333974/) и [Буря с градом](https://www.wowhead.com/ru/spell=334195/).
+* Данный билд является одним из вариантов <span style="color:#FFFFFF;font-size:1em;">**Физических**</span> билдов, но без взятых талантов [Кольцо огня](https://www.wowhead.com/ru/spell=333974/) и [Буря с градом](https://www.wowhead.com/ru/spell=334195/). Несмотря на свою простоту, этот билд на данный момент отлично себя показывает как в бою против одной цели, так и на АоЕ, и подходит для высоких ключей.
 
-* Основной АоЕ урон идет за счет сет-бонуса второго сезона: [Мощь вулкана](https://www.wowhead.com/ru/spell=409833), [Мощь земли](https://www.wowhead.com/ru/spell=409689) и [Трескучий гром](https://www.wowhead.com/ru/spell=409834). [Раскол](https://www.wowhead.com/ru/spell=197214), наравне с [Ветрами рока](https://www.wowhead.com/ru/spell=384352), является основной бурст способностью в этом билде.
+* Основной АоЕ урон в этом билде идет за счет сет-бонуса второго сезона: [Мощь вулкана](https://www.wowhead.com/ru/spell=409833), [Мощь земли](https://www.wowhead.com/ru/spell=409689) и [Трескучий гром](https://www.wowhead.com/ru/spell=409834). [Раскол](https://www.wowhead.com/ru/spell=197214), наравне с [Ветрами рока](https://www.wowhead.com/ru/spell=384352), является основной бурст способностью.
 
-* Геймплей в этом билде максимально упрощен: в бою против одной цели это спам [Удара бури](https://www.wowhead.com/ru/spell=17364) и реализация сет-бонуса, а в остальное время – филлеры, такие как [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) и [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874). На АоЕ идет чередования [Сокрушающей молния](https://www.wowhead.com/ru/spell=187874), [Цепной молнии](https://ru.wowhead.com/spell=188443) и [Удара бури](https://www.wowhead.com/ru/spell=17364).
+* Геймплей в этом билде максимально упрощен: в бою против одной цели нужно просто спамить [Удара бури](https://www.wowhead.com/ru/spell=17364) и реализовывать сет-бонус, используя филлеры в остальное время. На АоЕ идет чередования [Сокрушающей молния](https://www.wowhead.com/ru/spell=187874), [Цепной молнии](https://ru.wowhead.com/spell=188443) и [Удара бури](https://www.wowhead.com/ru/spell=17364).
 
-* Несмотря на свою простоту, этот билд на данный момент отлично себя показывает как в бою против одной цели, так и на АоЕ, и подходит для высоких ключей.
+* Этот билд больше всего подходит для АоЕ без ограничения целей, за счет механики работы [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757) и таланта [Альфа-волк](https://www.wowhead.com/ru/spell=198434).
+
 
 
 
@@ -214,11 +215,11 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_enh_elem_raid" class="btn btn-primary rotation-btn">Стихийный билд (СТ)</button>
-    <button type="button" id="build_enh_elem_mplus" class="btn btn-primary rotation-btn">Стихийный билд (АоЕ)</button>
-    <button type="button" id="build_enh_phys_raid" class="btn btn-primary rotation-btn">Физический билд (СТ)</button>
-    <button type="button" id="build_enh_phys_mplus" class="btn btn-primary rotation-btn">Физический билд (АоЕ / Кольцо огня)</button>
-    <button type="button" id="build_enh_phys_mplus" class="btn btn-primary rotation-btn">Физический билд (АоЕ / Клив)</button>    
+    <button type="button" id="build_enh_elem_raid" class="btn btn-primary rotation-btn">Стихийный (СТ)</button>
+    <button type="button" id="build_enh_elem_mplus" class="btn btn-primary rotation-btn">Стихийный (АоЕ)</button>
+    <button type="button" id="build_enh_phys_raid" class="btn btn-primary rotation-btn">Физический (СТ)</button>
+    <button type="button" id="build_enh_phys_mplus" class="btn btn-primary rotation-btn">Физический (АоЕ / Кольцо огня)</button>
+    <button type="button" id="build_enh_phys_bfa" class="btn btn-primary rotation-btn">Физический (АоЕ / Упрощенный)</button>    
   </div>
 </div>
 
