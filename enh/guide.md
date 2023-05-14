@@ -326,11 +326,12 @@ custom-javascript-list:
 33. {:.ll-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
 31. {:.no-dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 32. {:.ic-apl .no-hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
+38. {:.cl-apl .no-ll-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 35. {:.no-two-apl}[Раскол](https://www.wowhead.com/ru/spell=197214).
 34. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 36. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
 37. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974).
-38. {:.cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+38. {:.cl-apl .ll-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 39. [Огненный шок](https://ru.wowhead.com/spell=188389).
 40. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512), если все остальные способности недоступны.
 </div>
