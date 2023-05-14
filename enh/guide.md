@@ -44,7 +44,6 @@ custom-javascript-list:
 
 <span style="color:#ff4040;font-size:1em;">Минусы Энха в Мифик+</span>
 
-* Большое количество кнопок, необходимых для игры на адекватном уровне. 
 * Неправильный отыгрыш приоритетов способностей может привести к простоям и потере урона, так что необходимо продумывать нажимаемые кнопки наперед.
 * Основные АоЕ способности имеют кап **5-6** целей.	
 * Не имеет иммуна (не считая [Реинкарнации](https://ru.wowhead.com/spell=20608)), для выживания следует полагаться на собственное исцеление и [Астральный сдвиг](https://ru.wowhead.com/spell=108271).
@@ -167,7 +166,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSaQSSikIAJtEJAAAAAAAAAAAAgSEIkolikCJtkkSQoEEogA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJBQSSkkkASSLJJAAAAAAAAAAAAgSEIkolikCJtkkSQoEEogA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
