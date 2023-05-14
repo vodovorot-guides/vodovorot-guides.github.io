@@ -218,7 +218,7 @@ custom-javascript-list:
     <button type="button" id="build_enh_elem_raid" class="btn btn-primary rotation-btn">Стихийный (СТ)</button>
     <button type="button" id="build_enh_elem_mplus" class="btn btn-primary rotation-btn">Стихийный (АоЕ)</button>
     <button type="button" id="build_enh_phys_raid" class="btn btn-primary rotation-btn">Физический (СТ)</button>
-    <button type="button" id="build_enh_phys_mplus" class="btn btn-primary rotation-btn">Физический (АоЕ / Кольцо огня)</button>
+    <button type="button" id="build_enh_phys_mplus" class="btn btn-primary rotation-btn">Физический (АоЕ / Стандарт)</button>
     <button type="button" id="build_enh_phys_bfa" class="btn btn-primary rotation-btn">Физический (АоЕ / Упрощенный)</button>    
   </div>
 </div>
@@ -316,7 +316,7 @@ custom-javascript-list:
 17. {:.dw-apl .ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 18. {:.dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 19. {:.dw-apl .no-two-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-20. [Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
+20. {:.ll-apl}[[Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
 24. {:.ic-apl .hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 25. {:.hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
 33. {:.ll-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если время действия [Огненного шока](https://ru.wowhead.com/spell=188389) менее **5.4** секунд.
