@@ -644,6 +644,7 @@ custom-javascript-list:
 * **Плащ**: [Грациозное избежание](https://www.wowhead.com/ru/spell=389403/).
 * **Наручи**: [Посвящение избежания](https://www.wowhead.com/ru/spell=389301/).
 * **Ботинки**: [Ветер равнин](https://www.wowhead.com/ru/spell=389479/).
+* **Пояс**: [Затененная поясная застежка](https://www.wowhead.com/ru/item=205039).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>

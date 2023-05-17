@@ -441,7 +441,7 @@ image: /assets/img/resto_tb2.png
 
 Лучшее оружие:
 * [Анатомический скальпель Зкарна](https://www.wowhead.com/ru/item=202555/) (Зкарн) + [Предвестник катастроф](https://www.wowhead.com/ru/item=202558) (Нелтарион).
-* [Пронзатель разума Ликсы](https://www.wowhead.com/item=159652) (Подгнилье) + [Чудовищное обжорство](https://www.wowhead.com/item=205974) (Логово Нелтаориона).
+* [Пронзатель разума Ликсы](https://www.wowhead.com/item=159652) (Подгнилье) + [Чудовищное обжорство](https://www.wowhead.com/item=205974) (Логово Нелтариона).
 * [Эретрос, Обманутые Надежды](https://www.wowhead.com/ru/item=202565/) – Дракомандир Саркарет.
 
 
@@ -497,6 +497,7 @@ image: /assets/img/resto_tb2.png
 * **Плащ**: [Регенерация хищника](https://www.wowhead.com/ru/spell=389404/).
 * **Наручи**: [Посвящение самоисцеления](https://www.wowhead.com/ru/spell=389303/).
 * **Ботинки**: [Глина дозорного](https://www.wowhead.com/ru/spell=389484).
+* **Пояс**: [Затененная поясная застежка](https://www.wowhead.com/ru/item=205039).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
