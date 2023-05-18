@@ -146,7 +146,7 @@ $('button#build_enh_phys_bfa').on('click', function() {
 });
 
 $('button#build_enh_elem_raid').on('click', function() {
-    on_build_button_click(this, ["totem", "ll", "asc", "sa", "ic", "hs", "eb", "hh", "lf", "es", "two", "four"]);
+    on_build_button_click(this, ["totem", "ll", "ic", "hs", "eb", "pw", "hh", "lf", "es", "two", "four"]);
     return false;
 });
 

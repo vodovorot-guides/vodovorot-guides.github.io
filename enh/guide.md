@@ -69,31 +69,24 @@ custom-javascript-list:
 
 Энх получил достаточно большое количество изменений, направленных на усиление <span style="color:#FFFFFF;font-size:1em;">**физического**</span> билда. Последний стал лучше как в бою против одной цели, так и на АоЕ, за счет усиления [Кольца огня](https://www.wowhead.com/ru/spell=333974). Однако этот билд не является единственным выбором во всех ситуациях.
 
-<span style="color:#f16f25;font-size:1em;">**Стихийный**</span> билд в бою против одной цели станет использовать не [Первозданную волну](https://www.wowhead.com/ru/spell=375982) и связанные с ней таланты, а [Перерождение](https://ru.wowhead.com/spell=114051), так как это дает доступ к усиленным пассивным эффектам талантов [Статическое накопление](https://www.wowhead.com/ru/spell=384411) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444). 
-
 [Раскол](https://www.wowhead.com/ru/spell=197214) с новым сетом становится по настоящему бурст-способностью и его следует нажимать вместе с [Ветрами рока](https://www.wowhead.com/ru/spell=384352) или [Первозданной волной](https://www.wowhead.com/ru/spell=375982). А под баффом от **4** кусков сета нужно будет кастовать [Цепную молнию](https://ru.wowhead.com/spell=188443) в том числе и в бою против одной цели. 
 
 ## Таланты для Рейда
 
-На данный момент <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд показывает себя в рейде гораздо лучше <span style="color:#f16f25;font-size:1em;">**Cтихийного**</span> билда. Возможно это изменится по ходу освоения рейда, но сейчас на всех боссов, кроме Нападения Закали, стоит использовать <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд для боя против одной цели. На Нападении Закали – любой из билдов из раздела Мифик+.
+На данный момент <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд лучше всего показывает себя в боях против одной цели. Если на боссе есть клив или дополнительные аддов, то можно взять <span style="color:#f16f25;font-size:1em;">**Cтихийный**</span> билд, например на Эхо Нелтариона и Дракомандира Саркорета. На Нападении Закали используется любой билд из раздела Мифик+.
 {: class="bordered"}
 
+Билды талантов в рейде:
+1. [Каззара Огнекованная](https://www.warcraftlogs.com/zone/rankings/33#boss=2688&class=Shaman&spec=Enhancement) – <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд.
+2. [Чертог Слияния](https://www.warcraftlogs.com/zone/rankings/33#boss=2687&class=Shaman&spec=Enhancement) – <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд.
+3. [Забытые эксперименты](https://www.warcraftlogs.com/zone/rankings/33#boss=2693&class=Shaman&spec=Enhancement) – <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд в Героике и <span style="color:#f16f25;font-size:1em;">**Cтихийный**</span> билд в Эпохе.
+4. [Нападение Закали](https://www.warcraftlogs.com/zone/rankings/33#boss=2682&class=Shaman&spec=Enhancement) – любой билд из раздела [Мифик+](https://stormkeeper.ru/enh/guide.html#%D1%82%D0%B0%D0%BB%D0%B0%D0%BD%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D1%84%D0%B8%D0%BA) по вашему выбору.
+5. [Рашок Древний](https://www.warcraftlogs.com/zone/rankings/33#boss=2680&class=Shaman&spec=Enhancement) – <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд.
+6. [Бдительный распорядитель Зкарн](https://www.warcraftlogs.com/zone/rankings/33#boss=2689&class=Shaman&spec=Enhancement) – <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд.
+7. [Магморакс](https://www.warcraftlogs.com/zone/rankings/33#boss=2683&class=Shaman&spec=Enhancement) – <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд.
+8. [Эхо Нелтариона](https://www.warcraftlogs.com/zone/rankings/33#boss=2684&class=Shaman&spec=Enhancement) – <span style="color:#f16f25;font-size:1em;">**Cтихийный**</span> билд.
+9. [Дракомандир Саркарет](https://www.warcraftlogs.com/zone/rankings/33#boss=2685&class=Shaman&spec=Enhancement) – <span style="color:#f16f25;font-size:1em;">**Cтихийный**</span> билд.
 
-<span style="color:#f16f25;font-size:1em;">**Cтихийный**</span> рейдовый билд для боя против одной цели:
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJpEJJIJhAJUSIAAAAAAAAAAAAgSEiUSCKCk0SSKBAJJohA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
-
-<p></p>
-
-* В стихийном билде в патче **10.1** теперь имеет смысл брать [Перерождение](https://www.wowhead.com/ptr/spell=114051/), по большей части за счет усиления талантов [Статическое накопление](https://www.wowhead.com/ru/spell=384411/) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444). Во время баффа [Перерождения](https://www.wowhead.com/ptr/spell=114051/) стоит как можно чаще использовать [Удар ветра](https://www.wowhead.com/ru/spell=115356), а также не забывать заряжать [Молнию](https://www.wowhead.com/ru/spell=188196/) для автоматической активации талантом [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444) после использования [Цепной молнии](https://www.wowhead.com/ru/spell=188443/) от бонуса [сетового комплекта](https://www.wowhead.com/ptr/item=202470).
-
-* Стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) стоит тратить в первую очередь на [Удар духов стихий](https://www.wowhead.com/ru/spell=117014), особенно под баффом от [Духов дикого зверя](https://ru.wowhead.com/spell=51533). Сочетание [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) и баффов на стихии от таланта [Духи стихий](https://www.wowhead.com/ru/spell=262624) является одним из основных источников урона в этом билде.
-
-* Не забывайте также использовать [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) под баффом от таланта [Горячая рука](https://www.wowhead.com/ru/spell=201900). В этом билде может накладываться сразу много различных проков и баффов. Правильно расставить приоритеты в бою – одна из основных ваших задач.
-
-* В некоторых ситуациях получится иметь сразу **4** волка от таланта [Дух дикого зверя](https://ru.wowhead.com/spell=51533). Убедитесь, что вы успеете скастовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) с максимальным количеством стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) в этот момент.
 
 
 <span style="color:#FFFFFF;font-size:1em;">**Физический**</span> рейдовый билд для боя против одной цели:
@@ -105,15 +98,31 @@ custom-javascript-list:
 
 <p></p>
 
-* Данный билд гораздо больше располагает к использованию [Молнии](https://www.wowhead.com/ru/spell=188196/) для траты стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), за счет талантов [Статическое накопление](https://www.wowhead.com/ru/spell=384411/) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444). Если вы не берете [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) в этом билде, то [Молния](https://www.wowhead.com/ru/spell=188196/) со всеми баффами обходит по урону [Выброс лавы](https://ru.wowhead.com/spell=51505), который в этом билде не используется.
-
-* В этом билде вы гораздо чаще используете [Удар бури](https://www.wowhead.com/ru/spell=17364), но он служит не основным источником урона, а генератором проков и стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+* Данный билд гораздо больше располагает к использованию [Молнии](https://www.wowhead.com/ru/spell=188196/) для траты стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), за счет талантов [Статическое накопление](https://www.wowhead.com/ru/spell=384411/) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444). Однако [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) всё равно является очень сильной способностью в бою против одной цели и даже с талантами на [Молнию](https://www.wowhead.com/ru/spell=188196/) все равно стоит использовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
 
 * Потенциально этот билд имеет самый высокий урон в бою против одной цели, но достигается это ценой практически полностью отсутствующего АоЕ урона. Вы можете заменить [Ледяной клинок](https://www.wowhead.com/ru/spell=342240) на [Сокрушающую молнию](https://www.wowhead.com/ru/spell=187874) для добавления клив урона в этот билд.
 
 * Вы можете заменить [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) на [Перерождение](https://www.wowhead.com/ru/spell=114051) для более контролируемого и бурстового урона, если этого требует энкаунтер. Но это снизит общее время действия [Перерождения](https://www.wowhead.com/ru/spell=114051) за бой.
 
 * Во время [Перерождения](https://www.wowhead.com/ru/spell=114051) ваша основная задача – спамить [Удар ветра](https://www.wowhead.com/ru/spell=115356) (это [Удар бури](https://www.wowhead.com/ru/spell=17364) во время [Перерождения](https://www.wowhead.com/ru/spell=114051)). Выше него по приоритету находится только [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533), [Раскол](https://www.wowhead.com/ru/spell=197214) для активации сет-бонуса и [Ветра рока](https://www.wowhead.com/ru/spell=384352). Обычно вам активно прокает [Вестник шторма](https://www.wowhead.com/ru/spell=201845), сбрасывающий кулдаун [Удара ветра](https://www.wowhead.com/ru/spell=115356), однако в случае отсутствия его прока – у вас есть ровно **1** ГКД на любую другую способность, которая идет далее по [приоритету](https://stormkeeper.ru/enh/guide.html#%D0%BF%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9).
+
+
+
+<span style="color:#f16f25;font-size:1em;">**Cтихийный**</span> рейдовый билд с кливом:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAu3fz4tp2ZikXIAdNeR+oLIJJpEJgkEikkQJhAAAAAAAAAAAAAKRICJkmAJtkkSgoEkAI?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+
+<p></p>
+
+* Придерживайте [Первозданную волну](https://ru.wowhead.com/spell=375982) под выход аддов, чтобы получить дополнительную Скорость за счет таланта [Расколотые стихии](https://www.wowhead.com/ru/spell=382042/).
+
+* Стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) стоит тратить в первую очередь на [Удар духов стихий](https://www.wowhead.com/ru/spell=117014), особенно под баффом от [Духов дикого зверя](https://ru.wowhead.com/spell=51533). Сочетание [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) и баффов на стихии от таланта [Духи стихий](https://www.wowhead.com/ru/spell=262624) является одним из основных источников урона в этом билде.
+
+* Не забывайте также использовать [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) под баффом от таланта [Горячая рука](https://www.wowhead.com/ru/spell=201900). В этом билде может накладываться сразу много различных проков и баффов. Правильно расставить приоритеты в бою – одна из основных ваших задач.
+
+* В некоторых ситуациях получится иметь сразу **4** волка от таланта [Дух дикого зверя](https://ru.wowhead.com/spell=51533). Убедитесь, что вы успеете скастовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) с максимальным количеством стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) в этот момент.
 
 
 
@@ -162,7 +171,7 @@ custom-javascript-list:
 * Если заменить всю ветку после таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) на [Первозданную волну](https://ru.wowhead.com/spell=375982) и связанные с ней таланты, то получится так называемый **гибридный** билд, который дает самый сильный бурст Энх Шамана – сочетание бонусной Скорости от таланта [Расколотые стихии](https://www.wowhead.com/ru/spell=382042), урон от [Ветров рока](https://www.wowhead.com/ru/spell=384352) и бонус [сетового комплекта](https://www.wowhead.com/ptr/item-set=1550) после использования [Раскола](https://www.wowhead.com/ru/spell=197214).
 
 
-<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> АоЕ-билд с минимумом кнопок:
+<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> «нобрейн» билд с минимумом кнопок:
 
 <p></p>
 
