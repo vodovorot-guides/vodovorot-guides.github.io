@@ -373,13 +373,13 @@ custom-javascript-list:
 5. {:.ic-apl .hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 6. {:.hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
 5. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982) и при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-18. {:.dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
-18. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
+18. {:.dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051).
+18. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051).
+9. {:.dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 6. [Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 8. {:.dw-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352).
 10. {:.dw-apl .no-two-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 10. {:.two-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации сет-бонуса [Мощь земли](https://www.wowhead.com/ru/spell=409689).
-9. {:.dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 13. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится **6** противников.
 17. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 10. {:.cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) с баффом после каста [Цепной молнии](https://ru.wowhead.com/spell=188443). 
