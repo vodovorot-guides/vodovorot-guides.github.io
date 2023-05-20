@@ -357,7 +357,6 @@ custom-javascript-list:
 13. {:.dw-apl .cl-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352) и сразу же [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 14. {:.no-dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 11. {:.ic-apl .hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
-12. {:.ic-apl .hs-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 13. {:.ic-apl .hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840).
 15. Продолжайте обычную ротацию.
 
