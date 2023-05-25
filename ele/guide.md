@@ -330,16 +330,15 @@ custom-javascript-list:
 1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}Набирайте энергию до **116** единиц и используйте [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/).
 1. {:.sk-apl .sop-apl .no-two-apl targets="2"}Придержите [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) до набора достаточного количества энергии Водоворота, чтобы усилить [Молнию](https://ru.wowhead.com/spell=188196) [Приливом мощи](https://www.wowhead.com/ru/spell=262303/).
-1. Продолжайте обычную ротацию, указанную ниже.
-1. {:.sk-apl targets=">3"}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
-1. {:.fire-apl targets=">3"}[Элементаль огня](https://ru.wowhead.com/spell=198067).
-  * {:.primal-apl .fire-apl targets=">3"}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
-1. {:.storm-apl targets=">3"}[Элементаль бури](https://ru.wowhead.com/spell=192249).
-  * {:.primal-apl .storm-apl targets=">3"}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
-1. {:.lmt-apl targets=">3"}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
-1. {:.lmt-apl targets=">3"}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285).
-1. {:.pw-apl targets=">3"}[Первозданная волна](https://ru.wowhead.com/spell=375982).
-7. {:.pw-apl targets=">3"}[Выброс лавы](https://ru.wowhead.com/spell=51505).
+1. {:.sk-apl targets=">2"}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
+1. {:.fire-apl targets=">2"}[Элементаль огня](https://ru.wowhead.com/spell=198067).
+  * {:.primal-apl .fire-apl targets=">23"}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
+1. {:.storm-apl targets=">2"}[Элементаль бури](https://ru.wowhead.com/spell=192249).
+  * {:.primal-apl .storm-apl targets=">2"}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
+1. {:.lmt-apl targets=">2"}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
+1. {:.lmt-apl targets=">2"}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285).
+1. {:.pw-apl targets=">2"}[Первозданная волна](https://ru.wowhead.com/spell=375982).
+7. {:.pw-apl targets=">2"}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 1. Продолжайте обычную ротацию, указанную ниже.
 
 
