@@ -230,6 +230,8 @@ custom-javascript-list:
     <input class="form-check-input" type="checkbox" id="rotation_switch_primal"> [Повелитель изначальных стихий](https://www.wowhead.com/ru/spell=117013/)</li>
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_eogs"> [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_two"> [Две части сетового комплекта](https://www.wowhead.com/ptr/item-set=1550)</li>  
 </ul>
 
 <center>Количество целей:</center>
@@ -256,11 +258,18 @@ custom-javascript-list:
 1. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **1.5** секунд до пула.
 1. {:.no-pw-apl .if-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
 1. {:.no-if-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
+1. {:.two-apl .sop-apl .eb-apl}[Молния](https://ru.wowhead.com/spell=188196) для набора энергии перед тем, как прокнет [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) от сета.
 1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=326059).
-1. {:.if-apl .pw-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505).
-1. {:.if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840).
-1. {:.sk-apl .sop-apl}Придержите [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) до набора достаточного количества энергии Водоворота, чтобы усилить [Молнию](https://ru.wowhead.com/spell=188196) [Приливом мощи](https://www.wowhead.com/ru/spell=262303/).
+1. {:.if-apl .pw-apl .no-two-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505).
+1. {:.if-apl .no-two-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840).
+1. {:.if-apl .two-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) для набора энергии и дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
+1. {:.if-apl .two-apl .es-apl .eb-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505), если у вас не менее **63** ед. энергии Водоворота.
+1. {:.if-apl .two-apl .es-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
+1. {:.if-apl .two-apl .es-apl .eb-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
+1. {:.if-apl .two-apl .es-apl .eb-apl}Набирайте энергию до **116** единиц и используйте [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/).
+1. {:.sk-apl .sop-apl .no-two-apl}Придержите [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) до набора достаточного количества энергии Водоворота, чтобы усилить [Молнию](https://ru.wowhead.com/spell=188196) [Приливом мощи](https://www.wowhead.com/ru/spell=262303/).
 1. Продолжайте обычную ротацию, указанную ниже.
+
 
 **Приоритет в бою против одной цели:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
@@ -302,15 +311,33 @@ custom-javascript-list:
 
 **Опенер на АоЕ:**
 
-1. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
-1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
-  * {:.primal-apl .fire-apl}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
-1. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
-  * {:.primal-apl .storm-apl}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
-1. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
-1. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285).
-1. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
-7. {:.pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
+1. {:.sk-apl .no-sop-apl targets="2"}[Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) за **5** секунд до пула.
+1. {:.fire-apl targets="2"}[Элементаль огня](https://www.wowhead.com/ru/spell=198067) за **3** секунды до пула.
+1. {:.storm-apl targets="2"}[Элементаль бури](https://ru.wowhead.com/spell=192249) за **3** секунды до пула.
+1. {:.no-if-apl targets="2"}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) за **1.5** секунд до пула.
+1. {:.if-apl targets="2"}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **1.5** секунд до пула.
+1. {:.no-pw-apl .if-apl targets="2"}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
+1. {:.no-if-apl targets="2"}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
+1. {:.two-apl .sop-apl .eb-apl targets="2"}[Молния](https://ru.wowhead.com/spell=188196) для набора энергии перед тем, как прокнет [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) от сета.
+1. {:.pw-apl targets="2"}[Первозданная волна](https://www.wowhead.com/ru/spell=326059).
+1. {:.if-apl .pw-apl .no-two-apl targets="2"}[Выброс лавы](https://www.wowhead.com/ru/spell=51505).
+1. {:.if-apl .no-two-apl targets="2"}[Ледяной шок](https://ru.wowhead.com/spell=196840).
+1. {:.if-apl .two-apl .es-apl targets="2"}[Ледяной шок](https://ru.wowhead.com/spell=196840) для набора энергии и дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
+1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}[Выброс лавы](https://www.wowhead.com/ru/spell=51505), если у вас не менее **63** ед. энергии Водоворота.
+1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
+1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
+1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}Набирайте энергию до **116** единиц и используйте [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/).
+1. {:.sk-apl .sop-apl .no-two-apl targets="2"}Придержите [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) до набора достаточного количества энергии Водоворота, чтобы усилить [Молнию](https://ru.wowhead.com/spell=188196) [Приливом мощи](https://www.wowhead.com/ru/spell=262303/).
+1. Продолжайте обычную ротацию, указанную ниже.
+1. {:.sk-apl targets=">3"}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
+1. {:.fire-apl targets=">3"}[Элементаль огня](https://ru.wowhead.com/spell=198067).
+  * {:.primal-apl .fire-apl targets=">3"}[Метеорит](https://ru.wowhead.com/spell=117588) с панели питомца или макросом.
+1. {:.storm-apl targets=">3"}[Элементаль бури](https://ru.wowhead.com/spell=192249).
+  * {:.primal-apl .storm-apl targets=">3"}[Буря](https://ru.wowhead.com/spell=157375/) с панели питомца или макросом, если [Элементаль бури](https://ru.wowhead.com/spell=192249) имеет бафф [Призыв молнии](https://ru.wowhead.com/spell=157348).
+1. {:.lmt-apl targets=">3"}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
+1. {:.lmt-apl targets=">3"}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285).
+1. {:.pw-apl targets=">3"}[Первозданная волна](https://ru.wowhead.com/spell=375982).
+7. {:.pw-apl targets=">3"}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 1. Продолжайте обычную ротацию, указанную ниже.
 
 

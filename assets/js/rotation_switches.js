@@ -121,12 +121,12 @@ $('button#build_ele_fire_mplus').on('click', function() {
 });
 
 $('button#build_ele_storm_raid').on('click', function() {
-    on_build_button_click(this, ["storm", "ls", "sk", "sop", "mote", "if", "es", "eb"]);
+    on_build_button_click(this, ["storm", "ls", "sk", "sop", "mote", "if", "es", "eb", "two"]);
     return false;
 });
 
 $('button#build_ele_storm_mplus').on('click', function() {
-    on_build_button_click(this, ["storm", "sk", "sop", "mote", "if", "es", "eb", "eogs"]);
+    on_build_button_click(this, ["storm", "sk", "sop", "mote", "if", "es", "eb", "eogs", "two"]);
     return false;
 });
 
