@@ -263,8 +263,9 @@ custom-javascript-list:
 1. {:.if-apl .pw-apl .no-two-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505).
 1. {:.if-apl .no-two-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840).
 1. {:.if-apl .two-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) для набора энергии и дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
-1. {:.if-apl .two-apl .es-apl .eb-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505), если у вас не менее **63** ед. энергии Водоворота.
-1. {:.if-apl .two-apl .es-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
+1. {:.if-apl .two-apl .es-apl .eb-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840), если у вас менее **63** ед. энергии Водоворота.
+1. {:.if-apl .two-apl .es-apl .eb-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) для прока [Мощи Водоворота](https://www.wowhead.com/ru/spell=191861) и баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166).
+1. {:.if-apl .two-apl .es-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для получения баффа [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.if-apl .two-apl .es-apl .eb-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.if-apl .two-apl .es-apl .eb-apl}Набирайте энергию до **116** единиц и используйте [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/).
 1. {:.sk-apl .sop-apl .no-two-apl}Придержите [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) до набора достаточного количества энергии Водоворота, чтобы усилить [Молнию](https://ru.wowhead.com/spell=188196) [Приливом мощи](https://www.wowhead.com/ru/spell=262303/).
@@ -323,8 +324,9 @@ custom-javascript-list:
 1. {:.if-apl .pw-apl .no-two-apl targets="2"}[Выброс лавы](https://www.wowhead.com/ru/spell=51505).
 1. {:.if-apl .no-two-apl targets="2"}[Ледяной шок](https://ru.wowhead.com/spell=196840).
 1. {:.if-apl .two-apl .es-apl targets="2"}[Ледяной шок](https://ru.wowhead.com/spell=196840) для набора энергии и дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
-1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}[Выброс лавы](https://www.wowhead.com/ru/spell=51505), если у вас не менее **63** ед. энергии Водоворота.
-1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
+1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}[Ледяной шок](https://ru.wowhead.com/spell=196840), если у вас менее **63** ед. энергии Водоворота.
+1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) для прока [Мощи Водоворота](https://www.wowhead.com/ru/spell=191861) и баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166).
+1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для получения баффа [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.if-apl .two-apl .es-apl .eb-apl targets="2"}Набирайте энергию до **116** единиц и используйте [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/).
 1. {:.sk-apl .sop-apl .no-two-apl targets="2"}Придержите [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) до набора достаточного количества энергии Водоворота, чтобы усилить [Молнию](https://ru.wowhead.com/spell=188196) [Приливом мощи](https://www.wowhead.com/ru/spell=262303/).
