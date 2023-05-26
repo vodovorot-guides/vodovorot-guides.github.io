@@ -361,7 +361,7 @@ custom-javascript-list:
 7. {:.sk-apl .sop-apl targets="2"}[Хранитель бурь](https://ru.wowhead.com/spell=191634) если у вас есть **116+** энергии Водоворота или если есть бафф от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.sk-apl .no-sop-apl targets="2"}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
 1. {:.sk-apl targets=">2"}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
-1. {:.sop-apl targets="2"}[Огненный шок](https://ru.wowhead.com/spell=188389) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/), если время дейтвия дебаффа на целях менее **5.4** секунд.
+1. {:.no-pw-apl .sop-apl targets="2"}[Огненный шок](https://ru.wowhead.com/spell=188389) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/), если время дейтвия дебаффа на целях менее **5.4** секунд.
 1. {:.sop-apl targets="2"}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) максимальное количество целей и у вас есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=375982).
 1. {:.dre-apl targets="<4"}[Выброс лавы](https://ru.wowhead.com/spell=51505) в цель с наибольшим количеством здоровья.
