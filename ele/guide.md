@@ -358,6 +358,9 @@ custom-javascript-list:
   * {:.comm-apl}В низких ключах не стоит ставить сразу два [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), а лучше распределять их на разные паки.
 1. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
 1. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
+1. {:.eb-apl .dre-apl targets="<4"}[Удар духов стихий](https://ru.wowhead.com/spell=117014) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+4. {:.dre-apl .no-eb-apl targets="<4"}[Землетрясение](https://ru.wowhead.com/spell=61882) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
+1. {:.dre-apl targets="<4"}[Выброс лавы](https://ru.wowhead.com/spell=51505) во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
 7. {:.sk-apl .sop-apl targets="2"}[Хранитель бурь](https://ru.wowhead.com/spell=191634) если у вас есть **116+** энергии Водоворота или если есть бафф от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.sk-apl .no-sop-apl targets="2"}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
 1. {:.sk-apl targets=">2"}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
