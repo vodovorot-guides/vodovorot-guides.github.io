@@ -358,7 +358,9 @@ custom-javascript-list:
   * {:.comm-apl}В низких ключах не стоит ставить сразу два [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), а лучше распределять их на разные паки.
 1. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
 1. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
-1. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
+7. {:.sk-apl .sop-apl targets="2"}[Хранитель бурь](https://ru.wowhead.com/spell=191634) если у вас есть **116+** энергии Водоворота или если есть бафф от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
+1. {:.sk-apl .no-sop-apl targets="2"}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
+1. {:.sk-apl targets=">2"}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
 1. {:.sop-apl targets="2"}[Огненный шок](https://ru.wowhead.com/spell=188389) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/), если время дейтвия дебаффа на целях менее **5.4** секунд.
 1. {:.sop-apl targets="2"}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) максимальное количество целей и у вас есть бафф от [Первозданной волны](https://ru.wowhead.com/spell=375982).
