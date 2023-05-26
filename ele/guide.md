@@ -365,8 +365,9 @@ custom-javascript-list:
 1. {:.dre-apl targets="<4"}[Выброс лавы](https://ru.wowhead.com/spell=51505) в цель с наибольшим количеством здоровья.
 1. {:.no-dre-apl .ls-apl targets="<3"}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
 1. {:.dre-apl .ls-apl targets=">3"}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
-1. {:.no-dre-apl .no-ls-apl .mote-apl .no-eb-apl targets="2"}[Выброс лавы](https://ru.wowhead.com/spell=51505), если следующее заклинание – [Землетрясение](https://ru.wowhead.com/spell=61882).
-1. {:.no-dre-apl .no-ls-apl .mote-apl .eb-apl targets="2"}[Выброс лавы](https://ru.wowhead.com/spell=51505), если следующее заклинание – [Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
+1. {:.no-dre-apl .no-ls-apl .no-eogs-apl .mote-apl .no-eb-apl targets="2"}[Выброс лавы](https://ru.wowhead.com/spell=51505), если следующее заклинание – [Землетрясение](https://ru.wowhead.com/spell=61882).
+1. {:.no-dre-apl .no-ls-apl .no-eogs-apl .mote-apl .eb-apl targets="2"}[Выброс лавы](https://ru.wowhead.com/spell=51505), если следующее заклинание – [Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
+1. {:.no-dre-apl .no-ls-apl .eogs-apl .mote-apl .eb-apl targets="2"}[Выброс лавы](https://ru.wowhead.com/spell=51505), если следующее заклинание – [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) или [Землетрясение](https://ru.wowhead.com/spell=61882).
 3. {:.no-eogs-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
 4. {:.no-eogs-apl .eb-apl targets=">3"}[Землетрясение](https://ru.wowhead.com/spell=61882).
 6. {:.no-eogs-apl .eb-apl targets="<4"}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
