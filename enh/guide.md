@@ -288,7 +288,7 @@ custom-javascript-list:
 3. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/).
 4. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389).
 6. {:.two-apl .no-dw-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации сет-бонуса [Мощь земли](https://www.wowhead.com/ru/spell=409689).
-1. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) если у вас **2** заряда этой способности и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+1. {:.pw-apl .eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
 5. {:.pw-apl .no-eb-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982) и при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 8. {:.hh-apl .ll-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
 2. {:.ic-apl .hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
