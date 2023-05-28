@@ -339,6 +339,7 @@ custom-javascript-list:
 38. {:.cl-apl .no-ll-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 35. {:.no-two-apl}[Раскол](https://www.wowhead.com/ru/spell=197214).
 34. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+35. {:.no-ll-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
 36. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
 37. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974).
 38. {:.cl-apl .ll-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
