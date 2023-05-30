@@ -269,13 +269,13 @@ image: /assets/img/logos/spells.png
 
 > Fire Nova, FN, ФН, Фаер нова, Нова.
 
-<a href="https://ru.wowhead.com/spell=188389" target="blank" data-wh-icon-size="medium" >**Кольцо огня**</a> – АоЕ заклинание с коротким кулдауном.
+<a href="https://ru.wowhead.com/spell=333974" target="blank" data-wh-icon-size="medium" >**Кольцо огня**</a> – АоЕ заклинание с коротким кулдауном.
 
 * При активации взрывает все цели с дебаффом от [Огненного шока](https://ru.wowhead.com/spell=188389), нанося урон в радиусе **8** метров от каждой цели.
 * Каждый [Огненный шок](https://ru.wowhead.com/spell=188389) может взорваться и нанести урон максимум **6** целям. 
 * Имеет время восстановления **15** секунд, которое снижается Скоростью.
 * Наносит урон от **огненного удара**, что представляет собой сочетание урона от магии <span style="color:#f16f25;font-size:1em;">**огня**</span> и <span style="color:#FFFFFF;font-size:1em;">**физического**</span> урона. 
-* [Кольцо огня](https://www.wowhead.com/ru/spell=188389) получает усиления от баффов на оба вышеупомянутых типа урона.
+* [Кольцо огня](https://www.wowhead.com/ru/spell=333974) получает усиления от баффов на оба вышеупомянутых типа урона.
 * Усиливается всеми талантами, влияющими на <span style="color:#FFFFFF;font-size:1em;">**физический**</span> и <span style="color:#f16f25;font-size:1em;">**огненный**</span> урон.
 * Талант [Кружащий Водоворот](https://www.wowhead.com/ru/spell=384359) позволяет получать по стаку [Оружия Водоворота](https://ru.wowhead.com/spell=187880) за каждую пораженную цель.
 
