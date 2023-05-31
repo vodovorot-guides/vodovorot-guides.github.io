@@ -226,8 +226,7 @@ custom-javascript-list:
     <button type="button" id="build_enh_elem_raid" class="btn btn-primary rotation-btn">Стихийный (СТ)</button>
     <button type="button" id="build_enh_elem_mplus" class="btn btn-primary rotation-btn">Стихийный (АоЕ)</button>
     <button type="button" id="build_enh_phys_raid" class="btn btn-primary rotation-btn">Физический (СТ)</button>
-    <button type="button" id="build_enh_phys_mplus" class="btn btn-primary rotation-btn">Физический (АоЕ / Стандарт)</button>
-    <button type="button" id="build_enh_phys_bfa" class="btn btn-primary rotation-btn">Физический (АоЕ / Упрощенный)</button>    
+    <button type="button" id="build_enh_phys_bfa" class="btn btn-primary rotation-btn">Физический (АоЕ)</button>    
   </div>
 </div>
 
