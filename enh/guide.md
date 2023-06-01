@@ -137,7 +137,7 @@ custom-javascript-list:
 ## Таланты для Мифик+
 
 
-<span style="color:#f16f25;font-size:1em;">**Cтихийный**</span> билд для Мифик+ и АоЕ боя:
+<span style="color:#f16f25;font-size:1em;">**Cтихийный**</span> билд для Мифик+ на Укрепленных неделях:
 
 <p></p>
 
@@ -162,24 +162,7 @@ custom-javascript-list:
 
 
 
-<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> АоЕ билд с [Кольцом огня](https://www.wowhead.com/ru/spell=333974/):
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSaQSSikIAJtEJAAAAAAAAAAAAgSEIkolikCJtkkSQoEEogA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
-
-<p></p>
-
-* Таланты [Статическое накопление](https://www.wowhead.com/ru/spell=384411/) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444) ощутимо усиливают [Цепную молнию](https://ru.wowhead.com/spell=188443), делая её крайне сильной способностью на АоЕ.
-
-* [Кольцо огня](https://www.wowhead.com/ru/spell=333974) теперь считается и огненным, и физическим уроном, что позволяет талантам [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/) и [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) дополнительно усиливать его урон. 
-
-* За счет большого количества генерации [Оружия Водоворота](https://ru.wowhead.com/spell=187880) можно будет вызывать сразу несколько [Духов дикого зверя](https://www.wowhead.com/ru/spell=51533/), что в сочетании с талантом [Альфа-волк](https://ru.wowhead.com/spell=198434) даст большое количество АоЕ урона без ограничения на количество целей.
-
-* Если заменить всю ветку после таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) на [Первозданную волну](https://ru.wowhead.com/spell=375982) и связанные с ней таланты, то получится так называемый **гибридный** билд, который дает самый сильный бурст Энх Шамана – сочетание бонусной Скорости от таланта [Расколотые стихии](https://www.wowhead.com/ru/spell=382042), урон от [Ветров рока](https://www.wowhead.com/ru/spell=384352) и бонус [сетового комплекта](https://www.wowhead.com/ptr/item-set=1550) после использования [Раскола](https://www.wowhead.com/ru/spell=197214).
-
-
-<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> «нобрейн» билд с минимумом кнопок:
+<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд для Мифик+ на Тиранических неделях:
 
 <p></p>
 
@@ -187,7 +170,12 @@ custom-javascript-list:
 
 <p></p>
 
+* Таланты [Статическое накопление](https://www.wowhead.com/ru/spell=384411/) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444) ощутимо усиливают [Цепную молнию](https://ru.wowhead.com/spell=188443), делая её крайне сильной способностью на АоЕ.
+
+
 * Данный билд является одним из вариантов <span style="color:#FFFFFF;font-size:1em;">**Физических**</span> билдов, но без взятых талантов [Кольцо огня](https://www.wowhead.com/ru/spell=333974/) и [Буря с градом](https://www.wowhead.com/ru/spell=334195/). Несмотря на свою простоту, этот билд на данный момент отлично себя показывает как в бою против одной цели, так и на АоЕ, и подходит для высоких ключей.
+
+* За счет большого количества генерации [Оружия Водоворота](https://ru.wowhead.com/spell=187880) можно будет вызывать сразу несколько [Духов дикого зверя](https://www.wowhead.com/ru/spell=51533/), что в сочетании с талантом [Альфа-волк](https://ru.wowhead.com/spell=198434) даст большое количество АоЕ урона без ограничения на количество целей.
 
 * Основной АоЕ урон в этом билде идет за счет сет-бонуса второго сезона: [Мощь вулкана](https://www.wowhead.com/ru/spell=409833), [Мощь земли](https://www.wowhead.com/ru/spell=409689) и [Трескучий гром](https://www.wowhead.com/ru/spell=409834). [Раскол](https://www.wowhead.com/ru/spell=197214), наравне с [Ветрами рока](https://www.wowhead.com/ru/spell=384352), является основной бурст способностью.
 
