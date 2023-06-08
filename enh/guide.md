@@ -378,7 +378,7 @@ custom-javascript-list:
 3. {:.totem-apl}[Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512), если он не активен.
 9. {:.dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 6. {:.no-dw-apl}[Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-6. {:.dw-apl}[Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), или во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352) при **5+** стаках.
+6. {:.dw-apl}[Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), а во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352) – при **5+** стаках.
 10. {:.dw-apl .no-two-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 13. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится **6** противников.
 17. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
