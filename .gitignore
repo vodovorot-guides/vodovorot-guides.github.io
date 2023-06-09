@@ -2,3 +2,5 @@ _site
 .sass-cache
 .jekyll-metadata
 assets/img/lightnings.png
+.vscode/settings.json
+.gitignore
