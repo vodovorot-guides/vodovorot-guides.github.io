@@ -39,7 +39,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 **Affix [Afflicted](https://www.wowhead.com/affix=135):**
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes a curse from the afflicted.
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – greatly simplifies this affix, one use of the totem will remove poisons from both afflicted (after a period of 1.5 seconds). The totem can be used on every second spawn of the afflicted, the talent [Totemic Surge](https://www.wowhead.com/spell=381867) does not allow you to use the totem on every spawn.
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – greatly simplifies this affix, one use of the totem will remove poisons from both afflicted (after a period of 1.5 seconds). The totem can be used on every second spawn of the afflicted. Elemental specialisation with talents [Totemic Surge](https://www.wowhead.com/spell=381867) and [Flash of Lightning](https://www.wowhead.com/spell=381936) can use the totem on every spawn most of the time.
 
 **Brackenhide Hollow:**
 * [Stoneskin Totem](https://wowhead.com/spell=383017) - useful against [Gash Frenzy](https://www.wowhead.com/spell=378020) casted by first boss ([Gashtooth](https://www.wowhead.com/npc=186124)).
