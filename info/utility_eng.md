@@ -87,8 +87,8 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 **The Vortex Pinnacle:**
 * [Purge](https://www.wowhead.com/spell=370) –  removes [Storm Shield](https://www.wowhead.com/spell=411743) on [Turbulent Squall](https://www.wowhead.com/npc=45924) when they reach 50% health (trash before the second boss).
+* [Purge](https://www.wowhead.com/spell=370) –  removes [Vapor Form](https://www.wowhead.com/spell=88186) on [Empyrean Assassin](https://www.wowhead.com/npc=45922) (trash before the second boss). Also, this cast can be interrupted.
 * [Stoneskin Totem](https://wowhead.com/spell=383017) - useful against [Crashing Stone](https://www.wowhead.com/spell=413387) casted by [Executor of the Caliph](https://www.wowhead.com/npc=45928) (trash after second boss).
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Lethargic Poison](https://www.wowhead.com/spell=88182) inflicted by [Empyrean Assassin](https://www.wowhead.com/npc=45922) on tanks (trash before second boss).
 
 
 <p></p>
