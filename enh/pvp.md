@@ -451,16 +451,18 @@ image: /assets/img/enh_tb2.png
 
 ## WeakAuras
 
-[Doom Winds](https://wago.io/MPyWLEag4) - отслеживание Ветров рка
-[BloodLust](https://wago.io/EleKYtkKC) - отслеживание Жажды крови
-[Feral Spirits](https://wago.io/eNRZhoX7R) - отслеживание Духов дикого зверя
-[MaelstormWeapon](https://wago.io/VnJ1ceApg) - отслеживание **10** зарядов водоворота
-[Shadi Totem PersonalResource Display](https://wago.io/h-XPic6U5) - отслеживание аптайма важных тотемов на личном ресурсе (в центре экрана ваши мана и хп)
+* [Doom Winds](https://wago.io/MPyWLEag4) - отслеживание [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+* [BloodLust](https://wago.io/EleKYtkKC) - отслеживание Жажды крови
+* [Feral Spirits](https://wago.io/eNRZhoX7R) - отслеживание Духов дикого зверя
+* [MaelstormWeapon](https://wago.io/VnJ1ceApg) - отслеживание **10** зарядов водоворота
+* [Shadi Totem PersonalResource Display](https://wago.io/h-XPic6U5) - отслеживание аптайма важных тотемов на личном ресурсе (в центре экрана ваши мана и хп)
 
-[Enemy Burst CD Made by Teea](https://wago.io/UHafT-sln/5) - анонс бурстов вражеской команды
-[Trap Incoming](https://wago.io/J2eFIGoag) - анонс когда охотник использует замораживающую ловушку (для использования тотема заземления)
-[PVP Totem Nameplate Icon](https://wago.io/0WHEPOBNz/3) - добавляет иконки тотемов над их ХП (для что бы проще различать и быстрей убивать вражеские тотемы)
-[Target's intervened](https://wago.io/TVNkYvDzB/2) - отображение когда воин дал вам "Интервейн"
+<p></p>
+
+* [Enemy Burst CD Made by Teea](https://wago.io/UHafT-sln/5) - анонс бурстов вражеской команды
+* [Trap Incoming](https://wago.io/J2eFIGoag) - анонс когда охотник использует замораживающую ловушку (для использования тотема заземления)
+* [PVP Totem Nameplate Icon](https://wago.io/0WHEPOBNz/3) - добавляет иконки тотемов над их ХП (для что бы проще различать и быстрей убивать вражеские тотемы)
+* [Target's intervened](https://wago.io/TVNkYvDzB/2) - отображение когда воин дал вам "Интервейн"
 
 ## Сетапы для Энх шамана 2v2 Сезон2 Dragonflight
 
