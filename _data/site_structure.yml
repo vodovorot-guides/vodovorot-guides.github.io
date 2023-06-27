@@ -14,10 +14,10 @@ categories:
         url: /enh/guide.html
       - title: Способности и таланты
         url: /enh/spells.html
-        divided: true
       - title: PvP-гайд
         url: /enh/pvp.html
-
+        divided: true
+        
   - title: Рестор
     url: /resto/guide.html
     subcategories:
