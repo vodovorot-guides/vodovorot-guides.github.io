@@ -10,7 +10,7 @@ image: /assets/img/pvp.jpg
 ---
 
 <p align="center">
-<img src="/assets/img/pvp.jpg" width=400x> 
+<img src="/assets/img/pvp.jpg" width=600x> 
 </p>
 
 
