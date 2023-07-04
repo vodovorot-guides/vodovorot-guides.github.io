@@ -399,7 +399,7 @@ image: /assets/img/logos/spells.png
 * Внешний вид волков можно сменить на призрачных ящеров с помощью [Символа духов ящера](https://www.wowhead.com/ru/item=104126), который покупается на аукционе.
 * Усиливается следующими талантами:
   * [Шаманское наследие](https://www.wowhead.com/ru/spell=384447/) – при каждом получение стака [Оружия Водоворота](https://ru.wowhead.com/spell=187880) сокращается кулдаун [Духа дикого зверя](https://ru.wowhead.com/spell=51533) на **1/2** секунды.
-  * [Духи стихий](https://www.wowhead.com/ru/spell=262624) – вместо увеличения физического урона, волки усиливают урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span>, <span style="color:#f16f25;font-size:1em;">**огня**</span> или <span style="color:#8fd5fe;font-size:1em;">**льда**</span> на **15%**. Выбор стихий происходит случайным образом при призыве, они могут быть как разными, таки одинаковыми.
+  * [Духи стихий](https://www.wowhead.com/ru/spell=262624) – вместо увеличения физического урона, волки усиливают урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span>, <span style="color:#f16f25;font-size:1em;">**огня**</span> или <span style="color:#8fd5fe;font-size:1em;">**льда**</span> на **20%**. Выбор стихий происходит случайным образом при призыве, они могут быть как разными, таки одинаковыми.
   * [Альфа-волк](https://www.wowhead.com/ru/spell=198434) – волки начинают наносить АоЕ урон после применения [Сокрущающей молнии](https://www.wowhead.com/ru/spell=187874) или [Цепная молния](https://www.wowhead.com/ru/spell=188443/).
 
 <hr style="height:1px;background-color:#bbb">
