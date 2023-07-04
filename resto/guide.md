@@ -55,9 +55,6 @@ image: /assets/img/resto_tb2.png
 
 Основной рейдовый билд, рассчитанный на использование [Цепного исцеления](https://ru.wowhead.com/spell=1064). Однако не стоит им спамить, усиливайте его соответствующими талантами и применяйте в нужное время.
 
-Пробуждение предка можно заменить на [Первозданную волну](https://www.wowhead.com/ru/spell=375982) и [Благословение Говорящей с волнами](https://ru.wowhead.com/spell=381946) для более удобного отхила разрозненных целей. 
-{: class="bordered"}
-
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIRSiSCpRSTSRLKJRQQJBAINJppkIIJJJh0C?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>

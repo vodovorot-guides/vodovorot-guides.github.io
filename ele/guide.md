@@ -2,7 +2,7 @@
 layout: page
 last_update: 2023-03-22
 title: Гайд на Элем Шамана
-wow: 10.0.7
+wow: 10.1
 toc: true
 author: Amani
 image: /assets/img/ele_tb2.png
@@ -263,6 +263,7 @@ custom-javascript-list:
 1. {:.sk-apl .no-sop-apl}[Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) за **5** секунд до пула.
 1. {:.fire-apl}[Элементаль огня](https://www.wowhead.com/ru/spell=198067) за **3** секунды до пула.
 1. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) за **3** секунды до пула.
+  * {:.two-apl}Не берите противника в цель в момент вызова [Элементаль бури](https://ru.wowhead.com/spell=192249), чтобы не вступить в бой раньше времени и не получить бафф от сетового комплекта досрочно.
 1. {:.no-if-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) за **1.5** секунд до пула.
 1. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **1.5** секунд до пула.
 1. {:.no-pw-apl .if-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
