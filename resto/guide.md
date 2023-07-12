@@ -77,10 +77,24 @@ image: /assets/img/resto_tb2.png
 
 # Таланты для Мифик+
 
+## Основной билд
+
+Основной билд для Мифик+, подойдет для большинства подземелий:
 
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIpJJJJplQKSSTCNIpEESJJEog0kASiSSSIBtA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+
+<p></p>
+
+
+## Альтернативный билд
+
+Альтернативный билд для Мифик+, гораздо сильнее экономит ману и пригодится в высоких ключах, когда необходим дополнительный отхил:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIpJRSSaJlkik0E0gkSQIlkQgCSTCIJKJJhEI?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
 <p></p>
 
@@ -103,6 +117,8 @@ image: /assets/img/resto_tb2.png
 * [Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 
 <p></p>
+
+
 
 Популярность талантов на каждое подземелье можно посмотреть на [Warcraftlogs](https://www.warcraftlogs.com/), например по [этой ссылке](https://www.warcraftlogs.com/zone/rankings/32#leaderboards=1&class=Shaman&spec=Restoration&boss=61477) можно увидеть таланты на Чертоги Доблести, и так далее.
 {: class="bordered"}
