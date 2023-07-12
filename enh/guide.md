@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2023-07-08
+last_update: 2023-07-12
 title: Гайд на Энх Шамана
 wow: 10.1.5
 toc: true
@@ -325,6 +325,7 @@ custom-javascript-list:
 15. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) если у вас **2** заряда этой способности и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 14. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982) и при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 15. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) если у вас **1** заряд этой способности и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+12. {:.four-apl .pw-apl}[Цепная молния](https://ru.wowhead.com/spell=188443) с баффом от сет-бонуса [Трескучий гром](https://www.wowhead.com/ru/spell=409834/) и при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 29. {:.sa-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 21. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 20. {:.ll-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
