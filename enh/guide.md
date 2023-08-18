@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2023-07-12
+last_update: 2023-08-18
 title: Гайд на Энх Шамана
 wow: 10.1.5
 toc: true
@@ -155,7 +155,7 @@ custom-javascript-list:
 ## Таланты для Мифик+
 
 
-<span style="color:#f16f25;font-size:1em;">**Cтихийный**</span> билд для Мифик+ на Укрепленных неделях:
+<span style="color:#f16f25;font-size:1em;">**Cтихийный**</span> билд для Мифик+ для высоких ключей (больше АоЕ):
 
 <p></p>
 
@@ -180,7 +180,7 @@ custom-javascript-list:
 
 
 
-<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд для Мифик+ на Тиранических неделях:
+<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд для Мифик+ для низких ключей (больше СТ):
 
 <p></p>
 
