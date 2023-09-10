@@ -3,7 +3,6 @@ title: Конфигурация ПК Amani
 layout: page
 last_update: 2023-09-10
 wow: 10.2
-toc: true
 author: Amani
 ---
 
