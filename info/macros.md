@@ -22,7 +22,7 @@ image: /assets/img/logos/macros.png
 * Макрос для призыва летающего маунта в зависимости от зоны. Также применяет {{ site.data.spells.waterwalking }} (без ГКД).
 ~~~
 #showtooltip
-/cast [nomounted,nocombat] Хождение по воде
+/cast [nomounted] Хождение по воде
 /cast Обновленный протодракон
 /cast [flyable] Красный протодракон
 /cast [noflyable] Громадный гррлок
