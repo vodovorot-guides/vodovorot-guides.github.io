@@ -414,7 +414,6 @@ custom-javascript-list:
 * [Астральный сдвиг](https://www.wowhead.com/ru/spell=108271/) – основной сейв.
 * [Лед и пламя](https://www.wowhead.com/ru/spell=382886) – пассивное увеличение урона.
 * [Гнев природы](https://www.wowhead.com/ru/spell=381655) – пассивное увеличение урона.
-* [Улучшенная молния](https://www.wowhead.com/ru/spell=381674) – пассивное увеличение урона.
 * [Защита от стихий](https://www.wowhead.com/ru/spell=381650) – снижает получаемый магический урон.
 * [Защита предков](https://www.wowhead.com/ru/spell=382947) – увеличивает Избежание и Самоисцеление.
 * [Переполняющая сила жизни](https://www.wowhead.com/ru/spell=381689/) – увеличивает запас здоровья на **8%**.
