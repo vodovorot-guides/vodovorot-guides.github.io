@@ -448,6 +448,22 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+<a href="https://ru.wowhead.com/spell=191634" target="blank" data-wh-icon-size="medium" >**Перерождение**</a> – бурст, во время которого [Выброс лавы](https://ru.wowhead.com/spell=51505) не имеет времени восстановления, а его урон увеличивается на значение показателя Критического удара.
+
+> Ascendance, Asc, Асц, Мужик.
+
+* Базовый бурст длится **15** секунд со временем восстановления **3** минуты, но можно взять его проковую версию через талант [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270).
+* Шанс активации таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) возрастает на **1%** с каждым кастом [Выброса лавы](https://ru.wowhead.com/spell=51505), начиная с двойного нулевого процента: **0%**, **0%**, **1%**, **2%** и так далее, до следующего прока.
+* При активации [Перерождение](https://ru.wowhead.com/spell=114049) обновляет [Огненный шок](https://ru.wowhead.com/spell=188389) на всех целях и использует на них [Выброс лавы](https://ru.wowhead.com/spell=51505).
+* {{ site.data.spells.cl }} под действием [Перерождения](https://ru.wowhead.com/spell=114049) превращается в [Поток лавы](https://ru.wowhead.com/spell=114074), увеличивая свой урон на **10%** за каждую пораженную дополнительную цель.
+* Усиливается следующими талантами:
+  * [Клятва провидца](https://www.wowhead.com/ru/spell=381785/) – сокращает кулдаун на **30/60** секунд и увеличивает Скорость во время активации на **7%/15%**.
+  * [Далекие пределы](https://www.wowhead.com/ru/spell=381787/) – спендеры продлевают время действия [Перерождения](https://ru.wowhead.com/spell=114049), но не более чем в полтора раза от его длительности.
+  * Все таланты, влияющие на [Выброс лавы](https://ru.wowhead.com/spell=51505).
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 <a href="https://ru.wowhead.com/spell=191634" target="blank" data-wh-icon-size="medium" >**Хранитель бурь**</a> – усиливает [Молнию](https://ru.wowhead.com/spell=188196) или [Цепную молнию](https://ru.wowhead.com/spell=188443) на два каста с кулдауном **1** минута.
 
 > Stormkeeper, SK, Keeper, СК, ХБ (не стоит), Штормкипер, Кипер.
@@ -705,7 +721,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://www.wowhead.com/ru/spell=51886" target="blank" data-wh-icon-size="small" >**Очищение духа**</a> – снимает все проклятия с выбранного союзника.
+<a href="https://www.wowhead.com/ru/spell=51886" target="blank" data-wh-icon-size="medium" >**Очищение духа**</a> – снимает все проклятия с выбранного союзника.
 
 
 > Cleance Spirit, Decurse, Клинс, Декурс.
@@ -983,7 +999,7 @@ image: /assets/img/logos/spells.png
   * [Вспышка молнии](https://www.wowhead.com/ru/spell=381936) – снижает кулдаун за каждый каст [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://ru.wowhead.com/spell=188443).
 
 
-* <a href="https://ru.wowhead.com/spell=370" target="blank" data-wh-icon-size="small" >**Развеивание магии**</a> – снимает с противника один благотворный магический эффект, не имеет кулдауна.
+* <a href="https://ru.wowhead.com/spell=370" target="blank" data-wh-icon-size="medium" >**Развеивание магии**</a> – снимает с противника один благотворный магический эффект, не имеет кулдауна.
 
 > Purge, Пурдж, Диспел (одно из значений), Очищение, Снятие магии.  
 

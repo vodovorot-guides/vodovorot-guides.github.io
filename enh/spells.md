@@ -434,8 +434,11 @@ image: /assets/img/logos/spells.png
 
 * Превращает [Удар бури](https://www.wowhead.com/ru/spell=17364) в [Удар ветра](https://www.wowhead.com/ru/spell=115356), а автоатаки в [Хлещущий ветер](https://www.wowhead.com/ru/spell=147051), позволяя им бить цели на расстоянии до **30** метров и игнорировать броню.
 * [Удар ветра](https://www.wowhead.com/ru/spell=115356) имеет сниженный на **60%** кулдаун по сравнению с [Ударом бури](https://www.wowhead.com/ru/spell=17364).
-* При активации [Перерождения](https://ru.wowhead.com/spell=114051) вы мгновенно наносите урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span> всем противникам в радиусе **8** метров.\
-* Вместо самого [Перерождения](https://ru.wowhead.com/spell=114051) можно взять талант на его проковую версию – [Укоренившиеся стихии](https://ru.wowhead.com/spell=378270). С ним [Удар бури](https://www.wowhead.com/ru/spell=17364) имеет **7%** шанс активировать [Перерождение](https://ru.wowhead.com/spell=114051) на **6** секунд, нанося при этом урон от активации.
+* При активации [Перерождения](https://ru.wowhead.com/spell=114051) вы мгновенно наносите урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span> всем противникам в радиусе **8** метров.
+* Базовый бурст длится **15** секунд со временем восстановления **3** минуты, но можно взять его проковую версию через талант [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270).
+* Шанс активации таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) возрастает на **1%** с каждым применением [Удар бури](https://www.wowhead.com/ru/spell=17364), начиная с двойного нулевого процента: **0%**, **0%**, **1%**, **2%** и так далее, до следующего прока.
+
+
 * Усиливается следующими талантами:
   * [Статическое накопление](https://www.wowhead.com/ru/spell=384411/) – во время активного [Перерождения](https://ru.wowhead.com/spell=114051) генериурется **2** стака [Оружия Водоворота](https://ru.wowhead.com/spell=187880) раз в **1** секунду.
   * [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444) – [Удар ветра](https://www.wowhead.com/ru/spell=115356) автоматически поглощает **5** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и выпускает [Молнию](https://www.wowhead.com/ru/spell=188196/) или [Цепную молнию](https://www.wowhead.com/ru/spell=188443/), в зависимости от последнего примененного заклинания.
@@ -681,7 +684,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://www.wowhead.com/ru/spell=51886" target="blank" data-wh-icon-size="small" >**Очищение духа**</a> – снимает все проклятия с выбранного союзника.
+<a href="https://www.wowhead.com/ru/spell=51886" target="blank" data-wh-icon-size="medium" >**Очищение духа**</a> – снимает все проклятия с выбранного союзника.
 
 
 > Cleance Spirit, Decurse, Клинс, Декурс.
@@ -691,7 +694,11 @@ image: /assets/img/logos/spells.png
 * Кулдаун запускается только в том случае, если был снят магический эффект или проклятие, иначе потратится только ГКД и мана.
 * Обязательная способность на [Изнемогающем](https://www.wowhead.com/ru/affix=135/) модификаторе в Мифик+.
 
+Тотем каменной кожи
 
+Тотем противоядия
+
+Тотем трепета
 
 ## Передвижение
 
@@ -802,8 +809,6 @@ image: /assets/img/logos/spells.png
 
 
 ## Контроль
-
-
 
 
 
@@ -957,7 +962,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-* <a href="https://ru.wowhead.com/spell=370" target="blank" data-wh-icon-size="small" >**Развеивание магии**</a> – снимает с противника один благотворный магический эффект, не имеет кулдауна.
+* <a href="https://ru.wowhead.com/spell=370" target="blank" data-wh-icon-size="medium" >**Развеивание магии**</a> – снимает с противника один благотворный магический эффект, не имеет кулдауна.
 
 > Purge, Пурдж, Диспел (одно из значений), Очищение, Снятие магии.  
 
