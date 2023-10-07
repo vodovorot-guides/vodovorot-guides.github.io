@@ -1397,8 +1397,6 @@ image: /assets/img/logos/spells.png
 <p></p>
 
 <a href="https://www.wowhead.com/ru/spell=212048" target="blank" data-wh-icon-size="medium" >**Древнее видение**</a> – воскрешение союзников вне боя.
-<details markdown=1><summary><i>Подробнее...</i></summary>
-<p></p>
 
 > Ancestral Vision, Рес.
 
