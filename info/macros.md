@@ -113,6 +113,7 @@ image: /assets/img/logos/macros.png
 ~~~
 
 * Вне боя использует {{ site.data.spells.ressurect }} (для Рестора замените на {{ site.data.spells.mass_res }}), а в бою – инженерский батл-рес в наручах.
+~~~
 #showtooltip
 /use [combat] Сложные манжеты; [nocombat] Дух предков
 ~~~
