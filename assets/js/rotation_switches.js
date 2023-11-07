@@ -110,23 +110,23 @@ function on_build_button_click(button, talent_list) {
     button.blur();
 }
 
-$('button#build_ele_fire_raid').on('click', function() {
-    on_build_button_click(this, ["fire", "pw", "dre", "mote", "if", "ls", "eb"]);
+$('button#build_ele_fire_raid_main').on('click', function() {
+    on_build_button_click(this, ["fire", "ls", "if", "es", "sop", "mote", "eb", "pw", "dre"]);
+    return false;
+});
+
+$('button#build_ele_fire_raid_alt').on('click', function() {
+    on_build_button_click(this, ["fire", "ls", "if", "es", "sop", "mote", "pw", "dre"]);
     return false;
 });
 
 $('button#build_ele_fire_mplus').on('click', function() {
-    on_build_button_click(this, ["fire", "lmt", "pw", "sk", "dre", "sop", "mote", "if", "es", "ls", "eb"]);
+    on_build_button_click(this, ["fire", "ls", "sk", "sop", "mote", "lmt", "pw", "dre"]);
     return false;
 });
 
 $('button#build_ele_storm_raid').on('click', function() {
-    on_build_button_click(this, ["storm", "ls", "sk", "sop", "mote", "if", "es", "eb", "two"]);
-    return false;
-});
-
-$('button#build_ele_storm_mplus').on('click', function() {
-    on_build_button_click(this, ["storm", "sk", "sop", "mote", "if", "es", "eb", "eogs", "two"]);
+    on_build_button_click(this, ["storm", "sk", "sop", "mote", "if", "es", "eb", "two"]);
     return false;
 });
 
