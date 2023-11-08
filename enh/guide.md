@@ -54,7 +54,7 @@ custom-javascript-list:
 * Урон [Первозданной волны](https://www.wowhead.com/ru/spell=375982) повышен на **500%**.
 * Новый пассивный талант, который можно выбрать вместо [Удара духов стихий](https://www.wowhead.com/ru/spell=117014): [Ураганные удары](https://www.wowhead.com/ru/spell=428071/). Он позволяет [Удару бури](https://www.wowhead.com/ru/spell=17364), [Вскипанию лавы](https://www.wowhead.com/ru/spell=60103) и [Ледяному клинку](https://www.wowhead.com/ru/spell=342240) дополнительно наносить цели урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span> в размере **35%** от силы атаки.
 * Позиции некоторых талантов были [изменены](https://www.wowhead.com/ptr-2/talent-calc/shaman/enhancement). Теперь для взятия [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) не нужно брать [Гнев шторма](https://www.wowhead.com/ru/spell=392352).
-* [Атака стихий](https://www.wowhead.com/ru/spell=210853) теперь также дает стаки [Оружие Водоворота](https://www.wowhead.com/ru/spell=187880) за [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) и [Ледяный клинок](https://www.wowhead.com/ru/spell=342240), помимо [Удара бури](https://www.wowhead.com/ru/spell=17364).
+* [Атака стихий](https://www.wowhead.com/ru/spell=210853) теперь также дает стаки [Оружие Водоворота](https://www.wowhead.com/ru/spell=187880) за [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) и [Ледяной клинок](https://www.wowhead.com/ru/spell=342240), помимо [Удара бури](https://www.wowhead.com/ru/spell=17364).
 * [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) теперь увеличивает не только <span style="color:#FFFFFF;font-size:1em;">**физический**</span> урон, но и урон от магии <span style="color:#8fd5fe;font-size:1em;">**льда**</span>.
 * [Первозданную волну](https://www.wowhead.com/ru/spell=326059/) больше нельзя использовать для исцеления союзников.
 * Талант [Расколотые стихии](https://www.wowhead.com/ru/spell=382042) теперь увеличивает скорость на **20%** и по **4%** за каждого дополнительного врага, пораженного [Молнией](https://www.wowhead.com/ru/spell=188196/) от [Первозданной волны](https://www.wowhead.com/ru/spell=326059/).
@@ -201,7 +201,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSKRCCJhcgk0QJRCAAAAAAAAAAAAoEhkQiSKiCJtkkCgSQCBC?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSKRQikEik0QJRAAAAAAAAAAAAAKRIJkokioQSLJpAoEkQgA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
