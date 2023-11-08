@@ -130,30 +130,27 @@ $('button#build_ele_storm_raid').on('click', function() {
     return false;
 });
 
-$('button#build_enh_phys_raid').on('click', function() {
-    on_build_button_click(this, ["totem", "ll", "ic", "dre", "sa", "eb", "dw", "fw", "two", "four"]);
-    return false;
-});
-
-$('button#build_enh_phys_mplus').on('click', function() {
-    on_build_button_click(this, ["ll", "cl", "dre", "sa", "fn", "dw", "fw", "two", "four"]);
-    return false;
-});
-
-$('button#build_enh_phys_bfa').on('click', function() {
-    on_build_button_click(this, ["totem", "cl", "dre", "sa", "ic", "dw", "fw", "two", "four"]);
-    return false;
-});
-
 $('button#build_enh_elem_raid').on('click', function() {
-    on_build_button_click(this, ["totem", "ll", "ic", "hs", "eb", "pw", "hh", "lf", "es", "two", "four"]);
+    on_build_button_click(this, ["totem", "ll", "ic", "hs", "eb", "pw", "hh", "lf", "es", "five"]);
     return false;
 });
 
 $('button#build_enh_elem_mplus').on('click', function() {
-    on_build_button_click(this, ["totem", "ll", "cl", "ic", "hs", "pw", "hh", "lf", "es", "two", "four"]);
+    on_build_button_click(this, ["ll", "cl", "ic", "hs", "eb", "sunder", "pw", "hh", "lf", "es", "five"]);
     return false;
 });
+
+$('button#build_enh_elem_mplus_alt').on('click', function() {
+    on_build_button_click(this, ["ll", "cl", "ic", "hs", "eb", "pw", "hh", "es", "five"]);
+    return false;
+});
+
+$('button#build_enh_phys_raid').on('click', function() {
+    on_build_button_click(this, ["totem", "ll", "ic", "dre", "sa", "sunder", "dw", "fw", "two", "four"]);
+    return false;
+});
+
+
 
 $("button[id^='target_']").on('click', function() {
     reset_target_buttons_state();

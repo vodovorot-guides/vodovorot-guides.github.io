@@ -54,7 +54,7 @@ custom-javascript-list:
 * Талант [Расколотые стихии](https://www.wowhead.com/ru/spell=382042) теперь увеличивает скорость на **20%** и по **4%** за каждого дополнительного врага, пораженного [Выбросом лавы](https://www.wowhead.com/ru/spell=51505/) от [Первозданной волны](https://www.wowhead.com/ru/spell=326059/).
 * Талант [Далекие пределы](https://www.wowhead.com/ru/spell=381787/) теперь продлевает [Перерождение](https://www.wowhead.com/ru/spell=114050/) максимум на **100%** от его изначальной длительности.
 * [Первозданную волну](https://www.wowhead.com/ru/spell=326059/) больше нельзя использовать для исцеления союзников.
-* [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) теперь продлевает время длительности баффов на характеристики до **130%** от их изначального значения, но все приоритетно дает бафф на отсутствующую характеристику.
+* [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) теперь продлевает время длительности баффов на характеристики до **130%** от их изначального значения, но все еще приоритетно дает бафф на отсутствующую характеристику.
 * [Источник маны](https://www.wowhead.com/ru/spell=381930) теперь восстанавливает **150** единиц маны вместо **250**.
 
 <p></p>
@@ -101,7 +101,7 @@ custom-javascript-list:
 <p></p>
 
 
-<details markdown=1><summary><b>Стандартный <span style="color:#f16f25;font-size:1em;">Огненный</span> билд:</b></summary>
+<details markdown=1><summary><b>Стандартный <span style="color:#f16f25;font-size:1em;">Огненный</span> билд</b></summary>
 <p></p>
 
 <p></p>
@@ -125,7 +125,7 @@ custom-javascript-list:
 <p></p>
 
 
-<details markdown=1><summary><b>Альтернативный <span style="color:#f16f25;font-size:1em;">Огненный</span> билд:</b></summary>
+<details markdown=1><summary><b>Альтернативный <span style="color:#f16f25;font-size:1em;">Огненный</span> билд</b></summary>
 <p></p>
 
 <p></p>
@@ -174,7 +174,7 @@ custom-javascript-list:
 
 
 
-<details markdown=1><summary><b>Основной <span style="color:#f16f25;font-size:1em;">Огненный</span> АоЕ билд:</b></summary>
+<details markdown=1><summary><b>Основной <span style="color:#f16f25;font-size:1em;">Огненный</span> АоЕ билд</b></summary>
 <p></p>
 
 <p></p>
@@ -256,7 +256,7 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_eogs"> [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087)</li>
   <li markdown="span" class="rotation_switch">
-    <input class="form-check-input" type="checkbox" id="rotation_switch_two"> [Две части Т30](https://www.wowhead.com/ptr/item-set=1550)</li>  
+    <input class="form-check-input" type="checkbox" id="rotation_switch_two"> [Две части Т30](https://www.wowhead.com/ru/item-set=1550)</li>  
 </ul>
 
 
@@ -280,7 +280,7 @@ custom-javascript-list:
 1. {:.two-apl .fire-apl}[Элементаль огня](https://www.wowhead.com/ru/spell=198067) за **3** секунды до пула.
 1. {:.two-apl .storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) за **3** секунды до пула.
   * {:.two-apl}Не берите противника в цель в момент вызова [Элементаль бури](https://ru.wowhead.com/spell=192249), чтобы не вступить в бой раньше времени и не получить бафф от сетового комплекта досрочно.
-1. {:.two-apl. no-if-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) за **1.5** секунд до пула.
+1. {:.two-apl no-if-apl}[Выброс лавы](https://www.wowhead.com/ru/spell=51505) за **1.5** секунд до пула.
 1. {:.two-apl .if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **1.5** секунд до пула.
 1. {:.two-apl .no-pw-apl .if-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
 1. {:.two-apl .no-if-apl}[Огненный шок](https://www.wowhead.com/ru/spell=188389).
@@ -411,21 +411,33 @@ custom-javascript-list:
 
 # Характеристики
 
+**Интеллект** – лучшая характеристика, так как повышает весь урон и растет от уровня предметов гораздо сильнее, чем вторичные статы. Поэтому в первую очередь стоит смотреть на уровень предметов.
+
+С выбором вещей поможет [Raidbots](https://www.raidbots.com/simbot). Краткое руководство доступно [по этой ссылке](https://stormkeeper.ru/info/sim.html).
+
 
 ## Приоритет характеристик
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 Приоритет статов для <span style="color:#f16f25;font-size:1em;">**Огненных**</span> билдов в СТ и АоЕ:
 
-* **Интеллект** >> **Искусность** до **88%** >> **Скорость** >> **Универсальность** >> **Критический удар**.
+* **Интеллект** > **Искусность** до **88%** > **Скорость** > **Универсальность** > **Критический удар**.
 
 * **Искусность** до **88%** собирается, чтобы иметь **100%** шанс на прок [Перегрузки](https://ru.wowhead.com/spell=168534) с активным баффом от [Удара духов стихий](https://www.wowhead.com/ru/spell=117014).
 * После сбора Искусности, стоит собирать Скорость примерно до **~24%**, а все остальные характеристики оставить на Универсальность.
 * Указанные выше советы **не работают** на этапе одевания персонажа и распространяются только на лучшую экипировку **489** уровня предметов. 
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 Приоритет статов для <span style="color:#71d5ff;font-size:1em;">**Молниевых**</span> билда в СТ и АоЕ:
 
-* **Интеллект** >> **Критический удар** = **Скорость** >> **Универсальность** >> **Искусность**.
+* **Интеллект** > **Критический удар** = **Скорость** > **Универсальность** > **Искусность**.
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 С выбором вещей поможет [Raidbots](https://www.raidbots.com/simbot). Краткое руководство доступно [по этой ссылке](https://stormkeeper.ru/info/sim.html).
 
@@ -520,7 +532,7 @@ custom-javascript-list:
 
 ## БИС-лист
 
-В данном разделе указан БИС-лист, собранный в рейде и Мифик+. Данный список нужен по следующим причинам:
+В данном разделе указан список лучшей экипировки, собранной в рейде и Мифик+. Это нужно по следующим причинам:
 1. Если ваш рейд-лидер требует предоставить ему список лучшей экипировки из рейда для более удобного распределения.
 2. Если вы хотите сразу начать фармить определенные предметы в Мифик+ в начале сезона, когда [Droptimizer](<https://www.raidbots.com/simbot/droptimizer>) может показывать не самые актуальные данные.
 
@@ -597,7 +609,7 @@ custom-javascript-list:
 
 ## Улучшение предметов
 
-1. **Лучшиме аксессуары**. 
+1. **Лучшие аксессуары**. 
 2. **Оружие**. 
 3. **Сетовые предметы**. 
 4. **Предметы с лучшими характеристиками**. 
@@ -776,10 +788,10 @@ custom-javascript-list:
 
 ## WeakAuras
 
-Рекомендованная сборка от [Amani](https://www.twitch.tv/amanizandalari) – [по этой ссылке](https://wago.io/KbqSzg3ps).
+Рекомендованная сборка от [Amani](https://www.twitch.tv/amanizandalari) – [по этой ссылке](https://wago.io/HJxL_fG7C).
 
 <p align="center">
-    <img src="https://media.wago.io/screenshots/KbqSzg3ps/6351036870c70b6bca4d14f6.gif"> 
+    <img src="https://media.wago.io/screenshots/HJxL_fG7C/654372e20cc9668f64e2fda6.gif"> 
 </p>
 
 <p></p>
