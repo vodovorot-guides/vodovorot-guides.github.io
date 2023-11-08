@@ -88,7 +88,7 @@ C новым сетовым комплектом в третьем сезоне 
 <p></p>
 
 
-<details markdown=1><summary><b>Билд через Цепное исцеление</b></summary>
+<details markdown=1><summary><b><span style="color:#FFFFFF;font-size:1em;">Билд через Цепное исцеление</span></b></summary>
 <p></p>
 
 <p></p>
@@ -108,7 +108,7 @@ C новым сетовым комплектом в третьем сезоне 
 
 
 
-<details markdown=1><summary><b>Билд через Быстрину</b></summary>
+<details markdown=1><summary><b><span style="color:#FFFFFF;font-size:1em;">Билд через Быстрину</span></b></summary>
 <p></p>
 
 <p></p>
@@ -137,7 +137,7 @@ C новым сетовым комплектом в третьем сезоне 
 <p></p>
 
 
-<details markdown=1><summary><b>Билд с упором на урон</b></summary>
+<details markdown=1><summary><b><span style="color:#FFFFFF;font-size:1em;">Билд с упором на урон</span></b></summary>
 <p></p>
 
 <p></p>
@@ -157,7 +157,7 @@ C новым сетовым комплектом в третьем сезоне 
 
 
 
-<details markdown=1><summary><b>Билд с упором на исцеление</b></summary>
+<details markdown=1><summary><b><span style="color:#FFFFFF;font-size:1em;">Билд с упором на исцеление</span></b></summary>
 <p></p>
 
 <p></p>
