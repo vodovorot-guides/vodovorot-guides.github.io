@@ -721,8 +721,6 @@ custom-javascript-list:
 **Зелье** используются следующее:
 * [Зелье великой мощи стихий](https://www.wowhead.com/ru/item=191383).
 
-Не забудьте про хилпот – [Освежающее лечебное зелье](https://www.wowhead.com/ru/item=191380), а также про новые зелья, которые можно применить после смерти: [Неустойчивая суспензия из спор](https://www.wowhead.com/ru/item=191377/) и [Остаточный реагент нейронной активности](https://www.wowhead.com/ru/item=191374).
-{: class="bordered"}
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
