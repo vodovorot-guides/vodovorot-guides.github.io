@@ -297,7 +297,7 @@ custom-javascript-list:
 3. {:.no-two-apl .fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
 1. {:.no-two-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 1. {:.no-two-apl .if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
-2. {:.no-two-apl .if-ap}[Ледяной шок](https://ru.wowhead.com/spell=196840).
+2. {:.no-two-apl .if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840).
 2. {:.no-two-apl .pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
   * [Первозданная волна](https://ru.wowhead.com/spell=375982) откладывается в опенере до момента, когда вы не потратите оба заряда [Выброса лавы](https://ru.wowhead.com/spell=51505).
 1. {:.no-two-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
