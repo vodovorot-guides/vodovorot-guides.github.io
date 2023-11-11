@@ -303,7 +303,6 @@ custom-javascript-list:
 1. {:.no-two-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 3. {:.no-two-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффом от [Природной стремительности](https://ru.wowhead.com/spell=378081).
 3. {:.no-two-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042).
-1. {:.no-two-apl}[Молния](https://ru.wowhead.com/spell=188196).
 1. Продолжайте обычную ротацию, указанную ниже.
 
 
