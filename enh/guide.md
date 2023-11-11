@@ -50,7 +50,6 @@ custom-javascript-list:
 
 ## Изменения в патче 10.2
 
-
 * Урон [Первозданной волны](https://www.wowhead.com/ru/spell=375982) повышен на **500%**.
 * Новый пассивный талант, который можно выбрать вместо [Удара духов стихий](https://www.wowhead.com/ru/spell=117014): [Ураганные удары](https://www.wowhead.com/ru/spell=428071/). Он позволяет [Удару бури](https://www.wowhead.com/ru/spell=17364), [Вскипанию лавы](https://www.wowhead.com/ru/spell=60103) и [Ледяному клинку](https://www.wowhead.com/ru/spell=342240) дополнительно наносить цели урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span> в размере **35%** от силы атаки.
 * Позиции некоторых талантов были [изменены](https://www.wowhead.com/ptr-2/talent-calc/shaman/enhancement). Теперь для взятия [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) не нужно брать [Гнев шторма](https://www.wowhead.com/ru/spell=392352).
@@ -67,6 +66,17 @@ custom-javascript-list:
 {% include button.html name="Изменения Шамана в патче 10.2" link="https://stormkeeper.ru/2023/09/08/patch-102.html" %}  
 
 <p></p>
+
+## Видеогайд
+
+
+<p></p>
+
+{% include youtube.html id="fIpa5kaOMfc" %}
+
+<p></p>
+
+
 
 
 
