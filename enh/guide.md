@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2023-11-08
+last_update: 2023-11-11
 title: Гайд на Энх Шамана
 wow: 10.2
 toc: true
@@ -409,7 +409,7 @@ custom-javascript-list:
 14. {:.cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 11. {:.ic-apl .hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 13. {:.ic-apl .hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840).
-12. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214).
+12. {:.sunder-apl .no-two-apl}[Раскол](https://www.wowhead.com/ru/spell=197214).
 15. Продолжайте обычную ротацию.
 
 <hr style="height:1px;background-color:#bbb">
