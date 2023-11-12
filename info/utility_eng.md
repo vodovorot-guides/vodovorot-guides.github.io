@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2023-06-12
+last_update: 2023-11-13
 title: Utility talents selection for Mythic+
-wow: 10.1
+wow: 10.2
 toc: true
 author: Nikyou
 description: In this article, you will learn which utility abilities to choose from the class talent tree for different dungeons.
@@ -41,61 +41,57 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes a curse from the afflicted.
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – greatly simplifies this affix, one use of the totem will remove poisons from both afflicted (after a period of 1.5 seconds). The totem can be used on every second spawn of the afflicted. Elemental specialisation with talents [Totemic Surge](https://www.wowhead.com/spell=381867) and [Flash of Lightning](https://www.wowhead.com/spell=381936) can use the totem on every spawn most of the time.
 
-**Brackenhide Hollow:**
-* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Decaying Roots](https://www.wowhead.com/spell=373897) casted by [Decayed Elder](https://www.wowhead.com/npc=189531) (trash after the first boss). Also, this cast can be interrupted.
-* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) removes [Ensnaring Trap](https://www.wowhead.com/spell=383979) on the third boss ([Gutshot](https://www.wowhead.com/npc=186116)). Debuff is avoidable.
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Gash Frenzy](https://www.wowhead.com/spell=378020) casted by first boss ([Gashtooth](https://www.wowhead.com/npc=186124)).
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Bloody Bite](https://www.wowhead.com/spell=367481) casted by [Gutstabber](https://www.wowhead.com/npc=197857) (trash after the first boss).
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Gut Shot](https://www.wowhead.com/spell=384353) on the third boss ([Gutshot](https://www.wowhead.com/npc=186116)) for tank.
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Shoot](https://www.wowhead.com/spell=382620) and [Bone Bolt](https://www.wowhead.com/spell=367521) casted by [Rotbow Stalker](https://www.wowhead.com/npc=186208).
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Withering Poison](https://www.wowhead.com/spell=385039) inflicted by [Gutstabber](https://www.wowhead.com/npc=197857) (trash after the first boss). Not very important for the dungeon.
-* [Tremor Totem](https://www.wowhead.com/spell=8143) – can be used to remove [Hideous Cackle](https://www.wowhead.com/spell=367500) inflicted by [Bracken Warscourge](https://www.wowhead.com/npc=195135) (trash before the first boss). Also, this cast can be interrupted.
+**Atal'Dazar:**
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Unstable Hex](https://www.wowhead.com/spell=252781) inflicted by [Zanchuli Witch-Doctor](https://www.wowhead.com/npc=122969) (trash before the Vol'kaal). Make sure to spread before dispel.
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Wracking Pain](https://www.wowhead.com/spell=250096) inflicted by [Yazma](https://www.wowhead.com/npc=129412). Also, this cast can be interrupted.
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Deadeye Aim](https://www.wowhead.com/spell=256846) casted by [Dinomancer Kish'o](https://www.wowhead.com/npc=129553).
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Serrated Teeth](https://www.wowhead.com/spell=255434) casted by [Rezan](https://www.wowhead.com/npc=143577) on tanks.
+* [Tremor Totem](https://www.wowhead.com/spell=8143) – can be used to remove [Terrifying Screech](https://www.wowhead.com/spell=255041) inflicted by [Feasting Skyscreamer](https://www.wowhead.com/npc=128434). Also, this cast can be interrupted.
+* [Tremor Totem](https://www.wowhead.com/spell=8143) – can be precasted to remove [Terrifying Visage](https://www.wowhead.com/spell=255371) inflicted by [Rezan](https://www.wowhead.com/npc=143577). Also, this cast can be LOS.
 
-**Halls of Infusion:**
-* [Purge](https://www.wowhead.com/spell=370) – **Important!** removes [Elemental Focus](https://www.wowhead.com/spell=395694) on [Primalist Shocktrooper](https://www.wowhead.com/npc=199037) (trash before the second boss). Also, this cast can be interrupted.
-* [Hex](https://www.wowhead.com/ru/spell=51514) – can be used on [Primalist Infuser](https://www.wowhead.com/npc=196043) on the last boss.
-* [Wind Rush Totem](https://www.wowhead.com/spell=192077) – can be used to get to the final boss faster during an intermission.
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Overpowering Croak](https://www.wowhead.com/spell=385187) casted by the second boss.
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Gulp Swog Toxin](https://www.wowhead.com/spell=374389) inflicted by [Curious Swoglet](https://www.wowhead.com/npc=195399) (trash before and during the second boss).
+**Black Rook Hold:**
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Brutal Glaive](https://www.wowhead.com/spell=197546) casted by [Illysanna Ravencrest](https://www.wowhead.com/npc=98696).
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Hateful Charge](https://www.wowhead.com/spell=224188) casted by [Smashspite the Hateful](https://www.wowhead.com/npc=98949).
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Stinging Swarm](https://www.wowhead.com/spell=201733) casted by [Latosius](https://www.wowhead.com/npc=98970) during the Lord Kur'talos Ravencrest fight.
 
-**Neltharus:**
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Curse of the Dragon Hoard](https://www.wowhead.com/spell=391762) during the final boss.
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Grounding Spear](https://www.wowhead.com/spell=373424) casted by the second boss ([Chargath, Bane of Scales](https://www.wowhead.com/npc=189340)).
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Dragon Strike](https://www.wowhead.com/spell=373733) casted by the second boss ([Chargath, Bane of Scales](https://www.wowhead.com/npc=189340)).
+**Galakrond's Fall (Dawn of the Infinite):**
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Timeless Curse](https://www.wowhead.com/spell=413618) inflicted by [Infinite Infiltrator](https://www.wowhead.com/npc=206214) (trash before the Blight of Galakrond). Also, this effect can be avoided.
+* [Purge](https://www.wowhead.com/spell=370) – removes [Temposlice](https://www.wowhead.com/spell=412012) on [Infinite Timeslicer](https://www.wowhead.com/npc=205408) (trash before the Chronikar).
+* [Purge](https://www.wowhead.com/spell=370) – removes interrupt immunity if [Enervate](https://www.wowhead.com/spell=415437) is casted by [Timestream Leech](https://www.wowhead.com/npc=206066) (trash before the Manifested Timeways).
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Chronoshear](https://www.wowhead.com/spell=413013) casted by [Chronikar](https://www.wowhead.com/npc=198995) on tanks.
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Stonecrack](https://www.wowhead.com/spell=414552) casted by [Iridikron](https://www.wowhead.com/npc=194907).
 
-**Uldaman: Legacy of Tyr:**
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Curse of Stone](https://www.wowhead.com/spell=369365) inflicted by [Earthen Warder](https://www.wowhead.com/npc=184132) (trash after the fourth boss). Also, this cast can be interrupted.
-* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) removes [Time Sink](https://www.wowhead.com/spell=377405) on the last boss.
-* [Purge](https://www.wowhead.com/spell=370) –  removes [Spiked Carapace](https://www.wowhead.com/spell=369823) on [Vicious Basilisk](https://www.wowhead.com/npc=184023) (trash before the first boss). Also, this cast can be interrupted.
-* [Purge](https://www.wowhead.com/spell=370) –  removes [Earthen Ward](https://www.wowhead.com/spell=369400) on [Earthen Warder](https://www.wowhead.com/npc=184132) (trash after the third boss). Also, this cast can be interrupted.
-* [Purge](https://www.wowhead.com/spell=370) –  removes 1 stack of [Stolen Time](https://www.wowhead.com/spell=377510) on [Infinite Timereaver](https://www.wowhead.com/npc=184331) (trash before the final boss).
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Ricocheting Shield](https://www.wowhead.com/spell=369677) casted by the first boss ([Olaf](https://www.wowhead.com/npc=184580)).
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Crushing Stomp](https://www.wowhead.com/spell=372701) and [Earthen Shards](https://www.wowhead.com/spell=372718) casted by the third boss.
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Venomous Fangs](https://www.wowhead.com/spell=369417) inflicted by [Skittering Crawler](https://www.wowhead.com/npc=184303) (trash after the third boss). Not very important for the dungeon.
+**Murazond's Rise (Dawn of the Infinite):**
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Timeless Curse](https://www.wowhead.com/spell=413618) inflicted by [Infinite Watchkeeper](https://www.wowhead.com/npc=207177) (trash before the Morchie) and [Infinite Slayer](https://www.wowhead.com/npc=208440) (trash before the Chrono-Lord Deios). Also, this effect can be avoided.
+* [Hex](https://www.wowhead.com/spell=51514) – can be used on [Familiar Faces](https://www.wowhead.com/spell=405279) during Morchie fight.
 
-**Freehold:**
-* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Rat Traps](https://www.wowhead.com/spell=274383) casted by [Vermin Trapper](https://www.wowhead.com/npc=130404) (trash before the second boss). Debuff is avoidable.
-* [Hex](https://www.wowhead.com/spell=51514) – can be used on [Irontide Grenadier](https://www.wowhead.com/npc=129758) on the last boss.
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Shattering Bellow](https://www.wowhead.com/spell=257732) casted by [Irontide Enforcer](https://www.wowhead.com/npc=129602).
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Powder Shot](https://www.wowhead.com/spell=256979) casted by the second boss (Captains).
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Ripper Punch](https://www.wowhead.com/spell=256363) casted by the third boss ([Trothak The Shark Puncher](https://www.wowhead.com/npc=126969)).
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Whirling Dagger](https://www.wowhead.com/spell=413131) casted by the final boss.
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Poisoning Strike](https://www.wowhead.com/spell=257437) inflicted by [Irontide Corsair](https://www.wowhead.com/npc=126928) on tanks (thrash before the first boss).
+**Darkheart Thicket:**
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Curse of Isolation](https://www.wowhead.com/spell=201839) inflicted by [Taintheart Summoner](https://www.wowhead.com/npc=99366). Also, this cast can be interrupted.
+* **?** [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Strangling Roots](https://www.wowhead.com/spell=199063) casted by [Oakheart](https://www.wowhead.com/npc=103344). Also, this effect can be avoided.
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Grievous Leap](https://www.wowhead.com/spell=196348) casted by [Archdruid Glaidalis](https://www.wowhead.com/npc=96512).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Poison Spear](https://www.wowhead.com/spell=198904) inflicted by [Rotheart Dryad](https://www.wowhead.com/npc=99358) (trash before the Oakheart).
+* [Tremor Totem](https://www.wowhead.com/spell=8143) – can be used to remove fear from [Tormenting Eye](https://www.wowhead.com/spell=204243) inflicted by [Nightmare Dweller](https://www.wowhead.com/npc=101991) (trash before the Oakheart). Also, this cast can be interrupted.
+* [Tremor Totem](https://www.wowhead.com/spell=8143) – can be used to remove fear from [Induced Paranoia](https://www.wowhead.com/spell=200359) inflicted by [Shade of Xavius](https://www.wowhead.com/npc=99192). Also, this effect can be avoided.
 
-**The Underrot:**
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Withering Curse](https://www.wowhead.com/spell=265433) inflicted by [Bloodsworn Defiler](https://www.wowhead.com/npc=133912) (trash before and after the third boss). Also, this cast can be interrupted.
-* [Purge](https://www.wowhead.com/spell=370) – removes [Gift of G'huun](https://www.wowhead.com/spell=265091) casted by [Devout Blood Priest](https://www.wowhead.com/npc=131492) (trash before the first boss). Also, this cast can be interrupted.
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Tantrum](https://www.wowhead.com/spell=260333) casted by the second boss.
+**The Everbloom:**
+* [Purge](https://www.wowhead.com/spell=370) – removes [Revitalize](https://www.wowhead.com/spell=168082) casted by [Life Warden Gola](https://www.wowhead.com/npc=83892) during the Ancient Protectors fight. Also, this cast can be interrupted.
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Poisonous Claws](https://www.wowhead.com/spell=169658) inflicted by [Twisted Abomination](https://www.wowhead.com/npc=84767) on tank (trash before the Ancient Protectors).
 
-**Neltharion's Lair:**
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Shatter](https://www.wowhead.com/spell=188114) cast by the first boss, worth putting 5 seconds before the cast to cover each cast.
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – **Important!** removes [Toxic Retch](https://www.wowhead.com/spell=210150) inflicted by the third boss ([Naraxas](https://www.wowhead.com/npc=91005)). It is possible to put the totem every second cast of the boss.
+**Throne of the Tides:**
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Hex](https://www.wowhead.com/spell=76820) inflicted by [Naz'jar Spiritmender](https://www.wowhead.com/npc=41096) (trash before the Lady Naz'jar). Also, this cast can be interrupted.
+* [Purge](https://www.wowhead.com/spell=370) – removes [Icy Veins](https://www.wowhead.com/spell=428329) on [Naz'jar Tempest Witch](https://www.wowhead.com/npc=44404) during the Lady Naz'jar fight.
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Shellbreaker](https://www.wowhead.com/spell=426741) casted by [Naz'jar Sentinel](https://www.wowhead.com/npc=40577) on tank (trash before the Lady Naz'jar).
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Crushing Claw](https://www.wowhead.com/spell=427670) casted by [Commander Ulthok](https://www.wowhead.com/npc=40765).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Poisoned Spear](https://www.wowhead.com/spell=76516) inflicted by [Gilgoblin Hunter](https://www.wowhead.com/npc=40935) (trash before the Ozumat).
 
-**The Vortex Pinnacle:**
-* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Static Cling](https://www.wowhead.com/spell=87618) on the last boss. Debuff is avoidable.
-* [Purge](https://www.wowhead.com/spell=370) –  removes [Storm Shield](https://www.wowhead.com/spell=411743) on [Turbulent Squall](https://www.wowhead.com/npc=45924) when they reach 50% health (trash before the second boss).
-* [Purge](https://www.wowhead.com/spell=370) –  removes [Vapor Form](https://www.wowhead.com/spell=88186) on [Empyrean Assassin](https://www.wowhead.com/npc=45922) (trash before the second boss). Also, this cast can be interrupted.
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Crashing Stone](https://www.wowhead.com/spell=413387) casted by [Executor of the Caliph](https://www.wowhead.com/npc=45928) (trash after the second boss).
+**Waycrest Manor:**
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Unstable Runic Mark](https://www.wowhead.com/spell=260703) inflicted by [Sister Malady](https://www.wowhead.com/npc=131823) during The Heartsbane Triad fight. Make sure to spread before dispel.
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Dread Mark](https://www.wowhead.com/spell=265880) inflicted by [Matron Alma](https://www.wowhead.com/npc=135365) (trash before the Lord and Lady Waycrest). Make sure to spread before dispel.
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Runic Mark](https://www.wowhead.com/spell=264104) inflicted by [Heartsbane Runeweaver](https://www.wowhead.com/npc=131677) (trash before the Lord and Lady Waycrest). Make sure to spread before dispel.
+* **?** [Ghost Wolf](https://www.wowhead.com/spell=2645) – can be precasted to dodge [Soul Thorns](https://www.wowhead.com/spell=260551) casted by [Soulbound Goliath](https://www.wowhead.com/npc=131667).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Infected Thorn](https://www.wowhead.com/spell=264050) inflicted by [Thistle Acolyte](https://www.wowhead.com/npc=135474) (trash before The Heartsbane Triad) and [Coven Thornshaper](https://www.wowhead.com/npc=131666) (trash before the Soulbound Goliath).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Severing Serpent](https://www.wowhead.com/spell=264520) inflicted by [Maddened Survivalist](https://www.wowhead.com/npc=131850) (trash before Raal the Gluttonous).
+* **?** [Tremor Totem](https://www.wowhead.com/spell=8143) – can be used to remove [Soul Manipulation](https://www.wowhead.com/spell=260907) inflicted by [Sister Solena](https://www.wowhead.com/npc=131824) during The Heartsbane Triad fight.
 
 
 <p></p>
