@@ -448,7 +448,7 @@ image: /assets/img/logos/spells.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-<a href="https://ru.wowhead.com/spell=191634" target="blank" data-wh-icon-size="medium" >**Перерождение**</a> – бурст, во время которого [Выброс лавы](https://ru.wowhead.com/spell=51505) не имеет времени восстановления, а его урон увеличивается на значение показателя Критического удара.
+<a href="https://ru.wowhead.com/spell=114049" target="blank" data-wh-icon-size="medium" >**Перерождение**</a> – бурст, во время которого [Выброс лавы](https://ru.wowhead.com/spell=51505) не имеет времени восстановления, а его урон увеличивается на значение показателя Критического удара.
 
 > Ascendance, Asc, Асц, Мужик.
 
