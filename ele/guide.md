@@ -356,17 +356,20 @@ custom-javascript-list:
 1. {:.no-two-apl .sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/) на цели с длительностью дебаффа менее **5.4** секунд.
 2. {:.no-two-apl .mote-apl .dre-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074) во время [Перерождения](https://ru.wowhead.com/spell=114050) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 3. {:.no-two-apl .ls-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756).
-4. {:.no-two-apl .mote-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166) и **15+** стаками баффа [Магматическая камера](https://ru.wowhead.com/spell=381932).
+4. {:.no-two-apl .mote-apl .no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166) и **15+** стаками баффа [Магматическая камера](https://ru.wowhead.com/spell=381932).
   * Отслеживание стаков [Магматической камеры](https://ru.wowhead.com/spell=381932) увеличивает итоговый ДПС, но не является обязательным.
+7. {:.no-two-apl .eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+1. {:.no-two-apl .eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+1. {:.no-two-apl .no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 5. {:.no-two-apl .mote-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 6. {:.no-two-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
-7. {:.no-two-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
+7. {:.no-two-apl .no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
 8. {:.no-two-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443).
 1. {:.two-apl .storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) по кулдауну.
 7. {:.two-apl .sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) по кулдауну.
 7. {:.two-apl .eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
-1. {:.two-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
-1. {:.two-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+1. {:.two-apl .eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+1. {:.two-apl .no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 2. {:.two-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074) / [Цепная молния](https://www.wowhead.com/ru/spell=188443) для генерации энергии Водоворота.
 3. [Огненный шок](https://ru.wowhead.com/spell=188389) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 
