@@ -111,7 +111,7 @@ function on_build_button_click(button, talent_list) {
 }
 
 $('button#build_ele_fire_raid_main').on('click', function() {
-    on_build_button_click(this, ["fire", "ls", "if", "es", "sop", "mote", "eb", "pw", "dre"]);
+    on_build_button_click(this, ["fire", "ls", "if", "es", "mote", "eb", "pw", "dre"]);
     return false;
 });
 
