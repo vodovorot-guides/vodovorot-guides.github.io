@@ -37,9 +37,15 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 **Affix [Incorporeal](https://www.wowhead.com/affix=136):**
 * [Hex](https://www.wowhead.com/spell=51514) – allows you to control the incorporeal, damage does not break Hex.
 
+**Affix [Spiteful](https://www.wowhead.com/affix=123):**
+* [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) – slows/roots fiends.
+
 **Affix [Afflicted](https://www.wowhead.com/affix=135):**
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes a curse from the afflicted.
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – greatly simplifies this affix, one use of the totem will remove poisons from both afflicted (after a period of 1.5 seconds). The totem can be used on every second spawn of the afflicted. Elemental specialisation with talents [Totemic Surge](https://www.wowhead.com/spell=381867) and [Flash of Lightning](https://www.wowhead.com/spell=381936) can use the totem on every spawn most of the time.
+
+**Affix [Entangling](https://www.wowhead.com/affix=134):**
+* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes root effect.
 
 # Dungeons
 
