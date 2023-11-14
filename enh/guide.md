@@ -366,6 +366,7 @@ custom-javascript-list:
 15. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) если у вас **2** заряда этой способности и **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 14. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982) и при наличии **8+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 15. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) если у вас **1** заряд этой способности и **8+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+  * {:.es-apl}Старайтесь кастовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при активном [Духе дикого зверя](https://www.wowhead.com/ru/spell=51533).
 12. {:.four-apl .pw-apl}[Цепная молния](https://ru.wowhead.com/spell=188443) с баффом от сет-бонуса [Трескучий гром](https://www.wowhead.com/ru/spell=409834/) и при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 29. {:.sa-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 21. {:.pw-apl .no-five-apl }[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
@@ -660,7 +661,7 @@ custom-javascript-list:
 * **Шлем**: [Челюсти великого волка-изгнанника](https://www.wowhead.com/ru/item=207209) – Сетовый Т31.
 * **Шея**: [Око вздымающегося пламени](https://www.wowhead.com/ru/item=207163) – Тиндрал Полет Мысли.
 * **Плечи**: [Спутники великого волка-изгнанника](https://www.wowhead.com/ru/item=207207) – Сетовые T31.
-* **Спина**: 
+* **Спина**: [Мантия ослепительного жертвоприношения](https://www.wowhead.com/ru/item=207161/%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%8F-%D0%BE%D1%81%D0%BB%D0%B5%D0%BF%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%BE%D0%BF%D1%80%D0%B8%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F?bonus=7981:9576:1520) – Пеплорон.
 * **Нагрудник**: [Облачение великого волка-изгнанника](https://www.wowhead.com/ru/item=207212) – Сетовый Т31.
 * **Запястья**: [Адаптивные дракотистовые боевые наручи](https://www.wowhead.com/ru/item=204704) – Крафт.
 * **Перчатки**: [Захваты великого волка-изгнанника](https://www.wowhead.com/ru/item=207210) – Сетовый Т31.
@@ -690,7 +691,7 @@ custom-javascript-list:
 * **Шлем**: [Челюсти великого волка-изгнанника](https://www.wowhead.com/ru/item=207209) – Сетовый Т31.
 * **Шея**: [Цепь зеленых драконов](https://www.wowhead.com/ru/item=137311) – Чаща Темного Сердца.
 * **Плечи**: [Спутники великого волка-изгнанника](https://www.wowhead.com/ru/item=207207) – Сетовые T31.
-* **Спина**: 
+* **Спина**: [Пелерина преданного вассала](https://www.wowhead.com/ru/item=158375/%D0%BF%D0%B5%D0%BB%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D0%B0%D1%81%D1%81%D0%B0%D0%BB%D0%B0?bonus=657:9499:5871:7981) – Атал'Дазар.
 * **Нагрудник**: [Облачение великого волка-изгнанника](https://www.wowhead.com/ru/item=207212) – Сетовый Т31.
 * **Запястья**: [Адаптивные дракотистовые боевые наручи](https://www.wowhead.com/ru/item=204704) – Крафт.
 * **Перчатки**: [Захваты великого волка-изгнанника](https://www.wowhead.com/ru/item=207210) – Сетовый Т31.
