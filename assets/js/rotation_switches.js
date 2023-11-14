@@ -116,12 +116,12 @@ $('button#build_ele_fire_raid_main').on('click', function() {
 });
 
 $('button#build_ele_fire_raid_alt').on('click', function() {
-    on_build_button_click(this, ["fire", "ls", "if", "es", "sop", "mote", "pw", "dre"]);
+    on_build_button_click(this, ["fire", "ls", "if", "es", "sop", "mote", "pw", "mg", "dre"]);
     return false;
 });
 
 $('button#build_ele_fire_mplus').on('click', function() {
-    on_build_button_click(this, ["fire", "ls", "sk", "sop", "mote", "lmt", "pw", "dre"]);
+    on_build_button_click(this, ["fire", "ls", "sk", "sop", "mote", "lmt", "pw", "mg", "dre"]);
     return false;
 });
 
