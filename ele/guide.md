@@ -314,7 +314,7 @@ custom-javascript-list:
 2. {:.no-two-apl .pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982), если нет баффа от [Расколотых стихий](https://www.wowhead.com/ru/spell=382042/).
 3. {:.no-two-apl .pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд и [Первозданная волна](https://ru.wowhead.com/spell=375982) не успеет откатиться к этому времени.
 3. {:.no-two-apl .no-pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4**.
-4. {:.no-two-apl .sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634), если есть **116+** энергии Водоворота.
+4. {:.no-two-apl .sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
 5. {:.no-two-apl .ls-apl .dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) если есть бафф от [Волны лавы](https://ru.wowhead.com/spell=77756) или во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
 5. {:.no-two-apl .ls-apl .no-dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) если есть бафф от [Волны лавы](https://ru.wowhead.com/spell=77756).
 6. {:.no-two-apl .eb-apl .mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффом от [Властелина стихий](https://www.wowhead.com/ru/spell=16166).
