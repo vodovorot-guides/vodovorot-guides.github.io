@@ -649,7 +649,8 @@ custom-javascript-list:
 * **Кольцо 2**: [Оскверненная печать верховного друида](https://www.wowhead.com/ru/item=134487) – Чаща Темного Сердца.
 * **Аксессуар 1**: [Изумрудный значок дружбы Пипа](https://www.wowhead.com/ru/item=207168) – Совет Снов.
 * **Аксессуар 2**: [Клеймо-печатка Катаклизма](https://www.wowhead.com/ru/item=207166) – Пеплорон.
-* **Аксессуар 3**: [Фарфоровый краб](https://www.wowhead.com/ru/item=133192) – Трон Приливов.
+* **Аксессуар 3**: [Ветвь Сухокожего](https://www.wowhead.com/ru/item=109999) – Вечное Цветение.
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
