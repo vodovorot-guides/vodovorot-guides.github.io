@@ -515,6 +515,7 @@ custom-javascript-list:
 
 С выбором вещей поможет [Raidbots](https://www.raidbots.com/simbot). Краткое руководство доступно [по этой ссылке](https://stormkeeper.ru/info/sim.html).
 
+**КАПОВ ХАРАКТЕРИСТИК НЕТ. НА ИСКУСНОСТЬ ТОЖЕ НЕТ. И НА СКОРОСТЬ. КАПОВ НЕТ.**
 
 ## Формулы расчета урона
 
