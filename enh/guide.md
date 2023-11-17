@@ -437,9 +437,9 @@ custom-javascript-list:
 1. {:.cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если бафф не активен.
 13. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится **6** противников.
 17. {:.pw-apl .no-five-apl }[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
-2. {:.lf-apl .ll-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) и с наименьшим временем дебаффа от таланта [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046).
 5. {:.ic-apl .hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 6. {:.hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
+2. {:.lf-apl .ll-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) и с наименьшим временем дебаффа от таланта [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046).
 21. {:.no-two-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214).
 13. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится **2** и более противника.
 25. {:.ic-apl .no-hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
