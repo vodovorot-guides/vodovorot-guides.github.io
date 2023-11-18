@@ -53,6 +53,8 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Unstable Hex](https://www.wowhead.com/spell=252781) inflicted by [Zanchuli Witch-Doctor](https://www.wowhead.com/npc=122969) (trash before the Vol'kaal). Make sure to spread before dispel.
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Wracking Pain](https://www.wowhead.com/spell=250096) inflicted by [Yazma](https://www.wowhead.com/npc=129412). Also, this cast can be interrupted.
+* [Purge](https://www.wowhead.com/spell=370) – removes [Gathered Souls](https://www.wowhead.com/spell=254974) on [Dazar'ai Colossus](https://www.wowhead.com/npc=122984).
+* [Purge](https://www.wowhead.com/spell=370) – removes [Gilded Claws](https://www.wowhead.com/spell=255579) on [Priestess Alun'za](https://www.wowhead.com/npc=122967).
 * [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Deadeye Aim](https://www.wowhead.com/spell=256846) cast by [Dinomancer Kish'o](https://www.wowhead.com/npc=129553).
 * [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Serrated Teeth](https://www.wowhead.com/spell=255434) cast by [Rezan](https://www.wowhead.com/npc=143577) on tanks.
 * [Tremor Totem](https://www.wowhead.com/spell=8143) – can be used to remove [Terrifying Screech](https://www.wowhead.com/spell=255041) inflicted by [Feasting Skyscreamer](https://www.wowhead.com/npc=128434). Also, this cast can be interrupted.
@@ -80,8 +82,9 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 # Darkheart Thicket
 
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Curse of Isolation](https://www.wowhead.com/spell=201839) inflicted by [Taintheart Summoner](https://www.wowhead.com/npc=99366). Also, this cast can be interrupted.
-* **?** [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Strangling Roots](https://www.wowhead.com/spell=199063) cast by [Oakheart](https://www.wowhead.com/npc=103344). Also, this effect can be avoided.
+* [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Strangling Roots](https://www.wowhead.com/spell=199063) cast by [Oakheart](https://www.wowhead.com/npc=103344). Also, this effect can be avoided.
 * [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Grievous Leap](https://www.wowhead.com/spell=196348) cast by [Archdruid Glaidalis](https://www.wowhead.com/npc=96512).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Nightmare Toxin](https://www.wowhead.com/spell=200684) inflicted by [Dreadsoul Poisoner](https://www.wowhead.com/npc=101679) (trash before the Archdruid Glaidalis).
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Poison Spear](https://www.wowhead.com/spell=198904) inflicted by [Rotheart Dryad](https://www.wowhead.com/npc=99358) (trash before the Oakheart).
 * [Tremor Totem](https://www.wowhead.com/spell=8143) – can be used to remove fear from [Tormenting Eye](https://www.wowhead.com/spell=204243) inflicted by [Nightmare Dweller](https://www.wowhead.com/npc=101991) (trash before the Oakheart). Also, this cast can be interrupted.
 * [Tremor Totem](https://www.wowhead.com/spell=8143) – can be used to remove fear from [Induced Paranoia](https://www.wowhead.com/spell=200359) inflicted by [Shade of Xavius](https://www.wowhead.com/npc=99192). Also, this effect can be avoided.
@@ -90,6 +93,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 * [Purge](https://www.wowhead.com/spell=370) – removes [Revitalize](https://www.wowhead.com/spell=168082) cast by [Life Warden Gola](https://www.wowhead.com/npc=83892) during the Ancient Protectors fight. Also, this cast can be interrupted.
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Poisonous Claws](https://www.wowhead.com/spell=169658) inflicted by [Twisted Abomination](https://www.wowhead.com/npc=84767) on tank (trash before the Ancient Protectors).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Venom Burst](https://www.wowhead.com/spell=165123) inflicted by [Rockspine Stinger](https://www.wowhead.com/npc=82039) (trash before the Ancient Protectors).
 
 # Throne of the Tides
 
@@ -105,9 +109,8 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Dread Mark](https://www.wowhead.com/spell=265880) inflicted by [Matron Alma](https://www.wowhead.com/npc=135365) (trash before the Lord and Lady Waycrest). Make sure to spread before dispel.
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Runic Mark](https://www.wowhead.com/spell=264104) inflicted by [Heartsbane Runeweaver](https://www.wowhead.com/npc=131677) (trash before the Lord and Lady Waycrest). Make sure to spread before dispel.
 * **?** [Ghost Wolf](https://www.wowhead.com/spell=2645) – can be precast to dodge [Soul Thorns](https://www.wowhead.com/spell=260551) cast by [Soulbound Goliath](https://www.wowhead.com/npc=131667).
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Infected Thorn](https://www.wowhead.com/spell=264050) inflicted by [Thistle Acolyte](https://www.wowhead.com/npc=135474) (trash before The Heartsbane Triad) and [Coven Thornshaper](https://www.wowhead.com/npc=131666) (trash before the Soulbound Goliath).
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Severing Serpent](https://www.wowhead.com/spell=264520) inflicted by [Maddened Survivalist](https://www.wowhead.com/npc=131850) (trash before Raal the Gluttonous).
-* **?** [Tremor Totem](https://www.wowhead.com/spell=8143) – can be used to remove [Soul Manipulation](https://www.wowhead.com/spell=260907) inflicted by [Sister Solena](https://www.wowhead.com/npc=131824) during The Heartsbane Triad fight.
+* [Purge](https://www.wowhead.com/spell=370) – removes [Spirited Defense](https://www.wowhead.com/spell=265368) cast by [Bewitched Captain](https://www.wowhead.com/npc=131587). Also, this cast can be interrupted.
+* **?** [Tremor Totem](https://www.wowhead.com/spell=8143) – can be precast to remove [Soul Manipulation](https://www.wowhead.com/spell=260907) from yourself inflicted by [Sister Solena](https://www.wowhead.com/npc=131824) during The Heartsbane Triad fight.
 
 
 <p></p>
