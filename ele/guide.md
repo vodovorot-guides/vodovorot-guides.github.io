@@ -185,6 +185,7 @@ custom-javascript-list:
 
 * В данном билде активно кастуется [Выброс лавы](https://ru.wowhead.com/spell=51505) даже на АоЕ.
 * Оверкап Энергии Водоворота в этом билде не так страшен, так как [Землетрясение](https://ru.wowhead.com/spell=61882) не является основным источником урона.
+* На большом количестве мобов, от **10** и выше, [Землетрясение](https://ru.wowhead.com/spell=61882) стоит кастовать гораздо активнее, так как его урон не снижается вплоть до **20** целей.
 * [Хранитель бурь](https://ru.wowhead.com/spell=191634) отлично сочетается с [Перерождением](https://ru.wowhead.com/spell=114050).
 * Талант [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=378268) в этом билде используется больше для боя против одной цели, но он также позволяет получить мгновенный [Выброс лавы](https://ru.wowhead.com/spell=51505) от [Землетрясения](https://ru.wowhead.com/spell=61882) на АоЕ.
 
@@ -362,8 +363,9 @@ custom-javascript-list:
 7. {:.no-two-apl .eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 1. {:.no-two-apl .eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 1. {:.no-two-apl .no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
-5. {:.no-two-apl .mote-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 6. {:.no-two-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
+5. {:.no-two-apl .mote-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+6. {:.no-two-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **7** и более целей.
 1. {:.no-two-apl .eb-apl .no-eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **2** целей.
 7. {:.no-two-apl .no-eogs-apl .eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3** и более целей.
 7. {:.no-two-apl .no-eogs-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
