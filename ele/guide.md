@@ -684,6 +684,7 @@ custom-javascript-list:
 ## Крафтовые предметы
 
 1. [Адаптивные дракотистовые боевые наручи](https://www.wowhead.com/ru/item=204704/).
+2. [Книга иссушающей гнили](https://www.wowhead.com/ru/item=193496/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D0%B8%D1%81%D1%81%D1%83%D1%88%D0%B0%D1%8E%D1%89%D0%B5%D0%B9-%D0%B3%D0%BD%D0%B8%D0%BB%D0%B8?bonus=9500:9405:8960&crafted-stats=36:49&ilvl=486).
 2. [Союзные набедренники хана Сансок](https://www.wowhead.com/ru/item=193464/%D1%81%D0%BE%D1%8E%D0%B7%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B0%D0%B1%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8-%D1%85%D0%B0%D0%BD%D0%B0-%D1%81%D0%B0%D0%BD%D1%81%D0%BE%D0%BA?bonus=1569) – бафф на Универсальность лучше для общего ДПС рейда, но он не идет вам в лог .
 3. [Пропитанные ядом высокие ботинки](https://www.wowhead.com/ru/item=193460/%D0%BF%D1%80%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B4%D0%BE%D0%BC-%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%B8%D0%B5-%D0%B1%D0%BE%D1%82%D0%B8%D0%BD%D0%BA%D0%B8?bonus=1569).
 
