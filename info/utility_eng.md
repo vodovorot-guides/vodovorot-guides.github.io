@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2023-11-13
+last_update: 2023-11-22
 title: Utility talents selection for Mythic+
 wow: 10.2
 toc: true
@@ -52,7 +52,6 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 # Atal'Dazar
 
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Unstable Hex](https://www.wowhead.com/spell=252781) inflicted by [Zanchuli Witch-Doctor](https://www.wowhead.com/npc=122969) (trash before the Vol'kaal). Make sure to spread before dispel.
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Wracking Pain](https://www.wowhead.com/spell=250096) inflicted by [Yazma](https://www.wowhead.com/npc=129412). Also, this cast can be interrupted.
 * [Purge](https://www.wowhead.com/spell=370) – removes [Gathered Souls](https://www.wowhead.com/spell=254974) on [Dazar'ai Colossus](https://www.wowhead.com/npc=122984).
 * [Purge](https://www.wowhead.com/spell=370) – removes [Gilded Claws](https://www.wowhead.com/spell=255579) on [Priestess Alun'za](https://www.wowhead.com/npc=122967).
 * [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Deadeye Aim](https://www.wowhead.com/spell=256846) cast by [Dinomancer Kish'o](https://www.wowhead.com/npc=129553).

@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2023-11-13
+last_update: 2023-11-22
 title: Выбор утилити талантов для Мифик+
 wow: 10.2
 toc: true
@@ -54,7 +54,6 @@ WA с напоминанием о взятии нужных талантов –
 ## Атал'Дазар
 
 * [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Заразного сглаза](https://www.wowhead.com/ru/spell=252781), который накладывает [Занчульская знахарка](https://www.wowhead.com/ru/npc=122969) (треш перед Вол'каалом). Убедитесь, что вы разошлись перед диспелом.
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Нестерпимой боли](https://www.wowhead.com/ru/spell=250096), которую накладывает [Язма](https://www.wowhead.com/ru/npc=129412). Также этот каст можно сбить.
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Собранные души](https://www.wowhead.com/ru/spell=254974) на [Дазар'айском колоссе](https://www.wowhead.com/ru/npc=122984).
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Золоченые когти](https://www.wowhead.com/ru/spell=255579) на [Жрице Алун'за](https://www.wowhead.com/ru/npc=122967) .
 * [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Меткого выстрела](https://www.wowhead.com/ru/spell=256846) от [Диноманта Киш'о](https://www.wowhead.com/ru/npc=129553).
