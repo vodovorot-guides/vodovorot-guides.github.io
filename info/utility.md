@@ -63,6 +63,7 @@ WA с напоминанием о взятии нужных талантов –
 
 ## Крепость Черной Ладьи
 
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Чародейскую бомбардировку](https://www.wowhead.com/ru/spell=200248) на [Восставшем чародей](https://www.wowhead.com/ru/npc=98280) (треш перед и во время битвы с Иллисанной).
 * [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Жуткой глефы](https://www.wowhead.com/ru/spell=197546) от [Иллисанны Гребень Ворона](https://www.wowhead.com/ru/npc=98696).
 * [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Рывка ненависти](https://www.wowhead.com/ru/spell=224188) от [Хмуродроба Лютого](https://www.wowhead.com/ru/npc=98949).
 * [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Жалящего роя](https://www.wowhead.com/ru/spell=201733) от [Латосия](https://www.wowhead.com/ru/npc=98970) во время битвы с Лордом Кур'талосом Гребень Ворона.

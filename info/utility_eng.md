@@ -61,6 +61,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 # Black Rook Hold
 
+* [Purge](https://www.wowhead.com/spell=370) – removes [Arcane Blitz](https://www.wowhead.com/spell=200248) on [Risen Arcanist](https://www.wowhead.com/npc=98280) (trash before and during the Illysanna fight).
 * [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Brutal Glaive](https://www.wowhead.com/spell=197546) cast by [Illysanna Ravencrest](https://www.wowhead.com/npc=98696).
 * [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Hateful Charge](https://www.wowhead.com/spell=224188) cast by [Smashspite the Hateful](https://www.wowhead.com/npc=98949).
 * [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Stinging Swarm](https://www.wowhead.com/spell=201733) cast by [Latosius](https://www.wowhead.com/npc=98970) during the Lord Kur'talos Ravencrest fight.
