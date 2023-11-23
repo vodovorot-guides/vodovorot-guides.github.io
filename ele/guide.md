@@ -313,6 +313,8 @@ custom-javascript-list:
 **Приоритет в бою против одной цели:**
 1. {:.no-two-apl .fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
 2. {:.no-two-apl .pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982), если нет баффа от [Расколотых стихий](https://www.wowhead.com/ru/spell=382042/).
+1. {:.no-two-apl .lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/), если [Перерождение](https://ru.wowhead.com/spell=114050) не активно.
+1. {:.no-two-apl .lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285), если [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) на кулдауне.
 3. {:.no-two-apl .pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд и [Первозданная волна](https://ru.wowhead.com/spell=375982) не успеет откатиться к этому времени.
 3. {:.no-two-apl .no-pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4**.
 4. {:.no-two-apl .sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
