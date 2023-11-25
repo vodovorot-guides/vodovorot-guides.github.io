@@ -121,7 +121,7 @@ $('button#build_ele_fire_raid_alt').on('click', function() {
 });
 
 $('button#build_ele_fire_mplus').on('click', function() {
-    on_build_button_click(this, ["fire", "ls", "sk", "sop", "mote", "lmt", "pw", "mg", "dre"]);
+    on_build_button_click(this, ["fire", "ls", "sk", "sop", "mote", "lmt", "pw", "sp", "mg", "dre"]);
     return false;
 });
 

@@ -227,6 +227,8 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_pw"> [Первозданная волна](https://ru.wowhead.com/spell=375982)</li>
   <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_sp"> [Расколотые стихии](https://ru.wowhead.com/spell=382042)</li>
+  <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_dre"> [Укоренившиеся стихии](https://ru.wowhead.com/spell=378270)</li>
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_lmt"> [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) + [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285)</li>
@@ -286,7 +288,8 @@ custom-javascript-list:
 
 **Приоритет в бою против одной цели:**
 1. {:.no-two-apl .fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
-2. {:.no-two-apl .pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982), если нет баффа от [Расколотых стихий](https://www.wowhead.com/ru/spell=382042/).
+2. {:.no-two-apl .pw-apl .sp-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982), если нет баффа от [Расколотых стихий](https://www.wowhead.com/ru/spell=382042/).
+2. {:.no-two-apl .pw-apl .no-sp-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982), если нет баффа от [Расколотых стихий](https://www.wowhead.com/ru/spell=382042/).
 1. {:.no-two-apl .lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/), если [Перерождение](https://ru.wowhead.com/spell=114050) не активно.
 3. {:.no-two-apl .pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд и [Первозданная волна](https://ru.wowhead.com/spell=375982) не успеет откатиться к этому времени.
 3. {:.no-two-apl .no-pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4**.
