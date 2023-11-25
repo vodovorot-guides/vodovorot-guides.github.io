@@ -304,10 +304,14 @@ custom-javascript-list:
 7. {:.no-two-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 11. {:.no-two-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
 11. {:.no-two-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042).
-9. {:.no-two-apl .sop-apl .sk-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
+9. {:.no-two-apl .sop-apl .sk-apl .if-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 10. {:.no-two-apl .if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714).
 12. {:.no-two-apl .if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714).
 13. {:.no-two-apl}[Молния](https://ru.wowhead.com/spell=188196).
+
+
+
+
 1. {:.two-apl .fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
 1. {:.two-apl .storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
 2. {:.two-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** и нет баффа от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
@@ -346,7 +350,7 @@ custom-javascript-list:
 6. {:.no-two-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 1. {:.no-two-apl .no-eogs-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **2** целей.
 7. {:.no-two-apl .no-eogs-apl .eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3** и более целей.
-6. {:.no-two-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
+6. {:.no-two-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
 8. {:.no-two-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443).
 1. {:.two-apl .storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) по кулдауну.
 7. {:.two-apl .sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) по кулдауну.
