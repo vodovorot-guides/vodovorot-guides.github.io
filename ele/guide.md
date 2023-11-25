@@ -294,7 +294,7 @@ custom-javascript-list:
 9. {:.no-two-apl .sop-apl .sk-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 5. {:.no-two-apl .ls-apl .dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) если есть бафф от [Волны лавы](https://ru.wowhead.com/spell=77756) или во время активного [Перерождения](https://ru.wowhead.com/spell=114050).
 5. {:.no-two-apl .ls-apl .no-dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) если есть бафф от [Волны лавы](https://ru.wowhead.com/spell=77756).
-6. {:.no-two-apl .eb-apl .mote-apl .es-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффом от [Властелина стихий](https://www.wowhead.com/ru/spell=16166) и [Электрического шока](https://www.wowhead.com/ru/spell=382086).
+6. {:.no-two-apl .eb-apl .mote-apl .es-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффами от [Властелина стихий](https://www.wowhead.com/ru/spell=16166) и [Электрического шока](https://www.wowhead.com/ru/spell=382086).
 6. {:.no-two-apl .eb-apl .mote-apl .no-es-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффом от [Властелина стихий](https://www.wowhead.com/ru/spell=16166).
 6. {:.no-two-apl .no-eb-apl .mote-apl}[Земной шок](https://ru.wowhead.com/spell=8042) с баффом от [Властелина стихий](https://www.wowhead.com/ru/spell=16166).
 12. {:.no-two-apl .if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714) для наложения дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
