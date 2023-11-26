@@ -277,6 +277,7 @@ custom-javascript-list:
 1. {:.if-apl .two-apl .es-apl .eb-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. {:.if-apl .two-apl .es-apl .eb-apl}Набирайте энергию до **116** единиц и используйте [Хранитель бурь](https://www.wowhead.com/ru/spell=191634/).
 1. {:.no-two-apl .if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **2** секунды до пула.
+1. {:.no-two-apl .no-if-apl}[Молния](https://ru.wowhead.com/spell=188196) за **2** секунды до пула.
 1. {:.no-two-apl .fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
 1. {:.no-two-apl .lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
 1. {:.no-two-apl .pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
