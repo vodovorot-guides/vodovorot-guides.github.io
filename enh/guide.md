@@ -355,7 +355,7 @@ custom-javascript-list:
 
 1. {:.five-apl .pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 2. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-  * {:.five-apl .pw-apl}.[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) можно отложить на **1-2** ГКД, если за это время откатится [Первозданная волна](https://www.wowhead.com/ru/spell=375982).
+  * {:.five-apl .pw-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) можно отложить на **1-2** ГКД, если за это время откатится [Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 3. {:.asc-apl}[Перерождение](https://www.wowhead.com/ru/spell=114051).
 4. {:.dw-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352).
 5. {:.two-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации сет-бонуса [Мощь земли](https://www.wowhead.com/ru/spell=409689).
