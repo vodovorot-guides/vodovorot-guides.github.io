@@ -55,7 +55,7 @@ WA с напоминанием о взятии нужных талантов –
 
 * [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Заразного сглаза](https://www.wowhead.com/ru/spell=252781), который накладывает [Занчульская знахарка](https://www.wowhead.com/ru/npc=122969) (треш перед Вол'каалом). Убедитесь, что вы разошлись перед диспелом.
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Собранные души](https://www.wowhead.com/ru/spell=254974) на [Дазар'айском колоссе](https://www.wowhead.com/ru/npc=122984).
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Золоченые когти](https://www.wowhead.com/ru/spell=255579) на [Жрице Алун'за](https://www.wowhead.com/ru/npc=122967) .
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Золоченые когти](https://www.wowhead.com/ru/spell=255579) на [Жрице Алун'за](https://www.wowhead.com/ru/npc=122967).
 * [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Меткого выстрела](https://www.wowhead.com/ru/spell=256846) от [Диноманта Киш'о](https://www.wowhead.com/ru/npc=129553).
 * [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Отточенных зубов](https://www.wowhead.com/ru/spell=255434) от [Резана](https://www.wowhead.com/ru/npc=143577) на танка.
 * [Тотем трепета](https://www.wowhead.com/ru/spell=8143) можно использовать для снятия [Ужасающего визга](https://www.wowhead.com/ru/spell=255041), который накладывает [Ненасытный небесный крикун](https://www.wowhead.com/ru/npc=128434). Также этот каст можно сбить.
@@ -65,7 +65,7 @@ WA с напоминанием о взятии нужных талантов –
 
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Чародейскую бомбардировку](https://www.wowhead.com/ru/spell=200248) на [Восставшем чародей](https://www.wowhead.com/ru/npc=98280) (треш перед и во время битвы с Иллисанной).
 * [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Жуткой глефы](https://www.wowhead.com/ru/spell=197546) от [Иллисанны Гребень Ворона](https://www.wowhead.com/ru/npc=98696).
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Рывка ненависти](https://www.wowhead.com/ru/spell=224188) от [Хмуродроба Лютого](https://www.wowhead.com/ru/npc=98949).
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Сотрясающего землю топота](https://www.wowhead.com/ru/spell=198073) от [Хмуродроба Лютого](https://www.wowhead.com/ru/npc=98949).
 * [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Жалящего роя](https://www.wowhead.com/ru/spell=201733) от [Латосия](https://www.wowhead.com/ru/npc=98970) во время битвы с Лордом Кур'талосом Гребень Ворона.
 
 ## Рассвет Бесконечности: Падение Галакронда
@@ -93,16 +93,12 @@ WA с напоминанием о взятии нужных талантов –
 
 ## Вечное Цветение
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Ободрение](https://www.wowhead.com/ru/spell=168082) от [Стража жизни Гола](https://www.wowhead.com/ru/npc=83892) во время битвы с Древними защитниками. Также этот каст можно сбить.
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Ядовитых когтей](https://www.wowhead.com/ru/spell=169658), которые накладывает [Искаженное поганище](https://www.wowhead.com/ru/npc=84767) на танка (треш перед Древними защитниками).
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Взрыва яда](https://www.wowhead.com/ru/spell=165123), который накладывает [Камнеспинный жальщик](https://www.wowhead.com/ru/npc=82039) (треш перед Древними защитниками).
 
 ## Трон Приливов
 
 * [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Сглаза](https://www.wowhead.com/ru/spell=76820), которое накладывает [Врачеватель душ Леди Наз'жар](https://www.wowhead.com/ru/npc=41096) (треш перед Леди Наз'жар). Также этот каст можно сбить.
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Стылую кровь](https://www.wowhead.com/ru/spell=428329) на [Ведьме бурь Леди Наз'жар](https://www.wowhead.com/ru/npc=44404) во время битвы с Леди Наз'жар.
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Крушителя раковин](https://www.wowhead.com/ru/spell=426741) от [Часового Леди Наз'жар](https://www.wowhead.com/ru/npc=40577) на танка (треш перед Леди Наз'жар).
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Сокрушающего когтя](https://www.wowhead.com/ru/spell=427670) от [Командира Улток](https://www.wowhead.com/ru/npc=40765).
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Отравленного дротика](https://www.wowhead.com/ru/spell=76516), которое накладывает [Жаблин-охотник](https://www.wowhead.com/ru/npc=40935) (треш перед Озуматом).
 
 ## Усадьба Уэйкрестов
 

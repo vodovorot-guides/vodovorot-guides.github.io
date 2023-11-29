@@ -63,7 +63,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 * [Purge](https://www.wowhead.com/spell=370) – removes [Arcane Blitz](https://www.wowhead.com/spell=200248) on [Risen Arcanist](https://www.wowhead.com/npc=98280) (trash before and during the Illysanna fight).
 * [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Brutal Glaive](https://www.wowhead.com/spell=197546) cast by [Illysanna Ravencrest](https://www.wowhead.com/npc=98696).
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Hateful Charge](https://www.wowhead.com/spell=224188) cast by [Smashspite the Hateful](https://www.wowhead.com/npc=98949).
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Earthshaking Stomp](https://www.wowhead.com/spell=198073) cast by [Smashspite the Hateful](https://www.wowhead.com/npc=98949).
 * [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Stinging Swarm](https://www.wowhead.com/spell=201733) cast by [Latosius](https://www.wowhead.com/npc=98970) during the Lord Kur'talos Ravencrest fight.
 
 # Dawn of the Infinite: Galakrond's Fall
@@ -92,16 +92,12 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 # The Everbloom
 
 * [Purge](https://www.wowhead.com/spell=370) – removes [Revitalize](https://www.wowhead.com/spell=168082) cast by [Life Warden Gola](https://www.wowhead.com/npc=83892) during the Ancient Protectors fight. Also, this cast can be interrupted.
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Poisonous Claws](https://www.wowhead.com/spell=169658) inflicted by [Twisted Abomination](https://www.wowhead.com/npc=84767) on tank (trash before the Ancient Protectors).
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Venom Burst](https://www.wowhead.com/spell=165123) inflicted by [Rockspine Stinger](https://www.wowhead.com/npc=82039) (trash before the Ancient Protectors).
 
 # Throne of the Tides
 
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Hex](https://www.wowhead.com/spell=76820) inflicted by [Naz'jar Spiritmender](https://www.wowhead.com/npc=41096) (trash before the Lady Naz'jar). Also, this cast can be interrupted.
 * [Purge](https://www.wowhead.com/spell=370) – removes [Icy Veins](https://www.wowhead.com/spell=428329) on [Naz'jar Tempest Witch](https://www.wowhead.com/npc=44404) during the Lady Naz'jar fight.
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Shellbreaker](https://www.wowhead.com/spell=426741) cast by [Naz'jar Sentinel](https://www.wowhead.com/npc=40577) on tank (trash before the Lady Naz'jar).
-* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Crushing Claw](https://www.wowhead.com/spell=427670) cast by [Commander Ulthok](https://www.wowhead.com/npc=40765).
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) –  can be used to remove [Poisoned Spear](https://www.wowhead.com/spell=76516) inflicted by [Gilgoblin Hunter](https://www.wowhead.com/npc=40935) (trash before the Ozumat).
 
 # Waycrest Manor
 
