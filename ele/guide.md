@@ -88,6 +88,7 @@ custom-javascript-list:
 5. Используйте второй [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) для получения баффа [Прилива мощи](https://www.wowhead.com/ru/spell=262303).
 6. Используйте вторую [Молнию](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://www.wowhead.com/ru/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303).
 
+При использовании [Земного шока](https://ru.wowhead.com/spell=8042) для этой комбинации нужно набирать меньше энергии, так как [Земной шок](https://ru.wowhead.com/spell=8042) стоит **50** ед. энергии Водоворота, тогда как [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) – **75** единиц.
 
 ## Таланты для Рейда
 
@@ -269,7 +270,7 @@ custom-javascript-list:
 4. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
 9. {:.sop-apl .sk-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 5. {:.ls-apl .no-dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) если есть бафф от [Волны лавы](https://ru.wowhead.com/spell=77756).
-6. {:.eb-apl .mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффами от [Властелина стихий](https://www.wowhead.com/ru/spell=16166).
+6. {:.eb-apl .mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффом от [Властелина стихий](https://www.wowhead.com/ru/spell=16166).
 6. {:.no-eb-apl .mote-apl}[Земной шок](https://ru.wowhead.com/spell=8042) с баффом от [Властелина стихий](https://www.wowhead.com/ru/spell=16166).
 12. {:.if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714) для наложения дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
 7. [Выброс лавы](https://ru.wowhead.com/spell=51505).
