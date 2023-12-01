@@ -288,6 +288,7 @@ custom-javascript-list:
 **Приоритет в бою на АоЕ:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
 7. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634).
+  * {:.dre-apl}На АоЕ стоит придержать [Хранитель бурь](https://ru.wowhead.com/spell=191634) под прок [Перерождения](https://ru.wowhead.com/spell=114050).
 1. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/), если [Перерождение](https://ru.wowhead.com/spell=114050) не активно.
 1. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285), если [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) на кулдауне.
   * Обычно не стоит ставить сразу два [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), а лучше распределять их на разные паки.
