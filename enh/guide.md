@@ -194,6 +194,7 @@ custom-javascript-list:
 
 * Всегда поддерживайте бафф от [Сокрущающей молнией](https://www.wowhead.com/ru/spell=187874), который позволяет наносить АоЕ-урон основными способностями, такими как [Удар бури](https://www.wowhead.com/ru/spell=17364), [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) и [Ледяной клинок](https://www.wowhead.com/ru/spell=342240).
 
+* [Раскол](https://www.wowhead.com/ru/spell=197214/) в данном билде можно заменить на [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512), [Кружащий водоворот](https://www.wowhead.com/ru/spell=384359) или [Атаку стихий](https://www.wowhead.com/ru/spell=210853/) в зависимости от подземелья, аффиксов, состава группы и так далее.
 
 
 </details>
