@@ -96,7 +96,6 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 # Throne of the Tides
 
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Hex](https://www.wowhead.com/spell=76820) inflicted by [Naz'jar Spiritmender](https://www.wowhead.com/npc=41096) (trash before the Lady Naz'jar). Also, this cast can be interrupted.
 * [Purge](https://www.wowhead.com/spell=370) – removes [Icy Veins](https://www.wowhead.com/spell=428329) on [Naz'jar Tempest Witch](https://www.wowhead.com/npc=44404) during the Lady Naz'jar fight.
 
 # Waycrest Manor
