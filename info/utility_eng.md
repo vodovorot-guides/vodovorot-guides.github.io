@@ -29,7 +29,7 @@ image: /assets/img/talents_utility2.jpg
 * [Tremor Totem](https://www.wowhead.com/spell=8143) – almost useless talent, as all fear, mind control, and sleep effects in dungeons can be avoided by interrupting casts or leaving the affected area.
 * [Earthgrab Totem](https://www.wowhead.com/spell=51485) – not very useful talent that replaces [Earthbind Totem](https://www.wowhead.com/spell=2484). The alternative of [Wind Rush Totem](https://www.wowhead.com/spell=192077).
 
-WA reminder to take the right talents for the dungeon – [link](https://wago.io/_qSTC-Aew).
+WA reminder to take the right talents for the dungeon – [link](https://wago.io/hzEzPJxst).
 {: class="bordered"}
 
 # Affixes
