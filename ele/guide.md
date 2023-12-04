@@ -247,6 +247,7 @@ custom-javascript-list:
 
 **Опенер в бою против одной цели:**
 1. {:.no-if-apl}[Молния](https://ru.wowhead.com/spell=188196) за **2** секунды до пула.
+1. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **2** секунды до пула.
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
 1. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
 1. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
