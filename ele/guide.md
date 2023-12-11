@@ -273,7 +273,6 @@ custom-javascript-list:
 5. {:.ls-apl .no-dre-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) если есть бафф от [Волны лавы](https://ru.wowhead.com/spell=77756).
 6. {:.eb-apl .mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффом от [Властелина стихий](https://www.wowhead.com/ru/spell=16166).
 6. {:.no-eb-apl .mote-apl}[Земной шок](https://ru.wowhead.com/spell=8042) с баффом от [Властелина стихий](https://www.wowhead.com/ru/spell=16166).
-12. {:.if-apl .es-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714) для наложения дебаффа от [Электрического шока](https://www.wowhead.com/ru/spell=382086).
 7. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 11. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
 11. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042).
