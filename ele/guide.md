@@ -246,11 +246,14 @@ custom-javascript-list:
 <div id="st" markdown="1">
 
 **Опенер в бою против одной цели:**
-1. {:.no-if-apl}[Молния](https://ru.wowhead.com/spell=188196) за **2** секунды до пула.
-1. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **2** секунды до пула.
-1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
+1. {:.no-if-apl .no-sk-apl}[Молния](https://ru.wowhead.com/spell=188196) за **2** секунды до пула.
+4. {:.no-if-apl .sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) за **7** секунды до пула.
+1. {:.if-apl .no-lmt-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714) за **2** секунды до пула.
+1. {:.lmt-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) за **2** секунды до пула.
 1. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
+1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
 1. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
+4. {:.sop-apl .sk-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 1. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 1. {:.no-sp-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
@@ -258,6 +261,7 @@ custom-javascript-list:
 1. {:.no-sp-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 3. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффом от [Природной стремительности](https://ru.wowhead.com/spell=378081).
 3. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042).
+4. {:.sop-apl .sk-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. Продолжайте обычную ротацию, указанную ниже.
 
 
