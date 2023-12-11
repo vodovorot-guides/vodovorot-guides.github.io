@@ -136,7 +136,7 @@ $('button#build_enh_elem_raid').on('click', function() {
 });
 
 $('button#build_enh_elem_mplus').on('click', function() {
-    on_build_button_click(this, ["ll", "cl", "ic", "hs", "eb", "sunder", "pw", "hh", "lf", "es", "five"]);
+    on_build_button_click(this, ["ll", "cl", "ic", "hs", "eb", "pw", "hh", "lf", "es", "five"]);
     return false;
 });
 
