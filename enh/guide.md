@@ -420,7 +420,7 @@ custom-javascript-list:
 **Приоритет способностей в бою против 2+ целей:**
 1. {:.five-apl .pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-  * {:.five-apl .pw-apl}.[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) можно отложить на **1-2** ГКД, если за это время откатится [Первозданная волна](https://www.wowhead.com/ru/spell=375982).
+  * {:.five-apl .pw-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) можно отложить на **1-2** ГКД, если за это время откатится [Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 2. {:.dw-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352).
 2. {:.ll-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если его нет ни на одной из целей.
 3. {:.ll-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389), а на соседних целях [Огненный шок](https://ru.wowhead.com/spell=188389) отсутствует.
