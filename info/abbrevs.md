@@ -171,7 +171,7 @@ image: /assets/img/logos/abbrevs.png
 * {{ site.data.spells.mote }} – Master of the Elements, Mote, Моте.
 * [Улучшенное оружие языка пламени](https://www.wowhead.com/ru/spell=382027) – Improved Flametongue Weapon.
 * {{ site.data.spells.eb }} – Elemental Blast, EB, УДС.
-* [Первозданная волна](https://www.wowhead.com/ru/spell=375982) – Primordial Wave, PWave, PW, ПВ, Волна Некров.
+* [Первозданная волна](https://www.wowhead.com/ru/spell=375982) – Primordial Wave, PWave, PW, ПВ, Волна Некров, Первобытная волна.
 * [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) – Deeply Rooted Elements, DRE, ДРЕ, Корни, Казино.
 * {{ site.data.spells.asc_ele }} – Ascendance, Asc, Асц, Мужик.
 * {{ site.data.spells.primal_elem }} – Primal Elementalist, Primal, PE, Примал, Усиленные элемы.
@@ -230,7 +230,7 @@ image: /assets/img/logos/abbrevs.png
 * [Сливающиеся бури](https://www.wowhead.com/ru/spell=384363) – Converging Storms.
 * [Сокрушающие бури](https://www.wowhead.com/ru/spell=334308) – Crashing Storms, Бафф Чайника, Бафф Цепнухи.
 * {{ site.data.spells.lf }} – Lashing Flames, LF, ЛФ, Лашинг флеймс, Пламя, бафф ФШ.
-* [Первозданная волна](https://www.wowhead.com/ru/spell=375982) – Primordial Wave, PWave, Волна Некров.
+* [Первозданная волна](https://www.wowhead.com/ru/spell=375982) – Primordial Wave, PWave, PW, ПВ, Волна Некров, Первобытная волна.
 * {{ site.data.spells.feral }} – Feral Spirit, FS, Волки.
 * [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) – Deeply Rooted Elements, Корни, Казино.
 * {{ site.data.spells.asc_ele }} – Ascendance, Asc, Асц, Мужик.
@@ -288,7 +288,7 @@ image: /assets/img/logos/abbrevs.png
 * {{ site.data.spells.ewt }} – Earthen Wall Totem, EWT, EST, Тотем щита, Тотем абсорба.
 * {{ site.data.spells.apt }} – Ancestral Protection Totem, APT, Рес тотем.
 * [Оружие жизни земли](https://www.wowhead.com/ru/spell=382021) – Earthliving Weapon, ELW, Чарка на хил.
-* [Первозданная волна](https://www.wowhead.com/ru/spell=375982) – Primordial Wave, PWave, Волна Некров.
+* [Первозданная волна](https://www.wowhead.com/ru/spell=375982) – Primordial Wave, PWave, PW, ПВ, Волна Некров, Первобытная волна.
 * [Пробуждение предка](https://www.wowhead.com/ru/spell=382309) – Ancestral Awakening, Мужик по вызову.
 * [Земная гармония](https://www.wowhead.com/ru/spell=382020) – Earthen Harmony.
 * [Подводное течение](https://www.wowhead.com/ru/spell=382194) – Undercurrent.
