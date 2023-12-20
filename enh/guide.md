@@ -94,50 +94,12 @@ custom-javascript-list:
 ## Таланты для Рейда
 
 
-<span style="color:#FFFFFF;font-size:1em;">**Физический**</span> билд является лучшим выбором для боя против одной цели до сбора нового сетового комплекта из третьего сезона – [Взор великого волка-изгнанника](https://www.wowhead.com/ru/item-set=1567). После его сбора и в СТ, и на АоЕ будут использоваться <span style="color:#f16f25;font-size:1em;">**Стихийные**</span> билды.
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-<details markdown=1><summary><b><span style="color:#FFFFFF;font-size:1em;">Физический</span> билд со старым сетом</b></summary>
-<p></p>
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJHAkcARSSSQJJSIAAAAAAAAAAAAgSEkQCaCk0SSKRAkkQKI?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
-
-<p></p>
-
-
-* В данном билде стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) тратятся только [Молнию](https://www.wowhead.com/ru/spell=188196/), так как с талантами [Статическое накопление](https://www.wowhead.com/ru/spell=384411/) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444) [Молния](https://www.wowhead.com/ru/spell=188196/) гораздо эффективнее [Выброса лавы](https://ru.wowhead.com/spell=51505).
-
-* В патче **10.2** больше не используется [Удар духов стихий](https://www.wowhead.com/ru/spell=117014), так как вместо него берется пассивный талант [Ураганные удары](https://www.wowhead.com/ru/spell=428071).
-
-* Потенциально этот билд имеет самый высокий урон в бою против одной цели, но он крайне рандомен и в случае неудачных проков урон может быть на уровне танка.
-
-* Во время [Перерождения](https://www.wowhead.com/ru/spell=114051) ваша основная задача – спамить [Удар ветра](https://www.wowhead.com/ru/spell=115356) (это [Удар бури](https://www.wowhead.com/ru/spell=17364) во время [Перерождения](https://www.wowhead.com/ru/spell=114051)). Выше него по приоритету находится только [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533), [Раскол](https://www.wowhead.com/ru/spell=197214) для активации сет-бонуса и [Ветра рока](https://www.wowhead.com/ru/spell=384352).
-
-
-</details>
-<p></p>
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-
-
-
-
 <details markdown=1><summary><b><span style="color:#f16f25;font-size:1em;">Стихийный</span> рейдовый билд</b></summary>
 <p></p>
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIJJpEJgkESSSDlEAAAAAAAAAAAAAKRIJkgmAJtkkSAQSCBC?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQA7dFHISiZRvWu4x4NMgmZAIJJpEJgkESSSDlEAAAAAAAAAAAAAKRICJoJQSTSKBCkkAIB?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
@@ -173,7 +135,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSKRCCJhkk0QJRAAAAAAAAAAAAAKRICJRKSKk0SSKQoEkAI?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQA7dFHISiZRvWu4x4NMgmZAIRSKRCCJhkk0QJRAAAAAAAAAAAAAKRICJkmkCJNJpEEKBBgE?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
 
@@ -206,36 +168,6 @@ custom-javascript-list:
 
 
 
-
-<details markdown=1><summary><b>Упрощенный <span style="color:#f16f25;font-size:1em;">Стихийный</span> АоЕ билд</b></summary>
-<p></p>
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQAAAAAAAAAAAAAAAAAAAAAAIRSKRQikEik0QJRAAAAAAAAAAAAAKRIJkokioQSLJpAoEkQgA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
-
-<p></p>
-
-
-* В данном билде не используется талант [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046), а значит не нужно постоянно чередевать цели под [Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
-
-* За счет обновленного в **10.2** таланта [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450/), [Ледяной шок](https://www.wowhead.com/ru/spell=196840) с баффом от [Бури с градом](https://www.wowhead.com/ru/spell=334195) будет бить еще сильнее, но его реализация требует большего внимания.
-
-* С талантом [Буря с градом](https://www.wowhead.com/ru/spell=334195), не нужно каждый [Ледяной шок](https://www.wowhead.com/ru/spell=196840) сдавать **только** с талантом [Ледяной клинок](https://www.wowhead.com/ru/spell=342240). Так как кулдаун [Ледяного клинка](https://www.wowhead.com/ru/spell=342240) в три раза длиннее кулдауна [Ледяного шока](https://www.wowhead.com/ru/spell=196840), то не бойтесь тратить стаки [Бури с градом](https://www.wowhead.com/ru/spell=334195) на [Ледяной шок](https://www.wowhead.com/ru/spell=196840) без баффа от [Ледяного клинка](https://www.wowhead.com/ru/spell=342240).
-
-* [Ледяной клинок](https://www.wowhead.com/ru/spell=342240) стоит кастовать практически по кулдауну, чтобы в момент траты стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) у вас уже были баффы и от [Ледяного клинка](https://www.wowhead.com/ru/spell=342240), и [Бури с градом](https://www.wowhead.com/ru/spell=334195).
-
-* Всегда поддерживайте бафф от [Сокрущающей молнией](https://www.wowhead.com/ru/spell=187874), который позволяет наносить АоЕ-урон основными способностями, такими как [Удар бури](https://www.wowhead.com/ru/spell=17364), [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) и [Ледяной клинок](https://www.wowhead.com/ru/spell=342240).
-
-
-</details>
-<p></p>
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
 # Приоритет способностей
 
 Основа игры на Шамане Совершенствования заключается в накоплении стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) с помощью способностей ближнего боя и трате этих стаков на мощные мгновенные заклинания.
@@ -265,10 +197,8 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_enh_elem_raid" class="btn btn-primary rotation-btn">Стихийный (СТ)</button>
-    <button type="button" id="build_enh_elem_mplus" class="btn btn-primary rotation-btn">Основной Стихийный (АоЕ)</button>
-    <button type="button" id="build_enh_elem_mplus_alt" class="btn btn-primary rotation-btn">Упрощенный Стихийный (АоЕ)</button>
-    <button type="button" id="build_enh_phys_raid" class="btn btn-primary rotation-btn">Физический (СТ)</button>    
+    <button type="button" id="build_enh_elem_raid" class="btn btn-primary rotation-btn">Стихийный билд (СТ)</button>
+    <button type="button" id="build_enh_elem_mplus" class="btn btn-primary rotation-btn">Стихийный (АоЕ)</button>
   </div>
 </div>
 
