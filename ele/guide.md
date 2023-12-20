@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2023-11-07
+last_update: 2023-20-12
 title: Гайд на Элем Шамана
 wow: 10.2
 toc: true
@@ -50,7 +50,7 @@ custom-javascript-list:
 
 ## Изменения в патче 10.2
 
-
+* Изменение от **20.12**: урон [Землетрясения](https://ru.wowhead.com/spell=61882) повышен на **50%**.
 * Талант [Расколотые стихии](https://www.wowhead.com/ru/spell=382042) теперь увеличивает скорость на **20%** и по **4%** за каждого дополнительного врага, пораженного [Выбросом лавы](https://www.wowhead.com/ru/spell=51505/) от [Первозданной волны](https://www.wowhead.com/ru/spell=326059/).
 * Талант [Далекие пределы](https://www.wowhead.com/ru/spell=381787/) теперь продлевает [Перерождение](https://www.wowhead.com/ru/spell=114050/) максимум на **100%** от его изначальной длительности.
 * [Первозданную волну](https://www.wowhead.com/ru/spell=326059/) больше нельзя использовать для исцеления союзников.
@@ -299,9 +299,9 @@ custom-javascript-list:
 1. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) на цель с самым низким значением длительности [Огненного шока](https://ru.wowhead.com/spell=188389).
 1. {:.sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/) на цели с длительностью дебаффа менее **5.4** секунд.
 2. {:.mote-apl .dre-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074) во время [Перерождения](https://ru.wowhead.com/spell=114050) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
-4. {:.mote-apl .no-eogs-apl .mg-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166) и **15+** стаками баффа [Магматическая камера](https://ru.wowhead.com/spell=381932), либо если в бою более **7** целей.
+4. {:.mote-apl .no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
 3. {:.ls-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756) или во время [Перерождения](https://ru.wowhead.com/spell=114050).
-7. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
+7. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087) в бою против **3** и более целей.
 1. {:.eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 1. {:.no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
 5. {:.mote-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
