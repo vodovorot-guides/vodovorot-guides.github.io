@@ -308,12 +308,6 @@ custom-javascript-list:
 6. {:.no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
 6. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 8. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
-1. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) по кулдауну.
-7. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) по кулдауну.
-7. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
-1. {:.eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
-1. {:.no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если нет баффа от [Отголосков Великого Раскола](https://ru.wowhead.com/spell=384087).
-2. [Поток лавы](https://www.wowhead.com/ru/spell=114074) / [Цепная молния](https://www.wowhead.com/ru/spell=188443) для генерации энергии Водоворота.
 3. [Огненный шок](https://ru.wowhead.com/spell=188389) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 
 
