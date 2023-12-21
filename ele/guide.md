@@ -303,10 +303,10 @@ custom-javascript-list:
 7. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
 1. {:.eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если нет баффа от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087), если в него вложены **2** очка талантов.
 1. {:.no-eb-apl .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если нет баффа от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087), если в него вложены **2** очка талантов.
-6. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 1. {:.no-eogs-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **2** целей.
 7. {:.no-eogs-apl .eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3** и более целей.
 6. {:.no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
+6. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 8. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 1. {:.storm-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) по кулдауну.
 7. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) по кулдауну.
