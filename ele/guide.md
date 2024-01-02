@@ -298,7 +298,7 @@ custom-javascript-list:
   * Обычно не стоит ставить сразу два [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), а лучше распределять их на разные паки.
 1. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) на цель с самым низким значением длительности [Огненного шока](https://ru.wowhead.com/spell=188389).
 1. {:.sop-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/) на цели с длительностью дебаффа менее **5.4** секунд.
-2. {:.mote-apl .dre-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074) во время [Перерождения](https://ru.wowhead.com/spell=114050) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166).
+2. {:.mote-apl .dre-apl}[Поток лавы](https://www.wowhead.com/ru/spell=114074) во время [Перерождения](https://ru.wowhead.com/spell=114050) с баффом от [Властелина стихий](https://ru.wowhead.com/spell=16166), если в бою **5+** целей.
 3. {:.ls-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756) или во время [Перерождения](https://ru.wowhead.com/spell=114050).
 7. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
 1. {:.eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если нет баффа от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087), если в него вложены **2** очка талантов.
