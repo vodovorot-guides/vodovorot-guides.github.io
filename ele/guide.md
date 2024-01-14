@@ -256,8 +256,8 @@ custom-javascript-list:
 4. {:.sop-apl .sk-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 1. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 1. [Выброс лавы](https://ru.wowhead.com/spell=51505).
-1. {:.if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840).
 1. {:.no-sp-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
+1. {:.if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840).
 3. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффом от [Природной стремительности](https://ru.wowhead.com/spell=378081).
 3. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042).
 4. {:.sop-apl .sk-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
