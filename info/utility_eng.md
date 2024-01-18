@@ -104,6 +104,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Dread Mark](https://www.wowhead.com/spell=265880) inflicted by [Matron Alma](https://www.wowhead.com/npc=135365) (trash before the Lord and Lady Waycrest). Make sure to spread before dispel.
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) –  can be used to remove [Runic Mark](https://www.wowhead.com/spell=264104) inflicted by [Heartsbane Runeweaver](https://www.wowhead.com/npc=131677) (trash before the Lord and Lady Waycrest). Make sure to spread before dispel.
 * [Purge](https://www.wowhead.com/spell=370) – removes [Spirited Defense](https://www.wowhead.com/spell=265368) cast by [Bewitched Captain](https://www.wowhead.com/npc=131587). Also, this cast can be interrupted.
+* [Stoneskin Totem](https://wowhead.com/spell=383017) – useful against [Soul Thorns](https://www.wowhead.com/spell=260551) cast by [Soulbound Goliath](https://www.wowhead.com/npc=131667).
 
 
 <p></p>
