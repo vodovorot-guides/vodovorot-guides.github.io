@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2023-12-20
+last_update: 2024-02-05
 title: Гайд на Элем Шамана
-wow: 10.2
+wow: 10.2.5
 toc: true
 author: Amani
 image: /assets/img/ele_tb2.png
@@ -60,6 +60,16 @@ custom-javascript-list:
 <p></p>
 
 {% include button.html name="Изменения Шамана в патче 10.2" link="https://stormkeeper.ru/2023/09/08/patch-102.html" %}  
+
+<p></p>
+
+
+## Видеогайд
+
+
+<p></p>
+
+{% include youtube.html id="wW2jyxHf3IU" %}
 
 <p></p>
 
