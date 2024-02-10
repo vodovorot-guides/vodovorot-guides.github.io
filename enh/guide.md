@@ -147,7 +147,7 @@ custom-javascript-list:
 
 * В данном билде особенно важно чередовать цели под каждое [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), чтобы накладывать дебафф от [Хлещущего пламени](https://www.wowhead.com/ru/spell=334046). Этот дебафф увеличивает урон от [Огненного шока](https://ru.wowhead.com/spell=188389) на **100%**, что ощутимо сказывается на итоговом ДПС.
 
-Для удобного отслеживания дебаффов используйте этот [мод на Plater](https://wago.io/o9Q7MSLDi) или от **Nikyou** или [профиль Plater от Amani](https://boosty.to/amani/posts/8dc9d14d-12ae-4f2b-9e34-456a9d625f42?share=post_link).
+Для удобного отслеживания дебаффов используйте этот [мод на Plater](https://wago.io/o9Q7MSLDi) от **Nikyou** или [профиль Plater от Amani](https://boosty.to/amani/posts/8dc9d14d-12ae-4f2b-9e34-456a9d625f42?share=post_link).
 {: class="bordered"}
 
 * С талантом [Буря с градом](https://www.wowhead.com/ru/spell=334195), не нужно каждый [Ледяной шок](https://www.wowhead.com/ru/spell=196840) сдавать **только** с талантом [Ледяной клинок](https://www.wowhead.com/ru/spell=342240). Так как кулдаун [Ледяного клинка](https://www.wowhead.com/ru/spell=342240) в три раза длиннее кулдауна [Ледяного шока](https://www.wowhead.com/ru/spell=196840), то не бойтесь тратить стаки [Бури с градом](https://www.wowhead.com/ru/spell=334195) на [Ледяной шок](https://www.wowhead.com/ru/spell=196840) без баффа от [Ледяного клинка](https://www.wowhead.com/ru/spell=342240).
