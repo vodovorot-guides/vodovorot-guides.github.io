@@ -67,7 +67,7 @@ custom-javascript-list:
 
 <p></p>
 
-## Видеогайд
+## Видеогайды
 
 
 <p></p>
@@ -76,7 +76,11 @@ custom-javascript-list:
 
 <p></p>
 
+<p></p>
 
+{% include youtube.html id="NpMGXC8oR5Q" %}
+
+<p></p>
 
 
 
@@ -94,8 +98,8 @@ custom-javascript-list:
 ## Таланты для Рейда
 
 
-<details markdown=1><summary><b><span style="color:#f16f25;font-size:1em;">Стихийный</span> рейдовый билд</b></summary>
-<p></p>
+### Основной <span style="color:#f16f25;font-size:1em;">Стихийный</span> рейдовый билд
+
 
 <p></p>
 
@@ -123,22 +127,17 @@ custom-javascript-list:
 
 
 
-
-
 ## Таланты для Мифик+
 
 
 
-
-<details markdown=1><summary><b>Основной <span style="color:#f16f25;font-size:1em;">Стихийный</span> АоЕ билд</b></summary>
-<p></p>
+### Основной <span style="color:#f16f25;font-size:1em;">Стихийный</span> АоЕ билд
 
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQA7dFHISiZRvWu4x4NMgmZAIRSKRCCJhkk0QJRAAAAAAAAAAAAAKRICJkmkCJNJpEEKBBgE?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
 
 <p></p>
-
 
 
 * Основным бурстом в <span style="color:#f16f25;font-size:1em;">**стихийных**</span> билдах выступает [Первозданная волна](https://ru.wowhead.com/spell=375982), которая позволяет бурстить практически в каждый пак. [Первозданная волна](https://ru.wowhead.com/spell=375982) позволяет получить бафф вплоть до **40%** Скорости на **12** секунд.
