@@ -98,9 +98,6 @@ custom-javascript-list:
 ## Таланты для Рейда
 
 
-### Основной <span style="color:#f16f25;font-size:1em;">Стихийный</span> рейдовый билд
-
-
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BcQA7dFHISiZRvWu4x4NMgmZAIJJpEJgkESSSDlEAAAAAAAAAAAAAKRICJoJQSTSKBCkkAIB?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="500"></iframe>
@@ -130,8 +127,6 @@ custom-javascript-list:
 ## Таланты для Мифик+
 
 
-
-### Основной <span style="color:#f16f25;font-size:1em;">Стихийный</span> АоЕ билд
 
 <p></p>
 

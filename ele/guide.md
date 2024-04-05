@@ -102,8 +102,6 @@ custom-javascript-list:
 
 ## Таланты для Рейда
 
-На данный момент <span style="color:#71d5ff;font-size:1em;">**Молниевые**</span> билды используются только с сетом из второго сезона – [Руны золоволка](https://www.wowhead.com/ru/item-set=1550/). Переходить на <span style="color:#f16f25;font-size:1em;">**Огненные**</span> билды стоит только после сбора нового сетового комплекта [Взор великого волка-изгнанника](https://www.wowhead.com/ru/item-set=1567).
-{: class="bordered"}
 
 Билды на каждого босса на Эпохальной сложности можно посмотреть здесь:
 1. [Кривокорень](https://ru.warcraftlogs.com/zone/rankings/35#boss=2820&class=Shaman&spec=Elemental)
@@ -120,9 +118,6 @@ custom-javascript-list:
 <p></p>
 
 
-<details markdown=1><summary><b>Стандартный <span style="color:#f16f25;font-size:1em;">Огненный</span> билд</b></summary>
-<p></p>
-
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDk0SShSgkkEBAAAAAoEgUSCpJBSLJppEokQEgA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
@@ -133,7 +128,7 @@ custom-javascript-list:
 * Для дополнительного клива на некоторых боссов (Лародар, Фиракк) можно убрать одно очко таланта из [Равновесия стихий](https://www.wowhead.com/ru/spell=378271) и вложить его в [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222).
 
 
-</details>
+
 <p></p>
 
 
@@ -148,13 +143,8 @@ custom-javascript-list:
 
 ## Таланты для Мифик+
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 
-
-<details markdown=1><summary><b>Основной <span style="color:#f16f25;font-size:1em;">Огненный</span> АоЕ билд</b></summary>
-<p></p>
 
 <p></p>
 
@@ -168,7 +158,7 @@ custom-javascript-list:
 * [Хранитель бурь](https://ru.wowhead.com/spell=191634) отлично сочетается с [Перерождением](https://ru.wowhead.com/spell=114050).
 * Талант [Извержение говорящего с ветром](https://www.wowhead.com/ru/spell=378268) в этом билде используется больше для боя против одной цели, но он также позволяет получить мгновенный [Выброс лавы](https://ru.wowhead.com/spell=51505) от [Землетрясения](https://ru.wowhead.com/spell=61882) на АоЕ.
 
-</details>
+
 <p></p>
 
 
