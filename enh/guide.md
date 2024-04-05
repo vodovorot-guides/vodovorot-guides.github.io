@@ -118,7 +118,7 @@ custom-javascript-list:
 
 * Используйте [Ледяной клинок](https://www.wowhead.com/ru/spell=342240) по кулдауну – он не только дает большое количество стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), но и дополнительно усиливает [Ледяной шок](https://www.wowhead.com/ru/spell=196840).
 
-</details>
+
 <p></p>
 
 
@@ -158,7 +158,7 @@ custom-javascript-list:
 * [Раскол](https://www.wowhead.com/ru/spell=197214/) в данном билде можно заменить на [Тотем неистовства ветра](https://www.wowhead.com/ru/spell=8512), [Кружащий водоворот](https://www.wowhead.com/ru/spell=384359) или [Атаку стихий](https://www.wowhead.com/ru/spell=210853/) в зависимости от подземелья, аффиксов, состава группы и так далее.
 
 
-</details>
+
 <p></p>
 
 
