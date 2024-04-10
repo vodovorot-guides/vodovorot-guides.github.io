@@ -113,7 +113,7 @@ C новым сетовым комплектом в третьем сезоне 
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIRSCJlkSSQUSLKJpEESJJAg0OQCKJCSSkEI?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQA7dFHISiZRvWu4x4NMgmZAAAAAAAAAAAAAAQIRSCJtkSSUSUSjSokQQJBKASTCKJCSSSSIC?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
 <p></p>
 
