@@ -533,7 +533,7 @@ custom-javascript-list:
 * **Оружие**: [Посвящение мудрости](https://www.wowhead.com/ru/spell=389550/).
 * **Нагрудный доспех**: [Пробужденные характеристики](https://www.wowhead.com/ru/spell=389410/).
 * **Поножи**: [Замерзшая чародейская нить](https://www.wowhead.com/ru/spell=376539/).
-* **Кольца**: [Посвящение скорости](https://www.wowhead.com/ru/spell=389293/).
+* **Кольца**: [Посвящение искусности](https://www.wowhead.com/ru/spell=389294/).
 * **Плащ**: [Грациозное избежание](https://www.wowhead.com/ru/spell=389403/).
 * **Наручи**: [Посвящение избежания](https://www.wowhead.com/ru/spell=389301/).
 * **Ботинки**: [Ветер равнин](https://www.wowhead.com/ru/spell=389479/).
