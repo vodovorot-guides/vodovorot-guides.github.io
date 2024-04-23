@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2023-11-11
+last_update: 2024-04-23
 title: Гайд на Энх Шамана
-wow: 10.2
+wow: 10.2.7
 toc: true
 author: Amani
 description: Большое руководство по всем аспектам игры за Шамана Совершенствования. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и WA и многое другое.
@@ -48,27 +48,12 @@ custom-javascript-list:
 * Основные АоЕ способности имеют кап **5-6** целей.	
 * Не имеет иммуна (не считая [Реинкарнации](https://ru.wowhead.com/spell=20608)), для выживания следует полагаться на собственное исцеление и [Астральный сдвиг](https://ru.wowhead.com/spell=108271).
 
-## Изменения в патче 10.2
+## Изменения в четвертом сезоне
 
-* Урон [Первозданной волны](https://www.wowhead.com/ru/spell=375982) повышен на **500%**.
-* Новый пассивный талант, который можно выбрать вместо [Удара духов стихий](https://www.wowhead.com/ru/spell=117014): [Ураганные удары](https://www.wowhead.com/ru/spell=428071/). Он позволяет [Удару бури](https://www.wowhead.com/ru/spell=17364), [Вскипанию лавы](https://www.wowhead.com/ru/spell=60103) и [Ледяному клинку](https://www.wowhead.com/ru/spell=342240) дополнительно наносить цели урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span> в размере **35%** от силы атаки.
-* Позиции некоторых талантов были [изменены](https://www.wowhead.com/ptr-2/talent-calc/shaman/enhancement). Теперь для взятия [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) не нужно брать [Гнев шторма](https://www.wowhead.com/ru/spell=392352).
-* [Атака стихий](https://www.wowhead.com/ru/spell=210853) теперь также дает стаки [Оружие Водоворота](https://www.wowhead.com/ru/spell=187880) за [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) и [Ледяной клинок](https://www.wowhead.com/ru/spell=342240), помимо [Удара бури](https://www.wowhead.com/ru/spell=17364).
-* [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450) теперь увеличивает не только <span style="color:#FFFFFF;font-size:1em;">**физический**</span> урон, но и урон от магии <span style="color:#8fd5fe;font-size:1em;">**льда**</span>.
-* [Первозданную волну](https://www.wowhead.com/ru/spell=326059/) больше нельзя использовать для исцеления союзников.
-* Талант [Расколотые стихии](https://www.wowhead.com/ru/spell=382042) теперь увеличивает скорость на **20%** и по **4%** за каждого дополнительного врага, пораженного [Молнией](https://www.wowhead.com/ru/spell=188196/) от [Первозданной волны](https://www.wowhead.com/ru/spell=326059/).
-* Различные исправления багов с новым сетовым комплектом.
-* [Источник маны](https://www.wowhead.com/ru/spell=381930) теперь восстанавливает **150** единиц маны вместо **250**.
+* Энх Шаман не претерпел больших изменений после третьего сезона. У нас остались те же самые билды талантов, сетовый комплект и приоритет характеристик.
 
-
-<p></p>
-
-{% include button.html name="Изменения Шамана в патче 10.2" link="https://stormkeeper.ru/2023/09/08/patch-102.html" %}  
-
-<p></p>
 
 ## Видеогайды
-
 
 <p></p>
 
@@ -92,7 +77,7 @@ custom-javascript-list:
 
 В середине ветки расположены усиления [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и основные АоЕ способности – [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) и усиление [Цепной молнии](https://www.wowhead.com/ru/spell=188443/). Эти таланты являются **обязательными** в любом билде для Мифик+, так как без них практически нет нормального АоЕ урона. 
 
-Соответственно, билды Энха можно разделить на <span style="color:#f16f25;font-size:1em;">**стихийные**</span> и <span style="color:#FFFFFF;font-size:1em;">**физические**</span>.
+Соответственно, билды Энха можно разделить на <span style="color:#f16f25;font-size:1em;">**стихийные**</span> и <span style="color:#FFFFFF;font-size:1em;">**физические**</span>. На данный момент играют только <span style="color:#f16f25;font-size:1em;">**стихийные**</span> билды, за счет бонуса сетового комплекта.
 
 
 ## Таланты для Рейда
@@ -141,7 +126,7 @@ custom-javascript-list:
 
 * В данном билде особенно важно чередовать цели под каждое [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), чтобы накладывать дебафф от [Хлещущего пламени](https://www.wowhead.com/ru/spell=334046). Этот дебафф увеличивает урон от [Огненного шока](https://ru.wowhead.com/spell=188389) на **100%**, что ощутимо сказывается на итоговом ДПС.
 
-Для удобного отслеживания дебаффов используйте этот [мод на Plater](https://wago.io/o9Q7MSLDi) от **Nikyou** или [профиль Plater от Amani](https://boosty.to/amani/posts/8dc9d14d-12ae-4f2b-9e34-456a9d625f42?share=post_link).
+Для удобного отслеживания дебаффов используйте [профиль Plater от Amani](https://boosty.to/amani/posts/8dc9d14d-12ae-4f2b-9e34-456a9d625f42?share=post_link) или [мод на Plater](https://wago.io/o9Q7MSLDi) от **Nikyou**.
 {: class="bordered"}
 
 * С талантом [Буря с градом](https://www.wowhead.com/ru/spell=334195), не нужно каждый [Ледяной шок](https://www.wowhead.com/ru/spell=196840) сдавать **только** с талантом [Ледяной клинок](https://www.wowhead.com/ru/spell=342240). Так как кулдаун [Ледяного клинка](https://www.wowhead.com/ru/spell=342240) в три раза длиннее кулдауна [Ледяного шока](https://www.wowhead.com/ru/spell=196840), то не бойтесь тратить стаки [Бури с градом](https://www.wowhead.com/ru/spell=334195) на [Ледяной шок](https://www.wowhead.com/ru/spell=196840) без баффа от [Ледяного клинка](https://www.wowhead.com/ru/spell=342240).
@@ -232,8 +217,6 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_es"> [Духи стихий](https://www.wowhead.com/ru/spell=262624)</li>
   <li markdown="span" class="rotation_switch">
-      <input class="form-check-input" type="checkbox" id="rotation_switch_two"> [Две части Т30](https://www.wowhead.com/ru/item-set=1550)</li>
-  <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_four"> [Четыре части Т30](https://www.wowhead.com/ru/item-set=1550)</li>
   <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_five"> [Четыре части Т31](https://www.wowhead.com/ru/item-set=1567)</li>    
@@ -259,7 +242,6 @@ custom-javascript-list:
 3. {:.five-apl .pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389).
 3. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/).
 4. {:.no-five-apl .pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389).
-6. {:.two-apl .no-dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации сет-бонуса [Мощь земли](https://www.wowhead.com/ru/spell=409689).
 1. {:.pw-apl .eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
 5. {:.pw-apl .no-eb-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982).
 8. {:.hh-apl .ll-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
@@ -267,7 +249,6 @@ custom-javascript-list:
 12. {:.ic-apl .pw-apl .hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
 10. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051) в ближнем бою и сразу же [Удар ветра](https://www.wowhead.com/ru/spell=115356).
 11. {:.dw-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352).
-11. {:.two-apl .dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации сет-бонуса [Мощь земли](https://www.wowhead.com/ru/spell=409689).
 5. {:.pw-apl .eb-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982) и при наличии **8+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 12. {:.dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 14. Продолжайте обычную ротацию.
@@ -283,7 +264,6 @@ custom-javascript-list:
   * {:.five-apl .pw-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) можно отложить на **1-2** ГКД, если за это время откатится [Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 3. {:.asc-apl}[Перерождение](https://www.wowhead.com/ru/spell=114051).
 4. {:.dw-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352).
-5. {:.two-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации сет-бонуса [Мощь земли](https://www.wowhead.com/ru/spell=409689).
 5. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
 6. {:.dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) / [Удар бури](https://www.wowhead.com/ru/spell=17364).
 8. {:.hh-apl .ll-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом от [Горячей руки](https://www.wowhead.com/ru/spell=201900) или при наличии **6+** стаков от таланта [Пепельный катализатор](https://www.wowhead.com/ru/spell=390371/).
@@ -298,7 +278,7 @@ custom-javascript-list:
 20. {:.ll-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
 17. {:.dw-apl .ic-apl .ll-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 18. {:.dw-apl .cl-apl .ll-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-19. {:.dw-apl .no-two-apl .ll-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+19. {:.dw-apl .ll-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 27. {:.no-eb-apl .no-sa-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 29. {:.no-sa-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 24. {:.ic-apl .hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
@@ -307,7 +287,7 @@ custom-javascript-list:
 31. {:.no-dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 32. {:.ic-apl .no-hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 38. {:.cl-apl .no-ll-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
-35. {:.no-two-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214).
+35. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214).
 34. [Молния](https://www.wowhead.com/ru/spell=188196/) при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 35. {:.no-ll-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если отстутствует на цели.
 36. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
@@ -325,17 +305,15 @@ custom-javascript-list:
 4. {:.pw-apl .five-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389).
 3. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533/).
 4. {:.pw-apl .no-five-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389).
-1. {:.two-apl .no-dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации сет-бонуса [Мощь земли](https://www.wowhead.com/ru/spell=409689).
 6. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на цель без [Огненного шока](https://ru.wowhead.com/spell=188389), если целей **6** или более.
 5. {:.pw-apl .ll-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103) для спреда [Огненного шока](https://ru.wowhead.com/spell=188389) на соседние цели.
 7. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982) и при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 10. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 13. {:.dw-apl .cl-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352).
-12. {:.two-apl .dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации сет-бонуса [Мощь земли](https://www.wowhead.com/ru/spell=409689).
 14. {:.cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 11. {:.ic-apl .hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 13. {:.ic-apl .hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840).
-12. {:.sunder-apl .no-two-apl}[Раскол](https://www.wowhead.com/ru/spell=197214).
+12. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214).
 15. Продолжайте обычную ротацию.
 
 <hr style="height:1px;background-color:#bbb">
@@ -348,13 +326,12 @@ custom-javascript-list:
 2. {:.dw-apl}[Ветра рока](https://www.wowhead.com/ru/spell=384352).
 2. {:.ll-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если его нет ни на одной из целей.
 3. {:.ll-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389), а на соседних целях [Огненный шок](https://ru.wowhead.com/spell=188389) отсутствует.
-1. {:.two-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации сет-бонуса [Мощь земли](https://www.wowhead.com/ru/spell=409689).
 4. {:.asc-apl}[Перерождение](https://www.wowhead.com/ru/spell=114051), если в [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444) [записана](https://wago.io/DT4YbYlpN) [Цепная молния](https://ru.wowhead.com/spell=188443).
 5. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) с баффом от [Первозданной волны](https://www.wowhead.com/ru/spell=375982) и при наличии **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 1. {:.dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051).
 1. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051).
 9. {:.dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
-10. {:.dw-apl .no-two-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
+10. {:.dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352).
 6. {:.dw-apl}[Цепная молния](https://ru.wowhead.com/spell=188443) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), а во время баффа от [Ветров рока](https://www.wowhead.com/ru/spell=384352) – при **5+** стаках.
 2. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при наличии **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) в бою против **2-3** целей.
   * {:.es-apl}Старайтесь кастовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) при активных [Духах дикого зверя](https://www.wowhead.com/ru/spell=51533).
@@ -366,7 +343,7 @@ custom-javascript-list:
 5. {:.ic-apl .hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 6. {:.hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
 2. {:.lf-apl .ll-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103) по цели с [Огненным шоком](https://ru.wowhead.com/spell=188389) и с наименьшим временем дебаффа от таланта [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046).
-21. {:.no-two-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214).
+21. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214).
 13. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если под [Огненным шоком](https://ru.wowhead.com/spell=188389) находится **2** и более противника.
 25. {:.ic-apl .no-hs-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 19. [Удар бури](https://www.wowhead.com/ru/spell=17364).
@@ -426,15 +403,11 @@ custom-javascript-list:
 
 Приоритет статов для <span style="color:#f16f25;font-size:1em;">**Стихийных**</span> билдов в СТ и АоЕ:
 
-* **Ловкость** > **Искусность** > **Скорость** > **Критический удар** > **Универсальность**.
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-Приоритет статов для <b><span style="color:#FFFFFF;font-size:1em;">Физический</span> билдов в СТ и АоЕ:
-
-* **Ловкость** > **Скорость** > **Искусность** > **Критический удар** > **Универсальность**.
+1. **Ловкость**.
+2. **Искусность**.
+3. **Скорость**.
+4. **Критический удар**.
+5. **Универсальность**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -546,7 +519,7 @@ custom-javascript-list:
 
 ## Комплект классовых доспехов
 
-Как можно быстрее получите из рейда **2/4** куска сетового комплекта – [Взор великого волка-изгнанника](https://www.wowhead.com/ru/item-set=1567/). Шаман делит классовые куски с **Паладином** и **Жрецом**.
+Как можно быстрее получите из рейда **2/4** куска сетового комплекта – [Взор великого волка-изгнанника](https://www.wowhead.com/ru/item-set=1567/). 
 
 * **2 части**: [Первозданная волна](https://www.wowhead.com/ru/spell=375982) призывает одного молниевого [Духа дикого зверя](https://ru.wowhead.com/spell=51533), который увеличивает урон от сил <span style="color:#26d22b;font-size:1em;">**природы**</span> на **20%** на **15** секунд.
 * **4 части**: Призыв [Духа дикого зверя](https://ru.wowhead.com/spell=51533) также сокращает время восстановления [Первозданной волны](https://www.wowhead.com/ru/spell=375982) на **7** секунд.
@@ -579,13 +552,31 @@ custom-javascript-list:
 Полный рейтинг аксессуаров можно найти на [Bloodmallet](https://bloodmallet.com/chart/shaman/enhancement/trinkets/castingpatchwerk).
 
 Лучшие аксессуары:
-* [Изумрудный значок дружбы Пипа](https://www.wowhead.com/ru/item=207168) - Совет Снов. Отличный тринкет для СТ и АоЕ.
-* [Клеймо-печатка Катаклизма](https://www.wowhead.com/ru/item=207166) - Пеплорон. Лучший выбор для рейда. В Мифик+ не рекомендуется.
-* [Фарфоровый краб](https://www.wowhead.com/ru/item=133192) - Трон Приливов. Отличный вариант для Мифик+ за счет урона и выживаемости.
-* [Ветвь Сухокожего](https://www.wowhead.com/ru/item=109999) - Вечное Цветение. Большое количество Искусности при использовании, но требуется собрать шары вокруг персонажа для полного эффекта. Лучший бурст-тринкет.
-* [Уголек нейтрализации](https://www.wowhead.com/ru/item=136978) – Крепость Черной Ладьи. Отличный пассивный тринкет.
+* [Зловещая разноцветная субстанция](https://www.wowhead.com/ru/item=203729/%D0%B7%D0%BB%D0%BE%D0%B2%D0%B5%D1%89%D0%B0%D1%8F-%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%B1%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?bonus=7981:10358:5871) – дает огромное количество вторичных характеристик, которые так нужны Энху. В идеале в рейде должны быть игроки со всеми видами баффов, при этом Энх может использовать любой из них, в зависимости от остальной экипировки. Однако лучшим выбором является Обсидиановый бафф, дающий **все характеристики**.
+* [Властный зов Нелтариона](https://www.wowhead.com/ru/item=204202/%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BE%D0%B2-%D0%BD%D0%B5%D0%BB%D1%82%D0%B0%D1%80%D0%B8%D0%BE%D0%BD%D0%B0?bonus=7981:10358:5871) – практически лучший аксессуар для Мифик+, за счет баффа на ловкость под вызов [Духов дикого зверя](https://www.wowhead.com/ru/spell=51533). Пассивная скорость на этом тринкете может повлиять на выбор характеристик на остальной экипировке, имейте это в виду.
+* [Клеймо-печатка Катаклизма](https://www.wowhead.com/ru/item=207166/%D0%BA%D0%BB%D0%B5%D0%B9%D0%BC%D0%BE-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B0-%D0%BA%D0%B0%D1%82%D0%B0%D0%BA%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0?bonus=7981:10358:5871) – лучший аксессуар для **долгих** боев против одной цели, но практически бесполезный для коротких боев и Мифик+.
+* [Одержимый светоч горя](https://www.wowhead.com/ru/item=194308/%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%BC%D1%8B%D0%B9-%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D1%87-%D0%B3%D0%BE%D1%80%D1%8F?bonus=7981:10358:5871) – отличный тринкет для рейда и Мифик+, который дополнительно раскрывается при гибели союзников. Особенно хорошо себя показывает в том случае, если нужно нанести приоритетный урон в определенную цель. Срабатывает также от [Реинкарнации](https://ru.wowhead.com/spell=20608).
+* [Знак воплощения шепота](https://www.wowhead.com/ru/item=194301/%D0%B7%D0%BD%D0%B0%D0%BA-%D0%B2%D0%BE%D0%BF%D0%BB%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D1%8F-%D1%88%D0%B5%D0%BF%D0%BE%D1%82%D0%B0?bonus=7981:10358:5871) – отличный пассивный тринкет, но лучше всего раскрывается в том случае, если его носят также танк и хилер. Однако учитывая айтемизацию этих ролей, в четвертом сезоне наличие баффа у танка маловероятно.
+* [Оскверненное Яростное сердце Фиракка](https://www.wowhead.com/ru/item=207174/%D0%BE%D1%81%D0%BA%D0%B2%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D1%8F%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B5-%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5-%D1%84%D0%B8%D1%80%D0%B0%D0%BA%D0%BA%D0%B0?bonus=7981:10358:5878) – асессуар для пуша высоких ключей, где требуется дополнительная выживаемость.
+* [Оберег безликой ярости](https://www.wowhead.com/ru/item=203714/%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B3-%D0%B1%D0%B5%D0%B7%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9-%D1%8F%D1%80%D0%BE%D1%81%D1%82%D0%B8?bonus=7981:10358:5871) – асессуар для пуша высоких ключей, где требуется дополнительная выживаемость. Имеет меньше абсобра чем вариант выше, но ниже кулдаун.
 
-## Улучшение предметов
+## Предметы за бронзовые слитки
+
+Тратить [Старинные бронзовые слитки](https://www.wowhead.com/ru/item=213089) стоит исходя из вашего приоритетного контента (рейд или Мифик+), а также в зависимости от удачи на дроп в самом рейде и еженедельном хранилище.
+
+Приоритет покупок за [Старинные бронзовые слитки](https://www.wowhead.com/ru/item=213089):
+1. [Коготь заклинателя шипов](https://www.wowhead.com/ru/item=207784/%D0%BA%D0%BE%D0%B3%D0%BE%D1%82%D1%8C-%D0%B7%D0%B0%D0%BA%D0%BB%D0%B8%D0%BD%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D1%88%D0%B8%D0%BF%D0%BE%D0%B2?bonus=7981:10358:5871) – если в приоритете у вас стоит рейд, а не Мифик+.
+2. [Властный зов Нелтариона](https://www.wowhead.com/ru/item=204202/%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BE%D0%B2-%D0%BD%D0%B5%D0%BB%D1%82%D0%B0%D1%80%D0%B8%D0%BE%D0%BD%D0%B0?bonus=7981:10358:5871) – если в приоритете стоит Мифик+, а не рейж.
+2. [Печать избранного Денны](https://www.wowhead.com/ru/item=195480/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B?bonus=7981:10358:5871) – лучшее кольцо для рейда и Мифик+.
+3. [Печать сыновнего долга](https://www.wowhead.com/ru/item=195526/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-%D1%81%D1%8B%D0%BD%D0%BE%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE-%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0?bonus=7981:10358:5878) – лучшее кольцо для рейда и Мифик+.
+4. [Зловещая разноцветная субстанция](https://www.wowhead.com/ru/item=203729/%D0%B7%D0%BB%D0%BE%D0%B2%D0%B5%D1%89%D0%B0%D1%8F-%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%B1%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?bonus=7981:10358:5871) – лучше всего использовать когда у ваших союзников есть такой же аксессуар, но с другими вторичными характеристиками.
+4. [Клеймо-печатка Катаклизма](https://www.wowhead.com/ru/item=207166/%D0%BA%D0%BB%D0%B5%D0%B9%D0%BC%D0%BE-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B0-%D0%BA%D0%B0%D1%82%D0%B0%D0%BA%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0?bonus=7981:10358:5871) – только для Рейда.
+6. [Голос тихой звезды](https://www.wowhead.com/ru/item=204465/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81-%D1%82%D0%B8%D1%85%D0%BE%D0%B9-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B?bonus=7981:10358:5878) – лучший ДПС, но меньше выживаемости за счет потери выносливости.
+7. [Одержимый светоч горя](https://www.wowhead.com/ru/item=194308/%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%BC%D1%8B%D0%B9-%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D1%87-%D0%B3%D0%BE%D1%80%D1%8F?bonus=7981:10358:5871) – для приоритетного урона или если в рейде кто-то часто умирает.
+8. [Оскверненное Яростное сердце Фиракка](https://www.wowhead.com/ru/item=207174/%D0%BE%D1%81%D0%BA%D0%B2%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D1%8F%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B5-%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5-%D1%84%D0%B8%D1%80%D0%B0%D0%BA%D0%BA%D0%B0?bonus=7981:10358:5878) или [Оберег безликой ярости](https://www.wowhead.com/ru/item=203714/%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B3-%D0%B1%D0%B5%D0%B7%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9-%D1%8F%D1%80%D0%BE%D1%81%D1%82%D0%B8?bonus=7981:10358:5871) – защитный вариант для пуша выскоих ключей.
+
+
+## Улучшение предметов за гребни
 
 1. **Оружие**. 
 2. **Лучшие аксессуары**. 
@@ -595,12 +586,11 @@ custom-javascript-list:
 ## Крафтовые предметы
 
 Рекомендованная очередность крафта:
-1. Одноручное оружие – топор, кистевое или дробящее оружие с ловкостью. Используйте [Украшение для клыков](https://www.wowhead.com/ru/item=193554) на первое время.
-2. [Адаптивные дракотистовые боевые наручи](https://www.wowhead.com/ru/item=204704/) – лучшее украшение. Не дает возможность использовать инженерские наручи с боевым воскрешением.
-3. [Закаленная в пламени Тьмы броневая пластина](https://www.wowhead.com/ru/item=204710) в ваш самый слабый слот экипировки. Рекрафтите из оружия [Украшение для клыков](https://www.wowhead.com/ru/item=193554) [Универсальный полироль Жуля](https://www.wowhead.com/ru/item=203652). Лучший предмет для данного крафта в БИС-гире – [Яркая пелерина из ткани стихий](https://www.wowhead.com/ru/item=193511/%D1%8F%D1%80%D0%BA%D0%B0%D1%8F-%D0%BF%D0%B5%D0%BB%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%B8%D0%B7-%D1%82%D0%BA%D0%B0%D0%BD%D0%B8-%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B9?bonus=9498:1508:9379).
-4. [Подкладка из синего шелка](https://www.wowhead.com/ru/item=193946) в предмет, указанный в пункте выше. Хорошо себя показывает в Мифик+, но не рекомендуется в рейде, особенно на финальных боссов.
-2. [Аркан стихий](https://www.wowhead.com/ru/item=193001/%D0%B0%D1%80%D0%BA%D0%B0%D0%BD-%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B9?bonus=9498:1508) – только если у вас есть **6+** гнезд для самоцветов. 
-2. Все остальные предметы низкого уровня. Имейте в виду, что крафт в этом сезоне слабее чем предметы из эпохального рейда и еженедельного хранилища (**486** уровень ilvl против **489**), так что [Искры снов](https://www.wowhead.com/ru/item=206959/) используются как заглушки, а не как источник лучшей добычи.
+1. [Адаптивные дракотистовые боевые наручи](https://www.wowhead.com/ru/item=204704/) – лучшее украшение. Не дает возможность использовать инженерские наручи с боевым воскрешением.
+2. [Пламенная цепь](https://www.wowhead.com/ru/item=193425/%D0%BF%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D1%86%D0%B5%D0%BF%D1%8C?bonus=10249:1511:8793) c [Подкладкой из синего шелка](https://www.wowhead.com/ru/item=193946) или [Закаленной в пламени Тьмы броневой пластиной](https://www.wowhead.com/ru/item=204710).
+3. Все остальные предметы низкого уровня.
+4. Для Мифик+ можно заменить [Голос тихой звезды](https://www.wowhead.com/ru/item=204465/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81-%D1%82%D0%B8%D1%85%D0%BE%D0%B9-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B?bonus=7981:10358:5878) на [Яркую пелерину из ткани стихий](https://www.wowhead.com/ru/item=193511/%D1%8F%D1%80%D0%BA%D0%B0%D1%8F-%D0%BF%D0%B5%D0%BB%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%B8%D0%B7-%D1%82%D0%BA%D0%B0%D0%BD%D0%B8-%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B9?bonus=9405:10249:10359) с [Мешочком алхимических приправ](https://www.wowhead.com/ru/item=200652/).
+
 
 # Расходуемые предметы
 
@@ -608,10 +598,11 @@ custom-javascript-list:
 <p></p>
 
 **Зачарования** лучше всего использовать максимального качества. Как альтернатива здесь также указаны более дешевые варианты:
-* **Оружие в правой руке**: [Посвящение мудрости](https://www.wowhead.com/ru/spell=389550/) или [Веющее посвящение](https://www.wowhead.com/ru/item=200058).
-* **Оружие в левой руке**: [Посвящение мудрости](https://www.wowhead.com/ru/spell=389550/) или [Веющее посвящение](https://www.wowhead.com/ru/item=200058).
+* **Оружие в правой руке**: [Веющее посвящение](https://www.wowhead.com/ru/item=200058).
+* **Оружие в левой руке**: [Веющее посвящение](https://www.wowhead.com/ru/item=200058).
+* **Шлем**: [Раскаленная сущность](https://www.wowhead.com/ru/item=210494).
 * **Нагрудный доспех**: [Пробужденные характеристики](https://www.wowhead.com/ru/spell=389410/).
-* **Поножи**: [Лютые накладки для брони](https://www.wowhead.com/ru/item=193565/).
+* **Поножи**: [Лютые накладки для брони](https://www.wowhead.com/ru/item=193565/) или [Лучистые накладки для брони](https://www.wowhead.com/ru/item=204702).
 * **Кольца**: [Посвящение искусности](https://www.wowhead.com/ru/spell=389294/).
 * **Плащ**: [Грациозное избежание](https://www.wowhead.com/ru/spell=389403/).
 * **Наручи**: [Посвящение избежания](https://www.wowhead.com/ru/spell=389301/).
@@ -631,10 +622,8 @@ custom-javascript-list:
 <p></p>
 
 
-Лучшие **флаконы**:
-* [Замерзший флакон оскверненной ярости](https://www.wowhead.com/ru/item=191329): дает больше всего урона, но имеет неприятный негативный эффект, который рано или поздно станет причиной гибели вашего персонажа.
-* [Флакон стихийного хаоса](https://www.wowhead.com/ru/item=191357): отличный вариант без каких-либо негативных эффектов.
-* [Флакон сдержанной универсальности](https://www.wowhead.com/ru/item=191341): дешевый вариант.
+Лучший **флакон**:
+* [Замерзший флакон оскверненной ярости](https://www.wowhead.com/ru/item=191329).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -648,8 +637,8 @@ custom-javascript-list:
 
 
 **Еду** следует использовать следующую:
+* [Шипящие морепродукты](https://www.wowhead.com/ru/item=197784/): лучшая еда при высоком уровне экипировки.
 * [Большой калуакский банкет](https://www.wowhead.com/ru/item=197794): пир на множество игроков, увеличивает Ловкость.
-* [Печенье с судьбоносным предсказанием](https://www.wowhead.com/ru/item=197792) или [Жестоко фаршированные яйца](https://www.wowhead.com/ru/item=204072/): аналог пира, но для одного игрока.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -660,9 +649,9 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-**Одноразовые руны** на Ловкость:
+**Руны** на Ловкость:
+* [Сновидческая руна усиления](https://www.wowhead.com/ru/item=211495/).
 * [Драконья руна усиления](https://www.wowhead.com/ru/item=201325).
-* [Затененная руна усиления](https://www.wowhead.com/ru/item=181468/).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
