@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2023-11-22
+last_update: 2024-04-24
 title: Выбор утилити талантов для Мифик+
-wow: 10.2
+wow: 10.2.7
 toc: true
 author: Nikyou
 description: Из этой статьи вы узнаете, в какие подземелья стоит выбирать различные вспомогательные способности из классового древа талантов.
@@ -51,60 +51,73 @@ WA с напоминанием о взятии нужных талантов –
 
 # Подземелья
 
-## Атал'Дазар
+## Академия Алгет'ар
 
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Заразного сглаза](https://www.wowhead.com/ru/spell=252781), который накладывает [Занчульская знахарка](https://www.wowhead.com/ru/npc=122969) (треш перед Вол'каалом). Убедитесь, что вы разошлись перед диспелом.
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Собранные души](https://www.wowhead.com/ru/spell=254974) на [Дазар'айском колоссе](https://www.wowhead.com/ru/npc=122984).
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Золоченые когти](https://www.wowhead.com/ru/spell=255579) на [Жрице Алун'за](https://www.wowhead.com/ru/npc=122967).
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Меткого выстрела](https://www.wowhead.com/ru/spell=256846) от [Диноманта Киш'о](https://www.wowhead.com/ru/npc=129553).
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Отточенных зубов](https://www.wowhead.com/ru/spell=255434) от [Резана](https://www.wowhead.com/ru/npc=143577) на танка.
-* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) можно использовать для снятия [Ужасающего визга](https://www.wowhead.com/ru/spell=255041), который накладывает [Ненасытный небесный крикун](https://www.wowhead.com/ru/npc=128434). Также этот каст можно сбить.
-* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) – можно заранее использовать для снятия [Ужасающего образа](https://www.wowhead.com/ru/spell=255371), который накладывает [Резан](https://www.wowhead.com/ru/npc=143577). Также этот каст можно ЛОСнуть.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Небесный щит](https://www.wowhead.com/ru/spell=387955/) с [Алгет'арского целителя](https://www.wowhead.com/ru/npc=196203/) (треш перед последним боссом).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – **Важно!** снимает [Токсин плеточника](https://www.wowhead.com/ru/spell=389033), который накладывают [Голодный плеточник](https://www.wowhead.com/ru/npc=197398) на первом боссе ([Заросшее древо](https://www.wowhead.com/ru/npc=196482))
+* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) - можно использовать для снятия [Монотонной лекции](https://www.wowhead.com/ru/spell=388392), которую накладывает [Хаотичный учебник](https://www.wowhead.com/ru/npc=196044) (треш перед [Вексамом](https://www.wowhead.com/ru/npc=194181)). Также этот каст можно сбить.
 
-## Крепость Черной Ладьи
+## Лощина Бурошкуров
 
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Чародейскую бомбардировку](https://www.wowhead.com/ru/spell=200248) на [Восставшем чародей](https://www.wowhead.com/ru/npc=98280) (треш перед и во время битвы с Иллисанной).
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Жуткой глефы](https://www.wowhead.com/ru/spell=197546) от [Иллисанны Гребень Ворона](https://www.wowhead.com/ru/npc=98696).
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Сотрясающего землю топота](https://www.wowhead.com/ru/spell=198073) от [Хмуродроба Лютого](https://www.wowhead.com/ru/npc=98949).
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Жалящего роя](https://www.wowhead.com/ru/spell=201733) от [Латосия](https://www.wowhead.com/ru/npc=98970) во время битвы с Лордом Кур'талосом Гребень Ворона.
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимают [Разлагающиеся корни](https://www.wowhead.com/ru/spell=373897) от [Разложившивося старого древня](https://www.wowhead.com/ru/npc=189531) (треш после первого босса). Также этот каст можно сбить.
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимают [Оплетающую ловушку](https://www.wowhead.com/ru/spell=383979) на третьем боссе ([Пузострелка](https://www.wowhead.com/ru/npc=186116)). Эффект можно избежать.
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен во время каста [Разрывающего бешенства](https://www.wowhead.com/ru/spell=378020) от первого босса ([Рви-зуб](https://www.wowhead.com/ru/npc=186124)).
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Кровавого укуса](https://www.wowhead.com/ru/spell=367481) от [Брюхокола](https://www.wowhead.com/ru/npc=197857) (треш после первого босса).
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Выстрела в живот](https://www.wowhead.com/ru/spell=384353) от третьего босса ([Пузострелка](https://www.wowhead.com/ru/npc=186116)) на танка.
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Выстрела](https://www.wowhead.com/ru/spell=382620) и [Костяной стрелы](https://www.wowhead.com/ru/spell=367521) от [Стрелка гнили](https://www.wowhead.com/ru/npc=186208).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Иссушающего яда](https://www.wowhead.com/ru/spell=385039), который накладывает [Брюхокол](https://www.wowhead.com/ru/npc=197857) (треш после первого босса). Не сильно важен для подземелья.
+* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) - можно использовать для снятия [Ужасного смеха](https://www.wowhead.com/ru/spell=367500), который накладывает [Бурая бичевательница](https://www.wowhead.com/ru/npc=195135) (треш до первого босса). Также этот каст можно сбить.
 
-## Рассвет Бесконечности: Падение Галакронда
+## Чертоги Насыщения
 
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Вневременного проклятия](https://www.wowhead.com/ru/spell=413618), которое накладывает [Лазутчик из рода Бесконечности](https://www.wowhead.com/ru/npc=206214) (треш перед Гнилью Галакронда). Также этот эффект можно избежать.
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Темпоральный разрез](https://www.wowhead.com/ru/spell=412012) на [Рассекателе времени из рода Бесконечности](https://www.wowhead.com/ru/npc=205408) (треш перед Хроникаром).
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает иммунитет на интеррапт, если [Лишение сил](https://www.wowhead.com/ru/spell=415437) уже был применён [Пиявкой из временного потока](https://www.wowhead.com/ru/npc=206066) (треш перед Слиянием потоков времени).
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Темпорального иссечения](https://www.wowhead.com/ru/spell=413013) от [Хроникара](https://www.wowhead.com/ru/npc=198995) на танка.
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Каменного сокрушения](https://www.wowhead.com/ru/spell=414552) от [Иридикрона](https://www.wowhead.com/ru/npc=194907).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – **Важно!** cнимает [Средоточие стихий](https://www.wowhead.com/ru/spell=395694) с [Воина стихий – штурмовик](https://www.wowhead.com/ru/npc=199037) (треш перед вторым боссом). Также этот каст можно сбить.
+* [Сглаз](https://www.wowhead.com/ru/spell=51514) – можно использовать на [Насыщательницу-воин стихий](https://www.wowhead.com/ru/npc=196043) на последнем боссе.
+* [Тотем ветряного порыва](https://www.wowhead.com/ru/spell=192077) – можно использовать чтобы быстрее добраться к финальному боссу во время интермиссии.
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен во время каста [Подавляющего кваканья](https://www.wowhead.com/ru/spell=385187) на втором боссе.
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Токсина рогоплава](https://www.wowhead.com/ru/spell=374389), который накладывает [Любопытный детеныш рогоплава](https://www.wowhead.com/ru/npc=195399) (треш во время второго босса и перед ним).
 
-## Рассвет Бесконечности: Подъем Дорнозму
+## Нелтарий
 
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Вневременного проклятия](https://www.wowhead.com/ru/spell=413618), которое накладывает [Караульный из рода Бесконечности](https://www.wowhead.com/ru/npc=207177) (треш перед Морхи) и [Душегуб из рода Бесконечности](https://www.wowhead.com/ru/npc=208440) (треш перед Хронолордом Дейос). Также этот эффект можно избежать.
-* [Сглаз](https://www.wowhead.com/ru/spell=51514) – можно использовать на [Знакомые лица](https://www.wowhead.com/ru/spell=405279) во время битвы с Морхи.
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Проклятия драконьей сокровищницы](https://www.wowhead.com/ru/spell=391762) на последнем боссе.
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен во время каста [Сбивающего копья](https://www.wowhead.com/ru/spell=373424) на втором боссе ([Чаргат Дробитель Чешуи](https://www.wowhead.com/ru/npc=189340)).
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Удара дракона](https://www.wowhead.com/ru/spell=373733) на втором боссе ([Чаргат Дробитель Чешуи](https://www.wowhead.com/ru/npc=189340)).
 
-## Чаща Темного Сердца
+## Рубиновые Омуты Жизни
 
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Проклятия уединения](https://www.wowhead.com/ru/spell=201839), которое накладывает [Скверносерд-призыватель](https://www.wowhead.com/ru/npc=99366). Также этот каст можно сбить.
-* [Поступь духа](https://www.wowhead.com/ru/spell=58875) – снимают [Корни-душители](https://www.wowhead.com/ru/spell=199063) от [Дубосерда](https://www.wowhead.com/ru/npc=103344). Также этот эффект можно избежать.
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Мучительного прыжка](https://www.wowhead.com/ru/spell=196348) от [Верховного друида Глайдалис](https://www.wowhead.com/ru/npc=96512).
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Ядовитого кошмара](https://www.wowhead.com/ru/spell=200684), который накладывает [Грозный отравитель](https://www.wowhead.com/ru/npc=99358) (треш перед Верховным друидом Глайдалис).
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Отравленного копья](https://www.wowhead.com/ru/spell=198904), которое накладывает [Гнилосердная дриада](https://www.wowhead.com/ru/npc=99358) (треш перед Дубосердом).
-* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) можно использовать для снятия страха от [Истязающего глаза](https://www.wowhead.com/ru/spell=204243), которое накладывает [Обитатель Кошмара](https://www.wowhead.com/ru/npc=101991) (треш перед Дубосердом). Также этот каст можно сбить.
-* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) можно использовать для снятия страха от [Искусственной паранойи](https://www.wowhead.com/ru/spell=200359), которое накладывает [Тень Ксавия](https://www.wowhead.com/ru/npc=99192). Также этот эффект можно избежать.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Ледяной щит](https://www.wowhead.com/ru/spell=372749/) с [Ткача Холода Морозной Вспышки](https://www.wowhead.com/ru/npc=188067), прерывая чтение этого заклинания (треш перед первым боссом).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Пламя славы](https://www.wowhead.com/ru/spell=373972/) с [Воина стихий – танцор пламени](https://www.wowhead.com/ru/npc=190206), позволяя его "добить" (треш перед вторым боссом).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Преграду бури](https://www.wowhead.com/ru/spell=391031/) с [Изначальных грозовых туч](https://www.wowhead.com/ru/npc=197509) (треш перед последним боссом).
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) - можно использовать для снижения урона по танку на втором и третьем боссе.
 
-## Вечное Цветение
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Ободрение](https://www.wowhead.com/ru/spell=168082) от [Стража жизни Гола](https://www.wowhead.com/ru/npc=83892) во время битвы с Древними защитниками. Также этот каст можно сбить.
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Взрыва яда](https://www.wowhead.com/ru/spell=165123), который накладывает [Камнеспинный жальщик](https://www.wowhead.com/ru/npc=82039) (треш перед Древними защитниками).
+## Лазурное Хранилище
 
-## Трон Приливов
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимают [Ледяные пути](https://www.wowhead.com/ru/spell=377488) от [Хранительницы печати](https://www.wowhead.com/ru/npc=187155) (треш перед вторым боссом).
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимают [Подавляющие миазмы](https://www.wowhead.com/ru/spell=388777) на последнем боссе.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Сверкающую чешую](https://www.wowhead.com/ru/spell=374778/) с [Стража хранилища](https://www.wowhead.com/ru/npc=190510) (треш перед вторым боссом).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Сотворенный барьер](https://www.wowhead.com/ru/spell=387122) с [Чародейского создания](https://www.wowhead.com/ru/npc=186740) (треш перед вторым боссом).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Чародейское неистовства](https://www.wowhead.com/ru/spell=389686) с [Кристальной ярости](https://www.wowhead.com/ru/npc=196116) (треш перед вторым боссом).
+* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) - можно использовать для снятия [Изгнания в сон](https://www.wowhead.com/ru/spell=386546/), который накладывает [Чародейский элементаль](https://www.wowhead.com/ru/npc=186741) (треш перед вторым боссом). Также этот каст можно сбить.
 
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Стылую кровь](https://www.wowhead.com/ru/spell=428329) на [Ведьме бурь Леди Наз'жар](https://www.wowhead.com/ru/npc=44404) во время битвы с Леди Наз'жар.
+## Нападаение клана Нокхуд
 
-## Усадьба Уэйкрестов
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Хватки мертвеца](https://www.wowhead.com/ru/spell=387615), который накладывает [Укхельского вестника смерти](https://www.wowhead.com/ru/npc=195851) (треш перед Тиирой и Марууком).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Волну энергии](https://www.wowhead.com/ru/spell=384686) со второго босса ([Яростная буря](https://www.wowhead.com/ru/npc=186615)).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Щит бури](https://www.wowhead.com/ru/spell=386223) с [Изначального щита бури](https://www.wowhead.com/ru/npc=194896) (треш перед [Яростной бурей](https://www.wowhead.com/ru/npc=186615)).
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) - полезен против [Быстрого выстрела](https://www.wowhead.com/ru/spell=386411) на третьем боссе ([Тиира](https://www.wowhead.com/ru/npc=186339)).
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) - полезен против [Железного копья](https://www.wowhead.com/ru/spell=376634) на последнем боссе.
+* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) - можно использовать для снятия [Отпугивающего рыка](https://www.wowhead.com/ru/spell=386063/) на третьем боссе ([Маруук](https://www.wowhead.com/ru/npc=186338)), однако игрок всё равно получит большой урон от наложения этого эффекта. Не стойте в круге!
+* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) - можно использовать для снятия [Кровожадного вопля](https://www.wowhead.com/ru/spell=373395/), который накладывает [Батак](https://www.wowhead.com/ru/npc=193462/) (треш перед последним боссом). Также этот каст можно сбить.
 
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Нестабильной рунической метки](https://www.wowhead.com/ru/spell=260703), которую накладывает [Сестра Маладия](https://www.wowhead.com/ru/npc=131823) во время битвы с Триадой ковена Мертвых Сердец. Убедитесь, что вы разошлись перед диспелом.
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Жуткой метки](https://www.wowhead.com/ru/spell=265880), которую накладывает [Матрона Альма](https://www.wowhead.com/ru/npc=135365) (треш перед Лордом и леди Уэйкрест). Убедитесь, что вы разошлись перед диспелом.
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Рунической метки](https://www.wowhead.com/ru/spell=264104), которую накладывает [Плетельщица рун из ковена Мертвых Сердец](https://www.wowhead.com/ru/npc=131677) (треш перед Лордом и леди Уэйкрест). Убедитесь, что вы разошлись перед диспелом.
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Защиту духов](https://www.wowhead.com/spell=265368), которую накладывает [Заколдованный капитан](https://www.wowhead.com/ru/npc=131587). Также этот каст можно сбить.
+## Ульдаман: наследие Тира
+
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Проклятия камня](https://www.wowhead.com/ru/spell=369365), которое накладывает [Земельник-дозорный](https://www.wowhead.com/ru/npc=184132) (треш после [Тлерона](https://www.wowhead.com/ru/npc=184422)). Также этот каст можно сбить.
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимают [Пожиратель времени](https://www.wowhead.com/ru/spell=377405) на последнем боссе.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Шипастый панцирь](https://www.wowhead.com/ru/spell=369823) с [Злобного василиска](https://www.wowhead.com/ru/npc=184023) (треш перед первым боссом). Также этот каст можно сбить.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Земляной оберег](https://www.wowhead.com/ru/spell=369400) с [Земельника-дозорного](https://www.wowhead.com/ru/npc=184132) (треш после третьего босса). Также этот каст можно сбить.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает 1 эффект [Украденного времени](https://www.wowhead.com/ru/spell=377510) с [Попирателя времен из рода Бесконечности](https://www.wowhead.com/ru/npc=184331) (треш перед последним боссом).
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Рикошетящего щита](https://www.wowhead.com/ru/spell=369677) на первом боссе ([Олаф](https://www.wowhead.com/ru/npc=184580)).
+* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – полезен против [Сокрушительной поступи](https://www.wowhead.com/ru/spell=372701) и [Земляных осколков](https://www.wowhead.com/ru/spell=372718) на третьем боссе.
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Ядовитых клыков](https://www.wowhead.com/ru/spell=369417), которые накладывает [Прыгучий паук](https://www.wowhead.com/ru/npc=184303) (треш после третьего босса). Не сильно важен для подземелья.
 
 
 <p></p>
