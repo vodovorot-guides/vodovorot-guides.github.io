@@ -89,7 +89,6 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 ## The Azure Vault
 
 * [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) - removes [Icy Bindings](https://www.wowhead.com/spell=377488) inflicted by [Rune Seal Keeper](https://www.wowhead.com/npc=187155) (trash before the second boss).
-* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) - removes [Oppressive Miasma](https://www.wowhead.com/spell=388777) during final boss.
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Arcane Fury](https://www.wowhead.com/spell=389686) on [Crystal Fury](https://www.wowhead.com/npc=196116) (trash before the second boss).
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Brilliant Scales](https://www.wowhead.com/spell=374778/) on [Vault Guard](https://www.wowhead.com/npc=190510) (trash before the second boss).
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Conjured Barrier](https://www.wowhead.com/spell=387122) on [Arcane Construct](https://www.wowhead.com/npc=186740) (trash before the second boss).
