@@ -92,7 +92,6 @@ WA с напоминанием о взятии нужных талантов –
 ## Лазурное Хранилище
 
 * [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимают [Ледяные пути](https://www.wowhead.com/ru/spell=377488) от [Хранительницы печати](https://www.wowhead.com/ru/npc=187155) (треш перед вторым боссом).
-* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимают [Подавляющие миазмы](https://www.wowhead.com/ru/spell=388777) на последнем боссе.
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Сверкающую чешую](https://www.wowhead.com/ru/spell=374778/) с [Стража хранилища](https://www.wowhead.com/ru/npc=190510) (треш перед вторым боссом).
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Сотворенный барьер](https://www.wowhead.com/ru/spell=387122) с [Чародейского создания](https://www.wowhead.com/ru/npc=186740) (треш перед вторым боссом).
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Чародейское неистовства](https://www.wowhead.com/ru/spell=389686) с [Кристальной ярости](https://www.wowhead.com/ru/npc=196116) (треш перед вторым боссом).
