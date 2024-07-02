@@ -1,12 +1,13 @@
----    
-layout: Page
-title: Переработка Шаманов в The War Within
-wow: 11.0
-author: Amani
-description: 123
-image: /assets/img/tww.jpg
 ---
-
+title: Изменения твв
+layout: page
+last_update: 2024-07-02
+wow: 11.0
+toc: true
+author: Amani
+description: Твв 
+image: /assets/img/logos/talents.png
+---
 
 # Вступление
 
