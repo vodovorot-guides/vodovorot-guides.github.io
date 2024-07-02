@@ -415,3 +415,34 @@ img {
     }
   }
 }
+
+// Styling different types of damage in the text
+span {
+    &.fire-damage {
+      color: #f16f25;
+      font-size: 1em;
+    }
+    &.frost-damage {
+      color: #8fd5fe;
+      font-size: 1em;
+    }
+    &.nature-damage {
+      color: #26d22b;
+      font-size: 1em;
+    }
+  &.lightning-damage {
+      color: #71d5ff;
+      font-size: 1em;
+    }
+  &.physical-damage {
+      color: #FFFFFF;
+      font-size: 1em;
+    }
+  &.elemental-damage {
+      color: #e600a6;
+      font-size: 1em;
+      background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+}
