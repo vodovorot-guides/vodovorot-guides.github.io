@@ -418,27 +418,27 @@ img {
 
 // Styling different types of damage in the text
 span {
-    &.fire-damage {
+    &.fire {
       color: #f16f25;
       font-size: 1em;
     }
-    &.frost-damage {
+    &.frost {
       color: #8fd5fe;
       font-size: 1em;
     }
-    &.nature-damage {
+    &.nature {
       color: #26d22b;
       font-size: 1em;
     }
-  &.lightning-damage {
+  &.lightning {
       color: #71d5ff;
       font-size: 1em;
     }
-  &.physical-damage {
+  &.physical {
       color: #FFFFFF;
       font-size: 1em;
     }
-  &.elemental-damage {
+  &.elemental {
       color: #e600a6;
       font-size: 1em;
       background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);
