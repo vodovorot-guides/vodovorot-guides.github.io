@@ -438,11 +438,19 @@ span {
       color: #FFFFFF;
       font-size: 1em;
     }
-  &.elemental {
+  &.elemental{
       color: #e600a6;
       font-size: 1em;
-      background: linear-gradient(94deg, #bd44b7 25%, #8064ea 50%, #fba520);
+      background: linear-gradient(to right, #bd44b7, #8064ea, #fba520);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
+  &.volcanic {
+      color: #e600a6;
+      font-size: 1em;
+      background: linear-gradient(to right, #26d22b, #f16f25)
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
 }
