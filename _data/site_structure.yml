@@ -36,6 +36,9 @@ categories:
 
   - title: Инфо
     subcategories:
+      - title: Изменения в The War Within
+        url: /info/tww.html
+        divided: true
       - title: Сокращения
         url: /info/abbrevs.html
       - title: Макросы
@@ -48,10 +51,6 @@ categories:
         url: /info/sqw.html        
       - title: Облачка сообщений
         url: /info/chatbubbles.html        
-      - title: Профессии Dragonflight
-        url: /info/professions.html      
-      - title: Прокачка в Dragonflight
-        url: /info/leveling.html  
       - title: Утилити таланты в Мифик+
         url: /info/utility.html  
       - title: Авторы и благодарности
