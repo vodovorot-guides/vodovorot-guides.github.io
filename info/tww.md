@@ -6,8 +6,13 @@ wow: 11.0
 toc: true
 author: Amani
 description: В данной статье описаны все измененения Шаманов в новом дополнении, с комментариями и разбором нюансов. 
-image: /assets/img/tww.png
+image: /assets/img/thrall.png
 ---
+
+<p align="center">
+    <img src="/assets/img/thrall.png"> 
+</p>
+
 
 # Вступление
 
