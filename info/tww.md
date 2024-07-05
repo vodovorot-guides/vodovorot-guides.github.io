@@ -16,7 +16,7 @@ image: /assets/img/thrall.png
 
 # Вступление
 
-В данной статье разобраны все изменения Шамана [от **2** июля](https://us.forums.blizzard.com/en/wow/t/feedback-shamans/1870411/1089) на бете The War Within. Информация об изменениях будет дополняться по ходу беты, вплоть до релиза дополнения.
+В данной статье разобраны все изменения Шамана [от 2 июля](https://us.forums.blizzard.com/en/wow/t/feedback-shamans/1870411/1089) на бете The War Within. Информация об изменениях будет дополняться по ходу беты, вплоть до релиза дополнения.
 {: class="bordered"}
 
 
@@ -36,6 +36,9 @@ image: /assets/img/thrall.png
 
 <p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 * Многие таланты поменяли местоположение в древе, в результате чего стало удобнее добираться до одних талантов и чуть сложнее до других. 
 
 * [Элементаль земли](https://www.wowhead.com/ru/spell=198103) больше не требует вкладывать талант в [Пронизывающий ветер](https://www.wowhead.com/ru/spell=57994/), что облегчит возможность его выбора в рейдовых боях, где не нужен интерапт.
@@ -44,6 +47,9 @@ image: /assets/img/thrall.png
 
 * Подробно изменения выживания, передвижения и вспомогательных способностей описаны ниже.
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 Следующие таланты теперь стоят **1** очко талантов, а не **2**:
 * [Тотемное средоточие](https://www.wowhead.com/ru/spell=382201)
 * [Защита стихий](https://www.wowhead.com/ru/spell=381650)
@@ -51,6 +57,9 @@ image: /assets/img/thrall.png
 * [Ветра Ал'акира](https://www.wowhead.com/ru/spell=382215/)
 * [Гнев природы](https://www.wowhead.com/ru/spell=381655/)
 * [Сила тотемов](https://www.wowhead.com/ru/spell=381867/)
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 Следующие таланты были удалены:
 * [Плыви по течению](https://www.wowhead.com/ru/spell=381678) – базовый кулдаун [Порыва ветра](https://www.wowhead.com/beta/spell=192063/) был снижен с **30** секунд до **20**, а вот кулдаун [Поступи духа](https://www.wowhead.com/beta/spell=58875) остался неизменным – **1** минута.
@@ -62,6 +71,10 @@ image: /assets/img/thrall.png
 * [Защита предков](https://www.wowhead.com/ru/spell=382947/)
 * [Ободряющие щиты](https://www.wowhead.com/ru/spell=382033)
 * [Кружащие потоки](https://www.wowhead.com/ru/spell=378094)
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 ## Рейдовый бафф
 
