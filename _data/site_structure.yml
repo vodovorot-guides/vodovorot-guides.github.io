@@ -38,9 +38,9 @@ categories:
     subcategories:
       - title: Изменения в The War Within
         url: /info/tww.html
-        divided: true
       - title: Сокращения
         url: /info/abbrevs.html
+        divided: true
       - title: Макросы
         url: /info/macros.html
       - title: Руководство по Raidbots
