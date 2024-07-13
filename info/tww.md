@@ -559,6 +559,8 @@ image: /assets/img/thrall.png
 
 * Теперь [Ледяная ярость](https://www.wowhead.com/beta/spell=462816) это рандомный прок после [Выброса лавы](https://www.wowhead.com/beta/spell=51505), который усиливает **3** следующих [Ледяных шока](https://www.wowhead.com/beta/spell=196840/) – сначала превращая [Ледяной шок](https://www.wowhead.com/beta/spell=196840/) в [Ледяную ярость](https://www.wowhead.com/beta/spell=462816), которая затем бафает два других [Ледяных шока](https://www.wowhead.com/beta/spell=196840/). 
 
+* [Ледяная ярость](https://www.wowhead.com/beta/spell=462816) кастуется **мгновенно**.
+
 * Талант [Электрический шок](https://www.wowhead.com/ru/spell=382086) был удален из игры, а значит [Ледяные шоки](https://www.wowhead.com/beta/spell=196840) с баффом от [Ледяной ярости](https://www.wowhead.com/beta/spell=462816) больше не наносят урон в АоЕ и не накладывают дебафф на получаемый урон от <span class="nature">сил природы</span>.
 
 * На данный момент получить [Ледяную ярость](https://www.wowhead.com/beta/spell=462816) можно не только от [Выброса лавы](https://www.wowhead.com/beta/spell=51505), но и от [Ледяного шока](https://www.wowhead.com/beta/spell=196840/), но это скорее всего баг.
