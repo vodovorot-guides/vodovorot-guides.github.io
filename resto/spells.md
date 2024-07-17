@@ -86,7 +86,7 @@ image: /assets/img/logos/spells.png
   * [Первозданная волна](https://www.wowhead.com/ru/spell=375982) – дублирует [Волны исцеления](https://wowhead.com/ru/spell=77472) на все цели под [Быстриной](https://www.wowhead.com/ru/spell=61295) с **40%** эффективностью.
   * [Оружие жизни земли](https://www.wowhead.com/ru/spell=382021/) – активируется кастом [Волны исцеления](https://wowhead.com/ru/spell=77472).
   * [Упоение](https://www.wowhead.com/ru/spell=16196) – восстанавливает ману при критическом эффекте.
-  * [Наводнение](https://www.wowhead.com/ru/spell=200076) – усиливает исцеление на **10%/20%** по цели с эффектом [Быстрины](ttps://www.wowhead.com/ru/spell=61295) или [Целительного ливня](https://www.wowhead.com/ru/spell=73920).
+  * [Наводнение](https://www.wowhead.com/ru/spell=200076) – усиливает исцеление на **10%/20%** по цели с эффектом [Быстрины](https://www.wowhead.com/ru/spell=61295) или [Целительного ливня](https://www.wowhead.com/ru/spell=73920).
   * [Пробуждение предка](https://www.wowhead.com/ru/spell=382309) – дополнительное исцеление при критическом эффекте.
   * [Тотем волн духостранника](https://www.wowhead.com/ru/spell=404522) – ускоряет время применения и снижает стоимость на **10** секунд после установки [Тотема прилива маны](https://www.wowhead.com/ru/spell=16191).
   * [Энергия Предков](https://www.wowhead.com/ru/spell=207401) – увеличивет максимальное здоровье цели на **5%/10%**.
