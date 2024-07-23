@@ -163,6 +163,7 @@ custom-javascript-list:
 <p></p>
 
 * Основной билд для АоЕ в препатче The War Within.
+* В качестве альтернативы можно взять [Хранитель бурь](https://www.wowhead.com/ru/spell=392714/) (вместе с [Мощью Водоворота](https://www.wowhead.com/ru/spell=191861) и [Камерой эха](https://www.wowhead.com/ru/spell=382032)), пожертвовал талантами [Эхо элементалей](https://www.wowhead.com/ru/spell=462864), [Проводник молний](https://www.wowhead.com/ru/spell=462862/) и [Око бури](https://www.wowhead.com/ru/spell=381708/).
 * В данном билде [Выброс лавы](https://ru.wowhead.com/spell=51505) используется в том числе и в бою против нескольких целей.
 * [Землетрясение](https://ru.wowhead.com/spell=61882) кастуется только после [Удара духов стихий](https://ru.wowhead.com/spell=117014), за счет таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
 * Утилити таланты можно менять исходя из подземелья, подробнее в [этой статье](https://stormkeeper.ru/info/utility.html).
