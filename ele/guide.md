@@ -137,7 +137,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMLz22YYGzMLbzMzMzMGDAAAAAAAAAQIAAsNNjhZbxMmGDzMbzYZGzgxwsMmZAmxYA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMLz22YYGzMLbzMzMzMGDAAAAAAAAAQIAAsNNjhZbxMmGDzMbzYZGzgxwsMmZAmxYA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="430"></iframe>
 
 <p></p>
 
@@ -158,13 +158,14 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMLz22YGGzMLbzMjZmxYAAAAAAAAAACBAgtpZMMbLmx0YYmZbGLzYGMGmlxMDYmxYA?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="450"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMLz22YGGzMLbzMjZmxYAAAAAAAAAACBAwsNNjBbLMmGYmZbGLzYGLGjlZZMzAmZMG?width=700&bgcolor=262b39&locale=ru_RU" width="710"></iframe>
 
 <p></p>
 
 * Основной билд для АоЕ в препатче The War Within.
-* В данном билде [Выброс лавы](https://ru.wowhead.com/spell=51505) используется в том числе и на АоЕ.
+* В данном билде [Выброс лавы](https://ru.wowhead.com/spell=51505) используется в том числе и в бою против нескольких целей.
 * [Землетрясение](https://ru.wowhead.com/spell=61882) кастуется только после [Удара духов стихий](https://ru.wowhead.com/spell=117014), за счет таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
+* Утилити таланты можно менять исходя из подземелья, подробнее в [этой статье](https://stormkeeper.ru/info/utility.html).
 
 
 <p></p>
@@ -244,13 +245,13 @@ custom-javascript-list:
 1. Продолжайте обычную ротацию, указанную ниже.
 
 **Приоритет в бою против одной цели:**
-1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067) по кулдауну.
+1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
 2. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982), желательно перед [Перерождением](https://ru.wowhead.com/spell=114050).
 1. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/), если [Перерождение](https://ru.wowhead.com/spell=114050) не активно.
-3. [Перерождение](https://ru.wowhead.com/spell=114050) по кулдауну.
+3. [Перерождение](https://ru.wowhead.com/spell=114050).
 4. {:.no-eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для траты энергии Водоворота.
 4. {:.eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для траты энергии Водоворота, даже если есть бафф от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
-5. [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
+5. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 6. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714). 
   * {:.fusion-apl}Убедитесь, что вы потратили оба баффа [Слияния стихий](https://www.wowhead.com/ptr-2/spell=462840/) перед использованием [Ледяной ярости](https://ru.wowhead.com/spell=210714). 
 7. {:.if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://www.wowhead.com/ru/spell=16166).
@@ -264,17 +265,17 @@ custom-javascript-list:
 <div id="aoe" markdown="1" style="display:none;">
 
 **Приоритет в бою на АоЕ:**
-1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067) по кулдауну.
+1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067).
 2. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
 1. {:.lmt-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285), если [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) на кулдауне.
   * Обычно не стоит ставить сразу два [Тотема жидкой магмы](https://www.wowhead.com/ru/spell=192222/), а лучше распределять их на разные паки.
-2. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну.
+2. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 4. [Огненный шок](https://ru.wowhead.com/spell=188389), если под этим дебаффом менее **6** целей.
 3. [Перерождение](https://ru.wowhead.com/spell=114050) по кулдауну, если оно успеет откатиться до следующего боя с боссом или мини-боссом.
 4. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
 4. {:.eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если у вас нет баффа от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
 4. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) для траты энергии Водоворота.
-5. [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
+5. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 6. [Цепная молния](https://ru.wowhead.com/spell=188443), если другие заклинания недоступны.
 3. [Огненный шок](https://ru.wowhead.com/spell=188389) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 
