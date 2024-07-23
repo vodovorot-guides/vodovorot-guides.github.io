@@ -155,6 +155,7 @@ custom-javascript-list:
 
 ## Таланты для Мифик+
 
+### Основной билд
 
 <p></p>
 
@@ -173,6 +174,8 @@ custom-javascript-list:
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
+### Альтернативный билд
 
 <p></p>
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2024-04-23
+last_update: 2024-07-23
 title: Гайд на Рестор Шамана
-wow: 10.2.7
+wow: 11.0
 toc: true
 author: Amani
 description: Большое руководство по всем аспектам игры за Шамана Исцеления. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и WA и многое другое.
@@ -47,56 +47,80 @@ image: /assets/img/resto_tb2.png
 * Не имеет уникальных утилити способностей и баффов, повышающих урон группы.
 
 
-## Изменения в четвертом сезоне
+## Изменения в The War Within
 
-* В четвертом сезоне Рестор получил сет из первого сезона – [Частицы зачарованной земли](https://www.wowhead.com/ru/item-set=1536), который не полагается на постоянное использование [Быстрины](https://www.wowhead.com/ru/spell=61295/), а является более универсальным вариантом, повышая шанс критического удара и критический эффект исцеления.
-* Данное изменение благоприятно влияет как на отхил, так и на нанесение урона.
-* Также Рестор получил нерф на **5%** всего исцеления, как и некоторые другие специализации хилов, но это компенсируется возвращением более эффективного сетового комплекта из первого сезона.
+Рестор шаман получил множество различных изменений в древе талантов:
+* Добавлено **6** новых талантов.
+* Изменено **13** талантов.
+* Удалено **6** талантов. Некоторые были перенесены в классовую ветку, а другие стали частью базовых способностей.
+* Некоторые таланты стоят **1** очко таланта, а не **2/2**.
+* Многие АоЕ заклинания теперь лечат **5** союзников вместо **6**, при этом их исцеление было соответствующе увеличено.
+* Повышено исцеление многих основных способностей, но снижена эффективность некоторых бурстов.
+
+<p></p>
+
+{% include button.html name="Все изменения Шамана в The War Within" link="/info/tww.html" %}  
+
+<p></p>
+
+## Видеогайды
+
+<p></p>
+
+{% include youtube.html id="3258mMzUBAA" %}
+
+<p></p>
 
 # Билды талантов
 
+Ниже даны рекомендации по талантам, а не фиксированные незаменяемые билды. Таланты на каждого босса можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/restoration/shaman/mythic-plus/overview/10/all-dungeons/this-week).
+{: class="bordered"}
+
+
 ## Таланты для рейда
 
+### Билд через Цепное исцеление
+
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmx2YmZGLzGbGWAAAEACAmxsMGbzMzMZ2WYmpxMMzGWMzMYMMLjBAwA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+
+<p></p>
+
+
+* [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/) усиливается многими талантами, такими как [Прилив](https://www.wowhead.com/ru/spell=157154), [Вестник приливов](https://www.wowhead.com/ru/spell=236501), [Устремление предков](https://www.wowhead.com/ru/spell=382732/) / [Приливные течения](https://www.wowhead.com/ru/spell=382039/) и [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685), что делает его одним из самых сильных заклинаний Рестор Шамана, вокруг которого можно строить свой геймплей.
+
+* [Быстрина](https://www.wowhead.com/ru/spell=61295) в этом билде также активно использутся, и её эффективность увеличивается за счет талантов [Изначальное сердце волн](https://www.wowhead.com/ru/spell=382045) и [Воды прилива](https://www.wowhead.com/ru/spell=462425).
+
+* В данном билде будут также полезны различные бурсты, такие как [Перерождение](https://www.wowhead.com/ru/spell=114052/), которое отлично сочетается с [Наставлениями предков](https://www.wowhead.com/ru/spell=108281), а также заклинания с коротким временем восстановления – [Родник](https://www.wowhead.com/ru/spell=197995), [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685), [Ливневый дождь](https://www.wowhead.com/ru/spell=462488/) и [Тотем земляной стены](https://www.wowhead.com/ru/spell=198838/), который при необходимости меняется на [Тотем защиты предков](https://www.wowhead.com/ru/spell=207399/).
+
+* С учетом возвращения в препатче The War Within комплекта классовых доспехов из третьего сезона, имеет смысл заменить [Пробуждение предка](https://www.wowhead.com/ru/spell=382309) и [Родник](https://www.wowhead.com/ru/spell=197995/) на [Благословение Говорящей с волнами](https://www.wowhead.com/ru/spell=381946/) и [Первозданную волну](https://www.wowhead.com/ru/spell=428332).
+
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
-<details markdown=1><summary><b><span style="color:#FFFFFF;font-size:1em;">Билд через Цепное исцеление</span></b></summary>
-<p></p>
+### Билд через Быстрину
 
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIRSiSCplk0kU0okkSQIlkAAS7AJokIIJRSQL?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
 <p></p>
 
-
-
-</details>
-<p></p>
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-
-<details markdown=1><summary><b><span style="color:#FFFFFF;font-size:1em;">Билд через Быстрину</span></b></summary>
-<p></p>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZMzsNGMzysNz2MAAAQAIAYGzyYsNzMzkZbhZmGzwMbYxMzgxwsMGAAD?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQA7dFHISiZRvWu4x4NMgmZAAAAAAAAAAAAAAQIRSCJtkSSUSUSjSokQQJBKASTCKJCSSSSIC?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
-<p></p>
+* В препатче The War Within возвращается комплект классовых доспехов из третьего сезона, что делает билд через [Быстрину](https://www.wowhead.com/ru/spell=61295) актуальнее, чем в четвертом сезоне.
 
-* [Оружие жизни земли](https://www.wowhead.com/ru/spell=382021) можно заменить на [Жужжащую руну](https://www.wowhead.com/ru/item=194823), освободив при этом одно очко таланта.
+* В данном билде [Быстрину](https://www.wowhead.com/ru/spell=61295) поддерживают такие таланты, как [Изначальное сердце волн](https://www.wowhead.com/ru/spell=382045), [Воды прилива](https://www.wowhead.com/ru/spell=462425), [Первозданная волна](https://www.wowhead.com/ru/spell=428332), [Благословение Говорящей с волнами](https://www.wowhead.com/ru/spell=381946/) и [Подводное течение](https://www.wowhead.com/ru/spell=382194).
 
+* Однако, в данном билде всё равно имеет смысл не брать [Подводное течение](https://www.wowhead.com/ru/spell=382194) или [Благословение Говорящей с волнами](https://www.wowhead.com/ru/spell=381946/), чтобы вложить очки в бурстовые способности – двухминутное комбо [Перерождения](https://www.wowhead.com/ru/spell=114052/) с [Наставлениями предков](https://www.wowhead.com/ru/spell=108281), а также [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685), [Родник](https://www.wowhead.com/ru/spell=197995) и [Тотем земляной стены](https://www.wowhead.com/ru/spell=198838/).
 
-</details>
-<p></p>
+* Основная идея билда заключается в том, чтобы ценой АоЕ отхила от усиленного всеми талантами [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) получить более равномерный отхил за счет улучшенных [Быстрин](https://www.wowhead.com/ru/spell=61295), при этом не теряя бурстов в нужные моменты боя и имея более высокую мана-эффективность.
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -112,39 +136,21 @@ image: /assets/img/resto_tb2.png
 <p></p>
 
 
-<details markdown=1><summary><b><span style="color:#FFFFFF;font-size:1em;">Билд с упором на урон</span></b></summary>
-<p></p>
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIpJJJJpkQKSSTCNIpEESJJkGg0SCgUKJRkE0C?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
-
-<p></p>
-
-
-
-</details>
-<p></p>
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-
-<details markdown=1><summary><b><span style="color:#FFFFFF;font-size:1em;">Билд с упором на исцеление</span></b></summary>
-<p></p>
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIRSSKJlkik0kQDSKBhUSCpBItkAIlSSEJBtA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlZGmhZbsYAAAgAQAwMzsMmZZmZIz2CzMNmZMDsMjZwsMMLjBAwA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
 
 <p></p>
 
 
-</details>
-<p></p>
+* Суть данного билда состоит в том, чтобы иметь как можно больше универсальных способностей и для отхила, и для нанесения урона, которые будут полезны в Мифик+. К ним относятся, например, [Кислотный дождь](https://www.wowhead.com/ru/spell=378443/) и переработанный [Властелин стихий](https://www.wowhead.com/ru/spell=16166/), который теперь позволяет сконцентрироваться на [Исцеляющих всплесках](https://www.wowhead.com/ru/spell=8004/) и [Выбросах лавы](https://www.wowhead.com/ru/spell=51505/), практически полностью игнорируя развешивание [Огненных шоков](https://www.wowhead.com/ru/spell=188389).
 
+* [Пульсация](https://www.wowhead.com/ru/spell=200071) – крайне сильный талант для исцеления отдельных союзников, что в Мифик+ происходит горадо чаще, чем в рейде, а также этот талант отлично сочетается с [Первозданной волной](https://www.wowhead.com/ru/spell=428332).
+
+* В данном билде также берется двухминутное комбо [Перерождения](https://www.wowhead.com/ru/spell=114052/) с [Наставлениями предков](https://www.wowhead.com/ru/spell=108281), что будет полезно в сложных ситуациях.
+
+* Для варианта с большим упором на [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/), можно заменить [Поток](https://www.wowhead.com/ru/spell=200072/) и [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) на [Прилив](https://www.wowhead.com/ru/spell=157154) и [Устремление предков](https://www.wowhead.com/ru/spell=382732/) / [Приливные течения](https://www.wowhead.com/ru/spell=382039/).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -155,26 +161,13 @@ image: /assets/img/resto_tb2.png
 
 Билды могут отличаться в зависимости аффиксов и подземелья. Подробно про выбор утилити талантов для каждого подземелья можно найти в [этой статье](https://stormkeeper.ru/info/utility.html).
 
-На **Кровавой** неделе:
-* [Гром и молнию](https://www.wowhead.com/ru/spell=51490) – поможет для откидывания мобов из лужи крови.
-<p></p>
-
-На **Тиранической** неделе:
-* [Элементаль земли](https://www.wowhead.com/ru/spell=198103) и [Переполняющая сила жизни](https://www.wowhead.com/ru/spell=381689) – таланты на выживание, необходимые для переживания самых опасных механик боссов в высоких ключах.
-* [Водный щит](https://www.wowhead.com/ru/spell=52127/) + [Упоение](https://www.wowhead.com/ru/spell=16196) – пригодится в случае нехватки маны на затяжных боях с боссами.
-<p></p>
-
-На **Укрепленной** неделе:
-* [Гром и молнию](https://www.wowhead.com/ru/spell=51490) + [Громовой удар](https://www.wowhead.com/ru/spell=378779) – позволяет прерывать заклинания группе врагов. Имеет кулдаун всего **25** секунд, что позволяет использовать его несколько раз за бой. 
-* [Элементаль земли](https://www.wowhead.com/ru/spell=198103) – в случае смерти танка заберет на себя мобов, что даст дополнительное время для его реса.
-* [Тотем каменной кожи](https://www.wowhead.com/ru/spell=383017) – будет полезно как для защиты танка, так и для снижения урона по группе на некоторых способностях (подробнее по [этой ссылке](https://stormkeeper.ru/info/utility.html)).
-<p></p>
-
 # Приоритет способностей
 
 
 Учитывая механику работы [Искусности](https://www.wowhead.com/ru/spell=77226/), всегда старайтесь выбирать целью самых раненых союзников. Это не только спасет их от гибели, но и увеличит ваше эффективное исцеление.
 {: class="bordered"}
+
+## Основные заклинания
 
 Следующие способности стоит **кастовать по кулдауну** и поддерживать их максимальный аптайм:
 1. Кастуйте [Целительный ливень](https://ru.wowhead.com/spell=73920) по кулдауну в скопление союзников. Со взятым талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) стоит также задевать [Целительным ливнем](https://ru.wowhead.com/spell=73920) врагов.
@@ -190,26 +183,46 @@ image: /assets/img/resto_tb2.png
 4. Как можно чаще используйте способности с коротким кулдауном, так как они гораздо эффективнее чем [филлеры](https://stormkeeper.ru/info/abbrevs.html). К ним относятся следующие способности:
   * [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/)
   * [Первозданная волна](https://www.wowhead.com/ru/spell=375982)
-  * [Ливневый дождь](https://www.wowhead.com/ru/spell=207778)
+  * [Ливневый дождь](https://www.wowhead.com/ru/spell=462488)
   * [Родник](https://www.wowhead.com/ru/spell=197995/)
   * [Тотем земляной стены](https://www.wowhead.com/ru/spell=198838)
   * [Быстрина](https://ru.wowhead.com/spell=61295)
 
+Если вместо [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153) вы используете [Тотем исцеляющего потока](https://ru.wowhead.com/spell=5394), то его можно просто ставить по кулдауну в течение всего боя. Вокруг него не нужно специально отыгрывать и ничем заряжать, он будет просто пассивно хилить вас и ваших союзников. Это является как его плюсом (простота), так и минусом (отсутствуие контролируемого бурстового отхила).
+{: class="bordered"}
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+## Бурстовая комбинация через Перерождение
+
+У Шамана Исцеления нет как таковой [рампы](https://stormkeeper.ru/info/abbrevs.html) как у других лекарей, но фиксированная очередность определенных заклинаний во время разыгрывания бурстов по сути является её заменой. Ниже дан пример такой комбинации при использовании [Перерождения](https://ru.wowhead.com/spell=114052) в стандартном билде через [Цепное исцеление](https://ru.wowhead.com/spell=1064):
+
+1. Используйте [Быстрину](https://ru.wowhead.com/spell=61295) для получения двух стаков [Приливных волн](https://www.wowhead.com/ru/spell=51564/).
+2. Используйте [Целительный ливень](https://ru.wowhead.com/spell=73920), но **НЕ** кастуйте сразу же [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), он потребуется чуть позже.
+3. Используйте [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
+4. Устанавливайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153).
+5. Используйте [Наставления предков](https://ru.wowhead.com/spell=108281) и сразу же [Перерождение](https://ru.wowhead.com/spell=114052).
+6. Используйте [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), поглощая эфффект от таланта [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
+7. Используйте [Родник](https://www.wowhead.com/ru/spell=197995/).
+8. Кастуйте два [Цепных исцеления](https://ru.wowhead.com/spell=1064).
+9. Мгновенно кастуйте [Целительный ливень](https://ru.wowhead.com/spell=73920) с баффом от [Природной стремительности](https://www.wowhead.com/ru/spell=132158/) и сразу же [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), пока все бурсты еще активны.
+10. Возвращайтесь к обычной ротации, не забыв взорвать [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) в момент просадки рейда.
+
+
+## Нанесение урона
+
+
+
 Если нечего хилить, то стоит **наносить урон**:
 1. Используйте [Целительный ливень](https://ru.wowhead.com/spell=73920) для нанесения урона с талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) по кулдауну, желательно с баффом от [Властелина стихий](https://www.wowhead.com/ru/spell=16166). [Целительный ливень](https://ru.wowhead.com/spell=73920) кастуется для урона по кулдауну даже в бою против одного противника.
-1. Используйте [Хранитель бурь](https://www.wowhead.com/ru/spell=383009) для усиления урона [Молнии](https://ru.wowhead.com/spell=188196) в бою против **1** цели или для усиления [Цепной молнии](https://ru.wowhead.com/spell=188443) если целей больше **2**.
 4. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443), если целей больше **2**.
 5. [Огненный шок](https://ru.wowhead.com/spell=188389) стоит поддерживать в бою против **1** цели, на большем количестве целей он кастуется только во время передвижения. Обновляйте [Огненный шок](https://ru.wowhead.com/spell=188389), когда до его спадения остается менее **5.4** секунд, чтобы это время добавилось к новому наложению дебаффа.
 6. [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется по кулдауну в бою против **1** цели, либо по проку [Волны лавы](https://ru.wowhead.com/spell=77756) во время движения на бóльшем количестве целей.
 7. [Молния](https://ru.wowhead.com/spell=188196) кастуется как филлер в бою против одной цели, когда остальные способности недоступны.
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+## Активное исцеление
 
 Для **активного отхила** стоит использовать следующие способности:
 1. Используйте [Быстрину](https://ru.wowhead.com/spell=61295) по кулдауну в раненых союзников.
@@ -234,8 +247,7 @@ image: /assets/img/resto_tb2.png
 
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+## Рейдовые сейвы
 
 Бурсты и **рейдовые сейвы**:
 1. К бурстам относятся следующие способности: [Перерождение](https://ru.wowhead.com/spell=114052), [Наставление предков](https://ru.wowhead.com/spell=108281), [Тотем целительного прилива](https://ru.wowhead.com/spell=108280) и [Тотем духовной связи](https://ru.wowhead.com/spell=98008). Обычно на освоении Эпохального рейда эти кулдауны распределяются рейд-лидером на нужные моменты в бою.
@@ -254,16 +266,11 @@ image: /assets/img/resto_tb2.png
   * Может использоваться как сейв для танка в Мифик+.
 5. Старайтесь распределять ваши бурсты на весь бой – не стоит отдавать все четыре сильные способности на одну просадку здоровья, чтобы не остаться без бурстов на следующие три минуты. Можно отдавать одну-две сильных способности примерно каждую минуту, например таким образом (ниже указан один из возможных паттернов):
   * **1** минута боя: [Тотем целительного прилива](https://ru.wowhead.com/spell=108280).
-  * **2** минута боя: [Перерождение](https://ru.wowhead.com/spell=114052).
+  * **2** минута боя: [Перерождение](https://ru.wowhead.com/spell=114052) с [Наставлениями предков](https://www.wowhead.com/ru/spell=108281).
   * **3** минута боя: [Тотем духовной связи](https://ru.wowhead.com/spell=98008).
   * **4** минута боя: [Тотем целительного прилива](https://ru.wowhead.com/spell=108280).
-  * **5** минута боя: [Перерождение](https://ru.wowhead.com/spell=114052).
+  * **5** минута боя: [Перерождение](https://ru.wowhead.com/spell=114052) с [Наставлениями предков](https://www.wowhead.com/ru/spell=108281).
   * И так далее.
-
-
-[Наставления предков](https://www.wowhead.com/ru/spell=108281) не стоит совмещать с другими бурстами, так как после [патча **10.1.5**](https://stormkeeper.ru/2023/07/06/1015.html) оно имеет ограничение на количество исцеления в секунду. Используйте его под отдельные сильные способности, такие как усиленное [Цепное исцеление](https://ru.wowhead.com/spell=1064) и [Первозданную волну](https://www.wowhead.com/ru/spell=375982).
-{: class="bordered"}
-
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -273,8 +280,7 @@ image: /assets/img/resto_tb2.png
 {: class="bordered"}
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+## Передвижение
 
 Лечение во время **передвижения**:
 1. Основной талант для успешного лечения на перебежках – [Благосклонность предков](https://www.wowhead.com/ru/spell=79206). Эту способность стоит использовать в те моменты, когда необходимо и двигаться, и активно хилить.
@@ -285,8 +291,7 @@ image: /assets/img/resto_tb2.png
 
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+## Восполнение маны
 
 **Восполнение маны**:
 1. [Водный щит](https://ru.wowhead.com/spell=52127) – поддерживайте всегда, если взят в талантах.
@@ -312,7 +317,6 @@ image: /assets/img/resto_tb2.png
 * [Гнев природы](https://www.wowhead.com/ru/spell=381655) – увеличивает шанс критического удара большинства заклинаний.
 * [Улучшенная молния](https://www.wowhead.com/ru/spell=381674) – пассивное увеличение урона в бою против одной цели.
 * [Защита от стихий](https://www.wowhead.com/ru/spell=381650) – снижает получаемый магический урон.
-* [Защита предков](https://www.wowhead.com/ru/spell=382947) – увеличивает Избежание и Самоисцеление.
 * [Переполняющая сила жизни](https://www.wowhead.com/ru/spell=381689/) – увеличивает запас здоровья на **8%**.
 * [Пронизыващий ветер](https://www.wowhead.com/ru/spell=57994/) – сбитие кастов, обязательный талант в Мифик+.
 
@@ -478,37 +482,6 @@ image: /assets/img/resto_tb2.png
 
 
 # Экипировка
-
-## Комплект классовых доспехов
-
-Как можно быстрее получите из рейда **2/4** куска сетового комплекта – [Частицы зачарованной земли](https://www.wowhead.com/ru/item-set=1536/).
-
-
-* **2 части**: Пока активен [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) или [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394/), ваша вероятность критического удара увеличена на **15%**.
-* **4 части**: Критические эффекты исцеления восстанавливают **220%** здоровья вместо обычных **200%**.
-
-Шаман Исцеления получает бонусы сетового комплекта от первого сезона, а характеристики и внешний вид – от третьего, которые указаны ниже.
-{: class="bordered"}
-
-
-<p></p>
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-**Данные предметы дают сетовые бонусы:**
-* [Спутники великого волка-изгнанника](https://www.wowhead.com/ru/item=207207)
-* [Отделанный мехом килт великого волка-изгнанника](https://www.wowhead.com/ru/item=207208)
-* [Челюсти великого волка-изгнанника](https://www.wowhead.com/ru/item=207209)
-* [Захваты великого волка-изгнанника](https://www.wowhead.com/ru/item=207210)
-* [Облачение великого волка-изгнанника](https://www.wowhead.com/ru/item=207212)
-
-**Предметы из Катализатора:**
-* [Кольчужный плащ великого волка-изгнанника](https://www.wowhead.com/ru/item=207204/)
-* [Нарукавники великого волка-изгнанника](https://www.wowhead.com/ru/item=207205)
-* [Башмаки великого волка-изгнанника](https://www.wowhead.com/ru/item=207211/)
-* [Пояс с печатью великого волка-изгнанника](https://www.wowhead.com/ru/item=207206)
-
 
 ## Аксессуары
 
