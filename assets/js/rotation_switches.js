@@ -126,7 +126,7 @@ $('button#build_ele_storm_raid').on('click', function() {
 });
 
 $('button#build_enh_elem_raid').on('click', function() {
-    on_build_button_click(this, ["totem", "ll", "ic", "hs", "eb", "pw", "hh", "lf", "es", "five"]);
+    on_build_button_click(this, ["ll", "ic", "hs", "eb", "pw", "hh", "lf", "es", "five"]);
     return false;
 });
 
@@ -141,7 +141,7 @@ $('button#build_enh_elem_mplus_alt').on('click', function() {
 });
 
 $('button#build_enh_phys_raid').on('click', function() {
-    on_build_button_click(this, ["totem", "ll", "ic", "dre", "sa", "sunder", "dw", "fw", "two", "four"]);
+    on_build_button_click(this, ["ll", "ic", "dre", "sa", "sunder", "dw", "fw", "two", "four"]);
     return false;
 });
 
