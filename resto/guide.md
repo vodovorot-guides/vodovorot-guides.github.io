@@ -85,7 +85,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmx2YmZGLzGbGWAAAEACAmxsMGbzMzMZ2WYmpxMMzGWMzMYMMLjBAwA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmx2YmZGLzGbGWAAAEACAmxsMGbzMzMZ2WYmpxMMzGWMzMYMMLjBAwA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="400"></iframe>
 
 <p></p>
 
@@ -109,7 +109,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZMzsNGMzysNz2MAAAQAIAYGzyYsNzMzkZbhZmGzwMbYxMzgxwsMGAAD?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZMzsNGMzysNz2MAAAQAIAYGzyYsNzMzkZbhZmGzwMbYxMzgxwsMGAAD?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="400"></iframe>
 
 <p></p>
 
@@ -139,7 +139,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlZGmhZbsYAAAgAQAwMzsMmZZmZIz2CzMNmZMDsMjZwsMMLjBAwA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="470"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlZGmhZbsYAAAgAQAwMzsMmZZmZIz2CzMNmZMDsMjZwsMMLjBAwA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="400"></iframe>
 
 <p></p>
 
