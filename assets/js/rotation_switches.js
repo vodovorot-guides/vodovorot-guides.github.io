@@ -141,7 +141,7 @@ $('button#build_enh_elem_mplus_alt').on('click', function() {
 });
 
 $('button#build_enh_phys_raid').on('click', function() {
-    on_build_button_click(this, ["ll", "ic", "dre", "sa", "sunder", "dw", "fw", "two", "four"]);
+    on_build_button_click(this, ["ll", "ic", "dre", "sa", "sunder", "dw", "fw", "two"]);
     return false;
 });
 

@@ -236,7 +236,7 @@ custom-javascript-list:
 
 **Опенер в бою против одной цели:**
 1. {:.fire-apl}[Элементаль огня](https://ru.wowhead.com/spell=198067) за **3** секунды до пула.
-1. {:.lmt-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) за **2** секунды до пула.
+1. [Выброс лавы](https://ru.wowhead.com/spell=51505) за **2** секунды до пула.
 2. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/), если он не понадобится в ближайшую минуту на АоЕ.
 3. {:.no-lmt-apl}[Огненный шок](https://ru.wowhead.com/spell=188389).
 3. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
