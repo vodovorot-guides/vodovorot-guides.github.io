@@ -243,9 +243,9 @@ custom-javascript-list:
 3. [Перерождение](https://ru.wowhead.com/spell=114050).
 4. {:.no-eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для траты энергии Водоворота.
 4. {:.eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для траты энергии Водоворота, даже если есть бафф от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
-5. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 6. {:.if-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714). 
   * {:.fusion-apl}Убедитесь, что вы потратили оба баффа [Слияния стихий](https://www.wowhead.com/ptr-2/spell=462840/) перед использованием [Ледяной ярости](https://ru.wowhead.com/spell=210714). 
+5. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 7. {:.if-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффами от [Ледяной ярости](https://ru.wowhead.com/spell=210714) и [Властелина стихий](https://www.wowhead.com/ru/spell=16166).
 8. [Молния](https://ru.wowhead.com/spell=188196), если другие заклинания недоступны.
 3. [Огненный шок](https://ru.wowhead.com/spell=188389) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
