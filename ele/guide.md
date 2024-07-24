@@ -265,9 +265,10 @@ custom-javascript-list:
 4. [Огненный шок](https://ru.wowhead.com/spell=188389), если под этим дебаффом менее **6** целей.
 3. [Перерождение](https://ru.wowhead.com/spell=114050) по кулдауну, если оно успеет откатиться до следующего боя с боссом или мини-боссом.
 4. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
-4. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3** и более целей.
 4. {:.eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если у вас нет баффа от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
-4. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) для траты энергии Водоворота.
+4. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) для траты энергии Водоворота в бою против **3** и более целей.
+6. {:.if-apl .fusion-apl}[Ледяная ярость](https://ru.wowhead.com/spell=210714). 
+  * {:.fusion-apl}Убедитесь, что вы потратили оба баффа [Слияния стихий](https://www.wowhead.com/ptr-2/spell=462840/) перед использованием [Ледяной ярости](https://ru.wowhead.com/spell=210714). 
 5. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 6. [Цепная молния](https://ru.wowhead.com/spell=188443), если другие заклинания недоступны.
 3. [Огненный шок](https://ru.wowhead.com/spell=188389) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
