@@ -100,10 +100,6 @@ image: /assets/img/resto_tb2.png
 
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
 ### Билд через Быстрину
 
 
@@ -123,17 +119,10 @@ image: /assets/img/resto_tb2.png
 * Основная идея билда заключается в том, чтобы ценой АоЕ отхила от усиленного всеми талантами [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) получить более равномерный отхил за счет улучшенных [Быстрин](https://www.wowhead.com/ru/spell=61295), при этом не теряя бурстов в нужные моменты боя и имея более высокую мана-эффективность.
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 
 
 ## Таланты для Мифик+
-
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 
 
