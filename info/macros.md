@@ -118,6 +118,273 @@ image: /assets/img/logos/macros.png
 /use [combat] Сложные манжеты; [nocombat] Дух предков
 ~~~
 
+# Стихии
+
+
+В первую очередь – рекомендую настроить на касты по наведению мыши (mouseover) через стандартный интерфейс. Это позволит кастовать все заклинания без выбора цели, что особенно удобно для [Огненного шока](https://ru.wowhead.com/spell=188389) и [Пронизывающего ветра](https://www.wowhead.com/ru/spell=57994/), но я это использую для всех заклинаний:
+
+<p align="center">
+    <img src="/assets/img/mouseover.png"> 
+</p>
+
+* Маусовер макрос для атакующих заклинаний:
+~~~
+#showtooltip  
+/cast [@mouseover,harm,exists,nodead][] Огненный шок
+~~~
+
+* Маусовер макрос для лечащих заклинаний:
+~~~
+#showtooltip 
+/cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
+~~~
+
+* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.purge }} и [Очищение духа](https://ru.wowhead.com/spell=51886):
+~~~
+#showtooltip 
+/use [@mouseover,nodead,harm] Развеивание магии;[@mouseover,nodead,help] Очищение духа;[@target,nodead,harm] Развеивание магии;[@target,nodead,help][@player] Очищение духа
+~~~
+
+* Данный макрос позволяет кастовать {{ site.data.spells.quake }} сразу на место под курсором, избавляя от лишнего клика мышкой:  
+~~~
+#showtooltip
+/cast [@cursor] Землетрясение
+~~~
+
+* Способности элементалей [Метеорит](https://www.wowhead.com/ru/spell=117588) и [Буря](https://ru.wowhead.com/spell=157375/) на одну кнопку:
+~~~
+#showtooltip
+/cast Метеорит
+/cast Буря
+~~~
+
+* [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Удар духов стихий](https://ru.wowhead.com/spell=117014/) на одной кнопке. Аналогичны макрос рекомендуется сделать на [Молнию](https://ru.wowhead.com/spell=188196) и [Цепную молни](https://ru.wowhead.com/spell=188443)
+~~~
+#showtooltip Удар духов стихий
+/cast Природная стремительность
+/cast [@mouseover,harm,exists,nodead][] Удар духов стихий
+~~~
+
+* Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
+~~~
+#showtooltip 
+/cast [@focus,exists,nodead,harm] [@boss1,exists,nodead,harm] Огненный шок
+~~~
+
+* Сбивание каста по фокусу, если фокуса нет, то сбивает цели под маусовером. Если там нет врага, то сбивает текущей цели:
+~~~
+#showtooltip
+/cast [@focus,exists,harm,nodead][@mouseover,harm,exists,nodead][] Пронизывающий ветер
+~~~
+
+* Этот макрос позволяет кинуть {{ site.data.spells.fs }} на соседнюю цель, не меняя вашей текущей. Выбирается ближайшая к вам цель, в сторону которой направлена камера. Данный макрос не работает, если цель одна:
+~~~
+#showtooltip  
+/targetenemy  
+/cast Огненный шок  
+/targetlasttarget  
+~~~
+
+* Применяет {{ site.data.spells.wrt }} прямо под вашего персонажа, позволяя сразу получить бонус скорости и не терять времени на установку тотема:  
+~~~
+#showtooltip
+/cast [@player] Тотем ветряного порыва
+~~~
+
+
+* Позволяет вынести [Реинкарнацию](https://www.wowhead.com/ru/spell=20608) на панель заклинаний чтобы следить за временем восстановления:  
+~~~
+#showtooltip Реинкарнация
+~~~
+
+* Вне боя использует {{ site.data.spells.ressurect }}, а в бою – инженерский батл-рес [Сложные манжеты](https://ru.wowhead.com/item=198332): 
+~~~
+#showtooltip
+/use [combat] Сложные манжеты; [nocombat] Дух предков
+~~~
+
+* Добавить оповещние в чат об использовании какой-либо способности. Сообщение не будет показано, если способность на КД. Не злоупотребляйте этим макросом! Пример для [Наставления предков](https://ru.wowhead.com/spell=108281):
+~~~
+#showtooltip Наставления предков
+/run if GetSpellCooldown("Наставления предков") == 0 then SendChatMessage("Ancestral Guidance","SAY") end
+/cast Наставления предков
+~~~
+
+
+# Совершенствование
+
+
+В первую очередь – рекомендую настроить на касты по наведению мыши (mouseover) через стандартный интерфейс. Это позволит кастовать все заклинания без выбора цели, что особенно удобно для [Огненного шока](https://ru.wowhead.com/spell=188389) и [Пронизыващего ветра](https://www.wowhead.com/ru/spell=57994/), но я это использую для всех заклинаний:
+
+<p align="center">
+    <img src="/assets/img/mouseover.png"> 
+</p>
+
+<p></p>
+
+{% include button.html name="Общие макросы" link="https://stormkeeper.ru/info/macros.html" %}  
+
+<p></p>
+
+* Маусовер макрос для атакующих заклинаний:
+~~~
+#showtooltip  
+/cast [@mouseover,harm,exists,nodead][] Огненный шок
+~~~
+
+* Маусовер макрос для лечащих заклинаний:
+~~~
+#showtooltip 
+/cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
+~~~
+
+* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.purge }} и [Очищение духа](https://ru.wowhead.com/spell=51886):
+~~~
+#showtooltip 
+/use [@mouseover,nodead,harm] Развеивание магии;[@mouseover,nodead,help] Очищение духа;[@target,nodead,harm] Развеивание магии;[@target,nodead,help][@player] Очищение духа
+~~~
+
+* Макрос для [Первозданной волны](https://www.wowhead.com/ru/spell=375982) по маусоверу, чтобы она кастовалась только во врагов, а не союзников:
+~~~
+#showtooltip Первозданная волна
+/cast [@mouseover,harm,exists,nodead][@target,harm,exists,nodead] Первозданная волна
+~~~
+
+* Макрос для [Ледяного клинка](https://www.wowhead.com/ru/spell=342240/) и [Кольца огня](https://www.wowhead.com/ru/spell=333974/) на одной кнопке:
+~~~
+#showtooltip
+/cast [known: 342240] Ледяной клинок; [known: 333974] Кольцо огня
+~~~
+
+* Добавить оповещние в чат об использовании какой-либо способности. Сообщение не будет показано, если способность на КД. Не злоупотребляйте этим макросом! Пример для [Наставления предков](https://ru.wowhead.com/spell=108281):
+~~~
+#showtooltip Наставления предков
+/run if GetSpellCooldown("Наставления предков") == 0 then SendChatMessage("Ancestral Guidance","SAY") end
+/cast Наставления предков
+~~~
+
+* Данный макрос позволяет кастовать любые тотемы сразу на место под курсором, избавляя от лишнего клика мышкой:  
+~~~
+#showtooltip
+/cast [@cursor] Тотем конденсации
+~~~
+
+* Использование [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757) и [Оружия языка пламени](https://www.wowhead.com/ru/spell=318038) на одной кнопке:
+~~~
+#showtooltip
+/castsequence Оружие неистовства ветра, Оружие языка пламени
+~~~
+
+
+* Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
+~~~
+#showtooltip 
+/cast [@focus,exists,nodead,harm] [@boss1,exists,nodead,harm] Огненный шок
+~~~
+
+* Сбивание каста по фокусу, если фокуса нет, то сбивает цели под маусовером. Если там нет врага, то сбивает текущей цели:
+~~~
+#showtooltip
+/cast [@focus,exists,harm,nodead][@mouseover,harm,exists,nodead][] Пронизывающий ветер
+~~~
+
+* Этот макрос позволяет кинуть {{ site.data.spells.fs }} на соседнюю цель, не меняя вашей текущей. Выбирается ближайшая к вам цель, в сторону которой направлена камера. Данный макрос не работает, если цель одна:
+~~~
+#showtooltip  
+/targetenemy  
+/cast Огненный шок  
+/targetlasttarget  
+~~~
+
+* Применяет {{ site.data.spells.wrt }} прямо под вашего персонажа, позволяя сразу получить бонус скорости и не терять времени на установку тотема:  
+~~~
+#showtooltip
+/cast [@player] Тотем ветряного порыва
+~~~
+
+* Позволяет вынести [Реинкарнацию](https://www.wowhead.com/ru/spell=20608) на панель заклинаний чтобы следить за временем восстановления:  
+~~~
+#showtooltip Реинкарнация
+~~~
+
+* Вне боя использует {{ site.data.spells.ressurect }}, а в бою – инженерский батл-рес [Сложные манжеты](https://ru.wowhead.com/item=198332): 
+~~~
+#showtooltip
+/use [combat] Сложные манжеты; [nocombat] Дух предков
+~~~
+
+# Исцеление
+
+
+* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.cl }} + {{ site.data.spells.ch }}, {{ site.data.spells.cleance }} + {{ site.data.spells.purge }} и другие:
+~~~
+#showtooltip 
+/use [@mouseover,nodead,harm] Огненный шок;[@mouseover,nodead,help] Быстрина;[@target,nodead,harm] Огненный шок;[@target,nodead,help][@player] Быстрина
+~~~
+
+* Маусовер макрос для атакующих заклинаний:
+~~~
+#showtooltip  
+/cast [@mouseover,harm,exists,nodead][] Огненный шок
+~~~
+
+* Маусовер макрос для лечащих заклинаний:
+~~~
+#showtooltip 
+/cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
+~~~
+
+* [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Цепное исцеление](https://ru.wowhead.com/spell=1064/) на одной кнопке:
+~~~
+#showtooltip Цепное исцеление
+/cast Природная стремительность
+/cast [@mouseover,harm,exists,nodead][] Цепное исцеление
+~~~
+
+* Данный макрос позволяет кастовать любые тотемы сразу на место под курсором, избавляя от лишнего клика мышкой:  
+~~~
+#showtooltip
+/cast [@cursor] Тотем конденсации
+~~~
+
+* Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
+~~~
+#showtooltip 
+/cast [@focus,exists,nodead,harm] [@boss1,exists,nodead,harm] Огненный шок
+~~~
+
+* Сбивание каста по фокусу, если фокуса нет, то сбивает цели под маусовером. Если там нет врага, то сбивает текущей цели:
+~~~
+#showtooltip
+/cast [@focus,exists,harm,nodead][@mouseover,harm,exists,nodead][] Пронизывающий ветер
+~~~
+
+* Этот макрос позволяет кинуть {{ site.data.spells.fs }} на соседнюю цель, не меняя вашей текущей. Выбирается ближайшая к вам цель, в сторону которой направлена камера. Данный макрос не работает, если цель одна:
+~~~
+#showtooltip  
+/targetenemy  
+/cast Огненный шок  
+/targetlasttarget  
+~~~
+
+* Применяет {{ site.data.spells.wrt }} прямо под вашего персонажа, позволяя сразу получить бонус скорости и не терять времени на установку тотема:  
+~~~
+#showtooltip
+/cast [@player] Тотем ветряного порыва
+~~~
+
+* Позволяет вынести [Реинкарнацию](https://www.wowhead.com/ru/spell=20608) на панель заклинаний чтобы следить за временем восстановления:  
+~~~
+#showtooltip Реинкарнация
+~~~
+
+* Вне боя использует {{ site.data.spells.ressurect }}, а в бою – инженерский батл-рес [Сложные манжеты](https://ru.wowhead.com/item=198332): 
+~~~
+#showtooltip
+/use [combat] Сложные манжеты; [nocombat] Дух предков
+~~~
+
+
 # Универсальные и полезные макросы
 
 * Способности через модификатор:  
