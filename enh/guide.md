@@ -81,6 +81,10 @@ custom-javascript-list:
 
 # Билды талантов
 
+На данный момент (24 июля) существует баг, из-за которого Энх Шаман **не получил** изменения талантов в ветке специализации, и для билдов ниже будет не хватать очков талантов. Используйтье старый билд, но вместо [Тотема неистовства ветра](https://www.wowhead.com/ru/spell=8512/) нужно взять [Шквал](https://www.wowhead.com/ru/spell=382888/).
+{: class="bordered"}
+
+
 ## Общая информация
 
 Древо талантов Энха подразумевает использование двух различных билдов – <span class="lightning">Штормового</span> и <span class="fire">Стихийного</span>. 
@@ -138,8 +142,7 @@ custom-javascript-list:
 
 * В данном билде особенно важно чередовать цели под каждое [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), чтобы накладывать дебафф от [Хлещущего пламени](https://www.wowhead.com/ru/spell=334046). Этот дебафф увеличивает урон от [Огненного шока](https://ru.wowhead.com/spell=188389) на **100%**, что ощутимо сказывается на итоговом ДПС.
 
-Для удобного отслеживания дебаффов используйте [профиль Plater от Amani](https://boosty.to/amani/posts/8dc9d14d-12ae-4f2b-9e34-456a9d625f42?share=post_link) или [мод на Plater](https://wago.io/o9Q7MSLDi) от **Nikyou**.
-{: class="bordered"}
+* Для удобного отслеживания дебаффов используйте [профиль Plater от Amani](https://boosty.to/amani/posts/8dc9d14d-12ae-4f2b-9e34-456a9d625f42?share=post_link) или [мод на Plater](https://wago.io/o9Q7MSLDi) от **Nikyou**.
 
 * С талантом [Буря с градом](https://www.wowhead.com/ru/spell=334195), не нужно каждый [Ледяной шок](https://www.wowhead.com/ru/spell=196840) сдавать **только** с талантом [Ледяной клинок](https://www.wowhead.com/ru/spell=342240). Так как кулдаун [Ледяного клинка](https://www.wowhead.com/ru/spell=342240) в три раза длиннее кулдауна [Ледяного шока](https://www.wowhead.com/ru/spell=196840), то не бойтесь тратить стаки [Бури с градом](https://www.wowhead.com/ru/spell=334195) на [Ледяной шок](https://www.wowhead.com/ru/spell=196840) без баффа от [Ледяного клинка](https://www.wowhead.com/ru/spell=342240).
 
