@@ -89,33 +89,17 @@ custom-javascript-list:
 
 Древо талантов Элема больше не разделено на две стороны, <span style="color:#71d5ff;font-size:1em;">Молниевую</span> и <span style="color:#f16f25;font-size:1em;">Огненную</span>, а многие таланты находятся в более свободном доступе, позволяя при этом создать билд как на определенную стихию, так и сделать гибридный вариант.
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
 <span style="color:#f16f25;font-size:1em;">Огненный</span> билд подразумевают активное использование [Выброса лавы](https://www.wowhead.com/ru/spell=51505), [Первозданной волны](https://www.wowhead.com/ru/spell=326059/), [Перерождения](https://www.wowhead.com/ru/spell=114050), [Элементаля огня](https://www.wowhead.com/ru/spell=198067/), а также талантов с правой стороны древа. Героическая ветка **Предсказателя** еще больше раскрывает <span style="color:#f16f25;font-size:1em;">Огненный</span> билд, усиливая многие его аспекты.
-
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 
 Для <span style="color:#71d5ff;font-size:1em;">Молниевого</span> билда основными талантами являются [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), [Грозовой разрядник](https://www.wowhead.com/beta/spell=210689/), [Элементаль бури](https://www.wowhead.com/beta/spell=192249) и [Ярость шторма](https://www.wowhead.com/beta/spell=462695/). Данный билд подразумевает использование героической ветки талантов **Вестника шторма**, в которой можно найти еще больше усилений заклинания школы магии <span class="nature">природы</span>.
 
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
 [Ледяная ярость](https://www.wowhead.com/beta/spell=462816) была ощутимо переработана в The War Within и теперь не требует дополнительных кнопок для реализации и отлично себя чувствует в любом билде, особенно за счет таланта [Слияние стихий](https://www.wowhead.com/beta/spell=462840/).
 
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-На момент препатча The War Within активно играются только <span style="color:#f16f25;font-size:1em;">Огненный</span> билд, так как он не требователен к наличию героиеческой ветки, а также его активно усиливает комплект классовых доспехов текущего сезона.
+На момент препатча The War Within активно играются только <span style="color:#f16f25;font-size:1em;">Огненные</span> билды, так как они не требователен к наличию героиеческой ветки, а также их активно усиливает комплект классовых доспехов текущего сезона.
 
 ## Таланты для Рейда
 
