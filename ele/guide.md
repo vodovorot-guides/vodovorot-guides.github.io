@@ -265,6 +265,7 @@ custom-javascript-list:
 4. [Огненный шок](https://ru.wowhead.com/spell=188389), если под этим дебаффом менее **6** целей.
 3. [Перерождение](https://ru.wowhead.com/spell=114050) по кулдауну, если оно успеет откатиться до следующего боя с боссом или мини-боссом.
 4. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
+4. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3** и более целей.
 4. {:.eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если у вас нет баффа от таланта [Отголоски Великого Раскола](https://ru.wowhead.com/spell=384087).
 4. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) для траты энергии Водоворота.
 5. [Выброс лавы](https://ru.wowhead.com/spell=51505).
