@@ -102,7 +102,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMDYmZYmZmtZmlZAAAAAAAAAAAAAAEAgAAYWmMDmlFzMzMGmZ2wyMzEYsMmZAAmB?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="400"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMDYmZYmZmNsMDAAAAAAAAAAAAAgAAEAAzykZwssYmZmxwMzCWmZmAjlxMDAwM?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="400"></iframe>
 
 <p></p>
 
@@ -131,7 +131,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMDGzMDzMzshlZMDAAAAAAAAAAAAAEAgAAYWmMwssYmZGGzMzGWmZmglxyYmBAYG?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="400"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMDGmZYmZmNsMjBAAAAAAAAAAAAAEAgAAYWmMwssYmZGGzMzCWmZmglxyYmBAwA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="400"></iframe>
 
 <p></p>
 
@@ -686,6 +686,18 @@ custom-javascript-list:
 
 <p></p>
 
+
+* Все баффы на одной кнопке. Если макрос не используется в течение **3** секунд, то он сбрасывается на [Небесную ярость](https://www.wowhead.com/ru/spell=462854) для того, можно было бафнуть союзника.
+~~~
+/castsequence reset=3 Небесная ярость, Щит молний, Оружие неистовства ветра, Оружие языка пламени
+~~~
+
+* Использование [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757) и [Оружия языка пламени](https://www.wowhead.com/ru/spell=318038) на одной кнопке:
+~~~
+#showtooltip
+/castsequence Оружие неистовства ветра, Оружие языка пламени
+~~~
+
 * Маусовер макрос для атакующих заклинаний:
 ~~~
 #showtooltip  
@@ -702,12 +714,6 @@ custom-javascript-list:
 ~~~
 #showtooltip 
 /use [@mouseover,nodead,harm] Развеивание магии;[@mouseover,nodead,help] Очищение духа;[@target,nodead,harm] Развеивание магии;[@target,nodead,help][@player] Очищение духа
-~~~
-
-* Макрос для [Первозданной волны](https://www.wowhead.com/ru/spell=375982) по маусоверу, чтобы она кастовалась только во врагов, а не союзников:
-~~~
-#showtooltip Первозданная волна
-/cast [@mouseover,harm,exists,nodead][@target,harm,exists,nodead] Первозданная волна
 ~~~
 
 * Макрос для [Ледяного клинка](https://www.wowhead.com/ru/spell=342240/) и [Кольца огня](https://www.wowhead.com/ru/spell=333974/) на одной кнопке:
@@ -728,13 +734,6 @@ custom-javascript-list:
 #showtooltip
 /cast [@cursor] Тотем конденсации
 ~~~
-
-* Использование [Оружия неистовства ветра](https://www.wowhead.com/ru/spell=33757) и [Оружия языка пламени](https://www.wowhead.com/ru/spell=318038) на одной кнопке:
-~~~
-#showtooltip
-/castsequence Оружие неистовства ветра, Оружие языка пламени
-~~~
-
 
 * Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
 ~~~
