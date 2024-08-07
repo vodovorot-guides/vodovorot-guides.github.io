@@ -452,4 +452,18 @@ span {
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }  
+    &.firestorm {
+      color: #e600a6;
+      font-size: 1em;
+      background: linear-gradient(to right, #f16f25, #71d5ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }  
+    &.stormfire {
+      color: #e600a6;
+      font-size: 1em;
+      background: linear-gradient(to right, #71d5ff, #f16f25);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }  
 }
