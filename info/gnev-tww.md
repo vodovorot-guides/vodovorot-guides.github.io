@@ -134,11 +134,6 @@ description: Советы по прокачке для гильдии Гнев �
 <p></p>
 
 
-{% include button.html name="Гайд от Даэнурр" link="https://docs.google.com/spreadsheets/d/1vpBMSyVpoaY7WowryMP-1KnljtyaikKnC4E2hTAtXCw/edit?gid=0#gid=0" %}  
-
-<p></p>
-
-
 {% include button.html name="Таблица наград и экипировки" link="https://docs.google.com/spreadsheets/d/1F9IbNC0Ly8YGeSXBFauvMXAFFCmPF4bq9h1vannr738/edit?gid=161682927#gid=161682927" %}  
 
 <p></p>
