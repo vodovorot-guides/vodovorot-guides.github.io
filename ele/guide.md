@@ -139,8 +139,6 @@ custom-javascript-list:
 
 ## Таланты для Мифик+
 
-### Базовый билд
-
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQA6DE2ZxOD3n18X41tWLU5RBAAAAAMbzyyMjxwMbMmZMmZGAAAAAAAAAAAAgZbamB2WYMNYmZ2GWmxMYWGmlZmZmhZMDD?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="400"></iframe>
@@ -209,10 +207,8 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_tempest"> [Буря](https://ru.wowhead.com/spell=454009)</li>
   <li markdown="span" class="rotation_switch">
-    <input class="form-check-input" type="checkbox" id="rotation_switch_com"> Комментарии про приоритеты способностей.</li>
+    <input class="form-check-input" type="checkbox" id="rotation_switch_com"> **Активировать комментарии и пояснения для новичков**</li>
 </ul>
-
-
 
 
 <center>Количество целей:</center>
