@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2024-07-23
+last_update: 2024-08-14
 title: Гайд на Элем Шамана
-wow: 11.0
+wow: 11.0.2
 toc: true
 author: Amani
 image: /assets/img/ele_tb2.png
@@ -240,10 +240,13 @@ custom-javascript-list:
 3. {:.no-pw-apl .no-lmt-apl}[Огненный шок](https://ru.wowhead.com/spell=188389).
   * {:.com-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) кастуется на нулевой секунде таймера пула и обеспечивает гарантированный критический удар вылетевшему ранее [Выбросу лавы](https://ru.wowhead.com/spell=51505).
 4. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114050).
+  * {:.com-apl}[Перерождение](https://ru.wowhead.com/spell=114050) является основным бурстом в <span class="fire">Огненном</span> билде и мы хотим нажимать его сразу с пула.
 4. [Выброс лавы](https://ru.wowhead.com/spell=51505).
+  * {:.com-apl .pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) активирует эффект [Первозданной волны](https://ru.wowhead.com/spell=375982), а также дает бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/)
 1. Продолжайте обычную ротацию, указанную ниже.
+  * {:.com-apl}Обычной ротацией является раздел "Приоритет в бою против одной цели", который можно найти ниже.
 4. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) стоит придержать до того момента, когда у вас будет достаточное количество энергии Водоворота для реализации обоих [Молний](https://ru.wowhead.com/spell=188196) с баффом от таланта [Прилив мощи](https://www.wowhead.com/ru/spell=262303/).
-
+  * {:.com-apl}Обычно стоит придержать [Хранитель бурь](https://ru.wowhead.com/spell=191634) таким образом, чтобы дополнительно усилить обе его [Молнии](https://ru.wowhead.com/spell=188196).
 
 
 **Приоритет в бою против одной цели:**
