@@ -81,10 +81,6 @@ custom-javascript-list:
 
 # Билды талантов
 
-На данный момент (24 июля) существует баг, из-за которого Энх Шаман **не получил** изменения талантов в ветке специализации, и для билдов ниже будет не хватать очков талантов. Используйтье старый билд, но вместо [Тотема неистовства ветра](https://www.wowhead.com/ru/spell=8512/) нужно взять [Шквал](https://www.wowhead.com/ru/spell=382888/).
-{: class="bordered"}
-
-
 ## Общая информация
 
 Древо талантов Энха подразумевает использование двух различных билдов – <span class="lightning">Штормового</span> и <span class="fire">Стихийного</span>. 
@@ -102,14 +98,13 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMDYmZYmZmNsMDAAAAAAAAAAAAAQAACAgZZyMGzyiZMzYYmZDLzMTgxyYmBAYG?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="400"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMDYmZYmZmtZmlZAAAAAAAAAAAAAACAQAAMLTGYWWYMzYMzMLDLzMTwyYZMzAAMD?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="400"></iframe>
 
 <p></p>
 
 * В данном билде самым главным проком, который ни в коем случае нельзя пропускать, является [Горячая рука](https://www.wowhead.com/ru/spell=201900). **Всегда** чередуйте [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с другой способностью во время этого баффа.
 
 * Придерживайте [Первозданную волну](https://ru.wowhead.com/spell=375982) под выход аддов, чтобы получить дополнительную Скорость за счет таланта [Расколотые стихии](https://www.wowhead.com/ru/spell=382042/) и дополнительный урон за счет дублированных [Молний](https://www.wowhead.com/ru/spell=188196/).
-
 
 * Стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) стоит тратить в первую очередь на [Удар духов стихий](https://www.wowhead.com/ru/spell=117014), особенно под баффом от [Духов дикого зверя](https://ru.wowhead.com/spell=51533). Зачастую стоит придерживать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) под вызов [Духов дикого зверя](https://ru.wowhead.com/spell=51533), если это не уменьшит количество его использования за бой.
 
@@ -131,7 +126,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMDGmZYmZmNsMjBAAAAAAAAAAAAACAQAAMLTGYWWMjZYMzMbGLzMTwyYZMzAAYA?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="400"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMDGzMDzMzshlZMDAAAAAAAAAAAAACAQAAMLTGYWWMjZYMzMbGLzMTwyYZMzAAMD?width=700&bgcolor=262b39&locale=ru_RU" width="730" height="400"></iframe>
 
 <p></p>
 
