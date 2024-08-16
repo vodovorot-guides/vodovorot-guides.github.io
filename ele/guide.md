@@ -121,7 +121,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQA6DE2ZxOD3n18X41tWLU5RBAAAAAMbzyyMjZGmZjxMDmZGAAAAAAAAAAAAgZbamB2WYMNYmZ2GWmxMYWGLzyYmZmxwMM?width=700&bgcolor=262b39&locale=ru_RU" width="760" height="410"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQA6DE2ZxOD3n18X41tWLU5RBAAAAAMbzyyMjZGmZjxMDmZGAAAAAAAAAAAAgZbamB2WYMNYmZ2GWmxMYWGLzyYmZmxwMM?width=700&bgcolor=262b39&locale=ru_RU" width="830" height="410"></iframe>
 
 <p></p>
 
@@ -141,7 +141,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQA6DE2ZxOD3n18X41tWLU5RBAAAAAMbzyyMjxwMbMmZMmZGAAAAAAAAAAAAgZbamB2WYMNYmZ2GWmxMYWGmlZmZmhZMDD?width=700&bgcolor=262b39&locale=ru_RU" width="760" height="410"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQA6DE2ZxOD3n18X41tWLU5RBAAAAAMbzyyMjxwMbMmZMmZGAAAAAAAAAAAAgZbamB2WYMNYmZ2GWmxMYWGmlZmZmhZMDD?width=700&bgcolor=262b39&locale=ru_RU" width="830" height="410"></iframe>
 
 <p></p>
 
