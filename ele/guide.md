@@ -121,7 +121,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQA6DE2ZxOD3n18X41tWLU5RBAAAAAMbzyyMjZGmZjxMDmZGAAAAAAAAAAAAgZbamB2WYMNYmZ2GWmxMYWGLzyYmZmxwMM?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="400"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQA6DE2ZxOD3n18X41tWLU5RBAAAAAMbzyyMjZGmZjxMDmZGAAAAAAAAAAAAgZbamB2WYMNYmZ2GWmxMYWGLzyYmZmxwMM?width=700&bgcolor=262b39&locale=ru_RU" width="760" height="410"></iframe>
 
 <p></p>
 
@@ -141,7 +141,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQA6DE2ZxOD3n18X41tWLU5RBAAAAAMbzyyMjxwMbMmZMmZGAAAAAAAAAAAAgZbamB2WYMNYmZ2GWmxMYWGmlZmZmhZMDD?width=700&bgcolor=262b39&locale=ru_RU" width="710" height="400"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQA6DE2ZxOD3n18X41tWLU5RBAAAAAMbzyyMjxwMbMmZMmZGAAAAAAAAAAAAgZbamB2WYMNYmZ2GWmxMYWGmlZmZmhZMDD?width=700&bgcolor=262b39&locale=ru_RU" width="760" height="410"></iframe>
 
 <p></p>
 
@@ -236,7 +236,8 @@ custom-javascript-list:
 2. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/), если он не понадобится в ближайшее время на АоЕ.
   * {:.com-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) вешает [Огненный шок](https://ru.wowhead.com/spell=188389), позволяя [Выбросу лавы](https://ru.wowhead.com/spell=51505) нанести гарантированный критический удар.
 3. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
-  * {:.com-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) хоть и накладывает [Огненный шок](https://ru.wowhead.com/spell=188389), но 
+  * {:.com-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) хоть и накладывает [Огненный шок](https://ru.wowhead.com/spell=188389), но имеет время полета снаряда и не успевает его наложить для гарантированного крита [Выброса лавы](https://ru.wowhead.com/spell=51505). 
+  * {:.com-apl}В данной ситуации отсутствие гарантированного критического удара не так важно, потому что мы усиливаем [Огненный шок](https://ru.wowhead.com/spell=188389) талантом [Властелин стихий](https://www.wowhead.com/ru/spell=16166) и экономим один ГКД.
 3. {:.no-pw-apl .no-lmt-apl}[Огненный шок](https://ru.wowhead.com/spell=188389).
   * {:.com-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) кастуется на нулевой секунде таймера пула и обеспечивает гарантированный критический удар вылетевшему ранее [Выбросу лавы](https://ru.wowhead.com/spell=51505).
 4. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114050).
@@ -245,7 +246,9 @@ custom-javascript-list:
   * {:.com-apl .pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) активирует эффект [Первозданной волны](https://ru.wowhead.com/spell=375982), а также дает бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/)
 1. Продолжайте обычную ротацию, указанную ниже.
   * {:.com-apl}Обычной ротацией является раздел "Приоритет в бою против одной цели", который можно найти ниже.
-4. {:.sk-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) стоит придержать до того момента, когда у вас будет достаточное количество энергии Водоворота для реализации обоих [Молний](https://ru.wowhead.com/spell=188196) с баффом от таланта [Прилив мощи](https://www.wowhead.com/ru/spell=262303/).
+4. {:.sk-apl .sop-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) стоит придержать до того момента, когда у вас будет достаточное количество энергии Водоворота для реализации обоих [Молний](https://ru.wowhead.com/spell=188196) с баффом от таланта [Прилив мощи](https://www.wowhead.com/ru/spell=262303/).
+  * {:.com-apl}Обычно стоит придержать [Хранитель бурь](https://ru.wowhead.com/spell=191634) таким образом, чтобы дополнительно усилить обе его [Молнии](https://ru.wowhead.com/spell=188196).
+4. {:.sk-apl .no-sop-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) стоит придержать до момента, когда на цели будет дебафф от таланта [Грозовой разрядник](https://www.wowhead.com/ru/spell=210689).
   * {:.com-apl}Обычно стоит придержать [Хранитель бурь](https://ru.wowhead.com/spell=191634) таким образом, чтобы дополнительно усилить обе его [Молнии](https://ru.wowhead.com/spell=188196).
 
 
