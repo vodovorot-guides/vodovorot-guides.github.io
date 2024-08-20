@@ -37,6 +37,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 **Affix [Xal'atath's Bargain: Ascendant](https://www.wowhead.com/affix=148):**
 * [Thunderstorm](https://www.wowhead.com/spell=51490) – destroys all orbs in the radius.
+* [Capacitor Totem](https://www.wowhead.com/spell=192058) – destroys all orbs in the radius.
 * [Purge](https://www.wowhead.com/spell=370/) – purges an orb.
 
 **Affix [Xal'atath's Bargain: Devour](https://www.wowhead.com/affix=160):**
