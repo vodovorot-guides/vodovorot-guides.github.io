@@ -66,7 +66,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Ensnaring Shadows](https://www.wowhead.com/spell=431309) inflicted by [Nightfall Shadowmage](https://www.wowhead.com/npc=213892).
 * [Purge](https://www.wowhead.com/spell=370) – removes [Abyssal Howl](https://www.wowhead.com/spell=450756) on [Nightfall Commander](https://www.wowhead.com/npc=214762).
-* [Purge](https://www.wowhead.com/spell=370) – removes [Umbral Barrier](https://www.wowhead.com/spell=450756) on [Nightfall Darkcaster](https://www.wowhead.com/npc=213893).
+* [Purge](https://www.wowhead.com/spell=370) – removes [Umbral Barrier](https://www.wowhead.com/spell=432520) on [Nightfall Darkcaster](https://www.wowhead.com/npc=213893).
 * [Purge](https://www.wowhead.com/spell=370) – removes [Silken Shell](https://www.wowhead.com/spell=451097) on [Sureki Militant](https://www.wowhead.com/npc=213932).
 
 ## Mists of Tirna Scithe
