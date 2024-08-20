@@ -10,7 +10,7 @@ image: /assets/img/tal.jpg
 ---
 
 <p align="center">
-<img src="/assets/img/talents_utility2.jpg" width=500x>
+<img src="/assets/img/util.jpg" width=500x>
 </p>
 
 # Таланты
