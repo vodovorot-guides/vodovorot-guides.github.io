@@ -133,7 +133,7 @@ image: /assets/img/LayHr5I.png
 <p></p>
 
 
-{% include button.html name="Гайд от Video" link="https://docs.google.com/spreadsheets/d/1vpBMSyVpoaY7WowryMP-1KnljtyaikKnC4E2hTAtXCw/edit?gid=0#gid=0" %}  
+{% include button.html name="Гайд от Video" link="https://docs.google.com/spreadsheets/d/e/2PACX-1vSB9PuYpI3p0sWH1070QE8Ej2w-HS0g2SI5Q5HPCWDfqZzMtdTUQoFAqS7mXt4N2MIBeMv47rWkR-pB/pubhtml" %}  
 
 <p></p>
 
