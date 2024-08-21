@@ -6,6 +6,7 @@ wow: 11.0.2
 toc: true
 author: Amani
 description: Советы по прокачке нескольких персонажей на старте дополнения.
+image: /assets/img/LayHr5I.png
 ---
 
 <p align="center">
