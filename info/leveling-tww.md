@@ -38,7 +38,7 @@ image: /assets/img/LayHr5I.png
 3. Сделайте [квест на банк отряда](<https://www.wowhead.com/ru/quest=83496/>).
 3. Сделайте преквест у Аллерии и Кадгара. Альтами эту цепочку можно скипнуть на старте аддона.
 4. Если у вас новый аккаунт – получите глифы на полеты в DF, чтобы не тратить время в TWW.
-5. Аддоны на прокачку не особо необходимы, квесты достаточно логичные и легкие, но можно поставить и настроить [Azeroth Auto Pilot](https://www.curseforge.com/wow/addons/azeroth-auto-pilot), либо [RestedXP](https://www.curseforge.com/wow/addons/restedxp-guide), но нужен платный модуль.
+5. Аддоны на прокачку не особо необходимы, квесты достаточно логичные и легкие, но можно поставить и настроить [Azeroth Pilot Reloaded](https://www.curseforge.com/wow/addons/azeroth-pilot-reloaded), либо [RestedXP](https://www.curseforge.com/wow/addons/restedxp-guide), но нужен платный модуль.
 6. Больше информации по подготовке на русском языке [в гайде от Даэнурр](https://docs.google.com/spreadsheets/d/1vpBMSyVpoaY7WowryMP-1KnljtyaikKnC4E2hTAtXCw/edit?gid=1517673863#gid=1517673863) и [в гайде от Video](https://docs.google.com/spreadsheets/d/e/2PACX-1vSB9PuYpI3p0sWH1070QE8Ej2w-HS0g2SI5Q5HPCWDfqZzMtdTUQoFAqS7mXt4N2MIBeMv47rWkR-pB/pubhtml).
 
 <p></p>
