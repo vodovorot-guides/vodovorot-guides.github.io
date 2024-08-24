@@ -48,9 +48,9 @@ WA с напоминанием о взятии нужных талантов –
 
 ## Ара-Кара, Город Отголосков
 
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый заряд](https://www.wowhead.com/ru/spell=436322) с танка который накладывает [Atik](https://www.wowhead.com/ru/npc=217533).
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый плевок](https://www.wowhead.com/ru/spell=438618) который накладывает [Engorged Crawler](https://www.wowhead.com/ru/npc=214840).
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Отвратительный залп](https://www.wowhead.com/ru/spell=448248) который накладывает [Bloodstained Webmage](https://www.wowhead.com/ru/npc=223253).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый заряд](https://www.wowhead.com/ru/spell=436322) с танка который накладывает [Атик](https://www.wowhead.com/ru/npc=217533).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый плевок](https://www.wowhead.com/ru/spell=438618) который накладывает [Разъевшийся ползун](https://www.wowhead.com/ru/npc=214840).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Отвратительный залп](https://www.wowhead.com/ru/spell=448248) который накладывает [Окровавленный маг паутины](https://www.wowhead.com/ru/npc=223253).
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый залп](https://www.wowhead.com/ru/spell=433841) который накладывает [Blood Overseer](https://www.wowhead.com/ru/npc=216364) на последнем боссе ([Ки'катал Жница](https://www.wowhead.com/ru/npc=215407))
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Культивированные яды](https://www.wowhead.com/ru/spell=461487) который накладывает последний босс ([Ки'катал Жница](https://www.wowhead.com/ru/npc=215407)). **Важно!** Убедитель что все разошлись перед снятием!
 
@@ -61,14 +61,14 @@ WA с напоминанием о взятии нужных талантов –
 
 ## Каменный Свод
 
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Заражение Бездной](https://www.wowhead.com/ru/spell=426308) который накладывает [Cursedheart Invader](https://www.wowhead.com/ru/npc=212389).
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Заражение Бездной](https://www.wowhead.com/ru/spell=426308) который накладывает [Проклятый завоеватель](https://www.wowhead.com/ru/npc=212389).
 
 ## Сияющий Рассвет
 
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Оплетающие тени](https://www.wowhead.com/ru/spell=431309) который накладывает [Nightfall Shadowmage](https://www.wowhead.com/ru/npc=213892).
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Вой пустоты](https://www.wowhead.com/ru/spell=450756) с [Nightfall Commander](https://www.wowhead.com/ru/npc=214762).
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Темная преграда](https://www.wowhead.com/ru/spell=432520) с [Nightfall Darkcaster](https://www.wowhead.com/ru/npc=213893).
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Шелковый панцирь](https://www.wowhead.com/ru/spell=451097) с [Sureki Militant](https://www.wowhead.com/ru/npc=213932).
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Оплетающие тени](https://www.wowhead.com/ru/spell=431309) который накладывает [Сумеречный маг тени](https://www.wowhead.com/ru/npc=213892).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Вой пустоты](https://www.wowhead.com/ru/spell=450756) с [Сумеречный командир](https://www.wowhead.com/ru/npc=214762).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Темная преграда](https://www.wowhead.com/ru/spell=432520) с [Сумеречный заклинатель тьмы](https://www.wowhead.com/ru/npc=213893).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Шелковый панцирь](https://www.wowhead.com/ru/spell=451097) с [Суреки-ополченец](https://www.wowhead.com/ru/npc=213932).
 
 ## Туманы Тирна Скитта
 
@@ -79,13 +79,13 @@ WA с напоминанием о взятии нужных талантов –
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Изнуряющий яд](https://www.wowhead.com/ru/spell=326092) который накладывает [Иглобрюх-разоритель](https://www.wowhead.com/ru/npc=167116) (треш после первого босса).
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Тройной укус](https://www.wowhead.com/ru/spell=340288) который накладывает [Ночноцвет Туманной Завесы](https://www.wowhead.com/ru/npc=173714) (большой треш после первого босса).
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – можно использовать для снятия [Ядовитые выделения](https://www.wowhead.com/ru/spell=340304) который накладывает [Жоробрюх Туманной Завесы](https://www.wowhead.com/ru/npc=173720) (большой треш после первого босса). Дебафф можно избежать.
-* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) – можно использовать заранее для снятия [Отвратительная личина](https://www.wowhead.com/ru/spell=328756) который накладывает [Ингра Малох](https://www.wowhead.com/ru/npc=164567) (первый босс). Если вы поставите его в 1.5с интервалле перед кастом босса (пример 3с, 1.5с), вы снимите фир на первом тике после наложения.
+* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) – можно использовать заранее для снятия [Отвратительная личина](https://www.wowhead.com/ru/spell=328756) который накладывает первый босс ([Ингра Малох](https://www.wowhead.com/ru/npc=164567)). Если вы поставите его в 1.5с интервалле перед кастом босса (пример 3с, 1.5с), вы снимите фир на первом тике после наложения.
 
 ## Смертельная тризна
 
-* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимает [Ледяные путы](https://www.wowhead.com/ru/spell=320788) который накладывает [Налтор Криомант](https://www.wowhead.com/ru/npc=162693) (третий босс). **Важно!** Убедитесь что никого нет в круге перед снятием дебаффа.
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимает [Ледяные путы](https://www.wowhead.com/ru/spell=320788) который накладывает последний босс ([Налтор Криомант](https://www.wowhead.com/ru/npc=162693)). **Важно!** Убедитесь что никого нет в круге перед снятием дебаффа.
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Теневая завеса](https://www.wowhead.com/ru/spell=335141) с [Нар'зуда](https://www.wowhead.com/ru/npc=165824) (большой треш перед вторым боссом, большинство раутов его пропускают).
-* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) - можно использовать для снятия [Дребезжащий крик](https://www.wowhead.com/ru/spell=324293) который накладывает [Скелет-мародер](https://www.wowhead.com/ru/npc=165919) (треш перед первый босс). Также этот каст можно сбить.
+* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) - можно использовать для снятия [Дребезжащий крик](https://www.wowhead.com/ru/spell=324293) который накладывает [Скелет-мародер](https://www.wowhead.com/ru/npc=165919) (треш перед первым боссом). Также этот каст можно сбить.
 
 ## Осада Боралуса
 
@@ -95,7 +95,7 @@ WA с напоминанием о взятии нужных талантов –
 
 ## Грим Батол
 
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Окутывающее пламя Тьмы](https://www.wowhead.com/ru/spell=451224) который накладывает [Twilight Warlock](https://www.wowhead.com/ru/npc=224271).
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Окутывающее пламя Тьмы](https://www.wowhead.com/ru/spell=451224) который накладывает [Чернокнижник Сумеречного Молота](https://www.wowhead.com/ru/npc=224271).
 * [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Проклятие энтропии](https://www.wowhead.com/ru/spell=450095) который накладывает третий босс ([Драгх Горячий Мрак](https://www.wowhead.com/ru/npc=40319)).
 
 
