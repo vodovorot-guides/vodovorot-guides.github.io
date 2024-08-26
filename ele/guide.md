@@ -540,13 +540,13 @@ custom-javascript-list:
 
 
 **Зачарования** и **самоцветы**:
-* **Оружие**: [Власть недр](https://www.wowhead.com/ru/item=223784).
+* **Оружие**: [Власть недр](https://www.wowhead.com/ru/item=223784)
 * **Бижутерия**: [Великолепная ювелирная оправа](https://www.wowhead.com/ru/item=213777/) – добавляет до **2** гнезд для самоцветов в **амулет** или **кольцо**.
-* **Нагрудный доспех**: [Кристаллическое сияние](https://www.wowhead.com/ru/item=223692/).
-* **Поножи**: [Закатная чародейская нить](https://www.wowhead.com/ru/item=222893/).
-* **Кольца**: [Сияющая скорость](https://www.wowhead.com/ru/item=223674/).
-* **Плащ**: [Песнь крылатой грации](https://www.wowhead.com/ru/item=223731/).
-* **Наручи**: [Песнь брони и избежания](https://www.wowhead.com/ru/item=223713/).
+* **Нагрудный доспех**: [Кристаллическое сияние](https://www.wowhead.com/ru/item=223692/)
+* **Поножи**: [Закатная чародейская нить](https://www.wowhead.com/ru/item=222893/)
+* **Кольца**: [Сияющая скорость](https://www.wowhead.com/ru/item=223674/)
+* **Плащ**: [Песнь крылатой грации](https://www.wowhead.com/ru/item=223731/)
+* **Наручи**: [Песнь брони и избежания](https://www.wowhead.com/ru/item=223713/)
 * **Ботинки**: [Ход разведчика](https://www.wowhead.com/ru/item=223653/) или [Ход защитника](https://www.wowhead.com/ru/item=223656/).
 * **Эпический самоцвет**: [Профанит апогея](https://www.wowhead.com/ru/item=213743/)
 * **Остальные самоцветы**: [Изумруд смерти](https://www.wowhead.com/ru/item=213479/)
