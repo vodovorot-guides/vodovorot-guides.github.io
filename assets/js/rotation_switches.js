@@ -141,7 +141,7 @@ $('button#build_enh_elem_aoe').on('click', function() {
     return false;
 });
 
-$('button#build_enh_storm_raid_st').on('click', function() {
+$('button#build_enh_storm_st').on('click', function() {
     on_build_button_click(this, ["dre", "ic", "sunder", "dw", "pw"]);
     return false;
 });
