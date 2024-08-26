@@ -87,7 +87,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjZGmZjxMDmZGAAAAAsYmNYADYWYCZWAA2mmZGstwYawMzsNsMzMDmlhZZMzMzYYGG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="500px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjZGmZjxMDmZGAAAAAsYmNYADYWYCZWAA2mmZGstwYawMzsNsMzMDmlhZZMzMzYYGG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -106,7 +106,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjxwMbMmZMmZGAAAAAAGzYYgFYb0QjNAwsNNzAbLMmGMzMbDLzYGMLDzyMzMzwMmhB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="500px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjxwMbMmZMmZGAAAAAAGzYYgFYb0QjNAwsNNzAbLMmGMzMbDLzYGMLDzyMzMzwMmhB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -225,12 +225,12 @@ custom-javascript-list:
   * {:.com-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) также является бурстом, но с более коротким кулдауном.
 1. {:.tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
   * {:.com-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) является основным инструментом для обновления [Огненного шока](https://ru.wowhead.com/spell=188389).
-  * {:.com-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) имеет ощутимо сниженный кулдаун за счет таланта [Вспышка молнии](https://www.wowhead.com/ru/spell=381936/), что позволяет поддерживать на цели [Огненный шок](https://ru.wowhead.com/spell=188389) только за счет [Первозданной волны](https://ru.wowhead.com/spell=375982)ю
+  * {:.com-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) имеет ощутимо сниженный кулдаун за счет таланта [Вспышка молнии](https://www.wowhead.com/ru/spell=381936/), что позволяет поддерживать на цели [Огненный шок](https://ru.wowhead.com/spell=188389) только за счет [Первозданной волны](https://ru.wowhead.com/spell=375982).
   * {:.com-apl}Если [Первозданная волна](https://ru.wowhead.com/spell=375982) не успевает откатиться до спадения [Огненного шока](https://ru.wowhead.com/spell=188389), то можно допустить его спадения на несколько секунд, чтобы не тратить лишнее ГКД.
 2. {:.ns-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) вместе со [Стремительностью предков](https://www.wowhead.com/ru/spell=443454/).
   * {:.com-apl}[Первозданную волну](https://ru.wowhead.com/spell=375982) и [Стремительностью предков](https://www.wowhead.com/ru/spell=443454/) стоит использовать одновременно (желательно макросом), так как они имеют одинаковый кулдаун и он сокращается за счет таланта [Вспышка молнии](https://www.wowhead.com/ru/spell=381936/) у обоих заклинаний.
   * {:.com-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) является основным инструментом для обновления [Огненного шока](https://ru.wowhead.com/spell=188389).
-  * {:.com-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) имеет ощутимо сниженный кулдаун за счет таланта [Вспышка молнии](https://www.wowhead.com/ru/spell=381936/), что позволяет поддерживать на цели [Огненный шок](https://ru.wowhead.com/spell=188389) только за счет [Первозданной волны](https://ru.wowhead.com/spell=375982)ю
+  * {:.com-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) имеет ощутимо сниженный кулдаун за счет таланта [Вспышка молнии](https://www.wowhead.com/ru/spell=381936/), что позволяет поддерживать на цели [Огненный шок](https://ru.wowhead.com/spell=188389) только за счет [Первозданной волны](https://ru.wowhead.com/spell=375982).
   * {:.com-apl}Если [Первозданная волна](https://ru.wowhead.com/spell=375982) не успевает откатиться до спадения [Огненного шока](https://ru.wowhead.com/spell=188389), то можно допустить его спадения на несколько секунд, чтобы не тратить лишнее ГКД.
 3. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
   * {:.com-apl}В бою против одной цели [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) можно использовать как по кулдауну, так и приберечь его под выход аддов, если они появятся в ближайшие **24** секунды, либо под передвижение.
@@ -263,13 +263,11 @@ custom-javascript-list:
 <div id="aoe" markdown="1" style="display:none;">
 
 
-**Опенер в бою на АоЕ:**
-
-
+**Опенер в бою против 2+ целей::**
 3. [Элементаль бури](https://ru.wowhead.com/spell=192249) за **3** секунды до пула.
   * {:.com-apl}Не вводит в бой в момент призыва, но может вызывать активацию различных аксессуаров, имейте это в виду.
 3. [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунды до пула.
-  * {:.com-apl}Не стоит использовать [Хранитель бурь](https://ru.wowhead.com/spell=191634) до старта боя, из-за таланта [Гнев бурь](https://www.wowhead.com/ru/spell=191717).
+  * {:.com-apl}Не стоит использовать [Хранитель бурь](https://ru.wowhead.com/spell=191634) раньше указанного времени до старта боя, из-за таланта [Гнев бурь](https://www.wowhead.com/ru/spell=191717).
 3. {:.tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
   * {:.com-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) нужна как для наложения [Огненного шока](https://ru.wowhead.com/spell=188389), так и для получения Скорости от [Расколотых стихий](https://www.wowhead.com/ru/spell=382042).
 2. {:.ns-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) вместе со [Стремительностью предков](https://www.wowhead.com/ru/spell=443454/).
@@ -279,9 +277,9 @@ custom-javascript-list:
 3. {:.lmt-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/).
   * {:.com-apl}[Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/) является основным источником развешивания [Огненных шоков](https://ru.wowhead.com/spell=188389) на АоЕ.
   * {:.com-apl}Его кулдаун можно сбросить с помощью [Возвращения тотемов](https://www.wowhead.com/ru/spell=108285), но зачастую в этом нет необходимости, учитывая что он восстанавливается всего **24** секунды.
-3. {:.tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
+3. [Выброс лавы](https://ru.wowhead.com/spell=51505).
   * {:.com-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) используется для активации [Первозданной волны](https://ru.wowhead.com/spell=375982) и получения Скорости от [Расколотых стихий](https://www.wowhead.com/ru/spell=382042).
-3. {:.tempest-apl}Продолжайте обычную ротацию, указанную ниже.
+3. Продолжайте обычную ротацию, указанную ниже.
   * {:.com-apl}Обычной ротацией является раздел "Приоритет в бою на АоЕ", который можно найти ниже.
 
 
@@ -289,7 +287,7 @@ custom-javascript-list:
 {: class="bordered"}
 
 
-**Приоритет в бою на АоЕ:**
+**Приоритет в бою против 2+ целей:**
 1. [Элементаль бури](https://ru.wowhead.com/spell=192249).
   * {:.com-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) является нашим основным бурстом и должен использоваться практически по кулдауну.
 1. [Хранитель бурь](https://ru.wowhead.com/spell=191634).
@@ -305,6 +303,10 @@ custom-javascript-list:
 3. [Выброс лавы](https://ru.wowhead.com/spell=51505) для активации [Первозданной волны](https://ru.wowhead.com/spell=375982).
   * {:.com-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) в текущем билде кастуется **только** для активации [Первозданной волны](https://ru.wowhead.com/spell=375982).
   * {:.com-apl .no-ns-apl}Старайтесь кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) только с баффом от [Волны лавы](https://ru.wowhead.com/spell=77756), но не допускайте спадения эффекта [Первозданной волны](https://ru.wowhead.com/spell=375982). 
+5. {:.sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/) в бою против **2** целей.
+  * {:.com-apl}На **3** и более целей бафф [Хранителя бурь](https://ru.wowhead.com/spell=191634) стоит тратить уже на [Цепную молния](https://www.wowhead.com/ru/spell=188443).
+5. {:.no-sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) в бою против **2** целей.
+  * {:.com-apl}На **3** и более целей бафф [Хранителя бурь](https://ru.wowhead.com/spell=191634) стоит тратить уже на [Цепную молния](https://www.wowhead.com/ru/spell=188443).  
 5. {:.sop-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/) в бою против **6+** целей.
 5. [Землетрясение](https://ru.wowhead.com/spell=61882), если выполняется **любое** из условий:
   * {:.no-ns-apl}Если у вас более **130** единиц энергии Водоворота.
@@ -312,7 +314,7 @@ custom-javascript-list:
   * Если есть бафф [Хранителя бурь](https://ru.wowhead.com/spell=191634).
   * Если есть бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), когда она заменяет [Молнию](https://ru.wowhead.com/spell=188196).
-  * {:.com-apl}После каста [Бури](https://ru.wowhead.com/spell=454009) на АоЕ, вы получаете бафф [Дуговой искры](https://www.wowhead.com/ru/spell=455096). Всегда старайтесь совмещать этот бафф с [Хранителем бурь](https://ru.wowhead.com/spell=191634).
+  * {:.com-apl}После каста [Бури](https://ru.wowhead.com/spell=454009) на АоЕ, вы получаете бафф [Дуговой искры](https://www.wowhead.com/ru/spell=455096). Всегда старайтесь совмещать этот бафф с [Хранителем бурь](https://ru.wowhead.com/spell=191634), так как [Дуговая искра](https://www.wowhead.com/ru/spell=455096) дает **40%** урона на **2** следующие [Цепные молнии](https://ru.wowhead.com/spell=188443).
   * {:.com-apl}Старайтесь выбирать цель без дебаффа от [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), так как [Буря](https://ru.wowhead.com/spell=454009) повесит его на свою основную цель.
   * {:.com-apl}[Буря](https://ru.wowhead.com/spell=454009) не поглощает баффы от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 5. [Цепная молния](https://ru.wowhead.com/spell=188443) для набора энергии Водоворота.
@@ -549,7 +551,8 @@ custom-javascript-list:
 * **Наручи**: [Песнь брони и избежания](https://www.wowhead.com/ru/item=223713/)
 * **Ботинки**: [Ход разведчика](https://www.wowhead.com/ru/item=223653/) или [Ход защитника](https://www.wowhead.com/ru/item=223656/).
 * **Эпический самоцвет**: [Профанит апогея](https://www.wowhead.com/ru/item=213743/)
-* **Остальные самоцветы**: [Изумруд смерти](https://www.wowhead.com/ru/item=213479/)
+* **Остальные самоцветы**: [Изумруд смерти](https://www.wowhead.com/ru/item=213479/), [Оникс скорости](https://www.wowhead.com/ru/item=213494), [Сапфир скорости](https://www.wowhead.com/ru/item=213470/) и [Рубин скорости](https://www.wowhead.com/ru/item=213455/) для активации эффекта [Профанита апогея](https://www.wowhead.com/ru/item=213743/). Во все остальные слоты – [Изумруд смерти](https://www.wowhead.com/ru/item=213479/).
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -561,6 +564,11 @@ custom-javascript-list:
 * **Руна**: [Кристаллизованная руна усиления](https://www.wowhead.com/ru/item=224572)
 * **Еда**: [Пир полуночного маскарада](https://www.wowhead.com/ru/item=220425), либо [Провизия чужака](https://www.wowhead.com/ru/item=222731) / [Блюдо шута](https://www.wowhead.com/ru/item=222730) / [Прощание императрицы](https://www.wowhead.com/ru/item=222729/) / [Благодать Беледар](https://www.wowhead.com/ru/item=222728)
 * **Зелье лечения**: [Алгарийское лечебное зелье](https://www.wowhead.com/ru/item=211880)
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 # Интерфейс
 
@@ -574,93 +582,12 @@ custom-javascript-list:
     <img src="/assets/img/mouseover.png"> 
 </p>
 
-* Все баффы на одной кнопке. Если макрос не используется в течение **3** секунд, то он сбрасывается на [Небесную ярость](https://www.wowhead.com/ru/spell=462854) для того, можно было бафнуть союзника.
-~~~
-/castsequence [known:462757] reset=3 Небесная ярость, Щит молний, Оружие языка пламени, Оберег громового удара; [] reset=3 Небесная ярость, Щит молний, Оружие языка пламени
-~~~
+<p></p>
 
-* Маусовер макрос для атакующих заклинаний:
-~~~
-#showtooltip  
-/cast [@mouseover,harm,exists,nodead][] Огненный шок
-~~~
+{% include button.html name="Макросы для Элем Шамана" link="https://stormkeeper.ru/info/macros.html#%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B8" %}  
 
-* Маусовер макрос для лечащих заклинаний:
-~~~
-#showtooltip 
-/cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
-~~~
+<p></p>
 
-* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.purge }} и [Очищение духа](https://ru.wowhead.com/spell=51886):
-~~~
-#showtooltip 
-/use [@mouseover,nodead,harm] Развеивание магии;[@mouseover,nodead,help] Очищение духа;[@target,nodead,harm] Развеивание магии;[@target,nodead,help][@player] Очищение духа
-~~~
-
-* Данный макрос позволяет кастовать {{ site.data.spells.quake }} сразу на место под курсором, избавляя от лишнего клика мышкой:  
-~~~
-#showtooltip
-/cast [@cursor] Землетрясение
-~~~
-
-* Способности элементалей [Метеорит](https://www.wowhead.com/ru/spell=117588) и [Буря](https://ru.wowhead.com/spell=157375/) на одну кнопку:
-~~~
-#showtooltip
-/cast Метеорит
-/cast Буря
-~~~
-
-* [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Удар духов стихий](https://ru.wowhead.com/spell=117014/) на одной кнопке. Аналогичны макрос рекомендуется сделать на [Молнию](https://ru.wowhead.com/spell=188196) и [Цепную молни](https://ru.wowhead.com/spell=188443)
-~~~
-#showtooltip Удар духов стихий
-/cast Природная стремительность
-/cast [@mouseover,harm,exists,nodead][] Удар духов стихий
-~~~
-
-* Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
-~~~
-#showtooltip 
-/cast [@focus,exists,nodead,harm] [@boss1,exists,nodead,harm] Огненный шок
-~~~
-
-* Сбивание каста по фокусу, если фокуса нет, то сбивает цели под маусовером. Если там нет врага, то сбивает текущей цели:
-~~~
-#showtooltip
-/cast [@focus,exists,harm,nodead][@mouseover,harm,exists,nodead][] Пронизывающий ветер
-~~~
-
-* Этот макрос позволяет кинуть {{ site.data.spells.fs }} на соседнюю цель, не меняя вашей текущей. Выбирается ближайшая к вам цель, в сторону которой направлена камера. Данный макрос не работает, если цель одна:
-~~~
-#showtooltip  
-/targetenemy  
-/cast Огненный шок  
-/targetlasttarget  
-~~~
-
-* Применяет {{ site.data.spells.wrt }} прямо под вашего персонажа, позволяя сразу получить бонус скорости и не терять времени на установку тотема:  
-~~~
-#showtooltip
-/cast [@player] Тотем ветряного порыва
-~~~
-
-
-* Позволяет вынести [Реинкарнацию](https://www.wowhead.com/ru/spell=20608) на панель заклинаний чтобы следить за временем восстановления:  
-~~~
-#showtooltip Реинкарнация
-~~~
-
-* Вне боя использует {{ site.data.spells.ressurect }}, а в бою – инженерский батл-рес [Сложные манжеты](https://ru.wowhead.com/item=198332): 
-~~~
-#showtooltip
-/use [combat] Сложные манжеты; [nocombat] Дух предков
-~~~
-
-* Добавить оповещние в чат об использовании какой-либо способности. Сообщение не будет показано, если способность на КД. Не злоупотребляйте этим макросом! Пример для [Наставления предков](https://ru.wowhead.com/spell=108281):
-~~~
-#showtooltip Наставления предков
-/run if GetSpellCooldown("Наставления предков") == 0 then SendChatMessage("Ancestral Guidance","SAY") end
-/cast Наставления предков
-~~~
 
 ## WeakAuras
 
