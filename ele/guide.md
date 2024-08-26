@@ -87,7 +87,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjZGmZjxMDmZGAAAAAsYmNYADYWYCZWAA2mmZGstwYawMzsNsMzMDmlhZZMzMzYYGG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjZGmZjxMDmZGAAAAAsYmNYADYWYCZWAA2mmZGstwYawMzsNsMzMDmlhZZMzMzYYGG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -106,7 +106,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjxwMbMmZMmZGAAAAAAGzYYgFYb0QjNAwsNNzAbLMmGMzMbDLzYGMLDzyMzMzwMmhB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjxwMbMmZMmZGAAAAAAGzYYgFYb0QjNAwsNNzAbLMmGMzMbDLzYGMLDzyMzMzwMmhB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -531,7 +531,7 @@ custom-javascript-list:
 {: class="bordered"}
 
 1. Оружие, например [Выкованный навеки кинжал](https://www.wowhead.com/ru/item=222439/%D0%B2%D1%8B%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B0%D0%B2%D0%B5%D0%BA%D0%B8-%D0%BA%D0%B8%D0%BD%D0%B6%D0%B0%D0%BB?bonus=10222:1515) с украшением колоды Новолуния: [Символ Новолуния "Бодрость"](https://www.wowhead.com/ru/item=226033), [Символ Новолуния "Вознесение"](https://www.wowhead.com/ru/item=226024/), [Символ Новолуния "Симбиоз"](https://www.wowhead.com/ru/item=226030/).
-2. Бижутерия, например [Амулет мастерства земельников](https://www.wowhead.com/ru/item=215136/%D0%B0%D0%BC%D1%83%D0%BB%D0%B5%D1%82-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%B0-%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2?bonus=10222:11144:9627:8790:10520) с характеристиками Скорость / Крит и украшением [Стихийная фокусирующая линза](https://www.wowhead.com/ru/item=213770/) (чуть лучше в СТ) или [Призматическим нуль-камнем](https://www.wowhead.com/ru/item=213773) (чуть лучше в АоЕ)
+2. Бижутерия, например [Амулет мастерства земельников](https://www.wowhead.com/ru/item=215136/%D0%B0%D0%BC%D1%83%D0%BB%D0%B5%D1%82-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%B0-%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2?bonus=10222:11144:9627:8790:10520) с характеристиками Скорость / Крит и украшением [Стихийная фокусирующая линза](https://www.wowhead.com/ru/item=213770/) (чуть лучше в СТ) или [Призматическим нуль-камнем](https://www.wowhead.com/ru/item=213773) (чуть лучше в АоЕ).
 3. Любой предмет низкого уровня.
 
 

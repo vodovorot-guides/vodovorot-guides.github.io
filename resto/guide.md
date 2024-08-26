@@ -77,78 +77,121 @@ image: /assets/img/resto_tb2.png
 {: class="bordered"}
 
 
+## Цепное исцеление или Быстрина
+
+На данный момент есть два способа играть Рестор Шаманом, и оба подходят как для рейда, так и для Мифик+.
+
+**Тотемист** лучше сочетается с билдами через [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/), за счет автоматических кастов [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) при установке тотемов. АоЕ отхил особенно хорош при игре за **Тотемиста**, но эта героическая ветка не очень подходит для игры через билд, основанный на [Быстрине](https://www.wowhead.com/ru/spell=61295).
+
+**Предсказатель** гораздо более гибок в выборе билда, и может играться как в билдах через [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/), так и в билдах через [Быстрину](https://www.wowhead.com/ru/spell=61295). Но он всё таки больше склоняется к билдам через [Быстрину](https://www.wowhead.com/ru/spell=61295), за счет множества поддерживающих этот стиль игры героических талантов. Плюс билды через [Быстрину](https://www.wowhead.com/ru/spell=61295) гораздо менее маназатратные, что также хорошо себя показывает в контенте выского уровня.
+
 ## Таланты для рейда
 
-### Билд через Цепное исцеление
+### Тотемист через Цепное исцеление
 
 
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmx2YmZGLzGbGWAAACABAzYWGjtZmZmMbLMz0YGMbYZmZGMGmlxAAYA?width=700&bgcolor=262b39&locale=ru_RU" width="730px" height="500px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmx2YmZmZx2YzAsALwM20YZAZGYjZMLjx2MzMTmtFmZaMDzshlZMDGDzyYAAM?width=700&bgcolor=262b39&locale=ru_RU" width="730px" height="500px" style="overflow: hidden"></iframe>
 
 <p></p>
 
 
-* [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/) усиливается многими талантами, такими как [Прилив](https://www.wowhead.com/ru/spell=157154), [Вестник приливов](https://www.wowhead.com/ru/spell=236501), [Устремление предков](https://www.wowhead.com/ru/spell=382732/) / [Приливные течения](https://www.wowhead.com/ru/spell=382039/) и [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685), что делает его одним из самых сильных заклинаний Рестор Шамана, вокруг которого можно строить свой геймплей.
+* Основная идея этого билда – позволить таланту [Энергичные тотемы](https://www.wowhead.com/ru/spell=445034) кастовать большую часть [Цепных исцелений](https://www.wowhead.com/ru/spell=1064/), что позволяет экономить ману.
 
-* [Быстрина](https://www.wowhead.com/ru/spell=61295) в этом билде также активно использутся, и её эффективность увеличивается за счет талантов [Изначальное сердце волн](https://www.wowhead.com/ru/spell=382045) и [Воды прилива](https://www.wowhead.com/ru/spell=462425).
+* Этот билд дает большое количество АоЕ исцеления за счет множества талантов, направленных на усиление [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/), а также за счет [Ливневого дождя](https://www.wowhead.com/ru/spell=462486/) и [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995). 
 
-* В данном билде будут также полезны различные бурсты, такие как [Перерождение](https://www.wowhead.com/ru/spell=114052/), которое отлично сочетается с [Наставлениями предков](https://www.wowhead.com/ru/spell=108281), а также заклинания с коротким временем восстановления – [Родник](https://www.wowhead.com/ru/spell=197995), [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685), [Ливневый дождь](https://www.wowhead.com/ru/spell=462488/) и [Тотем земляной стены](https://www.wowhead.com/ru/spell=198838/), который при необходимости меняется на [Тотем защиты предков](https://www.wowhead.com/ru/spell=207399/).
+* Эти таланты достаточно маназатратны, поэтому стоит внимательно следить за своей маной, так как за счет спама [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) можно очень быстро высохнуть.
 
-* С учетом возвращения в препатче The War Within комплекта классовых доспехов из третьего сезона, имеет смысл заменить [Пробуждение предка](https://www.wowhead.com/ru/spell=382309) и [Родник](https://www.wowhead.com/ru/spell=197995/) на [Благословение Говорящей с волнами](https://www.wowhead.com/ru/spell=381946/) и [Первозданную волну](https://www.wowhead.com/ru/spell=428332).
+* Чтобы избежать быстрого расхода маны, старайтесь реже кастовать [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/) самостоятельно, и используйте его тогда, когда оно усилено различными талантами, например [Приливом](https://www.wowhead.com/ru/spell=157154).
 
+* Если вы хотите сменить какие-нибудь таланты и взять вместо них другие, то в первую очередь можно убрать [Оружие жизни земли](https://www.wowhead.com/ru/spell=382021) и [Наводнение](https://www.wowhead.com/ru/spell=200076/).
 
-
-### Билд через Быстрину
+### Предсказатель через Цепное исцеление
 
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZMzsMzgZWmtZ2MsAAAEACAmxsMGbzMzMZ2WYmpxMMzGWmxMYMMLjBAwA?width=730&bgcolor=262b39&locale=ru_RU" width="730px" height="500px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmZ2GzMGLzCMswmZWgBMBzCTgxiZGzyYsNzMzkZbhZmGzwYDLzMzgxwsMGAAD?width=730&bgcolor=262b39&locale=ru_RU" width="730px" height="500px" style="overflow: hidden"></iframe>
 
 <p></p>
 
 
-* В препатче The War Within возвращается комплект классовых доспехов из третьего сезона, что делает билд через [Быстрину](https://www.wowhead.com/ru/spell=61295) актуальнее, чем в четвертом сезоне.
+* Данный билд очень схож с **Тотемистом** через [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/), но его главное отличие в том, что здесь мы гораздо больше кастуем [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/) самостоятельно, не полагаясь на [Энергичные тотемы](https://www.wowhead.com/ru/spell=445034).
 
-* В данном билде [Быстрину](https://www.wowhead.com/ru/spell=61295) поддерживают такие таланты, как [Изначальное сердце волн](https://www.wowhead.com/ru/spell=382045), [Воды прилива](https://www.wowhead.com/ru/spell=462425), [Первозданная волна](https://www.wowhead.com/ru/spell=428332), [Благословение Говорящей с волнами](https://www.wowhead.com/ru/spell=381946/) и [Подводное течение](https://www.wowhead.com/ru/spell=382194).
+* Этот билд довольно маназатратен, поэтому стоит выжимать максимум пользы из [Стремительности предков](https://www.wowhead.com/ru/spell=443454), а также стараться кастовать [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/) только с баффом [Зов предков](https://www.wowhead.com/ru/spell=443450/) или [Прилив](https://www.wowhead.com/ru/spell=157154).
 
-* Однако, в данном билде всё равно имеет смысл не брать [Подводное течение](https://www.wowhead.com/ru/spell=382194) или [Благословение Говорящей с волнами](https://www.wowhead.com/ru/spell=381946/), чтобы вложить очки в бурстовые способности – двухминутное комбо [Перерождения](https://www.wowhead.com/ru/spell=114052/) с [Наставлениями предков](https://www.wowhead.com/ru/spell=108281), а также [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685), [Родник](https://www.wowhead.com/ru/spell=197995) и [Тотем земляной стены](https://www.wowhead.com/ru/spell=198838/).
+* Если вы хотите сменить какие-нибудь таланты и взять вместо них другие, то в первую очередь можно убрать [Управление потоками](https://www.wowhead.com/ru/spell=404015/) и [Наводнение](https://www.wowhead.com/ru/spell=200076/).
 
-* Основная идея билда заключается в том, чтобы ценой АоЕ отхила от усиленного всеми талантами [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) получить более равномерный отхил за счет улучшенных [Быстрин](https://www.wowhead.com/ru/spell=61295), при этом не теряя бурстов в нужные моменты боя и имея более высокую мана-эффективность.
+### Предсказатель через Быстрину
 
 
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlxgxyswmhF2MzCMgJYWYCMW8AzMzyMjtZmZmMbLmZmGzwYDLzYGMGmlxAAYA?width=730&bgcolor=262b39&locale=ru_RU" width="730px" height="500px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+
+* Очень универсальный билд, но с меньшим количеством АоЕ исцеления.
+
+* Вместо [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) в этом билде мы полагаемся на [Родник](https://www.wowhead.com/ru/spell=197995/), [Ливневый дождь](https://www.wowhead.com/ru/spell=462486/), и [Первозданную волну](https://www.wowhead.com/ru/spell=428332), а также на отхил отдельных целей с помощью [Исцеляющего всплеска](https://www.wowhead.com/ru/spell=8004) и [Волны исцеления](https://www.wowhead.com/ru/spell=77472).
+
+* В этом билде также можно взять [Живой поток](https://www.wowhead.com/ru/spell=382482/) вместо [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153/), но в контенте высокого уровня стоит иметь именно [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153/), так как это источник контролируемого отхила.
+
+* Если вы хотите сменить какие-нибудь таланты и взять вместо них другие, то в первую очередь можно убрать [Управление потоками](https://www.wowhead.com/ru/spell=404015/).
 
 
 
 ## Таланты для Мифик+
 
-
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlZGmhZbsYAAAQAIAYmZWGzsNzMkZbhZmGzMmBWmxMWMLDzCDAgB?width=730&bgcolor=262b39&locale=ru_RU" width="730px" height="500px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-
-* Суть данного билда состоит в том, чтобы иметь как можно больше универсальных способностей и для отхила, и для нанесения урона, которые будут полезны в Мифик+. К ним относятся, например, [Кислотный дождь](https://www.wowhead.com/ru/spell=378443/) и переработанный [Властелин стихий](https://www.wowhead.com/ru/spell=16166/), который теперь позволяет сконцентрироваться на [Исцеляющих всплесках](https://www.wowhead.com/ru/spell=8004/) и [Выбросах лавы](https://www.wowhead.com/ru/spell=51505/), практически полностью игнорируя развешивание [Огненных шоков](https://www.wowhead.com/ru/spell=188389).
-
-* [Пульсация](https://www.wowhead.com/ru/spell=200071) – крайне сильный талант для исцеления отдельных союзников, что в Мифик+ происходит горадо чаще, чем в рейде, а также этот талант отлично сочетается с [Первозданной волной](https://www.wowhead.com/ru/spell=428332).
-
-* В данном билде также берется двухминутное комбо [Перерождения](https://www.wowhead.com/ru/spell=114052/) с [Наставлениями предков](https://www.wowhead.com/ru/spell=108281), что будет полезно в сложных ситуациях.
-
-* Для варианта с большим упором на [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/), можно заменить [Поток](https://www.wowhead.com/ru/spell=200072/) и [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) на [Прилив](https://www.wowhead.com/ru/spell=157154) и [Устремление предков](https://www.wowhead.com/ru/spell=382732/) / [Приливные течения](https://www.wowhead.com/ru/spell=382039/).
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
 Популярность талантов на каждое подземелье можно посмотреть на [Warcraftlogs](https://www.warcraftlogs.com/).
 {: class="bordered"}
 
 Билды могут отличаться в зависимости аффиксов и подземелья. Подробно про выбор утилити талантов для каждого подземелья можно найти в [этой статье](https://stormkeeper.ru/info/utility.html).
+
+
+### Тотемист через Цепное исцеление
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMzyMWmZmZGsMYAWgFYGbasMgMDsxMzsMmZZmZGZ2WYmpxMjBsMjZsYWGmFGAAD?width=730&bgcolor=262b39&locale=ru_RU" width="730px" height="500px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+
+* Основная идея этого билда – позволить таланту [Энергичные тотемы](https://www.wowhead.com/ru/spell=445034) кастовать большую часть [Цепных исцелений](https://www.wowhead.com/ru/spell=1064/), что позволяет экономить ману.
+
+* Этот билд дает большое количество АоЕ исцеления за счет множества талантов, направленных на усиление [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/), а также за счет [Ливневого дождя](https://www.wowhead.com/ru/spell=462486/) и [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995). 
+
+* Эти таланты достаточно маназатратны, поэтому стоит внимательно следить за своей маной, так как за счет спама [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) можно очень быстро высохнуть.
+
+* Чтобы избежать быстрого расхода маны, старайтесь реже кастовать [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/) самостоятельно, и используйте его тогда, когда оно усилено различными талантами, например [Приливом](https://www.wowhead.com/ru/spell=157154).
+
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+### Предсказатель через Быстрину
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlZGMWmFWMswmZWgBMBzCTgxCzMzyMzsMzMkZbxMz0YmxAWmxMWMLDzCDAgB?width=730&bgcolor=262b39&locale=ru_RU" width="730px" height="500px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+
+
+* Очень универсальный билд, но с меньшим количеством АоЕ исцеления.
+
+* Вместо [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) в этом билде мы полагаемся на [Родник](https://www.wowhead.com/ru/spell=197995/), [Ливневый дождь](https://www.wowhead.com/ru/spell=462486/), и [Первозданную волну](https://www.wowhead.com/ru/spell=428332), а также на отхил отдельных целей с помощью [Исцеляющего всплеска](https://www.wowhead.com/ru/spell=8004) и [Волны исцеления](https://www.wowhead.com/ru/spell=77472).
+
+* В этом билде также можно взять [Живой поток](https://www.wowhead.com/ru/spell=382482/) вместо [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153/), но в контенте высокого уровня стоит иметь именно [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153/), так как это источник контролируемого отхила.
+
+
 
 # Приоритет способностей
 
@@ -342,7 +385,6 @@ image: /assets/img/resto_tb2.png
 
 Приоритет статов для **Рейда** следующий:
 
-1. **Самоисцеление**.
 2. **Интеллект**.
 3. **Критический удар**.
 4. **Универсальность**.
@@ -467,51 +509,70 @@ image: /assets/img/resto_tb2.png
 
 # Экипировка
 
+
+
+## Комплект классовых доспехов
+
+Как можно быстрее получите из рейда **2/4** куска сетового комплекта – [Волны забытого резервуара](https://www.wowhead.com/ru/item-set=1686/). 
+
+* **2 части**: [Приливные волны](https://www.wowhead.com/ru/spell=51564) повышают эффективность исцеления связанных с ними заклинаний на **10%**.
+* **4 части**: Эффективность [Приливных волн](https://www.wowhead.com/ru/spell=51564) повышается на 80%. Кроме того, [Приливные волны](https://www.wowhead.com/ru/spell=51564) снижают затраты маны на связанные с ними заклинания на **8%**.
+
+
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+**Данные предметы дают сетовые бонусы:**
+* [Облачение забытого резервуара](https://www.wowhead.com/ru/item=212014)
+* [Завет забытого резервуара](https://www.wowhead.com/ru/item=212012)
+* [Ноэтика забытого резервуара](https://www.wowhead.com/ru/item=212011)
+* [Саронг забытого резервуара](https://www.wowhead.com/ru/item=212010)
+* [Маршрут забытого резервуара](https://www.wowhead.com/ru/item=212009)
+
+**Предметы из Катализатора:**
+* [Ленты забытого резервуара](https://www.wowhead.com/ru/item=212008/)
+* [Ботинки забытого резервуара](https://www.wowhead.com/ru/item=212013)
+* [Объятье забытого резервуара](https://www.wowhead.com/ru/item=212007/)
+* [Туман забытого резервуара](https://www.wowhead.com/ru/item=212006)
+
+
 ## Аксессуары
 
 Полный рейтинг аксессуаров можно найти на [QE Live](https://questionablyepic.com/live/trinkets).
 
 Лучшие аксессуары:
-1. [Зловещая разноцветная субстанция](https://www.wowhead.com/ru/item=203729/%D0%B7%D0%BB%D0%BE%D0%B2%D0%B5%D1%89%D0%B0%D1%8F-%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%B1%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?bonus=7981:10358:5871) – лучший пассивный тринкет, особенно с дополнительными баффами от союзников.
-2. [Кричащая чешуйка черного дракона](https://www.wowhead.com/ru/item=202612/%D0%BA%D1%80%D0%B8%D1%87%D0%B0%D1%89%D0%B0%D1%8F-%D1%87%D0%B5%D1%88%D1%83%D0%B9%D0%BA%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0?bonus=7981:10358:5871) – отличный пассивный тринкет.
-3. [Обещание хранительницы стаи](https://www.wowhead.com/ru/item=194307/%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8B-%D1%81%D1%82%D0%B0%D0%B8?bonus=657:10358:5871:7981) – дает хороший отхил в конкретную цель, а также увеличивает ей Универсальность.
-4. [Знак воплощения шепота](https://www.wowhead.com/ru/item=194301/%D0%B7%D0%BD%D0%B0%D0%BA-%D0%B2%D0%BE%D0%BF%D0%BB%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D1%8F-%D1%88%D0%B5%D0%BF%D0%BE%D1%82%D0%B0?bonus=7981:10358:5871) – хороший пассивный тринкет, но для его полной эффективности он должен быть также у дамагера и танка, что не всегда возможно.
-5. [Изумрудный значок дружбы Пипа](https://www.wowhead.com/ru/item=207168/%D0%B8%D0%B7%D1%83%D0%BC%D1%80%D1%83%D0%B4%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA-%D0%B4%D1%80%D1%83%D0%B6%D0%B1%D1%8B-%D0%BF%D0%B8%D0%BF%D0%B0?bonus=7981:10358:5871) – хороший пассивный аксессуар.
-6. [Огненное сердце Рашока](https://www.wowhead.com/ru/item=202614/%D0%BE%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5-%D1%80%D0%B0%D1%88%D0%BE%D0%BA%D0%B0?bonus=7981:10358:5871) – после нерфа данный аксессуар не так хорош в плане цифр исцеления, но он позволяет усилить союзников за счет баффа на Универсальность.
+* [Тенета мастера шпионажа](https://www.wowhead.com/ru/item=220202/%D1%82%D0%B5%D0%BD%D0%B5%D1%82%D0%B0-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-%D1%88%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D0%B6%D0%B0?bonus=7981:11143:5878:10299) 
+* [Буря теней](https://www.wowhead.com/ru/item=56462/%D0%B1%D1%83%D1%80%D1%8F-%D1%82%D0%B5%D0%BD%D0%B5%D0%B9?bonus=657:11143:5878:7981:10299)
+* [Освобожденный подменыш](https://www.wowhead.com/ru/item=178708/%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D0%BC%D0%B5%D0%BD%D1%8B%D1%88?bonus=657:11143:5878:7981:10299)
+* [Переменчивое яйцо Ови'накса](https://www.wowhead.com/ru/item=220305/%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%8F%D0%B9%D1%86%D0%BE-%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0%D0%BA%D1%81%D0%B0?bonus=7981:11143:5878:10299) 
+* [Кокон выводка Ара-Кары](https://www.wowhead.com/ru/item=219314/%D0%BA%D0%BE%D0%BA%D0%BE%D0%BD-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0-%D0%B0%D1%80%D0%B0-%D0%BA%D0%B0%D1%80%D1%8B?bonus=7981:11143:5878:10299)
+* [Изуверский шприц](https://www.wowhead.com/ru/item=212452/%D0%B8%D0%B7%D1%83%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9-%D1%88%D0%BF%D1%80%D0%B8%D1%86?bonus=7981:11143:5878:10299) 
+* [Усиливающий кристалл Ануб'иккаджа](https://www.wowhead.com/ru/item=219312/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9-%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB-%D0%B0%D0%BD%D1%83%D0%B1%D0%B8%D0%BA%D0%BA%D0%B0%D0%B4%D0%B6%D0%B0?bonus=7981:11143:5878:10299)
+* [Срастание верховного глашатая](https://www.wowhead.com/ru/item=219303/%D1%81%D1%80%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B3%D0%BB%D0%B0%D1%88%D0%B0%D1%82%D0%B0%D1%8F?bonus=7981:11143:5878:10299)
+ 
 
-Для нанесения урона:
-1. **[Фолиант ускользающего могущества](https://www.wowhead.com/ru/item=212685/)** – данный аксессуар был переработан в четвертом сезоне, и теперь это лучший АоЕ тринкет для Мифик+. 
-2. **[Яростное перо](https://www.wowhead.com/ru/item=193677)** – отличный тринкет как для рейда, так и для Мифик+.
-
-Для выживания в высоких ключах:
-1. [Оскверненное Яростное сердце Фиракка](https://www.wowhead.com/ru/item=207174/%D0%BE%D1%81%D0%BA%D0%B2%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D1%8F%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B5-%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5-%D1%84%D0%B8%D1%80%D0%B0%D0%BA%D0%BA%D0%B0?bonus=7981:10358:5878) – поглощает большое количество получаемого урона с кулдауном полторы минуты.
-2. [Оберег безликой ярости](https://www.wowhead.com/ru/item=203714/%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B3-%D0%B1%D0%B5%D0%B7%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9-%D1%8F%D1%80%D0%BE%D1%81%D1%82%D0%B8?bonus=7981:10358:5871) – поглощает меньше урона чем вариант выше, но с меньшим временем восстановления.
-
-
-## Предметы за бронзовые слитки
-
-Приоритет покупок за [Старинные бронзовые слитки](https://www.wowhead.com/ru/item=213089):
-1. [Зловещая разноцветная субстанция](https://www.wowhead.com/ru/item=203729/%D0%B7%D0%BB%D0%BE%D0%B2%D0%B5%D1%89%D0%B0%D1%8F-%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%B1%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?bonus=7981:10358:5871).
-2. [Кричащая чешуйка черного дракона](https://www.wowhead.com/ru/item=202612/%D0%BA%D1%80%D0%B8%D1%87%D0%B0%D1%89%D0%B0%D1%8F-%D1%87%D0%B5%D1%88%D1%83%D0%B9%D0%BA%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0?bonus=7981:10358:5871).
-3. [Вакаш, затененное пламя](https://www.wowhead.com/ru/item=207788/%D0%B2%D0%B0%D0%BA%D0%B0%D1%88-%D0%B7%D0%B0%D1%82%D0%B5%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F?bonus=7981:10358:5871).
-4. [Печать избранного Денны](https://www.wowhead.com/ru/item=195480/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B?bonus=7981:10358:5871).
-5. [Щит огненного маршала](https://www.wowhead.com/ru/item=195475/%D1%89%D0%B8%D1%82-%D0%BE%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BC%D0%B0%D1%80%D1%88%D0%B0%D0%BB%D0%B0?bonus=7981:10358:5871).
 
 
 ## Улучшение предметов за гребни
 
-1. Оружие.
+Рекомендованный порядок улучшения предметов за гребни:
+1. Оружие. 
 2. Лучшие аксессуары. 
 3. Сетовые предметы. 
 4. Предметы с лучшими характеристиками. 
 
 ## Крафтовые предметы
 
-1. [Адаптивные дракотистовые боевые наручи](https://www.wowhead.com/ru/item=204704/).
-2. [Аркан стихий](https://www.wowhead.com/ru/item=193001/%D0%B0%D1%80%D0%BA%D0%B0%D0%BD-%D1%81%D1%82%D0%B8%D1%85%D0%B8%D0%B9?bonus=1569:8782:1700) – только при наличии **5+** гнезд для самоцветов.
-3. [Пропитанные ядом высокие ботинки](https://www.wowhead.com/ru/item=193460/%D0%BF%D1%80%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B4%D0%BE%D0%BC-%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%B8%D0%B5-%D0%B1%D0%BE%D1%82%D0%B8%D0%BD%D0%BA%D0%B8?bonus=1569).
-4. [Союзные набедренники хана Сансок](https://www.wowhead.com/ru/item=193464/%D1%81%D0%BE%D1%8E%D0%B7%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B0%D0%B1%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8-%D1%85%D0%B0%D0%BD%D0%B0-%D1%81%D0%B0%D0%BD%D1%81%D0%BE%D0%BA?bonus=1569).
+**Важно!** Не стоит сразу же делать предметы с помощью [Искры знамения](https://www.wowhead.com/ru/item=211296/), дождитесь тестов от игроков. Указанные ниже рекомендации по крафту рассчитаны в симкрафте и могут отличаться от того, что ждет нас после начала сезона. На бете не было возможности полностью проверить все виды украшений.
+{: class="bordered"}
 
+1. [Узы связи](https://www.wowhead.com/ru/item=215133/%D1%83%D0%B7%D1%8B-%D1%81%D0%B2%D1%8F%D0%B7%D0%B8?bonus=10222:1515) – самое сильное украшение на данный момент.
+1. Оружие, например [Выкованный навеки кинжал](https://www.wowhead.com/ru/item=222439/%D0%B2%D1%8B%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B0%D0%B2%D0%B5%D0%BA%D0%B8-%D0%BA%D0%B8%D0%BD%D0%B6%D0%B0%D0%BB?bonus=10222:1515) с украшением колоды Новолуния: [Символ Новолуния "Бодрость"](https://www.wowhead.com/ru/item=226033), [Символ Новолуния "Вознесение"](https://www.wowhead.com/ru/item=226024/), [Символ Новолуния "Симбиоз"](https://www.wowhead.com/ru/item=226030/).
+2. Бижутерия, например [Амулет мастерства земельников](https://www.wowhead.com/ru/item=215136/%D0%B0%D0%BC%D1%83%D0%BB%D0%B5%D1%82-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%B0-%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2?bonus=10222:11144:9627:8790:10520) с характеристиками Критический удар / Универсальность.
+3. Любой предмет низкого уровня.
 
 # Расходуемые предметы
 
@@ -519,80 +580,43 @@ image: /assets/img/resto_tb2.png
 <p></p>
 
 
-**Зачарования** лучше всего использовать максимального качества. Как альтернатива здесь также указаны более дешевые варианты:
-* **Оружие**: [Посвящение мудрости](https://www.wowhead.com/ru/spell=389550/) (урон + хил) или [Посвящение снов](https://www.wowhead.com/ru/item=207087/) (больше хила).
-* **Шлем**: [Раскаленная сущность](https://www.wowhead.com/ru/item=210494).
-* **Нагрудный доспех**: [Пробужденные характеристики](https://www.wowhead.com/ru/spell=389410/).
-* **Поножи**: [Темпоральная чародейская нить](https://www.wowhead.com/ru/spell=387298/).
-* **Кольца**: [Посвящение критического удара](https://www.wowhead.com/ru/spell=389292).
-* **Плащ**: [Регенерация хищника](https://www.wowhead.com/ru/spell=389404/).
-* **Наручи**: [Посвящение самоисцеления](https://www.wowhead.com/ru/spell=389303/).
-* **Ботинки**: [Глина дозорного](https://www.wowhead.com/ru/spell=389484).
-* **Пояс**: [Затененная поясная застежка](https://www.wowhead.com/ru/item=205039).
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-**Самоцветы** теперь есть двух видов – уникальные эпические, которые нужно делать через стол заказов, и обычные, которые покупаются на аукционе. Лучше всего использовать камни максимального качества. Эпических камней может быть не более одного во всей экипировке. 
-* Эпический самоцвет: [Покрытый письменами бесконечный алмаз](https://www.wowhead.com/ru/item=192982/).
-* Обычные самоцветы: [Светозарный алекстразит](https://www.wowhead.com/ru/item=192925).
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-Лучший **флакон**:
-* [Замерзший флакон оскверняющей ярости](https://www.wowhead.com/ru/item=191327/).
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-**Зелья** используются в зависимости от типа контента:
-* В Рейде используется [Воздушное зелье маны](https://www.wowhead.com/ru/item=191386/) (мгновенное) либо [Зелье ледяной концентрации](https://www.wowhead.com/ru/item=191365) (кастуется **10** секунд).
-* В Мифик+ используется зелье на урон: [Зелье шокирующего разоблачения](https://www.wowhead.com/ru/item=191401/).
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-**Еду** следует использовать следующую:
-* [Большой калуакский банкет](https://www.wowhead.com/ru/item=197794): пир на множество игроков, увеличивает Интеллект.
-* [Охлажденная месть](https://www.wowhead.com/ru/item=197785) – для рейда.
-* [Ароматное морское ассорти](https://www.wowhead.com/ru/item=197783/) – для Мифик+.
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-Вместо масел теперь используются **руны на оружие**, однако они не сочетаются с талантом [Оружие жизни земли](https://www.wowhead.com/ru/spell=382021/).
-* [Жужжащая руна](https://www.wowhead.com/ru/item=194823): руна на Критический удар.
-* [Воющая руна](https://www.wowhead.com/ru/item=194820): руна на Скорость.
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-**Руны** на Интеллект:
-* [Сновидческая руна усиления](https://www.wowhead.com/ru/item=211495/).
-* [Драконья руна усиления](https://www.wowhead.com/ru/item=201325).
+**Зачарования** и **самоцветы**:
+* **Оружие**: [Хитрость совета](https://www.wowhead.com/ru/item=223759)
+* **Бижутерия**: [Великолепная ювелирная оправа](https://www.wowhead.com/ru/item=213777/) – добавляет до **2** гнезд для самоцветов в **амулет** или **кольцо**.
+* **Нагрудный доспех**: [Кристаллическое сияние](https://www.wowhead.com/ru/item=223692/) или [Интеллект Совета](https://www.wowhead.com/ru/item=223686)
+* **Поножи**: [Закатная чародейская нить](https://www.wowhead.com/ru/item=222893/)
+* **Кольца**: [Сияющий критический удар](https://www.wowhead.com/ru/item=223662)
+* **Плащ**: [Песнь крылатой грации](https://www.wowhead.com/ru/item=223731/)
+* **Наручи**: [Песнь брони и самоисцеления](https://www.wowhead.com/ru/item=223719/)
+* **Ботинки**: [Ход разведчика](https://www.wowhead.com/ru/item=223653/) или [Ход защитника](https://www.wowhead.com/ru/item=223656/).
+* **Эпический самоцвет**: [Профанит апогея](https://www.wowhead.com/ru/item=213743/)
+* **Остальные самоцветы**: [Рубин универсальности](https://www.wowhead.com/ru/item=213461) / [Сапфир смерти](https://www.wowhead.com/ru/item=213467/).
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
+Расходуемые предметы:
+* **Настой**: [Настой алхимического хаоса](https://www.wowhead.com/ru/item=212283) или [Настой охлажденной агрессии](https://www.wowhead.com/ru/item=212271)
+* **Зелье**: [Алгарийское зелье маны](https://www.wowhead.com/ru/item=212241) или [Дистиллят дремлющей души](https://www.wowhead.com/ru/item=212247) 
+* **Чары на оружие**: [Оружие жизни земли](https://www.wowhead.com/ru/spell=382021) или [Алгарийское масло маны](https://www.wowhead.com/ru/item=224107)
+* **Руна**: [Кристаллизованная руна усиления](https://www.wowhead.com/ru/item=224572)
+* **Еда**: [Пир полуночного маскарада](https://www.wowhead.com/ru/item=220425), либо [Провизия чужака](https://www.wowhead.com/ru/item=222731) / [Блюдо шута](https://www.wowhead.com/ru/item=222730) / [Прощание императрицы](https://www.wowhead.com/ru/item=222729/) / [Благодать Беледар](https://www.wowhead.com/ru/item=222728)
+* **Зелье лечения**: [Алгарийское лечебное зелье](https://www.wowhead.com/ru/item=211880)
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 
 # Интерфейс
 
 **Рейдовые и групповые фреймы** – один из самых важных инструментов для любого хилера. Они предоставляют информацию о здоровье ваших союзников, облегчая вашу задачу по спасению их жизней.
 
-На нашем сайте есть больша [статья про аддоны на рейдовые фреймы](https://stormkeeper.ru/resto/raidframes.html), а также статьи про [настройку VuhDo](https://stormkeeper.ru/resto/vuhdo.html) и настройку [Grid2](https://stormkeeper.ru/resto/grid2.html).
+Лучшим выбором на данный момент является аддон [Cell](https://www.curseforge.com/wow/addons/cell). На нашем сайте есть больша [статья про аддоны на рейдовые фреймы](https://stormkeeper.ru/resto/raidframes.html), а также статьи про [настройку VuhDo](https://stormkeeper.ru/resto/vuhdo.html) и настройку [Grid2](https://stormkeeper.ru/resto/grid2.html).
 
-<p></p>
 
-{% include button.html name="Рейдовые фреймы для Шамана Исцеления" link="/resto/raidframes.html" %}  
-
-<p></p>
 
 Если вы не используйте Clique или аналогичную функцию стандартного интерфейса с назначением способностей на клавиши мыши, то рекомендуется использовать Mouseover бинды. Для этого больше не нужно делать макросы для каждой способности, достаточно просто поставить одну галочку в настройках:
 
@@ -608,74 +632,11 @@ image: /assets/img/resto_tb2.png
 
 ## Макросы
 
-* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.cl }} + {{ site.data.spells.ch }}, {{ site.data.spells.cleance }} + {{ site.data.spells.purge }} и другие:
-~~~
-#showtooltip 
-/use [@mouseover,nodead,harm] Огненный шок;[@mouseover,nodead,help] Быстрина;[@target,nodead,harm] Огненный шок;[@target,nodead,help][@player] Быстрина
-~~~
+<p></p>
 
-* Маусовер макрос для атакующих заклинаний:
-~~~
-#showtooltip  
-/cast [@mouseover,harm,exists,nodead][] Огненный шок
-~~~
+{% include button.html name="Макросы для Рестор Шамана" link="https://stormkeeper.ru/info/macros.html#%D0%B8%D1%81%D1%86%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" %}  
 
-* Маусовер макрос для лечащих заклинаний:
-~~~
-#showtooltip 
-/cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
-~~~
-
-* [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Цепное исцеление](https://ru.wowhead.com/spell=1064/) на одной кнопке:
-~~~
-#showtooltip Цепное исцеление
-/cast Природная стремительность
-/cast [@mouseover,harm,exists,nodead][] Цепное исцеление
-~~~
-
-* Данный макрос позволяет кастовать любые тотемы сразу на место под курсором, избавляя от лишнего клика мышкой:  
-~~~
-#showtooltip
-/cast [@cursor] Тотем конденсации
-~~~
-
-* Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
-~~~
-#showtooltip 
-/cast [@focus,exists,nodead,harm] [@boss1,exists,nodead,harm] Огненный шок
-~~~
-
-* Сбивание каста по фокусу, если фокуса нет, то сбивает цели под маусовером. Если там нет врага, то сбивает текущей цели:
-~~~
-#showtooltip
-/cast [@focus,exists,harm,nodead][@mouseover,harm,exists,nodead][] Пронизывающий ветер
-~~~
-
-* Этот макрос позволяет кинуть {{ site.data.spells.fs }} на соседнюю цель, не меняя вашей текущей. Выбирается ближайшая к вам цель, в сторону которой направлена камера. Данный макрос не работает, если цель одна:
-~~~
-#showtooltip  
-/targetenemy  
-/cast Огненный шок  
-/targetlasttarget  
-~~~
-
-* Применяет {{ site.data.spells.wrt }} прямо под вашего персонажа, позволяя сразу получить бонус скорости и не терять времени на установку тотема:  
-~~~
-#showtooltip
-/cast [@player] Тотем ветряного порыва
-~~~
-
-* Позволяет вынести [Реинкарнацию](https://www.wowhead.com/ru/spell=20608) на панель заклинаний чтобы следить за временем восстановления:  
-~~~
-#showtooltip Реинкарнация
-~~~
-
-* Вне боя использует {{ site.data.spells.ressurect }}, а в бою – инженерский батл-рес [Сложные манжеты](https://ru.wowhead.com/item=198332): 
-~~~
-#showtooltip
-/use [combat] Сложные манжеты; [nocombat] Дух предков
-~~~
-
+<p></p>
 ## WeakAuras
 
 Сборки WA на Рестора: 
