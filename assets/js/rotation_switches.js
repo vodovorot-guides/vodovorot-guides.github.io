@@ -112,12 +112,12 @@ function on_build_button_click(button, talent_list) {
 
 
 $('button#build_ele_storm_raid').on('click', function() {
-    on_build_button_click(this, ["storm", "sop", "pw", "sk"]);
+    on_build_button_click(this, ["sop", "ns"]);
     return false;
 });
 
 $('button#build_ele_storm_mplus').on('click', function() {
-    on_build_button_click(this, ["storm", "sop", "lmt", "pw", "sk"]);
+    on_build_button_click(this, ["sop", "lmt", "pw", "sk", "tempest"]);
     return false;
 });
 
