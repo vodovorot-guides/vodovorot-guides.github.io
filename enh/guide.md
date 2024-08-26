@@ -111,7 +111,7 @@ custom-javascript-list:
 
 <span class="lightning">**Штормовой**</span> рейдовый билд:
 
-<p></p>
+<p></p> 
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDYmZmZmhZZmxMMAAAAAAAAAAWAYMjhhsALDDNYBAzykZwssYmZmxwMzCWmZmAjlxMDAwM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
@@ -362,7 +362,6 @@ custom-javascript-list:
 Общая ветка талантов предлагает широкий выбор вспомогательных способностей, которые найдут применение в различных ситуациях.
 
 Два таланта Энх Шаман получает по умолчанию без траты на них очков – это [Цепная молния](https://ru.wowhead.com/spell=188443) и [Оружие Водоворота](https://www.wowhead.com/ru/spell=187880). Так же есть несколько основных талантов, которые напрямую влияют на наносимый урон и выживаемость и их стоит брать в любом билде. К ним относятся:
-* [Шквал](https://www.wowhead.com/ru/spell=382888) – пассивное увеличение урона.
 * [Астральный сдвиг](https://www.wowhead.com/ru/spell=108271/) – основной сейв.
 * [Тотем каменной преграды](https://www.wowhead.com/ru/spell=108270/) – дополнительный сейв.
 * [Лед и пламя](https://www.wowhead.com/ru/spell=382886) – пассивное увеличение урона.
@@ -517,9 +516,8 @@ custom-javascript-list:
 
 Как можно быстрее получите из рейда **2/4** куска сетового комплекта – [Волны забытого резервуара](https://www.wowhead.com/ru/item-set=1686/). 
 
-* **2 части**: Урон [Земного шока](https://www.wowhead.com/ru/spell=8042/), [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) и [Землетрясения](https://ru.wowhead.com/spell=61882) увеличивается на **25%**.
-* **4 части**: Когда вы расходуете энергию Водоворота, ваша вероятность критического удара повышается на **5%**, а наносимый критический урон увеличивается на **10%** на **5** секунд.
-
+* **2 части**: [Удар бури](https://www.wowhead.com/ru/spell=17364), [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), [Ледяной клинок](https://www.wowhead.com/ru/spell=342240) и [Сокрущающей молнии](https://www.wowhead.com/ru/spell=187874) наносят на **15%** больше урона.
+* **4 части**: Применение [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533/) призывает еще одного [Духа диких зверей](https://www.wowhead.com/ru/spell=51533/).
 <p></p>
 
 <hr style="height:1px;background-color:#bbb">
