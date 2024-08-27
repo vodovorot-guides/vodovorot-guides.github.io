@@ -137,7 +137,7 @@ $('button#build_enh_elem_st').on('click', function() {
 });
 
 $('button#build_enh_elem_aoe').on('click', function() {
-    on_build_button_click(this, ["cl", "asc", "fn", "pw", "hh", "lf"]);
+    on_build_button_click(this, ["cl", "asc", "fn", "sunder", "pw", "hh", "lf"]);
     return false;
 });
 
