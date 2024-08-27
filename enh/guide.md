@@ -141,9 +141,6 @@ custom-javascript-list:
 
 * [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) с талантом [Натиск лавы](https://www.wowhead.com/ru/spell=334033) распространяет [Огненные шоки](https://ru.wowhead.com/spell=188389) на **4** ближайших противников, нанося при этом урон при наложении. Стоит использовать [Первозданную волну](https://ru.wowhead.com/spell=375982) при подходе к паку и сразу же спредать его [Вскипанием лавы](https://www.wowhead.com/ru/spell=60103), после чего применить [Огненной шок](https://ru.wowhead.com/spell=188389) и [Молнию](https://www.wowhead.com/ru/spell=188196/). 
 
-* [Кольцо огня](https://www.wowhead.com/ru/spell=333974), так и [Бурю с градом](https://www.wowhead.com/ru/spell=334195) и [Ледяным клинком](https://www.wowhead.com/ru/spell=342240) (вместо [Раскола](https://www.wowhead.com/ru/spell=197214/)). Вариант с [Кольцом огня](https://www.wowhead.com/ru/spell=333974) дает больше урона на АоЕ, тогда как [Буря с градом](https://www.wowhead.com/ru/spell=334195) – чуть эффективнее в бою против одной цели.
-
-
 
 <p></p>
 <hr style="height:1px;background-color:#bbb">
