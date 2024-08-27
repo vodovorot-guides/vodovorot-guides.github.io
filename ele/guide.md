@@ -314,7 +314,7 @@ custom-javascript-list:
   * Если есть бафф [Хранителя бурь](https://ru.wowhead.com/spell=191634), для активации [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
   * Если есть бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), когда она заменяет [Молнию](https://ru.wowhead.com/spell=188196).
-  * {:.com-apl}После каста [Бури](https://ru.wowhead.com/spell=454009) на АоЕ, вы получаете бафф [Дуговой искры](https://www.wowhead.com/ru/spell=455096). Всегда старайтесь совмещать этот бафф с [Хранителем бурь](https://ru.wowhead.com/spell=191634), так как [Дуговая искра](https://www.wowhead.com/ru/spell=455096) дает **40%** урона на **2** следующие [Цепные молнии](https://ru.wowhead.com/spell=188443).
+  * {:.com-apl}После каста [Бури](https://ru.wowhead.com/spell=454009) на АоЕ, вы получаете бафф [Дуговой искры](https://www.wowhead.com/ru/spell=455096). Сейчас существует баг, из-за которого [Дуговая искра](https://www.wowhead.com/ru/spell=455096) не увеличивает урон перегрузок, поэтому старайтесь не использовать этот бафф одновременно с [Хранителем бурь](https://ru.wowhead.com/spell=191634).
   * {:.com-apl}Старайтесь выбирать цель без дебаффа от [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), так как [Буря](https://ru.wowhead.com/spell=454009) повесит его на свою основную цель.
   * {:.com-apl}[Буря](https://ru.wowhead.com/spell=454009) не поглощает баффы от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
 5. [Цепная молния](https://ru.wowhead.com/spell=188443) для набора энергии Водоворота.
