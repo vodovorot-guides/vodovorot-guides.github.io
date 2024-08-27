@@ -9,7 +9,7 @@ image: /assets/img/ansurek.jpg
 
 
 <p align="center">
-<img src="/assets/img/ansurek.jpg"> 
+    <img src="/assets/img/ansurek.jpg"> 
 </p>
 
 **Всем привет!**
