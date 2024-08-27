@@ -10,7 +10,7 @@ image: /assets/img/ansurek.jpg
 # Обновление гайдов на все специализации
 
 <p align="center">
-<img src="https://i.imgur.com/ansurek.jpg"> 
+<img src="https://i.imgur.com/img/ansurek.jpg"> 
 </p>
 
 **Всем привет!**
