@@ -248,7 +248,7 @@ custom-javascript-list:
   * {:.no-ns-apl}Если у вас более **130** единиц энергии Водоворота.
   * {:.ns-apl}Если у вас более **155** единиц энергии Водоворота.
   * Если до спадения дебаффа [Грозового разрядника](https://www.wowhead.com/ru/spell=210689) осталось **1-2** секунды.
-  * {:.sop-apl}Если есть бафф [Хранителя бурь](https://ru.wowhead.com/spell=191634).
+  * {:.sop-apl}Если есть бафф [Хранителя бурь](https://ru.wowhead.com/spell=191634), для активации [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
   * Если есть бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 6. [Молния](https://ru.wowhead.com/spell=188196) в качестве филлера. 
     * {:.com-apl}[Молния](https://ru.wowhead.com/spell=188196) является основным заклинанием в этом билде и её каст занимает основное время в бою.
@@ -311,7 +311,7 @@ custom-javascript-list:
 5. [Землетрясение](https://ru.wowhead.com/spell=61882), если выполняется **любое** из условий:
   * {:.no-ns-apl}Если у вас более **130** единиц энергии Водоворота.
   * {:.ns-apl}Если у вас более **155** единиц энергии Водоворота.
-  * Если есть бафф [Хранителя бурь](https://ru.wowhead.com/spell=191634).
+  * Если есть бафф [Хранителя бурь](https://ru.wowhead.com/spell=191634), для активации [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
   * Если есть бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), когда она заменяет [Молнию](https://ru.wowhead.com/spell=188196).
   * {:.com-apl}После каста [Бури](https://ru.wowhead.com/spell=454009) на АоЕ, вы получаете бафф [Дуговой искры](https://www.wowhead.com/ru/spell=455096). Всегда старайтесь совмещать этот бафф с [Хранителем бурь](https://ru.wowhead.com/spell=191634), так как [Дуговая искра](https://www.wowhead.com/ru/spell=455096) дает **40%** урона на **2** следующие [Цепные молнии](https://ru.wowhead.com/spell=188443).
