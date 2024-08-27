@@ -119,7 +119,7 @@ image: /assets/img/resto_tb2.png
 
 * Очень универсальный билд, но с меньшим количеством АоЕ исцеления.
 
-* Вместо [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) в этом билде мы полагаемся на [Родник](https://www.wowhead.com/ru/spell=197995/), [Ливневый дождь](https://www.wowhead.com/ru/spell=462486/) и [Первозданную волну](https://www.wowhead.com/ru/spell=428332), а также на отхил отдельных целей с помощью [Исцеляющего всплеска](https://www.wowhead.com/ru/spell=8004) и [Волны исцеления](https://www.wowhead.com/ru/spell=77472).
+* Вместо [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) в этом билде мы полагаемся на [Ливневый дождь](https://www.wowhead.com/ru/spell=462486/) и [Первозданную волну](https://www.wowhead.com/ru/spell=428332), а также на отхил отдельных целей с помощью [Исцеляющего всплеска](https://www.wowhead.com/ru/spell=8004) и [Волны исцеления](https://www.wowhead.com/ru/spell=77472).
 
 * В этом билде также можно взять [Живой поток](https://www.wowhead.com/ru/spell=382482/) вместо [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153/), но в контенте высокого уровня стоит иметь именно [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153/), так как это источник контролируемого отхила.
 
