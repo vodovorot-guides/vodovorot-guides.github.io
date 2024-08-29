@@ -151,11 +151,11 @@ image: /assets/img/logos/macros.png
 /cast [@cursor] Землетрясение
 ~~~
 
-* Способности элементалей [Метеорит](https://www.wowhead.com/ru/spell=117588) и [Буря](https://ru.wowhead.com/spell=157375/) на одну кнопку:
+* [Первозданная волна](https://ru.wowhead.com/spell=375982) вместе со [Стремительностью предков](https://www.wowhead.com/ru/spell=443454/):
 ~~~
 #showtooltip
-/cast Метеорит
-/cast Буря
+/cast Стремительность предков
+/cast [@mouseover,harm,exists,nodead][] Первозданная волна
 ~~~
 
 * [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Удар духов стихий](https://ru.wowhead.com/spell=117014/) на одной кнопке. Аналогичны макрос рекомендуется сделать на [Молнию](https://ru.wowhead.com/spell=188196) и [Цепную молни](https://ru.wowhead.com/spell=188443)
