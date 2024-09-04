@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-08-26
+last_update: 2024-09-04
 title: Гайд на Элем Шамана
 wow: 11.0.2
 toc: true
