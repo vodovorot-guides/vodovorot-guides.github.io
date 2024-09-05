@@ -151,6 +151,12 @@ image: /assets/img/logos/macros.png
 /cast [@cursor] Землетрясение
 ~~~
 
+* Использование всех необходимых баффов в <span class="lightning">Молниевом</span> билде на одной кнопке, в зависимости от взятых талантов
+~~~
+#showtooltip
+/castsequence [known:462757, @player] reset=3 Небесная ярость, Оберег громового удара, Щит молний; [@player] reset=3 Небесная ярость, Щит молний
+~~~
+
 * [Первозданная волна](https://ru.wowhead.com/spell=375982) вместе со [Стремительностью предков](https://www.wowhead.com/ru/spell=443454/):
 ~~~
 #showtooltip
@@ -158,7 +164,7 @@ image: /assets/img/logos/macros.png
 /cast [@mouseover,harm,exists,nodead][] Первозданная волна
 ~~~
 
-* [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Удар духов стихий](https://ru.wowhead.com/spell=117014/) на одной кнопке. Аналогичны макрос рекомендуется сделать на [Молнию](https://ru.wowhead.com/spell=188196) и [Цепную молни](https://ru.wowhead.com/spell=188443)
+* [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Удар духов стихий](https://ru.wowhead.com/spell=117014/) на одной кнопке.
 ~~~
 #showtooltip Удар духов стихий
 /cast Природная стремительность
@@ -424,7 +430,6 @@ image: /assets/img/logos/macros.png
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
 /click DropDownList1Button9
 ~~~
-
 
 
 * Использование активных (прожимных) Аксессуаров с панели заклинаний:  
