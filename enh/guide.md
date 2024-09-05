@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-08-26
+last_update: 2024-09-05
 title: Гайд на Энх Шамана
 wow: 11.0.2
 toc: true
@@ -85,7 +85,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMzMYmZMzwsMsMDAAAAAAAAAAsBwYGDDZBWGGawCAmlJzgZZxMzMjhZmFsMzMBGLjZGAgZA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMzMYmZMzwsNsMDAAAAAAAAAAsBwYGDDZBWGGawCAmlJzYMLLmZGjhZmFsMzMBGLjZGAgZA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -97,8 +97,6 @@ custom-javascript-list:
 
 * В данном билде появился самый настоящий **бурст** – прожимное [Перерождение](https://www.wowhead.com/ru/spell=114051/) с кулдауном **3** минуты.
 
-* [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) больше не используется в этом билде, вместо него мы кастуем [Молнию](https://www.wowhead.com/ru/spell=188196/). [Выброс лавы](https://www.wowhead.com/ru/spell=51505/) может быть взят чтобы дойти до [Щита земли](https://www.wowhead.com/ru/spell=974/), но в бою [Выброс лавы](https://www.wowhead.com/ru/spell=51505/) **не используется**.
-
 * После каждой траты стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) не забывайте использовать [Ледяной шок](https://www.wowhead.com/ru/spell=196840), так как он получит увеличенный урон за счет таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195). Однако если вы получили возврат стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) за счет [Суперзаряда](https://www.wowhead.com/ru/spell=455110) или [Статического накопления](https://www.wowhead.com/ru/spell=384411), то трата стаков будет более приоритетна.
 
 
@@ -108,11 +106,11 @@ custom-javascript-list:
 <p></p>
 
 
-<span class="lightning">**Штормовой**</span> рейдовый билд:
+<span class="lightning">**Штормовой**</span> рейдовый билд, бой без аддов:
 
 <p></p> 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDYmZmZmhZZmxMMAAAAAAAAAAWAYMjhhsALDDNYBAzykZwssYmZmxwMzCWmZmAjlxMDAwM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCm5BMzMzMzgtZmlZAAAAAAAAAAgFAGzYYILwywQDWAwsMZGjZZxMzYMMzsglZmJwYZMzAAMD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -222,6 +220,8 @@ custom-javascript-list:
       <input class="form-check-input" type="checkbox" id="rotation_switch_hh"> [Горячая рука](https://www.wowhead.com/ru/spell=201900)</li>
   <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_lf"> [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046)</li> 
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_eb"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li> 
 </ul>
 
 
@@ -268,7 +268,8 @@ custom-javascript-list:
 3. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 2. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
-3. [Молния](https://www.wowhead.com/ru/spell=188196/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+2. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если есть <span class="fire">огненный</span> или <span class="frost">ледяной</span> [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+3. [Молния](https://www.wowhead.com/ru/spell=188196/) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 3. {:.no-dw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если он отсутствует на цели.

@@ -132,7 +132,7 @@ $('button#build_ele_fire_mplus').on('click', function() {
 });
 
 $('button#build_enh_elem_st').on('click', function() {
-    on_build_button_click(this, ["asc", "ic", "hs", "pw", "hh", "lf"]);
+    on_build_button_click(this, ["asc", "ic", "hs", "pw", "hh", "lf", "eb"]);
     return false;
 });
 
@@ -142,7 +142,7 @@ $('button#build_enh_elem_aoe').on('click', function() {
 });
 
 $('button#build_enh_storm_st').on('click', function() {
-    on_build_button_click(this, ["dre", "ic", "sunder", "dw", "pw"]);
+    on_build_button_click(this, ["dre", "ic", "sunder", "dw", "pw", "eb"]);
     return false;
 });
 

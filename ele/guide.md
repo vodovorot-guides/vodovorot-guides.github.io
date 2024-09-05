@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-09-04
+last_update: 2024-09-05
 title: Гайд на Элем Шамана
 wow: 11.0.2
 toc: true
@@ -314,6 +314,7 @@ custom-javascript-list:
   * {:.sop-apl}Если есть бафф [Хранителя бурь](https://ru.wowhead.com/spell=191634), для активации [Прилива мощи](https://www.wowhead.com/ru/spell=262303/).
   * Если есть бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
   * Если есть более **55** единиц энергии Водоворота и мобы не выйдут из [Землетрясения](https://ru.wowhead.com/spell=61882) в течение **7** секунд.
+  * {:.com-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) стакается сколько угодно раз, их можно кастовать поверх друг друга.
 4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), когда она заменяет [Молнию](https://ru.wowhead.com/spell=188196).
   * {:.com-apl}После каста [Бури](https://ru.wowhead.com/spell=454009) на АоЕ, вы получаете бафф [Дуговой искры](https://www.wowhead.com/ru/spell=455096). Сейчас существует баг, из-за которого [Дуговая искра](https://www.wowhead.com/ru/spell=455096) не увеличивает урон перегрузок, поэтому старайтесь не использовать этот бафф одновременно с [Хранителем бурь](https://ru.wowhead.com/spell=191634).
   * {:.com-apl}Старайтесь выбирать цель без дебаффа от [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), так как [Буря](https://ru.wowhead.com/spell=454009) повесит его на свою основную цель.
