@@ -493,7 +493,7 @@ custom-javascript-list:
 **Данные предметы дают сетовые бонусы:**
 * [Облачение забытого резервуара](https://www.wowhead.com/ru/item=212014)
 * [Завет забытого резервуара](https://www.wowhead.com/ru/item=212012)
-* [Ноэтика забытого резервуара](https://www.wowhead.com/ru/item=212011)
+* [Ноэтика забытого резервуара](https://www.wowhead.com/ru/item=212011).
 * [Саронг забытого резервуара](https://www.wowhead.com/ru/item=212010)
 * [Маршрут забытого резервуара](https://www.wowhead.com/ru/item=212009)
 
@@ -502,6 +502,11 @@ custom-javascript-list:
 * [Ботинки забытого резервуара](https://www.wowhead.com/ru/item=212013)
 * [Объятье забытого резервуара](https://www.wowhead.com/ru/item=212007/)
 * [Туман забытого резервуара](https://www.wowhead.com/ru/item=212006)
+
+<p></p>
+
+Элем Шаман носит сетовые плечи, нагрудник, перчатки и штаны, а шлем стоит заменить на [Рога последнего пира](https://www.wowhead.com/ru/item=212428) с первого босса Неруб'арского Дворца.
+{: class="bordered"}
 
 
 ## Аксессуары
