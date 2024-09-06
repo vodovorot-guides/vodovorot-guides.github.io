@@ -142,7 +142,7 @@ $('button#build_enh_elem_aoe').on('click', function() {
 });
 
 $('button#build_enh_storm_st').on('click', function() {
-    on_build_button_click(this, ["dre", "ic", "sunder", "dw", "pw", "eb"]);
+    on_build_button_click(this, ["dre", "ic", "dw", "eb"]);
     return false;
 });
 
