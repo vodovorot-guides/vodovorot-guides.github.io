@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 description_long: >-
   Здесь вы можете найти актуальную информацию по всем специализациям шамана, а также полезные статьи, новости и многое другое.
 about_author: >
-  Меня зовут [**Amani**](https://twitch.tv/amanizandalari), я являюсь админом крупнейшего русскоязычного Discord-сервера Шаманов WoW [Водоворот](https://discord.gg/8Bag6kT) и пишу гайды с 2018 года.
-  Вместе со своей [командой](https://stormkeeper.ru/info/patrons.html) я занимаюсь написанием приоритетов заклинаний для Simcraft и [Raidbots](https://raidbots.com), а также занимаюсь переводом таких
+  Меня зовут [**Amani**](https://twitch.tv/amanizandalari), я являюсь админом крупнейшего русскоязычного Discord-сервера Шаманов WoW [Водоворот](https://discord.gg/8Bag6kT), офицером гильдии [Гнев Анархии](https://raider.io/guilds/eu/howling-fjord/%D0%93%D0%BD%D0%B5%D0%B2%20%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B8) и пишу гайды с 2018 года.
+  Вместе со своей [командой](https://stormkeeper.ru/info/patrons.html) я занимаюсь написанием приоритетов заклинаний для [Simcraft](https://simulationcraft.org/) и [Raidbots](https://raidbots.com), а также занимаюсь переводом таких
   ресурсов, как [MythicTrap](https://mythictrap.com) и [WoWAnalyzer](https://wowanalyzer.com).
 
 
@@ -33,7 +33,7 @@ about_author: >
   [YouTube](https://youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg). Подписывайтесь!
 
 
-  Поддержать создание контента можно на [Boosty](https://boosty.to/amani) и [Patreon](https://www.patreon.com/amani_vodovorot). Так же вы можете получить различные бонусы, например доступ к Epic аккаунту [Raidbots](https://raidbots.com). Спасибо за вашу поддержку!
+  Поддержать создание контента можно на [Boosty](https://boosty.to/amani) и [Patreon](https://www.patreon.com/amani_vodovorot). Так же вы можете получить различные бонусы, например доступ к моему интерфейсу и Epic аккаунту [Raidbots](https://raidbots.com). Спасибо за вашу поддержку!
 
 locale: ru_RU
 logo: /assets/img/logos/sk_full.png
