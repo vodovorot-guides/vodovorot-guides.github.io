@@ -36,10 +36,10 @@ categories:
 
   - title: Инфо
     subcategories:
-      - title: Изменения в The War Within
+      - title: Изменения в 11.0.5
+        url: /info/tww115.html        
+      - title: Изменения в 11.0.0
         url: /info/tww.html
-      - title: Прокачка в The War Within
-        url: /info/leveling-tww.html
       - title: Сокращения
         url: /info/abbrevs.html
         divided: true
