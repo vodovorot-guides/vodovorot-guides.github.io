@@ -75,11 +75,11 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Bramblethorn Coat](https://www.wowhead.com/spell=324776) applied by [Mistveil Shaper](https://www.wowhead.com/npc=166275).
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Nourish the Forest](https://www.wowhead.com/spell=324914) applied by [Mistveil Tender](https://www.wowhead.com/npc=166299).
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Stimulate Resistance](https://www.wowhead.com/spell=326046) applied by [Spinemaw Staghorn](https://www.wowhead.com/npc=167111).
-* [Hex](https://www.wowhead.com/spell=51514) – can be used on [Illusionary Vulpin](https://www.wowhead.com/npc=165251) on the second boss.
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – can be used to remove [Triple Bite](https://www.wowhead.com/spell=340288) inflicted by [Mistveil Nightblossom](https://www.wowhead.com/npc=173714) (big trash after the first boss).
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – can be used to remove [Poisonous Secretions](https://www.wowhead.com/spell=340304) inflicted by [Mistveil Gorgegullet](https://www.wowhead.com/npc=173720) (big trash after the first boss). Debuff is avoidable.
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – can be used to remove [Debilitating Poison](https://www.wowhead.com/spell=326092) inflicted by [Spinemaw Reaver](https://www.wowhead.com/npc=167116) (trash after the first boss).
 * [Tremor Totem](https://www.wowhead.com/spell=8143) – can be precast to remove [Repulsive Visage](https://www.wowhead.com/spell=328756) inflicted by the first boss ([Ingra Maloch](https://www.wowhead.com/npc=164567)). If you cast it in 1.5s interval before the boss cast (ex. 3s, 1.5s), you will remove fear on the first tick of application.
+* [Earthgrab Totem](https://www.wowhead.com/spell=51485) – can be used on [Illusionary Vulpin](https://www.wowhead.com/npc=165251) on the second boss.
 
 ## The Necrotic Wake
 
