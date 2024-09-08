@@ -151,7 +151,7 @@ image: /assets/img/logos/macros.png
 /cast [@cursor] Землетрясение
 ~~~
 
-* Использование всех необходимых баффов в <span class="lightning">Молниевом</span> билде на одной кнопке, в зависимости от взятых талантов
+* Использование всех необходимых баффов в <span class="lightning">Молниевом</span> билде на одной кнопке, в зависимости от взятых талантов:
 ~~~
 #showtooltip
 /castsequence [known:462757, @player] reset=3 Небесная ярость, Оберег громового удара, Щит молний; [@player] reset=3 Небесная ярость, Щит молний
@@ -164,11 +164,18 @@ image: /assets/img/logos/macros.png
 /cast [@mouseover,harm,exists,nodead][] Первозданная волна
 ~~~
 
-* [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Удар духов стихий](https://ru.wowhead.com/spell=117014/) на одной кнопке.
+* [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Удар духов стихий](https://ru.wowhead.com/spell=117014/) на одной кнопке:
 ~~~
 #showtooltip Удар духов стихий
 /cast Природная стремительность
 /cast [@mouseover,harm,exists,nodead][] Удар духов стихий
+~~~
+
+* [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Молния](https://ru.wowhead.com/spell=188196) в ветке **Вестника шторма**:
+~~~
+#showtooltip
+/cast [known:454009] Природная стремительность
+/cast [@mouseover,harm,exists,nodead][]Молния
 ~~~
 
 * Накладывание дебаффа по фокусу, а если фокус отсутствует – по фрейму босса. Полезно на энкаунтерах, где нужно поддерживать {{ site.data.spells.fs }} на 2 целях, атакуя по приоритету одну из них:
