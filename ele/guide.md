@@ -59,10 +59,9 @@ custom-javascript-list:
 
 ## Видеогайд
 
-
 <p></p>
 
-{% include youtube.html id="3258mMzUBAA" %}
+{% include youtube.html id="9BfM134f_dU" %}
 
 <p></p>
 
