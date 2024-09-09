@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-09-05
+last_update: 2024-09-09
 title: Гайд на Рестор Шамана
 wow: 11.0.2
 toc: true
@@ -76,7 +76,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmx2YmZmZx2YzAsALwM20YZAZGYjZMLjx2MzMTmtFmZaMDzshlZMDGDzyYAAM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmx2YmZmZx2YzAsALwM20YZAZGYjZMLjx2MzMTmtFmZaMDzshlZMDGDzyYAAM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -96,7 +96,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmZ2GzMGLzCMswmZWgBMBzCTgxiZGzyYsNzMzkZbhZmGzwYDLzMzgxwsMGAAD?width=730&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmZ2GzMGLzCMswmZWgBMBzCTgxiZGzyYsNzMzkZbhZmGzwYDLzMzgxwsMGAAD?width=730&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -112,7 +112,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlxgxyswmhF2MzCMgJYWYCMW8AzMzyMjtZmZmMbLmZmGzwYDLzYGMGmlxAAYA?width=730&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlxgxyswmhF2MzCMgJYWYCMW8AzMzyMjtZmZmMbLmZmGzwYDLzYGMGmlxAAYA?width=730&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -140,7 +140,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMzyMWmZmZGsMYAWgFYGbasMgMDsxMzsMmZZmZGZ2WYmpxMjBsMjZsYWGmFGAAD?width=730&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMzyMWmZmZGsMYAWgFYGbasMgMDsxMzsMmZZmZGZ2WYmpxMjBsMjZsYWGmFGAAD?width=730&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -162,7 +162,7 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlZGMWmFWMswmZWgBMBzCTgxCzMzyMzsMzMkZbxMz0YmxAWmxMWMLDzCDAgB?width=730&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlZGMWmFWMswmZWgBMBzCTgxCzMzyMzsMzMkZbxMz0YmxAWmxMWMLDzCDAgB?width=730&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -187,7 +187,8 @@ image: /assets/img/resto_tb2.png
 Следующие способности стоит **кастовать по кулдауну** и поддерживать их максимальный аптайм:
 1. Кастуйте [Целительный ливень](https://ru.wowhead.com/spell=73920) по кулдауну в скопление союзников. Со взятым талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) стоит также задевать [Целительным ливнем](https://ru.wowhead.com/spell=73920) врагов.
 2. Поддерживайте на танке [Щит земли](https://ru.wowhead.com/spell=974), а со взятым талантом [Кружащие стихии](https://www.wowhead.com/ru/spell=383010) – еще и на себе.
-3. Используйте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) как можно чаще, если в ближайшее время вы будете хилить. 
+3. Используйте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) / [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) как можно чаще, если в ближайшее время вы будете хилить. 
+  * [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) отыгрывается крайне просто – просто ставьте его тогда, когда союзники получают урон.
   * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) стоит использовать **после** [Целительного ливня](https://ru.wowhead.com/spell=73920), а не перед ним.
   * Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Первозданная волна](https://www.wowhead.com/ru/spell=375982), [Ливневый дождь](https://www.wowhead.com/ru/spell=207778), [Родник](https://www.wowhead.com/ru/spell=197995/) и [Прилив](https://www.wowhead.com/ru/spell=157154).
   * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) **не** собирает исцеление от других тотемов, например от [Тотема целительного прилива](https://ru.wowhead.com/spell=108280).
