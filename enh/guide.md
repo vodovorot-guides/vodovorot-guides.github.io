@@ -81,7 +81,7 @@ custom-javascript-list:
 
 ## Таланты для Рейда
 
-<span class="fire">**Стихийный**</span> рейдовый билд:
+<span class="fire">**Стихийный**</span> рейдовый билд, одна цель:
 
 <p></p>
 
@@ -100,6 +100,20 @@ custom-javascript-list:
 * После каждой траты стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) не забывайте использовать [Ледяной шок](https://www.wowhead.com/ru/spell=196840), так как он получит увеличенный урон за счет таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195). Однако если вы получили возврат стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) за счет [Суперзаряда](https://www.wowhead.com/ru/spell=455110) или [Статического накопления](https://www.wowhead.com/ru/spell=384411), то трата стаков будет более приоритетна.
 
 
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+
+<span class="fire">**Стихийный**</span> рейдовый билд, с кливом:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMz2MzMGjZYGmFsMjZAAAAAAAAAAsBwYGDDZB2GGawCAmlJDMLMmZGjZmZBLzMTWYZsMmZAAmB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+* Данный билд используется на боссах с аддами, где потребуется дополнительное АоЕ.
 
 <p></p>
 <hr style="height:1px;background-color:#bbb">
