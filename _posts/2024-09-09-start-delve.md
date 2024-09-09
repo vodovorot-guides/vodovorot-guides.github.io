@@ -1,0 +1,90 @@
+---    
+layout: post
+title: Руководство по вылазкам на старте сезона TWW
+wow: 11.0.5
+author: Amani
+description: Основная информация по вылазкам, включая способы фарма, лут, полезные фишки и многое другое.
+image: /assets/img/brann.jpg
+---
+
+<p align="center">
+    <img src="/assets/img/brann.jpg"> 
+</p>
+
+
+
+# Кратко и быстро
+
+1. Не ходите во **Многообещающие вылазки** до открытия **8** уровня, иначе они потеряют статус **Многообещающих**.
+2. Дойти до **8** уровня быстрее всего через фарм [Глубин Так-Ретана](https://www.wowhead.com/ru/zone=15008/), [Водокачки](https://www.wowhead.com/ru/zone=15002/) и [Воронки](https://www.wowhead.com/ru/zone=15175).
+3. После первого прохождения **Многообещающей вылазки** стоит сделать квест [Сияющий отголосок](https://www.wowhead.com/ru/quest=84542/), иначе до его завершения новые отголоски в сундуках падать не будут. Этот квест нужен для фарма дополнительных ключей на вылазки.
+4. Подробная информация – далее в этой статье.
+
+
+ <!--more-->
+
+# Основная информация
+
+1. Сразу после старта сезона нужно открыть вылазки **8** уровня, чтобы получить экипировку **603** уровня предметов. 
+2. Вылазки открываются на аккаунт, вам нужно будет пройти уровни **4-5-6-7** для того, чтобы открыть **8**. Лут выше **8** такой же, как и в **8**.
+3. Для получения **603** ilvl нужно проходить **Многообещающие вылазки**, которые отмечены яркой иконкой двери на карте. В каждой зоне одна такая вылазка, так что максимум вы можете пройти их **4** штуки в день.
+4. Внутри Многообещающих вылазок есть сундук, который открывается [Отреставрированным ключом от сундука](https://www.wowhead.com/ru/item=224172). Не тратьте эти ключи в вылазках до **8** уровня.
+3. **ВАЖНО!** Если вы завершите Многообещающую вылазку **ДО ТОГО**, как откроете её **8** уровня, то она потеряет статус многообещающей! 
+5. Для получения лута и открытия новых уровней вылазок, нужно умирать не более определенного количества раз за вылазку. В **8** уровне – не более **5** раз.
+6. Вылазки можно проходить в пати, в целом это будет легче, чем в соло, особенно с танком и/или хилом.
+7. В вылазке **8** уровня в **5** раз больше здоровья у противников, чем в вылазке **3** уровня. Крайне важно сбивать касты и использовать заклинания контроля, а также не пулить всю комнату сразу.
+
+<p align="center">
+    <img src="/assets/img/delve.jpg"> 
+</p>
+
+
+# Самые легкие вылазки
+
+Автор [этого поста на Reddit](https://www.reddit.com/r/CompetitiveWoW/comments/1fc1ui4/tips_and_tricks_for_bountiful_tier_8_delves_and/) советует проходить следующие вылазки для фарма до **8** уровня:
+1. [Глубины Так-Ретана](https://www.wowhead.com/ru/zone=15008/). Пример прохождения **8** уровня за **~1** минуту [по этой ссылке](https://youtu.be/h2GEonc5QtM).
+2. [Водокачка](https://www.wowhead.com/ru/zone=15002/).
+3. [Воронка](https://www.wowhead.com/ru/zone=15175).
+4. [Покой Кригвала](https://www.wowhead.com/ru/zone=15000).
+5. [Сплетенная Спираль](https://www.wowhead.com/ru/zone=15007/).
+
+
+
+# Лут из вылазок
+
+Таблица лута из вылазок практически соответствует луту за локальные задания. Полный список можно посмотреть [по этой ссылке](https://wowvendor.com/media/wow/tww-delves-loot-table-gear-cosmetics-mounts-and-more/.
+
+# Таланты
+
+Стоить использовать АоЕ билды, при этом на боссах и больших элитных мобов можно спекаться в СТ билд.
+
+
+## Билд Элема для вылазок
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjxwMbMmZMmZGAAAAAsZmFYADYWYCZWAAz20MMstYmZCzMzYwMmx22sMYxMzMDzYGG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+
+## Билд Энха для вылазок
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMzMGzMDzwsglZMAAAAAAAAAAsBwYGDDZB2GGawCAmlJDMLMmZGzMzMLYZmZCWGLjZGAgZA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+## Билд Рестора для вылазок
+
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMzyMWmZmZGsMYGwCsAzYTjlBkZgNmZmlxMLzMzIzGMTjZGzwYxYGLmlhZhBAwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
+
+
+
+
+
+
+
