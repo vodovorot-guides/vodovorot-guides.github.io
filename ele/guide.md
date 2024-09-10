@@ -176,6 +176,8 @@ custom-javascript-list:
 
 
 **Опенер в бою против одной цели:**
+2. {:.ns-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
+  * {:.com-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) не вводит босса в комбат, если вы не начали его атаковать другими заклинаниями. Но он может вызвать прок аксессуаров, имейте это в виду.
 1. {:.ns-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунды до пула.
   * {:.com-apl}Не стоит использовать [Хранитель бурь](https://ru.wowhead.com/spell=191634) до старта боя, из-за таланта [Гнев бурь](https://www.wowhead.com/ru/spell=191717).
 2. {:.ns-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в момент пула.
@@ -185,8 +187,6 @@ custom-javascript-list:
 2. {:.ns-apl .sop-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) для набора энергии Водоворота.
   * {:.com-apl}Энергия Водоворота нужна для получения баффа [Прилива мощи](https://www.wowhead.com/ru/spell=262303/) перед второй [Молнией](https://ru.wowhead.com/spell=188196) с [Хранителем бурь](https://ru.wowhead.com/spell=191634).
   * {:.com-apl}Два каста [Выброса лавы](https://ru.wowhead.com/spell=51505) будут также полезны для прока [Мощи Водоворота](https://www.wowhead.com/ru/spell=191861), что дополнительно усилит последующие [Молнии](https://ru.wowhead.com/spell=188196).
-2. {:.ns-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249).
-  * {:.com-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) вызывается после [Выброса лавы](https://ru.wowhead.com/spell=51505) для того, чтобы не терять время его активности без кастов [Молнии](https://ru.wowhead.com/spell=188196).
 2. {:.ns-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффами от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
   * {:.com-apl}Первая [Молния](https://ru.wowhead.com/spell=188196), усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634), будетс с только одним из баффов, [Властелином стихий](https://www.wowhead.com/ru/spell=16166/), но это лучший вариант её отыгрыша с пула.
 2. {:.ns-apl .sop-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) для набора энергии.
