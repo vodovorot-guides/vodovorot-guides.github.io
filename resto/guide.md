@@ -517,6 +517,10 @@ image: /assets/img/resto_tb2.png
 * [Туман забытого резервуара](https://www.wowhead.com/ru/item=212006)
 
 
+Энх Шаман носит сетовые плечи, шлем, перчатки и нагрудник, а штаны стоит заменить на [Поножи расплавленного дезертира](https://www.wowhead.com/ru/item=212435) с последнего босса Неруб'арского Дворца.
+{: class="bordered"}
+
+
 ## Аксессуары
 
 Полный рейтинг аксессуаров можно найти на [QE Live](https://questionablyepic.com/live/trinkets).
