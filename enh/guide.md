@@ -278,9 +278,9 @@ custom-javascript-list:
 <p></p>
 
 **Приоритет способностей для боя против одной цели:**
-1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 1. [Буря](https://www.wowhead.com/ru/spell=454009/) в момент прока на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
 1. {:.no-dre-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
+1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 1. {:.dre-apl .no-asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
 2. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
