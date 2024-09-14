@@ -47,7 +47,7 @@ author: "Amani, Haelrail, Omeja, Langrim"
 
 # Cell
 
-[Cell](https://www.curseforge.com/wow/addons/cell) – остаточно новый, но Успевший зарекомендовать себя аддон.
+[Cell](https://www.curseforge.com/wow/addons/cell) – остаточно новый, но успевший зарекомендовать себя аддон.
 
 Имеет множество настроек, позволяет [импортировать профили с Wago.io](https://wago.io/cell) без каких-либо проблем (в отличие от VuhDo).
 

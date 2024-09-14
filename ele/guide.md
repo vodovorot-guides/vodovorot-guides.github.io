@@ -176,10 +176,10 @@ custom-javascript-list:
 
 
 **Опенер в бою против одной цели:**
-2. {:.ns-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) за **3** секунды до пула.
-  * {:.com-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) не вводит босса в комбат, если вы не начали его атаковать другими заклинаниями. Но он может вызвать прок аксессуаров, имейте это в виду.
-1. {:.ns-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунды до пула.
-  * {:.com-apl}Не стоит использовать [Хранитель бурь](https://ru.wowhead.com/spell=191634) до старта боя, из-за таланта [Гнев бурь](https://www.wowhead.com/ru/spell=191717).
+1. {:.ns-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) за **3** секунды до пула.
+  * {:.com-apl}Не стоит использовать [Хранитель бурь](https://ru.wowhead.com/spell=191634) задолго до старта боя, из-за таланта [Гнев бурь](https://www.wowhead.com/ru/spell=191717).
+2. {:.ns-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) за **1.5** секунды до пула.
+  * {:.com-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) вводит босса в бой, поэтому стоит вызывать его в момент пула, а не заранее.
 2. {:.ns-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в момент пула.
   * {:.com-apl}[Первозданную волну](https://ru.wowhead.com/spell=375982) стоит использовать в одном макросе со [Стремительностью предков](https://www.wowhead.com/ru/spell=443454/).
 2. {:.ns-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с баффом от [Стремительности предков](https://www.wowhead.com/ru/spell=443454/).
@@ -267,8 +267,8 @@ custom-javascript-list:
 3. [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **3** секунды до пула.
   * {:.com-apl}Не стоит использовать [Хранитель бурь](https://ru.wowhead.com/spell=191634) раньше указанного времени до старта боя, из-за таланта [Гнев бурь](https://www.wowhead.com/ru/spell=191717).
 3. [Элементаль бури](https://ru.wowhead.com/spell=192249) за **1.5** секунды до пула.
-  * {:.com-apl}Может ввести в бой, поэтому не стоит призывать его сильно заранее.
-3. {:.tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
+  * {:.com-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) вводит босса в бой, поэтому стоит вызывать его в момент пула, а не заранее.
+  3. {:.tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
   * {:.com-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) нужна как для наложения [Огненного шока](https://ru.wowhead.com/spell=188389), так и для получения Скорости от [Расколотых стихий](https://www.wowhead.com/ru/spell=382042).
 2. {:.ns-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) вместе со [Стремительностью предков](https://www.wowhead.com/ru/spell=443454/).
   * {:.com-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) нужна как для наложения [Огненного шока](https://ru.wowhead.com/spell=188389), так и для получения Скорости от [Расколотых стихий](https://www.wowhead.com/ru/spell=382042).
