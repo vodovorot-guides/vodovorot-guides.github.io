@@ -44,8 +44,11 @@ custom-javascript-list:
 * [Ветра рока](https://www.wowhead.com/ru/spell=384352) теперь имеют время восстановления **1** минуту вместо **1:30** минут. 
 * Радиус распространения [Огненных шоков](https://ru.wowhead.com/spell=188389) от [Натиска лавы](https://www.wowhead.com/ru/spell=334033/) был увеличен на **4** метра.
 * Радиус поражения [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874) увеличен на **4** метра.
+* [Шаманское наследие](https://www.wowhead.com/ru/spell=384447/) сокращает время восстановления [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533/) на **1** секунду вместо **2** за каждый стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 
+<p></p>
 
+Видео, посвященное изменениям Энха в The War Within:
 
 <p></p>
 
@@ -53,7 +56,6 @@ custom-javascript-list:
 
 <p></p>
 
-## Видеогайды
 
 <p></p>
 
@@ -77,7 +79,11 @@ custom-javascript-list:
 
 В середине ветки расположены усиления [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и основные АоЕ способности – [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) и усиление [Цепной молнии](https://www.wowhead.com/ru/spell=188443/). Эти таланты являются **обязательными** в любом билде для Мифик+, так как без них практически нет нормального АоЕ урона. 
 
-В первом сезоне The War Within лучше себя показывает именно <span class="fire">Стихийный</span> билд, но <span class="lightning">Штормовой</span> не сильно от него отстает и также может давать хорошие результаты.
+В первом сезоне The War Within отлично себя показывает как <span class="fire">Стихийный</span> билд, так и <span class="lightning">Штормовой</span>, в обоих типах PvE контента.
+
+Таланты под каждого босса и каждое подземелье в Мифик+ можно посмотреть на сайте [Archon.gg](https://www.archon.gg/wow/builds/enhancement/shaman/raid/talents/heroic/all-bosses#talents).
+{: class="bordered"}
+
 
 ## Таланты для Рейда
 
@@ -96,9 +102,6 @@ custom-javascript-list:
 * [Первозданную волну](https://ru.wowhead.com/spell=375982) стоит придерживать под выход аддов, если это не сильно отсрочит её использование.
 
 * В данном билде появился самый настоящий **бурст** – прожимное [Перерождение](https://www.wowhead.com/ru/spell=114051/) с кулдауном **3** минуты.
-
-* После каждой траты стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) не забывайте использовать [Ледяной шок](https://www.wowhead.com/ru/spell=196840), так как он получит увеличенный урон за счет таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195). Однако если вы получили возврат стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) за счет [Суперзаряда](https://www.wowhead.com/ru/spell=455110) или [Статического накопления](https://www.wowhead.com/ru/spell=384411), то трата стаков будет более приоритетна.
-
 
 
 <p></p>
@@ -126,7 +129,7 @@ custom-javascript-list:
 
 <p></p> 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCm5BMzMzMzgtZmlZAAAAAAAAAAgFAGzYYILwywQDWAwsMZGMLLmZmZMMzsglZmJwYZMzAAMD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCm5BMzMzMzglZmlZAAAAAAAAAAgFAGzYYILwywQDWAwsMZGMLLmZmZMMzsglZmJwYZMzAAMD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -134,7 +137,7 @@ custom-javascript-list:
 
 * [Удар бури](https://www.wowhead.com/ru/spell=17364) не является основным источником урона, как это было ранее, но он активно нажимается для генерации стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 
-* Данный билд более рандомен, чем <span class="fire">Стихийный</span>, за счет таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/).
+* Данный билд более рандомен, чем <span class="fire">Стихийный</span>, за счет таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/), но при этом он более прост в использовании за счет отсутствия [Удара духов стихий](https://www.wowhead.com/ru/spell=394150/).
 
 
 ## Таланты для Мифик+
@@ -351,10 +354,10 @@ custom-javascript-list:
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) с баффом от [Дуговой искры](https://www.wowhead.com/ru/spell=455097).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051), если [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444/) готово к активации, после применения [Цепной молнии](https://www.wowhead.com/ru/spell=188443).
-2. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если на противниках есть [Огненные шоки](https://ru.wowhead.com/spell=188389)
+2. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если на противниках есть [Огненные шоки](https://ru.wowhead.com/spell=188389).
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время [Ветров рока](https://ru.wowhead.com/spell=384352) или если её бафф не активен.
-3. {:.no-dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) если её бафф не активен.
+3. {:.no-dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если её бафф не активен.
 2. {:.dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
 3. {:.dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 3. {:.lf-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) на цель без дебаффа от [Хлещущего пламени](https://www.wowhead.com/ru/spell=334046).
@@ -533,7 +536,7 @@ custom-javascript-list:
 
 Как можно быстрее получите из рейда **2/4** куска сетового комплекта – [Волны забытого резервуара](https://www.wowhead.com/ru/item-set=1686/). 
 
-* **2 части**: [Удар бури](https://www.wowhead.com/ru/spell=17364), [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), [Ледяной клинок](https://www.wowhead.com/ru/spell=342240) и [Сокрущающей молнии](https://www.wowhead.com/ru/spell=187874) наносят на **15%** больше урона.
+* **2 части**: [Удар бури](https://www.wowhead.com/ru/spell=17364), [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), [Ледяной клинок](https://www.wowhead.com/ru/spell=342240) и [Сокрущающей молнии](https://www.wowhead.com/ru/spell=187874) наносят на **10%** больше урона.
 * **4 части**: Применение [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533/) призывает еще одного [Духа диких зверей](https://www.wowhead.com/ru/spell=51533/).
 <p></p>
 
