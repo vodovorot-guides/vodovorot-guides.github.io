@@ -79,6 +79,7 @@ custom-javascript-list:
 
 ## Таланты для Рейда
 
+**Основной** рейдовый билд:
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -103,6 +104,8 @@ custom-javascript-list:
 
 ## Таланты для Мифик+
 
+**Вестник Шторма** – сильнее АоЕ, слабее урон в боссов:
+
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjxwMbMmZMmZGAAAAAAGzYYgFYb0QjNAwsNNzAbLMmGMzMbDLzYGMLDzyMzMzwMmhB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
@@ -112,13 +115,28 @@ custom-javascript-list:
 * Основной билд для Мифик+ с большим количеством АоЕ.
 * Вспомогательные таланты стоит менять под каждое подземелье, подробная информация в [этой статье](https://stormkeeper.ru/info/utility.html).
 * Для напоминания о смене вспомогательных талантов стоит использовать [эту WA](https://wago.io/hzEzPJxst).
-* В Мифик+ можно также использовать героическую ветку **Предсказателя**, которая лучше себя показывает в невысоких ключах или если нужно больше урона в одну цель.
 
 <p></p>
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
+
+**Предсказатель** – больше урона в боссов, слабее АоЕ:
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQA6DE2ZxOD3n18X41tWLU5RBAAAAAMbzy2MjxwMbMmZMmZGAAAAAsYmtxMzwYyCzy2MN0MLAgZbaGw2CjpBzMz2MWmxMYWGmlZmZmhZMDD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+* Данный билд подойдет для низких ключей, так как позволяет быстрее отыграть [Первозданную волну](https://ru.wowhead.com/spell=375982) за счет [Стремительности предков](https://www.wowhead.com/ru/spell=443454/).
+* Он также будет полезен в том случае, если нужно больше урона в боссов.
+* Вспомогательные таланты стоит менять под каждое подземелье, подробная информация в [этой статье](https://stormkeeper.ru/info/utility.html).
+* Для напоминания о смене вспомогательных талантов стоит использовать [эту WA](https://wago.io/hzEzPJxst).
+
 
 
 # Приоритет заклинаний
