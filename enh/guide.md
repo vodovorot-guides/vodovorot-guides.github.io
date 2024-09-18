@@ -129,7 +129,7 @@ custom-javascript-list:
 
 <p></p> 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCmZMzMzMzglZGzAAAAAAAAAAALAMmxwQWglhhGsAgZZyMYWWMzMzYYmZBLzMTgxyYmBAYG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCmZMzMzMzglZGzAAAAAAAAAAALAMmxwQWglhhGsAgZZyMGzyiZmxYYmZBLzMTgxyYmBAYG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -139,6 +139,17 @@ custom-javascript-list:
 
 * Данный билд более рандомен, чем <span class="fire">Стихийный</span>, за счет таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/), но при этом он более прост в использовании за счет отсутствия [Удара духов стихий](https://www.wowhead.com/ru/spell=394150/).
 
+
+<span class="lightning">**Гибридный**</span> рейдовый билд, бой без аддов:
+
+<p></p> 
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCm5BMzMzMzgtZmlZAAAAAAAAAAgFAGzYYILwywQDWAwsMZGMLLmZmZMMzsglZmJwYZMzAAMD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+* Данный билд является версией <span class="lightning">Штормового</span> билда, но с [Ударом духов стихий](https://www.wowhead.com/ru/spell=394150) и [Духами стихий](https://www.wowhead.com/ru/spell=262624).
+* Этот билд сложнее в исполнении чем обычный <span class="lightning">Штормовой</span> билд, но при правильном отыгрыше наносит больше урона. 
 
 ## Таланты для Мифик+
 
