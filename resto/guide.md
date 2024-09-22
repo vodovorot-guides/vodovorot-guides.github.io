@@ -159,21 +159,13 @@ image: /assets/img/resto_tb2.png
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-### Предсказатель через Быстрину
+### Предсказатель 
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlZGMWmFWMswmZWgBMBzCTgxCzMzyMzsMzMkZbxMz0YmxAWmxMWMLDzCDAgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYMzMzyMz2MzMzwsMYAbmZBGwEMLMBGLMzMLjZ2mZGysBz0YmxMbGLzYGMLDzyYAAM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 <p></p>
-
-
-
-* Очень универсальный билд, но с меньшим количеством АоЕ исцеления.
-
-* Вместо [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) в этом билде мы полагаемся на [Ливневый дождь](https://www.wowhead.com/ru/spell=462486/) и [Первозданную волну](https://www.wowhead.com/ru/spell=428332), а также на отхил отдельных целей с помощью [Исцеляющего всплеска](https://www.wowhead.com/ru/spell=8004) и [Волны исцеления](https://www.wowhead.com/ru/spell=77472).
-
-* В этом билде также можно взять [Живой поток](https://www.wowhead.com/ru/spell=382482/) вместо [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153/), но в контенте высокого уровня стоит иметь именно [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153/), так как это источник контролируемого отхила.
 
 
 
@@ -632,12 +624,6 @@ image: /assets/img/resto_tb2.png
 <p></p>
 ## WeakAuras
 
-Сборки WA на Рестора: 
-* [От Amani](https://wago.io/O0PZkIWy8).
-* [От Omeja](https://wago.io/jUWUuuBOT).
-* [От lordofhatred](https://wago.io/k35PX_sdQ).
-* [От Luxthos](https://wago.io/Hkc9ktj4X).
-* [От Afenar](https://wago.io/rJhu7HoMM).
 
 <p></p>
 
