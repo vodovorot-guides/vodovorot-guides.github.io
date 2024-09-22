@@ -595,7 +595,7 @@ custom-javascript-list:
 * **Наручи**: [Песнь брони и избежания](https://www.wowhead.com/ru/item=223713/)
 * **Ботинки**: [Ход разведчика](https://www.wowhead.com/ru/item=223653/) или [Ход защитника](https://www.wowhead.com/ru/item=223656/).
 * **Эпический самоцвет**: [Профанит апогея](https://www.wowhead.com/ru/item=213743/)
-* **Остальные самоцветы**: [Изумруд смерти](https://www.wowhead.com/ru/item=213479/), [Оникс скорости](https://www.wowhead.com/ru/item=213494), [Сапфир скорости](https://www.wowhead.com/ru/item=213470/) и [Рубин скорости](https://www.wowhead.com/ru/item=213455/) для активации эффекта [Профанита апогея](https://www.wowhead.com/ru/item=213743/). Во все остальные слоты – [Изумруд смерти](https://www.wowhead.com/ru/item=213479/).
+* **Остальные самоцветы**: [Изумруд смерти](https://www.wowhead.com/ru/item=213479/).
 
 
 <hr style="height:1px;background-color:#bbb">
