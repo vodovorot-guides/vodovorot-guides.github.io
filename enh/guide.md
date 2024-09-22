@@ -114,7 +114,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMzMGzMDzwshlZMAAAAAAAAAAsBwYGDDZB2GGawCAmlJDMLMmZGjZmZBLzMTWYZsMmZAAmB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMzMYmZMzwsNsMDAAAAAAAAAAsBwYGDDZBWGGawCAmlJzgZZxMzMjhZmFsMzMBGLjZGAgZA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -129,22 +129,7 @@ custom-javascript-list:
 
 <p></p> 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCmZMzMzMzglZGzAAAAAAAAAAALAMmxwQWglhhGsAgZZyMGzyiZmxYYmZBLzMTgxyYmBAYG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-* В этом билде также самым главным является генерация и трата стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-
-* [Удар бури](https://www.wowhead.com/ru/spell=17364) не является основным источником урона, как это было ранее, но он активно нажимается для генерации стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-
-* Данный билд более рандомен, чем <span class="fire">Стихийный</span>, за счет таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/), но при этом он более прост в использовании за счет отсутствия [Удара духов стихий](https://www.wowhead.com/ru/spell=394150/).
-
-
-<span class="lightning">**Гибридный**</span> рейдовый билд, бой без аддов:
-
-<p></p> 
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCm5BMzMzMzgtZmlZAAAAAAAAAAgFAGzYYILwywQDWAwsMZGMLLmZmZMMzsglZmJwYZMzAAMD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCmhZmZmZGmtZmlZAAAAAAAAAAgNAGzYYILwywQDWAwsMZGMLLmZmZMMzsglZmJwYZMzAAMD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -178,7 +163,7 @@ custom-javascript-list:
 <p></p>
 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzGm5BmZMzYeAmlZmtZMDAAAAAAAAAgFAGzYYILw2wQDWAwsMZgZhxMzYMzMLYZmZyCLjlxMDAgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCmxMzMzYGmlZmlZMAAAAAAAAAAsBwYGDDZB2GGawCAmlJDMLMmZGjZmZBLzMTWYZsMmZAAM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
