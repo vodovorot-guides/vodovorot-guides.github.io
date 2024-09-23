@@ -428,8 +428,7 @@ image: /assets/img/logos/macros.png
 
 * Ставит на землю метку «Череп». Меняйте цифру на конце макроса для других меток:  
 ~~~
-/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
-/click DropDownList1Button1
+/wm [@cursor] 8
 ~~~
 
 * Стереть все метки, поставленные на землю:  

@@ -114,7 +114,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzyMzMYmZMzwsNsMDAAAAAAAAAAsBwYGDDZBWGGawCAmlJzgZZxMzMjhZmFsMzMBGLjZGAgZA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMz2MzMGzMDzwsglZMAAAAAAAAAAsBwYGDDZB2GGawCAmlJDMLMmZGjZmZBLzMTWYZsMmZAAmB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -263,6 +263,7 @@ custom-javascript-list:
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
+2. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) в тот момент, когда [Удар ветра](https://www.wowhead.com/ru/spell=115356) на кулдауне.
 2. {:.dw-apl .no-asc-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время [Ветров рока](https://ru.wowhead.com/spell=384352) при первой возможности.
 2. {:.dw-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Ветров рока](https://ru.wowhead.com/spell=384352) при первой возможности.
 3. [Буря](https://www.wowhead.com/ru/spell=454009/) в момент её прока на максимальном количестве [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
@@ -277,19 +278,19 @@ custom-javascript-list:
 <p></p>
 
 **Приоритет способностей для боя против одной цели:**
-1. [Буря](https://www.wowhead.com/ru/spell=454009/) в момент прока на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
+1. [Буря](https://www.wowhead.com/ru/spell=454009/) в момент прока на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 1. {:.no-dre-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
 1. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 1. {:.dre-apl .no-asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
 2. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
-2. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если есть <span class="fire">огненный</span> или <span class="frost">ледяной</span> [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-3. [Молния](https://www.wowhead.com/ru/spell=188196/) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+1. [Буря](https://www.wowhead.com/ru/spell=454009/) на **6+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+2. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **6+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если активно **4+** [Духов дикого зверя](https://www.wowhead.com/ru/spell=51533).
+3. [Молния](https://www.wowhead.com/ru/spell=188196/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 3. {:.no-dw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если он отсутствует на цели.
 3. {:.hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) во время действия баффа [Горячая рука](https://www.wowhead.com/ru/spell=201900).
-3. [Молния](https://www.wowhead.com/ru/spell=188196/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 3. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 3. {:.hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от [Бури с градом](https://www.wowhead.com/ru/spell=334195).
 3. {:.hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
