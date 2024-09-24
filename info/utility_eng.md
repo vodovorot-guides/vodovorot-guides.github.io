@@ -75,15 +75,15 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Bramblethorn Coat](https://www.wowhead.com/spell=324776) applied by [Mistveil Shaper](https://www.wowhead.com/npc=166275).
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Nourish the Forest](https://www.wowhead.com/spell=324914) applied by [Mistveil Tender](https://www.wowhead.com/npc=166299).
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Stimulate Resistance](https://www.wowhead.com/spell=326046) applied by [Spinemaw Staghorn](https://www.wowhead.com/npc=167111).
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – can be used to remove [Triple Bite](https://www.wowhead.com/spell=340288) inflicted by [Mistveil Nightblossom](https://www.wowhead.com/npc=173714) (big trash after the first boss).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – can be used to remove [Triple Bite](https://www.wowhead.com/spell=340288) inflicted by [Mistveil Nightblossom](https://www.wowhead.com/npc=173714) (big trash after the fisrt boss).
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – can be used to remove [Poisonous Secretions](https://www.wowhead.com/spell=340304) inflicted by [Mistveil Gorgegullet](https://www.wowhead.com/npc=173720) (big trash after the first boss). Debuff is avoidable.
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – can be used to remove [Debilitating Poison](https://www.wowhead.com/spell=326092) inflicted by [Spinemaw Reaver](https://www.wowhead.com/npc=167116) (trash after the first boss).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – can be used to remove [Debilitating Poison](https://www.wowhead.com/spell=326092) inflicted by [Spinemaw Reaver](https://www.wowhead.com/npc=167116) (trash after the second boss).
 * [Tremor Totem](https://www.wowhead.com/spell=8143) – can be precast to remove [Repulsive Visage](https://www.wowhead.com/spell=328756) inflicted by the first boss ([Ingra Maloch](https://www.wowhead.com/npc=164567)). If you cast it in 1.5s interval before the boss cast (ex. 3s, 1.5s), you will remove fear on the first tick of application.
 * [Earthgrab Totem](https://www.wowhead.com/spell=51485) – can be used on [Illusionary Vulpin](https://www.wowhead.com/npc=165251) on the second boss.
 
 ## The Necrotic Wake
 
-* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) - removes [Frozen Binds](https://www.wowhead.com/spell=320788) inflicted by the last boss ([Nalthor the Rimebinder](https://www.wowhead.com/npc=162693)). Make sure no one is in the circle when you remove the debuff.
+* [Spirit Walk](https://www.wowhead.com/spell=58875) - removes [Frozen Binds](https://www.wowhead.com/spell=320788) inflicted by the last boss ([Nalthor the Rimebinder](https://www.wowhead.com/npc=162693)). Make sure no one is in the circle when you remove the debuff.
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Dark Shroud](https://www.wowhead.com/spell=335141) on [Nar'zudah](https://www.wowhead.com/npc=165824) (big trash before the second boss, most routes skip him).
 * [Tremor Totem](https://www.wowhead.com/spell=8143) - can be used to remove [Rasping Scream](https://www.wowhead.com/spell=324293) inflicted by [Skeletal Marauder](https://www.wowhead.com/npc=165919) (trash before the first boss). Also, this cast can be interrupted.
 
@@ -92,6 +92,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Cursed Slash](https://www.wowhead.com/spell=257168) inflicted by [Irontide Curseblade](https://www.wowhead.com/npc=138247).
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Watertight Shell](https://www.wowhead.com/spell=256957) applied by [Irontide Waveshaper](https://www.wowhead.com/npc=144071).
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Bolstering Shout](https://www.wowhead.com/spell=275826) applied by [Ashvane Commander](https://www.wowhead.com/npc=275826).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – can be used to remove [Stinging Venom](https://www.wowhead.com/spell=275836) inflicted by [Ashvane Invader](https://www.wowhead.com/npc=137516) (trash before the third boss).
 
 ## Grim Batol
 
