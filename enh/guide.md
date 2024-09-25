@@ -144,7 +144,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMz2MzMGjZYGmFsMjZAAAAAAAAAAsBwYGDDZB2GGawCAmlJDMLMmZGjZmZBLzMTWYZsMmZAAmB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMz2MzMGjZYGmFsMjZAAAAAAAAAAsBwYGDDZB2GGawCAmlJDYZZMGDmZmlZsMzMZhlxyYmBAYG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -342,16 +342,16 @@ custom-javascript-list:
 **Приоритет способностей в бою против 2+ целей:**
 
 
-1. [Буря](https://www.wowhead.com/ru/spell=454009/) в момент прока на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
+1. [Буря](https://www.wowhead.com/ru/spell=454009/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
 1. {:.no-dre-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
 1. {:.dre-apl .no-asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
 2. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982), при этом старайтесь поглотить её бафф с помощью [Бури](https://www.wowhead.com/ru/spell=454009/).
 3. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) на цель с [Огненным шоком](https://ru.wowhead.com/spell=188389), если под этим дебаффом менее **6** противников.
 3. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051), если в [Воззванию к Ториму](https://www.wowhead.com/ru/spell=384444/) записана [Цепная молния](https://www.wowhead.com/ru/spell=188443).
+1. [Буря](https://www.wowhead.com/ru/spell=454009/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
 3. [Молния](https://www.wowhead.com/ru/spell=188196/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если скоро закончится бафф [Первозданной волны](https://www.wowhead.com/ru/spell=375982).
-4. [Цепная молния](https://www.wowhead.com/ru/spell=188443) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) с баффом от [Дуговой искры](https://www.wowhead.com/ru/spell=455097).
-4. [Цепная молния](https://www.wowhead.com/ru/spell=188443) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051), если [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444/) готово к активации, после применения [Цепной молнии](https://www.wowhead.com/ru/spell=188443).
+4. [Цепная молния](https://www.wowhead.com/ru/spell=188443) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 2. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если на противниках есть [Огненные шоки](https://ru.wowhead.com/spell=188389).
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время [Ветров рока](https://ru.wowhead.com/spell=384352) или если её бафф не активен.
@@ -555,7 +555,7 @@ custom-javascript-list:
 * [Объятье забытого резервуара](https://www.wowhead.com/ru/item=212007/)
 * [Туман забытого резервуара](https://www.wowhead.com/ru/item=212006)
 
-Энх Шаман носит сетовые плечи, шлем, перчатки и штаны, а нагрудник стоит заменить на [Забрызганную кровью мембрану](https://www.wowhead.com/ru/item=21421) со второго босса Неруб'арского Дворца.
+Энх Шаман носит сетовые плечи, шлем, перчатки и штаны, а нагрудник стоит заменить на [Забрызганную кровью мембрану](https://www.wowhead.com/ru/item=212421) со второго босса Неруб'арского Дворца.
 {: class="bordered"}
 
 ## Редкие предметы из рейда
@@ -570,11 +570,11 @@ custom-javascript-list:
 Полный рейтинг аксессуаров можно найти на [Bloodmallet](https://bloodmallet.com/chart/shaman/enhancement/trinkets/castingpatchwerk).
 
 Лучшие аксессуары:
+* [Милость Скардина](https://www.wowhead.com/ru/item=133282/%D0%BC%D0%B8%D0%BB%D0%BE%D1%81%D1%82%D1%8C-%D1%81%D0%BA%D0%B0%D1%80%D0%B4%D0%B8%D0%BD%D0%B0?bonus=657:11143:5878:7981:10299)
 * [Кокон выводка Ара-Кары](https://www.wowhead.com/ru/item=219314/%D0%BA%D0%BE%D0%BA%D0%BE%D0%BD-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0-%D0%B0%D1%80%D0%B0-%D0%BA%D0%B0%D1%80%D1%8B?bonus=657:11143:5878:7981:10299)
 * [Усиливающий кристалл Ануб'иккаджа](https://www.wowhead.com/ru/item=219312/%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9-%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB-%D0%B0%D0%BD%D1%83%D0%B1%D0%B8%D0%BA%D0%BA%D0%B0%D0%B4%D0%B6%D0%B0?bonus=657:11143:5878:7981:10299)
-* [Милость Скардина](https://www.wowhead.com/ru/item=133282/%D0%BC%D0%B8%D0%BB%D0%BE%D1%81%D1%82%D1%8C-%D1%81%D0%BA%D0%B0%D1%80%D0%B4%D0%B8%D0%BD%D0%B0?bonus=657:11143:5878:7981:10299)
-* [Подсвечник быстросвеча](https://www.wowhead.com/ru/item=225649/%D0%BF%D0%BE%D0%B4%D1%81%D0%B2%D0%B5%D1%87%D0%BD%D0%B8%D0%BA-%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%87%D0%B0?bonus=657:11143:5865:10334)
 * [Вероломный передатчик](https://www.wowhead.com/ru/item=221023/%D0%B2%D0%B5%D1%80%D0%BE%D0%BB%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA?bonus=657:11143:5878:7981:10299)
+* [Подсвечник быстросвеча](https://www.wowhead.com/ru/item=225649/%D0%BF%D0%BE%D0%B4%D1%81%D0%B2%D0%B5%D1%87%D0%BD%D0%B8%D0%BA-%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%87%D0%B0?bonus=657:11143:5865:10334)
 * [Переменчивое яйцо Ови'накса](https://www.wowhead.com/ru/item=220305/%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%8F%D0%B9%D1%86%D0%BE-%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0%D0%BA%D1%81%D0%B0?bonus=7981:11143:5878:10299).
 * [Контракт жнеца Бездны](https://www.wowhead.com/ru/item=212456/%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82-%D0%B6%D0%BD%D0%B5%D1%86%D0%B0-%D0%B1%D0%B5%D0%B7%D0%B4%D0%BD%D1%8B?bonus=7981:11143:5878:10299)
 * [Подзорная труба зоркого глаза](https://www.wowhead.com/ru/item=159623/%D0%BF%D0%BE%D0%B4%D0%B7%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%82%D1%80%D1%83%D0%B1%D0%B0-%D0%B7%D0%BE%D1%80%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0?bonus=657:11143:5878:7981:10299)
