@@ -264,7 +264,7 @@ custom-javascript-list:
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
-2. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) в тот момент, когда [Удар ветра](https://www.wowhead.com/ru/spell=115356) на кулдауне.
+2. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) в тот момент, когда [Удар ветра](https://www.wowhead.com/ru/spell=115356) на кулдауне.
 2. {:.dw-apl .no-asc-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время [Ветров рока](https://ru.wowhead.com/spell=384352) при первой возможности.
 2. {:.dw-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Ветров рока](https://ru.wowhead.com/spell=384352) при первой возможности.
 3. [Буря](https://www.wowhead.com/ru/spell=454009/) в момент её прока на максимальном количестве [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
