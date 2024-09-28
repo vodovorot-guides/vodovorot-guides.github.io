@@ -112,11 +112,13 @@ image: /assets/img/logos/macros.png
 #showtooltip Реинкарнация
 ~~~
 
-* Вне боя использует {{ site.data.spells.ressurect }} (для Рестора замените на {{ site.data.spells.mass_res }}), а в бою – инженерский батл-рес в наручах.
+* Вне боя использует {{ site.data.spells.ressurect }} (для Рестора замените на {{ site.data.spells.mass_res }}), а в бою – инженерский батл-рес.
 ~~~
 #showtooltip
-/use [combat] Сложные манжеты; [nocombat] Дух предков
+/use [combat] Сносно работающий кабельный дефибриллятор; [nocombat] Дух предков
 ~~~
+
+
 
 # Стихии
 
@@ -208,12 +210,6 @@ image: /assets/img/logos/macros.png
 * Позволяет вынести [Реинкарнацию](https://www.wowhead.com/ru/spell=20608) на панель заклинаний чтобы следить за временем восстановления:  
 ~~~
 #showtooltip Реинкарнация
-~~~
-
-* Вне боя использует {{ site.data.spells.ressurect }}, а в бою – инженерский батл-рес [Сложные манжеты](https://ru.wowhead.com/item=198332): 
-~~~
-#showtooltip
-/use [combat] Сложные манжеты; [nocombat] Дух предков
 ~~~
 
 * Добавить оповещние в чат об использовании какой-либо способности. Сообщение не будет показано, если способность на КД. Не злоупотребляйте этим макросом! Пример для [Наставления предков](https://ru.wowhead.com/spell=108281):
@@ -320,11 +316,6 @@ image: /assets/img/logos/macros.png
 #showtooltip Реинкарнация
 ~~~
 
-* Вне боя использует {{ site.data.spells.ressurect }}, а в бою – инженерский батл-рес [Сложные манжеты](https://ru.wowhead.com/item=198332): 
-~~~
-#showtooltip
-/use [combat] Сложные манжеты; [nocombat] Дух предков
-~~~
 
 # Исцеление
 
@@ -391,11 +382,7 @@ image: /assets/img/logos/macros.png
 #showtooltip Реинкарнация
 ~~~
 
-* Вне боя использует {{ site.data.spells.ressurect }}, а в бою – инженерский батл-рес [Сложные манжеты](https://ru.wowhead.com/item=198332): 
-~~~
-#showtooltip
-/use [combat] Сложные манжеты; [nocombat] Дух предков
-~~~
+
 
 
 # Универсальные и полезные макросы
