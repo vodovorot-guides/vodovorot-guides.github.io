@@ -262,8 +262,8 @@ custom-javascript-list:
 3. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 3. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для поглощения баффа [Первозданной волны](https://www.wowhead.com/ru/spell=375982).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
-2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
+2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 2. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) в тот момент, когда [Удар ветра](https://www.wowhead.com/ru/spell=115356) на кулдауне.
 2. {:.dw-apl .no-asc-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время [Ветров рока](https://ru.wowhead.com/spell=384352) при первой возможности.
 2. {:.dw-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Ветров рока](https://ru.wowhead.com/spell=384352) при первой возможности.
