@@ -147,7 +147,7 @@ $('button#build_enh_storm_st').on('click', function() {
 });
 
 $('button#build_enh_storm_aoe').on('click', function() {
-    on_build_button_click(this, ["cl", "dre", "fn", "sunder", "dw", "pw"]);
+    on_build_button_click(this, ["cl", "asc", "ic", "hs", "dw", "pw"]);
     return false;
 });
 
