@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-09-05
+last_update: 2024-10-11
 title: Гайд на Элем Шамана
 wow: 11.0.2
 toc: true
@@ -326,6 +326,8 @@ custom-javascript-list:
 5. {:.no-sop-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) в бою против **2** целей.
   * {:.com-apl}На **3** и более целей бафф [Хранителя бурь](https://ru.wowhead.com/spell=191634) стоит тратить уже на [Цепную молния](https://www.wowhead.com/ru/spell=188443).  
 5. {:.sop-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) с баффом от [Прилива мощи](https://www.wowhead.com/ru/spell=262303/) в бою против **6+** целей.
+5. {:.ns-apl}[Земной шок](https://ru.wowhead.com/spell=8042) в бою против **2** целей.
+  * {:.com-apl}За счет таланта [Власть Водоворота](https://www.wowhead.com/ru/spell=443447/) у Предсказателя больше урона в две цели от [Земного шока](https://ru.wowhead.com/spell=8042), чем от [Землетрясения](https://ru.wowhead.com/spell=61882).
 5. [Землетрясение](https://ru.wowhead.com/spell=61882), если выполняется **любое** из условий:
   * {:.no-ns-apl}Если у вас более **130** единиц энергии Водоворота.
   * {:.ns-apl}Если у вас более **155** единиц энергии Водоворота.
