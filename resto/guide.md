@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-09-09
+last_update: 2024-11-10
 title: Гайд на Рестор Шамана
 wow: 11.0.2
 toc: true
@@ -70,17 +70,12 @@ image: /assets/img/resto_tb2.png
 
 ## Таланты для рейда
 
-### Тотемист через Цепное исцеление
-
-
-
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmx2YmZmZx2YzAsALwM20YZAZGYjZMLjx2MzMTmtFmZaMDzshlZMDGDzyYAAM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 
 <p></p>
-
 
 * Основная идея этого билда – позволить таланту [Энергичные тотемы](https://www.wowhead.com/ru/spell=445034) кастовать большую часть [Цепных исцелений](https://www.wowhead.com/ru/spell=1064/), что позволяет экономить ману.
 
@@ -92,41 +87,6 @@ image: /assets/img/resto_tb2.png
 
 * Если вы хотите сменить какие-нибудь таланты и взять вместо них другие, то в первую очередь можно убрать [Оружие жизни земли](https://www.wowhead.com/ru/spell=382021) и [Наводнение](https://www.wowhead.com/ru/spell=200076/).
 
-### Предсказатель через Цепное исцеление
-
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmZ2GzMGLzCMswmZWgBMBzCTgxiZGzyYsNzMzkZbhZmGzwYDLzMzgxwsMGAAD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-
-* Данный билд очень схож с **Тотемистом** через [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/), но его главное отличие в том, что здесь мы гораздо больше кастуем [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/) самостоятельно, не полагаясь на [Энергичные тотемы](https://www.wowhead.com/ru/spell=445034).
-
-* Этот билд довольно маназатратен, поэтому стоит выжимать максимум пользы из [Стремительности предков](https://www.wowhead.com/ru/spell=443454), а также стараться кастовать [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/) только с баффом [Зов предков](https://www.wowhead.com/ru/spell=443450/) или [Прилив](https://www.wowhead.com/ru/spell=157154).
-
-* Если вы хотите сменить какие-нибудь таланты и взять вместо них другие, то в первую очередь можно убрать [Управление потоками](https://www.wowhead.com/ru/spell=404015/) и [Наводнение](https://www.wowhead.com/ru/spell=200076/).
-
-### Предсказатель через Быстрину
-
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmlxgxyswmhF2MzCMgJYWYCMW8AzMzyMjtZmZmMbLmZmGzwYDLzYGMGmlxAAYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-
-* Очень универсальный билд, но с меньшим количеством АоЕ исцеления.
-
-* Вместо [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) в этом билде мы полагаемся на [Ливневый дождь](https://www.wowhead.com/ru/spell=462486/) и [Первозданную волну](https://www.wowhead.com/ru/spell=428332), а также на отхил отдельных целей с помощью [Исцеляющего всплеска](https://www.wowhead.com/ru/spell=8004) и [Волны исцеления](https://www.wowhead.com/ru/spell=77472).
-
-* В этом билде также можно взять [Живой поток](https://www.wowhead.com/ru/spell=382482/) вместо [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153/), но в контенте высокого уровня стоит иметь именно [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153/), так как это источник контролируемого отхила.
-
-* Если вы хотите сменить какие-нибудь таланты и взять вместо них другие, то в первую очередь можно убрать [Управление потоками](https://www.wowhead.com/ru/spell=404015/).
-
-
 
 ## Таланты для Мифик+
 
@@ -134,9 +94,6 @@ image: /assets/img/resto_tb2.png
 {: class="bordered"}
 
 Билды могут отличаться в зависимости аффиксов и подземелья. Подробно про выбор утилити талантов для каждого подземелья можно найти в [этой статье](https://stormkeeper.ru/info/utility.html).
-
-
-### Тотемист через Цепное исцеление
 
 
 <p></p>
@@ -157,14 +114,6 @@ image: /assets/img/resto_tb2.png
 
 
 <hr style="height:1px;background-color:#bbb">
-<p></p>
-
-### Предсказатель 
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYMzMzyMz2MzMzwsMYAbmZBGwEMLMBGLMzMLjZ2mZGysBz0YmxMbGLzYGMLDzyYAAM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
-
 <p></p>
 
 
@@ -208,9 +157,9 @@ image: /assets/img/resto_tb2.png
 
 1. Используйте [Быстрину](https://ru.wowhead.com/spell=61295) для получения двух стаков [Приливных волн](https://www.wowhead.com/ru/spell=51564/).
 2. Используйте [Целительный ливень](https://ru.wowhead.com/spell=73920), но **НЕ** кастуйте сразу же [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), он потребуется чуть позже.
-3. Используйте [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
 4. Устанавливайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153).
 5. Используйте [Наставления предков](https://ru.wowhead.com/spell=108281) и сразу же [Перерождение](https://ru.wowhead.com/spell=114052).
+3. Используйте [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
 6. Используйте [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), поглощая эффект от таланта [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
 7. Используйте [Родник](https://www.wowhead.com/ru/spell=197995/).
 8. Кастуйте два [Цепных исцеления](https://ru.wowhead.com/spell=1064).

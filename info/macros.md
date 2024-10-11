@@ -217,12 +217,6 @@ image: /assets/img/logos/macros.png
 # Совершенствование
 
 
-<p></p>
-
-{% include button.html name="Общие макросы" link="https://stormkeeper.ru/info/macros.html" %}  
-
-<p></p>
-
 * Маусовер макрос для атакующих заклинаний:
 ~~~
 #showtooltip  
