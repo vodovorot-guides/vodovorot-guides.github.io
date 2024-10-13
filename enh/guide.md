@@ -150,7 +150,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMz2MzMGzMDzwsglZMAAAAAAAAAAsBwYGDDZB2GGawCAmlJDYZZMGDmZmlZsMzMZhlxyYmBAYG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMz2MzMGzMDzwshlZMAAAAAAAAAAsBwYGDDZB2GGawCAmlJDYZZMGDmZmlZsMzMZhlxyYmBAYG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -273,7 +273,6 @@ custom-javascript-list:
 2. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389).
 2. {:.lf-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для наложения дебаффа от [Хлещущего пламени](https://www.wowhead.com/ru/spell=334046).
 3. [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-3. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для поглощения баффа [Первозданной волны](https://www.wowhead.com/ru/spell=375982).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
