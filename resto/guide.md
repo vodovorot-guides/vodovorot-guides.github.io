@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-11-10
+last_update: 2024-10-11
 title: Гайд на Рестор Шамана
 wow: 11.0.2
 toc: true
