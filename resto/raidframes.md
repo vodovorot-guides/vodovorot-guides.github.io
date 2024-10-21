@@ -59,6 +59,13 @@ author: "Amani, Haelrail, Omeja, Langrim"
 
 Самый современный и потенциально лучший аддон в данной подборке.
 
+
+<p></p>
+
+{% include youtube.html id="tLRU2j2Cdl0" %}
+
+<p></p>
+
 # ElvUI
 
 
