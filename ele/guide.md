@@ -34,7 +34,7 @@ custom-javascript-list:
 
 ## Изменения в патче 11.0.5
 
-* Основной героической веткой для рейда и Мифик+ теперь является **Вестник Шторма**. 
+* Основной героической веткой для рейда и Мифик+ теперь является <span class="lightning">**Вестника шторма**</span> 
 * **Искусность** теперь является лучшей второстепенной характристикой, как для боя против одной цели, так и для АоЕ.
 * Повышен урон [Выброса лавы](https://ru.wowhead.com/spell=51505), [Землетрясения](https://ru.wowhead.com/spell=61882) и [Удара духов стихий](https://ru.wowhead.com/spell=117014).
 * [Буря](https://ru.wowhead.com/spell=454009) теперь взаимодействует с талантом [Прилив мощи](https://www.wowhead.com/ru/spell=262303), но сам талант был ослаблен – вместо **2** дополнительных проков Перегрузки теперь дается **1**.
@@ -57,16 +57,19 @@ custom-javascript-list:
 
 ## Общая информация
 
-В патче **11.0.5**: Элема играет через ветку **Вестника шторма** – как в рейде, так и в Мифик+.
+В патче **11.0.5** Элем играет через ветку <span class="lightning">**Вестника шторма**</span> – как в рейде, так и в Мифик+.
 
 На прокачке, в вылазках и в открытом мире рекомендуется использовать **Предсказателя**.
 
 
 ## Таланты для Рейда
 
+
+
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+Основной рейдовый билд <span class="lightning">**Вестника шторма**</span>:
 
 <p></p>
 
@@ -86,7 +89,7 @@ custom-javascript-list:
 
 ## Таланты для Мифик+
 
-Билд через [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087), без [Огненных шоков](https://ru.wowhead.com/spell=188389) на АоЕ.
+Билд <span class="lightning">**Вестника шторма**</span> через [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087), без [Огненных шоков](https://ru.wowhead.com/spell=188389) на АоЕ.
 
 <p></p>
 
@@ -137,8 +140,9 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_ele_storm_raid" class="btn btn-primary rotation-btn">Вестник Шторма – билд для рейда</button>
-    <button type="button" id="build_ele_storm_mplus" class="btn btn-primary rotation-btn">Вестник Шторма – билд для Мифик+</button>
+    <button type="button" id="build_ele_storm_raid" class="btn btn-primary rotation-btn">Рейдовый билд</button>
+    <button type="button" id="build_ele_storm_mplus" class="btn btn-primary rotation-btn">Мифик+ через Отголоски Великого Раскола</button>
+        <button type="button" id="build_ele_storm_mplus" class="btn btn-primary rotation-btn">Мифик+ через Огненный шок</button>
   </div>
 </div>
 
@@ -198,7 +202,6 @@ custom-javascript-list:
   * Можно синхронизировать [Элементаля бури](https://ru.wowhead.com/spell=192249) и [Перерождение](https://www.wowhead.com/ru/spell=114050/), придержав использование [Элементаля бури](https://ru.wowhead.com/spell=192249), но следите за общим количеством его использований за бой.
 2. [Хранитель бурь](https://ru.wowhead.com/spell=191634).
 2. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
-  * Второе использование [Перерождения](https://www.wowhead.com/ru/spell=114050/) за бой должно идти под стаки [Тенеты мастера шпионажа](https://www.wowhead.com/ru/item=220202/%D1%82%D0%B5%D0%BD%D0%B5%D1%82%D0%B0-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-%D1%88%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D0%B6%D0%B0?bonus=7981:11143:5878:10299).
   * Придерживайте [Перерождение](https://www.wowhead.com/ru/spell=114050/) таким образом, чтобы перед его использованием набрать больше энергии Водоворота и по возможности подготовить активацию [Бури](https://ru.wowhead.com/spell=454009).
   * Следите за временем боя – лучше сдать на одно [Перерождение](https://www.wowhead.com/ru/spell=114050/) больше, чем застакать [Тенету мастера шпионажа](https://www.wowhead.com/ru/item=220202/%D1%82%D0%B5%D0%BD%D0%B5%D1%82%D0%B0-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-%D1%88%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D0%B6%D0%B0?bonus=7981:11143:5878:10299) и использовать суммарно меньше [Перерождений](https://www.wowhead.com/ru/spell=114050/) за бой.
 3. {:.sop-apl}[Буря](https://ru.wowhead.com/spell=454009) / [Молния](https://ru.wowhead.com/spell=188196) с баффом от таланта [Прилив мощи](https://www.wowhead.com/ru/spell=262303/).
@@ -207,7 +210,7 @@ custom-javascript-list:
 2. {:.pw-apl .sop-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) по кулдауну, если нет баффа от таланта [Прилив мощи](https://www.wowhead.com/ru/spell=262303/).
 2. {:.lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) по кулдауну.
   * Обычно стоит чередовать [Первозданую волну](https://ru.wowhead.com/spell=375982) и [Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) для обновления [Огненного шока](https://ru.wowhead.com/spell=188389).
-  * [Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) не используется в опенере по той же причине – лучше немного оттянуть его использование в самом начале боя для более удобного обновления [Огненного шока](https://ru.wowhead.com/spell=188389).
+  * По этой причине [Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) не используется в опенере – лучше немного оттянуть его применение в самом начале боя для более удобного обновления [Огненного шока](https://ru.wowhead.com/spell=188389).
 3. [Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
 2. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу энергии Водоворота.
 2. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если следующее заклинание приведет к оверкапу энергии Водоворота.
@@ -270,7 +273,7 @@ custom-javascript-list:
 
 * [Перерождение](https://www.wowhead.com/ru/spell=114050) теперь является полноценным бурстом, вокруг которого стоит строить свой геймплей. Старайтесь накопить больше энергии Водоворота перед его использованием, а также подготовить активацию [Бури](https://ru.wowhead.com/spell=454009).
 
-* [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) также стоит использовать именно под [Перерождение](https://www.wowhead.com/ru/spell=114050), не допускайте их рассинхронизации. Старайтесь кастовать [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) сразу же, как он откатится, чтобы его третье использование совпало со вторым [Перерожденим](https://www.wowhead.com/ru/spell=114050).
+* [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) также стоит использовать именно под [Перерождение](https://www.wowhead.com/ru/spell=114050), не допускайте их рассинхронизации. Старайтесь кастовать [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) сразу же, как он откатится, чтобы его четвертое использование совпало со вторым [Перерожденим](https://www.wowhead.com/ru/spell=114050).
 
 * В целом крайне важно максимально синхронизировать бурсты – учитывайте время боя перед активацией [Перерождения](https://www.wowhead.com/ru/spell=114050) и [Элементаля бури](https://ru.wowhead.com/spell=192249).  
 
