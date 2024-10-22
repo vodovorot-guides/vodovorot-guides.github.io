@@ -98,6 +98,8 @@ custom-javascript-list:
 <p></p>
 
 * В данном билде практически не используется [Огненный шок](https://ru.wowhead.com/spell=188389), и основной урон идет за счет [Цепных молний](https://ru.wowhead.com/spell=188443), усиленных талантами [Грозовой разрядник](https://www.wowhead.com/spell=210689) и [Заряженный проводник](https://www.wowhead.com/ru/spell=468625).
+* Для упрощения билда можно заменить [Прилив мощи](https://ru.wowhead.com/spell=262303) на [Повторный толчок](https://www.wowhead.com/ru/spell=273221/), что немного снизит урон в бою против одной цели, но повысит удобство.
+
 
 <p></p>
 
@@ -105,7 +107,7 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Билд через [Первозданную волну](https://ru.wowhead.com/spell=375982) и [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/)
+Билд <span class="lightning">**Вестника шторма**</span> через [Первозданную волну](https://ru.wowhead.com/spell=375982) и [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/):
 
 <p></p>
 
@@ -183,7 +185,6 @@ custom-javascript-list:
 2. [Элементаль бури](https://ru.wowhead.com/spell=192249) за **1.5** секунды до пула.
 2. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в момент пула.
 2. {:.no-pw-apl .lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) в момент пула.
-2. {:.no-pw-apl .no-lmt-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) в момент пула.
 3. [Перерождение](https://www.wowhead.com/ru/spell=114050/).
 4. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 5. Первая [Молния](https://ru.wowhead.com/spell=188196), усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
