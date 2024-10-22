@@ -142,7 +142,7 @@ custom-javascript-list:
   <div class="btn-group" role="group">
     <button type="button" id="build_ele_storm_raid" class="btn btn-primary rotation-btn">Рейдовый билд</button>
     <button type="button" id="build_ele_storm_mplus" class="btn btn-primary rotation-btn">Мифик+ через Отголоски Великого Раскола</button>
-        <button type="button" id="build_ele_storm_mplus" class="btn btn-primary rotation-btn">Мифик+ через Огненный шок</button>
+    <button type="button" id="build_ele_storm_mplus_fire" class="btn btn-primary rotation-btn">Мифик+ через Огненный шок</button>
   </div>
 </div>
 
