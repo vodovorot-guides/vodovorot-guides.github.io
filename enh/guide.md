@@ -360,12 +360,12 @@ custom-javascript-list:
 3. {:.no-dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если её бафф не активен.
 2. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если на противниках есть [Огненные шоки](https://ru.wowhead.com/spell=188389).
 2. {:.dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
+3. {:.vb-apl}[Гальваническое пламя](https://ru.wowhead.com/spell=470053).
 3. {:.dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 3. {:.lf-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) на цель без дебаффа от [Хлещущего пламени](https://www.wowhead.com/ru/spell=334046).
 3. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 3. {:.hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от [Бури с градом](https://www.wowhead.com/ru/spell=334195).
 2. {:.no-dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
-3. {:.vb-apl}[Гальваническое пламя](https://ru.wowhead.com/spell=470053).
 3. {:.no-dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 3. {:.hh-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) или [Огненный шок](https://ru.wowhead.com/spell=188389) в том случае, если другие способности не активны.
 3. {:.no-hh-apl .cl-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/), [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) или [Огненный шок](https://ru.wowhead.com/spell=188389) в том случае, если другие способности не активны.
