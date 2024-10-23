@@ -125,7 +125,7 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_ele_storm_raid" class="btn btn-primary rotation-btn">Рейдовый билд</button>
+    <button type="button" id="build_ele_storm_raid" class="btn btn-primary rotation-btn">Билд для рейда</button>
     <button type="button" id="build_ele_storm_mplus" class="btn btn-primary rotation-btn">Билд для Мифик+</button>
   </div>
 </div>
