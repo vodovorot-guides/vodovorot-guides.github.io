@@ -78,7 +78,7 @@ custom-javascript-list:
 <p></p>
 
 * Для дополнительного клива можно заменить талант [Око бури](https://www.wowhead.com/ru/spell=381708) на [Заряженный проводник](https://www.wowhead.com/ru/spell=468625).
-
+* Вместо [Тотема жидкой магмы](https://ru.wowhead.com/spell=192222) можно взять [Оберег громового удара](https://www.wowhead.com/ru/spell=462757), что повысит удобство билда практически без ущерба для ДПС.
 
 <p></p>
 

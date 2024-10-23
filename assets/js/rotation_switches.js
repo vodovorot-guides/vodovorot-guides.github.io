@@ -112,7 +112,7 @@ function on_build_button_click(button, talent_list) {
 
 
 $('button#build_ele_storm_raid').on('click', function() {
-    on_build_button_click(this, ["eb", "eote", "mote", "pw", "lmt", "ef"]);
+    on_build_button_click(this, ["eb", "eote", "mote", "pw", "ef"]);
     return false;
 });
 
