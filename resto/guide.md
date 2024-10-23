@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2024-10-11
+last_update: 2024-10-23
 title: Гайд на Рестор Шамана
-wow: 11.0.2
+wow: 11.0.5
 toc: true
 author: Amani
 description: Большое руководство по всем аспектам игры за Шамана Исцеления. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и WA и многое другое.
@@ -60,19 +60,11 @@ image: /assets/img/resto_tb2.png
 {: class="bordered"}
 
 
-## Цепное исцеление или Быстрина
-
-На данный момент есть два способа играть Рестор Шаманом, и оба подходят как для рейда, так и для Мифик+.
-
-**Тотемист** лучше сочетается с билдами через [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/), за счет автоматических кастов [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) при установке тотемов. АоЕ отхил особенно хорош при игре за **Тотемиста**, но эта героическая ветка не очень подходит для игры через билд, основанный на [Быстрине](https://www.wowhead.com/ru/spell=61295).
-
-**Предсказатель** гораздо более гибок, и может играться как в билдах через [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/), так и в билдах через [Быстрину](https://www.wowhead.com/ru/spell=61295). Но он всё-таки больше склоняется к билдам через [Быстрину](https://www.wowhead.com/ru/spell=61295), за счет множества поддерживающих этот стиль игры героических талантов. Плюс билды через [Быстрину](https://www.wowhead.com/ru/spell=61295) менее маназатратные, что также хорошо себя показывает в контенте выского уровня.
-
 ## Таланты для рейда
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmx2YmZmZx2YzAsALwM20YZAZGYjZMLjx2MzMTmtFmZaMDzshlZMDGDzyYAAM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmx2YmxMLzyYzAsALwM20YZAZGYDzMLmx2MzMTmtFmZaMDzshlZMDGDzyYAAMM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 
 <p></p>
@@ -84,8 +76,6 @@ image: /assets/img/resto_tb2.png
 * Эти таланты достаточно маназатратны, поэтому стоит внимательно следить за своей маной, так как за счет спама [Цепного исцеления](https://www.wowhead.com/ru/spell=1064/) можно очень быстро высохнуть.
 
 * Чтобы избежать быстрого расхода маны, старайтесь реже кастовать [Цепное исцеление](https://www.wowhead.com/ru/spell=1064/) самостоятельно, и используйте его тогда, когда оно усилено различными талантами, например [Приливом](https://www.wowhead.com/ru/spell=157154).
-
-* Если вы хотите сменить какие-нибудь таланты и взять вместо них другие, то в первую очередь можно убрать [Оружие жизни земли](https://www.wowhead.com/ru/spell=382021) и [Наводнение](https://www.wowhead.com/ru/spell=200076/).
 
 
 ## Таланты для Мифик+

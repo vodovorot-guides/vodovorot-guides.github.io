@@ -40,7 +40,7 @@ custom-javascript-list:
 * [Буря](https://ru.wowhead.com/spell=454009) теперь взаимодействует с талантом [Прилив мощи](https://www.wowhead.com/ru/spell=262303), но сам талант был ослаблен – вместо **2** дополнительных проков Перегрузки теперь дается **1**.
 * Новое [Перерождение](https://www.wowhead.com/ru/spell=114050) является очень сильным бурстом с кулдауном **3** минуты и берется в любом билде.
 * Измененный талант [Вспышка молнии](https://www.wowhead.com/ru/spell=381936) больше не сокращает время восстановления <span class="nature">природных</span> заклинаний. Также был удален талант [Огненная гибель "Усмирителя небес"](https://ru.wowhead.com/spell=378310), сокращающий время восстановления Элементалей.
-* [Элементаль бури](https://www.wowhead.com/ru/spell=192249) теперь не снижает своя время восстановления и увеличивает скорость всех заклинаний, а не только [Молнии](https://ru.wowhead.com/spell=188196) и  [Цепной молнии](https://ru.wowhead.com/spell=188443).
+* [Элементаль бури](https://www.wowhead.com/ru/spell=192249) теперь не снижает свое время восстановления и увеличивает скорость всех заклинаний, а не только [Молнии](https://ru.wowhead.com/spell=188196) и  [Цепной молнии](https://ru.wowhead.com/spell=188443).
 * [Ледяной шок](https://ru.wowhead.com/spell=196840), [Огненный шок](https://ru.wowhead.com/spell=188389) и [Первозданная волна](https://ru.wowhead.com/spell=375982) теперь генерируют **3** единицы энергии Водоворота, а [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222) – **8** единиц энергии Водоворота. При этом удален талант [Поток силы](https://www.wowhead.com/ru/spell=385923/), увеличивавший генерацию Водоворота в бою против одной цели.
 * Новая анимация [Выброса лавы](https://ru.wowhead.com/spell=51505) и [Перерождения](https://www.wowhead.com/ru/spell=114050), а также обновленная иконка [Первозданной волны](https://ru.wowhead.com/spell=375982).
 * Добавлено несколько новых талантов.
@@ -157,6 +157,8 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_eote"> [Эхо стихий](https://ru.wowhead.com/spell=333919)</li>  
   <li markdown="span" class="rotation_switch">
+   <input class="form-check-input" type="checkbox" id="rotation_switch_mote"> [Властелин стихий](https://ru.wowhead.com/spell=16166)</li>  
+  <li markdown="span" class="rotation_switch"> 
     <input class="form-check-input" type="checkbox" id="rotation_switch_pw"> [Первозданная волна](https://www.wowhead.com/ru/spell=375982/)</li>
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_lmt"> [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/)</li>
@@ -213,12 +215,15 @@ custom-javascript-list:
   * Обычно стоит чередовать [Первозданую волну](https://ru.wowhead.com/spell=375982) и [Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) для обновления [Огненного шока](https://ru.wowhead.com/spell=188389).
   * По этой причине [Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) не используется в опенере – лучше немного оттянуть его применение в самом начале боя для более удобного обновления [Огненного шока](https://ru.wowhead.com/spell=188389).
 3. [Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
-2. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу энергии Водоворота.
-2. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если следующее заклинание приведет к оверкапу энергии Водоворота.
+2. {:.eb-apl .mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу энергии Водоворота или если есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+2. {:.eb-apl .no-mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу энергии Водоворота.
+2. {:.no-eb-apl .mote-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если следующее заклинание приведет к оверкапу энергии Водоворота или если есть бафф от таланта [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
+2. {:.no-eb-apl .no-mote-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если следующее заклинание приведет к оверкапу энергии Водоворота.
 4. {:.ef-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816), если поглощены оба баффа от таланта [Слияние стихий](https://www.wowhead.com/ru/spell=462840).
   * Используйте [WA](https://wago.io/HJxL_fG7C) для отслеживания наличия этих баффов.
 5. [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
   * Всегда чередуйте [Выброс лавы](https://ru.wowhead.com/spell=51505) с другой способностью для реализации баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+  * Лучшими вариантами для баффа 
 6. [Буря](https://ru.wowhead.com/spell=454009) / [Молния](https://ru.wowhead.com/spell=188196).
 9. [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
   * {:.ef-apl}Это не ошибка, [Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=462816) имеет меньший приоритет, чем все указанные выше заклинания, включая [Молнию](https://ru.wowhead.com/spell=188196).
@@ -246,14 +251,15 @@ custom-javascript-list:
 2. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в цель без [Огненного шока](https://ru.wowhead.com/spell=188389).
   * {:.sop-apl} С помощью баффа от таланта [Прилив мощи](https://www.wowhead.com/ru/spell=262303/) можно развесисть сразу два [Огненных шока](https://ru.wowhead.com/spell=188389).
 2. {:.lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) для развешивания [Огненных шоков](https://ru.wowhead.com/spell=188389).
-2. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимными аксессуарами и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
+2. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
 3. {:.eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если нет баффа от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
   * Старайтесь кастовать [Земной шок](https://ru.wowhead.com/spell=8042) в цель без дебаффа от [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
-4. [Землетрясение](https://ru.wowhead.com/spell=61882), если на него хватает энергии Водоворота.
+4. [Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота.
   * Перед использованием [Перерождения](https://www.wowhead.com/ru/spell=114050/) стоит накопить больше энергии Водоворота для усиления бурста.
 3. [Буря](https://ru.wowhead.com/spell=454009), если нет баффа от таланта [Дуговая искра](https://www.wowhead.com/ru/spell=455096/).
   * Старайтесь кастовать [Бурю](https://ru.wowhead.com/spell=454009) в цель без дебаффа от [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
 5. {:.pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) для активации баффа от [Первозданной волны](https://ru.wowhead.com/spell=375982).
+4. [Молния](https://ru.wowhead.com/spell=188196) с баффом от таланта [Хранитель бурь](https://ru.wowhead.com/spell=191634), если в бою не более **2** целей.
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 4. {:.ef-apl .no-pw-apl .no-lmt-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) для активации таланта [Слияние стихий](https://www.wowhead.com/ru/spell=462840/).
 4. {:.ef-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816) во время передвижения.
