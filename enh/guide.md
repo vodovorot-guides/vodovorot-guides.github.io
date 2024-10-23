@@ -416,12 +416,25 @@ custom-javascript-list:
 
 ## Приоритет характеристик
 
-Приоритет статов для <span style="color:#f16f25;font-size:1em;">Стихийных</span> и <span class="lightning">Штормовых</span> билдов в СТ и АоЕ:
+Приоритет статов для **Вестника шторма**:
 
 1. **Ловкость** = **Скорость**.
 2. **Искусность**.
 4. **Критический удар**.
 5. **Универсальность**.
+
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Приоритет статов для **Тотемиста**:
+
+1. **Скорость** = **Искусность**.
+2. **Ловкость**.
+4. **Универсальность**.
+5. **Критический удар**.
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -539,7 +552,6 @@ custom-javascript-list:
 * **2 части**: [Удар бури](https://www.wowhead.com/ru/spell=17364), [Вскипание лавы](https://www.wowhead.com/ru/spell=60103), [Ледяной клинок](https://www.wowhead.com/ru/spell=342240) и [Сокрущающей молнии](https://www.wowhead.com/ru/spell=187874) наносят на **10%** больше урона.
 * **4 части**: Применение [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533/) призывает еще одного [Духа диких зверей](https://www.wowhead.com/ru/spell=51533/).
 <p></p>
-
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
