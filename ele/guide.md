@@ -73,12 +73,12 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz2yMjZGzysMzMgZmZAAAAAAYzMG2gFYGN0YDAMbTzAz2CzMNmZmZglZmZwsMYZMGMmZ2YA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz2yMjZGzysMzMgZmZAAAAAAYzMG2gFYGN0YDAMbTzAz2CzMNmZmZglZmZwsMYZMGMjZ2YA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
 * Для дополнительного клива можно заменить талант [Око бури](https://www.wowhead.com/ru/spell=381708) на [Заряженный проводник](https://www.wowhead.com/ru/spell=468625).
-* Вместо [Тотема жидкой магмы](https://ru.wowhead.com/spell=192222) можно взять [Оберег громового удара](https://www.wowhead.com/ru/spell=462757), что повысит удобство билда практически без ущерба для ДПС.
+* Вместо [Оберег громового удара](https://www.wowhead.com/ru/spell=462757) можно взять [Тотем жидкой магмы](https://ru.wowhead.com/spell=192222), что практически не повлияет на ДПС в бою против одной цели, но даст дополнительный клив урон.
 
 <p></p>
 
