@@ -234,8 +234,10 @@ custom-javascript-list:
   * {:.sop-apl} С помощью баффа от таланта [Прилив мощи](https://www.wowhead.com/ru/spell=262303/) можно развесисть сразу два [Огненных шока](https://ru.wowhead.com/spell=188389).
 2. {:.lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) для развешивания [Огненных шоков](https://ru.wowhead.com/spell=188389).
 2. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
-3. {:.eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если нет баффа от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
+3. {:.eogs-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если нет баффа от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
   * Старайтесь кастовать [Земной шок](https://ru.wowhead.com/spell=8042) в цель без дебаффа от [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
+3. {:.eogs-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если нет баффа от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
+  * Старайтесь кастовать [Удар духов стихий](https://ru.wowhead.com/spell=117014) в цель без дебаффа от [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
 4. [Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота.
   * Перед использованием [Перерождения](https://www.wowhead.com/ru/spell=114050/) стоит накопить больше энергии Водоворота для усиления бурста.
 3. [Буря](https://ru.wowhead.com/spell=454009), если нет баффа от таланта [Дуговая искра](https://www.wowhead.com/ru/spell=455096/).
