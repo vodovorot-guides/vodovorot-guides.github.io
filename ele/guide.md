@@ -169,7 +169,7 @@ custom-javascript-list:
 2. [Элементаль бури](https://ru.wowhead.com/spell=192249) за **1.5** секунды до пула.
 2. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в момент пула.
 2. {:.no-pw-apl .lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) в момент пула.
-3. [Перерождение](https://www.wowhead.com/ru/spell=114050/).
+3. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
 4. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 5. Первая [Молния](https://ru.wowhead.com/spell=188196), усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 4. {:.eote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
