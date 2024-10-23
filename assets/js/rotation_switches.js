@@ -127,7 +127,7 @@ $('button#build_ele_storm_mplus_fire').on('click', function() {
 });
 
 $('button#build_enh_storm_st').on('click', function() {
-    on_build_button_click(this, ["asc", "ic", "fn", "dw", "pw", "ma", "eb", "vb", "tempest"]);
+    on_build_button_click(this, ["asc", "ic", "hs", "dw", "pw", "ma", "eb", "vb", "tempest"]);
     return false;
 });
 
