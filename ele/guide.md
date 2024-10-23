@@ -101,24 +101,7 @@ custom-javascript-list:
 * Для упрощения билда можно заменить [Прилив мощи](https://ru.wowhead.com/spell=262303) на [Повторный толчок](https://www.wowhead.com/ru/spell=273221/), что немного снизит урон в бою против одной цели, но повысит удобство.
 
 
-<p></p>
 
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-Билд <span class="lightning">Вестника шторма</span> через [Первозданную волну](https://ru.wowhead.com/spell=375982) и [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/):
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMzMzYWmtxMgZmZAAAAAAYzMG2gFYGN0YDAMbTzA2WYMNYmZ2mxyMzMYWGsMzYwYmZjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-* Данный билд рассчитан на активное использование [Огненных шоков](https://ru.wowhead.com/spell=188389) на всех доступных целях для реализации [Первозданной волны](https://ru.wowhead.com/spell=375982).
-
-
-<p></p>
 
 
 
@@ -143,8 +126,7 @@ custom-javascript-list:
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
     <button type="button" id="build_ele_storm_raid" class="btn btn-primary rotation-btn">Рейдовый билд</button>
-    <button type="button" id="build_ele_storm_mplus" class="btn btn-primary rotation-btn">Мифик+ через Отголоски Великого Раскола</button>
-    <button type="button" id="build_ele_storm_mplus_fire" class="btn btn-primary rotation-btn">Мифик+ через Огненный шок</button>
+    <button type="button" id="build_ele_storm_mplus" class="btn btn-primary rotation-btn">Билд для Мифик+</button>
   </div>
 </div>
 
