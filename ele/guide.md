@@ -244,9 +244,9 @@ custom-javascript-list:
   * Старайтесь кастовать [Бурю](https://ru.wowhead.com/spell=454009) в цель без дебаффа от [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
 5. {:.pw-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) для активации баффа от [Первозданной волны](https://ru.wowhead.com/spell=375982).
 4. {:.ef-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816), если поглощены оба баффа от таланта [Слияние стихий](https://www.wowhead.com/ru/spell=462840).
+4. {:.ef-apl .no-pw-apl .no-lmt-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) для активации таланта [Слияние стихий](https://www.wowhead.com/ru/spell=462840/).
 4. [Молния](https://ru.wowhead.com/spell=188196) с баффом от таланта [Хранитель бурь](https://ru.wowhead.com/spell=191634), если в бою не более **2** целей.
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
-4. {:.ef-apl .no-pw-apl .no-lmt-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) для активации таланта [Слияние стихий](https://www.wowhead.com/ru/spell=462840/).
 4. {:.ef-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816) во время передвижения.
 9. [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 
