@@ -81,8 +81,6 @@ custom-javascript-list:
 * Вместо [Оберег громового удара](https://www.wowhead.com/ru/spell=462757) можно взять [Тотем жидкой магмы](https://ru.wowhead.com/spell=192222), что практически не повлияет на ДПС в бою против одной цели, но даст дополнительный клив урон.
 
 <p></p>
-
-
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
@@ -99,6 +97,26 @@ custom-javascript-list:
 
 * В данном билде практически не используется [Огненный шок](https://ru.wowhead.com/spell=188389), и основной урон идет за счет [Цепных молний](https://ru.wowhead.com/spell=188443), усиленных талантами [Грозовой разрядник](https://www.wowhead.com/spell=210689) и [Заряженный проводник](https://www.wowhead.com/ru/spell=468625).
 * Для упрощения билда можно заменить [Прилив мощи](https://ru.wowhead.com/spell=262303) на [Повторный толчок](https://www.wowhead.com/ru/spell=273221/), что немного снизит урон в бою против одной цели, но повысит удобство.
+
+
+
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+Билд <span class="lightning">Вестника шторма</span> через [Первозданную волну](https://www.wowhead.com/ru/spell=375982/) и  [Тотем жидкой магмы](https://www.wowhead.com/ru/spell=192222/)
+
+
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MzMGzitZMwMzMDAAAAAAbmxwGsAzohGbAgZbaGw2CjpBzMz2MWmZmBzyglZGjxYmZjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+<p></p>
+
 
 
 
