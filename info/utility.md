@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2024-08-20
+last_update: 2024-10-28
 title: Выбор утилити талантов для Мифик+
-wow: 11.0.2
+wow: 11.0.5
 toc: true
 author: Nikyou
 description: Из этой статьи вы узнаете, в какие подземелья стоит выбирать различные вспомогательные способности из классового древа талантов.
@@ -51,13 +51,14 @@ WA с напоминанием о взятии нужных талантов –
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый заряд](https://www.wowhead.com/ru/spell=436322) с танка который накладывает [Атик](https://www.wowhead.com/ru/npc=217533).
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый плевок](https://www.wowhead.com/ru/spell=438618) который накладывает [Разъевшийся ползун](https://www.wowhead.com/ru/npc=214840).
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Отвратительный залп](https://www.wowhead.com/ru/spell=448248) который накладывает [Окровавленный маг паутины](https://www.wowhead.com/ru/npc=223253).
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый залп](https://www.wowhead.com/ru/spell=433841) который накладывает [Blood Overseer](https://www.wowhead.com/ru/npc=216364) на последнем боссе ([Ки'катал Жница](https://www.wowhead.com/ru/npc=215407))
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый залп](https://www.wowhead.com/ru/spell=433841) который накладывает [Кровавый надсмотрщик](https://www.wowhead.com/ru/npc=216364) на последнем боссе ([Ки'катал Жница](https://www.wowhead.com/ru/npc=215407))
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Культивированные яды](https://www.wowhead.com/ru/spell=461487) который накладывает последний босс ([Ки'катал Жница](https://www.wowhead.com/ru/npc=215407)). **Важно!** Убедитель что все разошлись перед снятием!
 
 ## Город Нитей
 
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый удар](https://www.wowhead.com/ru/spell=443397) который накладывает [Sureki Venomblade](https://www.wowhead.com/ru/npc=220193).
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Брызги яда](https://www.wowhead.com/ru/spell=434137) который накладывает [Royal Venomshell](https://www.wowhead.com/ru/npc=220730).
+* [Тотем ветряного порыва](https://www.wowhead.com/ru/spell=192077) вместе с [Реактивная струя](https://www.wowhead.com/ru/spell=462817) - снимает [Теневое плетение](https://www.wowhead.com/ru/spell=439324) который накладывает последний босс и треш перед ним.
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый удар](https://www.wowhead.com/ru/spell=443397) который накладывает [Суреки-ядошип](https://www.wowhead.com/ru/npc=220193).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Брызги яда](https://www.wowhead.com/ru/spell=434137) который накладывает [Королевский бронеяд](https://www.wowhead.com/ru/npc=220730).
 
 ## Каменный Свод
 
