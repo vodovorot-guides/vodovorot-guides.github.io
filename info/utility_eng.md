@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2024-08-20
+last_update: 2024-10-28
 title: Utility talents selection for Mythic+
-wow: 11.0.2
+wow: 11.0.5
 toc: true
 author: Nikyou
 description: In this article, you will learn which utility abilities to choose from the class talent tree for different dungeons.
@@ -56,6 +56,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 ## City of Threads
 
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Umbral Weave](https://www.wowhead.com/spell=439324) during the last boss fight and trash before it.
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Venom Strike](https://www.wowhead.com/spell=443397) inflicted by [Sureki Venomblade](https://www.wowhead.com/npc=220193).
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Venomous Spray](https://www.wowhead.com/spell=434137) inflicted by [Royal Venomshell](https://www.wowhead.com/npc=220730).
 
