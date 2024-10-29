@@ -114,7 +114,7 @@ custom-javascript-list:
 
 <p></p> 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMjZYmZmhZZmZZbMDAAAAAAAAAgNA2MjhNYBmhhGMAYWmMgFmZmZYGzsNjlZMNLsMMmZAAmxA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMjZYmZmhZZmZZbMDAAAAAAAAAgNA2MjhNyCMDDNYBAzykBswMzMDzYmtZsMjpZhlhxMDAwMG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -129,7 +129,7 @@ custom-javascript-list:
 
 
 
-<span class="lightning">**Штормовой**</span> билд для Мифик+ с талантом [Кольцо огня](https://www.wowhead.com/ru/spell=333974)
+<span class="lightning">**Штормовой**</span> билд для Мифик+ с [Кольцом огня](https://www.wowhead.com/ru/spell=333974)
 
 <p></p> 
 
