@@ -225,7 +225,7 @@ custom-javascript-list:
   * {:.mote-apl}Всегда чередуйте [Выброс лавы](https://ru.wowhead.com/spell=51505) с другой способностью для реализации баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
   * {:.eb-apl .mote-apl}Лучшими вариантами для баффа являются [Удар духов стихий](https://ru.wowhead.com/spell=117014), [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Буря](https://ru.wowhead.com/spell=454009).
   * {:.no-eb-apl}Лучшими вариантами для баффа являются [Земной шок](https://ru.wowhead.com/spell=8042), [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Буря](https://ru.wowhead.com/spell=454009).
-6. [Буря](https://ru.wowhead.com/spell=454009) / [Молния](https://ru.wowhead.com/spell=188196).
+6. [Молния](https://ru.wowhead.com/spell=188196).
 9. [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
   * {:.ef-apl}Это не ошибка, [Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=462816) имеет меньший приоритет, чем все указанные выше заклинания, включая [Молнию](https://ru.wowhead.com/spell=188196).
 
