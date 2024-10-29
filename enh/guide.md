@@ -129,7 +129,7 @@ custom-javascript-list:
 
 
 
-<span class="lightning">**Штормовой**</span> билд для Мифик+ с талантом [Ледяной клинок](https://www.wowhead.com/ru/spell=342240)
+<span class="lightning">**Штормовой**</span> билд для Мифик+ с талантом [Кольцо огня](https://www.wowhead.com/ru/spell=333974)
 
 <p></p> 
 
@@ -176,7 +176,7 @@ custom-javascript-list:
   <div class="btn-group" role="group">
     <button type="button" id="build_enh_storm_st" class="btn btn-primary rotation-btn">Билд для рейда</button>
     <button type="button" id="build_enh_storm_aoe" class="btn btn-primary rotation-btn">Билд для Мифик+ (Раскол)</button>
-    <button type="button" id="build_enh_storm_aoe_alt" class="btn btn-primary rotation-btn">Билд для Мифик+ (Ледяной клинок) </button>
+    <button type="button" id="build_enh_storm_aoe_alt" class="btn btn-primary rotation-btn">Билд для Мифик+ (Кольцо огня) </button>
   </div>
 </div>
 
