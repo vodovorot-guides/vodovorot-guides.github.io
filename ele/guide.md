@@ -223,8 +223,6 @@ custom-javascript-list:
   * Используйте [WA](https://wago.io/HJxL_fG7C) для отслеживания наличия этих баффов.
 5. [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
   * {:.mote-apl}Всегда чередуйте [Выброс лавы](https://ru.wowhead.com/spell=51505) с другой способностью для реализации баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-  * {:.eb-apl .mote-apl}Приоритет заклиананий для баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) следующей: [Удар духов стихий](https://ru.wowhead.com/spell=117014), [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Буря](https://ru.wowhead.com/spell=454009).
-  * {:.no-eb-apl}Лучшими вариантами для баффа являются [Земной шок](https://ru.wowhead.com/spell=8042), [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Буря](https://ru.wowhead.com/spell=454009).
 6. [Молния](https://ru.wowhead.com/spell=188196).
 9. [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
   * {:.ef-apl}Это не ошибка, [Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=462816) имеет меньший приоритет, чем все указанные выше заклинания, включая [Молнию](https://ru.wowhead.com/spell=188196).
@@ -291,6 +289,10 @@ custom-javascript-list:
 * В целом крайне важно максимально синхронизировать бурсты – учитывайте время боя перед активацией [Перерождения](https://www.wowhead.com/ru/spell=114050) и [Элементаля бури](https://ru.wowhead.com/spell=192249).  
 
 * [Выброс лавы](https://ru.wowhead.com/spell=51505) в бою против одной цели кастуется практически по кулдауну, но всегда чередуйте его с другой способностью, чтобы реализовывать талант [Властелин стихий](https://www.wowhead.com/ru/spell=16166/). На АоЕ он нужен только для активации баффа от [Первозданной волны](https://ru.wowhead.com/spell=375982).
+
+* Лучшими вариантами для баффа талантом [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) являются [Удар духов стихий](https://ru.wowhead.com/spell=117014) / [Земной шок](https://ru.wowhead.com/spell=8042), [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Буря](https://ru.wowhead.com/spell=454009).
+
+* Если вы отыгрываете бафф таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/), то следите за проком [Бури](https://ru.wowhead.com/spell=454009) и количеством зарядов этой способнлости, чтобы не перезаписать их.
 
 * [Ледяной шок](https://ru.wowhead.com/spell=196840), даже с баффом от [Ледяной ярости](https://ru.wowhead.com/spell=210714), используется **только** во время передвижения, а не как часть активной ротации. Однако сама [Ледяная ярость](https://ru.wowhead.com/spell=210714) используется гораздо чаще, за счет таланта [Слияние стихий](https://www.wowhead.com/ru/spell=462840).
 
