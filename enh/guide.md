@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-10-23
+last_update: 2024-10-29
 title: Гайд на Энх Шамана
 wow: 11.0.5
 toc: true
@@ -60,9 +60,7 @@ custom-javascript-list:
 ## Общая информация
 
 
-**Важно!** В связи с большим количеством багов и непроверенной информации на PTR билды находятся в подвешенном состоянии и могут меняться в течение ближайших недель. В данном гайде будут указаны основные билды, которые играются в данный момент, полный список можно найти в [гайде от Wordup](https://www.wowhead.com/guide/classes/shaman/enhancement/talent-builds-pve-dps).
 
-В связи с изменениями многих талантов, [Удар духов стихий](https://www.wowhead.com/ru/spell=394150) утратил часть своей эффективности и теперь берется далеко не в каждом билде.
 
 Таланты под каждого босса и каждое подземелье в Мифик+ можно посмотреть на сайте [Archon.gg](https://www.archon.gg/wow/builds/enhancement/shaman/raid/talents/heroic/all-bosses#talents).
 {: class="bordered"}
@@ -72,7 +70,7 @@ custom-javascript-list:
 
 
 
-**Вестник шторма** – <span class="lightning">**Штормовой**</span> рейдовый билд, бой без аддов:
+<span class="lightning">**Штормовой**</span> рейдовый билд, бой без аддов:
 
 <p></p> 
 
@@ -87,7 +85,7 @@ custom-javascript-list:
 
 
 
-**Вестник шторма** – <span class="lightning">**Штормовой**</span> рейдовый билд, с кливом:
+<span class="lightning">**Штормовой**</span> рейдовый билд, с кливом:
 
 <p></p>
 
@@ -104,17 +102,6 @@ custom-javascript-list:
 
 
 
-**Тотемист** – <span class="lightning">**Штормовой**</span> рейдовый билд, бой без аддов:
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzAMzYsNzMzglZGbz2MAAAAAAAAAA2gFYBmxmGbDgZC2AwsMZGYZxMzMDjZmlhlZmJwYZMzAAMzMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-* Потенциально является лучшим билдом для боя против одной цели, но требует тестирования.
-
-
 
 
 
@@ -123,8 +110,26 @@ custom-javascript-list:
 
 
 
+<span class="lightning">**Штормовой**</span> билд для Мифик+ с [Расколом](https://www.wowhead.com/ru/spell=197214)  
 
-<span class="lightning">**Штормовой**</span> билд для Мифик+
+<p></p> 
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMjZYmZmhZZmZZbMDAAAAAAAAAgNA2MjhNYBmhhGMAYWmMgFmZmZYGzsNjlZMNLsMMmZAAmxA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+
+
+
+
+<span class="lightning">**Штормовой**</span> билд для Мифик+ с талантом [Буря с градом](https://www.wowhead.com/ru/spell=334195)
 
 <p></p> 
 
@@ -134,26 +139,10 @@ custom-javascript-list:
 
 
 
-<p></p>
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-
-
-<span class="fire">**Стихийный**</span> билд для Мифик+:
-
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMz2MzMGjZMzwsMssMGAAAAAAAAAA2AYzMG2ILwMM0gFAMLTGwCjZmhZmZWGWmZmswyYZMzAAMDA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
-
-<p></p>
 
 <p></p>
 <hr style="height:1px;background-color:#bbb">
 <p></p>
-
 
 
 # Приоритет способностей
@@ -185,10 +174,9 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_enh_storm_st" class="btn btn-primary rotation-btn">Вестник шторма (СТ)</button>
-    <button type="button" id="build_enh_storm_aoe" class="btn btn-primary rotation-btn">Вестник шторма (АоЕ, шторм)</button>
-    <button type="button" id="build_enh_storm_aoe_elem" class="btn btn-primary rotation-btn">Вестник шторма (АоЕ, стихийный)</button>
-    <button type="button" id="build_enh_totemic_st" class="btn btn-primary rotation-btn">Тотемист (СТ)</button>
+    <button type="button" id="build_enh_storm_st" class="btn btn-primary rotation-btn">Билд для рейда</button>
+    <button type="button" id="build_enh_storm_aoe" class="btn btn-primary rotation-btn">Билд для Мифик+ (Раскол)</button>
+    <button type="button" id="build_enh_storm_aoe_alt" class="btn btn-primary rotation-btn">Билд для Мифик+ (Буря с градом) </button>
   </div>
 </div>
 

@@ -132,19 +132,15 @@ $('button#build_enh_storm_st').on('click', function() {
 });
 
 $('button#build_enh_storm_aoe').on('click', function() {
+    on_build_button_click(this, ["cl", "asc", "sunder", "dw", "pw", "ma", "vb", "tempest"]);
+    return false;
+});
+
+$('button#build_enh_storm_aoe_alt').on('click', function() {
     on_build_button_click(this, ["cl", "asc", "ic", "fn", "dw", "pw", "ma", "vb", "tempest"]);
     return false;
 });
 
-$('button#build_enh_storm_aoe_elem').on('click', function() {
-    on_build_button_click(this, ["cl", "asc", "fn", "pw", "ma", "hh", "lf", "tempest"]);
-    return false;
-});
-
-$('button#build_enh_totemic_st').on('click', function() {
-    on_build_button_click(this, ["cl", "asc", "ic", "sunder", "dw", "fs", "vb", "us"]);
-    return false;
-});
 
 
 
