@@ -120,10 +120,6 @@ custom-javascript-list:
 
 
 
-
-
-
-
 # Приоритет заклинаний
 
 
@@ -191,6 +187,7 @@ custom-javascript-list:
 4. [Выброс лавы](https://ru.wowhead.com/spell=51505).
 5. Первая [Молния](https://ru.wowhead.com/spell=188196), усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 4. {:.eote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
+2. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
 5. Вторая [Молния](https://ru.wowhead.com/spell=188196), усиленная [Хранителем бурь](https://ru.wowhead.com/spell=191634).
 4. {:.ef-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816) в случае прока, в любой момент опенера.
 6. {:.sop-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042).
