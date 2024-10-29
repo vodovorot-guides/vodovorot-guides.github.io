@@ -222,8 +222,8 @@ custom-javascript-list:
 4. {:.ef-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816), если поглощены оба баффа от таланта [Слияние стихий](https://www.wowhead.com/ru/spell=462840).
   * Используйте [WA](https://wago.io/HJxL_fG7C) для отслеживания наличия этих баффов.
 5. [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
-  * Всегда чередуйте [Выброс лавы](https://ru.wowhead.com/spell=51505) с другой способностью для реализации баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-  * {:.eb-apl}Лучшими вариантами для баффа являются [Удар духов стихий](https://ru.wowhead.com/spell=117014), [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Буря](https://ru.wowhead.com/spell=454009).
+  * {:.mote-apl}Всегда чередуйте [Выброс лавы](https://ru.wowhead.com/spell=51505) с другой способностью для реализации баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+  * {:.eb-apl .mote-apl}Лучшими вариантами для баффа являются [Удар духов стихий](https://ru.wowhead.com/spell=117014), [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Буря](https://ru.wowhead.com/spell=454009).
   * {:.no-eb-apl}Лучшими вариантами для баффа являются [Земной шок](https://ru.wowhead.com/spell=8042), [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) и [Буря](https://ru.wowhead.com/spell=454009).
 6. [Буря](https://ru.wowhead.com/spell=454009) / [Молния](https://ru.wowhead.com/spell=188196).
 9. [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
