@@ -129,7 +129,7 @@ custom-javascript-list:
 
 
 
-<span class="lightning">**Штормовой**</span> билд для Мифик+ с талантом [Буря с градом](https://www.wowhead.com/ru/spell=334195)
+<span class="lightning">**Штормовой**</span> билд для Мифик+ с талантом [Ледяной клинок](https://www.wowhead.com/ru/spell=342240)
 
 <p></p> 
 
