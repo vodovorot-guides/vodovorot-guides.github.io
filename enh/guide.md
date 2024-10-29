@@ -176,7 +176,7 @@ custom-javascript-list:
   <div class="btn-group" role="group">
     <button type="button" id="build_enh_storm_st" class="btn btn-primary rotation-btn">Билд для рейда</button>
     <button type="button" id="build_enh_storm_aoe" class="btn btn-primary rotation-btn">Билд для Мифик+ (Раскол)</button>
-    <button type="button" id="build_enh_storm_aoe_alt" class="btn btn-primary rotation-btn">Билд для Мифик+ (Буря с градом) </button>
+    <button type="button" id="build_enh_storm_aoe_alt" class="btn btn-primary rotation-btn">Билд для Мифик+ (Ледяной клинок) </button>
   </div>
 </div>
 
