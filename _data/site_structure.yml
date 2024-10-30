@@ -4,24 +4,18 @@ categories:
     subcategories:
       - title: Гайд на Элем Шамана
         url: /ele/guide.html
-      - title: Способности и таланты
-        url: /ele/spells.html
 
   - title: Энх
     url: /enh/guide.html
     subcategories:
       - title: Гайд на Энх Шамана
         url: /enh/guide.html
-      - title: Способности и таланты
-        url: /enh/spells.html
         
   - title: Рестор
     url: /resto/guide.html
     subcategories:
       - title: Гайд на Рестор Шамана
         url: /resto/guide.html
-      - title: Способности и таланты
-        url: /resto/spells.html
       - title: Рейдовые фреймы
         url: /resto/raidframes.html
         divided: true
