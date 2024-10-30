@@ -113,7 +113,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MzMGzitZMwMzMDAAAAAAbmxwGsAzohGbAgZbaGw2CjpBzMz2MWmZmBzyglZGjxYmZjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MzMGzysMzMgZmZAAAAAAYzMG2gFYGN0YDAMbTzA2WYMNYmZ2mxyMzMYWGsMzYwYmZjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
