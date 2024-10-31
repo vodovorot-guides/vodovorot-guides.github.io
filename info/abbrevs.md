@@ -168,11 +168,11 @@ image: /assets/img/logos/abbrevs.png
 * [Вечные стихии](https://www.wowhead.com/ru/spell=462867) - Everlasting Elements.
 * [Пламя Котла](https://www.wowhead.com/ru/spell=378266) – Flames of the Cauldron.
 * [Око бури](https://www.wowhead.com/ru/spell=381708) – Eye of the Storm.
-* [Оберег громового удара](https://www.wowhead.com/ru/spell=462757) - Thunderstrike Ward.
+* [Оберег громового удара](https://www.wowhead.com/ru/spell=462757) - Thunderstrike Ward, Вард, Чарка на щит.
 * [Камера эхо](https://www.wowhead.com/ru/spell=382032) – Echo Chamber.
 * [Жгучее пламя](https://www.wowhead.com/ru/spell=381782) – Searing Flames.
 * [Возмущение земли](https://www.wowhead.com/ru/spell=170374) - Earthen Rage.
-* [Равновесие стихий](https://www.wowhead.com/ru/spell=378271) – Elemental Equilibrium.
+* [Равновесие стихий](https://www.wowhead.com/ru/spell=378271) – Elemental Equilibrium, Эквилибриум.
 * {{ site.data.spells.asc_ele }} – Ascendance, Asc, Асц, Мужик.
 * {{ site.data.spells.sk }} – Stormkeeper, SK, Keeper, СК, Штормкипер, Кипер, ХБ (не стоит).
 * [Эхо элементаля](https://www.wowhead.com/ru/spell=462864) - Echo of the Elementals, Мини Элементали
