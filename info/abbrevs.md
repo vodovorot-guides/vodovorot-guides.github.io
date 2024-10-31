@@ -184,11 +184,11 @@ image: /assets/img/logos/abbrevs.png
 * [Огненная гибель "Усмирителя небес"](https://www.wowhead.com/ru/spell=378310) – Skybreaker's Fiery Demise, Скайбрейкер.
 * [Магматическая камера](https://www.wowhead.com/ru/spell=381932) – Magma Chamber.
 * [Расколотые стихии](https://www.wowhead.com/ru/spell=382042) – Splintered Elements.
-* [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087) – Echoes of Great Sundering.
+* [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087) – Echoes of Great Sundering, EoGS, Еогс, Эогс.
 * [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270) – Deeply Rooted Elements, DRE, ДРЕ, Корни, Казино.
-* [Грозовой разрядник](https://www.wowhead.com/ru/spell=210689) – Lightning Rod, Разрядник.
+* [Грозовой разрядник](https://www.wowhead.com/ru/spell=210689) – Lightning Rod, LR, Разрядник, ЛР, Род.
 * {{ site.data.spells.primal_elem }} – Primal Elementalist, Primal, PE, Примал, Усиленные элемы.
-* {{ site.data.spells.lmt }} – Liquid Magma Totem, LM2T, ЛМТ, Тотем магмы.
+* {{ site.data.spells.lmt }} – Liquid Magma Totem, LMT, ЛМТ, Тотем магмы.
 
 # Совершенствование
 
