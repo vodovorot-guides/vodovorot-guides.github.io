@@ -620,7 +620,7 @@ custom-javascript-list:
 * **Наручи**: [Песнь брони и избежания](https://www.wowhead.com/ru/item=223713/)
 * **Ботинки**: [Ход разведчика](https://www.wowhead.com/ru/item=223653/) или [Ход защитника](https://www.wowhead.com/ru/item=223656/).
 * **Эпический самоцвет**: [Профанит апогея](https://www.wowhead.com/ru/item=213743/)
-* **Остальные самоцветы**: [Изумруд искусности](https://www.wowhead.com/ru/item=213482/)
+* **Остальные самоцветы**: [Изумруд искусности](https://www.wowhead.com/ru/item=213482/). [Симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
