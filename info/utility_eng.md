@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-10-28
+last_update: 2024-11-02
 title: Utility talents selection for Mythic+
 wow: 11.0.5
 toc: true
@@ -23,12 +23,12 @@ The main utility abilities in the class talent tree:
 * [Ancestral Guidance](https://www.wowhead.com/spell=108281) – extremely strong healing talent, especially on AoE bursts.
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – useful ability in certain dungeons.
 * [Purge](https://www.wowhead.com/spell=370/) – useful ability in certain dungeons.
-* [Hex](https://www.wowhead.com/spell=51514) – rarely used.
+* [Hex](https://www.wowhead.com/spell=51514) – very rarely used in dungeons.
 * [Wind Rush Totem](https://www.wowhead.com/spell=192077) – situational talent, allows you to save time between packs.
 * [Capacitor Totem](https://www.wowhead.com/spell=192058) – an AoE stun, a very useful talent in all dungeons.
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – useful ability in certain dungeons.
-* [Tremor Totem](https://www.wowhead.com/spell=8143) – almost useless talent, as all fear, mind control, and sleep effects in dungeons can be avoided by interrupting casts or leaving the affected area.
-* [Earthgrab Totem](https://www.wowhead.com/spell=51485) – not very useful talent that replaces [Earthbind Totem](https://www.wowhead.com/spell=2484)..
+* [Tremor Totem](https://www.wowhead.com/spell=8143) – situational talent, as almost all fear, mind control, and sleep effects in dungeons can be avoided by interrupting casts or leaving the affected area.
+* [Earthgrab Totem](https://www.wowhead.com/spell=51485) – an upgrade to [Earthbind Totem](https://www.wowhead.com/spell=2484) that roots targets the first time they are affected by the totem.
 
 WA reminder to take the right talents for the dungeon – [link](https://wago.io/hzEzPJxst).
 {: class="bordered"}
@@ -48,6 +48,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 ## Ara-Kara, City of Echoes
 
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Grasping Slash](https://www.wowhead.com/spell=433785) from tank on trash before the last boss fight.
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Poison Bolt](https://www.wowhead.com/spell=436322) from tank inflicted by [Atik](https://www.wowhead.com/npc=217533).
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Venomous Spit](https://www.wowhead.com/spell=438618) inflicted by [Engorged Crawler](https://www.wowhead.com/npc=214840).
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Revolting Volley](https://www.wowhead.com/spell=448248) inflicted by [Bloodstained Webmage](https://www.wowhead.com/npc=223253).
@@ -56,7 +57,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 ## City of Threads
 
-* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Umbral Weave](https://www.wowhead.com/spell=439324) during the last boss fight and trash before it.
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Ice Sickles](https://www.wowhead.com/spell=440238) from all players affected by the totem during the second boss fight ([Vx](https://www.wowhead.com/npc=216649)).
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Venom Strike](https://www.wowhead.com/spell=443397) inflicted by [Sureki Venomblade](https://www.wowhead.com/npc=220193).
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Venomous Spray](https://www.wowhead.com/spell=434137) inflicted by [Royal Venomshell](https://www.wowhead.com/npc=220730).
 
