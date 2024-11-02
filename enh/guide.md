@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-10-29
+last_update: 2024-11-02
 title: Гайд на Энх Шамана
 wow: 11.0.5
 toc: true
@@ -301,25 +301,28 @@ custom-javascript-list:
 <div id="aoe" markdown="1" style="display:none;">
 
 **Опенер в бою против 2+ целей:**
+3. {:.no-tempest-apl .no-fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+1. {:.no-tempest-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
+1. {:.no-tempest-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) для поглощения баффа от таланта [Бушующая земля](https://www.wowhead.com/ru/spell=453406/).
+1. {:.no-tempest-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) для получения баффа.
+
 1. {:.no-pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели.
 2. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для наложения [Огненного шока](https://ru.wowhead.com/spell=188389).
 3. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на цель без дебаффа, если в бою **6+** целей.
-2. {:.cl-apl .no-dw-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) для получения баффа.
-2. {:.ma-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для развешивания [Огненного шока](https://ru.wowhead.com/spell=188389).
-3. {:.no-fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-3. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974) для генерации стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-3. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для поглощения баффа [Первозданной волны](https://www.wowhead.com/ru/spell=375982).
-3. {:.asc-apl}Наберите **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и используйте [Цепную молнию](https://www.wowhead.com/ru/spell=188443) для активации [Воззвания к Ториму](https://www.wowhead.com/ru/spell=384444/).
-2. {:.no-dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
+2. {:.ma-apl .no-tempest-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для развешивания [Огненного шока](https://ru.wowhead.com/spell=188389).
+3. {:.tempest-apl}Следующие заклинания для набора энергии для прока [Бури](https://www.wowhead.com/ru/spell=454009/):
+  * {:.cl-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) / [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+  * {:.no-cl-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+  * [Цепная молния](https://www.wowhead.com/ru/spell=188443) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+  * При получении прока [Бури](https://www.wowhead.com/ru/spell=454009/), переходите к следующему пункту.
+3. {:.tempest-apl .no-fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+3. {:.tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации [Первозданной волны].(https://www.wowhead.com/ru/spell=375982).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
-2. {:.cl-apl .dw-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время [Ветров рока](https://ru.wowhead.com/spell=384352).
-2. {:.dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/) во время [Ветров рока](https://ru.wowhead.com/spell=384352).
-3. {:.no-asc-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации [Воззвания к Ториму](https://www.wowhead.com/ru/spell=384444/).
-3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ([Удар бури](https://www.wowhead.com/ru/spell=17364) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
-2. {:.dw-apl .no-asc-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время [Ветров рока](https://ru.wowhead.com/spell=384352) при первой возможности.
-2. {:.dw-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Ветров рока](https://ru.wowhead.com/spell=384352) при первой возможности.
-3. [Буря](https://www.wowhead.com/ru/spell=454009/) в момент её прока на максимальном количестве [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну.
+1. {:.sunder-apl .no-tempest-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации [Земляного импульса](https://www.wowhead.com/ru/spell=455590).
+4. {:.asc-apl .tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если [Удар ветра](https://www.wowhead.com/ru/spell=115356) на кулдауне.
+4. {:.asc-apl .tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) при **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) в момент прока.
 1. Продолжайте обычную ротацию, указанную ниже.
 
 
@@ -333,29 +336,38 @@ custom-javascript-list:
 1. {:.sunder-apl .asc-apl .no-tempest-apl}[Раскол](https://www.wowhead.com/ru/spell=197214), если активны [Перерождение](https://ru.wowhead.com/spell=114051) и [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
 1. {:.no-fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 1. {:.no-tempest-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
-1. {:.tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
+  * Сразу же поглощайте бафф от таланта [Бущующий ветер](https://www.wowhead.com/ru/spell=453409) с помощью [Удара ветра](https://www.wowhead.com/ru/spell=115356) или [Молнии](https://www.wowhead.com/ru/spell=188196/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+1. {:.tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
 1. {:.no-dre-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
 1. {:.dre-apl .no-asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
 2. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982), при этом старайтесь поглотить её бафф с помощью [Бури](https://www.wowhead.com/ru/spell=454009/).
-2. [Огненный шок](https://ru.wowhead.com/spell=188389), если нет ни одного активного дебаффа.
+2. {:.tempest-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если нет ни одного активного дебаффа.
 3. {:.ma-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) на цель с [Огненным шоком](https://ru.wowhead.com/spell=188389), если под этим дебаффом менее **6** противников.
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051), если в [Воззванию к Ториму](https://www.wowhead.com/ru/spell=384444/) записана [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 1. {:.sunder-apl .no-tempest-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации [Земляного импульса](https://www.wowhead.com/ru/spell=455590).
 1. {:.tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
+2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если скоро закончится бафф [Первозданной волны](https://www.wowhead.com/ru/spell=375982).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время [Ветров рока](https://ru.wowhead.com/spell=384352) или если её бафф не активен.
 3. {:.no-dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если её бафф не активен.
-2. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если на противниках есть [Огненные шоки](https://ru.wowhead.com/spell=188389).
-2. {:.dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
-3. {:.vb-apl}[Гальваническое пламя](https://ru.wowhead.com/spell=470053).
-3. {:.dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 3. {:.lf-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) на цель без дебаффа от [Хлещущего пламени](https://www.wowhead.com/ru/spell=334046).
+3. [Удар бури](https://www.wowhead.com/ru/spell=17364).
+3. {:.vb-apl}[Гальваническое пламя](https://ru.wowhead.com/spell=470053).
+3. {:.cl-apl .fs-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+4. {:.fs-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+2. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если на противниках есть [Огненные шоки](https://ru.wowhead.com/spell=188389).
 3. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
+2. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
+3. {:.cl-apl .no-fs-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+4. {:.no-fs-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+3. {:.no-hh-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) или [Огненный шок](https://ru.wowhead.com/spell=188389) в том случае, если другие способности не активны.
+3. {:.hh-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) или [Огненный шок](https://ru.wowhead.com/spell=188389) в том случае, если другие способности не активны.
+
+
+
+3. {:.lf-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) на цель без дебаффа от [Хлещущего пламени](https://www.wowhead.com/ru/spell=334046).
 3. {:.hs-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от [Бури с градом](https://www.wowhead.com/ru/spell=334195).
-2. {:.no-dw-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
-3. {:.no-dre-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 3. {:.hh-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) или [Огненный шок](https://ru.wowhead.com/spell=188389) в том случае, если другие способности не активны.
 3. {:.no-hh-apl .cl-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/), [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), [Ледяной шок](https://www.wowhead.com/ru/spell=196840/) или [Огненный шок](https://ru.wowhead.com/spell=188389) в том случае, если другие способности не активны.
 3. {:.hh-apl .no-cl-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) или [Огненный шок](https://ru.wowhead.com/spell=188389) в том случае, если другие способности не активны.
