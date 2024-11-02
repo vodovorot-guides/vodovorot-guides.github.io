@@ -316,7 +316,7 @@ custom-javascript-list:
   * [Цепная молния](https://www.wowhead.com/ru/spell=188443) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
   * При получении прока [Бури](https://www.wowhead.com/ru/spell=454009/), переходите к следующему пункту.
 3. {:.tempest-apl .no-fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-3. {:.tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации [Первозданной волны].(https://www.wowhead.com/ru/spell=375982).
+3. {:.tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации [Первозданной волны](https://www.wowhead.com/ru/spell=375982).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну.
