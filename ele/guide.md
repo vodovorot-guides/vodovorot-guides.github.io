@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-10-22
+last_update: 2024-11-03
 title: Гайд на Элем Шамана
 wow: 11.0.5
 toc: true
@@ -211,6 +211,7 @@ custom-javascript-list:
   * Обычно стоит чередовать [Первозданую волну](https://ru.wowhead.com/spell=375982) и [Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) для обновления [Огненного шока](https://ru.wowhead.com/spell=188389).
   * По этой причине [Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) не используется в опенере – лучше немного оттянуть его применение в самом начале боя для более удобного обновления [Огненного шока](https://ru.wowhead.com/spell=188389).
 3. [Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
+4. [Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087), если цель простоит всё время действия дебаффа.
 2. {:.eb-apl .mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу энергии Водоворота или если есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 2. {:.eb-apl .no-mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу энергии Водоворота.
 2. {:.no-eb-apl .mote-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если следующее заклинание приведет к оверкапу энергии Водоворота или если есть бафф от таланта [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
@@ -249,6 +250,7 @@ custom-javascript-list:
 2. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
 3. {:.eogs-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если нет баффа от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
   * Старайтесь кастовать [Земной шок](https://ru.wowhead.com/spell=8042) в цель без дебаффа от [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
+3. {:.no-eogs-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если в бою не более **3** целей.
 3. {:.eogs-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если нет баффа от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
   * Старайтесь кастовать [Удар духов стихий](https://ru.wowhead.com/spell=117014) в цель без дебаффа от [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
 4. [Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота.
