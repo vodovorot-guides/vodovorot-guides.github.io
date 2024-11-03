@@ -339,7 +339,9 @@ custom-javascript-list:
   * Сразу же поглощайте бафф от таланта [Бущующий ветер](https://www.wowhead.com/ru/spell=453409) с помощью [Удара ветра](https://www.wowhead.com/ru/spell=115356) или [Молнии](https://www.wowhead.com/ru/spell=188196/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 1. {:.tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
 1. {:.no-dre-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
+  *  Меняйте цели под каждый [Удар ветра](https://www.wowhead.com/ru/spell=115356), чтобы развешивать на целях дебафф [Грозового разрядника](https://www.wowhead.com/ru/spell=455123) за счет [Цепной молнии](https://www.wowhead.com/ru/spell=188443).
 1. {:.dre-apl .no-asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
+  *  Меняйте цели под каждый [Удар ветра](https://www.wowhead.com/ru/spell=115356), чтобы развешивать на целях дебафф [Грозового разрядника](https://www.wowhead.com/ru/spell=455123) за счет [Цепной молнии](https://www.wowhead.com/ru/spell=188443).
 2. {:.tempest-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если нет ни одного активного дебаффа.
 3. {:.ma-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) на цель с [Огненным шоком](https://ru.wowhead.com/spell=188389), если под этим дебаффом менее **6** противников.
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051), если в [Воззванию к Ториму](https://www.wowhead.com/ru/spell=384444/) записана [Цепная молния](https://www.wowhead.com/ru/spell=188443).
