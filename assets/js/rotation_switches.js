@@ -117,7 +117,7 @@ $('button#build_ele_storm_raid').on('click', function() {
 });
 
 $('button#build_ele_storm_mplus').on('click', function() {
-    on_build_button_click(this, ["sop", "eote", "mote", "ef", "eogs"]);
+    on_build_button_click(this, ["eote", "mote", "ef", "eogs"]);
     return false;
 });
 
