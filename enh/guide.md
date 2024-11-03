@@ -350,6 +350,7 @@ custom-javascript-list:
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если скоро закончится бафф [Первозданной волны](https://www.wowhead.com/ru/spell=375982).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+ *  Меняйте цель под каждую [Цепную молнию](https://www.wowhead.com/ru/spell=188443), чтобы развешивать на целях дебафф [Грозового разрядника](https://www.wowhead.com/ru/spell=455123).
 3. {:.dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) во время [Ветров рока](https://ru.wowhead.com/spell=384352) или если её бафф не активен.
 3. {:.no-dw-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если её бафф не активен.
 3. {:.lf-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) на цель без дебаффа от [Хлещущего пламени](https://www.wowhead.com/ru/spell=334046).
@@ -357,6 +358,7 @@ custom-javascript-list:
 3. {:.vb-apl}[Гальваническое пламя](https://ru.wowhead.com/spell=470053).
 3. {:.cl-apl .fs-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 4. {:.fs-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+ *  Меняйте цель под каждую [Цепную молнию](https://www.wowhead.com/ru/spell=188443), чтобы развешивать на целях дебафф [Грозового разрядника](https://www.wowhead.com/ru/spell=455123).
 2. {:.fn-apl}[Кольцо огня](https://www.wowhead.com/ru/spell=333974), если на противниках есть [Огненные шоки](https://ru.wowhead.com/spell=188389).
 3. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 2. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
