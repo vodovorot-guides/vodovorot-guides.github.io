@@ -42,6 +42,18 @@ image: /assets/img/logos/macros.png
 /cast [@mouseover,harm,exists,nodead][] Огненный шок
 ~~~
 
+* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.purge }} и [Очищение духа](https://ru.wowhead.com/spell=51886):
+~~~
+#showtooltip 
+/use [@mouseover,nodead,harm] Развеивание магии;[@mouseover,nodead,help] Очищение духа;[@target,nodead,harm] Развеивание магии;[@target,nodead,help][@player] Очищение духа
+~~~
+
+* Макрос, ограничивающий автоматический выбор таргета в случае нажатия без выбранной цели или маусовера:
+~~~
+#showtooltip  
+/cast [@mouseover,harm,exists,nodead][@target] Огненный шок
+~~~
+
 * Маусовер макрос для лечащих заклинаний. Можно использовать для таких заклинаний, как {{ site.data.spells.hs }}, {{ site.data.spells.cleance }} и других:  
 ~~~
 #showtooltip 
@@ -123,23 +135,7 @@ image: /assets/img/logos/macros.png
 # Стихии
 
 
-* Маусовер макрос для атакующих заклинаний:
-~~~
-#showtooltip  
-/cast [@mouseover,harm,exists,nodead][] Огненный шок
-~~~
 
-* Маусовер макрос для лечащих заклинаний:
-~~~
-#showtooltip 
-/cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
-~~~
-
-* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.purge }} и [Очищение духа](https://ru.wowhead.com/spell=51886):
-~~~
-#showtooltip 
-/use [@mouseover,nodead,harm] Развеивание магии;[@mouseover,nodead,help] Очищение духа;[@target,nodead,harm] Развеивание магии;[@target,nodead,help][@player] Очищение духа
-~~~
 
 * Данный макрос позволяет кастовать {{ site.data.spells.quake }} сразу на место под курсором, избавляя от лишнего клика мышкой:  
 ~~~
@@ -217,31 +213,7 @@ image: /assets/img/logos/macros.png
 # Совершенствование
 
 
-* Маусовер макрос для атакующих заклинаний:
-~~~
-#showtooltip  
-/cast [@mouseover,harm,exists,nodead][] Огненный шок
-~~~
-
-* Маусовер макрос для лечащих заклинаний:
-~~~
-#showtooltip 
-/cast [@mouseover,noharm,exists] [@target,noharm,exists] [@player] Исцеляющий всплеск
-~~~
-
-* Маусовер макрос, который позволяет назначить на одну кнопку два действия – для врага и для союзника. Можно использовать на {{ site.data.spells.purge }} и [Очищение духа](https://ru.wowhead.com/spell=51886):
-~~~
-#showtooltip 
-/use [@mouseover,nodead,harm] Развеивание магии;[@mouseover,nodead,help] Очищение духа;[@target,nodead,harm] Развеивание магии;[@target,nodead,help][@player] Очищение духа
-~~~
-
-* Макрос для [Первозданной волны](https://www.wowhead.com/ru/spell=375982) по маусоверу, чтобы она кастовалась только во врагов, а не союзников:
-~~~
-#showtooltip Первозданная волна
-/cast [@mouseover,harm,exists,nodead][@target,harm,exists,nodead] Первозданная волна
-~~~
-
-* Макрос для [Ледяного клинка](https://www.wowhead.com/ru/spell=342240/) и [Кольца огня](https://www.wowhead.com/ru/spell=333974/) на одной кнопке:
+* Макрос для [Ледяного клинка](https://www.wowhead.com/ru/spell=342240/) и [Кольца огня](https://www.wowhead.com/ru/spell=333974/) на одной кнопке. Работает только в том случае, если выбран **один** из талантов, и не выбран второй:
 ~~~
 #showtooltip
 /cast [known: 470194] Ледяной клинок; [known: 333974] Кольцо огня
