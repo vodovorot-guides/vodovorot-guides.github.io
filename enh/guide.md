@@ -346,7 +346,6 @@ custom-javascript-list:
 3. {:.ma-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) на цель с [Огненным шоком](https://ru.wowhead.com/spell=188389), если под этим дебаффом менее **6** противников.
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051), если в [Воззванию к Ториму](https://www.wowhead.com/ru/spell=384444/) записана [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 1. {:.sunder-apl .no-tempest-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации [Земляного импульса](https://www.wowhead.com/ru/spell=455590).
-1. {:.tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.pw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если скоро закончится бафф [Первозданной волны](https://www.wowhead.com/ru/spell=375982).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
