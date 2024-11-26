@@ -111,33 +111,33 @@ function on_build_button_click(button, talent_list) {
 }
 
 
-$('button#build_ele_storm_raid').on('click', function() {
+$('button#build_ele_storm_raid_fs').on('click', function() {
     on_build_button_click(this, ["eb", "eote", "mote", "pw", "ef"]);
     return false;
 });
 
+$('button#build_ele_storm_raid_sb').on('click', function() {
+    on_build_button_click(this, ["tempest", "eb", "eote", "mote", "pw", "ef"]);
+    return false;
+});
+
 $('button#build_ele_storm_mplus').on('click', function() {
-    on_build_button_click(this, ["eote", "mote", "ef", "eogs"]);
+    on_build_button_click(this, ["tempest", "eb", "eote", "mote", "pw", "lmt", "ef", "eogs"]);
     return false;
 });
 
-$('button#build_ele_storm_mplus_fire').on('click', function() {
-    on_build_button_click(this, ["sop", "eote", "mote", "pw", "lmt", "ef"]);
-    return false;
-});
-
-$('button#build_enh_storm_st').on('click', function() {
+$('button#build_enh_storm_sb').on('click', function() {
     on_build_button_click(this, ["asc", "ic", "hs", "dw", "pw", "ma", "eb", "vb", "tempest"]);
+    return false;
+});
+
+$('button#build_enh_storm_totem').on('click', function() {
+    on_build_button_click(this, ["cl", "asc", "sunder", "dw", "fs", "vb", "us"]);
     return false;
 });
 
 $('button#build_enh_storm_aoe').on('click', function() {
     on_build_button_click(this, ["cl", "asc", "sunder", "dw", "pw", "ma", "vb", "tempest"]);
-    return false;
-});
-
-$('button#build_enh_storm_aoe_alt').on('click', function() {
-    on_build_button_click(this, ["cl", "asc", "ic", "fn", "dw", "pw", "ma", "vb", "tempest"]);
     return false;
 });
 
