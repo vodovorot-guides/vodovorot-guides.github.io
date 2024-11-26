@@ -216,11 +216,11 @@ custom-javascript-list:
 3. {:.no-fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 1. {:.no-tempest-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
-3. {:.asc-apl .tempest-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) ровно один раз.
+3. {:.asc-apl .tempest-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
-3. {:.asc-apl .no-tempest}[Удар ветра](https://www.wowhead.com/ru/spell=115356) для прока [Молнии](https://www.wowhead.com/ru/spell=188196/) и активации [Бущующего ветра](https://www.wowhead.com/ru/spell=453409).
+3. {:.asc-apl .no-tempest-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) для прока [Молнии](https://www.wowhead.com/ru/spell=188196/) и активации [Бущующего ветра](https://www.wowhead.com/ru/spell=453409).
 1. {:.sunder-apl .no-tempest-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации [Земляного импульса](https://www.wowhead.com/ru/spell=455590).
-3. {:.asc-apl .no-tempest}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
+3. {:.asc-apl .no-tempest-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
 3. {:.asc-apl .tempest-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) каждый раз по кулдауну во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
 3. {:.tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) в момент её прока на максимальном количестве стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 3. {:.tempest-apl .asc-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), в тот момент, когда [Удар ветра](https://www.wowhead.com/ru/spell=115356) на кулдауне.
