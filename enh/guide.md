@@ -101,7 +101,7 @@ custom-javascript-list:
 
 <p></p>
 
-* Для АоЕ версии этого билда таланта [Неослабевающие бури](https://www.wowhead.com/ru/spell=470490) следует заменить на [Сокрушающие бури](https://www.wowhead.com/ru/spell=334308).
+* Для большего АоЕ в этом билде можно заменить талант [Неослабевающие бури](https://www.wowhead.com/ru/spell=470490) на [Сокрушающие бури](https://www.wowhead.com/ru/spell=334308).
 
 ## Таланты для Мифик+
 
