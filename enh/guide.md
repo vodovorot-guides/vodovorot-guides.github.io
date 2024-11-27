@@ -402,7 +402,7 @@ custom-javascript-list:
 
 ## Тотемист
 
-* Основной урон **Тотемиста** идет от [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Земляного импульса](https://www.wowhead.com/ru/spell=455590) от [Раскола](https://www.wowhead.com/ru/spell=197214). Урон [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) увеличивается за счет [Потока духов](https://www.wowhead.com/ru/spell=469314) и траты стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации таланта [Тотемный толчок](https://www.wowhead.com/ru/spell=445025).
+* Основной урон **Тотемиста** идет от [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Земляного импульса](https://www.wowhead.com/ru/spell=455590), который активируется при использовании [Раскола](https://www.wowhead.com/ru/spell=197214). Урон [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) увеличивается за счет [Потока духов](https://www.wowhead.com/ru/spell=469314) и траты стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации таланта [Тотемный толчок](https://www.wowhead.com/ru/spell=445025).
 
 * Данная героик ветка гораздо проще, чем **Вестник шторма**, и её можно рекомендовать для новичков.
 
@@ -410,13 +410,13 @@ custom-javascript-list:
 
 * Крайне важно реагировать на проки [Раскаленного грома](https://www.wowhead.com/ru/spell=469344/), особенно во время опенера – [Раскол](https://www.wowhead.com/ru/spell=197214) вызывает активацию урона вокруг [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) за счет таланта [Земляной импульс](https://www.wowhead.com/ru/spell=455590), и этот урон увеличивается от таланта [Сверхнагрузка](https://www.wowhead.com/ru/spell=445030/).
 
-* Во время [Перерождения](https://ru.wowhead.com/spell=114051) желательно хотя бы один раз использовать [Раскол](https://www.wowhead.com/ru/spell=197214), так что иногда стоит придержать [Перерождение](https://ru.wowhead.com/spell=114051) под кулдаун [Раскола](https://www.wowhead.com/ru/spell=197214).
+* Во время [Перерождения](https://ru.wowhead.com/spell=114051) желательно хотя бы один раз использовать [Раскол](https://www.wowhead.com/ru/spell=197214), так что иногда стоит придержать [Перерождение](https://ru.wowhead.com/spell=114051) под кулдаун [Раскола](https://www.wowhead.com/ru/spell=197214). Главное, чтобы это не уменьшило общее количество использований [Перерождения](https://ru.wowhead.com/spell=114051) за бой.
 
 * Перед использованием [Раскола](https://www.wowhead.com/ru/spell=197214) после установки [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) всегда сначала нужно использовать бафф от [Бущующего ветра](https://www.wowhead.com/ru/spell=453409), скастовав [Молнию](https://www.wowhead.com/ru/spell=188196/) или [Цепную молнию](https://ru.wowhead.com/spell=188443).
 
 * На АоЕ, во время активных [Ветров рока](https://www.wowhead.com/ru/spell=384352/), нужно использовать сначала [Раскол](https://www.wowhead.com/ru/spell=197214), а затем [Сокрущающую молнию](https://www.wowhead.com/ru/spell=187874), чтобы откатить [Раскол](https://www.wowhead.com/ru/spell=197214) за счет прока [Раскаленного грома](https://www.wowhead.com/ru/spell=469344/).
 
-* [Гальваническое пламя](https://ru.wowhead.com/spell=470053) стакается с баффом [Бушующей земли](https://www.wowhead.com/ru/spell=453406/), что многократно увеличивает урон [Огненного шока](https://ru.wowhead.com/spell=188389). 
+* [Гальваническое пламя](https://ru.wowhead.com/spell=470053) стакается с баффом [Бушующая земля](https://www.wowhead.com/ru/spell=453406/) от таланта [Бушующие стихии](https://www.wowhead.com/ru/spell=445024) и это многократно увеличивает урон [Огненного шока](https://ru.wowhead.com/spell=188389). 
 
 
 <hr style="height:1px;background-color:#bbb">
