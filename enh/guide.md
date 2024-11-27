@@ -414,7 +414,7 @@ custom-javascript-list:
 
 * Перед использованием [Раскола](https://www.wowhead.com/ru/spell=197214) после установки [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) всегда сначала нужно использовать бафф от [Бущующего ветра](https://www.wowhead.com/ru/spell=453409), скастовав [Молнию](https://www.wowhead.com/ru/spell=188196/) или [Цепную молнию](https://ru.wowhead.com/spell=188443).
 
-* На АоЕ, во время активных [Ветров рока](https://www.wowhead.com/ru/spell=384352/), нужно использовать сначала [Раскол](https://www.wowhead.com/ru/spell=197214), а затем [Сокрущающую молнию], (https://www.wowhead.com/ru/spell=187874), чтобы откатить [Раскол](https://www.wowhead.com/ru/spell=197214) за счет прока [Раскаленного грома](https://www.wowhead.com/ru/spell=469344/).
+* На АоЕ, во время активных [Ветров рока](https://www.wowhead.com/ru/spell=384352/), нужно использовать сначала [Раскол](https://www.wowhead.com/ru/spell=197214), а затем [Сокрущающую молнию](https://www.wowhead.com/ru/spell=187874), чтобы откатить [Раскол](https://www.wowhead.com/ru/spell=197214) за счет прока [Раскаленного грома](https://www.wowhead.com/ru/spell=469344/).
 
 * [Гальваническое пламя](https://ru.wowhead.com/spell=470053) стакается с баффом [Бушующей земли](https://www.wowhead.com/ru/spell=453406/), что многократно увеличивает урон [Огненного шока](https://ru.wowhead.com/spell=188389). 
 

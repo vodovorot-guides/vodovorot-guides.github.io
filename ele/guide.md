@@ -100,12 +100,13 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MjxY2mlZmBMzMDAAAAAAbmxwGsAzwQjNAwsMNDYzYMNYmZMjlZMjFzywsMzYwYmZZMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MjxY2mlZmBMzMDAAAAAAbmxwGsAzohGbAgZZaGwmxYawMzYGLzYGLmlhZZmxgxMz2YA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
-* При игре в данном билде в низких ключах, когда паки умирают слишком быстро, вы не успеете реализовать урон [Землетрясения](https://www.wowhead.com/ru/spell=462620) с баффом от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087) после [Удара духов стихий](https://www.wowhead.com/ru/spell=117014/), поэтому стоит взять [Земной шок](https://ru.wowhead.com/spell=8042).
 * Если в вашей группе есть Прист, который использует на вас [Придание сил](https://www.wowhead.com/ru/spell=10060), то талант [Непревзойденность](https://www.wowhead.com/ru/spell=462443) стоит заменить на [Первый перерожденный](https://www.wowhead.com/ru/spell=462440/).
+* При игре в данном билде в низких ключах, когда паки умирают слишком быстро, вы не успеете реализовать урон [Землетрясения](https://www.wowhead.com/ru/spell=462620) с баффом от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087) после [Удара духов стихий](https://www.wowhead.com/ru/spell=117014/), поэтому стоит взять [Земной шок](https://ru.wowhead.com/spell=8042).
+* Если вам не нравится играть через [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087), то этот талант можно заменить на [Заряженный проводник](https://www.wowhead.com/ru/spell=468625).
 
 # Приоритет заклинаний
 
