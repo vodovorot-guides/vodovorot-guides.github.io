@@ -1,8 +1,8 @@
 ---
 title: Как жить, если в сундуке упало говно
 layout: page
-last_update: 2022-04-06
-wow: 9.2
+last_update: 2024-11-26
+wow: 11.0.5
 toc: true
 author: Amani
 ---
