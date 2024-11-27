@@ -386,7 +386,7 @@ custom-javascript-list:
 
 * [Первозданная волна](https://www.wowhead.com/ru/spell=375982) активируется как [Молнией](https://www.wowhead.com/ru/spell=188196/), так и [Бурей](https://www.wowhead.com/ru/spell=454009/), при этом на АоЕ её лучше активировать именно [Бурей](https://www.wowhead.com/ru/spell=454009/), чтобы нанести больше урона в АоЕ за одно ГКД, так как [Молния](https://www.wowhead.com/ru/spell=188196/) бьет всего одну цель, а [Буря](https://www.wowhead.com/ru/spell=454009/) поражает все задетые цели.
 
-* [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) нужно активировать минимум при **4+** [Духах дикого зверя](https://www.wowhead.com/ru/spell=51533), а во время опенера – следует дождаться второго использования [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533) и наложения **6-9** духов.
+* [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) нужно активировать минимум при **4+** [Духах дикого зверя](https://www.wowhead.com/ru/spell=51533), а во время опенера – следует дождаться второго использования [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533), чтобы применить сразу два [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) на **6-9** [Духах дикого зверя](https://www.wowhead.com/ru/spell=51533).
 
 * При игре с талантом [Поток духов](https://www.wowhead.com/ru/spell=469314) следует избегать использования <span class="fire">огненных</span> и <span class="frost">ледяных</span> заклинаний, так как они могут призвать [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533) соответстующей стихии, тогда как нам нужно призывать только <span class="lightning">молниевых</span> духов.
 
