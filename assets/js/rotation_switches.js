@@ -141,6 +141,10 @@ $('button#build_enh_storm_aoe').on('click', function() {
     return false;
 });
 
+$('button#build_enh_storm_aoe_totem').on('click', function() {
+    on_build_button_click(this, ["cl", "asc", "sunder", "dw", "fs", "vb"]);
+    return false;
+});
 
 
 

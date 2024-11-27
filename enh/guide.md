@@ -122,6 +122,25 @@ custom-javascript-list:
 
 
 
+Билд **Тотемиста** для Мифик+:
+
+
+<p></p> 
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAYp+JUk5Lea12OyacsLNThMzMgZmZYmZmBLzM2GzAAAAAAAAAAYDWgFYGbasNgMTwGAmlJzALLMmZwMzsNsMzMZjlxyYmBAYmZA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+
+
+
 
 # Приоритет способностей
 
@@ -145,9 +164,10 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_enh_storm_sb" class="btn btn-primary rotation-btn">Рейд (Вестник Шторма)</button>
+    <button type="button" id="build_enh_storm_sb" class="btn btn-primary rotation-btn">Рейд (Вестник щторма)</button>
     <button type="button" id="build_enh_storm_totem" class="btn btn-primary rotation-btn">Рейд (Тотемист)</button>
-    <button type="button" id="build_enh_storm_aoe" class="btn btn-primary rotation-btn">Мифик+</button>
+    <button type="button" id="build_enh_storm_aoe" class="btn btn-primary rotation-btn">Мифик+ (Вестник щторма)</button>
+    <button type="button" id="build_enh_storm_aoe_totem" class="btn btn-primary rotation-btn">Мифик+ (Тотемист)</button>
   </div>
 </div>
 
