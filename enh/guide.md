@@ -236,6 +236,7 @@ custom-javascript-list:
 3. {:.no-fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 1. {:.no-tempest-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
+  * Убедитесь, что в [Воззванию к Ториму](https://www.wowhead.com/ru/spell=384444/) записана [Молния](https://www.wowhead.com/ru/spell=188196/).
 3. {:.asc-apl .tempest-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
 2. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.asc-apl .no-tempest-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) для прока [Молнии](https://www.wowhead.com/ru/spell=188196/) и активации [Бущующего ветра](https://www.wowhead.com/ru/spell=453409).
@@ -301,6 +302,7 @@ custom-javascript-list:
 1. {:.no-tempest-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) для активации [Бушующей земли](https://www.wowhead.com/ru/spell=453406/).
 1. {:.no-tempest-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) для получения баффа.
 2. {:.no-tempest-apl .asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
+  * Убедитесь, что в [Воззванию к Ториму](https://www.wowhead.com/ru/spell=384444/) записана [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 2. {:.no-tempest-apl .dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.no-tempest-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) для активации [Бущующего ветра](https://www.wowhead.com/ru/spell=453409).
 1. {:.no-tempest-apl .sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации [Земляного импульса](https://www.wowhead.com/ru/spell=455590).
