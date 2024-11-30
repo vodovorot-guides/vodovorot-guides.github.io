@@ -318,6 +318,7 @@ custom-javascript-list:
   * При получении прока [Бури](https://www.wowhead.com/ru/spell=454009/), переходите к следующему пункту.
 3. {:.tempest-apl .no-fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 3. {:.tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) при **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации [Первозданной волны](https://www.wowhead.com/ru/spell=375982).
+  * Используйте [Милость Скардина](https://www.wowhead.com/ru/item=133282/%D0%BC%D0%B8%D0%BB%D0%BE%D1%81%D1%82%D1%8C-%D1%81%D0%BA%D0%B0%D1%80%D0%B4%D0%B8%D0%BD%D0%B0?bonus=657:11143:5878:7981:10299) в этот момент, а не в макросе с [Перерождением](https://ru.wowhead.com/spell=114051).
 2. {:.tempest-apl .asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 2. {:.tempest-apl .dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.tempest-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну.
