@@ -247,6 +247,7 @@ custom-javascript-list:
 3. {:.tempest-apl .asc-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), в тот момент, когда [Удар ветра](https://www.wowhead.com/ru/spell=115356) на кулдауне.
 3. {:.no-fs-apl .tempest-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) сразу же по откату.
 2. {:.eb-apl .asc-apl .tempest-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) с максимальном количеством [Духов дикого зверя](https://www.wowhead.com/ru/spell=51533).
+  * При опенере с [Приданием сил](https://www.wowhead.com/ru/spell=10060), можно дождаться отката второго [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533) перед использованием [Ударов духов стихий](https://www.wowhead.com/ru/spell=117014).
 7. Продолжайте согласно приоритету способностей, указанному ниже.
 
 
