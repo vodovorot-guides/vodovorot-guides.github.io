@@ -70,6 +70,8 @@ custom-javascript-list:
 <p></p>
 
 
+* Для новичков рекомендуется заменить [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на [Ураганные удары](https://www.wowhead.com/ru/spell=428071/), так как плохо отыгранный [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) даст меньше урона, чем пассивный эффект.
+
 <p></p>
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -102,6 +104,7 @@ custom-javascript-list:
 <p></p>
 
 * Для большего АоЕ в этом билде можно заменить талант [Неослабевающие бури](https://www.wowhead.com/ru/spell=470490) на [Сокрушающие бури](https://www.wowhead.com/ru/spell=334308).
+* Данный билд рекомендуется для новичков.
 
 ## Таланты для Мифик+
 
