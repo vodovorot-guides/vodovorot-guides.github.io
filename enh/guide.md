@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2024-11-26
+last_update: 2024-12-05
 title: Гайд на Энх Шамана
 wow: 11.0.5
 toc: true
@@ -242,7 +242,7 @@ custom-javascript-list:
 3. {:.asc-apl .no-tempest-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) для прока [Молнии](https://www.wowhead.com/ru/spell=188196/) и активации [Бущующего ветра](https://www.wowhead.com/ru/spell=453409).
 1. {:.sunder-apl .no-tempest-apl}[Раскол](https://www.wowhead.com/ru/spell=197214) для активации [Земляного импульса](https://www.wowhead.com/ru/spell=455590).
 3. {:.asc-apl .no-tempest-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
-3. {:.asc-apl .tempest-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) каждый раз по кулдауну во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051)).
+3. {:.asc-apl .tempest-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) каждый раз по кулдауну во время активного [Перерождения](https://www.wowhead.com/ru/spell=114051).
 3. {:.tempest-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) в момент её прока на максимальном количестве стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 3. {:.tempest-apl .asc-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), в тот момент, когда [Удар ветра](https://www.wowhead.com/ru/spell=115356) на кулдауне.
 3. {:.no-fs-apl .tempest-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) сразу же по откату.
