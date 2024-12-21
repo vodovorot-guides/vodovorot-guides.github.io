@@ -416,9 +416,9 @@ image: /assets/img/resto_tb2.png
 
 Лучшие самоцветы:
 
-* [Цитрин заклинателя шторма](https://www.wowhead.com/ru/item=228642/)
+* [Рунный цитрин призывателя бурь](https://www.wowhead.com/ru/item=228638/)
 * [Освященный цитрин морехода](https://www.wowhead.com/ru/item=228644/)
-* [Бардовский цитрин старого моряка](https://www.wowhead.com/ru/item=228643/)
+* [Цитрин легендарного шкипера](https://www.wowhead.com/ru/item=228646/)
 
 
 
