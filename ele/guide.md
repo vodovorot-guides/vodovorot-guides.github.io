@@ -488,7 +488,7 @@ custom-javascript-list:
 
 * [Рунный цитрин призывателя бурь](https://www.wowhead.com/ru/item=228638/)
 * [Рунный цитрин обитателя глубин](https://www.wowhead.com/ru/item=228639)
-* [Цитрин легендарного шкипера](https://www.wowhead.com/ru/item=228646/)
+* [Цитрин легендарного шкипера](https://www.wowhead.com/ru/item=228646/) / [Рунный цитрин песни ветра](https://www.wowhead.com/ru/item=228640/) – [симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
 
 
 

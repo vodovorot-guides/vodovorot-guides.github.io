@@ -616,7 +616,7 @@ custom-javascript-list:
 
 * [Рунный цитрин призывателя бурь](https://www.wowhead.com/ru/item=228638/)
 * [Рунный цитрин обитателя глубин](https://www.wowhead.com/ru/item=228639)
-* [Рунный цитрин песни ветра](https://www.wowhead.com/ru/item=228640/)
+* [Рунный цитрин песни ветра](https://www.wowhead.com/ru/item=228640/) / [Цитрин легендарного шкипера](https://www.wowhead.com/ru/item=228646/) – [симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
 
 ## Комплект классовых доспехов
 
