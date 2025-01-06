@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2024-11-26
+last_update: 2025-01-05
 title: Гайд на Элем Шамана
-wow: 11.0.5
+wow: 11.0.7
 toc: true
 author: Amani
 image: /assets/img/ele_tb2.png
