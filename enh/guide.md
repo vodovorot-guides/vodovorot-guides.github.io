@@ -218,22 +218,16 @@ custom-javascript-list:
   * Для набора стаков используйте [Удар бури](https://www.wowhead.com/ru/spell=17364).
 3. {:.hh-apl .totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).  
 3. {:.no-totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
-3. {:.totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352) сразу после получения баффа от таланта [Наследие ледяной ведьмы](https://ru.wowhead.com/spell=384450).
-2. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) с **10** стаками [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и с баффом от таланта [Наследие ледяной ведьмы](https://ru.wowhead.com/spell=384450).
+3. {:.totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352) сразу после получения баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
+2. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) с **10** стаками [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и с баффом [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
   * Убедитесь, что в [Воззванию к Ториму](https://www.wowhead.com/ru/spell=384444/) записана [Молния](https://www.wowhead.com/ru/spell=188196/).
 3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
 3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
 7. Продолжайте согласно приоритету способностей, указанному ниже.
 
-<p></p>
-
-* {:.asc-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) перед [Перерождением](https://ru.wowhead.com/spell=114051) кастуется для того, чтобы получить больше стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и гарантированно прокнуть бафф от таланта [Наследие ледяной ведьмы](https://ru.wowhead.com/spell=384450).
-* {:.hh-apl}С активным баффом от таланта [Горячая рука](https://www.wowhead.com/ru/spell=201900) следует прожимать [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) каждый второй ГКД, не забывая при этом обновлять бафф от таланта [Наследие ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 
 <p></p>
-
-
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -243,10 +237,10 @@ custom-javascript-list:
 1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
 1. {:.pw-apl .no-totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на цели нет этого дебаффа и [Первозданная волна](https://www.wowhead.com/ru/spell=375982) не на кулдауне.
 1. {:.totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на цели нет этого дебаффа.
-1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для активации баффа от таланта [Расколотые стихии](https://www.wowhead.com/ru/spell=382042).
+1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для активации баффа [Расколотых стихий](https://www.wowhead.com/ru/spell=382042).
 2. [Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-4. {:.hh-apl .totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом от таланта [Горячая рука](https://www.wowhead.com/ru/spell=201900).
+4. {:.hh-apl .totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900).
 1. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
 1. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
@@ -259,14 +253,14 @@ custom-javascript-list:
 3. {:.totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 3. {:.no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364), если доступно **2** заряда этой способности.
 3. {:.no-totem-apl .cl-apl .tier-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если есть стаки [Электростатической ставки](https://www.wowhead.com/ru/spell=1223332).
-4. {:.hh-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом от таланта [Горячая рука](https://www.wowhead.com/ru/spell=201900).
+4. {:.hh-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900).
 4. {:.vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470053).
 3. {:.totem-apl .cl-apl .tier-apl .us-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если есть стаки [Электростатической ставки](https://www.wowhead.com/ru/spell=1223332).
 3. {:.no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 4. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 5. {:.cl-apl .us-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 6. {:.no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
-4. {:.ic-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом от таланта [Буря с градом](https://www.wowhead.com/ru/spell=334195).
+4. {:.ic-apl}[Ледяной шок](https://www.wowhead.com/ru/spell=196840/) с баффом [Бури с градом](https://www.wowhead.com/ru/spell=334195).
 5. {:.cl-apl .no-us-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 5. [Огненный шок](https://ru.wowhead.com/spell=188389).
 6. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
@@ -284,7 +278,7 @@ custom-javascript-list:
 1. {:.pw-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для спреда [Огненного шока](https://ru.wowhead.com/spell=188389) на соседние цели.
 1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 3. {:.cl-apl .totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
-3. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации баффа от таланта [Наследие ледяной ведьмы](https://ru.wowhead.com/spell=384450).
+3. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 2. [Ветра рока](https://ru.wowhead.com/spell=384352).
 1. {:.sunder-apl .totem-apl .no-mt-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
 1. {:.sunder-apl .totem-apl .mt-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/) до тех пор, пока он не перестанет быть доступным за счет таланта [Раскаленный гром](https://www.wowhead.com/ru/spell=469344/).
@@ -296,7 +290,7 @@ custom-javascript-list:
 1. {:.pw-apl .no-totem-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047).
 1. {:.pw-apl .totem-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
 2. {:.cl-apl .no-totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
-6. {:.totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) до тех пор, пока не закончится бафф от таланта [Горячая рука](https://www.wowhead.com/ru/spell=201900).
+6. {:.totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) до тех пор, пока не закончится бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900).
 7. Продолжайте согласно приоритету способностей, указанному ниже.
 
 
@@ -315,11 +309,11 @@ custom-javascript-list:
 1. {:.pw-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/), если на соседних целях нет [Огненного шока](https://ru.wowhead.com/spell=188389).
 1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 2. [Ветра рока](https://ru.wowhead.com/spell=384352).
-  * Перед активацией [Ветров рока](https://ru.wowhead.com/spell=384352) убедитесь, что у вас есть бафф от таланта [Наследие ледяной ведьмы](https://ru.wowhead.com/spell=384450).
+  * Перед активацией [Ветров рока](https://ru.wowhead.com/spell=384352) убедитесь, что у вас есть бафф [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-6. {:.totem-apl .hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом от таланта [Горячая рука](https://www.wowhead.com/ru/spell=201900).
-1. {:.sunder-apl .totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/), если есть бафф от таланта [Наследие ледяной ведьмы](https://ru.wowhead.com/spell=384450).
-  * {:.mt-apl .hh-apl}При активном баффе от таланта [Горячая рука](https://www.wowhead.com/ru/spell=201900), чередуйте [Раскол](https://www.wowhead.com/ru/spell=197214/) со [Вскипанием лавы](https://www.wowhead.com/ru/spell=60103/) в случае проков [Раскаленного грома](https://www.wowhead.com/ru/spell=469344/).
+6. {:.totem-apl .hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900).
+1. {:.sunder-apl .totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/), если есть бафф [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
+  * {:.mt-apl .hh-apl}При активном баффе [Горячей руки](https://www.wowhead.com/ru/spell=201900), чередуйте [Раскол](https://www.wowhead.com/ru/spell=197214/) со [Вскипанием лавы](https://www.wowhead.com/ru/spell=60103/) в случае проков [Раскаленного грома](https://www.wowhead.com/ru/spell=469344/).
 1. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 3. {:.cl-apl .cs-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).

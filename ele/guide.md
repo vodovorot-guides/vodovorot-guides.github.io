@@ -172,15 +172,15 @@ custom-javascript-list:
 2. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
   * Последнее использование [Перерождения](https://www.wowhead.com/ru/spell=114050/) за бой стоит синхронизировать с [Жаждкой крови](https://ru.wowhead.com/spell=2825) или другими подобными усилениями.
 3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
-  * По возможности старайтесь реализовывать бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-4. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от талантов [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087) и [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-2. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу энергии Водоворота или если есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-2. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если следующее заклинание приведет к оверкапу энергии Водоворота или если есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+  * По возможности старайтесь реализовывать бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
+4. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффами [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087) и [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+2. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу энергии Водоворота или если есть бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
+2. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если следующее заклинание приведет к оверкапу энергии Водоворота или если есть бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 2. {:.lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) по кулдауну.
 4. [Ледяная ярость](https://ru.wowhead.com/spell=462816), если поглощены оба баффа от таланта [Слияние стихий](https://www.wowhead.com/ru/spell=462840).
   * Используйте [WA](https://wago.io/HJxL_fG7C) для отслеживания наличия этих баффов.
 5. [Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
-  * {:.mote-apl}Всегда чередуйте [Выброс лавы](https://ru.wowhead.com/spell=51505) с другой способностью для реализации баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+  * {:.mote-apl}Всегда чередуйте [Выброс лавы](https://ru.wowhead.com/spell=51505) с другой способностью для реализации баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 5. [Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом [Ледяной ярости](https://ru.wowhead.com/spell=462816), если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
 6. [Молния](https://ru.wowhead.com/spell=188196).
 9. [Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) / [Огненный шок](https://ru.wowhead.com/spell=188389) во время передвижения.
@@ -212,10 +212,10 @@ custom-javascript-list:
 2. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
 2. {:.no-lmt-apl .pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 4. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
-4. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
-2. {:.eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для получения баффа от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
-2. {:.no-eb-apl  .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042) для получения баффа от таланта [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
-3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), если нет баффа от таланта [Дуговая искра](https://www.wowhead.com/ru/spell=470532).
+4. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
+2. {:.eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для получения баффа [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
+2. {:.no-eb-apl  .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042) для получения баффа [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
+3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), если нет баффа [Дуговой искры](https://www.wowhead.com/ru/spell=470532).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 4. [Ледяная ярость](https://ru.wowhead.com/spell=462816) во время передвижения.
 9. [Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) / [Огненный шок](https://ru.wowhead.com/spell=188389) во время передвижения.
