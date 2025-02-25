@@ -111,38 +111,33 @@ function on_build_button_click(button, talent_list) {
 }
 
 
-$('button#build_ele_storm_raid_fs').on('click', function() {
-    on_build_button_click(this, ["eote", "mote", "pw", "ef"]);
+$('button#build_ele_raid').on('click', function() {
+    on_build_button_click(this, ["pw"]);
     return false;
 });
 
-$('button#build_ele_storm_raid_sb').on('click', function() {
-    on_build_button_click(this, ["tempest", "eb", "eote", "mote", "pw", "ef"]);
+$('button#build_ele_mplus').on('click', function() {
+    on_build_button_click(this, ["tempest", "eogs"]);
     return false;
 });
 
-$('button#build_ele_storm_mplus').on('click', function() {
-    on_build_button_click(this, ["tempest", "eb", "eote", "mote", "pw", "lmt", "ef", "eogs"]);
+$('button#build_enh_sb').on('click', function() {
+    on_build_button_click(this, ["eb", "asc", "vb", "cl", "us", "tier"]);
     return false;
 });
 
-$('button#build_enh_storm_sb').on('click', function() {
-    on_build_button_click(this, ["asc", "ic", "hs", "dw", "pw", "ma", "eb", "vb", "tempest"]);
+$('button#build_enh_sb_m').on('click', function() {
+    on_build_button_click(this, ["pw", "asc", "vb", "cl", "cs", "tier"]);
     return false;
 });
 
-$('button#build_enh_storm_totem').on('click', function() {
-    on_build_button_click(this, ["cl", "asc", "sunder", "dw", "fs", "vb", "us"]);
+$('button#build_enh_totem').on('click', function() {
+    on_build_button_click(this, ["totem", "pw", "hh", "cl", "tier"]);
     return false;
 });
 
-$('button#build_enh_storm_aoe').on('click', function() {
-    on_build_button_click(this, ["cl", "asc", "sunder", "dw", "pw", "ma", "vb", "tempest"]);
-    return false;
-});
-
-$('button#build_enh_storm_aoe_totem').on('click', function() {
-    on_build_button_click(this, ["cl", "asc", "sunder", "dw", "fs", "vb"]);
+$('button#build_enh_totem_m').on('click', function() {
+    on_build_button_click(this, ["totem", "pw", "sunder", "mt", "hh", "cl", "tier"]);
     return false;
 });
 
