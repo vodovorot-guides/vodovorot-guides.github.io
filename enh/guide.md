@@ -290,7 +290,8 @@ custom-javascript-list:
 1. {:.pw-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для спреда [Огненного шока](https://ru.wowhead.com/spell=188389) на соседние цели.
 1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 3. {:.cl-apl .totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
-3. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
+3. {:.totem-apl .no-eb-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
+2. {:.totem-apl .eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 2. [Ветра рока](https://ru.wowhead.com/spell=384352).
 1. {:.sunder-apl .totem-apl .no-mt-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
 1. {:.sunder-apl .totem-apl .mt-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/) до тех пор, пока он не перестанет быть доступным за счет таланта [Раскаленный гром](https://www.wowhead.com/ru/spell=469344/).
