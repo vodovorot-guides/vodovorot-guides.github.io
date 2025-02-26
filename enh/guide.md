@@ -249,7 +249,7 @@ custom-javascript-list:
 1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
 1. {:.pw-apl .no-totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на цели нет этого дебаффа и [Первозданная волна](https://www.wowhead.com/ru/spell=375982) не на кулдауне.
 1. {:.totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на цели нет этого дебаффа.
-1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982) для активации баффа [Расколотых стихий](https://www.wowhead.com/ru/spell=382042).
+1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 2. [Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 4. {:.hh-apl .totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900).
