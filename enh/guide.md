@@ -267,7 +267,7 @@ custom-javascript-list:
 3. {:.no-totem-apl .cl-apl .tier-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если есть стаки [Электростатической ставки](https://www.wowhead.com/ru/spell=1223332).
 4. {:.hh-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900).
 4. {:.vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470053).
-3. {:.totem-apl .cl-apl .tier-apl .us-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если есть стаки [Электростатической ставки](https://www.wowhead.com/ru/spell=1223332).
+3. {:.totem-apl .cl-apl .tier-apl .us-apl .ic-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если есть стаки [Электростатической ставки](https://www.wowhead.com/ru/spell=1223332).
 3. {:.no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 4. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
 5. {:.cl-apl .us-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
