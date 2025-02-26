@@ -64,7 +64,7 @@ custom-javascript-list:
 
 <p></p> 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYbmx2sNAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGDzMzMzMbzM2GAAAAAAAAAAgFYDmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAgBA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -73,7 +73,18 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+Рейдовый билд **Тотемиста**, бой без аддов:
 
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMDzMzMzMmZsNGAAAAAAAAAAYB2gZsox2AYmgNAYZamZwyiZmZGGzMbDLzMTghZZmBAYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 Рейдовый билд **Тотемиста**, с кливом:
 
@@ -150,6 +161,7 @@ custom-javascript-list:
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
     <button type="button" id="build_enh_sb" class="btn btn-primary rotation-btn">Вестник шторма – СТ</button>
+    <button type="button" id="build_enh_totem_st" class="btn btn-primary rotation-btn">Тотемист – СТ</button>
     <button type="button" id="build_enh_totem" class="btn btn-primary rotation-btn">Тотемист – Клив</button>
     <button type="button" id="build_enh_sb_m" class="btn btn-primary rotation-btn">Вестник шторма – Мифик+</button>
     <button type="button" id="build_enh_totem_m" class="btn btn-primary rotation-btn">Тотемист – Мифик+</button>

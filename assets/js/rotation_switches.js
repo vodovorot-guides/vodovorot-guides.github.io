@@ -136,6 +136,11 @@ $('button#build_enh_totem').on('click', function() {
     return false;
 });
 
+$('button#build_enh_totem_st').on('click', function() {
+    on_build_button_click(this, ["totem", "eb", "pw", "hh", "tier"]);
+    return false;
+});
+
 $('button#build_enh_totem_m').on('click', function() {
     on_build_button_click(this, ["totem", "pw", "sunder", "mt", "hh", "cl", "tier"]);
     return false;
