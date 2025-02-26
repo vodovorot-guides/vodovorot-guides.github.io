@@ -19,14 +19,13 @@ image: /assets/img/logos/macros.png
 
 # Все специализации
 
-* Макрос для призыва летающего маунта в зависимости от зоны. Также применяет {{ site.data.spells.waterwalking }} (без ГКД).
+* Макрос для призыва маунта исходя из зоны, в которой вы находитесь, включая [Стремглав G-99](https://ru.wowhead.com/spell=1215279) из патча **11.1**. Также применяет {{ site.data.spells.waterwalking }} (без ГКД).
 ~~~
 #showtooltip
-/cast [nomounted] Хождение по воде
-/cast Обновленный протодракон
-/cast [flyable] Красный протодракон
-/cast [noflyable] Громадный гррлок
-/dismount [mounted]
+#showtooltip Стремглав G-99
+/cast Хождение по воде
+/cast Стремглав G-99; 
+/run C_MountJournal.SummonByID(0)
 ~~~
 
 * Использовать одновременно {{ site.data.spells.waterwalking }} (без ГКД) и призыв случайного избранного маунта: 
