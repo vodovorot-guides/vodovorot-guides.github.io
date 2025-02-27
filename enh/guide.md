@@ -324,7 +324,6 @@ custom-javascript-list:
 1. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если нет баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
   * {:.eb-apl}Используйте [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) в том случае, если есть приоритетная цель.
 2. [Ветра рока](https://ru.wowhead.com/spell=384352).
-  * Перед активацией [Ветров рока](https://ru.wowhead.com/spell=384352) убедитесь, что у вас есть бафф [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 6. {:.totem-apl .hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900).
 1. {:.sunder-apl .totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/), если есть бафф [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
