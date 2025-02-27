@@ -327,7 +327,6 @@ custom-javascript-list:
 1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 6. {:.totem-apl .hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900).
 1. {:.sunder-apl .totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/), если есть бафф [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
-  * {:.mt-apl .hh-apl}При активном баффе [Горячей руки](https://www.wowhead.com/ru/spell=201900), чередуйте [Раскол](https://www.wowhead.com/ru/spell=197214/) со [Вскипанием лавы](https://www.wowhead.com/ru/spell=60103/) в случае проков [Раскаленного грома](https://www.wowhead.com/ru/spell=469344/).
 3. {:.totem-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 1. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
   * {:.eb-apl}Используйте [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) в том случае, если есть приоритетная цель.
