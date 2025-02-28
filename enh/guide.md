@@ -107,7 +107,7 @@ custom-javascript-list:
 
 <p></p> 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMmZsNmBAAAAAAAAAALwGMjFN2GAzEsBgZZyMwyiZmZGmxMbDLzMTWYZYMzAAMDA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGmBzMmHYmZzM2GzAAAAAAAAAAgFYDmxiGbDgZC2AwsMZGYZxMzMDzYmthlZmJLsMMmZAAmB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -321,15 +321,15 @@ custom-javascript-list:
 1. {:.pw-apl .totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на целях нет этого дебаффа.
 1. {:.pw-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/), если на соседних целях нет [Огненного шока](https://ru.wowhead.com/spell=188389).
 1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
+1. {:.eb-apl .totem-apl}Используйте [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если нет баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 1. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если нет баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
-  * {:.eb-apl}Используйте [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) в том случае, если есть приоритетная цель.
 2. [Ветра рока](https://ru.wowhead.com/spell=384352).
 1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 6. {:.totem-apl .hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900).
 1. {:.sunder-apl .totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/), если есть бафф [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 3. {:.totem-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+1. {:.eb-apl .totem-apl}Используйте [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 1. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-  * {:.eb-apl}Используйте [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) в том случае, если есть приоритетная цель.
 1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 3. {:.no-totem-apl .cl-apl .cs-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
