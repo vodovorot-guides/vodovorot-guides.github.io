@@ -65,10 +65,13 @@ WA с напоминанием о взятии нужных талантов –
 * [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Уязвимости к темной магии](https://www.wowhead.com/ru/spell=330725) которую накладывает [Страж портала](https://www.wowhead.com/ru/npc=167998) в Крыле [Кул'тарока](https://www.wowhead.com/npc=162309) (Порталов).
 * [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Проклятия запустения](https://www.wowhead.com/ru/spell=333299) которое накладывает [Пагубный темный проповедник](https://www.wowhead.com/ru/npc=169893) в Крыле [Кул'тарока](https://www.wowhead.com/npc=162309) (Порталов).
 * [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Хватки смерти](https://www.wowhead.com/ru/spell=426308) с игроков которых затянуло в разлом на последнем боссе.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Костяной щит](https://www.wowhead.com/ru/spell=333293) с [Костяного чародея](https://www.wowhead.com/ru/npc=170882).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Нечестивое рвение](https://www.wowhead.com/ru/spell=341902) которое накладывает [Боевой ритуалист](https://www.wowhead.com/ru/npc=174197).
 
 ## Операция "Мехагон": Мастерская
 
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Защитные контрмеры](https://www.wowhead.com/ru/spell=297133) с ["Оборонобот II"](https://www.wowhead.com/ru/npc=144298).
+
 
 <p></p>
 
