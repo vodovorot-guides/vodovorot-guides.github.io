@@ -65,6 +65,7 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Shadow Vulnerability](https://www.wowhead.com/spell=330725) inflicted by [Portal Guardian](https://www.wowhead.com/npc=167998) in [Kul'tharok's](https://www.wowhead.com/npc=162309) (Portal) Wing.
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Curse of Desolation](https://www.wowhead.com/spell=333299) inflicted by [Nefarious Darkspeaker](https://www.wowhead.com/npc=169893) in [Kul'tharok's](https://www.wowhead.com/npc=162309) (Portal) Wing.
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Death Grasp](https://www.wowhead.com/spell=323831) from players that got pulled into the rift on the last boss.
+* [Purge](https://www.wowhead.com/spell=370/) - removes [Bone Shield](https://www.wowhead.com/spell=333293) from [Bone Magus](https://www.wowhead.com/npc=170882).
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Unholy Fervor](https://www.wowhead.com/spell=341902) applied by [Battlefield Ritualist](https://www.wowhead.com/npc=174197).
 
 ## Operation: Mechagon: Workshop
