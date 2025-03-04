@@ -122,12 +122,12 @@ $('button#build_ele_mplus').on('click', function() {
 });
 
 $('button#build_enh_sb').on('click', function() {
-    on_build_button_click(this, ["eb", "asc", "vb", "cl", "us", "tier"]);
+    on_build_button_click(this, ["wda", "eb", "asc", "vb", "cl", "us", "tier"]);
     return false;
 });
 
 $('button#build_enh_sb_m').on('click', function() {
-    on_build_button_click(this, ["pw", "asc", "vb", "cl", "cs", "tier"]);
+    on_build_button_click(this, ["wda", "pw", "asc", "vb", "cl", "cs", "tier"]);
     return false;
 });
 
@@ -137,12 +137,12 @@ $('button#build_enh_totem').on('click', function() {
 });
 
 $('button#build_enh_totem_st').on('click', function() {
-    on_build_button_click(this, ["totem", "eb", "pw", "hh", "tier"]);
+    on_build_button_click(this, ["wda", "totem", "eb", "pw", "hh", "tier"]);
     return false;
 });
 
 $('button#build_enh_totem_m').on('click', function() {
-    on_build_button_click(this, ["totem", "eb", "pw", "sunder", "mt", "hh", "cl", "tier"]);
+    on_build_button_click(this, ["wda", "totem", "eb", "pw", "sunder", "mt", "hh", "cl", "tier"]);
     return false;
 });
 

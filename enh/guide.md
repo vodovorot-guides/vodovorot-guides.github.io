@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-02-25
+last_update: 2025-03-04
 title: Гайд на Энх Шамана
 wow: 11.1
 toc: true
@@ -72,7 +72,7 @@ custom-javascript-list:
 
 <p></p> 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYbmx2sNAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYbmxysNAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -85,7 +85,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGDzMzMzMbzM2GAAAAAAAAAAgFYDmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAgBA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGDzMzMzMbzMWGAAAAAAAAAAgFYDmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAgBA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -98,7 +98,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMDzMzMzMmZsNGAAAAAAAAAAYB2gZsox2AYmgNAYZamZwyiZmZGGzMbDLzMTghZZmBAYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwYYmZmZmZbmx2wAAAAAAAAAAgFYDmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAADA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -115,7 +115,7 @@ custom-javascript-list:
 
 <p></p> 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGmBzMmHYmZzM2GzAAAAAAAAAAgFYDmxiGbDgZC2AwsMZGYZxMzMDzYmthlZmJLsMMmZAAmB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMbmxyYGAAAAAAAAAAsAbwMW0YbAMTwGAmlJzALLmZmZYGzsNsMzMZhlhxMDAwMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -130,7 +130,7 @@ custom-javascript-list:
 
 <p></p> 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMjZYmZGzMLzM2mlBAAAAAAAAAYDwmZMsRWgZYoBLAYWmMDssYmZmhZMz2wyMzkFWGGzMAAjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMjZYmZGzMLzMWmlBAAAAAAAAAYDwmZMsRWgZYoBLAYWmMDssYmZmhZMz2wyMzkFWGGzMAAjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -184,6 +184,8 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_totem"> [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995)</li>
   <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_wda"> [Шаманское наследие](https://www.wowhead.com/ru/spell=384447)</li>
+  <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_eb"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li> 
   <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_pw"> [Первозданная буря](https://www.wowhead.com/ru/spell=1218047)</li> 
@@ -236,7 +238,8 @@ custom-javascript-list:
   * Для набора стаков используйте [Удар бури](https://www.wowhead.com/ru/spell=17364).
 4. {:.totem-apl .no-eb-apl}[Молния](https://www.wowhead.com/ru/spell=188196) как только у вас будет **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
   * Для набора стаков используйте [Удар бури](https://www.wowhead.com/ru/spell=17364).
-3. {:.hh-apl .totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).  
+3. {:.hh-apl .totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+1. {:.wda-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 3. {:.no-totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352) сразу после получения баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 2. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) с **10** стаками [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и с баффом [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
@@ -257,6 +260,7 @@ custom-javascript-list:
 1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
 1. {:.pw-apl .no-totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на цели нет этого дебаффа и [Первозданная волна](https://www.wowhead.com/ru/spell=375982) не на кулдауне.
 1. {:.totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на цели нет этого дебаффа.
+1. {:.wda-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 2. [Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
@@ -296,8 +300,10 @@ custom-javascript-list:
   * Переносите [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) под аддов после того, как они займут свою позицию.
 1. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389).
 1. {:.pw-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для спреда [Огненного шока](https://ru.wowhead.com/spell=188389) на соседние цели.
-1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
+1. {:.wda-apl .totem-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 3. {:.cl-apl .totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
+1. {:.wda-apl .no-totem-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 3. {:.totem-apl .no-eb-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) при **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 2. {:.totem-apl .eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для активации баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 2. [Ветра рока](https://ru.wowhead.com/spell=384352).
@@ -328,6 +334,7 @@ custom-javascript-list:
 1. {:.pw-apl .no-totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на цели нет этого дебаффа и [Первозданная волна](https://www.wowhead.com/ru/spell=375982) не на кулдауне.
 1. {:.pw-apl .totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на целях нет этого дебаффа.
 1. {:.pw-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/), если на соседних целях нет [Огненного шока](https://ru.wowhead.com/spell=188389).
+1. {:.wda-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 1. {:.eb-apl .totem-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если нет баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 1. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если нет баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
