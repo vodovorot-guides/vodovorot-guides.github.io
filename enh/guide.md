@@ -43,6 +43,14 @@ custom-javascript-list:
 <p></p>
 
 
+# Видеогайд
+
+<p></p>
+
+{% include youtube.html id="kaVZEszR__w" %}
+
+<p></p>
+
 # Билды талантов
 
 ## Общая информация
