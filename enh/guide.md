@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-03-04
+last_update: 2025-03-12
 title: Гайд на Энх Шамана
 wow: 11.1
 toc: true
@@ -256,6 +256,7 @@ custom-javascript-list:
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) в момент прока на **9+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 2. {:.no-totem-apl .eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **9+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+3. {:.totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) с баффами от [Ветров рока](https://ru.wowhead.com/spell=384352) и [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 1. {:.no-totem-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) на **9+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 2. {:.totem-apl .eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 1. {:.totem-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
