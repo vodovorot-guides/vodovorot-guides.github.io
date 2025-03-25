@@ -215,7 +215,7 @@ custom-javascript-list:
 4. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
 2. {:.eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для получения баффа [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
 2. {:.no-eb-apl  .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042) для получения баффа [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
-3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), если нет баффа [Дуговой искры](https://www.wowhead.com/ru/spell=470532).
+3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 4. [Ледяная ярость](https://ru.wowhead.com/spell=462816) во время передвижения.
 9. [Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) / [Огненный шок](https://ru.wowhead.com/spell=188389) во время передвижения.
