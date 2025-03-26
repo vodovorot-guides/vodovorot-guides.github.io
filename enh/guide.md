@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-03-12
+last_update: 2025-03-26
 title: Гайд на Энх Шамана
 wow: 11.1
 toc: true
@@ -55,26 +55,12 @@ custom-javascript-list:
 
 ## Общая информация
 
-В патче **11.1** Энх может играть как в героической ветке **Вестника шторма**, так и в **Тотемисте**.
-
-**Вестник шторма** полагается на двухминутный бурст за счет [Перерождения](https://ru.wowhead.com/spell=114051), тогда как **Тотемист** имеет более стабильный урон, с бурстами каждые **30** и **60** секунд от способностей [Первозданная волна](https://www.wowhead.com/ru/spell=375982/) и [Ветра рока](https://www.wowhead.com/ru/spell=384352).
-
-На данный момент обе героических ветки могут играть в Мифик+, а в рейде **Вестник шторма** лучше показывает себя в бою против одной цели и без аддов, а **Тотемист** – на кливе.
+В патче **11.1** Энх играет преимущественно в ветке **Тотемиста**.
 
 Актуальные билды на каждого босса в рейде можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/enhancement/shaman/mythic-plus/overview/10/all-dungeons/this-week).
 
 
 ## Таланты для Рейда
-
-
-
-Рейдовый билд **Вестника шторма**, бой без аддов:
-
-<p></p> 
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYbmxysNAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
-
-<p></p>
 
 
 <p></p>
@@ -113,26 +99,6 @@ custom-javascript-list:
 <p></p>
 
 
-Билд **Вестника шторма** для Мифик+:
-
-<p></p> 
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMjZYmZGzMLzMWmlBAAAAAAAAAYDwmZMsRWgZYoBLAYWmMDssYmZmhZMz2wyMzkFWGGzMAAjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-* Таланты классовой ветки, такие как [Развеивание магии](https://ru.wowhead.com/spell=370), [Очищение духа](https://www.wowhead.com/ru/spell=51886), [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) и подобные стоит подбирать под каждое подземелье. Подробнее про каждое подземелье в [этой статье](https://stormkeeper.ru/info/utility.html). Также рекомендуется использовать WA с напоминанием по [этой ссылке](https://wago.io/hzEzPJxst).
-
-
-<p></p>
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-
-
-
-
 # Приоритет способностей
 
 Основа игры на Шамане Совершенствования заключается в накоплении стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) с помощью способностей ближнего боя и трате этих стаков на мощные мгновенные заклинания.
@@ -155,8 +121,6 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_enh_sb" class="btn btn-primary rotation-btn">Вестник шторма – СТ</button>
-    <button type="button" id="build_enh_sb_m" class="btn btn-primary rotation-btn">Вестник шторма – Мифик+</button>
     <button type="button" id="build_enh_totem_st" class="btn btn-primary rotation-btn">Тотемист – СТ</button>
     <button type="button" id="build_enh_totem_m" class="btn btn-primary rotation-btn">Тотемист – Мифик+</button>
   </div>
@@ -495,17 +459,6 @@ custom-javascript-list:
 5. **Ловкость**.
 
 
-<p></p>
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-Приоритет статов для **Вестника шторма**:
-
-1. **Скорость**.
-2. **Искусность**.
-3. **Критический удар**.
-4. **Универсальность**.
-5. **Ловкость**.
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -597,7 +550,7 @@ custom-javascript-list:
 
 * [Рунный цитрин призывателя бурь](https://www.wowhead.com/ru/item=228638/)
 * [Рунный цитрин обитателя глубин](https://www.wowhead.com/ru/item=228639)
-* [Цитрин легендарного шкипера](https://www.wowhead.com/ru/item=228646/) / [Рунный цитрин песни ветра](https://www.wowhead.com/ru/item=228640/) – [симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
+* [Рунный цитрин песни ветра](https://www.wowhead.com/ru/item=228640/)
 
 ## Комплект классовых доспехов
 
