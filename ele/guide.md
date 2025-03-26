@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-03-04
+last_update: 2025-03-25
 title: Гайд на Элем Шамана
 wow: 11.1
 toc: true
@@ -37,6 +37,14 @@ custom-javascript-list:
 <p></p>
 
 {% include button.html name="Полный список изменений Элема в патче 11.1" link="https://worldofwarcraft.blizzard.com/en-us/news/24179386" %}  
+
+<p></p>
+
+# Видеогайд
+
+<p></p>
+
+{% include youtube.html id="OF1-SWSj14A" %}
 
 <p></p>
 
