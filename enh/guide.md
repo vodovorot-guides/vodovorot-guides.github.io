@@ -88,7 +88,7 @@ custom-javascript-list:
 
 <p></p> 
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMbmxyYGAAAAAAAAAAsAbwMW0YbAMTwGAmlJzALLmZmZYGzsNsMzMZhlhxMDAwMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGYmxMzMbmxyYGAAAAAAAAAAsAbwMW0YbAMTwGAmlJzALLmZmZYGzsNsMzMZhlhxMDAwMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -375,6 +375,8 @@ custom-javascript-list:
 
 * Во время активных [Ветров рока](https://ru.wowhead.com/spell=384352) шанс на срабатывание [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757/) повышается практически до **100%**, так что за время действия этого баффа нужно успеть использовать как можно больше указанных выше способностей.
 
+* [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) стоит использовать под [Ветра рока](https://ru.wowhead.com/spell=384352) и [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047), придерживая под эти способности. Не используйте[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533), если до окончания кулдауна [Ветров рока](https://ru.wowhead.com/spell=384352) осталось от **7** до **23** секунд.
+
 * [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) является основной способностью в этой героической ветке, и его время действия равняется его кулдауну, а значит [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) должен быть активен в течение всего боя.
 
 * При установке [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) мы получаем три баффа от таланта [Бушующие стихии](https://www.wowhead.com/ru/spell=445024/):
@@ -394,7 +396,7 @@ custom-javascript-list:
 
 * [Наследие ледяной ведьмы](https://ru.wowhead.com/spell=384450) теперь длится **8** секунд вместо **5**, и его стало гораздо удобнее поддерживать.
 
-* [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) теперь наносит на **200%** больше урона по первоначальной цели, чем в патче **11.0.7**, а также на неё работает бонус сетового комплекта [Потоки властелина ветров](https://www.wowhead.com/ru/item-set=1877/). Но несмотря на это, в СТ версии билда **Тотемиста** [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) не берется, так как другие таланты наносят больше урона.
+* [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) теперь наносит на **75%** больше урона по первоначальной цели, чем в патче **11.0.7**, а также на неё работает бонус сетового комплекта [Потоки властелина ветров](https://www.wowhead.com/ru/item-set=1877/). Но несмотря на это, в СТ версии билда **Тотемиста** [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) не берется, так как другие таланты наносят больше урона.
 
 * Несмотря на то, что основной урон в этой ветке больше не завязан на позиционировании [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995), его всё равно крайне важно переносить под текущую цель с помощью повторного использования самой способности или [Проецированием тотемов](https://www.wowhead.com/ru/spell=108287). Используйте следующие макросы для удобной перестановки тотема:
 ~~~
