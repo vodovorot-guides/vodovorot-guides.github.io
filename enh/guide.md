@@ -200,32 +200,31 @@ custom-javascript-list:
 3. {:.asc-apl .no-adv-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
 3. {:.asc-apl .no-adv-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
 7. {:.no-adv-apl}Продолжайте согласно приоритету способностей, указанному ниже.
-1. {:.totem-apl .no-adv-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) за **5** секунд до пула.
+1. {:.totem-apl .adv-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) за **5** секунд до пула.
   * Точное время установки первого [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) не так важно, так как он всё равно будет сброшен [Возвращением тотемов](https://www.wowhead.com/ru/spell=108285/). 
-2. {:.totem-apl .no-adv-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/) за **3** секунды до пула.
+2. {:.totem-apl .adv-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/) за **3** секунды до пула.
   * Без [Возвращения тотемов](https://www.wowhead.com/ru/spell=108285/) можно ставить [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) примерно за **17-18** секунд, но гораздо точнее это делать со сбросом его кулдауна.
-3. {:.totem-apl .no-adv-apl}Прекаст [Молнии](https://www.wowhead.com/ru/spell=188196/) за **2** секунды до пула.
+3. {:.totem-apl .adv-apl}Прекаст [Молнии](https://www.wowhead.com/ru/spell=188196/) за **2** секунды до пула.
   * Это позволит нанести урон до старта боя и активировать [Бушующий ветер](https://www.wowhead.com/ru/spell=453409/).
-2. {:.totem-apl .no-adv-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) и [Проецирование тотемов](https://www.wowhead.com/ru/spell=108287/) на пути к боссу.
+2. {:.totem-apl .adv-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) и [Проецирование тотемов](https://www.wowhead.com/ru/spell=108287/) на пути к боссу.
   * Перенести [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) можно как его повторной активацией, так и [Проецированием тотемов](https://www.wowhead.com/ru/spell=108287/). 
-2. {:.totem-apl .no-adv-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-3. {:.totem-apl .no-adv-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
-2. {:.totem-apl .no-adv-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+2. {:.totem-apl .adv-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
+3. {:.totem-apl .adv-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
+2. {:.totem-apl .adv-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
   * Это активирует [Бушующий ураган](https://www.wowhead.com/ru/spell=453405) и повесит бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900/) с первого [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995).
-2. {:.totem-apl .no-adv-apl}Отмените прошлый [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) и сразу же ставьте новый.
+2. {:.totem-apl .adv-apl}Отмените прошлый [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) и сразу же ставьте новый.
   * Отменить тотем можно с помощью аддона [Destroy Totems](https://www.curseforge.com/wow/addons/destroy-totems) и соответветствующего макроса со страницы аддона.
-3. {:.totem-apl .no-adv-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+3. {:.totem-apl .adv-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
   * Это продлит бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900/) со второго [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995).
-2. {:.totem-apl .no-adv-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) для активации [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
-2. {:.totem-apl .no-adv-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
-3. {:.totem-apl .no-adv-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
-2. {:.totem-apl .no-adv-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
-2. {:.totem-apl .no-adv-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
-3. {:.totem-apl .no-adv-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
-2. {:.totem-apl .no-adv-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047).
+2. {:.totem-apl .adv-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) для активации [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
+2. {:.totem-apl .adv-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+3. {:.totem-apl .adv-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
+2. {:.totem-apl .adv-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+2. {:.totem-apl .adv-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+3. {:.totem-apl .adv-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+2. {:.totem-apl .adv-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047).
   * Точный тайминг [Первозданной бури](https://www.wowhead.com/ru/spell=1218047) не так важен, главное иметь **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и активные [Ветра рока](https://ru.wowhead.com/spell=384352).
-7. {:.totem-apl .no-adv-apl}Продолжайте согласно приоритету способностей, указанному ниже.
-
+7. {:.totem-apl .adv-apl}Продолжайте согласно приоритету способностей, указанному ниже.
 <p></p>
 
 <hr style="height:1px;background-color:#bbb">
