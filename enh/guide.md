@@ -203,7 +203,7 @@ custom-javascript-list:
 1. {:.totem-apl .adv-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) за **5** секунд до пула.
   * Точное время установки первого [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) не так важно, так как он всё равно будет сброшен [Возвращением тотемов](https://www.wowhead.com/ru/spell=108285/). 
 2. {:.totem-apl .adv-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/) за **3** секунды до пула.
-  * Без [Возвращения тотемов](https://www.wowhead.com/ru/spell=108285/) можно ставить [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) примерно за **17-18** секунд, но гораздо точнее это делать со сбросом его кулдауна.
+  * Без [Возвращения тотемов](https://www.wowhead.com/ru/spell=108285/) можно ставить [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) примерно за **17-18** секунд до пула, но гораздо точнее это делать со сбросом его кулдауна.
 3. {:.totem-apl .adv-apl}Прекаст [Молнии](https://www.wowhead.com/ru/spell=188196/) за **2** секунды до пула.
   * Это позволит нанести урон до старта боя и активировать [Бушующий ветер](https://www.wowhead.com/ru/spell=453409/).
 2. {:.totem-apl .adv-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) и [Проецирование тотемов](https://www.wowhead.com/ru/spell=108287/) на пути к боссу.
