@@ -55,7 +55,16 @@ custom-javascript-list:
 
 ## Общая информация
 
-В патче **11.1** Энх играет преимущественно в ветке **Тотемиста**.
+После увеличения урона Вестника шторма в [патче от 16 апреля](https://stormkeeper.ru/2025/04/13/buffs.html) играются обе героические ветки.
+
+Вестник шторма был достаточно близок к Тотемисту в уроне в одну цель, но проигрывал на большом АоЕ, а так же гораздо сильнее терял в случае неудачного времени боя в рейде и зависел от запулов в Мифик+.
+
+После этих изменений Вестник шторма обойдет Тотемиста в бою против одной цели в случае получения [Придания сил](https://www.wowhead.com/ru/spell=10060/), а без него – они сравняются еще больше.
+
+На большом АоЕ Тотемист всё еще лучше Вестника шторма, но на запулах в **4-6** мобов Вестник шторма может показать себя лучше, особенно в случае удачного тайминга бурста.
+
+В итоге, в Мифик+ можно будет играть в любой из героических веток, либо менять под каждое подземелье и состав группы, для небольшого повышения эффективности. В рейде, в зависимости от босса, где то будет выходить вперед Вестник шторма, а где-то в топе останется Тотемист. Точнее об этом мы узнаем уже после старта сезона, когда будет собрано больше информации.
+
 
 Актуальные билды на каждого босса в рейде можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/enhancement/shaman/mythic-plus/overview/10/all-dungeons/this-week).
 
@@ -81,10 +90,22 @@ custom-javascript-list:
 <p></p>
 
 
+Рейдовый билд **Вестника шторма**, одна цель или клив:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYbmxysNAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 ## Таланты для Мифик+
 
 Билд **Тотемиста** для Мифик+:
-
 
 <p></p> 
 
@@ -98,6 +119,20 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+
+Билд **Вестника шторма** для Мифик+:
+
+<p></p> 
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMYZAAAAAAAAAA2AsZGDbkFYGGawCAmlJzALLmZmZYGzsNsMzMZhlhxMDAwYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+* Таланты классовой ветки, такие как [Развеивание магии](https://ru.wowhead.com/spell=370), [Очищение духа](https://www.wowhead.com/ru/spell=51886), [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) и подобные стоит подбирать под каждое подземелье. Подробнее про каждое подземелье в [этой статье](https://stormkeeper.ru/info/utility.html). Также рекомендуется использовать WA с напоминанием по [этой ссылке](https://wago.io/hzEzPJxst).
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 # Приоритет способностей
 
