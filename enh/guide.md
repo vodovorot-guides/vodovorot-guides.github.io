@@ -123,6 +123,8 @@ custom-javascript-list:
   <div class="btn-group" role="group">
     <button type="button" id="build_enh_totem_st" class="btn btn-primary rotation-btn">Тотемист – СТ</button>
     <button type="button" id="build_enh_totem_m" class="btn btn-primary rotation-btn">Тотемист – Мифик+</button>
+    <button type="button" id="build_enh_sb" class="btn btn-primary rotation-btn">Вестник шторма – СТ</button>
+    <button type="button" id="build_enh_sb_m" class="btn btn-primary rotation-btn">Вестник шторма – Мифик+</button>
   </div>
 </div>
 
