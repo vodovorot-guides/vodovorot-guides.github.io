@@ -127,7 +127,7 @@ $('button#build_enh_sb').on('click', function() {
 });
 
 $('button#build_enh_sb_m').on('click', function() {
-    on_build_button_click(this, ["pw", "asc", "vb", "cl", "cs", "tier"]);
+    on_build_button_click(this, ["fs", "pw", "asc", "vb", "cl", "cs", "tier"]);
     return false;
 });
 
