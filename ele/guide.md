@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-03-25
+last_update: 2025-04-15
 title: Гайд на Элем Шамана
 wow: 11.1
 toc: true
@@ -181,7 +181,6 @@ custom-javascript-list:
   * Последнее использование [Перерождения](https://www.wowhead.com/ru/spell=114050/) за бой стоит синхронизировать с [Жаждкой крови](https://ru.wowhead.com/spell=2825) или другими подобными усилениями.
 3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
   * По возможности старайтесь реализовывать бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
-4. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффами [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087) и [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 2. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если следующее заклинание приведет к оверкапу энергии Водоворота или если есть бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 2. {:.no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если следующее заклинание приведет к оверкапу энергии Водоворота или если есть бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 2. {:.lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) по кулдауну.
