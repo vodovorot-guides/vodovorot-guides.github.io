@@ -241,7 +241,7 @@ custom-javascript-list:
 
 **Важные моменты:**
 
-* В Мифик+ билде, со взятыми талантами [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) и [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087/) нужно **всегда** чередовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) и [Землетрясение](https://ru.wowhead.com/spell=61882), вне зависимости от количества целей.
+* В Мифик+ билде, со взятыми талантами [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) и [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087/) нужно чередовать [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) и [Землетрясение](https://ru.wowhead.com/spell=61882) только в бою против **2+** целей.
 
 * [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) желательно использовать под [Перерождение](https://www.wowhead.com/ru/spell=114050), но не придерживать его более **10** секунд.
 
