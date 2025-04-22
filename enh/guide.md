@@ -364,6 +364,7 @@ custom-javascript-list:
 3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
 3. {:.no-totem-apl .cl-apl .no-cs-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 1. {:.no-totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+3. {:.no-totem-apl .cl-apl .cs-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 4. {:.vb-apl .totem-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470053).
 6. {:.totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
 1. [Удар бури](https://www.wowhead.com/ru/spell=17364).
