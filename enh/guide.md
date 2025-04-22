@@ -430,7 +430,6 @@ custom-javascript-list:
 
 
 * Список манекенов для реализации подготовки [Бури](https://www.wowhead.com/ru/spell=454009/), указанной выше:
-  * [Крепкий манекен влюбленного](https://www.wowhead.com/ru/item=144339) – лучший вариант, можно ставить не только под открытым небом.
   * [Бочка с фейерверками](https://www.wowhead.com/ru/item=219387/)
   * [Жесткая рыбья голова](https://www.wowhead.com/ru/item=199896/)
   * [Испытательная мишень черных драконов](https://www.wowhead.com/ru/item=201933)
