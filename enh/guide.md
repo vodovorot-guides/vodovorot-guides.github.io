@@ -274,13 +274,13 @@ custom-javascript-list:
 1. {:.totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на цели нет этого дебаффа.
 1. {:.no-fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
+1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **9+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 2. [Ветра рока](https://ru.wowhead.com/spell=384352).
 3. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 4. {:.hh-apl .totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900).
 1. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
 1. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
-1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) в момент прока на **9+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 2. {:.no-totem-apl .eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **9+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 3. {:.totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) с баффами от [Ветров рока](https://ru.wowhead.com/spell=384352) и [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 1. {:.no-totem-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) на **9+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
@@ -349,6 +349,7 @@ custom-javascript-list:
 1. {:.pw-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/), если на соседних целях нет [Огненного шока](https://ru.wowhead.com/spell=188389).
 1. {:.no-fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
 1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
+1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 1. {:.eb-apl .totem-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если нет баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 1. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если нет баффа [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
 2. [Ветра рока](https://ru.wowhead.com/spell=384352).
@@ -358,8 +359,7 @@ custom-javascript-list:
 3. {:.totem-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 1. {:.eb-apl .totem-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 1. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-3. {:.no-totem-apl .cl-apl .cs-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+3. {:.no-totem-apl .cl-apl .cs-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если её бафф не активен.
 2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
 3. {:.no-totem-apl .cl-apl .no-cs-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
@@ -413,7 +413,7 @@ custom-javascript-list:
 
 * [Ветра рока](https://ru.wowhead.com/spell=384352) следует кастовать каждую минуту **перед** использованием [Перерождения](https://ru.wowhead.com/spell=114051).
 
-* Во время активных [Ветров рока](https://ru.wowhead.com/spell=384352) старайтесь использовать как можно больше [Сокрушающих молний](https://www.wowhead.com/ru/spell=187874). После баффа в патча **11.1** первоначального урона [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874) на **200%**, теперь имеет смысл кастовать её не только для поддержания АоЕ баффа, но и просто для урона.
+* Во время активных [Ветров рока](https://ru.wowhead.com/spell=384352) старайтесь использовать как можно больше [Сокрушающих молний](https://www.wowhead.com/ru/spell=187874). После баффа в патча **11.1** первоначального урона [Сокрушающей молнии](https://www.wowhead.com/ru/spell=187874), теперь имеет смысл кастовать её не только для поддержания АоЕ баффа, но и просто для урона.
 
 
 
