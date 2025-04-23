@@ -367,8 +367,8 @@ custom-javascript-list:
 3. {:.no-totem-apl .cl-apl .cs-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 4. {:.vb-apl .totem-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470053).
 6. {:.totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
-1. [Удар бури](https://www.wowhead.com/ru/spell=17364).
 4. {:.vb-apl .no-totem-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470053).
+1. [Удар бури](https://www.wowhead.com/ru/spell=17364).
 6. {:.no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
 1. {:.sunder-apl .no-totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
 5. [Огненный шок](https://ru.wowhead.com/spell=188389).
