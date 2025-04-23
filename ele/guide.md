@@ -91,7 +91,6 @@ custom-javascript-list:
 
 <p></p>
 
-* Если в вашей группе есть Прист, который использует на вас [Придание сил](https://www.wowhead.com/ru/spell=10060), то талант [Непревзойденность](https://www.wowhead.com/ru/spell=462443) стоит заменить на [Первый перерожденный](https://www.wowhead.com/ru/spell=462440/).
 * Таланты классовой ветки, такие как [Развеивание магии](https://ru.wowhead.com/spell=370), [Очищение духа](https://www.wowhead.com/ru/spell=51886), [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) и подобные стоит подбирать под каждое подземелье. Подробнее про каждое подземелье в [этой статье](https://stormkeeper.ru/info/utility.html). Также рекомендуется использовать WA с напоминанием по [этой ссылке](https://wago.io/hzEzPJxst).
 
 # Приоритет заклинаний
