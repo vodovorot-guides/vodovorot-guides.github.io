@@ -435,6 +435,7 @@ custom-javascript-list:
   * [Испытательная мишень черных драконов](https://www.wowhead.com/ru/item=201933)
   * [Тренировочная репа](https://www.wowhead.com/ru/item=88375)
   * [Тренировочный манекен клыкарров](https://www.wowhead.com/ru/item=199830/)
+  * [Древний голем](https://www.wowhead.com/ru/item=225556/)
 
 ## Тотемист
 
