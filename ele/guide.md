@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2025-04-15
+last_update: 2025-05-12
 title: Гайд на Элем Шамана
-wow: 11.1
+wow: 11.1.5
 toc: true
 author: Amani
 image: /assets/img/ele_tb2.png
@@ -420,6 +420,15 @@ custom-javascript-list:
 
 
 # Экипировка
+
+## Загадочная фишка картелей
+
+Лучшие предметы для покупки за [Загадочные фишки картелей](https://www.wowhead.com/ru/item=237502/):
+
+* [Око Кезана](https://www.wowhead.com/ru/item=230198/) для рейда, либо [Дерзкая кружка Граба](https://www.wowhead.com/ru/item=230192) для Мифик+.
+* [Бриллиант "Джастор"](https://www.wowhead.com/ru/item=231265/%D0%B1%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82-%D0%B4%D0%B6%D0%B0%D1%81%D1%82%D0%BE%D1%80?bonus=7981:12042:5878:11996) – лучшее кольцо с отличными характеристиками и проком.
+* [БИС](https://www.wowhead.com/ru/item=232805/), либо [Дубина добытчика](https://www.wowhead.com/ru/item=228901) + [Титан индустрии](https://www.wowhead.com/ru/item=228889) – одноручное оружие и щит может быть полезнее в высоких ключах за счет дополнительной выживаемости. Оружие стоит брать **только эпохального уровня**, иначе крафт будет эффективнее.
+* [Карточный домик](https://www.wowhead.com/ru/item=230027/house-of-cards?bonus=7981:12042:5878:11996)
 
 ## Перстень Цирци
 
