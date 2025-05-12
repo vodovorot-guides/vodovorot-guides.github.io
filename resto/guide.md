@@ -401,7 +401,6 @@ image: /assets/img/resto_tb2.png
 * [Мистер Исцелятор](https://www.wowhead.com/ru/item=230186/%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%80-%D0%B8%D1%81%D1%86%D0%B5%D0%BB%D1%8F%D1%82%D0%BE%D1%80?bonus=7981:12042:5878:11996)
 * [Око Кезана](https://www.wowhead.com/ru/item=230198/) – только для рейда.
 * [Дерзкая кружка Граба](https://www.wowhead.com/ru/item=230192)
-* [Бриллиант "Джастор"](https://www.wowhead.com/ru/item=231265/%D0%B1%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82-%D0%B4%D0%B6%D0%B0%D1%81%D1%82%D0%BE%D1%80?bonus=7981:12042:5878:11996) – лучшее кольцо с отличными характеристиками и проком.
 * [Титан индустрии](https://www.wowhead.com/ru/item=228889)
 
 
