@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-05-1215
+last_update: 2025-05-15
 title: Гайд на Энх Шамана
 wow: 11.1.5
 toc: true
