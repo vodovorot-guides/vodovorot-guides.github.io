@@ -339,6 +339,7 @@ custom-javascript-list:
 1. {:.no-totem-apl}Опенер **с двумя зарядами** подготовленных кастов [Бури](https://www.wowhead.com/ru/spell=454009/):
 1. {:.no-totem-apl .pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389).
 1. {:.no-totem-apl .pw-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для спреда [Огненного шока](https://ru.wowhead.com/spell=188389) на соседние цели.
+1. {:.no-totem-apl .pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
 1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/).
 1. {:.no-totem-apl .asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 1. {:.no-totem-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
