@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-05-12
+last_update: 2025-05-1215
 title: Гайд на Энх Шамана
 wow: 11.1.5
 toc: true
@@ -308,7 +308,7 @@ custom-javascript-list:
 <div id="aoe" markdown="1" style="display:none;">
 
 **Опенер в бою против 2+ целей:**
-
+* {:.no-totem-apl}Опенер **без** подготовленных кастов [Бури](https://www.wowhead.com/ru/spell=454009/):
 1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) за **1** секунду до пула. 
   * Переносите [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) под аддов после того, как они займут свою позицию.
 1. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389).
@@ -328,13 +328,25 @@ custom-javascript-list:
   * Убедитесь, что в [Воззванию к Ториму](https://www.wowhead.com/ru/spell=384444/) записана [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
 1. {:.pw-apl .no-totem-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047).
-1. {:.pw-apl .totem-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880)
+1. {:.pw-apl .totem-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 2. {:.cl-apl .no-totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
 6. {:.totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) до тех пор, пока не закончится бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900).
 7. Продолжайте согласно приоритету способностей, указанному ниже.
 
 
-
+* {:.no-totem-apl}Опенер **с двумя зарядами** подготовленных кастов [Бури](https://www.wowhead.com/ru/spell=454009/):
+1. {:.no-totem-apl .pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389).
+1. {:.no-totem-apl .pw-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для спреда [Огненного шока](https://ru.wowhead.com/spell=188389) на соседние цели.
+1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/).
+1. {:.no-totem-apl .asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
+1. {:.no-totem-apl .cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/).
+1. {:.no-totem-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) до получения нового заряда [Бури](https://www.wowhead.com/ru/spell=454009/).
+1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/).
+1. {:.no-totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
+1. {:.no-totem-apl .asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356), [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) и [Буря](https://www.wowhead.com/ru/spell=454009/) до тех пор, пока не будет заканчиваться таймер [Первозданной бури](https://www.wowhead.com/ru/spell=1218047).
+1. {:.no-totem-apl .pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+1. {:.no-totem-apl}Продолжайте согласно приоритету способностей, указанному ниже.
 
 
 
