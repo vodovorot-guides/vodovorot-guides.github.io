@@ -309,8 +309,7 @@ custom-javascript-list:
 
 **Опенер в бою против 2+ целей:**
 
-{:.no-totem-apl}Опенер **без** подготовленных кастов [Бури](https://www.wowhead.com/ru/spell=454009/):
-
+1. {:.no-totem-apl}Опенер **без** подготовленных кастов [Бури](https://www.wowhead.com/ru/spell=454009/):
 1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) за **1** секунду до пула. 
   * Переносите [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) под аддов после того, как они займут свою позицию.
 1. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389).
@@ -337,8 +336,7 @@ custom-javascript-list:
 
 <p></p>
 
-{:.no-totem-apl}Опенер **с двумя зарядами** подготовленных кастов [Бури](https://www.wowhead.com/ru/spell=454009/):
-
+1. {:.no-totem-apl}Опенер **с двумя зарядами** подготовленных кастов [Бури](https://www.wowhead.com/ru/spell=454009/):
 1. {:.no-totem-apl .pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389).
 1. {:.no-totem-apl .pw-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для спреда [Огненного шока](https://ru.wowhead.com/spell=188389) на соседние цели.
 1. {:.no-totem-apl .pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
