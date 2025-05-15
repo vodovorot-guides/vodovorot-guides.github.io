@@ -334,6 +334,7 @@ custom-javascript-list:
 6. {:.totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) до тех пор, пока не закончится бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900).
 7. Продолжайте согласно приоритету способностей, указанному ниже.
 
+<p></p>
 
 1. {:.no-totem-apl}Опенер **с двумя зарядами** подготовленных кастов [Бури](https://www.wowhead.com/ru/spell=454009/):
 1. {:.no-totem-apl .pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389).
