@@ -308,6 +308,7 @@ custom-javascript-list:
 <div id="aoe" markdown="1" style="display:none;">
 
 **Опенер в бою против 2+ целей:**
+
 * {:.no-totem-apl}Опенер **без** подготовленных кастов [Бури](https://www.wowhead.com/ru/spell=454009/):
 1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) за **1** секунду до пула. 
   * Переносите [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) под аддов после того, как они займут свою позицию.
