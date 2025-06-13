@@ -438,6 +438,7 @@ custom-javascript-list:
   * После старта ключа нужно использовать в себя [Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/), что даст второй заряд [Бури](https://www.wowhead.com/ru/spell=454009/).
   * Пока копятся стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) от [Перерождения](https://ru.wowhead.com/spell=114051) нужно дополнительно использовать в себя пару [Исцеляющий всплесков](https://www.wowhead.com/ru/spell=8004/), чтобы ускорить получение следующей [Бури](https://www.wowhead.com/ru/spell=454009/).
   * В итоге после старта ключа у вас будет два заряда [Бури](https://www.wowhead.com/ru/spell=454009/) со свежим таймером и **10-20** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) до следующей [Бури](https://www.wowhead.com/ru/spell=454009/). Следите за аггро!
+  * Когда вы подойдете к первому паку, таймер на двух [Бурях](https://www.wowhead.com/ru/spell=454009/) будет заканчиваться – сразу применяйте первую [Бурю](https://www.wowhead.com/ru/spell=454009/) и затем [Цепную молнию](https://www.wowhead.com/ru/spell=188443) с баффом от [Дуговой искры](https://www.wowhead.com/ru/spell=455096/). Это продлит время оставшегося заряда [Бури](https://www.wowhead.com/ru/spell=454009/) и позволит применить его в нужный тайминг.
 
 
 
