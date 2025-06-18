@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2025-05-12
+last_update: 2025-06-18
 title: Гайд на Элем Шамана
-wow: 11.1.5
+wow: 11.1.7
 toc: true
 author: Amani
 image: /assets/img/ele_tb2.png
@@ -420,6 +420,15 @@ custom-javascript-list:
 
 
 # Экипировка
+
+## Пояс ДИСК
+
+Пояс [Долговечный Информационный Сверхбезопасный Контейнер](https://www.wowhead.com/ru/item=2459650) можно получить в патче **11.1.7** из [Перегруженных Вылазок](https://www.wowhead.com/ru/guide/the-war-within/overcharged-delves-unlock-rewards). Подобно [Перстню Цирци](https://www.wowhead.com/ru/item=228411), он имеет повышенный уровень предметов и его можно настраивать, подбирая необходимую способность. 
+
+Лучшие варианты способностей пояса:
+
+* **Рейд / Одна цель**: [Электрические заряды](https://www.wowhead.com/ru/spell=1236109/) – прок урона в одну цель.
+* **Мифик+ / АоЕ**: [Критическая цепь](https://www.wowhead.com/ru/spell=123627), [Взрыв искр](https://www.wowhead.com/ru/spell=1236273) или [Электрический поток](https://www.wowhead.com/ru/spell=1236937/)  – выбор прока на Крит, Скорость или Искусность зависит от ваших характеристик, [симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных, или выбирайте любой из трех.
 
 ## Руна из Жутких Видений
 
