@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-06-18
+last_update: 2025-06-24
 title: Гайд на Элем Шамана
 wow: 11.1.7
 toc: true
@@ -427,8 +427,7 @@ custom-javascript-list:
 
 Лучшие варианты способностей пояса:
 
-* **Рейд / Одна цель**: [Электрические заряды](https://www.wowhead.com/ru/spell=1236109/) – прок урона в одну цель.
-* **Мифик+ / АоЕ**: [Критическая цепь](https://www.wowhead.com/ru/spell=123627), [Взрыв искр](https://www.wowhead.com/ru/spell=1236273) или [Электрический поток](https://www.wowhead.com/ru/spell=1236937/)  – выбор прока на Крит, Скорость или Искусность зависит от ваших характеристик, [симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных, или выбирайте любой из трех.
+* **Рейд / Мифик+**: [Статический заряд](https://www.wowhead.com/ru/spell=1236938/) после [баффа](https://www.wowhead.com/news/charged-bolt-nerfed-by-massive-62-on-weekly-reset-upcoming-d-i-s-c-belt-tuning-377383) является лучшим вариантом, но стоит [посимить](https://stormkeeper.ru/info/sim.html) другие варианты на вторичные характеристики для точных данных.
 
 ## Руна из Жутких Видений
 

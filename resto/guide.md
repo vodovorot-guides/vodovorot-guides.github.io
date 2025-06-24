@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-06-18
+last_update: 2025-06-24
 title: Гайд на Рестор Шамана
 wow: 11.1.7
 toc: true
@@ -402,7 +402,6 @@ image: /assets/img/resto_tb2.png
 Лучшие варианты способностей пояса:
 
 * **Рейд и Мифик+**: [Критическая цепь](https://www.wowhead.com/ru/spell=123627) или [Прижигающие снаряды](https://www.wowhead.com/ru/spell=1236122).
-* **Нанесение урона:** [Электрические заряды](https://www.wowhead.com/ru/spell=1236109/).
 
 ## Руна из Жутких Видений
 
