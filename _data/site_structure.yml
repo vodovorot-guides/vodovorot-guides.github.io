@@ -30,6 +30,8 @@ categories:
 
   - title: Инфо
     subcategories:
+      - title: Изменения в 11.2
+        url: /info/tww112.html       
       - title: Изменения в 11.1
         url: https://worldofwarcraft.blizzard.com/en-us/news/24179386
       - title: Изменения в 11.0.5
