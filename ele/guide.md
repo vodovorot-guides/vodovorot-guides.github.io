@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-06-24
+last_update: 2025-07-28
 title: Гайд на Элем Шамана
 wow: 11.1.7
 toc: true
@@ -222,8 +222,10 @@ custom-javascript-list:
 2. {:.eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для получения баффа [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
 2. {:.no-eb-apl  .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042) для получения баффа [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
 3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
+4. {:.no-tempest-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816).
+4. {:.no-tempest-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом [Ледяной ярости](https://ru.wowhead.com/spell=462816), если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
-4. [Ледяная ярость](https://ru.wowhead.com/spell=462816) во время передвижения.
+4. {:.tempest-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816) во время передвижения.
 9. [Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) / [Огненный шок](https://ru.wowhead.com/spell=188389) во время передвижения.
 
 
