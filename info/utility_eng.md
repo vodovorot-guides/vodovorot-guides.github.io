@@ -6,12 +6,8 @@ wow: 11.2.0
 toc: true
 author: Nikyou
 description: In this article, you will learn which utility abilities to choose from the class talent tree for different dungeons.
-image: /assets/img/uts2.png
 ---
 
-<p align="center">
-<img src="/assets/img/uts2.png" width=500x>
-</p>
 
 # Talents
 

@@ -6,12 +6,8 @@ wow: 11.2.0
 toc: true
 author: Nikyou
 description: Из этой статьи вы узнаете, в какие подземелья стоит выбирать различные вспомогательные способности из классового древа талантов.
-image: /assets/img/uts2.png
 ---
 
-<p align="center">
-<img src="/assets/img/uts2.png" width=500x>
-</p>
 
 # Таланты
 
