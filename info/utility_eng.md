@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2025-02-25
+last_update: 2025-08-06
 title: Utility talents selection for Mythic+
-wow: 11.1.0
+wow: 11.2.0
 toc: true
 author: Nikyou
 description: In this article, you will learn which utility abilities to choose from the class talent tree for different dungeons.
@@ -45,32 +45,32 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 
 # Dungeons
 
-## Darkflame Cleft
+## Ara-Kara, City of Echoes
 
-* [Tremor Totem](https://www.wowhead.com/spell=8143) – can be precast to remove [Paranoid Mind](https://www.wowhead.com/spell=426145) inflicted by the third boss ([The Candle King](https://www.wowhead.com/npc=208745)). If you cast it in 1.5s interval before the boss cast (ex. 3s, 1.5s), you will remove fear on the first tick of application.
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Grasping Slash](https://www.wowhead.com/spell=433785) from tank on trash before the last boss fight.
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Poison Bolt](https://www.wowhead.com/spell=436322) from tank inflicted by [Atik](https://www.wowhead.com/npc=217533).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Venomous Spit](https://www.wowhead.com/spell=438618) inflicted by [Engorged Crawler](https://www.wowhead.com/npc=214840).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Revolting Volley](https://www.wowhead.com/spell=448248) inflicted by [Bloodstained Webmage](https://www.wowhead.com/npc=223253).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Venom Volley](https://www.wowhead.com/spell=433841) inflicted by [Blood Overseer](https://www.wowhead.com/npc=216364) on the last boss ([Ki'katal the Harvester](https://www.wowhead.com/npc=215407))
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Cultivated Poisons](https://www.wowhead.com/spell=461487) inflicted by the last boss ([Ki'katal the Harvester](https://www.wowhead.com/npc=215407)). **Important!** Make sure everyone is spread before dispelling!
 
-## The Rookery
+## The Dawnbreaker
 
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Seeping Corruption](https://www.wowhead.com/spell=430179) inflicted by [Corrupted Oracle](https://www.wowhead.com/npc=214439).
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Ensnaring Shadows](https://www.wowhead.com/spell=431309) inflicted by [Nightfall Shadowmage](https://www.wowhead.com/npc=213892).
+* [Purge](https://www.wowhead.com/spell=370) – removes [Abyssal Howl](https://www.wowhead.com/spell=450756) on [Nightfall Commander](https://www.wowhead.com/npc=214762).
+* [Purge](https://www.wowhead.com/spell=370) – removes [Umbral Barrier](https://www.wowhead.com/spell=432520) on [Nightfall Darkcaster](https://www.wowhead.com/npc=213893).
+* [Purge](https://www.wowhead.com/spell=370) – removes [Silken Shell](https://www.wowhead.com/spell=451097) on [Sureki Militant](https://www.wowhead.com/npc=213932).
 
-## The MOTHERLODE!!
+## Halls of Atonement
 
-* [Purge](https://www.wowhead.com/spell=370) – removes [Tectonic Barrier](https://www.wowhead.com/spell=263215) on [Stonefury](https://www.wowhead.com/npc=130635). **Important!** While buff is active, elemental is immune to interrupts!
-* [Purge](https://www.wowhead.com/spell=370/) - removes [Azerite Injection](https://www.wowhead.com/spell=262947) applied by [Venture Co. Mastermind](https://www.wowhead.com/npc=133430).
-* [Purge](https://www.wowhead.com/spell=370/) - removes [Overcharge](https://www.wowhead.com/spell=262540) applied by [Expert Technician](https://www.wowhead.com/npc=133593).
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Toxic Blades](https://www.wowhead.com/spell=269298) inflicted by [Hired Assassin](https://www.wowhead.com/npc=134232).
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Curse of Obliteration](https://www.wowhead.com/spell=325876) inflicted by [Depraved Obliterator](https://www.wowhead.com/npc=165414).
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Curse of Stone](https://www.wowhead.com/spell=319603) inflicted by the second boss ([Echelon](https://www.wowhead.com/npc=156827)).
 
-## Theater of Pain
+## Tazavesh, the Veiled Market: Streets of Wonder
 
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Shadow Vulnerability](https://www.wowhead.com/spell=330725) inflicted by [Portal Guardian](https://www.wowhead.com/npc=167998) in [Kul'tharok's](https://www.wowhead.com/npc=162309) (Portal) Wing.
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Curse of Desolation](https://www.wowhead.com/spell=333299) inflicted by [Nefarious Darkspeaker](https://www.wowhead.com/npc=169893) in [Kul'tharok's](https://www.wowhead.com/npc=162309) (Portal) Wing.
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Death Grasp](https://www.wowhead.com/spell=323831) from players that got pulled into the rift on the last boss.
-* [Purge](https://www.wowhead.com/spell=370/) - removes [Bone Shield](https://www.wowhead.com/spell=333293) from [Bone Magus](https://www.wowhead.com/npc=170882).
-* [Purge](https://www.wowhead.com/spell=370/) - removes [Unholy Fervor](https://www.wowhead.com/spell=341902) applied by [Battlefield Ritualist](https://www.wowhead.com/npc=174197).
-
-## Operation: Mechagon: Workshop
-
-* [Purge](https://www.wowhead.com/spell=370) – removes [Defensive Countermeasure](https://www.wowhead.com/spell=297133) on [Defense Bot Mk III](https://www.wowhead.com/npc=144298).
+* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Glyph of Restraint](https://www.wowhead.com/spell=355915) inflicted by [Interrogation Specialist](https://www.wowhead.com/npc=177816).
+* [Purge](https://www.wowhead.com/spell=370) – removes [Hard Light Barrier](https://www.wowhead.com/spell=355934) on [Support Officer](https://www.wowhead.com/npc=177817).
+* [Purge](https://www.wowhead.com/spell=370) – removes [Spam Filter](https://www.wowhead.com/spell=347775) inflicted by [Overloaded Mailemental](https://www.wowhead.com/npc=176395).
 
 
 <p></p>

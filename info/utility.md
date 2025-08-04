@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2024-02-25
+last_update: 2025-08-06
 title: Выбор вспомогательных талантов для Мифик+
-wow: 11.1.0
+wow: 11.2.0
 toc: true
 author: Nikyou
 description: Из этой статьи вы узнаете, в какие подземелья стоит выбирать различные вспомогательные способности из классового древа талантов.
@@ -45,32 +45,32 @@ WA с напоминанием о взятии нужных талантов –
 
 # Подземелья
 
-## Расселина Темного Пламени
+## Ара-Кара, Город Отголосков
 
-* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) – можно использовать заранее для снятия [Паранойи](https://www.wowhead.com/ru/spell=426145) который накладывает третий босс ([Свечной Король](https://www.wowhead.com/ru/npc=208745)). Если вы поставите его в 1.5с интервалле перед кастом босса (пример 3с, 1.5с), вы снимите фир на первом тике после наложения.
+* [Тотем ветряного порыва](https://www.wowhead.com/ru/spell=192077) вместе с [Реактивная струя](https://www.wowhead.com/ru/spell=462817) - снимает [Цепкий удар](https://www.wowhead.com/ru/spell=433785) с танка, который накладывает треш перед последним боссом.
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый заряд](https://www.wowhead.com/ru/spell=436322) с танка который накладывает [Атик](https://www.wowhead.com/ru/npc=217533).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый плевок](https://www.wowhead.com/ru/spell=438618) который накладывает [Разъевшийся ползун](https://www.wowhead.com/ru/npc=214840).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Отвратительный залп](https://www.wowhead.com/ru/spell=448248) который накладывает [Окровавленный маг паутины](https://www.wowhead.com/ru/npc=223253).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый залп](https://www.wowhead.com/ru/spell=433841) который накладывает [Кровавый надсмотрщик](https://www.wowhead.com/ru/npc=216364) на последнем боссе ([Ки'катал Жница](https://www.wowhead.com/ru/npc=215407))
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Культивированные яды](https://www.wowhead.com/ru/spell=461487) который накладывает последний босс ([Ки'катал Жница](https://www.wowhead.com/ru/npc=215407)). **Важно!** Убедитель что все разошлись перед снятием!
 
-## Гнездовье
+## Сияющий Рассвет
 
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Сочащаяся порчи](https://www.wowhead.com/ru/spell=430179) которую накладывает [Оскверненный оракул](https://www.wowhead.com/ru/npc=214439).
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Оплетающие тени](https://www.wowhead.com/ru/spell=431309) который накладывает [Сумеречный маг тени](https://www.wowhead.com/ru/npc=213892).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Вой пустоты](https://www.wowhead.com/ru/spell=450756) с [Сумеречный командир](https://www.wowhead.com/ru/npc=214762).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Темная преграда](https://www.wowhead.com/ru/spell=432520) с [Сумеречный заклинатель тьмы](https://www.wowhead.com/ru/npc=213893).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Шелковый панцирь](https://www.wowhead.com/ru/spell=451097) с [Суреки-ополченец](https://www.wowhead.com/ru/npc=213932).
 
-## ЗОЛОТАЯ ЖИЛА!!!
+## Чертоги Покаяния
 
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Тектоническую преграду](https://www.wowhead.com/ru/spell=263215) с [Каменный яростень](https://www.wowhead.com/ru/npc=130635). **Важно!** Пока бафф активен, элементаль защищён от прерываний!
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Вливание азерита](https://www.wowhead.com/ru/spell=262947) который накладывает [Гений Торговой компании](https://www.wowhead.com/ru/npc=133430).
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Перегрузку](https://www.wowhead.com/ru/spell=262540) которую накладывает [Техник-эксперт](https://www.wowhead.com/ru/npc=133593).
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитые клинки](https://www.wowhead.com/ru/spell=269298) которые накладывает [Наемный убийца](https://www.wowhead.com/ru/npc=134232).
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Проклятия уничтожения](https://www.wowhead.com/ru/spell=325876) который накладывает [Порочный уничтожитель](https://www.wowhead.com/ru/npc=165414).
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Проклятия камня](https://www.wowhead.com/ru/spell=319603) который накладывает второй босс ([Эшелон](https://www.wowhead.com/ru/npc=156827)).
 
-## Театр Боли
+## Тайный рынок Тазавеш: улицы чудес
 
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Уязвимости к темной магии](https://www.wowhead.com/ru/spell=330725) которую накладывает [Страж портала](https://www.wowhead.com/ru/npc=167998) в Крыле [Кул'тарока](https://www.wowhead.com/npc=162309) (Порталов).
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Проклятия запустения](https://www.wowhead.com/ru/spell=333299) которое накладывает [Пагубный темный проповедник](https://www.wowhead.com/ru/npc=169893) в Крыле [Кул'тарока](https://www.wowhead.com/npc=162309) (Порталов).
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Хватки смерти](https://www.wowhead.com/ru/spell=426308) с игроков которых затянуло в разлом на последнем боссе.
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Костяной щит](https://www.wowhead.com/ru/spell=333293) с [Костяного чародея](https://www.wowhead.com/ru/npc=170882).
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Нечестивое рвение](https://www.wowhead.com/ru/spell=341902) которое накладывает [Боевой ритуалист](https://www.wowhead.com/ru/npc=174197).
-
-## Операция "Мехагон": Мастерская
-
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Защитные контрмеры](https://www.wowhead.com/ru/spell=297133) с ["Оборонобот II"](https://www.wowhead.com/ru/npc=144298).
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимают [Символ сдерживания](https://www.wowhead.com/ru/spell=355915) который накладывает [Специалист по допросу](https://www.wowhead.com/ru/npc=177816).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Барьер из жесткого света](https://www.wowhead.com/ru/spell=355934) с [Офицера поддержки](https://www.wowhead.com/ru/npc=177817).
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Фильтр навязчивой рекламы](https://www.wowhead.com/ru/spell=347775) который накладывает [Перегруженный почтоменталь](https://www.wowhead.com/ru/npc=176395).
 
 
 <p></p>
