@@ -112,7 +112,7 @@ function on_build_button_click(button, talent_list) {
 
 
 $('button#build_ele_raid').on('click', function() {
-    on_build_button_click(this, ["pw"]);
+    on_build_button_click(this, ["pw", "lmt"]);
     return false;
 });
 
@@ -120,29 +120,19 @@ $('button#build_ele_mplus').on('click', function() {
     on_build_button_click(this, ["tempest", "eb", "eogs"]);
     return false;
 });
-
-$('button#build_enh_sb').on('click', function() {
-    on_build_button_click(this, ["eb", "asc", "vb", "cl", "us", "tier"]);
+1
+$('button#build_enh_sb_st').on('click', function() {
+    on_build_button_click(this, ["fs", "eb", "asc", "ic", "sunder", "vb"]);
     return false;
 });
 
-$('button#build_enh_sb_m').on('click', function() {
-    on_build_button_click(this, ["fs", "pw", "asc", "vb", "cl", "cs", "tier"]);
+$('button#build_enh_sb_cleave').on('click', function() {
+    on_build_button_click(this, ["fs", "eb", "asc", "ic", "vb", "cl"]);
     return false;
 });
 
-$('button#build_enh_totem').on('click', function() {
-    on_build_button_click(this, ["fs", "totem", "pw", "hh", "cl", "tier"]);
-    return false;
-});
-
-$('button#build_enh_totem_st').on('click', function() {
-    on_build_button_click(this, ["totem", "eb", "pw", "hh", "tier"]);
-    return false;
-});
-
-$('button#build_enh_totem_m').on('click', function() {
-    on_build_button_click(this, ["totem", "eb", "pw", "sunder", "mt", "hh", "cl", "tier"]);
+$('button#build_enh_sb_mythic').on('click', function() {
+    on_build_button_click(this, ["pw", "asc", "ic", "vb", "cl"]);
     return false;
 });
 
