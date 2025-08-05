@@ -7,7 +7,6 @@ description: Все гайды специализации были обновл�
 image: /assets/img/ecodome.jpg
 ---
 
-
 <p align="center">
     <img src="/assets/img/ecodome.jpg"> 
 </p>
