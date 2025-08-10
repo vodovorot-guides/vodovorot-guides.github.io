@@ -230,7 +230,7 @@ custom-javascript-list:
 3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
 4. {:.no-tempest-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816).
 4. {:.no-tempest-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом [Ледяной ярости](https://ru.wowhead.com/spell=462816), если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
-6. [Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) в бою против **2** целей.
+6. {:.tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) в бою против **2** целей.
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 4. {:.tempest-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816) во время передвижения.
 9. [Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) / [Огненный шок](https://ru.wowhead.com/spell=188389) во время передвижения.
