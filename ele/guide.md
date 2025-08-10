@@ -223,7 +223,7 @@ custom-javascript-list:
 2. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
 2. {:.no-lmt-apl .pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 4. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
-  * {:.no-tempest-apl}В бою против **2-3**, в случае **отсутствия** предков, [Землетрясение](https://ru.wowhead.com/spell=61882) можно заменить на [Земной шок](https://ru.wowhead.com/spell=8042).
+  * {:.no-tempest-apl}В бою против **2-3** целей, в случае **отсутствия** предков, [Землетрясение](https://ru.wowhead.com/spell=61882) можно заменить на [Земной шок](https://ru.wowhead.com/spell=8042).
 4. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
 2. {:.eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для получения баффа [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
 2. {:.no-eb-apl  .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042) для получения баффа [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
