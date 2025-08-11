@@ -117,7 +117,7 @@ $('button#build_ele_raid').on('click', function() {
 });
 
 $('button#build_ele_mplus').on('click', function() {
-    on_build_button_click(this, ["tempest", "eb", "eogs"]);
+    on_build_button_click(this, ["tempest", "eb", "pw", "eogs"]);
     return false;
 });
 1
