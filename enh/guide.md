@@ -352,8 +352,6 @@ custom-javascript-list:
 
 * За счет таланта [Воззванию к Ториму](https://www.wowhead.com/ru/spell=384444/), [Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://ru.wowhead.com/spell=114051) активирует [Молнию](https://www.wowhead.com/ru/spell=188196/) или [Цепную молнию](https://www.wowhead.com/ru/spell=188443), в зависимости от последнего использованного заклинания. При этом [Буря](https://www.wowhead.com/ru/spell=454009/) записывает [Молнию](https://www.wowhead.com/ru/spell=188196/), если она поражает одну цель, и [Цепную молнию](https://www.wowhead.com/ru/spell=188443) если она поражает несколько целей.
 
-* [Воззванию к Ториму](https://www.wowhead.com/ru/spell=384444/) автоматически активирует [Бурю](https://www.wowhead.com/ru/spell=454009/) при записанной [Молнии](https://www.wowhead.com/ru/spell=188196/), но не в случае [Цепной молнии](https://www.wowhead.com/ru/spell=188443). Поэтому [Бурю](https://www.wowhead.com/ru/spell=454009/) на АоЕ всегда следует активировать вручную.
-
 * Каждую четную [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047) следует активировать таким образом, чтобы она была во время действия [Ветров рока](https://ru.wowhead.com/spell=384352).
 
 
