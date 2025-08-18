@@ -373,7 +373,6 @@ image: /assets/img/logos/macros.png
 ~~~
 
 * Аналогичный макрос, но дополнительно ставит метку на фокус, если на нем до этого не было метки. Цифра **7** отвечает за метку, в данном случае крест:
-
 ~~~
 /focus [target=mouseover,exists][exists]
 /run if not GetRaidTargetIndex("focus") then SetRaidTarget("focus",7) end
