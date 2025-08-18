@@ -372,6 +372,15 @@ image: /assets/img/logos/macros.png
 /clearfocus
 ~~~
 
+* Аналогичный макрос, но дополнительно ставит метку на фокус, если на нем до этого не было метки. Цифра **7** отвечает за метку, в данном случае крест:
+
+~~~
+/focus [target=mouseover,exists][exists]
+/run if not GetRaidTargetIndex("focus") then SetRaidTarget("focus",7) end
+/stopmacro [target=mouseover,exists][exists]
+/clearfocus
+~~~
+
 * Добавить оповещние в чат об использовании какой-либо способности. Сообщение не будет показано, если способность на КД. Не злоупотребляйте этим макросом! Пример для [Тотем прилива маны](https://ru.wowhead.com/spell=16191):
 ~~~
 #showtooltip Тотем Прилива Маны
