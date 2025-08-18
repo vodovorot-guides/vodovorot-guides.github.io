@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-08-05
+last_update: 2025-08-18
 title: Гайд на Элем Шамана
 wow: 11.2
 toc: true
@@ -85,7 +85,7 @@ custom-javascript-list:
 ## Таланты для Мифик+
 
 
-Основной билд **Вестника шторма** для мифик+
+Основной билд **Вестника шторма** для мифик+:
 
 <p></p>
 
@@ -94,6 +94,9 @@ custom-javascript-list:
 <p></p>
 
 * Таланты классовой ветки, такие как [Развеивание магии](https://ru.wowhead.com/spell=370), [Очищение духа](https://www.wowhead.com/ru/spell=51886), [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) и подобные стоит подбирать под каждое подземелье. Подробнее про каждое подземелье в [этой статье](https://stormkeeper.ru/info/utility.html). Также рекомендуется использовать WA с напоминанием по [этой ссылке](https://wago.io/hzEzPJxst).
+
+
+
 
 # Приоритет заклинаний
 
@@ -166,9 +169,6 @@ custom-javascript-list:
 
 <p></p>
 
-* {:.tempest-apl}При игре за **Вестника шторма**, вы можете подготовить энергию Водоворота под [Бурю](https://ru.wowhead.com/spell=454009) таким образом, чтобы она прокнула практически в самом начале пула. Используйте [WA](https://wago.io/HJxL_fG7C) для отслеживания необходимого количества Водоворота для активации, так как это значение остается после вайпа босса и по окончанию боя.
-
-<p></p>
 
 **Приоритет в бою против одной цели:**
 1. [Элементаль бури](https://ru.wowhead.com/spell=192249) по кулдауну.
@@ -207,9 +207,13 @@ custom-javascript-list:
 
 **Опенер в бою против 2+ целей:**
 1. [Элементаль бури](https://ru.wowhead.com/spell=192249) за **4** секунды до пула. Убедитесь, что вы не взяли противника в цель чтобы не запулить раньше времени.
-2. [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунды до пула.
+2. [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **3** секунды до пула.
+3. [Выброс лавы](https://ru.wowhead.com/spell=51505) за **1.5** секунд до пула.
+4. {:.lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) в момент пула.
+4. {:.no-lmt-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) в момент пула.
 3. [Перерождение](https://www.wowhead.com/ru/spell=114050/) в момент пула вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
-2. {:.pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
+2. {:.pw-apl .tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
+2. {:.pw-apl .no-tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в макросе со [Стремительностью предков](https://ru.wowhead.com/spell=448861).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 7. Продолжайте согласно приоритету заклинаний, указанному ниже.
@@ -220,23 +224,25 @@ custom-javascript-list:
 1. [Элементаль бури](https://ru.wowhead.com/spell=192249) по кулдауну.
   * Можно синхронизировать [Элементаля бури](https://ru.wowhead.com/spell=192249) и [Перерождение](https://www.wowhead.com/ru/spell=114050/), придержав использование [Элементаля бури](https://ru.wowhead.com/spell=192249), но следите за общим количеством его использований за бой.
 2. [Хранитель бурь](https://ru.wowhead.com/spell=191634).
-* Используйте [Хранитель бурь](https://ru.wowhead.com/spell=191634) таким образом, чтобы применить усиленные [Цепные молнии](https://www.wowhead.com/ru/spell=188443) во время активного [Перерождения](https://www.wowhead.com/ru/spell=114050/).
-* Можно придержать [Хранителя бурь](https://ru.wowhead.com/spell=191634) под [Перерождение](https://www.wowhead.com/ru/spell=114050/), но не более чем на **10** секунд.
 2. {:.lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) по кулдауну.
 2. {:.lmt-apl .pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 2. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
 2. {:.no-lmt-apl .pw-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
+4. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если есть **2** стака баффа [Ярости шторма](https://www.wowhead.com/ru/spell=462695/) и это не приведет к оверкапу энергии Водоворота.
+4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756), чтобы поглотить огненную часть баффа [Слияние стихий](https://www.wowhead.com/ru/spell=462840).
 4. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
   * {:.no-tempest-apl}В бою против **2-3** целей, в случае **отсутствия** предков, [Землетрясение](https://ru.wowhead.com/spell=61882) можно заменить на [Земной шок](https://ru.wowhead.com/spell=8042).
 4. {:.eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) с баффом [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
 2. {:.eb-apl .eogs-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для получения баффа [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
 2. {:.no-eb-apl  .eogs-apl}[Земной шок](https://ru.wowhead.com/spell=8042) для получения баффа [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087).
 3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
-4. {:.no-tempest-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816).
+4. {:.no-eb-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816).
+4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если в бою не более **2-3** целей.
+  * {:.mote-apl}Всегда чередуйте [Выброс лавы](https://ru.wowhead.com/spell=51505) с другой способностью для реализации баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 4. {:.no-tempest-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом [Ледяной ярости](https://ru.wowhead.com/spell=462816), если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
 6. {:.tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) в бою против **2** целей.
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
-4. {:.tempest-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816) во время передвижения.
+4. {:.eb-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816) во время передвижения.
 9. [Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) / [Огненный шок](https://ru.wowhead.com/spell=188389) во время передвижения.
 
 
