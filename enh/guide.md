@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-08-05
+last_update: 2025-08-23
 title: Гайд на Энх Шамана
 wow: 11.2
 toc: true
@@ -340,8 +340,6 @@ custom-javascript-list:
 
 * При активации [Перерождения](https://ru.wowhead.com/spell=114051) следует иметь **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), чтобы усилить [Бурю](https://www.wowhead.com/ru/spell=454009/) от сета.
 
-
-
 * Самое главное при игре за **Вестника шторма** – генерировать и тратить как можно больше стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для проков [Бури](https://www.wowhead.com/ru/spell=454009/) и вызова молниевых [Духов дикого зверя](https://www.wowhead.com/ru/spell=51533) за счет таланта [Громовые раскаты](https://www.wowhead.com/ru/spell=454026).
 
 * Для успешной игры практически обязательно использовать WA для отслеживания прока [Бури](https://www.wowhead.com/ru/spell=454009/). Она есть в [сборке Amani](https://wago.io/HJxL_fG7C), либо отдельными WA в виде [полоски](https://wago.io/KvudtiNs1) или [иконки](https://wago.io/TKVKEpxkf).
@@ -354,6 +352,7 @@ custom-javascript-list:
 
 * Каждую четную [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047) следует активировать таким образом, чтобы она была во время действия [Ветров рока](https://ru.wowhead.com/spell=384352).
 
+* Бафф [Дуговой искры](https://www.wowhead.com/ru/spell=455096) не влияет на приоритет – вне зависимости от его наличия или отсутствия стоит следовать приоритетам, указанным выше.
 
 ## Тотемист
 
