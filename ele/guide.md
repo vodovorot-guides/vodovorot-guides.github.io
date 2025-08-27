@@ -180,7 +180,7 @@ custom-javascript-list:
 3. {:.pw-apl .no-tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в макросе со [Стремительностью предков](https://ru.wowhead.com/spell=448861), если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389).
 3. {:.pw-apl .tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982), если на цели есть [Огненный шок](https://ru.wowhead.com/spell=188389).
 2. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
-  * Последнее использование [Перерождения](https://www.wowhead.com/ru/spell=114050/) за бой стоит синхронизировать с [Жаждкой крови](https://ru.wowhead.com/spell=2825) или другими подобными усилениями.
+  * Последнее использование [Перерождения](https://www.wowhead.com/ru/spell=114050/) за бой стоит синхронизировать с [Жаждой крови](https://ru.wowhead.com/spell=2825) или другими подобными усилениями.
 3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
   * По возможности старайтесь реализовывать бафф [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 4. {:.lmt-apl .no-tempest-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222), если выполняются **все** условия:
