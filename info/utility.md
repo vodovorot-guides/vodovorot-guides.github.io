@@ -57,11 +57,6 @@ WA с напоминанием о взятии нужных талантов –
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Темная преграда](https://www.wowhead.com/ru/spell=432520) с [Сумеречный заклинатель тьмы](https://www.wowhead.com/ru/npc=213893).
 * [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Шелковый панцирь](https://www.wowhead.com/ru/spell=451097) с [Суреки-ополченец](https://www.wowhead.com/ru/npc=213932).
 
-## Чертоги Покаяния
-
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Проклятия уничтожения](https://www.wowhead.com/ru/spell=325876) который накладывает [Порочный уничтожитель](https://www.wowhead.com/ru/npc=165414).
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – можно использовать для снятия [Проклятия камня](https://www.wowhead.com/ru/spell=319603) который накладывает второй босс ([Эшелон](https://www.wowhead.com/ru/npc=156827)).
-
 ## Тайный рынок Тазавеш: улицы чудес
 
 * [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимают [Символ сдерживания](https://www.wowhead.com/ru/spell=355915) который накладывает [Специалист по допросу](https://www.wowhead.com/ru/npc=177816).

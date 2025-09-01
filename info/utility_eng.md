@@ -57,11 +57,6 @@ WA reminder to take the right talents for the dungeon – [link](https://wago.io
 * [Purge](https://www.wowhead.com/spell=370) – removes [Umbral Barrier](https://www.wowhead.com/spell=432520) on [Nightfall Darkcaster](https://www.wowhead.com/npc=213893).
 * [Purge](https://www.wowhead.com/spell=370) – removes [Silken Shell](https://www.wowhead.com/spell=451097) on [Sureki Militant](https://www.wowhead.com/npc=213932).
 
-## Halls of Atonement
-
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Curse of Obliteration](https://www.wowhead.com/spell=325876) inflicted by [Depraved Obliterator](https://www.wowhead.com/npc=165414).
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Curse of Stone](https://www.wowhead.com/spell=319603) inflicted by the second boss ([Echelon](https://www.wowhead.com/npc=156827)).
-
 ## Tazavesh, the Veiled Market: Streets of Wonder
 
 * [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Glyph of Restraint](https://www.wowhead.com/spell=355915) inflicted by [Interrogation Specialist](https://www.wowhead.com/npc=177816).
