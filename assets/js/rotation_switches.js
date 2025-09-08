@@ -132,7 +132,7 @@ $('button#build_enh_sb_cleave').on('click', function() {
 });
 
 $('button#build_enh_sb_mythic').on('click', function() {
-    on_build_button_click(this, ["pw", "asc", "ic", "vb", "cl"]);
+    on_build_button_click(this, ["pw", "asc", "vb", "cl"]);
     return false;
 });
 
