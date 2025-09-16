@@ -157,6 +157,7 @@ custom-javascript-list:
 <div id="st" markdown="1">
 
 1. {:.no-totem-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) по кулдауну, желательно на самые дорогие по мане заклинания.
+  * Перед применением [Стремительности предков](https://www.wowhead.com/ru/spell=443454) желательно потратить несколько зарядов [Быстрины](https://ru.wowhead.com/spell=61295), так как они восстановятся за счет таланта [Потусторонний дар](https://www.wowhead.com/ru/spell=443451) и сетового комплекта.
 3. {:.totem-apl}[Пульсирующий тотем](https://ru.wowhead.com/spell=444995) по кулдауну.
 1. {:.tide-apl .ul-apl}Используйте [Цепное исцеление](https://ru.wowhead.com/spell=1064) с баффом от [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685) если активен [Прилив](https://www.wowhead.com/ru/spell=157154/) и есть **3+** раненых союзника.
 1. {:.flow-apl}Поглощайте бафф [Быстрины](https://ru.wowhead.com/spell=61295) с помощью [Цепного исцеления](https://ru.wowhead.com/spell=1064), если есть **3+** раненых союзника.
