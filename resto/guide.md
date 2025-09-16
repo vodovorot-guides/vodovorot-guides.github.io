@@ -159,6 +159,7 @@ custom-javascript-list:
 <div id="st" markdown="1">
 
 1. {:.no-totem-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) по кулдауну, желательно на самые дорогие по мане заклинания.
+3. {:.totem-apl}[Пульсирующий тотем](https://ru.wowhead.com/spell=444995) по кулдауну.
 1. {:.tide-apl .ul-apl}Используйте [Цепное исцеление](https://ru.wowhead.com/spell=1064) с баффом от [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685) если активен [Прилив](https://www.wowhead.com/ru/spell=157154/) и есть **3+** раненых союзника.
 1. {:.flow-apl}Поглощайте бафф [Быстрины](https://ru.wowhead.com/spell=61295) с помощью [Цепного исцеления](https://ru.wowhead.com/spell=1064), если есть **3+** раненых союзника.
 1. {:.flow-apl}Используйте [Быстрину](https://ru.wowhead.com/spell=61295) на раненых союзников, если она была поглощена [Цепным исцелением](https://ru.wowhead.com/spell=1064).
@@ -170,7 +171,6 @@ custom-javascript-list:
 1. {:.mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) для получения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=462375/), если никто из союзников не планирует умереть в ближайшее время.
 1. [Быстрина](https://ru.wowhead.com/spell=61295) по кулдауну.
 2. {:.ewt-apl}[Тотем земляной стены](https://www.wowhead.com/ru/spell=198838) по кулдауну.
-3. {:.totem-apl}[Пульсирующий тотем](https://ru.wowhead.com/spell=444995) по кулдауну.
 3. {:.rain-apl .no-ww-apl .no-totem-apl}[Целительный ливень](https://ru.wowhead.com/spell=73920) перед АоЕ уроном по группе, в качестве дополнительного источника исцеления.
 3. {:.cbt-apl}[Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) перед получением урона. Не допускайте простаивания этой способности на двух зарядах.
 3. {:.no-cbt-apl}[Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) после получения урона. Не допускайте простаивания этой способности на двух зарядах.
