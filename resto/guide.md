@@ -175,7 +175,7 @@ custom-javascript-list:
 1. {:.no-tide-apl .ul-apl}[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685) по кулдауну.
 4. {:.ww-apl}Используйте [Волну исцеления](https://ru.wowhead.com/spell=77472) для реализации таланта [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598).
   * Старайтесь применять это заклинание на игроков с [Быстриной](https://ru.wowhead.com/spell=61295) или [Щитом земли](https://ru.wowhead.com/spell=974) для дополнительного исцеления
-2. {:.und-apl}[Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/), если есть бафф [Пульсации](https://ru.wowhead.com/spell=200071).
+2. {:.und-apl .no-ww-apl}[Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/), если есть бафф [Пульсации](https://ru.wowhead.com/spell=200071).
 2. Обновляйте [Щит земли](https://ru.wowhead.com/spell=974) на танке или на активно получающем урон союзнике, а со взятым талантом [Кружащие стихии](https://www.wowhead.com/ru/spell=383010) – еще и на себе.
   * {:.no-totem-apl}Лучше всего обовлять [Щит земли](https://ru.wowhead.com/spell=974) в те моменты, когда группа/рейд не получает сильного урона и у вас не простаивает [Быстрина](https://ru.wowhead.com/spell=61295) на трех зарядах.
 3. {:.reach-apl}[Цепное исцеление](https://ru.wowhead.com/spell=1064), если есть **3+** раненых союзника.
