@@ -1,12 +1,14 @@
 ---
 layout: page
-last_update: 2025-08-06
+last_update: 2025-09-16
 title: Гайд на Рестор Шамана
 wow: 11.2
 toc: true
 author: Amani
 description: Большое руководство по всем аспектам игры за Шамана Исцеления. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и WA и многое другое.
 image: /assets/img/resto_tb2.png
+custom-javascript-list:
+    - "/assets/js/rotation_switches.js"
 ---
 
 
@@ -61,45 +63,12 @@ image: /assets/img/resto_tb2.png
 
 <p></p>
 
-* Основная идея данного билда в исползовании [Быстрин](https://ru.wowhead.com/spell=61295) на максимальное количество целей, с последующим спамом [Волны исцеления](https://www.wowhead.com/ru/spell=77472/), которая будет лечить союзников под [Быстринами](https://ru.wowhead.com/spell=61295) за счет таланта [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598/).
+* Основная идея данного билда в использовании [Быстрин](https://ru.wowhead.com/spell=61295) на максимальное количество целей, с последующим спамом [Волны исцеления](https://www.wowhead.com/ru/spell=77472/), которая будет лечить союзников под [Быстринами](https://ru.wowhead.com/spell=61295) за счет таланта [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598/).
 * В этом билде не так важен [Целительный ливень](https://www.wowhead.com/ru/spell=73920/), так как бонуса комплекта доспехов второго сезона больше нет, что позволит кастовать еще больше [Волн исцеления](https://www.wowhead.com/ru/spell=77472/).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-
-
-**Предсказатель** через [Цепное исцеление](https://ru.wowhead.com/spell=1064):
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYMzMbzsNMzDMLLz2YxwiNzsADYCmFmAjFMzsYZmtZmZmMbLMz0YGmZDLzYGMGmlxAAgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-* Данный билд схож с Тотемистом через [Цепное исцеление](https://ru.wowhead.com/spell=1064), за тем исключением, что [Цепные исцеления](https://ru.wowhead.com/spell=1064) тут кастуются вручную.
-* В этом билде мана также расходуется достаточно быстро, и для её экономии стоит кастовать [Цепные исцеления](https://ru.wowhead.com/spell=1064) под баффами от [Стремительности предков](https://www.wowhead.com/ru/spell=443454) и [Прилива](https://www.wowhead.com/ru/spell=157154/).
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-
-**Тотемист** через [Цепное исцеление](https://ru.wowhead.com/spell=1064):
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtxMjxysMWMswCsAzYTjlBkZgNmZmFLmtZmZmMbLMz0YGmZDLzYGMGmlxAAgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-* Основная идея билда – позволить таланту [Энергичные тотемы](https://www.wowhead.com/ru/spell=445034) кастовать большую часть [Цепных исцелений](https://ru.wowhead.com/spell=1064), чтобы игроку не пришлось тратить слишком много маны.
-* В данном билде берется множество талантов для увеличения АоЕ отхила, такие как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778) и [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153), и таланты для повышения эффективности [Цепного исцеления](https://ru.wowhead.com/spell=1064).
-* Многие из этих заклинаний стоят достаточно много маны, и в этом билде можно слить её очень быстро. Чтобы избежать этого, старайтесь меньше самостоятельно кастовать [Цепные исцеления](https://ru.wowhead.com/spell=1064), и делать это желательно с сильными баффами, такими как [Прилив](https://www.wowhead.com/ru/spell=157154/).
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 
 
@@ -129,125 +98,142 @@ image: /assets/img/resto_tb2.png
 <p></p>
 
 
+# Приоритет способностей
 
+Учитывая механику работы [Искусности](https://www.wowhead.com/ru/spell=77226/), всегда старайтесь выбирать целью самых раненых союзников. Это не только спасет их от гибели, но и увеличит ваше эффективное исцеление.
+{: class="bordered"}
 
-**Тотемист** через [Цепное исцеление](https://ru.wowhead.com/spell=1064):
-
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzMjhZZsYGYBWgZsox2AyMwGzMziFz2MzMysBz0YmhhxixMYWGLzyMDAAG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
-
+<hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
-* Основная идея билда – позволить таланту [Энергичные тотемы](https://www.wowhead.com/ru/spell=445034) кастовать большую часть [Цепных исцелений](https://ru.wowhead.com/spell=1064), чтобы игроку не пришлось тратить слишком много маны.
-* В данном билде берется множество талантов для увеличения АоЕ отхила, такие как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778) и [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153), и таланты для повышения эффективности [Цепного исцеления](https://ru.wowhead.com/spell=1064).
-* Многие из этих заклинаний стоят достаточно много маны, и в этом билде можно слить её очень быстро. Чтобы избежать этого, старайтесь меньше самостоятельно кастовать [Цепные исцеления](https://ru.wowhead.com/spell=1064), и делать это желательно с сильными баффами, такими как [Прилив](https://www.wowhead.com/ru/spell=157154/).
+<center>Выберите используемые таланты, и приоритет способностей соответственно изменится:</center>
+
+<div class="btn-toolbar justify-content-center mt-2 mb-3">
+  <div class="btn-group" role="group">
+    <button type="button" id="build_resto_ww" class="btn btn-primary rotation-btn">Рейдовый билд через Шепчущие волны</button>
+    <button type="button" id="build_resto_mplus" class="btn btn-primary rotation-btn">Мифик+ билд</button>
+  </div>
+</div>
 
 
+<ul class="rotation_switches form-check form-switch mb-2" style="list-style-type: none;">
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_totem"> [Пульсирующий тотем](https://ru.wowhead.com/spell=444995)</li>  
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_cbt"> [Тотем разразившегося ливня](https://ru.wowhead.com/spell=157153)</li>     
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_rain"> [Целительный ливень](https://ru.wowhead.com/spell=73920)</li>    
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_ul"> [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/)</li>  
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_und"> [Пульсация](https://ru.wowhead.com/spell=200071)</li>  
+  <li markdown="span" class="rotation_switch"> 
+    <input class="form-check-input" type="checkbox" id="rotation_switch_ww"> [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598/)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_well"> [Родник](https://www.wowhead.com/ru/spell=197995/)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_ewt"> [Тотем земляной стены](https://ru.wowhead.com/spell=198838)</li>  
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_reach"> [Устремление предков](https://www.wowhead.com/ru/spell=382732/)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_flow"> [Приливные течения](https://www.wowhead.com/ru/spell=382039/)</li>  
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_tide"> [Прилив](https://www.wowhead.com/ru/spell=157154/)</li>
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_mote"> [Властелин стихий](https://www.wowhead.com/ru/spell=462375/)</li>
+</ul>
+
+<p></p>
+
+<div class="btn-toolbar justify-content-center mt-2 mb-3">
+  <div class = "btn-group btn-group-sm">
+    <button type="button" id="target_1" class="btn btn-primary px-3 rotation-btn active">Лечение</button>
+    <button type="button" id="target_2" class="btn btn-primary px-3 rotation-btn">Нанесение урона</button>
+  </div>
+</div>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+<div id="st" markdown="1">
+
+
+1. {:.tide-apl .ul-apl}Используйте [Цепное исцеление](https://ru.wowhead.com/spell=1064) с баффом от [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685) если активен [Прилив](https://www.wowhead.com/ru/spell=157154/) и есть **3+** раненых союзника.
+1. {:.flow-apl}Поглощайте бафф [Быстрины](https://ru.wowhead.com/spell=61295) с помощью [Цепного исцеления](https://ru.wowhead.com/spell=1064), если есть **3+** раненых союзника.
+1. {:.flow-apl}Используйте [Быстрину](https://ru.wowhead.com/spell=61295) на раненых союзников, если она была поглощена [Цепным исцелением](https://ru.wowhead.com/spell=1064).
+1. {:.tide-apl}[Цепное исцеление](https://ru.wowhead.com/spell=1064), если активен [Прилив](https://www.wowhead.com/ru/spell=157154/) и есть **3+** раненых союзника.
+1. {:.no-totem-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) по кулдауну, желательно на самые дорогие по мане заклинания.
+2. {:.well-apl}[Родник](https://www.wowhead.com/ru/spell=197995/) после получения АоЕ урона.
+2. {:.totem-apl}[Ливневый дождь](https://www.wowhead.com/ru/spell=207778) после [Пульсирующего тотема](https://ru.wowhead.com/spell=444995), если требуется дополнительное АоЕ исцеление.
+1. {:.mote-apl}[Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/) на раненого союзника, если есть бафф [Властелина стихий](https://www.wowhead.com/ru/spell=462375/).
+  * Это также наложит [Огненный шок](https://ru.wowhead.com/spell=188389) на ближайшего противника.
+1. {:.mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) для получения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=462375/), если не 
+1. [Быстрина](https://ru.wowhead.com/spell=61295) по кулдауну.
+2. {:.ewt-apl}[Тотем земляной стены](https://www.wowhead.com/ru/spell=198838) по кулдауну.
+3. {:.totem-apl}[Пульсирующий тотем](https://ru.wowhead.com/spell=444995) по кулдауну.
+3. {:.rain-apl .no-ww-apl .no-totem-apl}[Целительный ливень](https://ru.wowhead.com/spell=73920) перед АоЕ уроном по группе, в качестве дополнительного источника исцеления.
+3. {:.cbt-apl}[Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) перед получением урона. Не допускайте простаивания этой способности на двух зарядах.
+  * {:.totem-apl .well-apl .tide-apl}Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778), [Родник](https://www.wowhead.com/ru/spell=197995/) и [Прилив](https://www.wowhead.com/ru/spell=157154).
+  * {:.no-totem-apl .well-apl .tide-apl}Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Родник](https://www.wowhead.com/ru/spell=197995/) и [Прилив](https://www.wowhead.com/ru/spell=157154).
+  * {:.no-totem-apl .no-well-apl .tide-apl}Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Прилив](https://www.wowhead.com/ru/spell=157154).
+  * {:.no-totem-apl .well-apl .no-tide-apl}Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Родник](https://www.wowhead.com/ru/spell=197995/).
+  * {:.totem-apl .no-well-apl .no-tide-apl}Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778).
+  * {:.totem-apl .well-apl .no-tide-apl}Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778) и [Родник](https://www.wowhead.com/ru/spell=197995/).
+  * {:.totem-apl .no-well-apl .tide-apl}Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778) и [Прилив](https://www.wowhead.com/ru/spell=157154).
+  * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) **не** собирает исцеление от других тотемов, например от [Тотема целительного прилива](https://ru.wowhead.com/spell=108280).
+  * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) можно взорвать раньше, повторно нажав использование, в течение **15** секунд после установки. Это стоит применять в том случае, чтобы его лечение не ушло в оверхил.
+  * Если взят талант [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/), используйте его после применения [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153). С талантом [Ядро созидания](https://www.wowhead.com/ru/spell=383012) восстанавливается сразу два заряда [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153).
+3. {:.no-cbt-apl}[Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) после получения урона. Не допускайте простаивания этой способности на двух зарядах.
+1. {:.no-tide-apl .ul-apl}[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685) по кулдауну.
+4. {:.ww-apl}Используйте [Волну исцеления](https://ru.wowhead.com/spell=77472) для реализации таланта [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598).
+  * Старайтесь применять это заклинание на игроков с [Быстриной](https://ru.wowhead.com/spell=61295) или [Щитом земли](https://ru.wowhead.com/spell=974) для дополнительного исцеления
+2. {:.und-apl}[Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/), если есть бафф [Пульсации](https://ru.wowhead.com/spell=200071).
+2. Обновляйте [Щит земли](https://ru.wowhead.com/spell=974) на танке или на активно получающем урон союзнике, а со взятым талантом [Кружащие стихии](https://www.wowhead.com/ru/spell=383010) – еще и на себе.
+  * {:.no-totem-apl}Лучше всего обовлять [Щит земли](https://ru.wowhead.com/spell=974) в те моменты, когда группа/рейд не получает сильного урона и у вас не простаивает [Быстрина](https://ru.wowhead.com/spell=61295) на трех зарядах.
+3. {:.reach-apl}[Цепное исцеление](https://ru.wowhead.com/spell=1064), если есть **3+** раненых союзника.
+4. {:.no-ww-apl}[Волна исцеления](https://ru.wowhead.com/spell=77472) или [Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/) для лечения отдельных раненых игроков.
+  * [Волна исцеления](https://ru.wowhead.com/spell=77472) эффективнее по мане, но дольше кастуется.
+  * [Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/) стоит дороже, но кастуется быстрее.
+
+</div>
+
+<div id="aoe" markdown="1" style="display:none;">
+
+
+1. {:.rain-apl .no-ww-apl .totem-apl}Используйте [Пульсирующий тотем](https://ru.wowhead.com/spell=444995) для нанесения урона с талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) по кулдауну.
+2. {:.no-totem-apl .ul-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) и [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685) можно использовать также и для нанесения урона, так как призываемые Предки наносят очень много урона.
+  * Предки используют свои версии [Выброса лавы](https://ru.wowhead.com/spell=51505) и [Цепной молнии](https://ru.wowhead.com/spell=188443) в зависимости от того, какие вы применяете заклинания.
+2. {:.no-totem-apl .no-ul-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) можно использовать также и для нанесения урона, так как призываемые Предки наносят очень много урона.
+  * Предки используют свои версии [Выброса лавы](https://ru.wowhead.com/spell=51505) и [Цепной молнии](https://ru.wowhead.com/spell=188443) в зависимости от того, какие вы применяете заклинания.
+4. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443), если целей **2** и более.
+5. [Огненный шок](https://ru.wowhead.com/spell=188389) стоит поддерживать в бою против **1** цели, на большем количестве целей он кастуется только во время передвижения. 
+  * {:.mote-apl}С талантом [Властелин стихий](https://www.wowhead.com/ru/spell=462375/), [Огненный шок](https://ru.wowhead.com/spell=188389) автоматически вешается на ближайшую цель при поглощении этого баффа [Исцеляющим всплеском](https://www.wowhead.com/ru/spell=8004/).
+6. [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется по кулдауну в бою против **1** цели, либо по проку [Волны лавы](https://ru.wowhead.com/spell=77756) во время движения на бóльшем количестве целей.
+7. [Молния](https://ru.wowhead.com/spell=188196) кастуется как филлер в бою против одной цели, когда остальные способности недоступны.
+
+
+
+
+</div>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
 
-# Приоритет способностей
+
+
+
+
+
 
 
 Учитывая механику работы [Искусности](https://www.wowhead.com/ru/spell=77226/), всегда старайтесь выбирать целью самых раненых союзников. Это не только спасет их от гибели, но и увеличит ваше эффективное исцеление.
 {: class="bordered"}
 
-## Приоритет в билде через Шепчущие волны
 
-1. Используйте [Стремительность предков](https://www.wowhead.com/ru/spell=443454) по кулдауну, желательно на самые дорогие по мане заклинания.
-1. Кастуйте [Быстрину](https://ru.wowhead.com/spell=61295) по кулдауну.
-2. Используйте [Тотем земляной стены](https://www.wowhead.com/ru/spell=198838) по кулдауну.
-3. Используйте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) / [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) как можно чаще, не допускайте чтобы эти способности простаивали на двух зарядах.
-  * [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) отыгрывается крайне просто – ставьте его тогда, когда союзники получают урон.
-  * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) стоит использовать **после** [Целительного ливня](https://ru.wowhead.com/spell=73920), а не перед ним.
-  * Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778), [Родник](https://www.wowhead.com/ru/spell=197995/) и [Прилив](https://www.wowhead.com/ru/spell=157154).
-  * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) **не** собирает исцеление от других тотемов, например от [Тотема целительного прилива](https://ru.wowhead.com/spell=108280).
-  * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) можно взорвать раньше, повторно нажав использование, в течение **15** секунд после установки. Это стоит применять в том случае, чтобы его лечение не ушло в оверхил.
-  * Если взят талант [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/), используйте его после применения [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153). С талантом [Ядро созидания](https://www.wowhead.com/ru/spell=383012) восстанавливается сразу два заряда [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153).
-4. Используйте [Волну исцеления](https://ru.wowhead.com/spell=77472) для реализации таланта [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598). Старайтесь применять это заклинание на игроков с [Быстриной](https://ru.wowhead.com/spell=61295) или [Щитом земли](https://ru.wowhead.com/spell=974).
-2. Обновляйте [Щит земли](https://ru.wowhead.com/spell=974) на танке или на активно получающем урон союзнике, а со взятым талантом [Кружащие стихии](https://www.wowhead.com/ru/spell=383010) – еще и на себе. Лучше всего это делать в те моменты, когда группа/рейд не получает сильного урона и у вас не простаивает [Быстрина](https://ru.wowhead.com/spell=61295) на трех зарядах.
-
-  
-
-
-2. Используйте [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/) по кулдауну, если он взят в талантах. Это особенно важно в ветке Предсказателя.
-1. Кастуйте [Быстрину](https://ru.wowhead.com/spell=61295) в раненых союзни
-1. Кастуйте [Целительный ливень](https://ru.wowhead.com/spell=73920) по кулдауну в скопление союзников, если он взят в талантах. С талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) стоит также задевать [Целительным ливнем](https://ru.wowhead.com/spell=73920) врагов.
-2. Поддерживайте на танке [Щит земли](https://ru.wowhead.com/spell=974), а со взятым талантом [Кружащие стихии](https://www.wowhead.com/ru/spell=383010) – еще и на себе.
-3. Используйте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) / [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) как можно чаще, если в ближайшее время вы будете хилить. 
-
-4. Как можно чаще используйте способности с коротким кулдауном, так как они гораздо эффективнее чем [филлеры](https://stormkeeper.ru/info/abbrevs.html). К ним относятся следующие способности:
-  * [Ливневый дождь](https://www.wowhead.com/ru/spell=462488)
-  * [Родник](https://www.wowhead.com/ru/spell=197995/)
-  * [Тотем земляной стены](https://www.wowhead.com/ru/spell=198838)
-
-
-Если вместо [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153) вы используете [Тотем исцеляющего потока](https://ru.wowhead.com/spell=5394), то его можно просто ставить по кулдауну в течение всего боя. Вокруг него не нужно специально отыгрывать и ничем заряжать, он будет просто пассивно хилить вас и ваших союзников. Это является как его плюсом (простота), так и минусом (отсутствуие контролируемого бурстового отхила).
-{: class="bordered"}
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-## Бурстовая комбинация через Перерождение
-
-У Шамана Исцеления нет как таковой [рампы](https://stormkeeper.ru/info/abbrevs.html) как у других лекарей, но фиксированная очередность определенных заклинаний во время разыгрывания бурстов по сути является её заменой. Ниже дан пример такой комбинации при использовании [Перерождения](https://ru.wowhead.com/spell=114052) в стандартном билде через [Цепное исцеление](https://ru.wowhead.com/spell=1064):
-
-1. Используйте [Быстрину](https://ru.wowhead.com/spell=61295) для получения двух стаков [Приливных волн](https://www.wowhead.com/ru/spell=51564/).
-2. Используйте [Целительный ливень](https://ru.wowhead.com/spell=73920), но **НЕ** кастуйте сразу же [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), он потребуется чуть позже.
-4. Устанавливайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153).
-5. Используйте [Перерождение](https://ru.wowhead.com/spell=114052).
-3. Используйте [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
-6. Используйте [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), поглощая эффект от таланта [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
-7. Используйте [Родник](https://www.wowhead.com/ru/spell=197995/).
-8. Кастуйте два [Цепных исцеления](https://ru.wowhead.com/spell=1064).
-9. Мгновенно кастуйте [Целительный ливень](https://ru.wowhead.com/spell=73920) с баффом от [Природной стремительности](https://www.wowhead.com/ru/spell=132158/) и сразу же [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), пока все бурсты еще активны.
-10. Возвращайтесь к обычной ротации, не забыв взорвать [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) в момент просадки рейда.
-
-
-## Нанесение урона
-
-
-
-Если нечего хилить, то стоит **наносить урон**:
-1. Используйте [Целительный ливень](https://ru.wowhead.com/spell=73920) для нанесения урона с талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) по кулдауну. [Целительный ливень](https://ru.wowhead.com/spell=73920) кастуется для урона по кулдауну даже в бою против одного противника.
-4. Кастуйте [Цепную молнию](https://ru.wowhead.com/spell=188443), если целей **2** и более.
-5. [Огненный шок](https://ru.wowhead.com/spell=188389) стоит поддерживать в бою против **1** цели, на большем количестве целей он кастуется только во время передвижения. Обновляйте [Огненный шок](https://ru.wowhead.com/spell=188389), когда до его спадения остается менее **5.4** секунд, чтобы это время добавилось к новому наложению дебаффа.
-6. [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется по кулдауну в бою против **1** цели, либо по проку [Волны лавы](https://ru.wowhead.com/spell=77756) во время движения на бóльшем количестве целей.
-7. [Молния](https://ru.wowhead.com/spell=188196) кастуется как филлер в бою против одной цели, когда остальные способности недоступны.
-
-
-## Активное исцеление
-
-Для **активного отхила** стоит использовать следующие способности:
-1. Используйте [Быстрину](https://ru.wowhead.com/spell=61295) по кулдауну в раненых союзников.
-  * Поддерживайте [Быстрину](https://ru.wowhead.com/spell=61295) на танках и на игроках, которые получают урон от ДоТ-эффектов.
-  * [Быстрина](https://ru.wowhead.com/spell=61295) ощутимо хилит при наложении, поэтому её целью должны становиться в первую очередь самые раненые союзники.
-  * По возможности развешивайте ХоТ-эффект от [Быстрины](https://ru.wowhead.com/spell=61295) на разных союзников для увеличения эффективности таланта [Подводное течение](https://www.wowhead.com/ru/spell=382194).
-  * Каждый каст [Быстрины](https://ru.wowhead.com/spell=61295) дает **2** стака баффа [Приливные волны](https://www.wowhead.com/ru/spell=51564/), который увеличивает эффективность [Цепного исцеления](https://ru.wowhead.com/spell=1064), [Волны исцеления](https://ru.wowhead.com/spell=77472) и [Исцеляющего всплеска](https://www.wowhead.com/ru/spell=8004/).
-  * Между кастами [Быстрины](https://ru.wowhead.com/spell=61295) желательно использовать филлерные заклинания, указанные выше, если ситуация это позволяет.
-2. Используйте [Цепное исцеление](https://ru.wowhead.com/spell=1064) для АоЕ отхила.
-  * Радиус перескока [Цепного исцеления](https://ru.wowhead.com/spell=1064) составляет **15** метров, поэтому если союзники стоят **очень** разрозненно, не стоит его использовать.
-  * Стоит усиливать [Цепное исцеление](https://ru.wowhead.com/spell=1064) талантом [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
-  * [Цепное исцеление](https://ru.wowhead.com/spell=1064) всегда выбирает **самые** раненые цели для отхила.
-  * [Отслеживайте](https://wago.io/rk7idBBoX) бафф от таланта [Прилив](https://www.wowhead.com/ru/spell=157154), во время которого **2** следующих [Цепных исцеления](https://ru.wowhead.com/spell=1064) превращаются в бурст-отхил. Заряжайте с их помощью [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153).
-  * [Цепное исцеление](https://ru.wowhead.com/spell=1064) стоит очень много маны, поэтому спамить им не получится.
-  * [Природную стремительность](https://www.wowhead.com/ru/spell=378081) стоит тратить именно на [Цепное исцеление](https://ru.wowhead.com/spell=1064), что можно удобно делать с помощью [макроса](https://stormkeeper.ru/resto/guide.html#%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%81%D1%8B).
-3. Используйте [Волну исцеления](https://ru.wowhead.com/spell=77472) для прохила отдельных целей (дольше и дешевле).
-  * [Волна исцеления](https://ru.wowhead.com/spell=77472) очень дешевое по мане заклинание и его стоит кастовать тогда, когда жизнь союзника не находится под угрозой.
-  * Бафф [Приливных волн](https://www.wowhead.com/ru/spell=51564/) после каста [Быстрины](https://www.wowhead.com/ru/spell=61295/) можно тратить на [Волну исцеления](https://ru.wowhead.com/spell=77472) для уменьшения времени произнесения заклинания.
-4. Используйте [Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/) для прохила отдельных целей (быстрее и дороже).
-  * [Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/) стоит довольно много маны и применяется для спасения жизни союзника, когда кастовать [Волну исцеления](https://ru.wowhead.com/spell=77472) слишком долго.
-  * Бафф [Приливных волн](https://www.wowhead.com/ru/spell=51564/) увеличивает шанс Критического удара [Исцеляющего всплеска](https://www.wowhead.com/ru/spell=8004/).
-
-
-
-## Рейдовые сейвы
+## Использование бурстов
 
 Бурсты и **рейдовые сейвы**:
 1. К бурстам относятся следующие способности: [Перерождение](https://ru.wowhead.com/spell=114052), [Тотем целительного прилива](https://ru.wowhead.com/spell=108280) и [Тотем духовной связи](https://ru.wowhead.com/spell=98008). Обычно на освоении Эпохального рейда эти кулдауны распределяются рейд-лидером на нужные моменты в бою.
@@ -256,7 +242,7 @@ image: /assets/img/resto_tb2.png
 3. [Тотем целительного прилива](https://ru.wowhead.com/spell=108280) – лечение всех союзников в течение **10** секунд раз в **3** минуты.
   * Лечение от [Тотема целительного прилива](https://ru.wowhead.com/spell=108280) не поглощается в [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153).
   * В сравнении с бурстами других хилеров, [Тотем целительного прилива](https://ru.wowhead.com/spell=108280) не такой сильный сейв, однако его установка занимает всего один ГКД и вы можете хилить во время его активности.
-  * [Тотем целительного прилива](https://ru.wowhead.com/spell=108280) стоит ставить **после** получени урона, а не перед ним, так как в момент установки проходит один импульс исцеления.
+  * [Тотем целительного прилива](https://ru.wowhead.com/spell=108280) стоит ставить **после** получения урона, а не перед ним, так как в момент установки проходит один импульс исцеления.
   * Время восстановления может быть снижено талантом [Сила тотемов](https://www.wowhead.com/ru/spell=381867/), но не может быть сброшено талантом [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285).
 4. [Тотем духовной связи](https://ru.wowhead.com/spell=98008) – уменьшает получаемый урон союзниками в области действия на **10%**, а также перераспределяет и выравнивает их здоровье между собой.
   * Единственный рейдовый сейв Рестор Шамана, который не просто хилит, но и снижает получаемый союзниками урон. 

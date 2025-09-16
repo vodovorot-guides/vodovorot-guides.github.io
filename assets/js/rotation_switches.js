@@ -141,13 +141,9 @@ $('button#build_resto_ww').on('click', function() {
     return false;
 });
 
-$('button#build_resto_ch').on('click', function() {
-    on_build_button_click(this, ["cbt", "ul", "ewt", "reach", "tide"]);
-    return false;
-});
 
 $('button#build_resto_mplus').on('click', function() {
-    on_build_button_click(this, ["cbt", "ul", "ewt", "reach", "tide", "mote"]);
+    on_build_button_click(this, ["cbt", "ul", "ewt", "flow", "tide", "mote"]);
     return false;
 });
 
