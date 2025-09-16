@@ -55,37 +55,8 @@ custom-javascript-list:
 </ul>
 
 
-<center>Количество целей:</center>
-<div class="btn-toolbar justify-content-center mt-2 mb-3">
-  <div class = "btn-group btn-group-sm">
-    <button type="button" id="target_1" class="btn btn-primary px-3 rotation-btn active">Одна цель</button>
-    <button type="button" id="target_2" class="btn btn-primary px-3 rotation-btn">АоЕ / 2+ цели</button>
-  </div>
-</div>
+<div markdown="1">
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-<div id="st" markdown="1">
-
-
-1. Используйте [Быстрину](https://ru.wowhead.com/spell=61295) для получения двух стаков [Приливных волн](https://www.wowhead.com/ru/spell=51564/).
-2. {:.rain-apl}[Целительный ливень](https://ru.wowhead.com/spell=73920), но **НЕ** кастуйте сразу же [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), он потребуется чуть позже.
-4. {:.cbt-apl}Устанавливайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153).
-5. Используйте [Перерождение](https://ru.wowhead.com/spell=114052).
-3. Используйте [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
-6. Используйте [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), поглощая эффект от таланта [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
-7. Используйте [Родник](https://www.wowhead.com/ru/spell=197995/).
-8. Кастуйте два [Цепных исцеления](https://ru.wowhead.com/spell=1064).
-9. Мгновенно кастуйте [Целительный ливень](https://ru.wowhead.com/spell=73920) с баффом от [Природной стремительности](https://www.wowhead.com/ru/spell=132158/) и сразу же [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), пока все бурсты еще активны.
-10. Возвращайтесь к обычной ротации, не забыв взорвать [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) в момент просадки рейда.
-
-
-
-
-</div>
-
-<div id="aoe" markdown="1" style="display:none;">
 
 1. Используйте [Быстрину](https://ru.wowhead.com/spell=61295) для получения двух стаков [Приливных волн](https://www.wowhead.com/ru/spell=51564/).
 2. {:.rain-apl}[Целительный ливень](https://ru.wowhead.com/spell=73920), но **НЕ** кастуйте сразу же [Ливневый дождь](https://www.wowhead.com/ru/spell=462488), он потребуется чуть позже.
