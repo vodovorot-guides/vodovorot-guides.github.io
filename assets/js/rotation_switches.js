@@ -136,7 +136,20 @@ $('button#build_enh_sb_mythic').on('click', function() {
     return false;
 });
 
+$('button#build_resto_ww').on('click', function() {
+    on_build_button_click(this, ["cbt", "rain", "und", "ww"]);
+    return false;
+});
 
+$('button#build_resto_ch').on('click', function() {
+    on_build_button_click(this, ["cbt", "ul", "ewt", "reach", "tide"]);
+    return false;
+});
+
+$('button#build_resto_mplus').on('click', function() {
+    on_build_button_click(this, ["cbt", "ul", "ewt", "reach", "tide", "mote"]);
+    return false;
+});
 
 $("button[id^='target_']").on('click', function() {
     reset_target_buttons_state();

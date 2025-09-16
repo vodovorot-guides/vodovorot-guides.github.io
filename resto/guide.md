@@ -48,25 +48,21 @@ image: /assets/img/resto_tb2.png
 Тотемист всё еще играется через [Цепное исцеление](https://ru.wowhead.com/spell=1064), но он имеет более высокий расход маны по сравнению с Предсказателем и уже не так доминирует, как в первом и втором сезонах The War Within.
 
 
-
-
-
-
-
 ## Таланты для рейда
 
 
-**Тотемист** через [Цепное исцеление](https://ru.wowhead.com/spell=1064):
+
+
+**Предсказатель** через [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598/)
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtxMjxysMWMswCsAzYTjlBkZgNmZmFLmtZmZmMbLMz0YGmZDLzYGMGmlxAAgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYMzMmZZMY2MbzsMDL2MzCMgJY2YCMWMzY2YmtZmZmMbLMz0YGmZDLzYGMGmlxAAAD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 <p></p>
 
-* Основная идея билда – позволить таланту [Энергичные тотемы](https://www.wowhead.com/ru/spell=445034) кастовать большую часть [Цепных исцелений](https://ru.wowhead.com/spell=1064), чтобы игроку не пришлось тратить слишком много маны.
-* В данном билде берется множество талантов для увеличения АоЕ отхила, такие как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778) и [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153), и таланты для повышения эффективности [Цепного исцеления](https://ru.wowhead.com/spell=1064).
-* Многие из этих заклинаний стоят достаточно много маны, и в этом билде можно слить её очень быстро. Чтобы избежать этого, старайтесь меньше самостоятельно кастовать [Цепные исцеления](https://ru.wowhead.com/spell=1064), и делать это желательно с сильными баффами, такими как [Прилив](https://www.wowhead.com/ru/spell=157154/).
+* Основная идея данного билда в исползовании [Быстрин](https://ru.wowhead.com/spell=61295) на максимальное количество целей, с последующим спамом [Волны исцеления](https://www.wowhead.com/ru/spell=77472/), которая будет лечить союзников под [Быстринами](https://ru.wowhead.com/spell=61295) за счет таланта [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598/).
+* В этом билде не так важен [Целительный ливень](https://www.wowhead.com/ru/spell=73920/), так как бонуса комплекта доспехов второго сезона больше нет, что позволит кастовать еще больше [Волн исцеления](https://www.wowhead.com/ru/spell=77472/).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -90,17 +86,17 @@ image: /assets/img/resto_tb2.png
 
 
 
-
-**Предсказатель** через [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598/)
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYMzMmZZMY2MbzsMDL2MzCMgJY2YCMWMzY2YmtZmZmMbLMz0YGmZDLzYGMGmlxAAAD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
+**Тотемист** через [Цепное исцеление](https://ru.wowhead.com/spell=1064):
 
 <p></p>
 
-* Основная идея данного билда в исползовании [Быстрин](https://ru.wowhead.com/spell=61295) на максимальное количество целей, с последующим спамом [Волны исцеления](https://www.wowhead.com/ru/spell=77472/), которая будет лечить союзников под [Быстринами](https://ru.wowhead.com/spell=61295) за счет таланта [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598/).
-* В этом билде не так важен [Целительный ливень](https://www.wowhead.com/ru/spell=73920/), так как бонуса комплекта доспехов второго сезона больше нет, что позволит кастовать еще больше [Волн исцеления](https://www.wowhead.com/ru/spell=77472/).
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtxMjxysMWMswCsAzYTjlBkZgNmZmFLmtZmZmMbLMz0YGmZDLzYGMGmlxAAgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+* Основная идея билда – позволить таланту [Энергичные тотемы](https://www.wowhead.com/ru/spell=445034) кастовать большую часть [Цепных исцелений](https://ru.wowhead.com/spell=1064), чтобы игроку не пришлось тратить слишком много маны.
+* В данном билде берется множество талантов для увеличения АоЕ отхила, такие как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778) и [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153), и таланты для повышения эффективности [Цепного исцеления](https://ru.wowhead.com/spell=1064).
+* Многие из этих заклинаний стоят достаточно много маны, и в этом билде можно слить её очень быстро. Чтобы избежать этого, старайтесь меньше самостоятельно кастовать [Цепные исцеления](https://ru.wowhead.com/spell=1064), и делать это желательно с сильными баффами, такими как [Прилив](https://www.wowhead.com/ru/spell=157154/).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -114,6 +110,25 @@ image: /assets/img/resto_tb2.png
 {: class="bordered"}
 
 Билды могут отличаться в зависимости аффиксов и подземелья. Подробно про выбор утилити талантов для каждого подземелья можно найти в [этой статье](https://stormkeeper.ru/info/utility.html).
+
+
+
+**Предсказатель** через [Цепное исцеление](https://ru.wowhead.com/spell=1064):
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZmZbmthZegZzsNWMjFLmZBGwEMLMBGLYmZxyMbzMDZ2gZaMzwwYxYGLmlxysMzAAgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+* Данный билд схож с Тотемистом через [Цепное исцеление](https://ru.wowhead.com/spell=1064), за тем исключением, что [Цепные исцеления](https://ru.wowhead.com/spell=1064) тут кастуются вручную.
+* В этом билде мана также расходуется достаточно быстро, и для её экономии стоит кастовать [Цепные исцеления](https://ru.wowhead.com/spell=1064) под баффами от [Стремительности предков](https://www.wowhead.com/ru/spell=443454) и [Прилива](https://www.wowhead.com/ru/spell=157154/).
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
 
 
 **Тотемист** через [Цепное исцеление](https://ru.wowhead.com/spell=1064):
@@ -137,62 +152,41 @@ image: /assets/img/resto_tb2.png
 
 
 
-
-**Предсказатель** через [Цепное исцеление](https://ru.wowhead.com/spell=1064):
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZmZbmthZegZzsNWMjFLmZBGwEMLMBGLYmZxyMbzMDZ2gZaMzwwYxYGLmlxysMzAAgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-* Данный билд схож с Тотемистом через [Цепное исцеление](https://ru.wowhead.com/spell=1064), за тем исключением, что [Цепные исцеления](https://ru.wowhead.com/spell=1064) тут кастуются вручную.
-* В этом билде мана также расходуется достаточно быстро, и для её экономии стоит кастовать [Цепные исцеления](https://ru.wowhead.com/spell=1064) под баффами от [Стремительности предков](https://www.wowhead.com/ru/spell=443454) и [Прилива](https://www.wowhead.com/ru/spell=157154/).
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Приоритет способностей
 
 
 Учитывая механику работы [Искусности](https://www.wowhead.com/ru/spell=77226/), всегда старайтесь выбирать целью самых раненых союзников. Это не только спасет их от гибели, но и увеличит ваше эффективное исцеление.
 {: class="bordered"}
 
-## Основные заклинания
+## Приоритет в билде через Шепчущие волны
 
-Следующие способности стоит **кастовать по кулдауну** и поддерживать их максимальный аптайм:
 1. Используйте [Стремительность предков](https://www.wowhead.com/ru/spell=443454) по кулдауну, желательно на самые дорогие по мане заклинания.
-1. Кастуйте [Целительный ливень](https://ru.wowhead.com/spell=73920) по кулдауну в скопление союзников. Со взятым талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) стоит также задевать [Целительным ливнем](https://ru.wowhead.com/spell=73920) врагов.
-2. Поддерживайте на танке [Щит земли](https://ru.wowhead.com/spell=974), а со взятым талантом [Кружащие стихии](https://www.wowhead.com/ru/spell=383010) – еще и на себе.
-3. Используйте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) / [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) как можно чаще, если в ближайшее время вы будете хилить. 
+1. Кастуйте [Быстрину](https://ru.wowhead.com/spell=61295) по кулдауну.
+2. Используйте [Тотем земляной стены](https://www.wowhead.com/ru/spell=198838) по кулдауну.
+3. Используйте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) / [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) как можно чаще, не допускайте чтобы эти способности простаивали на двух зарядах.
   * [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) отыгрывается крайне просто – ставьте его тогда, когда союзники получают урон.
   * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) стоит использовать **после** [Целительного ливня](https://ru.wowhead.com/spell=73920), а не перед ним.
   * Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778), [Родник](https://www.wowhead.com/ru/spell=197995/) и [Прилив](https://www.wowhead.com/ru/spell=157154).
   * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) **не** собирает исцеление от других тотемов, например от [Тотема целительного прилива](https://ru.wowhead.com/spell=108280).
   * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) можно взорвать раньше, повторно нажав использование, в течение **15** секунд после установки. Это стоит применять в том случае, чтобы его лечение не ушло в оверхил.
   * Если взят талант [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/), используйте его после применения [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153). С талантом [Ядро созидания](https://www.wowhead.com/ru/spell=383012) восстанавливается сразу два заряда [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153).
+4. Используйте [Волну исцеления](https://ru.wowhead.com/spell=77472) для реализации таланта [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598). Старайтесь применять это заклинание на игроков с [Быстриной](https://ru.wowhead.com/spell=61295) или [Щитом земли](https://ru.wowhead.com/spell=974).
+2. Обновляйте [Щит земли](https://ru.wowhead.com/spell=974) на танке или на активно получающем урон союзнике, а со взятым талантом [Кружащие стихии](https://www.wowhead.com/ru/spell=383010) – еще и на себе. Лучше всего это делать в те моменты, когда группа/рейд не получает сильного урона и у вас не простаивает [Быстрина](https://ru.wowhead.com/spell=61295) на трех зарядах.
+
+  
+
+
+2. Используйте [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/) по кулдауну, если он взят в талантах. Это особенно важно в ветке Предсказателя.
+1. Кастуйте [Быстрину](https://ru.wowhead.com/spell=61295) в раненых союзни
+1. Кастуйте [Целительный ливень](https://ru.wowhead.com/spell=73920) по кулдауну в скопление союзников, если он взят в талантах. С талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) стоит также задевать [Целительным ливнем](https://ru.wowhead.com/spell=73920) врагов.
+2. Поддерживайте на танке [Щит земли](https://ru.wowhead.com/spell=974), а со взятым талантом [Кружащие стихии](https://www.wowhead.com/ru/spell=383010) – еще и на себе.
+3. Используйте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) / [Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) как можно чаще, если в ближайшее время вы будете хилить. 
+
 4. Как можно чаще используйте способности с коротким кулдауном, так как они гораздо эффективнее чем [филлеры](https://stormkeeper.ru/info/abbrevs.html). К ним относятся следующие способности:
-  * [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/) – в ветке Предсказателя крайне важно использовать по кулдауну.
   * [Ливневый дождь](https://www.wowhead.com/ru/spell=462488)
   * [Родник](https://www.wowhead.com/ru/spell=197995/)
   * [Тотем земляной стены](https://www.wowhead.com/ru/spell=198838)
-  * [Быстрина](https://ru.wowhead.com/spell=61295)
+
 
 Если вместо [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153) вы используете [Тотем исцеляющего потока](https://ru.wowhead.com/spell=5394), то его можно просто ставить по кулдауну в течение всего боя. Вокруг него не нужно специально отыгрывать и ничем заряжать, он будет просто пассивно хилить вас и ваших союзников. Это является как его плюсом (простота), так и минусом (отсутствуие контролируемого бурстового отхила).
 {: class="bordered"}
