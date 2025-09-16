@@ -112,7 +112,7 @@ custom-javascript-list:
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
     <button type="button" id="build_resto_ww" class="btn btn-primary rotation-btn">Рейдовый билд через Шепчущие волны</button>
-    <button type="button" id="build_resto_mplus" class="btn btn-primary rotation-btn">Мифик+ билд</button>
+    <button type="button" id="build_resto_mplus" class="btn btn-primary rotation-btn">Мифик+ билд через Цепное исцеление</button>
   </div>
 </div>
 
@@ -158,17 +158,16 @@ custom-javascript-list:
 
 <div id="st" markdown="1">
 
-
+1. {:.no-totem-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) по кулдауну, желательно на самые дорогие по мане заклинания.
 1. {:.tide-apl .ul-apl}Используйте [Цепное исцеление](https://ru.wowhead.com/spell=1064) с баффом от [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685) если активен [Прилив](https://www.wowhead.com/ru/spell=157154/) и есть **3+** раненых союзника.
 1. {:.flow-apl}Поглощайте бафф [Быстрины](https://ru.wowhead.com/spell=61295) с помощью [Цепного исцеления](https://ru.wowhead.com/spell=1064), если есть **3+** раненых союзника.
 1. {:.flow-apl}Используйте [Быстрину](https://ru.wowhead.com/spell=61295) на раненых союзников, если она была поглощена [Цепным исцелением](https://ru.wowhead.com/spell=1064).
 1. {:.tide-apl}[Цепное исцеление](https://ru.wowhead.com/spell=1064), если активен [Прилив](https://www.wowhead.com/ru/spell=157154/) и есть **3+** раненых союзника.
-1. {:.no-totem-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) по кулдауну, желательно на самые дорогие по мане заклинания.
 2. {:.well-apl}[Родник](https://www.wowhead.com/ru/spell=197995/) после получения АоЕ урона.
 2. {:.totem-apl}[Ливневый дождь](https://www.wowhead.com/ru/spell=207778) после [Пульсирующего тотема](https://ru.wowhead.com/spell=444995), если требуется дополнительное АоЕ исцеление.
 1. {:.mote-apl}[Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004/) на раненого союзника, если есть бафф [Властелина стихий](https://www.wowhead.com/ru/spell=462375/).
   * Это также наложит [Огненный шок](https://ru.wowhead.com/spell=188389) на ближайшего противника.
-1. {:.mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) для получения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=462375/), если не 
+1. {:.mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) для получения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=462375/), если никто из союзников не планирует умереть в ближайшее время.
 1. [Быстрина](https://ru.wowhead.com/spell=61295) по кулдауну.
 2. {:.ewt-apl}[Тотем земляной стены](https://www.wowhead.com/ru/spell=198838) по кулдауну.
 3. {:.totem-apl}[Пульсирующий тотем](https://ru.wowhead.com/spell=444995) по кулдауну.
@@ -182,7 +181,7 @@ custom-javascript-list:
   * {:.totem-apl .well-apl .no-tide-apl}Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778) и [Родник](https://www.wowhead.com/ru/spell=197995/).
   * {:.totem-apl .no-well-apl .tide-apl}Заряжайте [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) мощными способностями с кулдауном, такими как [Ливневый дождь](https://www.wowhead.com/ru/spell=207778) и [Прилив](https://www.wowhead.com/ru/spell=157154).
   * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) **не** собирает исцеление от других тотемов, например от [Тотема целительного прилива](https://ru.wowhead.com/spell=108280).
-  * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) можно взорвать раньше, повторно нажав использование, в течение **15** секунд после установки. Это стоит применять в том случае, чтобы его лечение не ушло в оверхил.
+  * [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153) можно взорвать раньше, повторно его использовав, в течение **15** секунд после установки. Это стоит применять в том случае, чтобы его лечение не ушло в оверхил.
   * Если взят талант [Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/), используйте его после применения [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153). С талантом [Ядро созидания](https://www.wowhead.com/ru/spell=383012) восстанавливается сразу два заряда [Тотема разразившегося ливня](https://www.wowhead.com/ru/spell=157153).
 3. {:.no-cbt-apl}[Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) после получения урона. Не допускайте простаивания этой способности на двух зарядах.
 1. {:.no-tide-apl .ul-apl}[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685) по кулдауну.
