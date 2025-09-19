@@ -143,7 +143,7 @@ $('button#build_resto_ww').on('click', function() {
 
 
 $('button#build_resto_mplus').on('click', function() {
-    on_build_button_click(this, ["cbt", "ul", "ewt", "flow", "tide", "mote"]);
+    on_build_button_click(this, ["cbt", "ul", "flow", "tide", "mote"]);
     return false;
 });
 
