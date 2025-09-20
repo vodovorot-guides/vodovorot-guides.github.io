@@ -212,12 +212,13 @@ custom-javascript-list:
 2. {:.no-tempest-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) за **3** секунды до пула.
 2. {:.tempest-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) за **4** секунды до пула.
 1. {:.tempest-apl}[Элементаль бури](https://ru.wowhead.com/spell=192249) за **3** секунды до пула. Убедитесь, что вы не взяли противника в цель чтобы не запулить раньше времени.
-3. [Выброс лавы](https://ru.wowhead.com/spell=51505) за **1.5** секунд до пула.
+3. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) за **1.5** секунд до пула.
 4. {:.lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) в момент пула.
-4. {:.no-lmt-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) в момент пула.
+4. {:.no-lmt-apl .no-tempest-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) в момент пула.
 2. {:.pw-apl .tempest-apl .lmt-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 2. {:.pw-apl .no-tempest-apl .lmt-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в макросе со [Стремительностью предков](https://ru.wowhead.com/spell=448861).
-3. [Перерождение](https://www.wowhead.com/ru/spell=114050/) в момент пула вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
+3. {:.lmt-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/) вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
+3. {:.no-lmt-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/) в момент пула вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
 2. {:.pw-apl .tempest-apl .no-lmt-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 2. {:.pw-apl .no-tempest-apl .no-lmt-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в макросе со [Стремительностью предков](https://ru.wowhead.com/spell=448861).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
