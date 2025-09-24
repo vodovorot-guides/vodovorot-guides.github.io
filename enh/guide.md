@@ -708,7 +708,7 @@ custom-javascript-list:
 
 <p></p>
 
-{% include button.html name="Сборки WA на Wago.io" link="https://wago.io/search/enhancement" %}  
+{% include button.html name="Сборки WA на Wago.io" link="https://wago.io/the-war-within-weakauras/classes/shaman/enhancement" %}  
 
 <p></p>
 
