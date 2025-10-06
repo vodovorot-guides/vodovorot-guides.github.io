@@ -13,6 +13,9 @@ image: /assets/img/mid1.jpg
     <img src="/assets/img/mid1.jpg"> 
 </p>
 
+[*Сетовый комплект Шамана в первом сезоне Midnight*](https://www.wowhead.com/news/early-preview-of-midnight-season-1-tier-sets-all-13-classes-now-available-378707)
+
+
 # Вступление
 
 В данной статье разобраны все изменения Шамана в дополнении Midnight, представленные **1 октября 2025** года на [Midnight Deep Dive](https://youtu.be/WmG98apVwKw) и в последующих интервью. Данная статья дополняется по ходу изменений на альфа и бета тестировании, вплоть до релиза дополнения.
