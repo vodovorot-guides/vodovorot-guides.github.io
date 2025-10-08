@@ -1,7 +1,7 @@
 ---
 title: Все изменения Шаманов в Midnight
 layout: page
-last_update: 2025-10-06
+last_update: 2025-10-09
 wow: 12.0.0
 toc: true
 author: Amani
@@ -30,6 +30,11 @@ image: /assets/img/mid1.jpg
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
+# История изменений
+
+* [Первый билд альфы от 1 октября 2025](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/7)
+* [Второй билд альфы от 8 октября 2025](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/12)
 
 # Изменения талантов класса
 
@@ -104,7 +109,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-[Цепное исцеление](https://ru.wowhead.com/spell=1064) теперь имеет базовое время произнесения **2** секунды вместо **2.5**.
+[Цепное исцеление](https://ru.wowhead.com/spell=1064) теперь имеет базовое время произнесения **2** секунды вместо **2.5**. Радиус перескока увеличен с **15** метров до **20** метров.
 {: class="bordered"}
 
 * [По словам разработчиков](https://worldofwarcraft.blizzard.com/en-gb/news/24235745), многие временные баффы были удалены и перенесены в базовую силу способностей. 
@@ -165,10 +170,42 @@ image: /assets/img/mid1.jpg
 
 ## Новые и измененные таланты
 
+[Искусность: волнение стихий](https://www.wowhead.com/beta/spell=168534) – добавочный урон от сил стихий от Искуности уменьшен на **10%**.
+{: class="bordered"}
+
+* Баланс эффективности вторичных характеристик, чтобы мы не так сильно наседали на Искусность в начале аддона, игнорируя остальные статы.
+
 Три новых таланта, которые недоступны в текущем билде альфы.
 {: class="bordered"}
 
 * Мы получим три новых таланта, два в средней части ветки и один в финальной. Пока нет никакой подробной информации.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+[Перерождение](https://www.wowhead.com/beta/spell=114050) – теперь увеличивает урон от [Искусности](https://www.wowhead.com/beta/spell=168534) во время активации на **75%** вместо **150%**.
+{: class="bordered"}
+
+* Это изменение ощутимо ослабит наш основной бурст, в результате чего мы станем менее от него менее зависимыми.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+[Элементаль огня](https://www.wowhead.com/beta/spell=198067) – теперь имеет время восстановления **2** минуты** вместо **2:30** минут.
+{: class="bordered"}
+
+* Долгожданное изменение, убирающее бесполезный рассинхрон наших бурстов.
+* Польза [Элементаля огня](https://www.wowhead.com/beta/spell=198067) после удаления [Извергающейся лавы](https://www.wowhead.com/ru/spell=468574) все еще остается под сомнением, даже для огненного билда.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+[Слияние стихий](https://www.wowhead.com/ru/spell=462840) – талант был переработан. Теперь активация [Мощи Водоворота](https://www.wowhead.com/beta/spell=191861/) выпускает в цель [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) с эффективностью **40%**.
+{: class="bordered"}
+
+* Отличная замена данного таланта после удаления [Ледяной ярости](https://ru.wowhead.com/spell=462816).
+* За счет талантов [Слияние стихий](https://www.wowhead.com/ru/spell=462840) и [Последний клич](https://www.wowhead.com/beta/spell=443446/) будет возможно поддерживать адекватный аптайм баффов от [Удара духов стихий](https://www.wowhead.com/ru/spell=117014), даже не выбрав вместо него [Земной шок](https://www.wowhead.com/ru/spell=8042).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -215,6 +252,13 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+Новый талант: [Улучшенное гальваническое пламя](https://www.wowhead.com/beta/spell=1269215/) – снижает время восстановления [Гальванического пламени](https://www.wowhead.com/beta/spell=470057) на **5** секунд.
+{: class="bordered"}
+
+* Время восстановления [Гальванического пламени](https://www.wowhead.com/beta/spell=470057) с этим талантом будет составлять **5** секунд.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
 Новый талант: [Purging Flames](https://www.wowhead.com/beta/spell=1259471) – [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057) позволяет следующему [Выбросу лавы](https://ru.wowhead.com/spell=51505) поразить все цели под [Огненным шоком](https://ru.wowhead.com/spell=188389) с эффективностью **80%** и сниженной генерацией энергии Водоворота. Дополнительно повышает урон [Выброса лавы](https://ru.wowhead.com/spell=51505) на **10%**.
@@ -223,7 +267,6 @@ image: /assets/img/mid1.jpg
 
 * Имеет функционал старой [Первозданной волны](https://www.wowhead.com/ru/spell=326059), до её переработки в The War Within.
 * Сочетается с [Перерождением](https://www.wowhead.com/beta/spell=114050), которое усиливает каждый [Выброс лавы](https://ru.wowhead.com/spell=51505) от этого таланта.
-* Также отлично сочетается с [Извергающейся лавой](https://www.wowhead.com/ru/spell=468574), увеличивая урон еще больше и обосновывая постоянное обновление [Огненных шоков](https://ru.wowhead.com/spell=188389).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -236,14 +279,6 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-
-[Извергающаяся лава](https://www.wowhead.com/beta/spell=468574) теперь поглощает урон [Огненного шока](https://ru.wowhead.com/spell=188389) с **250%** эффективностью вместо **100%**.
-{: class="bordered"}
-
-* Данный талант, после усиления в **2.5** раза, потенциально станет основным источником урона огненного билда на АоЕ.
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
 
 
@@ -290,6 +325,7 @@ image: /assets/img/mid1.jpg
 
 
 Следующие таланты были удалены:
+  * [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/).
   * [Первозданная волна](https://www.wowhead.com/ru/spell=375982/) – эффект перенесен в новый талант [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057).
   * [Расколотые стихии](https://www.wowhead.com/ru/spell=382042).
   * [Элементаль бури](https://www.wowhead.com/ru/spell=192249/) – эффект перенесен в обновленный талант [Гнев бурь](https://www.wowhead.com/beta/spell=191717/).
@@ -298,6 +334,7 @@ image: /assets/img/mid1.jpg
   * [Ледяная ярость](https://ru.wowhead.com/spell=462816) – удаление лишней кнопки, но пока неясна судьба [Ледяного шока](https://ru.wowhead.com/spell=196840).
   * [Расплавленная порода](https://www.wowhead.com/ru/spell=381776/).
   * [Равновесие стихий](https://www.wowhead.com/ru/spell=378271).
+  * [Извергающаяся лава](https://www.wowhead.com/ru/spell=468574) – данный талант присутствовал в первом билде альфы, но был удален во втором.
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -305,6 +342,19 @@ image: /assets/img/mid1.jpg
 
 ## Изменения Предсказателя
 
+[Зов предков](https://www.wowhead.com/beta/spell=443450/) – теперь активируется от [Хранителя бурь](https://www.wowhead.com/ru/spell=191634). Длительность предков составляет **8** секунд вместо **6**.
+{: class="bordered"}
+
+* Так как [Первозданная волна](https://www.wowhead.com/ru/spell=375982/) была удалена, призыв предков теперь совершается за счет другой основной способности специализации.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+[Привычная связь](https://www.wowhead.com/beta/spell=443445/) – теперь срабатывает также и от [Огненного шока](https://ru.wowhead.com/spell=188389) и [Гальванического пламени](https://www.wowhead.com/beta/spell=470057). Длительность предков составляет **8** секунд вместо **6**.
+{: class="bordered"}
+
+* [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057) будет являться одной из главных способностей в ротации, что обосновывает проке предков от его применения.
+* Предки от этого таланта больше не прокают от [Ледяного шока](https://www.wowhead.com/ru/spell=196840), так как он как раз больше в основной ротации не участвует.
 
 На данный момент новые таланты Предсказателя для Элема еще не объявленны.
 
@@ -441,6 +491,14 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 ## Измененные таланты
+
+[Искусность: великая сила стихий](https://www.wowhead.com/beta/spell=77223) – [Энергия бури](https://www.wowhead.com/beta/spell=201845) теперь сбрасывает время восстановления [Удара бури](https://www.wowhead.com/beta/spell=17364) только при касте [Удара бури](https://www.wowhead.com/beta/spell=17364), но не других особых способностей.
+{: class="bordered"}
+
+* Данное изменение уберет рандомные проки [Удара бури](https://www.wowhead.com/beta/spell=17364) из ротации, и теперь он будет прокать только сам от себя.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 [Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) – талант был переработан. Поражает противников перед собой, усиливая на **12** секунд [Удар бури](https://www.wowhead.com/beta/spell=17364) и [Вскипание лавы](https://www.wowhead.com/beta/spell=60103), позволяя им наносить урон от сил природы, равномерно распределенный между **5** целями перед игроком. Урон повышен на **40%**, а урон клива на **130%**.
 {: class="bordered"}
@@ -822,12 +880,20 @@ image: /assets/img/mid1.jpg
 
 ## Высшие таланты
 
-Высшие таланты еще недоступны для тестирования в текущем билде альфы и будут добавлены позже.
+[Stormstream Totem](https://www.wowhead.com/beta/spell=1267016/) – [Быстрина](https://www.wowhead.com/beta/spell=61295) имеет **10%** шанс превратить следующий [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394) в [Stormstream Totem](https://www.wowhead.com/beta/spell=1267016), который исцеляет одного дополнительного союзника, его сила повышена на **30%** и в момент применения он излечивает двух раненых союзников на **300%** от силы заклинаний.
+
+
+[Stormstream Totem](https://www.wowhead.com/beta/spell=1267093/) – исцеление [Stormstream Totem](https://www.wowhead.com/beta/spell=1267016) повышено на **30/60%**.
 {: class="bordered"}
 
-* Высшие (Apex) таланты – это особые таланты в ветке специализации, которые учатся один за другим и усиливают определенную способность спека. 
-* Пока нет информации, что за способность получит усиление через эти таланты у Рестора. Но это точно будет одна из основных способностей специализации, которая берется во всех билдах.
 
+[Stormstream Totem](https://www.wowhead.com/beta/spell=1267120/) – если [Stormstream Totem](https://www.wowhead.com/beta/spell=1267016) доступен для применения, он кастуется бесплатно и игнорирует свое время восстановления.
+{: class="bordered"}
+
+
+* Высшие (Apex) таланты – это особые таланты в ветке специализации, которые учатся один за другим и усиливают определенную способность спека. 
+* Высшие таланты Рестор Шамана целиком направлены на усиление [Тотема исцеляющего потока](https://www.wowhead.com/beta/spell=5394), делая это заклинание еще более полезным.
+* Шанс на активацию [Stormstream Totem](https://www.wowhead.com/beta/spell=1267016/) от [Быстрины](https://www.wowhead.com/beta/spell=61295) в **10%** выглядит заниженным и пока не ясно какая система прока будет у этой способности.
 
 ## Новые таланты
 
@@ -861,15 +927,33 @@ image: /assets/img/mid1.jpg
 
 ## Измененные таланты
 
+Все исцеление повышено на **15%**.
+{: class="bordered"}
 
-[Волна исцеления](https://www.wowhead.com/beta/spell=77472) – базовое время произнесения составляет **2** секунды вместо **2.5** секунд.
+* Предварительный баланс цифр в качестве компенсации за удаленные таланты с баффами.
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+
+[Сгущающаяся вода](https://www.wowhead.com/beta/spell=470076) – теперь повышает первоначальное исцеление [Быстрины](https://www.wowhead.com/beta/spell=61295) на **30%** вместо **75%**.
+{: class="bordered"}
+
+* Ослабление таланта с временным баффом, который был компенсирован общим увеличением отхила.
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+[Волна исцеления](https://www.wowhead.com/beta/spell=77472) – базовое время произнесения составляет **2** секунды вместо **2.5** секунд. Исцеление повышено на **20%**.
 {: class="bordered"}
 
 
-[Цепное исцеление](https://www.wowhead.com/beta/spell=1064) – базовое время произнесения составляет **2** секунды вместо **2.5** секунд.
+[Цепное исцеление](https://www.wowhead.com/beta/spell=1064) – базовое время произнесения составляет **2** секунды вместо **2.5** секунд. Радиус перескока увеличен с **15** метров до **20** метров. Исцеление повышено на **20%**.
 {: class="bordered"}
 
-* Эффект удаленного таланта [Приливные волны](https://www.wowhead.com/ru/spell=51564) был добавлен в базовую версию заклинаний.
+* Эффект удаленных талантов [Приливные волны](https://www.wowhead.com/ru/spell=51564) и [Вестник приливов](https://www.wowhead.com/ru/spell=236501/) был добавлен в базовую версию заклинаний.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -894,6 +978,9 @@ image: /assets/img/mid1.jpg
 [Перерождение](www.wowhead.com/beta/spell=114052) и [Тотем целительного прилива](https://www.wowhead.com/beta/spell=108280) – теперь являются взаимоисключающими вариантами в древе талантов.
 {: class="bordered"}
 
+[Тотем целительного прилива](https://www.wowhead.com/beta/spell=108280) – исцеление повышено на **20%..
+{: class="bordered"}
+
 [Первый перерожденный](https://www.wowhead.com/beta/spell=462440/) – теперь также снижает время восстановления [Тотема целительного прилива](https://www.wowhead.com/beta/spell=108280).
 {: class="bordered"}
 
@@ -902,6 +989,8 @@ image: /assets/img/mid1.jpg
 
 [Current Control](https://www.wowhead.com/beta/spell=1253093/) был переработан – теперь снижает стоимость маны [Волны исцеления](https://www.wowhead.com/beta/spell=77472/) на **15%**.
 {: class="bordered"}
+
+
 
 * Как и у всех специализаций лекарей, Рестор Шаман лишился одного из своих бурстов, но в нашем случае можно выбрать – какого именно.
 
@@ -939,6 +1028,8 @@ image: /assets/img/mid1.jpg
 [Зов предков](https://www.wowhead.com/beta/spell=443450) – теперь срабатывает от применения [Тотема исцеляющего потока](https://www.wowhead.com/beta/spell=5394) вместо[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/) или [Пульсации](https://www.wowhead.com/ru/spell=200071/).
 {: class="bordered"}
 
+[Потусторонний дар](https://www.wowhead.com/beta/spell=443451/) – теперь сокращает время восстановления [Быстрины](https://www.wowhead.com/beta/spell=61295) на **2** секунды вместо **3**.
+
 
 На данный момент новые таланты Предсказателя для Рестора не объявленны.
 
@@ -950,6 +1041,8 @@ image: /assets/img/mid1.jpg
 [Пульсирующий тотем](https://www.wowhead.com/beta/spell=444995/) – теперь длится **25** секунд вместо **24** секунд.
 {: class="bordered"}
 
+[Сверхнагрузка](https://www.wowhead.com/beta/spell=445030) – теперь также работает и на [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394) и [Тотем целительного прилива](https://www.wowhead.com/beta/spell=108280) .
+{: class="bordered"}
 
 На данный момент новые таланты Тотемиста для Рестора не объявленны.
 
