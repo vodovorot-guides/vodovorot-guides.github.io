@@ -222,7 +222,7 @@ image: /assets/img/mid1.jpg
 
 
 * Имеет функционал старой [Первозданной волны](https://www.wowhead.com/ru/spell=326059), до её переработки в The War Within.
-* Сочетается с [Перерождением](https://www.wowhead.com/ru/spell=114050), которое усиливает каждый [Выброс лавы](https://ru.wowhead.com/spell=51505) от этого таланта.
+* Сочетается с [Перерождением](https://www.wowhead.com/beta/spell=114050), которое усиливает каждый [Выброс лавы](https://ru.wowhead.com/spell=51505) от этого таланта.
 * Также отлично сочетается с [Извергающейся лавой](https://www.wowhead.com/ru/spell=468574), увеличивая урон еще больше и обосновывая постоянное обновление [Огненных шоков](https://ru.wowhead.com/spell=188389).
 
 <hr style="height:1px;background-color:#bbb">
@@ -327,7 +327,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Descending Skies](https://www.wowhead.com/beta/spell=1264688) – [Перерождение](https://www.wowhead.com/ru/spell=114050/) при активации превращает следующую [Молнию](https://ru.wowhead.com/spell=188196) в [Бурю](https://ru.wowhead.com/spell=454009).
+Новый талант: [Descending Skies](https://www.wowhead.com/beta/spell=1264688) – [Перерождение](https://www.wowhead.com/beta/spell=114050) при активации превращает следующую [Молнию](https://ru.wowhead.com/spell=188196) в [Бурю](https://ru.wowhead.com/spell=454009).
 {: class="bordered"}
 
 * Данный талант по сути является копией бонуса сетового комплекта третьего сезона, [Вой направленной ярости](https://www.wowhead.com/ru/item-set=1929/).
@@ -386,7 +386,7 @@ image: /assets/img/mid1.jpg
 
 Если говорить про удаленные таланты, то под нож попали многие активные и пассивные способности, которые не пользовались популярностью, такие как [Расплавленная порода](https://www.wowhead.com/ru/spell=381776/) и [Магматическая камера](https://www.wowhead.com/ru/spell=381932), а также "лишние" кнопки, которые были частью ротации и ощутимо её усложняли – [Ледяная ярость](https://ru.wowhead.com/spell=462816) и [Тотем жидкой магмы](https://ru.wowhead.com/spell=192222).
 
-[Первозданная волна](https://www.wowhead.com/ru/spell=375982/) вернулся свой эффект из первоначальной версии, когда она раскидывала [Выбросы лавы](https://ru.wowhead.com/spell=51505) во все цели, но у нас больше не будет баффа на Скорость от [Расколотых стихии](https://www.wowhead.com/ru/spell=382042).
+Новый талант [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057) будет раскидывать [Выбросы лавы](https://ru.wowhead.com/spell=51505) во все цели, как старая версия [Первозданной волны](https://www.wowhead.com/ru/spell=375982/), но у нас больше не будет баффа на Скорость от [Расколотых стихии](https://www.wowhead.com/ru/spell=382042).
 
 Также мы лишились [Элементаля бури](https://www.wowhead.com/ru/spell=192249/) в качестве бурста. Теперь элементаль вызывается только при взятом таланте [Гнев бурь](https://www.wowhead.com/beta/spell=191717/) после применения [Хранителя бурь](https://www.wowhead.com/ru/spell=191634), и на гораздо меньшее время.
 
@@ -489,23 +489,23 @@ image: /assets/img/mid1.jpg
 [Ветра рока](https://www.wowhead.com/beta/spell=384352) – шанс прока [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757/) снижен с **200%** до **100%**, а бонусный урон от прока повышен с **10%** до **20%**.
 {: class="bordered"}
 
-[Перерождение](https://www.wowhead.com/beta/spell=11405) – заменяет [Ветра рока](https://www.wowhead.com/beta/spell=384352). Имеет стандартный эффект, длительность и время восстановления, плюс активирует [Ветра рока](https://www.wowhead.com/beta/spell=384352) на время своего действия. При трате стаков [Оружия Водоворота](https://www.wowhead.com/beta/spell=187880/) есть шанс в **0.5%** за каждый стак активировать [Ветра рока](https://www.wowhead.com/beta/spell=384352) в то время, когда [Перерождение](https://www.wowhead.com/beta/spell=11405) неактивно.
+[Перерождение](www.wowhead.com/beta/spell=114051) – заменяет [Ветра рока](https://www.wowhead.com/beta/spell=384352). Имеет стандартный эффект, длительность и время восстановления, плюс активирует [Ветра рока](https://www.wowhead.com/beta/spell=384352) на время своего действия. При трате стаков [Оружия Водоворота](https://www.wowhead.com/beta/spell=187880/) есть шанс в **0.5%** за каждый стак активировать [Ветра рока](https://www.wowhead.com/beta/spell=384352) в то время, когда [Перерождение](https://www.wowhead.com/beta/spell=11405) неактивно.
 {: class="bordered"}
 
-[Укоренившиеся стихии](https://www.wowhead.com/beta/spell=378270/) – заменяет [Ветра рока](https://www.wowhead.com/beta/spell=384352). Каждый потраченный стак [Оружия Водоворота](https://www.wowhead.com/beta/spell=187880/) имеет **0.6%** шанс активировать [Перерождение](https://www.wowhead.com/beta/spell=11405) на **8** секунд.
+[Укоренившиеся стихии](https://www.wowhead.com/beta/spell=378270/) – заменяет [Ветра рока](https://www.wowhead.com/beta/spell=384352). Каждый потраченный стак [Оружия Водоворота](https://www.wowhead.com/beta/spell=187880/) имеет **0.6%** шанс активировать [Перерождение](www.wowhead.com/beta/spell=114051) на **8** секунд.
 {: class="bordered"}
 
-[Воззвание к Ториму](https://www.wowhead.com/beta/spell=384444/) – больше не увеличивает урон [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://www.wowhead.com/ru/spell=188443). Продлевает время действия [Ветров рока](https://www.wowhead.com/beta/spell=384352) и прока [Укоренившихся стихий](https://www.wowhead.com/beta/spell=378270/) на **2** секунды. Во время действия [Перерождения](https://www.wowhead.com/beta/spell=11405) или [Ветров рока](https://www.wowhead.com/beta/spell=384352), [Удар бури](https://www.wowhead.com/beta/spell=17364) и [Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) могут разрядить до **10** стаков [Оружия Водоворота](https://www.wowhead.com/beta/spell=187880/) на [Бурю](https://ru.wowhead.com/spell=454009), [Молнию](https://ru.wowhead.com/spell=188196) или [Цепную молнию](https://www.wowhead.com/ru/spell=188443).
+[Воззвание к Ториму](https://www.wowhead.com/beta/spell=384444/) – больше не увеличивает урон [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://www.wowhead.com/ru/spell=188443). Продлевает время действия [Ветров рока](https://www.wowhead.com/beta/spell=384352) и прока [Укоренившихся стихий](https://www.wowhead.com/beta/spell=378270/) на **2** секунды. Во время действия [Перерождения](www.wowhead.com/beta/spell=114051) или [Ветров рока](https://www.wowhead.com/beta/spell=384352), [Удар бури](https://www.wowhead.com/beta/spell=17364) и [Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) могут разрядить до **10** стаков [Оружия Водоворота](https://www.wowhead.com/beta/spell=187880/) на [Бурю](https://ru.wowhead.com/spell=454009), [Молнию](https://ru.wowhead.com/spell=188196) или [Цепную молнию](https://www.wowhead.com/ru/spell=188443).
 {: class="bordered"}
 
 [Статическое накопление](https://www.wowhead.com/beta/spell=384411/) – больше не дает **20%** шанс вернуть затраченные стаки [Оружия Водоворота](https://www.wowhead.com/beta/spell=187880/) при касте [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://www.wowhead.com/ru/spell=188443).
 {: class="bordered"}
 
 
-* [Перерождение](https://www.wowhead.com/beta/spell=11405) и [Ветра рока](https://www.wowhead.com/beta/spell=384352) теперь по сути являются одной способностью.
-* В случае взятия [Перерождения](https://www.wowhead.com/beta/spell=11405) или [Укоренившихся стихий](https://www.wowhead.com/beta/spell=378270/), [Ветра рока](https://www.wowhead.com/beta/spell=384352) пропадают с панели заклинаний.
-* [Перерождение](https://www.wowhead.com/beta/spell=11405) имеет свой обычный эффект, плюс эффект [Ветров рока](https://www.wowhead.com/beta/spell=384352).
-* [Укоренившиеся стихии](https://www.wowhead.com/beta/spell=378270/) прокают [Перерождение](https://www.wowhead.com/beta/spell=11405) с эффектом [Ветров рока](https://www.wowhead.com/beta/spell=384352), лишая возможности активировать эти способности вручную.
+* [Перерождение](www.wowhead.com/beta/spell=114051) и [Ветра рока](https://www.wowhead.com/beta/spell=384352) теперь по сути являются одной способностью.
+* В случае взятия [Перерождения](www.wowhead.com/beta/spell=114051) или [Укоренившихся стихий](https://www.wowhead.com/beta/spell=378270/), [Ветра рока](https://www.wowhead.com/beta/spell=384352) пропадают с панели заклинаний.
+* [Перерождение](www.wowhead.com/beta/spell=114051) имеет свой обычный эффект, плюс эффект [Ветров рока](https://www.wowhead.com/beta/spell=384352).
+* [Укоренившиеся стихии](https://www.wowhead.com/beta/spell=378270/) прокают [Перерождение](www.wowhead.com/beta/spell=114051) с эффектом [Ветров рока](https://www.wowhead.com/beta/spell=384352), лишая возможности активировать эти способности вручную.
 * Эффект возврата стаков [Оружия Водоворота](https://www.wowhead.com/beta/spell=187880/) и увеличение урона от [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://www.wowhead.com/ru/spell=188443) был перенесен в новый талант [Thunder Capacitor](https://www.wowhead.com/beta/spell=1262635).
 
 <hr style="height:1px;background-color:#bbb">
@@ -524,8 +524,9 @@ image: /assets/img/mid1.jpg
 [Дух дикого зверя](https://www.wowhead.com/beta/spell=469314) – талант был переработан. Применение [Раскола](https://www.wowhead.com/beta/spell=197214) вызывает огненного волка, а [Ветра рока](https://www.wowhead.com/beta/spell=384352) – молниевого волка на **8** секунд. Волк усиливает урон от соответствующей стихии на **5%**, плюс физический урон дополнительно на **5%**.
 {: class="bordered"}
 
-* [Дух дикого зверя](https://www.wowhead.com/beta/spell=469314) теперь является полностью пассивной способностю.
+* [Дух дикого зверя](https://www.wowhead.com/beta/spell=469314) теперь является полностью пассивной способностью.
 * Больше нет возможности стакать большое количество стихийных волков, максимум можно будет вызвать двух в момент активации [Ветров рока](https://www.wowhead.com/beta/spell=384352). Один от таланта [Дух дикого зверя](https://www.wowhead.com/beta/spell=469314), и второй от [Громовых раскатов](https://www.wowhead.com/beta/spell=454026).
+* [Дух дикого зверя](https://www.wowhead.com/beta/spell=469314) больше не дает стаки [Оружия Водоворота](https://www.wowhead.com/beta/spell=187880/).
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -661,7 +662,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Descending Skies](https://www.wowhead.com/beta/spell=1264688) – [Перерождение](https://www.wowhead.com/beta/spell=11405) при активации превращает следующую [Молнию](https://ru.wowhead.com/spell=188196) в [Бурю](https://ru.wowhead.com/spell=454009).
+Новый талант: [Descending Skies](https://www.wowhead.com/beta/spell=1264688) – [Перерождение](www.wowhead.com/beta/spell=114051) при активации превращает следующую [Молнию](https://ru.wowhead.com/spell=188196) в [Бурю](https://ru.wowhead.com/spell=454009).
 {: class="bordered"}
 
 * Данный талант по сути является копией бонуса сетового комплекта третьего сезона, [Вой направленной ярости](https://www.wowhead.com/ru/item-set=1929/).
@@ -674,7 +675,7 @@ image: /assets/img/mid1.jpg
 [Громовые раскаты](https://www.wowhead.com/ru/spell=454026) – талант был переработан. Теперь применение [Ветров рока](https://www.wowhead.com/beta/spell=384352) призывает одного молниевого волка, который усиливает физический урон и урон от сил природы на **5%** на **12** секунд.
 {: class="bordered"}
 
-* На данный момент, судя по описанию, этот талант не срабатывает от [Перерождения](https://www.wowhead.com/beta/spell=11405), что скорее всего является ошибкой.
+* На данный момент, судя по описанию, этот талант не срабатывает от [Перерождения](www.wowhead.com/beta/spell=114051), что скорее всего является ошибкой.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -793,7 +794,7 @@ image: /assets/img/mid1.jpg
 * [Выброс лавы](https://ru.wowhead.com/spell=51505) и [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) – полностью удалены.
 * [Ледяной клинок](https://www.wowhead.com/ru/spell=470194/) – удален, вместе с [Бурей с градом](https://www.wowhead.com/ru/spell=334195). [Ледяной шок](https://www.wowhead.com/ru/spell=196840) является максимум филлером, когда всё остальное на кулдауне, но не частью ротации.
 * [Дух дикого зверя](https://www.wowhead.com/beta/spell=469314) – теперь является фиксированным проком после определенных способностей.
-* [Перерождение](https://www.wowhead.com/beta/spell=11405) и [Ветра рока](https://www.wowhead.com/beta/spell=384352) – объединены в одну кнопку, которую также можно сделать пассивной.
+* [Перерождение](www.wowhead.com/beta/spell=114051) и [Ветра рока](https://www.wowhead.com/beta/spell=384352) – объединены в одну кнопку, которую также можно сделать пассивной.
 * [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057) – теперь является не проком, а заменяет [Огненный шок](https://ru.wowhead.com/spell=188389).
 * [Кольцо огня](https://www.wowhead.com/beta/spell=1260666/) – теперь пассивный случайный прок при касте [Гальванического пламени](https://www.wowhead.com/beta/spell=470057), а не активная способность.
 
@@ -813,11 +814,11 @@ image: /assets/img/mid1.jpg
 
 *У шаманов есть множество сильных вспомогательных и боевых способностей, поэтому одной из важных целей в Midnight было сбалансировать количество возможных активных способностей. Мы также стремимся убрать таланты которые дают постоянно активные баффы или которые временно изменяют способности таким образом, что их обычные версии кажутся слабыми на фоне этих эффектов.*
 
-*Одним из значительных изменений является удаление [Исцеляющего всплеска](www.wowhead.com/beta/spell=8004/) и [Приливных волн](https://www.wowhead.com/ru/spell=51564). Мы снижаем базовое время произнесения [Цепного исцеления](https://www.wowhead.com/beta/spell=1064) и [Волны исцеления](https://www.wowhead.com/beta/spell=77472/) чтобы упростить геймплей и добавляем варианты управления маной через таланты для тех ситуаций, где это действительно важно. Мы понимаем, что удаление [Исцеляющего всплеска](www.wowhead.com/beta/spell=8004/) убирает один из выборов при исцелении одной цели, и будем внимательно следить за отзывами. Наша цель – сделать выбор заклинаний проще, так как исцеление уже включает динамический процесс выбора целей.*
+*Одним из значительных изменений является удаление [Исцеляющего всплеска](https://www.wowhead.com/beta/spell=8004/) и [Приливных волн](https://www.wowhead.com/ru/spell=51564). Мы снижаем базовое время произнесения [Цепного исцеления](https://www.wowhead.com/beta/spell=1064) и [Волны исцеления](https://www.wowhead.com/beta/spell=77472/) чтобы упростить геймплей и добавляем варианты управления маной через таланты для тех ситуаций, где это действительно важно. Мы понимаем, что удаление [Исцеляющего всплеска](https://www.wowhead.com/beta/spell=8004/) убирает один из выборов при исцелении одной цели, и будем внимательно следить за отзывами. Наша цель – сделать выбор заклинаний проще, так как исцеление уже включает динамический процесс выбора целей.*
 
 *Мы также обновляем [Целительный ливень](https://www.wowhead.com/beta/spell=73920/), продлевая его время действия до **18** секунд, если не используется героическая ветка Тотемиста. Мы хотим чтобы мгновенный и продленный [Целительный ливень](https://www.wowhead.com/beta/spell=73920/) был фирменной особенностью Тотемиста, но при этом чтобы обычная версия этой способности не ощущалась слабой из-за того, что её приходится использовать каждые **10** секунд.*
 
-*Еще одна важная цель – сократить количество доступных групповых умений с кулдаунами, доступных лекарям. Поэтому теперь [Перерождение](https://www.wowhead.com/beta/spell=114052/) и [Тотем целительного прилива](https://www.wowhead.com/beta/spell=108280) являются взаимоисключающими вариантами в древе талантов. Мы хотим, чтобы лекари ощущали свою силу, но наличие большого количества мощных бурстов часто вынуждает нас добавлять резкие всплески урона, чтобы хоть как то их испытать.*
+*Еще одна важная цель – сократить количество доступных групповых умений с кулдаунами, доступных лекарям. Поэтому теперь [Перерождение](www.wowhead.com/beta/spell=114052) и [Тотем целительного прилива](https://www.wowhead.com/beta/spell=108280) являются взаимоисключающими вариантами в древе талантов. Мы хотим, чтобы лекари ощущали свою силу, но наличие большого количества мощных бурстов часто вынуждает нас добавлять резкие всплески урона, чтобы хоть как то их испытать.*
 
 ## Высшие таланты
 
@@ -864,20 +865,33 @@ image: /assets/img/mid1.jpg
 [Волна исцеления](https://www.wowhead.com/beta/spell=77472) – базовое время произнесения составляет **2** секунды вместо **2.5** секунд.
 {: class="bordered"}
 
-[Целительный ливень](https://www.wowhead.com/beta/spell=73920) – теперь имеет длительность и время восстановления **18** секунд вместо **10** секунд.
+
+[Цепное исцеление](https://www.wowhead.com/beta/spell=1064) – базовое время произнесения составляет **2** секунды вместо **2.5** секунд.
 {: class="bordered"}
+
+* Эффект удаленного таланта [Приливные волны](https://www.wowhead.com/ru/spell=51564) был добавлен в базовую версию заклинаний.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 [Повелитель тотемов воды](https://www.wowhead.com/beta/spell=382030) был переработан – теперь снижает время восстановления [Тотема исцеляющего потока](https://www.wowhead.com/beta/spell=5394) на **5** секунд.
 {: class="bordered"}
 
-* Эффект удаленного таланта [Приливные волны](https://www.wowhead.com/ru/spell=51564) был добавлен в базовую версию заклинаний.
 * [Повелитель тотемов воды](https://www.wowhead.com/beta/spell=382030) теперь работает гораздо проще и снижает КД на определенное значение, вместо динамической зависимости от поглощенных баффов.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+[Целительный ливень](https://www.wowhead.com/beta/spell=73920) – теперь имеет длительность и время восстановления **18** секунд вместо **10** секунд.
+{: class="bordered"}
 
-[Перерождение](https://www.wowhead.com/beta/spell=114052/) и [Тотем целительного прилива](https://www.wowhead.com/beta/spell=108280) – теперь являются взаимоисключающими вариантами в древе талантов.
+* Теперь [Целительный ливень](https://www.wowhead.com/beta/spell=73920) можно будет кастовать реже не только в Тотемисте, но и в Предсказателе.
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+[Перерождение](www.wowhead.com/beta/spell=114052) и [Тотем целительного прилива](https://www.wowhead.com/beta/spell=108280) – теперь являются взаимоисключающими вариантами в древе талантов.
 {: class="bordered"}
 
 [Первый перерожденный](https://www.wowhead.com/beta/spell=462440/) – теперь также снижает время восстановления [Тотема целительного прилива](https://www.wowhead.com/beta/spell=108280).
