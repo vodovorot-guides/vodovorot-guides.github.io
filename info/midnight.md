@@ -511,7 +511,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-[Оружие Водоворота](https://www.wowhead.com/beta/spell=187880/) и [Бурлящий Водоворот](https://www.wowhead.com/beta/spell=384149) – больше не работают на исцеляющие заклинания.
+[Оружие Водоворота](https://www.wowhead.com/beta/spell=187880/) и [Бурлящий Водоворот](https://www.wowhead.com/beta/spell=384149) – больше не работают на исцеляющие заклинания, эффект перенесен в [Яростный Водоворот](https://www.wowhead.com/beta/spell=384143/).
 {: class="bordered"}
 
 [Яростный Водоворот](https://www.wowhead.com/beta/spell=384143/) – больше не увеличивает эффект [Оружия Водоворота](https://www.wowhead.com/beta/spell=187880/) дополнительно на **5%**, а только дает возможность стакаться до **10** раз. 
