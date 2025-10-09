@@ -183,6 +183,16 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+
+[Ярость шторма](https://www.wowhead.com/beta/spell=462695) – талант был переработан. Теперь снижает скорость произнесения [Молнии](https://ru.wowhead.com/spell=188196), [Цепная молния](https://www.wowhead.com/ru/spell=188443) и [Бури](https://ru.wowhead.com/spell=454009) на **15%**.
+{: class="bordered"}
+
+* Данный талант лишился всех своих багов с активацией и с него была убрана привязка на трату энергии Водоворота, что делает практически обязательным в любом билде.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
 [Перерождение](https://www.wowhead.com/beta/spell=114050) – теперь увеличивает урон от [Искусности](https://www.wowhead.com/beta/spell=168534) во время активации на **75%** вместо **150%**.
 {: class="bordered"}
 
