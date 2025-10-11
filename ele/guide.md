@@ -215,12 +215,10 @@ custom-javascript-list:
 3. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) за **1.5** секунд до пула.
 4. {:.lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) в момент пула.
 4. {:.no-lmt-apl .no-tempest-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) в момент пула.
-2. {:.pw-apl .tempest-apl .lmt-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
-2. {:.pw-apl .no-tempest-apl .lmt-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в макросе со [Стремительностью предков](https://ru.wowhead.com/spell=448861).
+2. {:.pw-apl .tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
+2. {:.pw-apl .no-tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в макросе со [Стремительностью предков](https://ru.wowhead.com/spell=448861).
 3. {:.lmt-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/) вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
 3. {:.no-lmt-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/) в момент пула вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
-2. {:.pw-apl .tempest-apl .no-lmt-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
-2. {:.pw-apl .no-tempest-apl .no-lmt-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в макросе со [Стремительностью предков](https://ru.wowhead.com/spell=448861).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 7. Продолжайте согласно приоритету заклинаний, указанному ниже.
@@ -232,9 +230,8 @@ custom-javascript-list:
   * Можно синхронизировать [Элементаля бури](https://ru.wowhead.com/spell=192249) и [Перерождение](https://www.wowhead.com/ru/spell=114050/), придержав использование [Элементаля бури](https://ru.wowhead.com/spell=192249), но следите за общим количеством его использований за бой.
 2. [Хранитель бурь](https://ru.wowhead.com/spell=191634).
 2. {:.lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) по кулдауну.
-2. {:.lmt-apl .pw-apl .no-tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в макросе со [Стремительностью предков](https://ru.wowhead.com/spell=448861).
 2. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
-2. {:.no-lmt-apl .pw-apl .tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
+2. {:.pw-apl .tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если есть **2** стака баффа [Ярости шторма](https://www.wowhead.com/ru/spell=462695/) и это не приведет к оверкапу энергии Водоворота.
 4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756), чтобы поглотить огненную часть баффа [Слияние стихий](https://www.wowhead.com/ru/spell=462840).
 4. {:.no-eogs-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
