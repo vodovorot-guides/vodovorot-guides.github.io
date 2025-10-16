@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-09-10
+last_update: 2025-10-16
 title: Гайд на Элем Шамана
 wow: 11.2
 toc: true
@@ -41,6 +41,42 @@ custom-javascript-list:
 
 
 Элем получил один из самых сильных баффов урона против одной цели за всю историю специализации. Это делает его отличным спеком для рейда и никак не влияет на АоЕ в Мифик+. Там мы всё также будем использовать Вестника шторма, несмотря на баффы [Цепной молнии](https://www.wowhead.com/ru/spell=188443) предков у Предсказателя. Она всё также бьет всего три цели и не может полноценно заменить [Бурю](https://www.wowhead.com/ru/spell=454009/) и баффы [Цепной молнии](https://www.wowhead.com/ru/spell=188443) в ветке Вестника шторма.
+
+
+# Legion Remix
+
+Основной билд талантов для рейдов, ключей и открытого мира:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAL+iDLHPJSLC+6fqMJ8tubCAAAAAMbzy2MjZGzysMGMYmBAAAAwmZ2gBMBzGTIzCAYWmmZwssYmZaMzMDYZmZGMGmlxMjZGzMbA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+Приоритет характеристик:
+1. Интеллект
+2. Искусность до **86%**.
+3. Скорость.
+4. Критический удар.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Лучшая способность артефакта: [Зов леса](https://www.wowhead.com/ru/spell=1233577/).
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Лучшие пассивные способности в бижутерии:
+1. [Назревающая буря](https://www.wowhead.com/ru/spell=1258587/), желательно в кольцо.
+2. [Ужас из глубин](https://www.wowhead.com/ru/spell=1233592/) **х2**.
+3. [Касание злобы](https://www.wowhead.com/ru/spell=1242992) **х2**.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 
 # Видеогайд

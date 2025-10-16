@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-09-16
+last_update: 2025-10-16
 title: Гайд на Рестор Шамана
 wow: 11.2
 toc: true
@@ -35,6 +35,44 @@ custom-javascript-list:
 Также все лечащие специализации, включая Рестор Шамана, получили ощутимое усиление основных бурстов в группах на **5** человек, небольшое усиление в группах на **6-19** человек и ослабление в группах в **21+** человека. Эффективность в рейде на **20** человек не изменилась.
 
 Была увеличена эффективность [Тотема целительного прилива](https://www.wowhead.com/ru/spell=108280) в группах на **5** человек на **100%**, с постепенным ослаблением эффективности до обычной, то есть до уровня патча **11.2**, в рейде на **20** человек.
+
+
+
+# Legion Remix
+
+Основной билд талантов для рейдов, ключей и открытого мира:
+
+<p></p>
+
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtZmZMWmlxihFWgFYGbasMgMDsx8AzsYxsNzMzkZbhZmGzwMbYZGzgxwsMGAAMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+Приоритет характеристик:
+1. Интеллект
+2. Критический удар.
+3. Скорость.
+4. Искусность.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Лучшая способность артефакта: [Вечный диск Нарана](https://www.wowhead.com/ru/spell=1233775/).
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Лучшие пассивные способности в бижутерии:
+1. [Назревающая буря](https://www.wowhead.com/ru/spell=1258587/), желательно в кольцо.
+2. [Ужас из глубин](https://www.wowhead.com/ru/spell=1233592/) **х2**.
+3. [Касание злобы](https://www.wowhead.com/ru/spell=1242992) **х2**.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
 

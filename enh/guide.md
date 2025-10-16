@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-08-23
+last_update: 2025-10-16
 title: Гайд на Энх Шамана
 wow: 11.2
 toc: true
@@ -39,6 +39,44 @@ custom-javascript-list:
 Это избавит нас от необходимости стакать [Бурю](https://www.wowhead.com/ru/spell=454009/) перед стартом ключа, в результате чего разработчики смогут более адекватно балансировать урон специализации, не беря в расчет тех кто стакает и не стакает [Бурю](https://www.wowhead.com/ru/spell=454009/) перед запуском Мифик+.
 
 У Энх Шамана также был доработан эффект таланта [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444/) – теперь он корректно поглощает [Бурю](https://www.wowhead.com/ru/spell=454009/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), без необходимости таймить этот момент для ручной активации способности. Это приятное изменение, которое упростит отыгрыш в ветке Вестника шторма, не жертвуя при этом уроном, а наоборот увеличивая его. 
+
+
+
+# Legion Remix
+
+Основной билд талантов для рейдов, ключей и открытого мира:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGYmZmZmZbmxyYAAAAAAAAAAgFYDmxiGbDgZC2AwsMZGYZxMzMDzYmthlZmJYZsMmZAAGA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+Приоритет характеристик:
+1. Ловкость
+2. Искусность.
+3. Скорость.
+4. Критический удар.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Лучшая способность артефакта: [Авангард из Круговерти](https://www.wowhead.com/ru/spell=1237711/).
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Лучшие пассивные способности в бижутерии:
+1. [Ужас из глубин](https://www.wowhead.com/ru/spell=1233592/) **х2**.
+2. [Касание злобы](https://www.wowhead.com/ru/spell=1242992) **х2**.
+3. [Нестабильное чародейство](https://www.wowhead.com/ru/spell=1234774/).
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 
 # Билды талантов
