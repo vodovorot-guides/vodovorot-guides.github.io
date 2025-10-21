@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2025-10-16
+last_update: 2025-10-21
 title: Гайд на Энх Шамана
 wow: 11.2
 toc: true
@@ -573,6 +573,14 @@ custom-javascript-list:
 
 # Экипировка
 
+Лучшие предметы для покупки за [Загадочные фишки картелей](https://www.wowhead.com/ru/item=250741):
+1. [Ритуальный горн Араза](https://www.wowhead.com/ru/item=242402) – при игре с талантом [Перерождение](https://www.wowhead.com/ru/spell=114051).
+2. [Незыблемая призма Пустоты](https://www.wowhead.com/ru/item=242396) – при игре с талантом [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270).
+3. [Плетеные сапоги захватчика](https://www.wowhead.com/ru/item=243308/).
+5. [Астральный усик](https://www.wowhead.com/ru/item=242395/).
+6. [Импровизированный сефориевый стимулятор](https://www.wowhead.com/ru/item=232541) – альтернативный вариант пассивного тринкета, если не хочется отыгрывать сбор сфер.
+
+<p></p>
 
 ## Повязки реши
 
