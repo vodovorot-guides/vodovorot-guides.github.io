@@ -573,6 +573,8 @@ custom-javascript-list:
 
 # Экипировка
 
+## Загадочные фишки картелей
+
 Лучшие предметы для покупки за [Загадочные фишки картелей](https://www.wowhead.com/ru/item=250741):
 1. [Ритуальный горн Араза](https://www.wowhead.com/ru/item=242402) – при игре с талантом [Перерождение](https://www.wowhead.com/ru/spell=114051).
 2. [Незыблемая призма Пустоты](https://www.wowhead.com/ru/item=242396) – при игре с талантом [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270).

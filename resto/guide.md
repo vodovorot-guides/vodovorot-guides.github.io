@@ -474,6 +474,8 @@ custom-javascript-list:
 
 # Экипировка
 
+## Загадочные фишки картелей
+
 Лучшие предметы для покупки за [Загадочные фишки картелей](https://www.wowhead.com/ru/item=250741):
 1. [Крис из стекла бездны](https://www.wowhead.com/ru/item=237728).
 2. [Астральный усик](https://www.wowhead.com/ru/item=242395/)
