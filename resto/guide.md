@@ -478,12 +478,18 @@ custom-javascript-list:
 
 Лучшие предметы для покупки за [Загадочные фишки картелей](https://www.wowhead.com/ru/item=250741):
 1. [Крис из стекла бездны](https://www.wowhead.com/ru/item=237728). Если вы не планируете убивать эпохального Разломия, стоит взять [Шпиль из стекла бездны](https://www.wowhead.com/ru/item=237730).
-2. [Астральный усик](https://www.wowhead.com/ru/item=242395/)
+2. [Плетеные сапоги захватчика](https://www.wowhead.com/ru/item=243308/).
 3. [Живой шелк Ткан'итара](https://www.wowhead.com/ru/item=242393) – только для Мифик+.
-4. [Плетеные сапоги захватчика](https://www.wowhead.com/ru/item=243308/).
+3. [Алмазный сердечник Бездны](https://www.wowhead.com/ru/item=242392) – отличный аксессуар в сочетании с оружием.
+2. [Астральный усик](https://www.wowhead.com/ru/item=242395/).
+
+<p></p>
+
+Если у вас есть всё вышеперечисленное, то стоит сверяться по [QE Live](https://questionablyepic.com/live/). Неплохими вариантами могут быть следующие предметыы:
 5. [Тайный прием Со'леи](https://www.wowhead.com/ru/item=190958/).
 6. [Усиливающий кристалл Ануб'иккаджа](https://www.wowhead.com/ru/item=219312).
 7. [Перстень расколотой души](https://www.wowhead.com/ru/item=242405/).
+
 
 <p></p>
 
