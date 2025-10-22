@@ -477,7 +477,7 @@ custom-javascript-list:
 ## Загадочные фишки картелей
 
 Лучшие предметы для покупки за [Загадочные фишки картелей](https://www.wowhead.com/ru/item=250741):
-1. [Крис из стекла бездны](https://www.wowhead.com/ru/item=237728).
+1. [Крис из стекла бездны](https://www.wowhead.com/ru/item=237728). Если вы не планируете убивать эпохального Разломия, стоит взять [Шпиль из стекла бездны](https://www.wowhead.com/ru/item=237730).
 2. [Астральный усик](https://www.wowhead.com/ru/item=242395/)
 3. [Живой шелк Ткан'итара](https://www.wowhead.com/ru/item=242393) – только для Мифик+.
 4. [Плетеные сапоги захватчика](https://www.wowhead.com/ru/item=243308/).
