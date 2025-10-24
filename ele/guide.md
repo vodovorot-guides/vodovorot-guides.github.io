@@ -61,6 +61,8 @@ custom-javascript-list:
 3. Скорость.
 4. Критический удар.
 
+Из третичных характеристик стоит выбирать **Скорость передвижения**.
+
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
