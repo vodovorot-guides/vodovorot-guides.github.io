@@ -253,10 +253,10 @@ custom-javascript-list:
 3. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) за **1.5** секунд до пула.
 4. {:.lmt-apl}[Тотем жидкой магмы](https://ru.wowhead.com/spell=192222) в момент пула.
 4. {:.no-lmt-apl .no-tempest-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) в момент пула.
-2. {:.pw-apl .tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 2. {:.pw-apl .no-tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982) в макросе со [Стремительностью предков](https://ru.wowhead.com/spell=448861).
 3. {:.lmt-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/) вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
 3. {:.no-lmt-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/) в момент пула вместе с прожимным аксессуаром и [Охлажденным зельем](https://www.wowhead.com/ru/item=212265).
+2. {:.pw-apl .tempest-apl}[Первозданная волна](https://ru.wowhead.com/spell=375982).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
 7. Продолжайте согласно приоритету заклинаний, указанному ниже.
@@ -281,6 +281,8 @@ custom-javascript-list:
 4. {:.no-eb-apl}[Ледяная ярость](https://ru.wowhead.com/spell=462816).
 4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если в бою не более **2-3** целей.
   * {:.mote-apl}Всегда чередуйте [Выброс лавы](https://ru.wowhead.com/spell=51505) с другой способностью для реализации баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
+4. {:.tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если в бою не более **2** целей.
+4. {:.tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756), если в бою не более **3** целей.
 4. {:.no-tempest-apl}[Ледяной шок](https://ru.wowhead.com/spell=196840) с баффом [Ледяной ярости](https://ru.wowhead.com/spell=462816), если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
 6. {:.tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) в бою против **2** целей.
 4. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
