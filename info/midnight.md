@@ -264,14 +264,14 @@ image: /assets/img/mid1.jpg
 
 ## Высшие таланты
 
-[Feedback Loop](https://www.wowhead.com/beta/spell=1262713) – увеличивает урон от проков [Искусности](https://www.wowhead.com/beta/spell=168534) на **35%**.
+[Feedback Loop](https://www.wowhead.com/beta/spell=1270061) – увеличивает урон от проков [Искусности](https://www.wowhead.com/beta/spell=168534) на **35%**.
 {: class="bordered"}
 
 
-[Feedback Loop](https://www.wowhead.com/beta/spell=1262761) – увеличивает шанс критического удара заклинаний на **5%/10%**. [Неистовство стихий](https://www.wowhead.com/beta/spell=60188/) дополнительно увеличивает урон от критических ударов на **25%/50%**.
+[Feedback Loop](https://www.wowhead.com/beta/spell=1270062) – увеличивает шанс критического удара заклинаний на **5%/10%**. [Неистовство стихий](https://www.wowhead.com/beta/spell=60188/) дополнительно увеличивает урон от критических ударов на **25%/50%**.
 {: class="bordered"}
 
-[Feedback Loop](https://www.wowhead.com/beta/spell=1252373) – проки [Искусности](https://www.wowhead.com/beta/spell=168534) имеют **25%** шанс вызвать дополнительный прок [Искусности](https://www.wowhead.com/beta/spell=168534). Данный эффект может сработать только один раз за применение заклинания.
+[Feedback Loop](https://www.wowhead.com/beta/spell=1270064) – проки [Искусности](https://www.wowhead.com/beta/spell=168534) имеют **25%** шанс вызвать дополнительный прок [Искусности](https://www.wowhead.com/beta/spell=168534). Данный эффект может сработать только один раз за применение заклинания.
 {: class="bordered"}
 
 
