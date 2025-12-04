@@ -1,7 +1,7 @@
 ---
 title: Все изменения Шаманов в Midnight
 layout: page
-last_update: 2025-11-08
+last_update: 2025-12-04
 wow: 12.0.0
 toc: true
 author: Amani
@@ -38,6 +38,7 @@ image: /assets/img/mid1.jpg
 * [Третий билд альфы от 15 октября 2025](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/14)
 * [Четвертый билд альфы от 23 октября 2025](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/15)
 * [Шестой билд альфы от 6 ноября 2025](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/17)
+* [Девятый билд альфы от 3 декабря 2025](https://us.forums.blizzard.com/en/wow/t/midnight-beta-test-development-notes/2174760/21)
 
 
 # Изменения древа талантов класса
@@ -122,16 +123,21 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-[Элементаль земли](https://www.wowhead.com/ru/spell=198103) – теперь действует **30** секунд и имеет время восстановления **3** минуты. Увеличивает максимальное здоровье на **15%** вместо **5%**.
+[Элементаль земли](https://www.wowhead.com/ru/spell=198103) – теперь действует **30** секунд и имеет время восстановления **3** минуты. Больше не увиличивает максимальное здоровье, этот эффект перенесен в талант [Первозданная связь](https://www.wowhead.com/beta/spell=1279819).
 {: class="bordered"}
 
 * Данная способность теперь будет использоваться чаще, чем один раз за бой.
-* [Элементаль земли](https://www.wowhead.com/ru/spell=198103) всё еще снижает получаемый урон на **5%** при взятом таланте [Первозданная связь](https://www.wowhead.com/ru/spell=381764/).
-* Исполняет роль дополнительного сейва вместо удаленного [Тотема каменной преграды](https://www.wowhead.com/ru/spell=108270).
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
+[Первозданная связь](https://www.wowhead.com/ru/spell=1279819) – [Элементаль земли](https://www.wowhead.com/ru/spell=198103) больше не производит угрозу, но увеличивает максимальное здоровье игрока на **15%** на время своего действия.
+{: class="bordered"}
+
+* Теперь [Элементаль земли](https://www.wowhead.com/ru/spell=198103) не будет забирать мобов с танка в том случае, если он используется как сейв, но мы лишились **5%** снижения урона при активном элементале.
+
+
 
 
 [Сила тотемов](https://www.wowhead.com/beta/spell=381867/) – теперь снижает время восстановления **некоторых** тотемов на **5** секунд вместо **6**.
@@ -250,6 +256,7 @@ image: /assets/img/mid1.jpg
   * [Равновесие стихий](https://www.wowhead.com/ru/spell=378271).
   * [Извергающаяся лава](https://www.wowhead.com/ru/spell=468574) – данный талант присутствовал в первом билде альфы, но был удален во втором.
   * [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087/).
+  * [Эхо элементаля](https://www.wowhead.com/ru/spell=462864/).
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -305,12 +312,11 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-[Хранитель бурь](https://www.wowhead.com/ru/spell=191634) – теперь дает один заряд вместо двух.
+[Камера эхо](https://www.wowhead.com/beta/spell=382032) – теперь увеличивает урон от перегрузки на **25%** вместо **40%**.
 {: class="bordered"}
 
-* Данное изменение было в [датамайне](https://www.wowhead.com/news/midnight-alpha-phase-4-datamined-class-and-spell-changes-378987?utm_source=discord-webhook), но его не было в офицальных [патчноутах](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/15).
-* Пока не ясно, будет ли реализовано это изменение.
-* Бонус нового сетового комплекта Элема за [четыре части](https://www.wowhead.com/spell=1264863) дает дополнительный заряд [Хранителю бурь](https://www.wowhead.com/ru/spell=191634), и возможно изменение базового количества стаков связано именно с этим.
+* Баланс цифр урона внутри специализации. 
+* Мы всё равно практически всегда будем брать этот талант, поэтому в целом ничего не поменялось.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -345,12 +351,11 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-[Мощь Водоворота](https://www.wowhead.com/beta/spell=191861) – теперь шанс прока составляет **40%** вместо **60%**.
+[Мощь Водоворота](https://www.wowhead.com/beta/spell=191861) – теперь шанс прока составляет **15%** вместо **60%**. Шанс срабатывания был обновлен, чтобы он был более стабильным.
 {: class="bordered"}
 
 * Данное изменение было сделано, чтобы сбалансировать измененный эффект таланта [Слияние стихий](https://www.wowhead.com/ru/spell=462840).
-* Шанс **40%** выглядит довольно высоким, учитывая что каждый его прок будет давать дополнительный бесплатный каст ослабленного [Удара духов стихий](https://www.wowhead.com/ru/spell=117014).
-
+* Мы пока не знаем точную систему прока.
 
 [Вестник бури](https://www.wowhead.com/ru/spell=468571) был переработан – теперь снижает время восстановления [Хранителя бурь](https://www.wowhead.com/ru/spell=191634) на **15** секунд.
 {: class="bordered"}
@@ -385,8 +390,8 @@ image: /assets/img/mid1.jpg
 {: class="bordered"}
 
 * [Элементаля бури](https://www.wowhead.com/ru/spell=192249/) больше нельзя выбрать вместо [Элементаля огня](https://www.wowhead.com/ru/spell=198067/), но он стал доступен в этом таланте после применения [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
-* Он всё также дает стаки Скорости за счет [Порыва ветра](https://www.wowhead.com/ru/spell=263806) и кастует свои обычные способности.
 * Может быть усилен за счет нового таланта в ветке Вестника шторма, который продлит время его действия на **2** секунды.
+* Урон [Элементаля бури](https://www.wowhead.com/ru/spell=192249/) был повышен примерно в **2** раза.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -418,9 +423,12 @@ image: /assets/img/mid1.jpg
 {: class="bordered"}
 
 * [Элементаль огня](https://www.wowhead.com/beta/spell=198067) в виде обычного таланта был удален, и этот новый талант является единственным способом его призвать.
+* Урон различных способностей [Элементаля огня](https://www.wowhead.com/beta/spell=198067) был повышен в **3-5** раз.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
+
 
 
 Новый талант: [Tectonic Collapse](https://www.wowhead.com/beta/spell=1258899/) – [Земной шок](https://www.wowhead.com/ru/spell=8042), [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) и [Землетрясение](https://ru.wowhead.com/spell=61882) теперь наносят на **20%** больше урона. Выбор в одном слоте с [Повторным толчком](https://www.wowhead.com/ru/spell=273221).
@@ -433,7 +441,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Molten Wrath](https://www.wowhead.com/beta/spell=1258843) – [Выброс лавы](https://www.wowhead.com/beta/spell=51505) теперь наносит на **25%** больше урона. Выбор в одном слоте с [Властелином стихий](https://www.wowhead.com/ru/spell=16166).
+Новый талант: [Molten Wrath](https://www.wowhead.com/beta/spell=1258843) – [Выброс лавы](https://www.wowhead.com/beta/spell=51505) теперь наносит на **15%** больше урона. Выбор в одном слоте с [Властелином стихий](https://www.wowhead.com/ru/spell=16166).
 {: class="bordered"}
 
 * Потенциально интересный вариант для огненного билда, но зависит от финальных цифр урона от заклинаний.
@@ -669,12 +677,12 @@ image: /assets/img/mid1.jpg
 
 Также мы лишились обоих элементалей в качестве бурста. Теперь [Элементаль бури](https://www.wowhead.com/ru/spell=192249/) вызывается только при взятом таланте [Гнев бурь](https://www.wowhead.com/beta/spell=191717/) после применения [Хранителя бурь](https://www.wowhead.com/ru/spell=191634), и на гораздо меньшее время, к тому же без бонусной скорости от [Порыва ветра](https://www.wowhead.com/ru/spell=263806/).
 
-[Элементаль огня](https://www.wowhead.com/ru/spell=198067/) теперь является пассивным баффом после активации [Перерождения](https://www.wowhead.com/beta/spell=114050), при этом его эффект остался прежним.
+[Элементаль огня](https://www.wowhead.com/ru/spell=198067/) теперь является пассивным баффом после активации [Перерождения](https://www.wowhead.com/beta/spell=114050), при этом его эффект остался прежним, но урон вырос.
 
 [Грозовой разрядник](https://www.wowhead.com/beta/spell=210689/) станет гораздо проще использовать, так как был удален талант [Отголоски Великого Раскола](https://www.wowhead.com/ru/spell=384087/), а [Землетрясение](https://ru.wowhead.com/spell=61882) раскидывает этот бафф самостоятельно на соседние цели.
 
 
-Сетовый комплект первого сезона Midnight усиливает [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), увеличивая урон от него и Скорость после применения, а также дает ему дополнительный заряд, но при этом мы скорее всего лишимся одного заряда в базовой способности. Это очень сомнительное решение, отнимать что-то у способности, чтобы вернуть это в качестве сетового бонуса. Будем надеяться что это временное решение, и оно изменится ближе к релизу.
+Сетовый комплект первого сезона Midnight усиливает [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), увеличивая урон от него и Скорость после применения, а также дает ему дополнительный заряд.
 
 Если посчитать активно используемые способности, то список выглядит следюущим образом:
 1. [Перерождение](https://www.wowhead.com/beta/spell=114050) – основной бурст, который дополнительно будет призывать [Элементаля огня](https://www.wowhead.com/ru/spell=198067/) и использоваться раз в **2/3** минуты, в зависимости от талантов.
@@ -1244,7 +1252,7 @@ image: /assets/img/mid1.jpg
 
 
 
-[Сгущающаяся вода](https://www.wowhead.com/beta/spell=470076) – теперь повышает первоначальное исцеление [Быстрины](https://www.wowhead.com/beta/spell=61295) на **30%** вместо **75%**.
+[Сгущающаяся вода](https://www.wowhead.com/beta/spell=470076) – талант был переработан. Теперь [Волна исцеления](https://www.wowhead.com/beta/spell=77472) и [Цепное исцеление](https://www.wowhead.com/beta/spell=1064) увеличивает первоначальное исцеление следующей [Быстрины](https://www.wowhead.com/beta/spell=61295) на **30%**, стакается до **2** раз.
 {: class="bordered"}
 
 * Ослабление таланта с временным баффом, который был компенсирован общим увеличением отхила.
@@ -1256,7 +1264,7 @@ image: /assets/img/mid1.jpg
 {: class="bordered"}
 
 
-[Цепное исцеление](https://www.wowhead.com/beta/spell=1064) – базовое время произнесения составляет **2** секунды вместо **2.5** секунд. Радиус перескока увеличен с **15** метров до **20** метров. Стоимость маны снижена на **10%**.
+[Цепное исцеление](https://www.wowhead.com/beta/spell=1064) – базовое время произнесения составляет **2** секунды вместо **2.5** секунд. Радиус перескока увеличен с **15** метров до **20** метров. Стоимость маны снижена на **20%**.
 {: class="bordered"}
 
 * Эффект удаленных талантов [Приливные волны](https://www.wowhead.com/ru/spell=51564) и [Вестник приливов](https://www.wowhead.com/ru/spell=236501/) был добавлен в базовую версию заклинаний.
@@ -1311,6 +1319,13 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+
+[Шепчущие волны](https://www.wowhead.com/beta/spell=1217598/) – теперь дублирует **10%** от [Волны исцеления](https://www.wowhead.com/beta/spell=77472/) вместо **15%**.
+{: class="bordered"}
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 [Выброс лавы](https://www.wowhead.com/beta/spell=51505) – теперь урон увеличивается в зависимости от шанса критического удара.
 {: class="bordered"}
 
@@ -1349,7 +1364,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Mystic Knowledge](https://www.wowhead.com/beta/spell=1270450/mystic-knowledge?spellModifier=137039) – после применения [Стремительности предков](https://www.wowhead.com/beta/spell=443454) повышается скорость восстановления [Быстрины](https://www.wowhead.com/beta/spell=61295) на **30%** на **8** секунд. Также увеличивает шанс на прок [Волны лавы](https://www.wowhead.com/beta/spell=77756) на **20%**.
+Новый талант: [Mystic Knowledge](https://www.wowhead.com/beta/spell=1270450/mystic-knowledge?spellModifier=137039) – после применения [Стремительности предков](https://www.wowhead.com/beta/spell=443454) повышается скорость восстановления [Быстрины](https://www.wowhead.com/beta/spell=61295) на **10%** на **8** секунд. Также увеличивает шанс на прок [Волны лавы](https://www.wowhead.com/beta/spell=77756) на **20%**.
 {: class="bordered"}
 
 * Довольно приятный эффект, который был перенесен из сетового комплекта третьего сезона, [Вой направленной ярости](https://www.wowhead.com/ru/item-set=1929/).
@@ -1400,7 +1415,7 @@ image: /assets/img/mid1.jpg
 [Сверхнагрузка](https://www.wowhead.com/beta/spell=445030) – теперь также работает и на [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394) и [Тотем целительного прилива](https://www.wowhead.com/beta/spell=108280).
 {: class="bordered"}
 
-[Стимуляция](https://www.wowhead.com/beta/spell=445035) – талант был переименован в [Splitstream](https://www.wowhead.com/beta/spell=445035). Теперь увеличивает исцеление [Тотем целительного прилива](https://www.wowhead.com/beta/spell=108280) на **25%**.
+[Стимуляция](https://www.wowhead.com/beta/spell=445035) – талант был переименован в [Splitstream](https://www.wowhead.com/beta/spell=445035). Теперь увеличивает исцеление [Тотем целительного прилива](https://www.wowhead.com/beta/spell=108280) на **25%** и [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394) лечит дополнительную цель на **30%** эффективности.
 {: class="bordered"}
 
 <hr style="height:1px;background-color:#bbb">
