@@ -1,7 +1,7 @@
 ---
 title: Все изменения Шаманов в Midnight
 layout: page
-last_update: 2025-12-04
+last_update: 2026-01-09
 wow: 12.0.0
 toc: true
 author: Amani
@@ -497,7 +497,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Inferno Arc](https://www.wowhead.com/beta/spell=1259047) – [Молния](https://ru.wowhead.com/spell=188196), [Буря](https://ru.wowhead.com/spell=454009), [Цепная молния](https://www.wowhead.com/ru/spell=188443), [Земной шок](https://www.wowhead.com/ru/spell=8042), [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) и [Землетрясение](https://ru.wowhead.com/spell=61882) наносят на **15%** больше урона по целям с дебаффом от [Огненного шока](https://ru.wowhead.com/spell=188389).
+Новый талант: [Инфернальный разряд](https://www.wowhead.com/beta/spell=1259047) – [Молния](https://ru.wowhead.com/spell=188196), [Буря](https://ru.wowhead.com/spell=454009), [Цепная молния](https://www.wowhead.com/ru/spell=188443), [Земной шок](https://www.wowhead.com/ru/spell=8042), [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) и [Землетрясение](https://ru.wowhead.com/spell=61882) наносят на **10%** больше урона по целям с дебаффом от [Огненного шока](https://ru.wowhead.com/spell=188389).
 {: class="bordered"}
 
 * Новый талант для усиления потенциального огненного билда, который будет полезен как в бою против одной цели, так и на АоЕ.
