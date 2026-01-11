@@ -1174,15 +1174,15 @@ image: /assets/img/mid1.jpg
 
 ## Высшие таланты
 
-[Stormstream Totem](https://www.wowhead.com/beta/spell=1267016/) – [Быстрина](https://www.wowhead.com/beta/spell=61295) имеет **10%** шанс превратить следующий [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394) в [Stormstream Totem](https://www.wowhead.com/beta/spell=1267016), который исцеляет одного дополнительного союзника, его сила повышена на **30%** и в момент применения он излечивает двух раненых союзников на **300%** от силы заклинаний.
+[Тотем потока бури](https://www.wowhead.com/beta/spell=1267016/) – [Быстрина](https://www.wowhead.com/beta/spell=61295) имеет **10%** шанс превратить следующий [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394) в [Тотем потока бури](https://www.wowhead.com/beta/spell=1267016), который исцеляет одного дополнительного союзника, его сила повышена на **30%** и в момент применения он излечивает двух раненых союзников на **300%** от силы заклинаний.
 {: class="bordered"}
 
 
-[Stormstream Totem](https://www.wowhead.com/beta/spell=1267093/) – исцеление [Stormstream Totem](https://www.wowhead.com/beta/spell=1267016) повышено на **30/60%**.
+[Тотем потока бури](https://www.wowhead.com/beta/spell=1267093/) – исцеление [Тотема исцеляющего потока](https://www.wowhead.com/beta/spell=5394) и [Тотема потока бури](https://www.wowhead.com/beta/spell=1267016) повышено на **20/40%**.
 {: class="bordered"}
 
 
-[Stormstream Totem](https://www.wowhead.com/beta/spell=1267120/) – если [Stormstream Totem](https://www.wowhead.com/beta/spell=1267016) доступен для применения, он кастуется бесплатно и игнорирует свое время восстановления.
+[Тотем потока бури](https://www.wowhead.com/beta/spell=1267120/) – если [Тотем потока бури](https://www.wowhead.com/beta/spell=1267016) доступен для применения, он кастуется бесплатно и игнорирует свое время восстановления.
 {: class="bordered"}
 
 
