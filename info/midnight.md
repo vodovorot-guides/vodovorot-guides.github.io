@@ -1182,7 +1182,7 @@ image: /assets/img/mid1.jpg
 {: class="bordered"}
 
 
-[Тотем потока бури](https://www.wowhead.com/beta/spell=1267120/) – если [Тотем потока бури](https://www.wowhead.com/beta/spell=1267016) доступен для применения, он кастуется бесплатно и игнорирует свое время восстановления.
+[Тотем потока бури](https://www.wowhead.com/beta/spell=1267120/) – применение [Природной стремительности](https://www.wowhead.com/beta/spell=378081) или [Стремительности предков](https://www.wowhead.com/beta/spell=443454) позволяет использовать [Тотем потока бури](https://www.wowhead.com/beta/spell=1267016), и [Тотем потока бури](https://www.wowhead.com/beta/spell=1267016) не тратит заряд [Тотема исцеляющего потока](https://www.wowhead.com/beta/spell=5394) при использовании.
 {: class="bordered"}
 
 
