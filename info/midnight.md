@@ -1,7 +1,7 @@
 ---
 title: Все изменения Шаманов в Midnight
 layout: page
-last_update: 2026-01-09
+last_update: 2026-01-16
 wow: 12.0.0
 toc: true
 author: Amani
@@ -39,6 +39,7 @@ image: /assets/img/mid1.jpg
 * [Четвертый билд альфы от 23 октября 2025](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/15)
 * [Шестой билд альфы от 6 ноября 2025](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/17)
 * [Девятый билд альфы от 3 декабря 2025](https://us.forums.blizzard.com/en/wow/t/midnight-beta-test-development-notes/2174760/21)
+* [Финальные патчноуты от 15 января 2026](https://worldofwarcraft.blizzard.com/en-us/news/24244455)
 
 
 # Изменения древа талантов класса
