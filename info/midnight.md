@@ -265,14 +265,14 @@ image: /assets/img/mid1.jpg
 
 ## Высшие таланты
 
-[Feedback Loop](https://www.wowhead.com/beta/spell=1270061) – увеличивает урон от проков [Искусности](https://www.wowhead.com/beta/spell=168534) на **35%**.
+[Цикл ответной реакции](https://www.wowhead.com/beta/spell=1270061) – увеличивает урон от проков [Искусности](https://www.wowhead.com/beta/spell=168534) на **35%**.
 {: class="bordered"}
 
 
-[Feedback Loop](https://www.wowhead.com/beta/spell=1270062) – увеличивает шанс критического удара заклинаний на **5%/10%**. [Неистовство стихий](https://www.wowhead.com/beta/spell=60188/) дополнительно увеличивает урон от критических ударов на **25%/50%**.
+[Цикл ответной реакции](https://www.wowhead.com/beta/spell=1270062) – увеличивает шанс критического удара заклинаний на **5%/10%**. [Неистовство стихий](https://www.wowhead.com/beta/spell=60188/) дополнительно увеличивает урон от критических ударов на **25%/50%**.
 {: class="bordered"}
 
-[Feedback Loop](https://www.wowhead.com/beta/spell=1270064) – проки [Искусности](https://www.wowhead.com/beta/spell=168534) имеют **25%** шанс вызвать дополнительный прок [Искусности](https://www.wowhead.com/beta/spell=168534). Данный эффект может сработать только один раз за применение заклинания.
+[Цикл ответной реакции](https://www.wowhead.com/beta/spell=1270064) – проки [Искусности](https://www.wowhead.com/beta/spell=168534) имеют **25%** шанс вызвать дополнительный прок [Искусности](https://www.wowhead.com/beta/spell=168534). Данный эффект может сработать только один раз за применение заклинания.
 {: class="bordered"}
 
 
@@ -420,7 +420,7 @@ image: /assets/img/mid1.jpg
 ## Новые таланты
 	
 		
-Новый талант: [Call of Fire](https://www.wowhead.com/beta/spell=378255/) – активация [Перерождения](https://www.wowhead.com/beta/spell=114050) призывает [Элементаля огня](https://www.wowhead.com/beta/spell=198067).
+Новый талант: [Зов огня](https://www.wowhead.com/beta/spell=378255/) – активация [Перерождения](https://www.wowhead.com/beta/spell=114050) призывает [Элементаля огня](https://www.wowhead.com/beta/spell=198067).
 {: class="bordered"}
 
 * [Элементаль огня](https://www.wowhead.com/beta/spell=198067) в виде обычного таланта был удален, и этот новый талант является единственным способом его призвать.
@@ -432,7 +432,7 @@ image: /assets/img/mid1.jpg
 
 
 
-Новый талант: [Tectonic Collapse](https://www.wowhead.com/beta/spell=1258899/) – [Земной шок](https://www.wowhead.com/ru/spell=8042), [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) и [Землетрясение](https://ru.wowhead.com/spell=61882) теперь наносят на **20%** больше урона. Выбор в одном слоте с [Повторным толчком](https://www.wowhead.com/ru/spell=273221).
+Новый талант: [Тектонический коллапс](https://www.wowhead.com/beta/spell=1258899/) – [Земной шок](https://www.wowhead.com/ru/spell=8042), [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) и [Землетрясение](https://ru.wowhead.com/spell=61882) теперь наносят на **20%** больше урона. Выбор в одном слоте с [Повторным толчком](https://www.wowhead.com/ru/spell=273221).
 {: class="bordered"}
 
 * [Повторный толчок](https://www.wowhead.com/ru/spell=273221) позволяет генерировать больше энергии Водоворота, что особенно полезно для таланта [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/).
@@ -442,7 +442,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Molten Wrath](https://www.wowhead.com/beta/spell=1258843) – [Выброс лавы](https://www.wowhead.com/beta/spell=51505) теперь наносит на **15%** больше урона. Выбор в одном слоте с [Властелином стихий](https://www.wowhead.com/ru/spell=16166).
+Новый талант: [Раскаленный гнев](https://www.wowhead.com/beta/spell=1258843) – [Выброс лавы](https://www.wowhead.com/beta/spell=51505) теперь наносит на **15%** больше урона. Выбор в одном слоте с [Властелином стихий](https://www.wowhead.com/ru/spell=16166).
 {: class="bordered"}
 
 * Потенциально интересный вариант для огненного билда, но зависит от финальных цифр урона от заклинаний.
@@ -451,7 +451,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Lava Flows](https://www.wowhead.com/beta/spell=1273485) – [Выброс лавы](https://www.wowhead.com/beta/spell=51505) и его проки [Искусности](https://www.wowhead.com/beta/spell=168534) дают на **1** ед. энергии Водоворота больше.
+Новый талант: [Потоки лавы](https://www.wowhead.com/beta/spell=1273485) – [Выброс лавы](https://www.wowhead.com/beta/spell=51505) и его проки [Искусности](https://www.wowhead.com/beta/spell=168534) дают на **1** ед. энергии Водоворота больше.
 {: class="bordered"}
 
 * Еще один талант, дополительно усиливающий огненный билд.
@@ -460,10 +460,10 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Elemental Resonance](https://www.wowhead.com/beta/spell=1258895) – весь наносимый урон от сил стихий повышается на **3%**. Выбор в одном слоте с [Оберегом громового удара](https://www.wowhead.com/ru/spell=462757).
+Новый талант: [Стихийный резонанс](https://www.wowhead.com/beta/spell=1258895) – весь наносимый урон от сил стихий повышается на **3%**. Выбор в одном слоте с [Оберегом громового удара](https://www.wowhead.com/ru/spell=462757).
 {: class="bordered"}
 
-Новый талант: [Storm Infusion](https://www.wowhead.com/beta/spell=1258889/) – увеличивает эффект таланта [Elemental Resonance](https://www.wowhead.com/beta/spell=1258895) дополнительно на **2%** или шанс срабатывания [Оберега громового удара](https://www.wowhead.com/ru/spell=462757) на **30%** и его урон на **75%**.
+Новый талант: [Усиление бурей](https://www.wowhead.com/beta/spell=1258889/) – увеличивает эффект таланта [Стихийный резонанс](https://www.wowhead.com/beta/spell=1258895) дополнительно на **2%** или шанс срабатывания [Оберега громового удара](https://www.wowhead.com/ru/spell=462757) на **30%** и его урон на **75%**.
 {: class="bordered"}
 
 * Новый пассивный талант, хоть и максимально скучен по описанию, является альтернативой в том случае, если вы не используете щит. 
@@ -480,7 +480,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Crackling Fury](https://www.wowhead.com/beta/spell=1269215/) – снижает время восстановления [Гальванического пламени](https://www.wowhead.com/beta/spell=470057) на **3/6** секунд и увеличивает его урон на **50%/100%**.
+Новый талант: [Потрескивающая ярость](https://www.wowhead.com/beta/spell=1269215/) – снижает время восстановления [Гальванического пламени](https://www.wowhead.com/beta/spell=470057) на **3/6** секунд и увеличивает его урон на **50%/100%**.
 {: class="bordered"}
 
 * Довольно сильный талант, учитывая урон, время восстановления и дополнительные эффекты от [Гальванического пламени](https://www.wowhead.com/beta/spell=470057).
@@ -488,7 +488,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Purging Flames](https://www.wowhead.com/beta/spell=1259471) – [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057) позволяет следующему [Выбросу лавы](https://www.wowhead.com/beta/spell=51505) поразить все цели под [Огненным шоком](https://ru.wowhead.com/spell=188389) с эффективностью **80%** и сниженной генерацией энергии Водоворота. Дополнительно повышает урон [Выброса лавы](https://www.wowhead.com/beta/spell=51505) на **10%**.
+Новый талант: [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471) – [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057) позволяет следующему [Выбросу лавы](https://www.wowhead.com/beta/spell=51505) поразить все цели под [Огненным шоком](https://ru.wowhead.com/spell=188389) с эффективностью **80%** и сниженной генерацией энергии Водоворота. Дополнительно повышает урон [Выброса лавы](https://www.wowhead.com/beta/spell=51505) на **10%**.
 {: class="bordered"}
 
 
@@ -507,7 +507,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Flames of the Firelord](https://www.wowhead.com/beta/spell=381784) – увеличивает урон [Огненного шока](https://ru.wowhead.com/spell=188389) на **100%**.
+Новый талант: [Пламя Повелителя Огня](https://www.wowhead.com/beta/spell=381784) – увеличивает урон [Огненного шока](https://ru.wowhead.com/spell=188389) на **100%**.
 {: class="bordered"}
 
 * В теории может быть сильным талантом для огненного билда, но для этого сначала нужно повысить базовый урон [Огненного шока](https://ru.wowhead.com/spell=188389).
@@ -517,7 +517,7 @@ image: /assets/img/mid1.jpg
 
 
 
-Новый талант: [Amped Up](https://www.wowhead.com/beta/spell=1269360) – увеличивает Скорость на **3%**.
+Новый талант: [Интенсивный ток](https://www.wowhead.com/beta/spell=1269360) – увеличивает Скорость на **3%**.
 {: class="bordered"}
 
 * Довольно скучный талант, но он необходим чтобы дойти до обновленной [Мощи Водоворота](https://www.wowhead.com/beta/spell=191861).
@@ -530,7 +530,7 @@ image: /assets/img/mid1.jpg
 ## Изменения Предсказателя
 
 
-Новый талант: [Ancestral Influence](https://www.wowhead.com/beta/spell=1270446) – повышает Интеллект на **1%** за каждого активного предка.
+Новый талант: [Влияние предков](https://www.wowhead.com/beta/spell=1270446) – повышает Интеллект на **1%** за каждого активного предка.
 {: class="bordered"}
 
 * Не самый сильный талант, так как мы вряд ли будем стакать больше **3-4** предков за раз, даже с учетом их увеличенной длительности.
@@ -539,7 +539,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Windspeaker](https://www.wowhead.com/beta/spell=1270447) – снижает время произнесения [Выброса лавы](https://www.wowhead.com/beta/spell=51505), [Исцеляющего всплеска](https://www.wowhead.com/beta/spell=8004/) и [Цепного исцеления](https://www.wowhead.com/beta/spell=1064) на **10%**.
+Новый талант: [Говорящий с ветром](https://www.wowhead.com/beta/spell=1270447) – снижает время произнесения [Выброса лавы](https://www.wowhead.com/beta/spell=51505), [Исцеляющего всплеска](https://www.wowhead.com/beta/spell=8004/) и [Цепного исцеления](https://www.wowhead.com/beta/spell=1064) на **10%**.
 {: class="bordered"}
 
 * Данный талант снижает базовое время произнесения заклинаний, на которое уже потом работает вторичная характеристика Скорость.
@@ -549,7 +549,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Mystic Knowledge](https://www.wowhead.com/beta/spell=1270450/mystic-knowledge?spellModifier=137040) – увеличивает шанс на прок [Волны лавы](https://www.wowhead.com/beta/spell=77756) на **20%**.
+Новый талант: [Мистическое знание](https://www.wowhead.com/beta/spell=1270450/mystic-knowledge?spellModifier=137040) – увеличивает шанс на прок [Волны лавы](https://www.wowhead.com/beta/spell=77756) на **20%**.
 {: class="bordered"}
 
 * Игра не сообщает точный шанс на прок [Волны лавы](https://www.wowhead.com/beta/spell=77756), но на данный момент мы его получаем в среднем один раз в **6-8** секунд, в бою против одной цели.
@@ -610,7 +610,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Descending Skies](https://www.wowhead.com/beta/spell=1264688) – [Перерождение](https://www.wowhead.com/beta/spell=114050) при активации превращает следующую [Молнию](https://ru.wowhead.com/spell=188196) в [Бурю](https://ru.wowhead.com/spell=454009).
+Новый талант: [Низвергнутые небеса](https://www.wowhead.com/beta/spell=1264688) – [Перерождение](https://www.wowhead.com/beta/spell=114050) при активации превращает следующую [Молнию](https://ru.wowhead.com/spell=188196) в [Бурю](https://ru.wowhead.com/spell=454009).
 {: class="bordered"}
 
 * Данный талант по сути является копией бонуса сетового комплекта третьего сезона, [Вой направленной ярости](https://www.wowhead.com/ru/item-set=1929/).
@@ -636,7 +636,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Natural Gift](https://www.wowhead.com/beta/spell=1264691/) – увеличивает урон от сил природы на **2%**.
+Новый талант: [Природный дар](https://www.wowhead.com/beta/spell=1264691/) – увеличивает урон от сил природы на **2%**.
 {: class="bordered"}
 
 * Стандартный пассивный "скучный" талант на увеличение урона в героической ветке. Но теперь он будет работать также и на [Землетрясение](https://ru.wowhead.com/spell=61882).
@@ -644,7 +644,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Stormwell](https://www.wowhead.com/beta/spell=1264762/) – [Элементаль бури](https://www.wowhead.com/ru/spell=192249/) от таланта [Гнев бурь](https://www.wowhead.com/beta/spell=191717/) теперь длится на **2** секунды дольше, а [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) генерирует **10** единиц энергии Водоворота.
+Новый талант: [Источник бури](https://www.wowhead.com/beta/spell=1264762/) – [Элементаль бури](https://www.wowhead.com/ru/spell=192249/) от таланта [Гнев бурь](https://www.wowhead.com/beta/spell=191717/) теперь длится на **2** секунды дольше, а [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) генерирует **10** единиц энергии Водоворота.
 {: class="bordered"}
 
 
