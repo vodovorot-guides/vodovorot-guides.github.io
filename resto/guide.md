@@ -545,16 +545,3 @@ custom-javascript-list:
 {% include button.html name="Макросы для Рестор Шамана" link="https://stormkeeper.ru/info/macros.html#%D0%B8%D1%81%D1%86%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" %}  
 
 <p></p>
-## WeakAuras
-
-
-<p></p>
-
-{% include button.html name="Сборки WA на Wago.io" link="https://wago.io/the-war-within-weakauras/classes/shaman/restoration" %}  
-
-<p></p>
-
-{% include button.html name="Обсудить на сервере Водоворот" link="https://discord.gg/8Bag6kT" %}  
-
-<p></p>
-
