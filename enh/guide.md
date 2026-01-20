@@ -88,7 +88,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzYmZmZmZmhZGDAAAAAAAAgNAMjhNCYGQDWAYWmxMzYZxAzMbsMzMzAGzAAMDjZGGNwMDgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="480px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzYmZmZmZmhZGDAAAAAAAAgNAMjhNCYGQDWAYWmxMzYZxAzMbsMzMzAGzAAMDjZGGNwMDgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -118,7 +118,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzYMzMzMzMMzMDAAAAAAAAgNAMjhNCYGQDWAYWmxMGLLGYmBLzMzMDMmBAwwYmhRDMzgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="490px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzYMzMzMzMMzMDAAAAAAAAgNAMjhNCYGQDWAYWmxMGLLGYmBLzMzMDMmBAwwYmhRDMzgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -133,7 +133,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzMjZMzMzMzMzYGAAAAAAAAAYBAzgGbDgRwGAzyMmxYZxAzMbsMjZmBGzAAAjZYmJmZAGMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="490px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzMjZMzMzMzMzYGAAAAAAAAAYBAzgGbDgRwGAzyMmxYZxAzMbsMjZmBGzAAAjZYmJmZAGMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -150,7 +150,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzMjZMzMzMzMzYGAAAAAAAAAYBAzgGbDgRwGAzyMmxYZxAzMbsMjZmBGzAAAjZYmJmZAGMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="490px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzMjZMzMzMzMzYGAAAAAAAAAYBAzgGbDgRwGAzyMmxYZxAzMbsMjZmBGzAAAjZYmJmZAGMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -181,8 +181,8 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_enh_sb_totem" class="btn btn-primary rotation-btn">Тотемист - рейд</button>
-    <button type="button" id="build_enh_sb_storm" class="btn btn-primary rotation-btn">Вестник шторма – Мифик+</button>
+    <button type="button" id="build_enh_totem" class="btn btn-primary rotation-btn">Тотемист - рейд</button>
+    <button type="button" id="build_enh_storm" class="btn btn-primary rotation-btn">Вестник шторма – Мифик+</button>
   </div>
 </div>
 
