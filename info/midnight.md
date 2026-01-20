@@ -1191,25 +1191,25 @@ image: /assets/img/mid1.jpg
 
 ## Новые таланты
 
-Новый талант: [Crashing Waves](https://www.wowhead.com/beta/spell=1253090) – шанс критического удара [Волны исцеления](https://www.wowhead.com/beta/spell=77472/) повышен на **12%**.
+Новый талант: [Сокрушительные волны](https://www.wowhead.com/beta/spell=1253090) – шанс критического удара [Волны исцеления](https://www.wowhead.com/beta/spell=77472/) повышен на **12%**.
 {: class="bordered"}
 
-Новый талант: [Calm Waters](https://www.wowhead.com/beta/spell=1252841) – снижает стоимость маны для [Цепного исцеления](https://www.wowhead.com/beta/spell=1064) на **15%**.
+Новый талант: [Спокойные воды](https://www.wowhead.com/beta/spell=1252841) – снижает стоимость маны для [Цепного исцеления](https://www.wowhead.com/beta/spell=1064) на **15%**.
 {: class="bordered"}
 
-Новый талант: [Soothing Rain](https://www.wowhead.com/beta/spell=1252874) – увеличивает исцеление [Целительного ливня](https://www.wowhead.com/beta/spell=73920/) на **10%** и снижает время его произнесения на **0.5** секунд.
+Новый талант: [Успокаивающий дождь](https://www.wowhead.com/beta/spell=1252874) – увеличивает исцеление [Целительного ливня](https://www.wowhead.com/beta/spell=73920/) на **10%** и снижает время его произнесения на **0.5** секунд.
 {: class="bordered"}
 
-Новый талант: [Quickstream](https://www.wowhead.com/beta/spell=1253099) – [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394) исцеляет на **15%** чаще.
+Новый талант: [Бегущий поток](https://www.wowhead.com/beta/spell=1253099) – [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394) исцеляет на **15%** чаще.
 {: class="bordered"}
 
-Новый талант: [Water Expulsion](https://www.wowhead.com/beta/spell=1253014/) – увеличивает исцеление [Ливневого дождя](https://www.wowhead.com/beta/spell=462486) на **20%**.
+Новый талант: [Водный выброс](https://www.wowhead.com/beta/spell=1253014/) – увеличивает исцеление [Ливневого дождя](https://www.wowhead.com/beta/spell=462486) на **20%**.
 {: class="bordered"}
 
-Новый талант: [Double Dip](https://www.wowhead.com/beta/spell=1252882) – [Целительный ливень](https://www.wowhead.com/beta/spell=73920/) дает дополнительный заряд [Ливневого дождя](https://www.wowhead.com/beta/spell=462486).
+Новый талант: [Двойной приток](https://www.wowhead.com/beta/spell=1252882) – [Целительный ливень](https://www.wowhead.com/beta/spell=73920/) дает дополнительный заряд [Ливневого дождя](https://www.wowhead.com/beta/spell=462486).
 {: class="bordered"}
 
-Новый талант: [Earthweaver](https://www.wowhead.com/beta/spell=1254210/) – увеличивает исцеление [Щита земли](https://www.wowhead.com/beta/spell=974) на **40%**.
+Новый талант: [Ткач земли](https://www.wowhead.com/beta/spell=1254210/) – увеличивает исцеление [Щита земли](https://www.wowhead.com/beta/spell=974) на **40%**.
 {: class="bordered"}
 
 * Новые таланты гораздо "проще" чем те, что были удалены.
@@ -1345,7 +1345,7 @@ image: /assets/img/mid1.jpg
 
 
 
-Новый талант: [Ancestral Influence](https://www.wowhead.com/beta/spell=1270446) – повышает Интеллект на **1%** за каждого активного предка.
+Новый талант: [Влияние предков](https://www.wowhead.com/beta/spell=1270446) – повышает Интеллект на **1%** за каждого активного предка.
 {: class="bordered"}
 
 * Не самый сильный талант, так как мы вряд ли будем стакать больше **3-4** предков за раз, даже с учетом их увеличенной длительности.
@@ -1354,7 +1354,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Windspeaker](https://www.wowhead.com/beta/spell=1270447) – снижает время произнесения [Волны исцеления](https://www.wowhead.com/beta/spell=77472), [Цепного исцеления](https://www.wowhead.com/beta/spell=1064) и [Выброса лавы](https://www.wowhead.com/beta/spell=51505)  на **10%**.
+Новый талант: [Говорящий с ветром](https://www.wowhead.com/beta/spell=1270447) – снижает время произнесения [Волны исцеления](https://www.wowhead.com/beta/spell=77472), [Цепного исцеления](https://www.wowhead.com/beta/spell=1064) и [Выброса лавы](https://www.wowhead.com/beta/spell=51505)  на **10%**.
 {: class="bordered"}
 
 * Данный талант снижает базовое время произнесения заклинаний, на которое уже потом работает вторичная характеристика Скорость.
@@ -1363,7 +1363,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Mystic Knowledge](https://www.wowhead.com/beta/spell=1270450/mystic-knowledge?spellModifier=137039) – после применения [Стремительности предков](https://www.wowhead.com/beta/spell=443454) повышается скорость восстановления [Быстрины](https://www.wowhead.com/beta/spell=61295) на **10%** на **8** секунд. Также увеличивает шанс на прок [Волны лавы](https://www.wowhead.com/beta/spell=77756) на **20%**.
+Новый талант: [Мистическое знание](https://www.wowhead.com/beta/spell=1270450/mystic-knowledge?spellModifier=137039) – после применения [Стремительности предков](https://www.wowhead.com/beta/spell=443454) повышается скорость восстановления [Быстрины](https://www.wowhead.com/beta/spell=61295) на **10%** на **8** секунд. Также увеличивает шанс на прок [Волны лавы](https://www.wowhead.com/beta/spell=77756) на **20%**.
 {: class="bordered"}
 
 * Довольно приятный эффект, который был перенесен из сетового комплекта третьего сезона, [Вой направленной ярости](https://www.wowhead.com/ru/item-set=1929/).
@@ -1384,7 +1384,7 @@ image: /assets/img/mid1.jpg
 
 
 
-Новый талант: [Totemic Momentum](https://www.wowhead.com/beta/spell=1260644/totemic-momentum?spellModifier=137039) – снижает время восстановления [Тотема исцеляющего потока](https://www.wowhead.com/beta/spell=5394) на **3** секунды.
+Новый талант: [Энергия тотемов](https://www.wowhead.com/beta/spell=1260644/totemic-momentum?spellModifier=137039) – снижает время восстановления [Тотема исцеляющего потока](https://www.wowhead.com/beta/spell=5394) на **3** секунды.
 {: class="bordered"}
 
 * Полезный талант, учитывая привязку [Тотема исцеляющего потока](https://www.wowhead.com/beta/spell=5394) ко многим эффектам и прокам.
@@ -1393,7 +1393,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Primal Catalyst](https://www.wowhead.com/beta/spell=1260874/primal-catalyst?spellModifier=137039) – [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394), [Stormstream Totem](https://www.wowhead.com/beta/spell=1267016/) и [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394) имеют **20%** шанс при исцелении союзника наложить на него эффект [Оружия жизни земли](https://www.wowhead.com/beta/spell=382021/).
+Новый талант: [Первородный катализатор](https://www.wowhead.com/beta/spell=1260874/primal-catalyst?spellModifier=137039) – [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394), [Stormstream Totem](https://www.wowhead.com/beta/spell=1267016/) и [Тотем исцеляющего потока](https://www.wowhead.com/beta/spell=5394) имеют **20%** шанс при исцелении союзника наложить на него эффект [Оружия жизни земли](https://www.wowhead.com/beta/spell=382021/).
 {: class="bordered"}
 
 * Пассивное увеличение хила за счет наложения прока от усиления оружия, которое будет сочетаться с соответствующими талантами в ветке специализации.
@@ -1401,7 +1401,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Elemental Attunement](https://www.wowhead.com/beta/spell=1263288/) – увеличивает Искусность на **2%**.
+Новый талант: [Язык стихий](https://www.wowhead.com/beta/spell=1263288/) – увеличивает Искусность на **2%**.
 {: class="bordered"}
 
 * Простой пассивный талант на увеличение исцеления.

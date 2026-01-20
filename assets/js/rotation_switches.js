@@ -141,14 +141,13 @@ $('button#build_enh_storm_aoe').on('click', function() {
     return false;
 });
 
-$('button#build_resto_ww').on('click', function() {
-    on_build_button_click(this, ["cbt", "rain", "und", "ww"]);
+$('button#build_resto_farseer').on('click', function() {
+    on_build_button_click(this, ["ul", "asc", "dre"]);
     return false;
 });
 
-
-$('button#build_resto_mplus').on('click', function() {
-    on_build_button_click(this, ["cbt", "ul", "flow", "tide", "mote"]);
+$('button#build_resto_totem').on('click', function() {
+    on_build_button_click(this, ["totem", "ul", "rain", "dp"]);
     return false;
 });
 
