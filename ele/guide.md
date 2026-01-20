@@ -74,7 +74,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="420px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="460px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -91,7 +91,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMMDAAAAAwMG2AwMCN2AgZZmZGjtFTYmxYZmHYmxwiFjlhxMzCAwwAzMwwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="430px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMMDAAAAAwMG2AwMCN2AgZZmZGjtFTYmxYZmHYmxwiFjlhxMzCAwwAzMwwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -104,7 +104,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="480px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -311,10 +311,6 @@ custom-javascript-list:
 
 ## Приоритет характеристик
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-**КАПОВ ХАРАКТЕРИСТИК НЕТ. НА СКОРОСТЬ ТОЖЕ НЕТ. И НА ИСКУСНОСТЬ. КАПОВ НЕТ.**
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -323,7 +319,7 @@ custom-javascript-list:
 Приоритет статов для Предсказателя:
 
 
-1. **Искусность**.
+1. **Искусность** до **86%**.
 2. **Скорость**
 3. **Универсальность**.
 4. **Критический удар**.
@@ -332,7 +328,7 @@ custom-javascript-list:
 Приоритет статов для Вестника шторма:
 
 
-1. **Искусность**.
+1. **Искусность** до **86%**.
 2. **Скорость**
 3. **Критический удар**.
 4. **Универсальность**.
@@ -341,8 +337,12 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+Значение **86%** Искусности необходимо для того, чтобы с баффом на Искусность от [Удара духов стихий](https://ru.wowhead.com/spell=117014) иметь **100%** шанс на прок [Перегрузки](https://ru.wowhead.com/spell=168534). Можно иметь как ниже этого значения, так и выше, это не является строгим капом.
+{: class="bordered"}
 
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 ## Вторичные характеристики
 
 * **Критический удар**: дает шанс, равный значению Критического удара, увеличить урон ваших способностей в **2.5** раза. 
