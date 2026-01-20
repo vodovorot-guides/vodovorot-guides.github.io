@@ -337,7 +337,7 @@ custom-javascript-list:
   * {:.asc-apl}Во время активного [Перерождения](https://ru.wowhead.com/spell=114051), [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) тратит стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) за счет таланта [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444/).
 2. {:.no-asc-apl .dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://ru.wowhead.com/spell=114051).
 2. {:.asc-apl .no-dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://ru.wowhead.com/spell=114051).
-2. {:.dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время [Ветров рока](https://ru.wowhead.com/spell=384352).
+2. {:.dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
 2. {:.no-dw-apl .asc-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время прока [Ветров рока](https://ru.wowhead.com/spell=384352).
 5. {:.no-totem-apl .dw-apl}[Буря](https://www.wowhead.com/ru/spell=454009), если [Ветра рока](https://ru.wowhead.com/spell=384352) не активны и есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 5. {:.no-totem-apl .asc-apl .no-dre-apl}[Буря](https://www.wowhead.com/ru/spell=454009), если [Перерождение](https://ru.wowhead.com/spell=114051) не активно и есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
