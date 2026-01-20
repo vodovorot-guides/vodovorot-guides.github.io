@@ -181,8 +181,10 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_enh_totem" class="btn btn-primary rotation-btn">Тотемист - рейд</button>
-    <button type="button" id="build_enh_storm" class="btn btn-primary rotation-btn">Вестник шторма – Мифик+</button>
+    <button type="button" id="build_enh_totem_st" class="btn btn-primary rotation-btn">Тотемист – рейд</button>
+    <button type="button" id="build_enh_totem_aoe" class="btn btn-primary rotation-btn">Тотемист – Мифик+</button>
+    <button type="button" id="build_enh_storm_st" class="btn btn-primary rotation-btn">Вестник шторма – рейд</button>
+    <button type="button" id="build_enh_storm_st" class="btn btn-primary rotation-btn">Вестник шторма – Мифик+</button>    
   </div>
 </div>
 
@@ -194,11 +196,11 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_totem"> [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995)</li>
   <li markdown="span" class="rotation_switch">
-      <input class="form-check-input" type="checkbox" id="rotation_switch_pw"> [Первозданная буря](https://www.wowhead.com/ru/spell=1218047/)</li>
-  <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_fn"> [Кольцо огня](https://www.wowhead.com/ru/spell=1260666/)</li>
   <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_sunder"> [Раскол](https://www.wowhead.com/ru/spell=197214/)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_pw"> [Первозданная буря](https://www.wowhead.com/ru/spell=1218047/)</li>
   <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_hh"> [Горячая рука](https://www.wowhead.com/ru/spell=201900)</li>
   <li markdown="span" class="rotation_switch">
