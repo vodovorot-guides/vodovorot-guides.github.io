@@ -52,7 +52,9 @@ custom-javascript-list:
 
 В препатче Midnight в рейде и в Мифик+ лучше всего себя показывает **Предсказатель**.
 
-**Тотемист** проигрывает ему практически во всех ситуациях, кроме простоты использования. **Предсказателю** всё еще нужно выбирать цели для лечения и обновления [Быстрин](https://ru.wowhead.com/spell=61295), тогда как у **Тотемиста** требования к этому сильно ниже, так как большую часть работы тотемы делают автоматически. Однако учитывая общее упрощение игры на Рестор Шамане, это сложно назвать преимуществом.
+**Тотемист** проигрывает ему практически во всех ситуациях, кроме простоты использования. **Предсказателю** всё еще нужно выбирать цели для лечения и обновления [Быстрин](https://ru.wowhead.com/spell=61295), тогда как у **Тотемиста** требования к этому сильно ниже, так как большую часть работы тотемы делают автоматически.
+
+Однако учитывая общее упрощение игры на Рестор Шамане, это сложно назвать преимуществом.
 
 ## Таланты для рейда
 
@@ -61,7 +63,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMjxMzMzwgxCMABzCTgxixYgtxYmmtlZGmxswixMjZYWGAAAYmZAwMDzMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="490px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMjxMzMzwgxCMABzCTgxixYgtxYmmtlZGmxswixMjZYWGAAAYmZAwMDzMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -75,7 +77,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZGzMGzMjZYYBAzgGbDIDYjhxM2GjZa2WmZYGzCLGzMmhZZAAgBMzMYmBgxA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="490px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZGzMGzMjZYYBAzgGbDIDYjhxM2GjZa2WmZYGzCLGzMmhZZAAgBMzMYmBgxA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -90,7 +92,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMW2mhZmZmZmxwgxCMABzCTgxCmZwsNzY0stMzwMmFWMmZMYWGAAMAzMDAmZYmB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="490px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMW2mhZmZmZmxwgxCMABzCTgxCmZwsNzY0stMzwMmFWMmZMYWGAAMAzMDAmZYmB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -108,7 +110,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMzMzMzMmxgxCMABzCTgxCmZgtZmZ0stMzgZGsMjZGzwsAAADwMzAgZGGA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="490px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMzMzMzMmxgxCMABzCTgxCmZgtZmZ0stMzgZGsMjZGzwsAAADwMzAgZGGA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -171,8 +173,8 @@ custom-javascript-list:
 1. {:.ul-apl .no-totem-apl}[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/) по кулдауну.
   * Бафф лучше всего тратить на [Волну исцеления](https://www.wowhead.com/ru/spell=77472).
 1. {:.no-totem-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) по кулдауну.
-1. {:.asc-apl .no-dre-apl}Если активно [Перерождение](https://www.wowhead.com/ru/spell=114052/) используйте [Волну исцеления](https://www.wowhead.com/ru/spell=77472) на цели без баффа от [Быстрины](https://ru.wowhead.com/spell=61295)/
-1. {:.asc-apl .dre-apl}Если активно [Перерождение](https://www.wowhead.com/ru/spell=114052/) используйте [Волну исцеления](https://www.wowhead.com/ru/spell=77472) на цели без баффа от [Быстрины](https://ru.wowhead.com/spell=61295)/
+1. {:.asc-apl .no-dre-apl}Если активно [Перерождение](https://www.wowhead.com/ru/spell=114052/) используйте [Волну исцеления](https://www.wowhead.com/ru/spell=77472) на цели без баффа от [Быстрины](https://ru.wowhead.com/spell=61295).
+1. {:.asc-apl .dre-apl}Если активно [Перерождение](https://www.wowhead.com/ru/spell=114052/) используйте [Волну исцеления](https://www.wowhead.com/ru/spell=77472) на цели без баффа от [Быстрины](https://ru.wowhead.com/spell=61295).
 1. {:.no-asc-apl .dre-apl}Если активно [Перерождение](https://www.wowhead.com/ru/spell=114052/) используйте [Волну исцеления](https://www.wowhead.com/ru/spell=77472) на цели без баффа от [Быстрины](https://ru.wowhead.com/spell=61295).
 1. [Быстрина](https://ru.wowhead.com/spell=61295) по кулдауну, желательно на цель без этого баффа.
 4. {:.ul-apl}[Волна исцеления](https://www.wowhead.com/ru/spell=77472) для поглощения баффа от таланта [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
