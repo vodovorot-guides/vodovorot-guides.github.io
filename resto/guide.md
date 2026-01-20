@@ -144,7 +144,7 @@ custom-javascript-list:
     <input class="form-check-input" type="checkbox" id="rotation_switch_rain"> [Целительный ливень](https://www.wowhead.com/ru/spell=73920/)</li>  
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_dp"> [Ливневый дождь](https://www.wowhead.com/ru/spell=462486/)</li>  
-
+</ul>
 
 <p></p>
 
@@ -171,7 +171,6 @@ custom-javascript-list:
 1. {:.ul-apl .no-totem-apl}[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/) по кулдауну.
   * Бафф лучше всего тратить на [Волну исцеления](https://www.wowhead.com/ru/spell=77472).
 1. {:.no-totem-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) по кулдауну.
-
 1. {:.asc-apl .no-dre-apl}Если активно [Перерождение](https://www.wowhead.com/ru/spell=114052/) используйте [Волну исцеления](https://www.wowhead.com/ru/spell=77472) на цели без баффа от [Быстрины](https://ru.wowhead.com/spell=61295)/
 1. {:.asc-apl .dre-apl}Если активно [Перерождение](https://www.wowhead.com/ru/spell=114052/) используйте [Волну исцеления](https://www.wowhead.com/ru/spell=77472) на цели без баффа от [Быстрины](https://ru.wowhead.com/spell=61295)/
 1. {:.no-asc-apl .dre-apl}Если активно [Перерождение](https://www.wowhead.com/ru/spell=114052/) используйте [Волну исцеления](https://www.wowhead.com/ru/spell=77472) на цели без баффа от [Быстрины](https://ru.wowhead.com/spell=61295).
@@ -188,7 +187,6 @@ custom-javascript-list:
 
 <div id="aoe" markdown="1" style="display:none;">
 
-
 1. {:.totem-apl}Используйте [Пульсирующий тотем](https://ru.wowhead.com/spell=444995) для нанесения урона с талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) по кулдауну.
 2. {:.no-totem-apl .ul-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) и [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685) можно использовать также и для нанесения урона, так как призываемые Предки наносят очень много урона.
   * Предки используют свои версии [Выброса лавы](https://ru.wowhead.com/spell=51505) и [Цепной молнии](https://ru.wowhead.com/spell=188443) в зависимости от того, какие вы применяете заклинания.
@@ -201,18 +199,10 @@ custom-javascript-list:
 7. [Молния](https://ru.wowhead.com/spell=188196) кастуется как филлер в бою против одной цели, когда остальные способности недоступны.
 
 
-
-
 </div>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
-
-
-
-
-Учитывая механику работы [Искусности](https://www.wowhead.com/ru/spell=77226/), всегда старайтесь выбирать целью самых раненых союзников. Это не только спасет их от гибели, но и увеличит ваше эффективное исцеление.
-{: class="bordered"}
 
 
 # Важные моменты 
