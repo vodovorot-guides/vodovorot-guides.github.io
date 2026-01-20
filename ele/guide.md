@@ -74,7 +74,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="460px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -104,7 +104,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="480px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
