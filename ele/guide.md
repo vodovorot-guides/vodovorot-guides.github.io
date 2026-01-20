@@ -28,6 +28,7 @@ custom-javascript-list:
 ## Изменения в Midnight
 
 Полный список изменений Шамана в патче **11.2** можно найти [по этой ссылке](https://stormkeeper.ru/info/midnight.html).
+{: class="bordered"}
 
 Было удалено более **20** и добавлено более **15** талантов, а также переработана почти вся ветка специализации, особенно в Огненном разделе.
 
@@ -73,7 +74,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="420px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -90,7 +91,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMMDAAAAAwMG2AwMCN2AgZZmZGjtFTYmxYZmHYmxwiFjlhxMzCAwwAzMwwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMMDAAAAAwMG2AwMCN2AgZZmZGjtFTYmxYZmHYmxwiFjlhxMzCAwwAzMwwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="430px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -103,7 +104,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="450px" style="overflow: hidden"></iframe>
 
 <p></p>
 
