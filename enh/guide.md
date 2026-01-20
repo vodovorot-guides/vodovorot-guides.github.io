@@ -184,7 +184,7 @@ custom-javascript-list:
     <button type="button" id="build_enh_totem_st" class="btn btn-primary rotation-btn">Тотемист – рейд</button>
     <button type="button" id="build_enh_totem_aoe" class="btn btn-primary rotation-btn">Тотемист – Мифик+</button>
     <button type="button" id="build_enh_storm_st" class="btn btn-primary rotation-btn">Вестник шторма – рейд</button>
-    <button type="button" id="build_enh_storm_st" class="btn btn-primary rotation-btn">Вестник шторма – Мифик+</button>    
+    <button type="button" id="build_enh_storm_aoe" class="btn btn-primary rotation-btn">Вестник шторма – Мифик+</button>    
   </div>
 </div>
 
