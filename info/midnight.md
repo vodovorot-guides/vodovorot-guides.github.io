@@ -42,6 +42,30 @@ image: /assets/img/mid1.jpg
 * [Финальные патчноуты от 15 января 2026](https://worldofwarcraft.blizzard.com/en-us/news/24244455)
 
 
+# Видео про изменения
+
+На нашем [YouTube](https://www.youtube.com/Amanizandalari) канале готовы видеоролики, посвященные всем обновлениям Шамана в Midnight:
+
+<p></p>
+
+{% include youtube.html id="-P3RaC8SwHg" %}
+
+<p></p>
+
+{% include youtube.html id="5ahqseww2mw" %}
+
+<p></p>
+
+{% include youtube.html id="TR5HzuxSs78" %}
+
+<p></p>
+
+{% include youtube.html id="vqedQSr-B2E" %}
+
+<p></p>
+
+
+
 # Изменения древа талантов класса
 
 Каждая специализация теперь автоматически изучает один талант в классовой ветке вместо двух.
