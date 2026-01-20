@@ -16,13 +16,7 @@ categories:
     subcategories:
       - title: Гайд на Рестор Шамана
         url: /resto/guide.html
-      - title: Рейдовые фреймы
-        url: /resto/raidframes.html
         divided: true
-      - title: Настройка Grid2
-        url: /resto/grid2.html   
-      - title: Настройка VuhDo
-        url: /resto/vuhdo.html        
       - title: Логи хилов и их важность
         url: /resto/logs.html
       - title: Руководство по QE Live
@@ -32,8 +26,6 @@ categories:
     subcategories:
       - title: Изменения в Midnight
         url: /info/midnight.html     
-      - title: Изменения в 11.2
-        url: /info/tww112.html       
       - title: Сокращения
         url: /info/abbrevs.html
         divided: true

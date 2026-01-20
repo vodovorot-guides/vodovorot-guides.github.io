@@ -15,11 +15,8 @@ author: Amani
 **Спасибо тем, кто помогает в вычитке и корректуре текста:**
 
 * **Sozzzin**
-* **Zab**
-* **Ignis**
 * **Baek**
-* **Andoriz**
-* **Зачем**
+* **Ianto**
 * Моим подписчикам на [Boosty](https://boosty.to/amani) и [Patreon](https://www.patreon.com/amani_vodovorot).
 * Поддержавшим меня на [Twitch](https://www.twitch.tv/amanizandalari) и [YouTube](https://www.youtube.com/Amanizandalari).
 * **Всему Discord серверу** [**«Водоворот»**](https://discordapp.com/invite/zTQhBn8)
