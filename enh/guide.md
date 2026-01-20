@@ -1,11 +1,11 @@
 ---
 layout: page
-last_update: 2025-10-21
+last_update: 2026-01-20
 title: Гайд на Энх Шамана
-wow: 11.2
+wow: 12.0
 toc: true
 author: Amani
-description: Большое руководство по всем аспектам игры за Шамана Совершенствования. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и WA и многое другое.
+description: Большое руководство по всем аспектам игры за Шамана Совершенствования. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и многое другое.
 image: /assets/img/enh_tb2.png
 custom-javascript-list:
     - "/assets/js/rotation_switches.js"
@@ -25,60 +25,25 @@ custom-javascript-list:
 * Дальность действия способностей и атак ближнего боя – **5** метров, дальность атакующих и лечащих заклинаний **40** метров. Некоторые вспомогательные способности имеют радиус действия **30** метров.
 
 
-## Изменения в патча 11.2
-
-* [Буря](https://www.wowhead.com/ru/spell=454009/) – теперь наносит **50%** своего урона дополнительным целям вместо **65%**.
-* [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) – урон повышен на **15%**.
-* [Удар ветра](https://www.wowhead.com/ru/spell=115356) – урон повышен на **20%**.
-* Тотемист: [Пульсирующая молния](https://www.wowhead.com/ru/spell=445025) – урон повышен на **25%**.
-* Тотемист: [Опаляющий тотем](https://www.wowhead.com/ru/spell=445034) – урон повышен на **35%**.
-* [Пробуждения бурь](https://www.wowhead.com/ru/spell=455129/) – урон повышен на **35%**.
-
-Еще одно изменение в патче **11.2** – стаки [Бури](https://www.wowhead.com/ru/spell=454009/) теперь корректно пропадают после старта Мифик+ и сражения в рейде.
-
-Это избавит нас от необходимости стакать [Бурю](https://www.wowhead.com/ru/spell=454009/) перед стартом ключа, в результате чего разработчики смогут более адекватно балансировать урон специализации, не беря в расчет тех кто стакает и не стакает [Бурю](https://www.wowhead.com/ru/spell=454009/) перед запуском Мифик+.
-
-У Энх Шамана также был доработан эффект таланта [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444/) – теперь он корректно поглощает [Бурю](https://www.wowhead.com/ru/spell=454009/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), без необходимости таймить этот момент для ручной активации способности. Это приятное изменение, которое упростит отыгрыш в ветке Вестника шторма, не жертвуя при этом уроном, а наоборот увеличивая его. 
+## Изменения в Midnight
 
 
+Полный список изменений Шамана в патче **11.2** можно найти [по этой ссылке](https://stormkeeper.ru/info/midnight.html).
+{: class="bordered"}
 
-# Legion Remix
+Шаман Совершенствования в Midnight получил ощутимую переработку и вместе с тем, упрощение геймплея. Однако при этом специализация осталась узнаваемой и интересной.
 
-Основной билд талантов для рейдов, ключей и открытого мира:
+[Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) полностью поменяла свою суть, и теперь это не АоЕ-кнопка для активации баффа и генерации стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), а полноценная часть ротации, в том числе и в бою против одной цели. Она также усиливается высшими талантами, новой фишкой Midnight, и будет использоваться во всех типах контента и билдах.
 
-<p></p>
+Было удалено более **20** талантов и добавлено больше **15** новых.
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGYmZmZmZbmxyYAAAAAAAAAAgFYDmxiGbDgZC2AwsMZGYZxMzMDzYmthlZmJYZsMmZAAGA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+При этом мы не получили новых активных способностей, если не считать обновленную [Сокрушающую молнию](https://www.wowhead.com/beta/spell=187874/).
 
+Что касается героических веток, то и Вестник шторма, и Тотемист получили заметные нововведения. [Буря](https://ru.wowhead.com/spell=454009) больше не требует специальной WeakAura для отслеживания ресурсов до получения прока, а [Пульсирующий тотем](https://www.wowhead.com/beta/spell=444995/) теперь имеет минутный кулдаун и его не получится держать активным в течение всего боя.
 
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+Энх Шаман также лишился некоторых вспомогательных способностей: [Тотема каменной преграды](https://www.wowhead.com/ru/spell=108270) был удален, а [Гром и молния](https://www.wowhead.com/ru/spell=51490) был перенесен в базовые способности Элем Шамана.
 
-
-Приоритет характеристик:
-1. Ловкость
-2. Искусность.
-3. Скорость.
-4. Критический удар.
-
-Из третичных характеристик стоит выбирать **Скорость передвижения**.
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-Лучшая способность артефакта: [Авангард из Круговерти](https://www.wowhead.com/ru/spell=1237711/).
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-Лучшие пассивные способности в бижутерии:
-1. [Ужас из глубин](https://www.wowhead.com/ru/spell=1233592/) **х2**.
-2. [Касание злобы](https://www.wowhead.com/ru/spell=1242992) **х2**.
-3. [Нестабильное чародейство](https://www.wowhead.com/ru/spell=1234774/).
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+Сетовый комплект выглядит как типичный сет из первого сезона нового дополнения, когда он пассивно увеличивает урон отдельных способностей и не является чем то сложным и мудреным, чтобы игроки могли привыкнуть к обновленным механикам.
 
 
 
@@ -86,38 +51,44 @@ custom-javascript-list:
 
 ## Общая информация
 
-На данный момент **Вестник шторма** явялется оптимальным выбором для рейда и Мифик+, за счет своих изменений и нового сетового комплекта. 
 
-**Тотемист** не очень удобен в геймплее и показывает не лучший результат, если сравнивать с Вестником шторма.
+В препатче Midnight недоступна прокачка до девяностого уровня, нет высших талантов – [Необузданная буря](https://www.wowhead.com/beta/spell=1262713) и не хватает трех очков талантов в героической ветке, и все вместе это ощутимо усиливает нашу специализацию.
 
-Актуальные билды на каждого босса в рейде можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/enhancement/shaman/mythic-plus/overview/10/all-dungeons/this-week).
+В бою против одной цели и в вылазках рекомендуется использовать **Тотемиста**, а в Мифик+ и на АоЕ – **Вестника шторма**.
+
+Текущие актуальные билды на каждого босса в рейде можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/enhancement/shaman/mythic-plus/overview/10/all-dungeons/this-week).
 
 
 ## Таланты для Рейда
 
+На текущий момент, **Тотемист** показывает себя сильнее в бою против одной цели. Основной билда является бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900/), усиливающий урон [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) и сокращающий его кулдаун, который так же можно продлить с помощью таланта [Энергия тотемов](https://www.wowhead.com/ru/spell=1260644/). Бурстом в этом билде является сочетание [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Ветров рока](https://www.wowhead.com/ru/spell=384352), которые имеют время восстановления **1** минуту и позволяют усиливать свой урон в нужные моменты боя.
 
-<p></p>
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
-Рейдовый билд **Вестника шторма**, одна цель:
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDmZGjtZmZGsNzYZYAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
-
-<p></p>
+**Вестник шторма** отстает не так сильно, но у него не самый удобный паттерн урона и слабее клив урон, но зато он имеет более сильный бурст за счет [Перерождения](https://www.wowhead.com/ru/spell=114051/).
 
 
 <p></p>
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Рейдовый билд **Вестника шторма**, клив:
+Рейдовый билд **Тотемиста**:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMjtZmZGsNzYZMAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzMzMzMzMzMmZGzAAAAAAAAAALAYG0YbAMC2AYWmxMGLLGYmZjlZmZGwYGAADDDzoxMDAMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Рейдовый билд **Вестника шторма**:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzYmZmZmZmhZGDAAAAAAAAgNAMjhNCYGQDWAYWmxMzYZxAzMbsMzMzAGzAAMDjZGGNwMDgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="480px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -131,11 +102,23 @@ custom-javascript-list:
 
 ## Таланты для Мифик+
 
+В препатче Midnight обе героические ветки хорошо себя показывают в Мифик+, но **Вестник шторма** немного обходит **Тотемиста** за счет отсутствия необходимых талантов на пути к девяностому уровню. 
+
+**Вестник шторма** полагается на двухминутный кулдаун [Перерождения](https://www.wowhead.com/ru/spell=114051/) и новый талант [Оседлать молнию](https://www.wowhead.com/ru/spell=204357), который позволяет раскидывать [Грозовые разрядники](https://www.wowhead.com/ru/spell=455123) за счет филлерных способностей. У **Вестника шторма** в препатче есть возможность использовать гибридный билд, средний между боев против одной цели и АоЕ, что будет особенно полезно в Мифик+.
+
+**Тотемист** имеет бурст раз в минуту за счет [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Ветров рока](https://www.wowhead.com/ru/spell=384352), а талант [Энергия тотемов](https://www.wowhead.com/ru/spell=1260644/) позволяет активнее поддерживать бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900/) на АоЕ, чтобы реализовывать [Разветвленный поток](https://www.wowhead.com/ru/spell=445035). 
+
+
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 Билд **Вестника шторма** для Мифик+:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMYZAAAAAAAAAA2AsZGDbkFYGGawCAmlJDMLLmxgxYmthlZmpZhlZWGzMAAjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="400px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzYMzMzMzMMzMDAAAAAAAAgNAMjhNCYGQDWAYWmxMGLLGYmBLzMzMDMmBAwwYmhRDMzgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="490px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -144,6 +127,37 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+
+
+Билд **Тотемиста** для Мифик+:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzMjZMzMzMzMzYGAAAAAAAAAYBAzgGbDgRwGAzyMmxYZxAzMbsMjZmBGzAAAjZYmJmZAGMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="490px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+## Таланты для Вылазок
+
+
+
+Билд **Тотемиста** для вылазок:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzMjZMzMzMzMzYGAAAAAAAAAYBAzgGbDgRwGAzyMmxYZxAzMbsMjZmBGzAAAjZYmJmZAGMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="490px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 # Приоритет способностей
 
@@ -167,9 +181,8 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_enh_sb_st" class="btn btn-primary rotation-btn">Вестник шторма – СТ</button>
-    <button type="button" id="build_enh_sb_cleave" class="btn btn-primary rotation-btn">Вестник шторма – Клив+</button>
-    <button type="button" id="build_enh_sb_mythic" class="btn btn-primary rotation-btn">Вестник шторма – Мифик+</button>
+    <button type="button" id="build_enh_sb_totem" class="btn btn-primary rotation-btn">Тотемист - рейд</button>
+    <button type="button" id="build_enh_sb_storm" class="btn btn-primary rotation-btn">Вестник шторма – Мифик+</button>
   </div>
 </div>
 
@@ -181,23 +194,21 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_totem"> [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995)</li>
   <li markdown="span" class="rotation_switch">
-      <input class="form-check-input" type="checkbox" id="rotation_switch_fs"> [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533)</li>
+      <input class="form-check-input" type="checkbox" id="rotation_switch_pw"> [Первозданная буря](https://www.wowhead.com/ru/spell=1218047/)</li>
   <li markdown="span" class="rotation_switch">
-      <input class="form-check-input" type="checkbox" id="rotation_switch_eb"> [Удар духов стихий](https://www.wowhead.com/ru/spell=117014)</li> 
-  <li markdown="span" class="rotation_switch">
-      <input class="form-check-input" type="checkbox" id="rotation_switch_pw"> [Первозданная буря](https://www.wowhead.com/ru/spell=1218047)</li> 
-  <li markdown="span" class="rotation_switch">
-      <input class="form-check-input" type="checkbox" id="rotation_switch_asc"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
-  <li markdown="span" class="rotation_switch">
-      <input class="form-check-input" type="checkbox" id="rotation_switch_ic"> [Ледяной клинок](https://www.wowhead.com/ru/spell=342240/)</li>
+      <input class="form-check-input" type="checkbox" id="rotation_switch_fn"> [Кольцо огня](https://www.wowhead.com/ru/spell=1260666/)</li>
   <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_sunder"> [Раскол](https://www.wowhead.com/ru/spell=197214/)</li>
   <li markdown="span" class="rotation_switch">
-      <input class="form-check-input" type="checkbox" id="rotation_switch_vb"> [Гальваническое пламя](https://www.wowhead.com/ru/spell=470053)</li>  
-  <li markdown="span" class="rotation_switch">
       <input class="form-check-input" type="checkbox" id="rotation_switch_hh"> [Горячая рука](https://www.wowhead.com/ru/spell=201900)</li>
   <li markdown="span" class="rotation_switch">
-      <input class="form-check-input" type="checkbox" id="rotation_switch_cl"> [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874)</li>
+      <input class="form-check-input" type="checkbox" id="rotation_switch_dw"> [Ветра рока](https://ru.wowhead.com/spell=384352) без взятого [Перерождения](https://ru.wowhead.com/spell=114051)</li>      
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_asc"> [Перерождение](https://ru.wowhead.com/spell=114051)</li>
+  <li markdown="span" class="rotation_switch">
+      <input class="form-check-input" type="checkbox" id="rotation_switch_dre"> [Укоренившиеся стихии](https://ru.wowhead.com/spell=378270)</li>
+
+
 
 
 </ul>
@@ -218,23 +229,24 @@ custom-javascript-list:
 
 **Опенер для боя против одной цели:**
 
-1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) за **2** секунды до пула.
-1. {:.no-totem-apl .eb-apl}Прекаст [Удара духов стихий](https://www.wowhead.com/ru/spell=117014) за **2** секунды до пула.
-2. {:.no-totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели.
-2. {:.totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели, одновременно с использованием [Проецирования тотема](https://www.wowhead.com/ru/spell=108287) под босса.
-5. {:.fs-apl .totem-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-3. {:.totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
-3. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
-1. {:.totem-apl .eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014).
-3. {:.no-pw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
-4. {:.ic-apl .no-pw-apl .no-totem-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
-5. {:.fs-apl .no-totem-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-6. [Ветра рока](https://ru.wowhead.com/spell=384352).
-1. {:.totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
-7. {:.asc-apl .no-totem-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
-8. {:.asc-apl .no-totem-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну.
-9. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) с **10** стаками [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+
+1. [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057) на пути к цели.
+1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
+1. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
+1. {:.hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103) для активации [Горячей руки](https://www.wowhead.com/ru/spell=201900).
+1. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352) и сразу же [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
+1. {:.dw-apl .no-asc-apl .no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+1. {:.dw-apl .no-asc-apl .no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+1. {:.dre-apl .no-asc-apl .no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+1. {:.dre-apl .no-asc-apl .no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+1. {:.no-dw-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
+1. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
+2. {:.asc-apl .no-dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) каждый ГКД.
+2. {:.no-asc-apl .dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) каждый ГКД.
+1. {:.hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), пока активен бафф [Ветров рока](https://ru.wowhead.com/spell=384352).
 7. Продолжайте согласно приоритету способностей, указанному ниже.
+
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -242,34 +254,38 @@ custom-javascript-list:
 
 **Приоритет способностей для боя против одной цели:**
 
-1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) за **2** секунды до пула.
-6. {:.totem-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/) сразу же после установки [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995)
-  * Отменять и перекастовывать [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) нужно только поглощения всех баффов от таланта [Бушующие стихии](https://www.wowhead.com/ru/spell=445024).
-5. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если дебафф отсутствует на цели.
-1. {:.fs-apl .totem-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-5. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
-4. {:.eb-apl .totem-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) или [Молния](https://www.wowhead.com/ru/spell=188196/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если есть бафф [Бушующего ветра](https://www.wowhead.com/ru/spell=453409).
-1. {:.fs-apl .no-totem-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-1. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну во время [Перерождения](https://www.wowhead.com/ru/spell=114051).
-2. [Ветра рока](https://ru.wowhead.com/spell=384352).
-9. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) с **10** стаками [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-6. {:.totem-apl .hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900).
-2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
-1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-2. {:.eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-1. [Молния](https://www.wowhead.com/ru/spell=188196/) на **8+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-3. {:.no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364), если доступно **2** заряда этой способности.
-4. {:.vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470053).
-4. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
-6. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
-3. [Удар бури](https://www.wowhead.com/ru/spell=17364).
+
+
+1. {:.dw-apl .no-totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
+  * [Ветра рока](https://ru.wowhead.com/spell=384352) не имеет ГКД, старайтесь активировать эту способность одновременно с [Сокрушающей молнией](https://www.wowhead.com/ru/spell=187874/) или [Ударом бури](https://www.wowhead.com/ru/spell=17364).
+1. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
+2. {:.asc-apl .no-dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://ru.wowhead.com/spell=114051).
+2. {:.no-asc-apl .dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://ru.wowhead.com/spell=114051).
+4. {:.no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
+3. {:.no-totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
+5. {:.no-totem-apl .dw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) / [Буря](https://www.wowhead.com/ru/spell=454009), если [Ветра рока](https://ru.wowhead.com/spell=384352) не активны и есть **9+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+5. {:.no-totem-apl .asc-apl .no-dre-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) / [Буря](https://www.wowhead.com/ru/spell=454009), если [Перерождение](https://ru.wowhead.com/spell=114051) не активно и есть **9+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+5. {:.no-totem-apl .no-asc-apl .dre-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) / [Буря](https://www.wowhead.com/ru/spell=454009), если [Перерождение](https://ru.wowhead.com/spell=114051) не активно и есть **9+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+6. {:.no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+1. {:.totem-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057), если [Огненный шок](https://ru.wowhead.com/spell=188389) отсутствует на цели.
+1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
 1. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
-1. [Молния](https://www.wowhead.com/ru/spell=188196/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-5. [Огненный шок](https://ru.wowhead.com/spell=188389).
-6. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
-
-
-
+  * Используйте по кулдауну, но каждое второе применение [Раскола](https://www.wowhead.com/ru/spell=197214/) должно выпадать на [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
+1. {:.hh-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если есть бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900).
+1. {:.hh-apl .totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если есть бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900) или [Бушующего урагана](https://www.wowhead.com/ru/spell=453405/).
+2. {:.dw-apl .totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
+  * [Ветра рока](https://ru.wowhead.com/spell=384352) не имеет ГКД, старайтесь активировать эту способность одновременно с [Сокрушающей молнией](https://www.wowhead.com/ru/spell=187874/) или [Ударом бури](https://www.wowhead.com/ru/spell=17364).
+1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) если есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+  * Старайтесь применять [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047/) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
+3. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
+1. {:.no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+4. {:.totem-apl .dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
+5. {:.totem-apl}[Молния](https://www.wowhead.com/ru/spell=188196/), если выполняется **любое** из условий:
+  * Есть **9+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+  * Есть **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и [Молния](https://www.wowhead.com/ru/spell=188196/) продлит бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900) на дополнительный каст [Вскипания лавы](https://www.wowhead.com/ru/spell=60103).
+6. {:.totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+2. [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057)
+5. [Молния](https://www.wowhead.com/ru/spell=188196/), если есть **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 
 
 </div>
@@ -278,85 +294,62 @@ custom-javascript-list:
 
 **Опенер в бою против 2+ целей:**
 
-1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) за **2** секунды до пула.
-1. {:.no-totem-apl}Опенер **без** подготовленных кастов [Бури](https://www.wowhead.com/ru/spell=454009/):
-2. {:.totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели, одновременно с использованием [Проецирования тотема](https://www.wowhead.com/ru/spell=108287) под босса.
-2. {:.no-totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели.
-3. {:.no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для спреда [Огненного шока](https://ru.wowhead.com/spell=188389) на соседние цели.
-5. {:.fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-3. {:.cl-apl .totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
-3. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
-1. {:.totem-apl .eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-6. [Ветра рока](https://ru.wowhead.com/spell=384352).
-6. {:.sunder-apl .totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/) до тех пор, пока он не перестанет быть доступным за счет таланта [Раскаленный гром](https://www.wowhead.com/ru/spell=469344/).
-6. {:.sunder-apl .no-totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
-3. {:.totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для активации [Бущующего урагана](https://www.wowhead.com/ru/spell=453405) и повторяйте до окончания баффа [Горячей руки](https://www.wowhead.com/ru/spell=201900).
-3. {:.cl-apl .no-totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
-7. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
-8. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну.
-1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+
+
+1. [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057) на пути к цели.
+1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
+1. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
+1. {:.hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103) для активации [Горячей руки](https://www.wowhead.com/ru/spell=201900).
+1. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
+1. {:.no-dw-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
+1. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352) и сразу же [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
+1. {:.dw-apl .no-asc-apl .no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+1. {:.dw-apl .no-asc-apl .no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+1. {:.dre-apl .no-asc-apl .no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+1. {:.dre-apl .no-asc-apl .no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+2. {:.asc-apl .no-dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) каждый ГКД.
+2. {:.no-asc-apl .dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) каждый ГКД.
+1. {:.hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), пока активен бафф [Ветров рока](https://ru.wowhead.com/spell=384352).
 7. Продолжайте согласно приоритету способностей, указанному ниже.
-
-<p></p>
-
-1. {:.no-totem-apl}Опенер **с двумя зарядами** подготовленных кастов [Бури](https://www.wowhead.com/ru/spell=454009/):
-2. {:.no-totem-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) на пути к цели.
-3. {:.no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) для спреда [Огненного шока](https://ru.wowhead.com/spell=188389) на соседние цели.
-3. {:.cl-apl .no-totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если меньше **5** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-5. {:.fs-apl .no-totem-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-3. {:.pw-apl .no-totem-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
-4. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/).
-6. {:.no-totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
-7. {:.asc-apl .no-totem-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
-8. {:.asc-apl .no-totem-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
-3. {:.cl-apl .no-totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
-8. {:.asc-apl .no-totem-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356).
-1. {:.pw-apl .no-totem-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-7. {:.no-totem-apl}Продолжайте согласно приоритету способностей, указанному ниже.
-
-
-
 
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 **Приоритет способностей в бою против 2+ целей:**
-
-
+1. {:.totem-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057), если [Огненный шок](https://ru.wowhead.com/spell=188389) отсутствует на цели.
 1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
-6. {:.totem-apl}[Возвращение тотемов](https://www.wowhead.com/ru/spell=108285/) сразу же после установки [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995)
-  * Отменять и перекастовывать [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) нужно только поглощения всех баффов от таланта [Бушующие стихии](https://www.wowhead.com/ru/spell=445024).
-1. {:.pw-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на целях нет этого дебаффа.
-1. {:.pw-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/), если на соседних целях нет [Огненного шока](https://ru.wowhead.com/spell=188389).
-1. {:.fs-apl}[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533).
-1. {:.pw-apl}[Первозданная волна](https://www.wowhead.com/ru/spell=375982).
-4. {:.pw-apl .totem-apl .eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) или [Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если есть бафф [Бушующего ветра](https://www.wowhead.com/ru/spell=453409).
-4. {:.pw-apl .totem-apl .no-eb-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), если есть бафф [Бушующего ветра](https://www.wowhead.com/ru/spell=453409).
-3. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну во время [Перерождения](https://ru.wowhead.com/spell=114051).
-2. [Ветра рока](https://ru.wowhead.com/spell=384352).
-1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-6. {:.totem-apl .hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900).
-1. {:.sunder-apl .totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/), если есть бафф [Наследия ледяной ведьмы](https://ru.wowhead.com/spell=384450).
-4. {:.totem-apl .eb-apl}[Удар духов стихий](https://www.wowhead.com/ru/spell=117014) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-1. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-
-
-
-2. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
-1. {:.no-totem-apl}[Буря](https://www.wowhead.com/ru/spell=454009/) на **9+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-1. {:.no-totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **7+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-3. {:.cl-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874), если меньше **7** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-4. {:.vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470053), если меньше **7** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-  * {:.pw-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470053) стоит также использовать для спреда [Огненного шока](https://ru.wowhead.com/spell=188389) под [Первозданную волну](https://www.wowhead.com/ru/spell=375982) на перебежках между паками.
-1. {:.sunder-apl .no-totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
-1. {:.no-totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/) на **5+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-1. {:.no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
-4. {:.ic-apl}[Ледяной клинок](https://www.wowhead.com/ru/spell=342240/).
-6. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
+1. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
+  * {:.dw-apl}Старайтесь использовать [Раскол](https://www.wowhead.com/ru/spell=197214/) перед [Ветрами рока](https://ru.wowhead.com/spell=384352).
+  * {:.asc-apl}Старайтесь использовать [Раскол](https://www.wowhead.com/ru/spell=197214/) перед [Перерождением](https://ru.wowhead.com/spell=114051).
+1. {:.hh-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если есть бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900).
+1. {:.hh-apl .totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если есть бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900) или [Бушующего урагана](https://www.wowhead.com/ru/spell=453405/).
+1. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
+  * [Ветра рока](https://ru.wowhead.com/spell=384352) не имеет ГКД, старайтесь активировать эту способность одновременно с [Сокрушающей молнией](https://www.wowhead.com/ru/spell=187874/).
+1. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
+1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) если есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+  * Старайтесь применять [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047/) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
+1. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) по кулдауну.
+  * {:.dw-apl}Во время активных [Ветров рока](https://ru.wowhead.com/spell=384352), [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) тратит стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) за счет таланта [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444/).
+  * {:.asc-apl}Во время активного [Перерождения](https://ru.wowhead.com/spell=114051), [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) тратит стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) за счет таланта [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444/).
+2. {:.no-asc-apl .dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://ru.wowhead.com/spell=114051).
+2. {:.asc-apl .no-dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://ru.wowhead.com/spell=114051).
+2. {:.dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время [Ветров рока](https://ru.wowhead.com/spell=384352).
+2. {:.no-dw-apl .asc-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время прока [Ветров рока](https://ru.wowhead.com/spell=384352).
+5. {:.no-totem-apl .dw-apl}[Буря](https://www.wowhead.com/ru/spell=454009), если [Ветра рока](https://ru.wowhead.com/spell=384352) не активны и есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+5. {:.no-totem-apl .asc-apl .no-dre-apl}[Буря](https://www.wowhead.com/ru/spell=454009), если [Перерождение](https://ru.wowhead.com/spell=114051) не активно и есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+5. {:.no-totem-apl .no-asc-apl .dre-apl}[Буря](https://www.wowhead.com/ru/spell=454009), если [Перерождение](https://ru.wowhead.com/spell=114051) не активно и есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+1. {:.no-totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/), если есть **7+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+1. {:.totem-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443/), если есть **9+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+1. {:.totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+6. {:.no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
+1. {:.fn-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057).
+1. {:.no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
 1. {:.totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
-5. [Огненный шок](https://ru.wowhead.com/spell=188389).
-6. [Ледяной шок](https://www.wowhead.com/ru/spell=196840/).
+1. {:.no-fn-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057).
+1. [Цепная молния](https://www.wowhead.com/ru/spell=188443/), если есть **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+
 
 
 
@@ -375,72 +368,47 @@ custom-javascript-list:
 
 * **Всегда поддерживайте усиления на оружие** – [Оружие неистовства ветра](https://ru.wowhead.com/spell=33757/) и [Оружие языка пламени](https://ru.wowhead.com/spell=318038/) используются в любом билде и не сочетаются с маслами на оружие и точильными камнями.
 
+* **Используйте филлеры согласно приоритетам!** В зависимости от выбранной героической ветки меняется приоритет филлеров. Основное правило: сперва [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/), затем [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) для **Тотемиста** или [Удар бури](https://www.wowhead.com/ru/spell=17364) для **Вестника шторма**, затем [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057).
+
+* **Сочетайте бурсты друг с другом!** Тотемист использует [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) и [Ветра рока](https://ru.wowhead.com/spell=384352) каждую минуту, а Вестник шторма активирует [Перерождение](https://ru.wowhead.com/spell=114051) каждые две минуты.
+
 ## Вестник шторма
 
+* Вестник шторма в бою полагается на трату стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), чтобы получить прок [Бури](https://www.wowhead.com/ru/spell=454009/).
 
+* Используйте [Бурю](https://www.wowhead.com/ru/spell=454009/) по приоритетам, желательно на **10+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), иначе кастуйте [Молнию](https://www.wowhead.com/ru/spell=188196/) на **9+** стаках в бою против одной цели или [Цепную молнию](https://www.wowhead.com/ru/spell=188443) на **7+** стаках на АоЕ.
 
-* При активации [Перерождения](https://ru.wowhead.com/spell=114051) следует иметь **5+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), чтобы усилить [Бурю](https://www.wowhead.com/ru/spell=454009/) от сета.
+* При активации [Перерождения](https://ru.wowhead.com/spell=114051), **каждое** ГКД нужно тратить на [Удар ветра](https://www.wowhead.com/ru/spell=115356), вне зависимости от других проков. Его кулдаун будет постоянно сбрасываться за счет талантов [Стихийный ритм](https://www.wowhead.com/ru/spell=1250364) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444).
 
-* Самое главное при игре за **Вестника шторма** – генерировать и тратить как можно больше стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) для проков [Бури](https://www.wowhead.com/ru/spell=454009/) и вызова молниевых [Духов дикого зверя](https://www.wowhead.com/ru/spell=51533) за счет таланта [Громовые раскаты](https://www.wowhead.com/ru/spell=454026).
+* В момент прока [Ветров рока](https://ru.wowhead.com/spell=384352) старайтесь тратить каждый ГКД либо на [Удар бури](https://www.wowhead.com/ru/spell=17364), либо на [Сокрушающую молнию](https://www.wowhead.com/ru/spell=187874). Имейте в виду, что в Midnight [Ветра рока](https://ru.wowhead.com/spell=384352) больше не имеют ГКД.
 
-* Для успешной игры практически обязательно использовать WA для отслеживания прока [Бури](https://www.wowhead.com/ru/spell=454009/). Она есть в [сборке Amani](https://wago.io/HJxL_fG7C), либо отдельными WA в виде [полоски](https://wago.io/KvudtiNs1) или [иконки](https://wago.io/TKVKEpxkf).
+* Когда у вас нет более приоритетных заклинаний, порядок филлеров в бою против одной цели выглядит следующим образом:
+  * [Удар бури](https://www.wowhead.com/ru/spell=17364).
+  * [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+  * [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/).
+  * [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057).
 
-* Всегда старайтесь активировать [Бурю](https://www.wowhead.com/ru/spell=454009/) на **9+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880) и в случае меньшего значения набирайте стаки с помощью филлерных способностей. 
+* Со взятым талантом [Раскол](https://www.wowhead.com/ru/spell=197214/), старайтесь применять его каждые **30** секунд для нанесения урона и активации баффа от таланта [Бурные стихии](https://www.wowhead.com/ru/spell=382042/).
 
-* Если в бою против одной цели [Буря](https://www.wowhead.com/ru/spell=454009/) недоступна, то стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) следует тратить на [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) и только затем на [Молнию](https://www.wowhead.com/ru/spell=188196/). В случае АоЕ боя – на [Цепную молнию](https://www.wowhead.com/ru/spell=188443).
-
-* За счет таланта [Воззванию к Ториму](https://www.wowhead.com/ru/spell=384444/), [Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://ru.wowhead.com/spell=114051) активирует [Молнию](https://www.wowhead.com/ru/spell=188196/) или [Цепную молнию](https://www.wowhead.com/ru/spell=188443), в зависимости от последнего использованного заклинания. При этом [Буря](https://www.wowhead.com/ru/spell=454009/) записывает [Молнию](https://www.wowhead.com/ru/spell=188196/), если она поражает одну цель, и [Цепную молнию](https://www.wowhead.com/ru/spell=188443) если она поражает несколько целей.
-
-* Каждую четную [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047) следует активировать таким образом, чтобы она была во время действия [Ветров рока](https://ru.wowhead.com/spell=384352).
-
-* Бафф [Дуговой искры](https://www.wowhead.com/ru/spell=455096) не влияет на приоритет – вне зависимости от его наличия или отсутствия стоит следовать приоритетам, указанным выше.
 
 ## Тотемист
 
 
-* Всегда старайтесь использовать [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352), так как все три удара этой способности активируют эффект [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757/) на каждой пораженной цели.
+* [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) является основной способностью в этой героической ветке и его всегда нужно ставить по кулдауну каждую минуту.
 
-* За счет талантов в героической ветке **Тотемиста**, таких как [Подпитывающие чары](https://www.wowhead.com/ru/spell=445033/) и [Искусство чар стихий](https://www.wowhead.com/ru/spell=445028), чары на оружие стали сильнее и теперь они наносят ощутимый урон в течение всего боя.
+* В бою против одной цели, после активации [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995), используйте [Раскол](https://www.wowhead.com/ru/spell=197214/) и затем [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/), которое гарантированно активирует бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900). Затем сразу применяйте [Ветра рока](https://ru.wowhead.com/spell=384352) (без ГКД) и [Сокрушающую молнию](https://www.wowhead.com/ru/spell=187874).
 
-* Чем чаще мы прокаем на целях [Оружие неистовства ветра](https://ru.wowhead.com/spell=33757/), тем чаще будет срабатывать эффект таланта [Искусство чар стихий](https://www.wowhead.com/ru/spell=445028) нанося увеличенный урон от [Оружия языка пламени](https://ru.wowhead.com/spell=318038/) по всем окружающим целям.
+* Во время активного баффа [Горячей руки](https://www.wowhead.com/ru/spell=201900) чередуйте [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с [Сокрушающей молнией](https://www.wowhead.com/ru/spell=187874) и [Ударом бури](https://www.wowhead.com/ru/spell=17364).
 
-* [Оружие неистовства ветра](https://ru.wowhead.com/spell=33757/) срабатывает с некоторым шансом от всех способностей с правой руки, таких как [Удар бури](https://www.wowhead.com/ru/spell=17364), [Раскол](https://www.wowhead.com/ru/spell=197214/), [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) под баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900) (за счет таланта [Стимуляция](https://www.wowhead.com/ru/spell=445035/)), [Сокрушающая молнии](https://www.wowhead.com/ru/spell=187874), [Первозданная буря](https://www.wowhead.com/ru/spell=1218047) и автоатак.
+* [Молнию](https://www.wowhead.com/ru/spell=188196/) или [Цепную молнию](https://www.wowhead.com/ru/spell=188443/) следует кастовать на **9+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), за исключением ситуаций, если каст [Молнии](https://www.wowhead.com/ru/spell=188196/) сбросит кулдаун [Вскипания лавы](https://www.wowhead.com/ru/spell=60103/) за счет таланта [Стихийный ритм](https://www.wowhead.com/ru/spell=1250364) или продлит бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900) на еще одно применение [Вскипания лавы](https://www.wowhead.com/ru/spell=60103/).
 
-* Во время активных [Ветров рока](https://ru.wowhead.com/spell=384352) шанс на срабатывание [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757/) повышается практически до **100%**, так что за время действия этого баффа нужно успеть использовать как можно больше указанных выше способностей.
+* Старайтесь использовать [Раскол](https://www.wowhead.com/ru/spell=197214/) каждые **30** секунд и синхронизировать его с [Пульсирующим тотемом](https://www.wowhead.com/ru/spell=444995). Не забывайте также использовать [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047) на **10** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), желательно во время [Ветров рока](https://ru.wowhead.com/spell=384352).
 
-* [Дух дикого зверя](https://www.wowhead.com/ru/spell=51533) стоит использовать под [Ветра рока](https://ru.wowhead.com/spell=384352) и [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047), придерживая под эти способности. Не используйте[Дух дикого зверя](https://www.wowhead.com/ru/spell=51533), если до окончания кулдауна [Ветров рока](https://ru.wowhead.com/spell=384352) осталось от **7** до **23** секунд.
-
-* [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) является основной способностью в этой героической ветке, и его время действия равняется его кулдауну, а значит [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) должен быть активен в течение всего боя.
-
-* При установке [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) мы получаем три баффа от таланта [Бушующие стихии](https://www.wowhead.com/ru/spell=445024/):
-  * [Бушующий ветер](https://www.wowhead.com/ru/spell=453409) – применение спендеров усиливает урон от [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) на **30%**.
-  * [Бушующая земля](https://www.wowhead.com/ru/spell=453406) – следующий [Огненный шок](https://ru.wowhead.com/spell=188389) наносит на **300%** больше урона и накладывается на **5** ближайших противников. Срабатывает в том числе во время спреда от [Вскипания лавы](https://www.wowhead.com/ru/spell=60103/), а также увеличивает урон от [Гальванического пламени](https://www.wowhead.com/ru/spell=470053).
-  * [Бушующий ураган](https://www.wowhead.com/ru/spell=453405/) – [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) дает бафф от таланта [Горячая рука](https://www.wowhead.com/ru/spell=201900) на **8** секунд или продлевает существующий.
-
-* Во время активного баффа [Горячая рука](https://www.wowhead.com/ru/spell=201900) всегда чередуйте [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с другой способностью. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) с этим баффом – одна из самых сильных способностей, за счет таланта [Стимуляция](https://www.wowhead.com/ru/spell=445035/).
-
-* На АоЕ, при наличии [Огненных шоков](https://ru.wowhead.com/spell=188389) на **4+** целях и при **60%+** Скорости, можно использовать [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) под баффом [Горячей руки](https://www.wowhead.com/ru/spell=201900) каждый ГКД. Это достигается за счет сброса его кулдауна от таланта [Пепельный катализатор](https://www.wowhead.com/ru/spell=390370).
-
-* [Раскол](https://www.wowhead.com/ru/spell=197214/) с талантом [Раскаленный гром](https://www.wowhead.com/ru/spell=469344/) имеет **100%** шанс на сброс своего кулдауна при поражении **5+** целей и этот шанс уменьшается вдвое после каждого сброса. [Раскол](https://www.wowhead.com/ru/spell=197214/) больше не сбрасывается случайным образом в течение боя, как это было раньше, но и не дает столько урона за счет изменения героических талантов.
-
-* Спендеры, такие как [Молния](https://www.wowhead.com/ru/spell=188196/), [Цепная молния](https://www.wowhead.com/ru/spell=188443) и [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) уже не настолько важны как раньше и их основная задача – активировать эффект от таланта [Наследие ледяной ведьмы](https://ru.wowhead.com/spell=384450).
-
-* [Удар духов стихий](https://www.wowhead.com/ru/spell=117014) больше не привязан к количеству и стихиям волков от [Духа дикого зверя](https://www.wowhead.com/ru/spell=51533), поэтому в бою против одной цели его можно кастовать практически по кулдауну.
-
-* [Наследие ледяной ведьмы](https://ru.wowhead.com/spell=384450) теперь длится **8** секунд вместо **5**, и его стало гораздо удобнее поддерживать.
-
-* [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) теперь наносит на **75%** больше урона по первоначальной цели, чем в патче **11.0.7**, а также на неё работает бонус сетового комплекта [Потоки властелина ветров](https://www.wowhead.com/ru/item-set=1877/). Но несмотря на это, в СТ версии билда **Тотемиста** [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) не берется, так как другие таланты наносят больше урона.
-
-* Несмотря на то, что основной урон в этой ветке больше не завязан на позиционировании [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995), его всё равно крайне важно переносить под текущую цель с помощью повторного использования самой способности или [Проецированием тотемов](https://www.wowhead.com/ru/spell=108287). Используйте следующие макросы для удобной перестановки тотема:
-~~~
-#showtooltip
-/cast [@cursor] Пульсирующий тотем
-~~~
-~~~
-#showtooltip
-/cast [@cursor] Проецирование тотемов
-~~~
-
+* Когда у вас нет более приоритетных заклинаний, порядок филлеров в бою против одной цели выглядит следующим образом:
+  * [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874).
+  * [Вскипание лавы](https://www.wowhead.com/ru/spell=60103/) без баффа [Горячей руки](https://www.wowhead.com/ru/spell=201900).
+  * [Удар бури](https://www.wowhead.com/ru/spell=17364).
+  * [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057).
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -449,17 +417,22 @@ custom-javascript-list:
 
 # Общая ветка талантов
 
+
 Общая ветка талантов предлагает широкий выбор вспомогательных способностей, которые найдут применение в различных ситуациях.
 
-Два таланта Энх Шаман получает по умолчанию без траты на них очков – это [Цепная молния](https://ru.wowhead.com/spell=188443) и [Астральный сдвиг](https://www.wowhead.com/ru/spell=108271). Так же есть несколько основных талантов, которые напрямую влияют на наносимый урон и выживаемость и их стоит брать в любом билде. К ним относятся:
-* [Улучшенные чары](https://www.wowhead.com/ru/spell=462796) – увеличение урона.
-* [Тотем каменной преграды](https://www.wowhead.com/ru/spell=108270/) – дополнительный сейв.
+Два таланта Элем Шаман получает по умолчанию без траты на них очков – это [Выброс лавы](https://ru.wowhead.com/spell=51505) и [Цепная молния](https://ru.wowhead.com/spell=188443). Так же есть несколько основных талантов, которые напрямую влияют на наносимый урон и выживаемость и их стоит брать практически в любом билде. К ним относятся:
+* [Астральный сдвиг](https://www.wowhead.com/ru/spell=108271/) – основной сейв.
+* [Элементаль земли](https://www.wowhead.com/ru/spell=198103) и [Первозданная связь](https://www.wowhead.com/ru/spell=381764) – дополнительный сейв.
 * [Лед и пламя](https://www.wowhead.com/ru/spell=382886) – пассивное увеличение урона.
 * [Гнев природы](https://www.wowhead.com/ru/spell=381655) – пассивное увеличение урона.
+* [Пробуждение духа](https://www.wowhead.com/ru/spell=1270375) – пассивное увеличение урона.
+* [Инстинктивные чары](https://www.wowhead.com/ru/spell=1270350/) – пассивное увеличение урона.
 * [Защита от стихий](https://www.wowhead.com/ru/spell=381650) – снижает получаемый магический урон.
+* [Щит земли](https://www.wowhead.com/ru/spell=974/) + [Кружащие стихии](https://www.wowhead.com/ru/spell=383010) + [Стойкость Теразан](https://www.wowhead.com/ru/spell=1217622/) – пассивное лечение на себя и на одного союзника.
 * [Переполняющая сила жизни](https://www.wowhead.com/ru/spell=381689/) – увеличивает запас здоровья на **10%**.
 * [Пронизыващий ветер](https://www.wowhead.com/ru/spell=57994/) – сбитие кастов, обязательный талант в Мифик+.
-* [Поступь духов](https://www.wowhead.com/ru/spell=58875/) – увеличение скорости передвижения и снятие ограничивающих передвижение эффектов. Как альтернативу можно взять [Порыв ветра](https://ru.wowhead.com/spell=192063), если нужен аналог блинка, а не ускорение.
+* [Благосклонность предков](https://www.wowhead.com/ru/spell=79206) – позволяет кастовать на ходу.
+* [Природная стремительность](https://www.wowhead.com/ru/spell=378081/) – позволяет раз в минуту применить одно заклинание школы магии природы мгновенно. Не имеет ГКД. Обязательный талант для **Предсказателя**.
 
 Следующие таланты выбираются в зависимости от подземелья и состава группы:
 * [Тотем конденсации](https://www.wowhead.com/ru/spell=192058/) – АоЕ стан на **3** секунды.
@@ -470,11 +443,8 @@ custom-javascript-list:
 * [Сглаз](https://www.wowhead.com/ru/spell=51514) – контроль одного противника.
 
 
-<p></p>
 
-{% include button.html name="Выбор утилити талантов в Мифик+" link="/info/utility.html" %}  
 
-<p></p>
 
 
 # Характеристики
@@ -487,11 +457,19 @@ custom-javascript-list:
 
 Приоритет статов для **Вестника шторма**:
 
-1. **Скорость** = **Искусность**.
+1. **Ловкость**.
+1. **Скорость**.
+2. **Искусность**.
 3. **Критический удар**.
 4. **Универсальность**.
-5. **Ловкость**.
 
+Приоритет статов для **Тотемиста**:
+
+1. **Ловкость**.
+2. **Искусность**.
+1. **Скорость**.
+3. **Критический удар**.
+4. **Универсальность**.
 
 
 
@@ -591,57 +569,10 @@ custom-javascript-list:
 
 Волокно в новом артефактном плаще [Повязки реши](https://www.wowhead.com/ru/item=235499) стоит ставить на Скорость.
 
-## Пояс ДИСК
-
-
-Пояс [Долговечный Информационный Сверхбезопасный Контейнер](https://www.wowhead.com/ru/item=2459650) всё еще используется в патче **11.2** до получения пояса **710-713** уровня предмета.
-
-Лучшие варианты способностей пояса:
-
-* **Рейд**: [Взрыв искр](https://www.wowhead.com/ru/spell=1236273).
-* **Мифик+**: [Электрический поток](https://www.wowhead.com/ru/spell=1236937) / [Взрыв искр](https://www.wowhead.com/ru/spell=1236273).
-
-
 
 ## Комплект классовых доспехов
 
-
-В третьем сезоне сетовые комплекты делятся не по специализациям, а по героическим веткам – [Вой направленной ярости](https://www.wowhead.com/ru/item-set=1929/). Энху доступно два сетовых бонуса, на Вестника шторма и Тотемиста:
-
-Сет Вестника шторма позволяет получать [Перерождение](https://www.wowhead.com/ru/spell=114050) после генерации стаков [Пробуждения бурь](https://www.wowhead.com/ru/spell=455129/), пассивно увеличивает урон от сил природы и добавляет [Буре](https://www.wowhead.com/ru/spell=454009/) дополнительный АоЕ эффект после применения.
-
-* **2 части**: [Перерождение](https://www.wowhead.com/ru/spell=114050/) с вероятностью **100%** дает заряд [Бури](https://www.wowhead.com/ru/spell=454009/). Каждое **8-е** [Пробуждение бурь](https://www.wowhead.com/ru/spell=455129/) активирует [Перерождение](https://www.wowhead.com/ru/spell=114050/) на **6** секунд.
-
-* **4 части**: Урон от сил природы увеличивается на **5%**. [Перерождение](https://www.wowhead.com/ru/spell=114050/) усиливает две следующие [Бури](https://www.wowhead.com/ru/spell=454009/), в результате чего они наносят урон в размере **960%** от силы заклинаний по основной цели и уменьшенный урон ближайшим противникам через **1.5** после применения.
-
-<p></p>
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-
-Сет Тотемиста рассчитан на поглощение баффов [Бушующих стихий](https://www.wowhead.com/ru/spell=445024/), после чего он усиливает другие способности специализации.
-
-* **2 части**: После поглощения всех эффектов [Бушующих стихий](https://www.wowhead.com/ru/spell=445024/), ваш [Пульсирующий тотем](https://www.wowhead.com/spell=444995) применяет [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047) вокруг себя с **200%** эффективностью.
-* **4 части**: После применения [Первозданной бури](https://www.wowhead.com/ru/spell=1218047), следующее [Вскипание лавы](https://www.wowhead.com/ru/spell=60103) или [Кольцо огня](https://www.wowhead.com/ru/spell=333974) применяется повторно со **150%** эффективностью.
-
-<p></p>
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-**Данные предметы дают сетовые бонусы:**
-* [Меха направленной ярости](https://www.wowhead.com/ru/item=237640)
-* [Когти направленной ярости](https://www.wowhead.com/ru/item=237638)
-* [Аспект направленной ярости](https://www.wowhead.com/ru/item=237637)
-* [Набедренные пластины направленной ярости](https://www.wowhead.com/ru/item=237636)
-* [Клыки направленной ярости](https://www.wowhead.com/ru/item=237635)
-
-**Предметы из Катализатора:**
-* [Сапоги направленной ярости](https://www.wowhead.com/ru/item=237639/)
-* [Наручи направленной ярости](https://www.wowhead.com/ru/item=237633)
-* [Пояс направленной ярости](https://www.wowhead.com/ru/item=237634/)
+Сетовые комплекты в препатче пассивно увеличивают урон, но не дают никаких отдельных бонусов к способностям.
 
 
 <p></p>
@@ -730,7 +661,10 @@ custom-javascript-list:
 
 # Интерфейс
 
-В каждом билде Энх Шамана крайне важно отслеживать [Огненный шок](https://ru.wowhead.com/spell=188389) на целях. В стихийном билде также необходимо отслеживать [Хлещущее пламя](https://www.wowhead.com/ru/spell=334046). Для отслеживания обоих этих дебаффов рекомендую использовать этот [мод на Plater](https://wago.io/o9Q7MSLDi).
+
+Несмотря на то, что функционал аддонов в Midnight был ощутимо ограничен, всё еще имеется возможность подробно настроить таким образом, чтобы отслеживать различные проки и кулдауны было гораздо удобнее, чем в стандартном интерфейсе.  
+
+[Мой](https://www.twitch.tv/amanizandalari) настроенный интерфейс доступен на [Boosty](https://boosty.to/amani).
 
 
 ## Макросы
@@ -748,25 +682,3 @@ custom-javascript-list:
 <p></p>
 
 
-
-## WeakAuras
-
-Рекомендованная сборка от [Amani](https://www.twitch.tv/amanizandalari) – [по этой ссылке](https://wago.io/HJxL_fG7C).
-
-<p align="center">
-    <img src="https://media.wago.io/screenshots/HJxL_fG7C/6543717e0cc9668f64e2f460.gif"> 
-</p>
-
-<p></p>
-
-{% include button.html name="Сборки WA на Wago.io" link="https://wago.io/the-war-within-weakauras/classes/shaman/enhancement" %}  
-
-<p></p>
-
-
-
-<p></p>
-
-{% include button.html name="Обсудить на сервере Водоворот" link="https://discord.gg/8Bag6kT" %}  
-
-<p></p>

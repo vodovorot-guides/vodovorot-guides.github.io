@@ -742,14 +742,14 @@ image: /assets/img/mid1.jpg
 ## Высшие таланты
 
 
-[Storm Unleashed](https://www.wowhead.com/beta/spell=1262713) – каждый стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880) дает **2%** шанс, что следующая [Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) не потребует времени на восстановление. Эффект усиления оружия от [Сокрушающей молнии](https://www.wowhead.com/beta/spell=187874/) может накладываться друг на друга.
+[Необузданная буря](https://www.wowhead.com/beta/spell=1262713) – каждый стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880) дает **2%** шанс, что следующая [Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) не потребует времени на восстановление. Эффект усиления оружия от [Сокрушающей молнии](https://www.wowhead.com/beta/spell=187874/) может накладываться друг на друга.
 {: class="bordered"}
 
 
-[Storm Unleashed](https://www.wowhead.com/beta/spell=1262761) – заклинания, тратящие стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880), наносят на **8/15%** больше урона. [Оружие неистовства ветра](https://ru.wowhead.com/spell=33757/) и [Оружие языка пламени](https://ru.wowhead.com/spell=318038/) наносят на **10%** больше урона.
+[Необузданная буря](https://www.wowhead.com/beta/spell=1262761) – заклинания, тратящие стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880), наносят на **8/15%** больше урона. [Оружие неистовства ветра](https://ru.wowhead.com/spell=33757/) и [Оружие языка пламени](https://ru.wowhead.com/spell=318038/) наносят на **10%** больше урона.
 {: class="bordered"}
 
-[Storm Unleashed](https://www.wowhead.com/beta/spell=1252373) – [Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) также электризует землю, оставляя за собой электрическое поле, нанося **50%** своего урона **2** дополнительных раза в течение **2** секунд, а его бафф дополнительно увеличивает скорость автоатак на **15%**.
+[Необузданная буря](https://www.wowhead.com/beta/spell=1252373) – [Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) также электризует землю, оставляя за собой электрическое поле, нанося **50%** своего урона **2** дополнительных раза в течение **2** секунд, а его бафф дополнительно увеличивает скорость автоатак на **15%**.
 {: class="bordered"}
 
 
@@ -893,7 +893,7 @@ image: /assets/img/mid1.jpg
 
 ## Новые таланты
 
-Новый талант: [Overcharge](https://www.wowhead.com/beta/spell=1251026) – критический урон от сил природы увеличен на **40%** от значения вашего шанса критического удара.
+Новый талант: [Перегрузка](https://www.wowhead.com/beta/spell=1251026) – критический урон от сил природы увеличен на **40%** от значения вашего шанса критического удара.
 {: class="bordered"}
 
 * Данный талант потенциально повышает ценность крита для Энх Шамана.
@@ -902,7 +902,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Stormbind](https://www.wowhead.com/beta/spell=1251069/) – критические удары, наносящие урон от сил природы, снижают скорость передвижения цели на **60%** на **5** секунд.
+Новый талант: [Узы бури](https://www.wowhead.com/beta/spell=1251069/) – критические удары, наносящие урон от сил природы, снижают скорость передвижения цели на **60%** на **5** секунд.
 {: class="bordered"}
 
 * Крайне странный талант для ветки специализации, которому больше подходит место в PvP-талантах.
@@ -911,7 +911,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Ride the Lightning](https://www.wowhead.com/beta/spell=289874) – [Удар бури](https://www.wowhead.com/beta/spell=17364) и [Вскипание лавы](https://www.wowhead.com/beta/spell=60103) выпускают в цель [Цепную молнию](https://www.wowhead.com/ru/spell=188443), которая наносит свой полный урон, но он ослабевает на **20%** за каждый переход к новой цели.
+Новый талант: [Оседлать молнию](https://www.wowhead.com/beta/spell=289874) – [Удар бури](https://www.wowhead.com/beta/spell=17364) и [Вскипание лавы](https://www.wowhead.com/beta/spell=60103) выпускают в цель [Цепную молнию](https://www.wowhead.com/ru/spell=188443), которая наносит свой полный урон, но он ослабевает на **20%** за каждый переход к новой цели.
 {: class="bordered"}
 
 * Бывший PvP-талант, который будет крайне полезен на АоЕ.
@@ -920,7 +920,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Elemental Tempo](https://www.wowhead.com/beta/spell=1250364) – урон от сил стихий повышен на **10%**. Каждый поглощенный стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880) снижает время восстановления [Удара бури](https://www.wowhead.com/beta/spell=17364) и [Вскипания лавы](https://www.wowhead.com/beta/spell=60103) на **0.3** секунды.
+Новый талант: [Стихийный ритм](https://www.wowhead.com/beta/spell=1250364) – урон от сил стихий повышен на **10%**. Каждый поглощенный стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880) снижает время восстановления [Удара бури](https://www.wowhead.com/beta/spell=17364) и [Вскипания лавы](https://www.wowhead.com/beta/spell=60103) на **0.3** секунды.
 {: class="bordered"}
 
 * Неплохой талант, который поможет чаще использовать наши основные способности и пассивно увеличивает весь магический урон.
@@ -929,7 +929,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Lightning Strikes](https://www.wowhead.com/beta/spell=384450/) – поглощение **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) увеличивает урон следующего [Удара бури](https://www.wowhead.com/beta/spell=17364) или [Вскипания лавы](https://www.wowhead.com/beta/spell=60103) на **25%** и позволяет им генерировать на **1** стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880) больше.
+Новый талант: [Удары молнии](https://www.wowhead.com/beta/spell=384450/) – поглощение **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) увеличивает урон следующего [Удара бури](https://www.wowhead.com/beta/spell=17364) или [Вскипания лавы](https://www.wowhead.com/beta/spell=60103) на **25%** и позволяет им генерировать на **1** стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880) больше.
 {: class="bordered"}
 
 * Аналог удаленного таланта [Наследие ледяной ведьмы](https://www.wowhead.com/ru/spell=384450/), только вместо баффа на определенное время – усиление одной следующей способности.
@@ -937,7 +937,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Thunder Capacitor](https://www.wowhead.com/beta/spell=1262635) – [Молния](https://ru.wowhead.com/spell=188196) и [Цепная молния](https://www.wowhead.com/ru/spell=188443) наносят на **20%** больше урона и имеют **20%** шанс вернуть затраченные стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+Новый талант: [Громовой накопитель](https://www.wowhead.com/beta/spell=1262635) – [Молния](https://ru.wowhead.com/spell=188196) и [Цепная молния](https://www.wowhead.com/ru/spell=188443) наносят на **20%** больше урона и имеют **20%** шанс вернуть затраченные стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 {: class="bordered"}
 
 * Ранее данный эффект имели таланты [Статическое накопление](https://www.wowhead.com/ru/spell=384411/) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444/), но они были перенесены в отдельный талант.
@@ -946,7 +946,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Chaining Storms](https://www.wowhead.com/beta/spell=334308) – [Цепная молния](https://www.wowhead.com/ru/spell=188443) поражает еще **2** цели и наносит на **10%** больше урона.
+Новый талант: [Цепные бури](https://www.wowhead.com/beta/spell=334308) – [Цепная молния](https://www.wowhead.com/ru/spell=188443) поражает еще **2** цели и наносит на **10%** больше урона.
 {: class="bordered"}
 
 * По сути это талант [Сокрушающие бури](https://www.wowhead.com/ru/spell=334308/), но без увеличения урона от [Сокрушающей молнии](https://www.wowhead.com/beta/spell=187874/), зато с баффом на [Цепную молнию](https://www.wowhead.com/ru/spell=188443).
@@ -975,7 +975,7 @@ image: /assets/img/mid1.jpg
 <p></p>
 
 
-Новый талант: [Descending Skies](https://www.wowhead.com/beta/spell=1264688) – [Перерождение](https://www.wowhead.com/beta/spell=114050) при активации превращает следующую [Молнию](https://ru.wowhead.com/spell=188196) в [Бурю](https://ru.wowhead.com/spell=454009).
+Новый талант: [Низвергнутые небеса](https://www.wowhead.com/beta/spell=1264688) – [Перерождение](https://www.wowhead.com/beta/spell=114050) при активации превращает следующую [Молнию](https://ru.wowhead.com/spell=188196) в [Бурю](https://ru.wowhead.com/spell=454009).
 {: class="bordered"}
 
 * Данный талант по сути является копией бонуса сетового комплекта третьего сезона, [Вой направленной ярости](https://www.wowhead.com/ru/item-set=1929/).
@@ -1002,7 +1002,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Natural Gift](https://www.wowhead.com/beta/spell=1264691/) – увеличивает урон от сил природы на **2%**.
+Новый талант: [Природный дар](https://www.wowhead.com/beta/spell=1264691/) – увеличивает урон от сил природы на **2%**.
 {: class="bordered"}
 
 * Стандартный пассивный "скучный" талант на увеличение урона в героической ветке.
@@ -1010,7 +1010,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Stormwell](https://www.wowhead.com/beta/spell=1264762/) – увеличивает урон [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757/) на **10%**. Если [Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) поражает только одного противника, она активирует [Оружие неистовства ветра](https://ru.wowhead.com/spell=33757/).
+Новый талант: [Источник бури](https://www.wowhead.com/beta/spell=1264762/) – увеличивает урон [Оружия неистовства ветра](https://ru.wowhead.com/spell=33757/) на **10%**. Если [Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) поражает только одного противника, она активирует [Оружие неистовства ветра](https://ru.wowhead.com/spell=33757/).
 {: class="bordered"}
 
 
@@ -1034,7 +1034,7 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Totemic Momentum](https://www.wowhead.com/beta/spell=1260644) – увеличивает урон [Вскипания лавы](https://www.wowhead.com/beta/spell=60103) на **10%**. Каждый поглощенный стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880) продлевает время действия активного баффа [Горячей руки](https://www.wowhead.com/beta/spell=201900/) на **0.2** секунды.
+Новый талант: [Энергия тотемов](https://www.wowhead.com/beta/spell=1260644) – увеличивает урон [Вскипания лавы](https://www.wowhead.com/beta/spell=60103) на **10%**. Каждый поглощенный стак [Оружия Водоворота](https://ru.wowhead.com/spell=187880) продлевает время действия активного баффа [Горячей руки](https://www.wowhead.com/beta/spell=201900/) на **0.2** секунды.
 {: class="bordered"}
 
 * Тотемист всё также направлен на усиление огненного билда и получил таланты на соответствующие заклинания.
@@ -1044,13 +1044,13 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Новый талант: [Elemental Attunement](https://www.wowhead.com/beta/spell=1263288) – увеличивает Искусность на **2%**.
+Новый талант: [Язык стихий](https://www.wowhead.com/beta/spell=1263288) – увеличивает Искусность на **2%**.
 {: class="bordered"}
 
 * Стандартный пассивный "скучный" талант на увеличение урона в героической ветке.
 
 
-Новый талант: [Surge Catalyst](https://www.wowhead.com/beta/spell=1260874) – после применения [Пульсирующего тотема](https://www.wowhead.com/beta/spell=444995/), следующее[Вскипание лавы](https://www.wowhead.com/beta/spell=60103) нанесет урон повторно с эффективностью **150%**.
+Новый талант: [Первородный катализатор](https://www.wowhead.com/beta/spell=1260874) – после применения [Пульсирующего тотема](https://www.wowhead.com/beta/spell=444995/), следующее[Вскипание лавы](https://www.wowhead.com/beta/spell=60103) нанесет урон повторно с эффективностью **150%**.
 {: class="bordered"}
 
 * Данный талант по сути является копией бонуса сетового комплекта третьего сезона, [Вой направленной ярости](https://www.wowhead.com/ru/item-set=1929/).
@@ -1129,8 +1129,6 @@ image: /assets/img/mid1.jpg
 Энх Шаман также лишился некоторых вспомогательных способностей: [Тотема каменной преграды](https://www.wowhead.com/ru/spell=108270) был удален, а [Гром и молния](https://www.wowhead.com/ru/spell=51490) был перенесен в базовые способности Элем Шамана.
 
 Сетовый комплект выглядит как типичный сет из первого сезона нового дополнения, когда он пассивно увеличивает урон отдельных способностей и не является чем то сложным и мудреным, чтобы игроки могли привыкнуть к обновленным механикам.
-
-На данный момент самым главным вопросом в Midnight стоит отображение стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880) в стандартном интерфейсе. Так как аддоны на интефрейс получили [существенные ограничения](https://www.patreon.com/posts/weakauras-x-140349416?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link), а стандартный менеджер кулдаунов может отображать стаки только в виде цифры у баффа, пока не ясно, получиться ли сделать их в виде привычной полоски.
 
 # Изменения Рестора
 

@@ -121,18 +121,13 @@ $('button#build_ele_mplus').on('click', function() {
     return false;
 });
 1
-$('button#build_enh_sb_st').on('click', function() {
-    on_build_button_click(this, ["fs", "eb", "asc", "ic", "sunder", "vb"]);
+$('button#build_enh_totem').on('click', function() {
+    on_build_button_click(this, ["totem", "sunder", "hh", "dw"]);
     return false;
 });
 
-$('button#build_enh_sb_cleave').on('click', function() {
-    on_build_button_click(this, ["fs", "eb", "asc", "ic", "vb", "cl"]);
-    return false;
-});
-
-$('button#build_enh_sb_mythic').on('click', function() {
-    on_build_button_click(this, ["pw", "asc", "vb", "cl"]);
+$('button#build_enh_storm').on('click', function() {
+    on_build_button_click(this, ["fn", "asc"]);
     return false;
 });
 
