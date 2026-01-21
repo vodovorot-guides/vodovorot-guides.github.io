@@ -561,7 +561,7 @@ custom-javascript-list:
 Расходуемые предметы:
 * **Настой**: [Настой алхимического хаоса](https://www.wowhead.com/ru/item=212283)
 * **Зелье**: [Охлажденное зелье](https://www.wowhead.com/ru/item=212265/)
-* **Чары на оружие**: [Алгарийское масло маны](https://www.wowhead.com/ru/item=224107)
+* **Чары на оружие**: [Алгарийское масло маны](https://www.wowhead.com/ru/item=224107) – только в том случае, если **не взят** талант [Оружие языка пламени](https://www.wowhead.com/ru/spell=318038).
 * **Руна**: [Кристаллизованная руна усиления](https://www.wowhead.com/ru/item=224572)
 * **Еда**: [Пир полуночного маскарада](https://www.wowhead.com/ru/item=220425), либо [Благодать Беледар](https://www.wowhead.com/ru/item=222728)
 * **Зелье лечения**: [Бодрящее лечебное зелье](https://www.wowhead.com/ru/item=244839)
