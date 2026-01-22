@@ -16,9 +16,9 @@ categories:
     subcategories:
       - title: Гайд на Рестор Шамана
         url: /resto/guide.html
-        divided: true
       - title: Логи хилов и их важность
         url: /resto/logs.html
+        divided: true
       - title: Руководство по QE Live
         url: /resto/qe.html
 
