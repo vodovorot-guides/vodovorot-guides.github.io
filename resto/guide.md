@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-01-20
+last_update: 2026-01-22
 title: Гайд на Рестор Шамана
 wow: 12.0
 toc: true
@@ -177,11 +177,10 @@ custom-javascript-list:
 1. {:.asc-apl .dre-apl}Если активно [Перерождение](https://www.wowhead.com/ru/spell=114052/) используйте [Волну исцеления](https://www.wowhead.com/ru/spell=77472) на цели без баффа от [Быстрины](https://ru.wowhead.com/spell=61295).
 1. {:.no-asc-apl .dre-apl}Если активно [Перерождение](https://www.wowhead.com/ru/spell=114052/) используйте [Волну исцеления](https://www.wowhead.com/ru/spell=77472) на цели без баффа от [Быстрины](https://ru.wowhead.com/spell=61295).
 1. [Быстрина](https://ru.wowhead.com/spell=61295) по кулдауну, желательно на цель без этого баффа.
-4. {:.ul-apl}[Волна исцеления](https://www.wowhead.com/ru/spell=77472) для поглощения баффа от таланта [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
 1. {:.ul-apl .totem-apl}[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/) по кулдауну.
 3. {:.dp-apl .no-totem-apl}[Ливневый дождь](https://www.wowhead.com/ru/spell=462486/).
 3. {:.no-totem-apl}[Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) по кулдауну.
-3. {:.ul-apl}[Целительный ливень](https://www.wowhead.com/ru/spell=73920/).
+3. {:.rain-apl .no-totem-apl}[Целительный ливень](https://www.wowhead.com/ru/spell=73920/).
 4. [Волна исцеления](https://www.wowhead.com/ru/spell=77472) в цель, которая требует лечения.
 5. Если хилить нечего, то следует наносить урон.
 
