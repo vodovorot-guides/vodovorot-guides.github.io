@@ -59,11 +59,11 @@ custom-javascript-list:
 
 ## Общая информация
 
-В препатче Midnight недоступна прокачка до девяностого уровня, нет высших талантов – [Цикл ответной реакции](https://www.wowhead.com/beta/spell=1270061) и не хватает трех очков талантов в героической ветке. Все вместе это ощутимо усилит нашу специализацию в будующем.
+В препатче Midnight недоступна прокачка до девяностого уровня, нет высших талантов – [Цикл ответной реакции](https://www.wowhead.com/beta/spell=1270061) и не хватает трех очков талантов в героической ветке. Все вместе это ощутимо усилит нашу специализацию в будущем.
 
 В бою против одной цели и в вылазках рекомендуется использовать **Предсказателя**, а в Мифик+ и на АоЕ – **Вестника шторма**.
 
-Текущие актуальне билды на каждого босса в рейде можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/elemental/shaman/mythic-plus/overview/10/all-dungeons/this-week).
+Текущие актуальные билды на каждого босса в рейде можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/elemental/shaman/mythic-plus/overview/10/all-dungeons/this-week).
 
 ## Таланты для Рейда
 
