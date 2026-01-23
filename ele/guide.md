@@ -105,13 +105,13 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZbmxMzMbLLjxMMDAAAAAwMG2AwMCN2AgZZmZGjtFTYmxYZmHYmxwiFjlhxMzCAwwAzMwwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAAmxwGAmRoxGAMLzMzYstYCzMGLz8AzMGWsYs8AMmZWAAGGYmBGG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
 * Данный билд, несмотря на то, что здесь выбран Вестник шторма, всё равно использует множество талантов в огненной стороне ветки, включая [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057) и [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
 * Эта комбинация талантов позволяет раз в **9** секунд наносить большое количество урона по всем целям за счет гаранитрованного крита [Гальванического пламени](https://www.wowhead.com/beta/spell=470057) и кастовать мгновенный [Выброс лавы](https://ru.wowhead.com/spell=51505) для активации [Очищающего пламени](https://www.wowhead.com/beta/spell=1259471).
-* Вы можете убрать одно очко из таланта [Потрескивающая ярость](https://www.wowhead.com/beta/spell=1269215) и вложить его в таланта [Грозовой разрядник](https://www.wowhead.com/beta/spell=210689), но тогда у вас возникнет рассинхронизация [Гальванического пламени](https://www.wowhead.com/beta/spell=470057) с проком [Волны лавы](https://www.wowhead.com/beta/spell=77756).
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
