@@ -122,7 +122,7 @@ $('button#build_ele_mplus').on('click', function() {
 });
 
 $('button#build_enh_totem_st').on('click', function() {
-    on_build_button_click(this, ["totem", "sunder", "hh", "dw"]);
+    on_build_button_click(this, ["totem", "sunder", "pw", "hh", "dw"]);
     return false;
 });
 

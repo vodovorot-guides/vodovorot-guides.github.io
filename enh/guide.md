@@ -62,14 +62,16 @@ custom-javascript-list:
 
 В препатче Midnight недоступна прокачка до девяностого уровня, нет высших талантов – [Необузданная буря](https://www.wowhead.com/beta/spell=1262713) и не хватает трех очков талантов в героической ветке. Все это ощутимо усилит нашу специализацию в будущем.
 
-В бою против одной цели и в вылазках рекомендуется использовать **Тотемиста**, а в Мифик+ и на АоЕ – **Вестника шторма**.
+В бою против одной цели, в Мифик+ и в вылазках рекомендуется использовать **Тотемиста**. 
+
+**Вестник шторма** на момент препатча проигрывает во всех типах контента.
 
 Текущие актуальные билды на каждого босса в рейде можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/enhancement/shaman/mythic-plus/overview/10/all-dungeons/this-week).
 
 
 ## Таланты для Рейда
 
-На текущий момент, **Тотемист** показывает себя сильнее в бою против одной цели. Основной билда является бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900/), усиливающий урон [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) и сокращающий его кулдаун, который так же можно продлить с помощью таланта [Энергия тотемов](https://www.wowhead.com/ru/spell=1260644/). Бурстом в этом билде является сочетание [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Ветров рока](https://www.wowhead.com/ru/spell=384352), которые имеют время восстановления **1** минуту и позволяют усиливать свой урон в нужные моменты боя.
+На текущий момент, **Тотемист** показывает себя сильнее и в бою против одной цели, и на АоЕ. Основной билда является бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900/), усиливающий урон [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) и сокращающий его кулдаун, который так же можно продлить с помощью таланта [Энергия тотемов](https://www.wowhead.com/ru/spell=1260644/). Бурстом в этом билде является сочетание [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Ветров рока](https://www.wowhead.com/ru/spell=384352), которые имеют время восстановления **1** минуту и позволяют усиливать свой урон в нужные моменты боя.
 
 
 **Вестник шторма** отстает не так сильно, но у него не самый удобный паттерн урона и слабее клив урон, но зато он имеет более сильный бурст за счет [Перерождения](https://www.wowhead.com/ru/spell=114051/).
@@ -79,11 +81,11 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Рейдовый билд **Тотемиста**:
+Основной рейдовый билд **Тотемиста**:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzMzMzMzMzMmZGzAAAAAAAAAALAYG0YbAMC2AYWmxMGLLGYmZjlZmZGwYGAADDDzoxMDAMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzMzYGAAAAAAAAAAAMW0YbAMTwGAWmxMGLLzAzMbsMzMzwwYGAADwYGxMDAMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -92,11 +94,11 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Рейдовый билд **Вестника шторма**:
+Альтернативный рейдовый билд **Вестника шторма**:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzYmZmZmZmhZGDAAAAAAAAgNAMjhNCYGQDWAYWmxMzYZxAzMbsMzMzAGzAAMDjZGGNwMDgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzYmZmZmZmhZGDAAAAAAAAgNAMjhNCYGQDWAYWmxMzYZZGYmZjlZmZGGYGAgZYMzwIwMDgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -110,23 +112,19 @@ custom-javascript-list:
 
 ## Таланты для Мифик+
 
-В препатче Midnight обе героические ветки хорошо себя показывают в Мифик+, но **Вестник шторма** немного обходит **Тотемиста** за счет отсутствия необходимых талантов на пути к девяностому уровню. 
-
-**Вестник шторма** полагается на двухминутный кулдаун [Перерождения](https://www.wowhead.com/ru/spell=114051/) и новый талант [Оседлать молнию](https://www.wowhead.com/ru/spell=204357), который позволяет раскидывать [Грозовые разрядники](https://www.wowhead.com/ru/spell=455123) за счет филлерных способностей. У **Вестника шторма** в препатче есть возможность использовать гибридный билд, средний между боем против одной цели и АоЕ, что будет особенно полезно в Мифик+.
+В препатче Midnight обе героические ветки хорошо себя показывают в Мифик+, но **Тотемист** обходит **Вестника шторма**.
 
 **Тотемист** имеет бурст раз в минуту за счет [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Ветров рока](https://www.wowhead.com/ru/spell=384352), а талант [Энергия тотемов](https://www.wowhead.com/ru/spell=1260644/) позволяет активнее поддерживать бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900/) на АоЕ, чтобы реализовывать [Разветвленный поток](https://www.wowhead.com/ru/spell=445035). 
 
 
+**Вестник шторма** полагается на двухминутный кулдаун [Перерождения](https://www.wowhead.com/ru/spell=114051/) и новый талант [Оседлать молнию](https://www.wowhead.com/ru/spell=204357), который позволяет раскидывать [Грозовые разрядники](https://www.wowhead.com/ru/spell=455123) за счет филлерных способностей. 
+
+
+Основной билд **Тотемиста** для Мифик+:
 
 <p></p>
-<hr style="height:1px;background-color:#bbb">
-<p></p>
 
-Билд **Вестника шторма** для Мифик+:
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzYMzMzMzMMzMDAAAAAAAAgNAMjhNCYGQDWAYWmxMGLLGYmBLzMzMDMmBAwwYmhRDMzgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzYGzAAAAAAAAAALAYG0YbAMC2AYWmxMGLLGYmZjlZMzMwYGAAgxYmJmZAGMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -135,13 +133,11 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-
-
-Билд **Тотемиста** для Мифик+:
+Альтернативный билд **Вестника шторма** для Мифик+:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAkLQa6cKSpnHFD9kPlf7o7PzMzMjZMzMzMzMzYGAAAAAAAAAYBAzgGbDgRwGAzyMmxYZxAzMbsMjZmBGzAAAjZYmJmZAGMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzYMzMzMzMMzMDAAAAAAAAgNAMjhNCYGQDWAYWmxMGLLzAzMYZmZmZMwMAAGGzMMCMzgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -149,6 +145,10 @@ custom-javascript-list:
 <p></p>
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
+
+
+
 
 ## Таланты для Вылазок
 
