@@ -278,7 +278,7 @@ custom-javascript-list:
 6. {:.vb-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф от таланта [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
   * Старайтесь дожидаться также прока [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
 7. {:.vb-apl .mote-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-6. {:.vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну.
+6. {:.vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
 7. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если другие способности недоступны.
 8. [Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 
