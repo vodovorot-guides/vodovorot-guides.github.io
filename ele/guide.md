@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-01-28
+last_update: 2026-01-30
 title: Гайд на Элем Шамана
 wow: 12.0
 toc: true
@@ -115,6 +115,26 @@ custom-javascript-list:
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
+
+
+Билд **Предсказателя** для Мифик+ через [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057):
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLbzMGjZZZZMmhBAAAAgZ2gBMgZjJkZBAmlZmZM2WMhZGjlZMzYYxyMzyMYmZBAYYAwYYG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+* Данный билд позволяет полностью реализовать огненный билд на АоЕ бою, используя по максимуму таланты на [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057) и [Выброс лавы](https://ru.wowhead.com/spell=51505).
+* Он эффективнее в бою против **1-3** цели, но проигрывает **Вестнику шторма** на большом АоЕ.
+
+
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 
 Билд **Вестника шторма** для Мифик+, через молнии и элементалей:
 
