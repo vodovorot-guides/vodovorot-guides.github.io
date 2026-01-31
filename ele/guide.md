@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-01-30
+last_update: 2026-01-31
 title: Гайд на Элем Шамана
 wow: 12.0
 toc: true
@@ -61,11 +61,21 @@ custom-javascript-list:
 
 В препатче Midnight недоступна прокачка до девяностого уровня, нет высших талантов – [Цикл ответной реакции](https://www.wowhead.com/beta/spell=1270061) и не хватает трех очков талантов в героической ветке. Все вместе это ощутимо усилит нашу специализацию в будущем.
 
-В бою против одной цели и в вылазках рекомендуется использовать **Предсказателя**, а в Мифик+ и на АоЕ – **Вестника шторма**.
+На данный момент во всех типах контента, то есть в рейде, Мифик+ и вылазках, лидирует **Предсказателя**, **Вестника шторма** от него немного отстает.
 
 Текущие актуальные билды на каждого босса в рейде можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/elemental/shaman/mythic-plus/overview/10/all-dungeons/this-week).
 
 ## Таланты для Рейда
+
+
+Билд **Предсказателя** для **быстрых** боев в рейде, до двух минут:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAzMLbzMmZmZZZZMmhBAAAAgZ2gBMgZjJkZBAmlZmZM2WMhZGjlZegZGDLWMWMzYmZDAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -75,19 +85,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-Билд **Предсказателя** для **быстрых** боев в рейде, до двух минут:
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAzMLbzMmZmZZZZMmhBAAAAgZ2gBMgZjJkZBAmlZmZM2WMhZGjlZegZGDLWMWMzYmZDAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -101,53 +99,36 @@ custom-javascript-list:
 ## Таланты для Мифик+
 
 
-Билд **Вестника шторма** для Мифик+ через [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057):
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAAmxwGAmRoxGAMLzMzYstYCzMGLz8AzMGWsYs8AMmZWAAGGYmBGG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-* Данный билд, несмотря на то, что здесь выбран Вестник шторма, всё равно использует множество талантов в огненной стороне ветки, включая [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057) и [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
-* Эта комбинация талантов позволяет раз в **9** секунд наносить большое количество урона по всем целям за счет гаранитрованного крита [Гальванического пламени](https://www.wowhead.com/beta/spell=470057) и кастовать мгновенный [Выброс лавы](https://ru.wowhead.com/spell=51505) для активации [Очищающего пламени](https://www.wowhead.com/beta/spell=1259471).
-
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
 
 Билд **Предсказателя** для Мифик+ через [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057):
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLbzMGjZZZZMmhBAAAAgZ2gBMgZjJkZBAmlZmZM2WMhZGjlZMzYYxyMzyMYmZBAYYAwYYG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZbmxMzMLLLjxMMDAAAAgZ2gBMgZjJkZBAmlZmZM2WMhZGjlZMzYYxyMWMzYmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
-* Данный билд позволяет полностью реализовать огненный билд на АоЕ бою, используя по максимуму таланты на [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057) и [Выброс лавы](https://ru.wowhead.com/spell=51505).
-* Он эффективнее в бою против **1-3** цели, но проигрывает **Вестнику шторма** на большом АоЕ.
-
-
-<p></p>
+* Данный билд сочетает все плюсы [Гальванического пламени](https://www.wowhead.com/beta/spell=470057) и усиленных элементалей и отлично подходит для Мифик+ в препатче.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+Билд **Вестника шторма** для Мифик+ через [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057):
 
-Билд **Вестника шторма** для Мифик+, через молнии и элементалей:
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAmZZZmxMzMbLLjxMmZAAAAAAmxwGAmRoxGAMLzMzYstYCzMGLz8AzMGWsYs8AMmZWAAGGYmBGG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAkLQa6cKSpnHFD9kPlf7o7DAAAAzMLLzMzMzMLLbDMmZAAAAAAmxwGAmRoxGAMLzMzYstYCzMGLz8AzMGWsYsYmhZWAAGGYmBGG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+* Данный билд, несмотря на то, что здесь выбран Вестник шторма, всё равно использует множество талантов в огненной стороне ветки, включая [Гальваническое пламя](https://www.wowhead.com/beta/spell=470057) и [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
+* Эта комбинация талантов позволяет раз в **9** секунд наносить большое количество урона по всем целям за счет гаранитрованного крита [Гальванического пламени](https://www.wowhead.com/beta/spell=470057) и кастовать мгновенный [Выброс лавы](https://ru.wowhead.com/spell=51505) для активации [Очищающего пламени](https://www.wowhead.com/beta/spell=1259471).
+* В целом на данный момент Вестник шторма слабее чем Предсказатель, так что этот билд стоит использовать только в качестве экспериментального.
 
-<p></p>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-* Данный билд имеет меньше СТ урона, но он проще в использовании, чем указанный выше.
 
 
 ## Таланты для Вылазок
@@ -156,7 +137,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZbmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZbmxMzMbLLjxMmZAAAAAMzGMgBMbMhMLAwsMzMjx2iJMzYsMzDMzYYxixCmZmZBAYYAwYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
