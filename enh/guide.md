@@ -288,7 +288,7 @@ custom-javascript-list:
 1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) если есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
   * Старайтесь применять [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047/) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
 3. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
-1. {:.no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+1. [Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
 4. {:.totem-apl .dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
 5. {:.totem-apl}[Молния](https://www.wowhead.com/ru/spell=188196/), если выполняется **любое** из условий:
   * Есть **9+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
