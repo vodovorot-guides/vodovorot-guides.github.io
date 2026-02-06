@@ -1,7 +1,7 @@
 ---
 title: Все изменения Шаманов в Midnight
 layout: page
-last_update: 2026-01-16
+last_update: 2026-02-06
 wow: 12.0.0
 toc: true
 author: Amani
@@ -40,6 +40,7 @@ image: /assets/img/mid1.jpg
 * [Шестой билд альфы от 6 ноября 2025](https://us.forums.blizzard.com/en/wow/t/midnight-alpha-test-development-notes/2174760/17)
 * [Девятый билд альфы от 3 декабря 2025](https://us.forums.blizzard.com/en/wow/t/midnight-beta-test-development-notes/2174760/21)
 * [Финальные патчноуты от 15 января 2026](https://worldofwarcraft.blizzard.com/en-us/news/24244455)
+* [Изменения Рестора от 29 января 2026](https://us.forums.blizzard.com/en/wow/t/1201-midnight-beta-test-development-notes/2213807/11)
 
 
 # Видео про изменения
@@ -1186,10 +1187,10 @@ image: /assets/img/mid1.jpg
 * [Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004) – все таланты, которые ранее воздействовали на [Исцеляющий всплеск](https://www.wowhead.com/ru/spell=8004), теперь работают на [Волну исцеления](https://www.wowhead.com/beta/spell=77472).
 * [Прилив](https://www.wowhead.com/ru/spell=157154).
 * [Прилив маны](https://www.wowhead.com/ru/spell=1217525/).
+* [Шепчущие волны](https://www.wowhead.com/beta/spell=1217598/).
 * [Властелин стихий](https://www.wowhead.com/ru/spell=462375) – теперь является PvP талантом.
 * [Тотем волн духостранника](https://www.wowhead.com/ru/spell=404522/).
 * [Вестник приливов](https://www.wowhead.com/ru/spell=236501/).
-* [Приливные волны](https://www.wowhead.com/ru/spell=51564).
 * [Смена течения](https://www.wowhead.com/ru/spell=404019/).
 * [Пульсация](https://www.wowhead.com/ru/spell=200071/).
 * [Родник](https://www.wowhead.com/ru/spell=197995/).
@@ -1245,6 +1246,14 @@ image: /assets/img/mid1.jpg
 
 ## Измененные таланты
 
+[Приливные волны](https://www.wowhead.com/ru/spell=51564) – талант был переработан. Каждое применение [Быстрины](https://www.wowhead.com/beta/spell=61295) дает один заряд [Приливных волн](https://www.wowhead.com/ru/spell=51564), снижая время произнесения [Волны исцеления](https://www.wowhead.com/beta/spell=77472) и [Цепного исцеления](https://www.wowhead.com/beta/spell=1064) на **20%**. Стакается до двух раз.
+{: class="bordered"}
+
+* Данный бафф был сначала удален, но его вернули за пару недель до релиза дополнения Midnight.
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 [Высвободить чары жизни](https://www.wowhead.com/beta/spell=73685/) – талант был переработан. Теперь усиливает исцеление следующей [Быстрины](https://www.wowhead.com/beta/spell=61295), [Волны исцеления](https://www.wowhead.com/beta/spell=77472) или [Цепного исцеления](https://www.wowhead.com/beta/spell=1064) на **25%** и снижает время их применения на **30%**. Первоначальное исцеление [Высвободить чары жизни](https://www.wowhead.com/beta/spell=73685/) повышено на **30%**, а время восстановления составляет **20** секунд вместо **15**.
 {: class="bordered"}
 
@@ -1255,11 +1264,10 @@ image: /assets/img/mid1.jpg
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-[Перерождение](https://www.wowhead.com/beta/spell=114052) – талант был переработан. Вы превращаетесь в перерожденного служителя воды и мгновенно восполняете здоровье окружающим союзникам. В этом облике применение [Быстрины](https://www.wowhead.com/beta/spell=61295) усиливает следующее применение [Волны исцеления](https://www.wowhead.com/beta/spell=77472) или [Цепного исцеления](https://www.wowhead.com/beta/spell=1064), делая их мгновенными и позволяя им накладывать [Быстрину](https://www.wowhead.com/beta/spell=61295) на вашу цель, а всё исцеление дополнительно усиливается на **30%**.
+[Перерождение](https://www.wowhead.com/beta/spell=114052) – талант был переработан. Вы превращаетесь в перерожденного служителя воды и мгновенно восполняете здоровье окружающим союзникам. В этом облике [Цепное исцеление](https://www.wowhead.com/beta/spell=1064) переходит к трем дополнительным союзникам со снижением эффективности на **10%** для всех прыжков, а [Волна исцеления](https://www.wowhead.com/beta/spell=77472) всегда наносит критический удар и исцеляет одного дополнительного союзника на **50%** эффективности, при этом затраты маны на применение [Цепного исцеления](https://www.wowhead.com/beta/spell=1064) и [Волны исцеления](https://www.wowhead.com/beta/spell=77472) снижены на **25%**.
 {: class="bordered"}
 
-* [Перерождение](https://www.wowhead.com/beta/spell=114052) больше не дублирует исцеление, а усиливает весь отхил, а также позволяет накладывать большее количество [Быстрин](https://www.wowhead.com/beta/spell=61295) на союзников.
-
+* [Перерождение](https://www.wowhead.com/beta/spell=114052) больше не дублирует исцеление, а усиливает два основных заклинания, которые будут полезны в обоих героических ветках.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -1338,13 +1346,6 @@ image: /assets/img/mid1.jpg
 {: class="bordered"}
 
 * [Ливневый дождь](https://www.wowhead.com/beta/spell=462486) является одним из немногих оставшихся "активных" талантов Рестора, и теперь он будет чаще использоваться именно для исцеления, а не для баффа максимального здоровья.
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-
-[Шепчущие волны](https://www.wowhead.com/beta/spell=1217598/) – теперь дублирует **10%** от [Волны исцеления](https://www.wowhead.com/beta/spell=77472/) вместо **15%**.
-{: class="bordered"}
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
