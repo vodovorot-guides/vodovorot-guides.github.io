@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-01-31
+last_update: 2026-02-08
 title: Гайд на Элем Шамана
 wow: 12.0
 toc: true
@@ -228,7 +228,7 @@ custom-javascript-list:
 5. {:.mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если нет баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 7. {:.mote-apl}[Молния](https://ru.wowhead.com/spell=188196), для поглощения баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 6. {:.no-vb-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
-6. {:.vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
+6. {:.vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если до спадения [Огненного шока](https://ru.wowhead.com/spell=188389) осталось менее **5.4** секунд.
 7. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196), если другие способности недоступны.
 7. {:.tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) / [Буря](https://ru.wowhead.com/spell=454009), если другие способности недоступны.
 8. [Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
