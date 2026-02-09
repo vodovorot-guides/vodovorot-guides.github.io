@@ -48,8 +48,8 @@ image: /assets/img/lv100.png
 
 
 <p align="center">
-  <a href="/assets/img/lv1000.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/lv1000big.png">
+  <a href="/assets/img/lv1000big.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/img/lv1000.png">
   </a>
   <br>
   <span style="font-size: 0.9em; font-style: italic;">
