@@ -12,7 +12,7 @@ image: /assets/img/lv100.png
 # Вступление
 
 <p align="center">
-    <img src="/assets/img/lv1.jpg"> 
+    <img src="/assets/img/lv1.png"> 
 </p>
 
 
@@ -46,7 +46,7 @@ image: /assets/img/lv100.png
 
 
 <p align="center">
-<img src="https://i.imgur.com/lv2.jpg"> 
+<img src="/assets/img/lv2.jpg"> 
 </p>
 
 
@@ -64,7 +64,7 @@ image: /assets/img/lv100.png
 # Прокачка персонажей
 
 <p align="center">
-<img src="https://i.imgur.com/lv5.jpg"> 
+<img src="/assets/img/lv5.jpg"> 
 </p>
 
 
@@ -81,7 +81,7 @@ image: /assets/img/lv100.png
 
 
 <p align="center">
-<img src="https://i.imgur.com/lv4.jpg"> 
+<img src="/assets/img/lv4.jpg"> 
 </p>
 
 
@@ -101,7 +101,7 @@ image: /assets/img/lv100.png
 ## Особенности прокачки альтов
 
 <p align="center">
-<img src="https://i.imgur.com/lv3.jpg"> 
+<img src="/assets/img/lv3.jpg"> 
 </p>
 
 
@@ -130,7 +130,7 @@ image: /assets/img/lv100.png
 # Активности на старте Midnight
 
 <p align="center">
-<img src="https://i.imgur.com/lv13.jpg"> 
+<img src="/assets/img/lv13.jpg"> 
 </p>
 
 
@@ -140,7 +140,7 @@ image: /assets/img/lv100.png
 
 
 <p align="center">
-<img src="https://i.imgur.com/lv6.jpg"> 
+<img src="/assets/img/lv6.jpg"> 
 </p>
 
 
@@ -156,7 +156,7 @@ image: /assets/img/lv100.png
 
 
 <p align="center">
-<img src="https://i.imgur.com/lv7.jpg"> 
+<img src="/assets/img/lv7.jpg"> 
 </p>
 
 * На старте Midnight нам будут доступны **четыре** фракции, каждая из которых закреплена за своей зоной: Двор Луносвета, Племя Амани, Хара'ти и Сингулярность.
@@ -183,7 +183,7 @@ image: /assets/img/lv100.png
 
 
 <p align="center">
-<img src="https://i.imgur.com/lv8.jpg"> 
+<img src="/assets/img/lv8.jpg"> 
 </p>
 
 
@@ -212,7 +212,7 @@ image: /assets/img/lv100.png
 ## Охота
 
 <p align="center">
-<img src="https://i.imgur.com/lv9.jpg"> 
+<img src="/assets/img/lv9.jpg"> 
 </p>
 
 
@@ -235,7 +235,7 @@ image: /assets/img/lv100.png
 
 
 <p align="center">
-<img src="https://i.imgur.com/lv10.jpg"> 
+<img src="/assets/img/lv10.jpg"> 
 </p>
 
 
@@ -258,7 +258,7 @@ image: /assets/img/lv100.png
 ## Профессии и крафт
 
 <p align="center">
-<img src="https://i.imgur.com/lv11.jpg"> 
+<img src="/assets/img/lv11.jpg"> 
 </p>
 
 * Крафтовые профессии практически не отличаются от The War Within, кроме некоторых небольших изменений.
@@ -281,7 +281,7 @@ image: /assets/img/lv100.png
 ## PvP
 
 <p align="center">
-<img src="https://i.imgur.com/lv12.jpg"> 
+<img src="/assets/img/lv12.jpg"> 
 </p>
 
 * Для PvE обычная PvP экипировка практически бесполезна, так как имеет максимум **243-250** уровень предметов.
@@ -304,7 +304,7 @@ image: /assets/img/lv100.png
 # Необходимые активности по датам
 
 <p align="center">
-<img src="https://i.imgur.com/lv100.png"> 
+<img src="/assets/img/lv100.png"> 
 </p>
 
 
@@ -319,7 +319,7 @@ image: /assets/img/lv100.png
 ## Ранний доступ
 
 <p align="center">
-<img src="https://i.imgur.com/lv14.jpg"> 
+<img src="/assets/img/lv14.jpg"> 
 </p>
 
 **27 февраля - 1 марта** – ранний доступ, этап до Ярмарки Новолуния.
@@ -339,7 +339,7 @@ image: /assets/img/lv100.png
 ## Ярмарка Новолуния
 
 <p align="center">
-<img src="https://i.imgur.com/lv15.jpg"> 
+<img src="/assets/img/lv15.jpg"> 
 </p>
 
 **1 марта - 4 марта** – старт Ярмарки Новолуния, до первого еженедельного сброса.
@@ -367,7 +367,7 @@ image: /assets/img/lv100.png
 
 
 <p align="center">
-<img src="https://i.imgur.com/lv16.jpg"> 
+<img src="/assets/img/lv16.jpg"> 
 </p>
 
 
@@ -391,7 +391,7 @@ image: /assets/img/lv100.png
 
 
 <p align="center">
-<img src="https://i.imgur.com/lv17.jpg"> 
+<img src="/assets/img/lv17.jpg"> 
 </p>
 
 
@@ -415,7 +415,7 @@ image: /assets/img/lv100.png
 # Старт сезона: героическая неделя
 
 <p align="center">
-<img src="https://i.imgur.com/lv18.jpg"> 
+<img src="/assets/img/lv18.jpg"> 
 </p>
 
 
@@ -448,7 +448,7 @@ image: /assets/img/lv100.png
 
 
 <p align="center">
-<img src="https://i.imgur.com/lv19.jpg"> 
+<img src="/assets/img/lv19.jpg"> 
 </p>
 
 **25 марта - 4 апреля** – старт Мифик+ и эпохальной сложности рейдов Шпиль Бездны и Провал снов.
