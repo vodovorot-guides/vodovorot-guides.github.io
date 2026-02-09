@@ -24,6 +24,8 @@ categories:
 
   - title: Инфо
     subcategories:
+      - title: Руководство по прокачке в Midnight
+        url: /info/leveling-midnight.html     
       - title: Изменения в Midnight
         url: /info/midnight.html     
       - title: Сокращения

@@ -1,7 +1,7 @@
 ---
 layout: page
 last_update: 2026-02-09
-title: Советы по прокачке в Midnight
+title: Руководство по прокачке в Midnight
 wow: 12.0.1
 toc: true
 author: Amani
@@ -48,9 +48,25 @@ image: /assets/img/lv100.png
 <p align="center">
   <img src="/assets/img/lv1000.png"><br>
   <span style="font-size: 0.9em; font-style: italic;">
-    Уровни предметов Midnight от dburnnzz.
+    Уровни предметов Midnight от dburnnzz. 
+    <a href="https://i.imgur.com/yh0PqcC.png">
+      Увеличить размер.
+          </a>
   </span>
 </p>
+
+
+
+<p align="center">
+  <img src="/assets/img/lv5.jpg"><br>
+  <span style="font-size: 0.9em; font-style: italic;">
+    Аддон
+    <a href="https://www.curseforge.com/wow/addons/easy-experience-bar">
+      Easy Experience Bar
+    </a>
+  </span>
+</p>
+
 
 
 
