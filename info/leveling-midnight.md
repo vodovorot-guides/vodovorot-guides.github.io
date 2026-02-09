@@ -22,7 +22,7 @@ image: /assets/img/lv100.png
 
 Данный гайд написан для гильдии [Гнев Анархии](https://ru.warcraftlogs.com/guild/id/642785) и рассчитан на то, что вы качаете несколько персонажей. Это не рекомендация к действию для тех, кто играет в расслабленном темпе или занимается только одним персонажем, однако и этом случае данный материал будет крайне полезен.
 
-По всем вопросам можно обращаться ко мне в [Discord](https://discord.gg/Q8EUPkKnBH) или на [Twitch](https://www.twitch.tv/amanizandalari).
+По всем вопросам можно обращаться ко мне в [Discord](https://discord.gg/Q8EUPkKnBH) или на [Twitch](https://www.twitch.tv/amanizandalari). Поддержать создание подобного контента можно на [Boosty](https://boosty.to/amani).
 
 При подготовке данного гайда использовался личный опыт после прокачки трех персонажей на бете Midnight и [гайд от Larias](https://docs.google.com/document/d/e/2PACX-1vTGkZ2Cjr0jlv90XqW9vy9VXsVucd-yMCgHdyCvX_kQfOrexNDAC7Lf3LifuhqxrcWqJ0W3zIhvK3ii/pub).
 
