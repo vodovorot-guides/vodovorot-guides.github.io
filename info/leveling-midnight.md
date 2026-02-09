@@ -46,16 +46,16 @@ image: /assets/img/lv100.png
 # Кратко и быстро
 
 
+
 <p align="center">
-  <img src="/assets/img/lv1000.png"><br>
+  <a href="/assets/img/lv1000.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/img/lv1000big.png">
+  </a>
+  <br>
   <span style="font-size: 0.9em; font-style: italic;">
-    <a href="https://i.imgur.com/yh0PqcC.png" target="_blank" rel="noopener noreferrer">
       Уровни предметов Midnight от dburnnzz.
-    </a>
   </span>
 </p>
-
-
 
 
 1. Включите режим войны перед прокачкой. Мейном нужно пройти сюжет и взять **90** уровень, побочки на прокачке игнорировать. Если после сюжета не хватило до **90** уровня, добивать в подземельях и вылазках.
