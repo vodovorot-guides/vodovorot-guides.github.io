@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: page
 last_update: 2026-02-09
@@ -9,20 +8,6 @@ author: Amani
 description: Советы по прокачке нескольких персонажей на старте дополнения.
 image: /assets/img/lv2.jpg
 ---
-=======
----
-layout: page
-last_update: 2026-02-09
-title: Советы по прокачке в Midnight
-wow: 12.0.1
-toc: true
-author: Amani
-description: Советы по прокачке нескольких персонажей на старте дополнения.
-image: /assets/img/lv1.jpg
----
->>>>>>> a624b4e76ac0454c6fde02c5aa62c782614d0353
-
-<<<<<<< HEAD
 
 # Вступление
 
