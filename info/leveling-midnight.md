@@ -45,24 +45,12 @@ image: /assets/img/lv100.png
 
 # Кратко и быстро
 
+
 <p align="center">
   <img src="/assets/img/lv1000.png"><br>
   <span style="font-size: 0.9em; font-style: italic;">
-    Уровни предметов Midnight от dburnnzz. 
     <a href="https://i.imgur.com/yh0PqcC.png">
-      Увеличить размер.
-          </a>
-  </span>
-</p>
-
-
-
-<p align="center">
-  <img src="/assets/img/lv5.jpg"><br>
-  <span style="font-size: 0.9em; font-style: italic;">
-    Аддон
-    <a href="https://www.curseforge.com/wow/addons/easy-experience-bar">
-      Easy Experience Bar
+      Уровни предметов Midnight от dburnnzz.
     </a>
   </span>
 </p>
