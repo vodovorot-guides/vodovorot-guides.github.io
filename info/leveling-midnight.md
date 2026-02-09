@@ -1,7 +1,7 @@
 ---
 layout: page
 last_update: 2026-02-09
-title: Руководство по прокачке в Midnight
+title: Гайд по подготовке к первому сезону Midnight
 wow: 12.0.1
 toc: true
 author: Amani
