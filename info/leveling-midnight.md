@@ -6,7 +6,7 @@ wow: 12.0.1
 toc: true
 author: Amani
 description: Советы по прокачке нескольких персонажей на старте дополнения.
-image: /assets/img/lv2.jpg
+image: /assets/img/lv100.png
 ---
 
 # Вступление
@@ -65,7 +65,6 @@ image: /assets/img/lv2.jpg
 
 <p align="center">
 <img src="https://i.imgur.com/lv5.jpg"> 
-<em>Аддон [Easy Experience Bar](https://www.curseforge.com/wow/addons/easy-experience-bar)</em>
 </p>
 
 
@@ -132,7 +131,6 @@ image: /assets/img/lv2.jpg
 
 <p align="center">
 <img src="https://i.imgur.com/lv13.jpg"> 
-<em>Аддон [City Guide - Silvermoon](https://www.curseforge.com/wow/addons/city-guide)</em>
 </p>
 
 
