@@ -49,7 +49,7 @@ image: /assets/img/lv100.png
 <p align="center">
   <img src="/assets/img/lv1000.png"><br>
   <span style="font-size: 0.9em; font-style: italic;">
-    <a href="https://i.imgur.com/yh0PqcC.png">
+    <a href="https://i.imgur.com/yh0PqcC.png" target="_blank" rel="noopener noreferrer">
       Уровни предметов Midnight от dburnnzz.
     </a>
   </span>
@@ -97,7 +97,7 @@ image: /assets/img/lv100.png
   <img src="/assets/img/lv5.jpg"><br>
   <span style="font-size: 0.9em; font-style: italic;">
     Аддон
-    <a href="https://www.curseforge.com/wow/addons/easy-experience-bar">
+    <a href="https://www.curseforge.com/wow/addons/easy-experience-bar" target="_blank" rel="noopener noreferrer">
       Easy Experience Bar
     </a>
   </span>
@@ -176,7 +176,7 @@ image: /assets/img/lv100.png
   <img src="/assets/img/lv13.jpg"><br>
   <span style="font-size: 0.9em; font-style: italic;">
     Аддон
-    <a href="https://www.curseforge.com/wow/addons/city-guide">
+    <a href="https://www.curseforge.com/wow/addons/city-guide" target="_blank" rel="noopener noreferrer">
       City Guide - Silvermoon
     </a>
   </span>
@@ -299,7 +299,7 @@ image: /assets/img/lv100.png
   <img src="/assets/img/lv101.jpg"><br>
   <span style="font-size: 0.9em; font-style: italic;">
     Аддон
-    <a href="https://www.curseforge.com/wow/addons/world-quests-list">
+    <a href="https://www.curseforge.com/wow/addons/world-quests-list" target="_blank" rel="noopener noreferrer">
       World Quest List
     </a>
   </span>
@@ -353,7 +353,7 @@ image: /assets/img/lv100.png
   <img src="/assets/img/lv12.jpg"><br>
   <span style="font-size: 0.9em; font-style: italic;">
     Ассортимент торговца предметами за
-    <a href="https://www.wowhead.com/ru/currency=2123">
+    <a href="https://www.wowhead.com/ru/currency=2123" target="_blank" rel="noopener noreferrer">
       Кровавые жетоны
     </a>
   </span>
