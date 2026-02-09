@@ -13,6 +13,9 @@ image: /assets/img/lv100.png
 
 <p align="center">
     <img src="/assets/img/lv100.png"> 
+      <span style="font-size: 0.9em; font-style: italic;">
+    Расписание выхода контента Midnight.
+  </span>
 </p>
 
 
@@ -25,8 +28,8 @@ image: /assets/img/lv100.png
 
 # Основные изменения в Midnight
 
-Игровые системы Midnight, если не брать в расчет изменения интерфейса и высшие таланты, очень похожи на The War Within, но есть несколько важных отличий:
-1. 
+Игровые системы Midnight, если не брать в расчет изменения интерфейса и новые высшие таланты, очень похожи на The War Within, но есть несколько важных отличий:
+1. Новая казуальная геймплейная механика – **охота**, которая немного разнообразит выполнение контента в открытом мире. Является источником добычи уровня обычного рейда и будет актуальным в течение первых нескольких недель дополнения в качестве источника экипировки.
 
 # Кратко и быстро
 
@@ -76,6 +79,9 @@ image: /assets/img/lv100.png
 
 <p align="center">
 <img src="/assets/img/lv5.jpg"> 
+  <span style="font-size: 0.9em; font-style: italic;">
+  Аддон [Easy Experience Bar](https://www.curseforge.com/wow/addons/easy-experience-bar)
+  </span>
 </p>
 
 
