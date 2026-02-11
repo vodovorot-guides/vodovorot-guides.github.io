@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2026-01-22
+last_update: 2026-02-11
 title: Гайд на Рестор Шамана
-wow: 12.0
+wow: 12.0.1
 toc: true
 author: Amani
 description: Большое руководство по всем аспектам игры за Шамана Исцеления. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и многое другое.
@@ -33,10 +33,6 @@ custom-javascript-list:
 
 [Перерождение](https://www.wowhead.com/ru/spell=114052/) и [Тотем целительного прилива](https://www.wowhead.com/ru/spell=108280/) теперь являются взаимозаменяемыми талантами и не получится взять их оба, а [Тотем разразившегося ливня](https://www.wowhead.com/ru/spell=157153/) был удален. 
 
-Переработанное [Перерождение](https://www.wowhead.com/ru/spell=114052/) при этом лучше подходит Предсказателю, а [Тотем целительного прилива](https://www.wowhead.com/ru/spell=108280/) – Тотемисту.
-
-На данный момент [Цепное исцеление](https://ru.wowhead.com/spell=1064) показывает себя крайне слабо, с учетом силы его лечения и стоимости маны, его вообще не рекомендуется использовать, даже в ветке Тотемиста.
-
 В Midnight [изменится и сам паттерн лечения](https://us.forums.blizzard.com/en/wow/t/2175647/1) – бурсты удалили или объединили не только у Шамана, но и у других лекарей, и разработчики обещают меньше моментов с резким нанесением урона.
 
 Подробнее про все изменения можно посмотреть в этом видео:
@@ -50,57 +46,59 @@ custom-javascript-list:
 
 # Билды талантов
 
-В препатче Midnight в рейде и в Мифик+ лучше всего себя показывает **Предсказатель**.
+В препатче Midnight в рейде и в Мифик+ лучше всего себя показывает **Тотемист**.
 
-**Тотемист** проигрывает ему практически во всех ситуациях, кроме простоты использования. **Предсказателю** всё еще нужно выбирать цели для лечения и обновления [Быстрин](https://ru.wowhead.com/spell=61295), тогда как у **Тотемиста** требования к этому сильно ниже, так как большую часть работы тотемы делают автоматически.
-
-Однако учитывая общее упрощение игры на Рестор Шамане, это сложно назвать преимуществом.
 
 ## Таланты для рейда
 
 
-Билд **Предсказателя** для рейда:
+Основной билд **Тотемиста** для рейда:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMjxMzMzwgxCMABzCTgxixYgtxYmmtlZGmxswixMjZYWGAAAYmZAwMDzMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbbLDzMGzMjZYGLAYG0YbAZAbeghxMWGDa2WmZYGzCLmZmxMMLDAAMgZmBzMAMGA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
-
-* Предсказатель является оптимальным выбором для рейда, за счет сочетания талантов [Власть Водоворота](https://www.wowhead.com/ru/spell=443447), [Зов предков](https://www.wowhead.com/ru/spell=443450), [Шепчущие волны](https://www.wowhead.com/ru/spell=1217598/) и [Перерождение](https://www.wowhead.com/ru/spell=114052), которые дают большое количество лечения и стоят не так дорого по мане.
-* Данный билд имеет отличное исцеление отдельных целей, которое можно производить не в ущерб АоЕ отхилу.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Билд **Тотемиста** для рейда:
+Альтернативный билд **Предсказателя** для рейда:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZGzMGzMjZYYBAzgGbDIDYjhxM2GjZa2WmZYGzCLGzMmhZZAAgBMzMYmBgxA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbLbDzMPwYmZmZYGGLwAEMLMBGLmhB2GDa2WmZYGzCLmZmxMMLDAAAMzMAYmhxA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
-
-* Тотемист полагается на использование [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Тотема исцеляющего потока](https://www.wowhead.com/ru/spell=5394/), которые имеют неплохое АоЕ исцеление, но эта ветка тратит гораздо больше маны и не так эффективна в отхиле отдельных целей.
 
 
 ## Таланты для Мифик+
 
 
 
-Билд **Предсказателя** для Мифик+:
+Основной билд **Тотемиста** для Мифик+:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMW2mhZmZmZmxwgxCMABzCTgxCmZwsNzY0stMzwMmFWMmZMYWGAAMAzMDAmZYmB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbbLjZmZGzMDDzAsBGbasNgYgNGGzMbzMoZbZmhZMLsYmZGDmlBAAzAmZgZGAYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
-
-* Билд Предсказателя в Мифик+ направлен на исцеление меньшего количества целей, но он всё еще крайне эффективен когда нужно быстро отреагировать на большое количество получаемого урона отдельными игроками.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+
+
+Альтернативный билд **Предсказателя** для Мифик+:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbLbDzMPwYmZmZYGGLwAEMLMBGLmhB2GDa2WmZYGzCLmZmxMMLDAAAMzMAYmhxA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
 ## Таланты для вылазок
@@ -110,7 +108,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMzMzMzMmxgxCMABzCTgxCmZgtZmZ0stMzgZGsMjZGzwsAAADwMzAgZGGA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMW2mhZmZmZmxMGMWgBIYWYCMWwMDmtZmhmtlZGMzglZMzYGmFAAYAmZGAMzwMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
