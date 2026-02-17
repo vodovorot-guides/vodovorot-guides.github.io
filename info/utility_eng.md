@@ -37,15 +37,15 @@ The main utility abilities in the class talent tree:
 
 # Dungeons
 
-## Algeth'ar Academy Dungeon
+## Algeth'ar Academy
 
-* [Purge](https://www.wowhead.com/spell=370/) - removes [Celestial Shield](https://www.wowhead.com/spell=387955/) on [Ethereal Restorer](https://www.wowhead.com/npc=196203/) (trash before the last boss).
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – **Important!** removes [Lasher Toxin](https://www.wowhead.com/spell=389033) inflicted by [Hungry Lasher](https://www.wowhead.com/npc=197398) on the first boss ([Overgrown Ancient](https://www.wowhead.com/npc=196482))
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Lasher Toxin](https://www.wowhead.com/spell=389033) inflicted by [Hungry Lasher](https://www.wowhead.com/npc=197398) on the first boss ([Overgrown Ancient](https://www.wowhead.com/npc=196482))
 * [Tremor Totem](https://www.wowhead.com/spell=8143) - can be used to remove [Monotonous Lecture](https://www.wowhead.com/spell=388392) inflicted by [Unruly Textbook](https://www.wowhead.com/npc=196044) (trash before [Vexamus](https://www.wowhead.com/npc=194181)). Also, this cast can be interrupted.
 
 ## Magisters' Terrace
 
 * [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Ethereal Shackles](https://www.wowhead.com/spell=1214038) inflicted by the first boss ([Arcanotron Custos](https://www.wowhead.com/npc=231861)).
+* [Purge](https://www.wowhead.com/spell=370/) - removes [Arcane Blade](https://www.wowhead.com/spell=1252909/) on [Sunblade Enforcer](https://www.wowhead.com/npc=234124/).
 * [Purge](https://www.wowhead.com/spell=370/) - **Important!** removes [Hastening Ward](https://www.wowhead.com/spell=1248689/) on the second boss ([Seranel Sunlash](https://www.wowhead.com/npc=231863/)).
 
 ## Maisara Caverns
@@ -54,9 +54,14 @@ The main utility abilities in the class talent tree:
 
 ## Pit of Saron
 
-* ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Cryoshards](https://www.wowhead.com/spell=1261921) inflicted by the first boss ([Forgemaster Garfrost](https://www.wowhead.com/npc=36494)).
-* ? [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) - removes [Cryoshards](https://www.wowhead.com/spell=1261921) inflicted by the first boss ([Forgemaster Garfrost](https://www.wowhead.com/npc=36494)).
-* ? [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Shadowbind](https://www.wowhead.com/spell=1264186) inflicted by the second boss ([Krick](https://www.wowhead.com/npc=36477)).
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Curse of Torment](https://www.wowhead.com/spell=1258434) inflicted by [Quarry Tormentor](https://www.wowhead.com/npc=252561).
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – can be used to remove [Shadowbind](https://www.wowhead.com/spell=1264186) inflicted by the second boss ([Krick](https://www.wowhead.com/npc=36477)). Curse will reaply after a second.
+* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) - removes [Cryoshards](https://www.wowhead.com/spell=1261921) inflicted by the first boss ([Forgemaster Garfrost](https://www.wowhead.com/npc=36494)).
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Cryoshards](https://www.wowhead.com/spell=1261921) inflicted by the first boss ([Forgemaster Garfrost](https://www.wowhead.com/npc=36494)).
+
+## Seat of the Triumvirate
+
+* [Purge](https://www.wowhead.com/spell=370/) - removes [Abyssal Enhancement](https://www.wowhead.com/spell=1252909/) on [Dire Voidbender](https://www.wowhead.com/npc=122404/).
 
 ## Windrunner Spire
 
