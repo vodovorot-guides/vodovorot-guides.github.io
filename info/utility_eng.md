@@ -13,15 +13,15 @@ description: In this article, you will learn which utility abilities to choose f
 
 The main utility abilities in the class talent tree:
 
-* [Thunderous Paws](https://www.wowhead.com/spell=378075) – situational talent to remove slow effects in certain dungeons. The alternative of [Spirit Wolf](https://www.wowhead.com/spell=260878).
-* [Spirit Wolf](https://www.wowhead.com/spell=260878) – used in high keys to reduce unavoidable damage. The alternative of [Thunderous Paws](https://www.wowhead.com/spell=378075).
+* [Thunderous Paws](https://www.wowhead.com/spell=378075) – situational talent to remove slow effects in certain dungeons. Choice node with [Spirit Wolf](https://www.wowhead.com/spell=260878).
+* [Spirit Wolf](https://www.wowhead.com/spell=260878) – used in high keys to reduce unavoidable damage. Choice node with [Thunderous Paws](https://www.wowhead.com/spell=378075).
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – useful ability in certain dungeons.
 * [Purge](https://www.wowhead.com/spell=370/) – useful ability in certain dungeons.
 * [Hex](https://www.wowhead.com/spell=51514) – very rarely used in dungeons.
 * [Wind Rush Totem](https://www.wowhead.com/spell=192077) – situational talent, allows you to save time between packs.
 * [Capacitor Totem](https://www.wowhead.com/spell=192058) – an AoE stun, a very useful talent in all dungeons.
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – useful ability in certain dungeons. The alternative of [Tremor Totem](https://www.wowhead.com/spell=8143).
-* [Tremor Totem](https://www.wowhead.com/spell=8143) – situational talent, as almost all fear, mind control, and sleep effects in dungeons can be avoided by interrupting casts or leaving the affected area. The alternative of [Poison Cleansing Totem](https://www.wowhead.com/spell=383013).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – useful ability in certain dungeons. Choice node with [Tremor Totem](https://www.wowhead.com/spell=8143).
+* [Tremor Totem](https://www.wowhead.com/spell=8143) – situational talent, as almost all fear, mind control, and sleep effects in dungeons can be avoided by interrupting casts or leaving the affected area. Choice node with [Poison Cleansing Totem](https://www.wowhead.com/spell=383013).
 * [Earthgrab Totem](https://www.wowhead.com/spell=51485) – an upgrade to [Earthbind Totem](https://www.wowhead.com/spell=2484) that roots targets the first time they are affected by the totem.
 
 # Affixes
