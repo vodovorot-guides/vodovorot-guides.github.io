@@ -195,7 +195,7 @@ custom-javascript-list:
 1. [Хранитель бурь](https://ru.wowhead.com/spell=191634) по кулдауну.
 2. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861) по кулдауну.
 3. [Перерождение](https://www.wowhead.com/ru/spell=114050/) по кулдауну, но обязательно после активации [Хранителя бурь](https://ru.wowhead.com/spell=191634).
-3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), если у вас **2** заряда этой способности.
+3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), если у вас **2** заряда этой способности, чтобы не потерять новый заряд.
 4. {:.no-mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если хватает энергии Водоворота.
 4. {:.no-mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если хватает энергии Водоворота.
 4. {:.mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если выполняется любое из условий:
