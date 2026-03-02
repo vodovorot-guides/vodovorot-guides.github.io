@@ -1,15 +1,17 @@
 ---
 layout: page
-last_update: 2026-02-27
-title: Utility abilities for Mythic+ dungeons
+last_update: 2026-03-02
+title: Utility Abilities for Mythic+ Dungeons
 wow: 12.0.1
 toc: true
 author: Nikyou
 description: In this article, you will learn which utility abilities to choose and where to use them in Mythic+ dungeons.
 ---
 
+An addon, that shows which utility abilities you should take and where to use them in Mythic+ dungeon – [Mythic Plus Utility](https://www.curseforge.com/wow/addons/mythic-plus-utility-mpu).
+{: class="bordered"}
 
-# Talents
+# Utility Abilities
 
 The main utility abilities available to shaman:
 * [Spirit Wolf](https://www.wowhead.com/spell=260878) – damage reduction while in [Ghost Wolf](https://www.wowhead.com/spell=2645), used in high keys to reduce unavoidable damage. Choice node with [Thunderous Paws](https://www.wowhead.com/spell=378075).
