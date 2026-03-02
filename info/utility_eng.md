@@ -59,6 +59,7 @@ The main utility abilities available to shaman:
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Power Word: Shield](https://www.wowhead.com/spell=1254306/) cast by [Lightward Healer](https://www.wowhead.com/npc=234486/).
 * [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Entropy Orb](https://www.wowhead.com/spell=1269631) by contact with orbs on the last boss ([Degentrius](https://www.wowhead.com/npc=231865)).
 * [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Ethereal Shackles](https://www.wowhead.com/spell=1214038) inflicted by the first boss ([Arcanotron Custos](https://www.wowhead.com/npc=231861)).
+* [Tremor Totem](https://www.wowhead.com/spell=8143) - removes [Terror Wave](https://www.wowhead.com/spell=1264693) inflicted by [Void Terror](https://www.wowhead.com/npc=231552) (trash before [Vexamus](https://www.wowhead.com/npc=231864)). Also, this cast can be interrupted and LoS.
 
 ## Maisara Caverns
 
