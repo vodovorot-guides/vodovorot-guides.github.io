@@ -1,15 +1,17 @@
 ---
 layout: page
-last_update: 2026-02-27
-title: Utility abilities for Mythic+ dungeons
+last_update: 2026-03-02
+title: Utility Abilities for Mythic+ Dungeons
 wow: 12.0.1
 toc: true
 author: Nikyou
 description: In this article, you will learn which utility abilities to choose and where to use them in Mythic+ dungeons.
 ---
 
+An addon, that shows which utility abilities you should take and where to use them in Mythic+ dungeon – [Mythic Plus Utility](https://www.curseforge.com/wow/addons/mythic-plus-utility-mpu).
+{: class="bordered"}
 
-# Talents
+# Utility Abilities
 
 The main utility abilities available to shaman:
 * [Spirit Wolf](https://www.wowhead.com/spell=260878) – damage reduction while in [Ghost Wolf](https://www.wowhead.com/spell=2645), used in high keys to reduce unavoidable damage. Choice node with [Thunderous Paws](https://www.wowhead.com/spell=378075).
@@ -59,6 +61,7 @@ The main utility abilities available to shaman:
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Power Word: Shield](https://www.wowhead.com/spell=1254306/) cast by [Lightward Healer](https://www.wowhead.com/npc=234486/).
 * [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Entropy Orb](https://www.wowhead.com/spell=1269631) by contact with orbs on the last boss ([Degentrius](https://www.wowhead.com/npc=231865)).
 * [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Ethereal Shackles](https://www.wowhead.com/spell=1214038) inflicted by the first boss ([Arcanotron Custos](https://www.wowhead.com/npc=231861)).
+* [Tremor Totem](https://www.wowhead.com/spell=8143) - removes [Terror Wave](https://www.wowhead.com/spell=1264693) inflicted by [Void Terror](https://www.wowhead.com/npc=231552) (trash before [Gemellus](https://www.wowhead.com/npc=231864)). Also, this cast can be interrupted and LoS.
 
 ## Maisara Caverns
 
