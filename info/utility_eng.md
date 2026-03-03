@@ -79,6 +79,7 @@ The main utility abilities available to shaman:
 * [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) - removes [Supression Field](https://www.wowhead.com/spell=249081) inflicted by [Flux Engineer](https://www.wowhead.com/npc=241647).
 * [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Supression Field](https://www.wowhead.com/spell=249081) inflicted by [Flux Engineer](https://www.wowhead.com/npc=241647).
 * ? [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Creeping Void](https://www.wowhead.com/spell=1281636) inflicted by [Cursed Voidcaller](https://www.wowhead.com/npc=248706).
+* ? [Tremor Totem](https://www.wowhead.com/spell=8143) - removes [Dusk Frights](https://www.wowhead.com/spell=1282724) inflicted by [Grand Nullifier](https://www.wowhead.com/npc=251853). Also, this debuff can be avoided.
 
 ## Pit of Saron
 
@@ -111,6 +112,7 @@ The main utility abilities available to shaman:
 * **!** [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Curse of Darkness](https://www.wowhead.com/spell=474105) inflicted by the second boss ([Kalis](https://www.wowhead.com/npc=231626)).
 * [Purge](https://www.wowhead.com/spell=370/) - removes [Bolstering Flames](https://www.wowhead.com/spell=1216860) on [Territorial Dragonhawk](https://www.wowhead.com/npc=236891).
 * ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Poison Spray](https://www.wowhead.com/spell=1216822) inflicted by [Creeping Spindleweb](https://www.wowhead.com/npc=232067).
+* ? [Tremor Totem](https://www.wowhead.com/spell=8143) - removes [Intimidating Shout](https://www.wowhead.com/spell=1253030) inflicted by the third boss [Commander Kroluk](https://www.wowhead.com/npc=231631). Also, this debuff can be avoided.
 
 
 <p></p>
