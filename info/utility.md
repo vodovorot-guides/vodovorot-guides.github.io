@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-03-02
+last_update: 2026-03-03
 title: Вспомогательные способности для Мифик+ подземелий
 wow: 12.0.1
 toc: true
