@@ -103,7 +103,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzML2GMjZAAAAAALmxwGsAzohGbAwsMzMjx2ipNmZMWmZmZMsYxYxMzYmFAgZMwMDMMMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAALmxwGsAzohGbAwsMzMjx2ipNmZMWmZmZMsYxYxMzYmFAgZMwMDMMMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -197,31 +197,18 @@ custom-javascript-list:
 2. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861) по кулдауну.
 3. [Перерождение](https://www.wowhead.com/ru/spell=114050/) по кулдауну.
   * Если до кулдауна [Хранителя бурь](https://ru.wowhead.com/spell=191634) осталось менее **15** секунд, стоит придержать [Перерождение](https://www.wowhead.com/ru/spell=114050/) под него.
-6. {:.no-vb-apl .tempest-apl .mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если дебафф не активен на цели.
-6. {:.vb-apl .tempest-apl .mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если дебафф [Огненного шока](https://ru.wowhead.com/spell=188389) не активен на цели.
-5. {:.mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и одно из следующих заклинаний будет следующим:
-  * [Буря](https://ru.wowhead.com/spell=454009).
-  * [Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634).
-  * {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
-7. {:.tempest-apl .mote-apl}[Буря](https://ru.wowhead.com/spell=454009) для поглощения баффа от [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-7. {:.tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634) для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-4. {:.tempest-apl .mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-4. {:.tempest-apl .mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042) для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-6. {:.no-vb-apl .tempest-apl .mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и выполняется любое из условий:
-  * До спадения осталось менее **5.4** секунд.
+6. {:.no-vb-apl .tempest-apl .mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если нет баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/) и выполняется любое из условий:
+  * До спадения осталось менее **5.4** секунд и за это время не будет [Перерождения](https://www.wowhead.com/ru/spell=114050/).
   * До исчезновения [Элементаля огня](https://www.wowhead.com/ru/spell=378255) осталось менее **2** секунд.
-6. {:.vb-apl .tempest-apl .mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и выполняется любое из условий:
-  * До спадения осталось менее **5.4** секунд.
+6. {:.vb-apl .tempest-apl .mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если нет баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/) и выполняется любое из условий:
+  * До спадения осталось менее **5.4** секунд и за это время не будет [Перерождения](https://www.wowhead.com/ru/spell=114050/).
   * До исчезновения [Элементаля огня](https://www.wowhead.com/ru/spell=378255) осталось менее **2** секунд.
-6. {:.no-vb-apl .tempest-apl .no-mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
-6. {:.vb-apl .tempest-apl .no-mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если до спадения осталось менее **5.4** секунд.
-5. {:.mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если выполняется **любое** из условий:
- * Нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
- * Есть бафф [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
- 4. {:.no-mote-apl .tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если хватает энергии Водоворота.
+5. {:.mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если нет баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 5. {:.no-mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если есть бафф [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
   * Без взятого таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/), [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется только по проку [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
-4. {:.mote-apl .tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если хватает энергии Водоворота.
+7. {:.tempest-apl .mote-apl}[Буря](https://ru.wowhead.com/spell=454009) для поглощения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
+7. {:.tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634) для поглощения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
+4. {:.tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если хватает энергии Водоворота.
 4. {:.tempest-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если хватает энергии Водоворота.
 7. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) / [Молния](https://ru.wowhead.com/spell=188196), если другие способности недоступны.
 4. {:.no-tempest-apl .no-mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если хватает энергии Водоворота.
