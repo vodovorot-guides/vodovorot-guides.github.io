@@ -199,20 +199,20 @@ custom-javascript-list:
   * Если до кулдауна [Хранителя бурь](https://ru.wowhead.com/spell=191634) осталось менее **15** секунд, стоит придержать [Перерождение](https://www.wowhead.com/ru/spell=114050/) под него.
 6. {:.no-vb-apl .tempest-apl .mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если дебафф не активен на цели.
 6. {:.vb-apl .tempest-apl .mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если дебафф [Огненного шока](https://ru.wowhead.com/spell=188389) не активен на цели.
-5. {:.mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если нет баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и одно из следующих заклинаний будет следующим:
+5. {:.mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и одно из следующих заклинаний будет следующим:
   * [Буря](https://ru.wowhead.com/spell=454009).
   * [Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634).
   * {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014).
-7. {:.tempest-apl .mote-apl}[Буря](https://ru.wowhead.com/spell=454009) для поглощения баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-7. {:.tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634) для поглощения баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-4. {:.tempest-apl .mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для поглощения баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-4. {:.tempest-apl .mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042) для поглощения баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-6. {:.no-vb-apl .tempest-apl .mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если нет баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и до спадения осталось менее **5.4** секунд.
-6. {:.vb-apl .tempest-apl .mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если нет баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и до спадения [Огненного шока](https://ru.wowhead.com/spell=188389) осталось менее **5.4** секунд.
+7. {:.tempest-apl .mote-apl}[Буря](https://ru.wowhead.com/spell=454009) для поглощения баффа от [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+7. {:.tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634) для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+4. {:.tempest-apl .mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+4. {:.tempest-apl .mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042) для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+6. {:.no-vb-apl .tempest-apl .mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и до спадения осталось менее **5.4** секунд.
+6. {:.vb-apl .tempest-apl .mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и до спадения [Огненного шока](https://ru.wowhead.com/spell=188389) осталось менее **5.4** секунд.
 6. {:.no-vb-apl .tempest-apl .no-mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
 6. {:.vb-apl .tempest-apl .no-mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если до спадения осталось менее **5.4** секунд.
 5. {:.mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если выполняется любое из условий:
- * Нет баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+ * Нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
  * Есть бафф [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
  4. {:.no-mote-apl .tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если хватает энергии Водоворота.
 5. {:.no-mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если есть бафф [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
@@ -224,13 +224,13 @@ custom-javascript-list:
 4. {:.no-tempest-apl .no-mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если хватает энергии Водоворота.
 4. {:.no-tempest-apl .mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если выполняется любое из условий:
   * Следующее заклинание приведет к оверкапу энергии Водоворота.
-  * У вас есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+  * У вас есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 4. {:.no-tempest-apl .mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если выполняется любое из условий:
   * Следующее заклинание приведет к оверкапу энергии Водоворота.
-  * У вас есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+  * У вас есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 5. {:.no-mote-apl .no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
-5. {:.mote-apl .no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если нет баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-7. {:.no-tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196), для поглощения баффа от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+5. {:.mote-apl .no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+7. {:.no-tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196), для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 6. {:.no-vb-apl .no-tempesst-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
 6. {:.vb-apl .no-tempesst-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если до спадения [Огненного шока](https://ru.wowhead.com/spell=188389) осталось менее **5.4** секунд.
 7. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196), если другие способности недоступны.
@@ -268,19 +268,19 @@ custom-javascript-list:
 4. {:.no-mote-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота.
 4. {:.mote-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если выполняется любое из условий:
   * Следующее заклинание приведет к оверкапу энергии Водоворота.
-  * У вас есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+  * У вас есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 4. {:.no-mote-apl .eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **4+** целей и если хватает энергии Водоворота.
 4. {:.mote-apl .eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **4+** целей и выполняется любое из условий:
   * Следующее заклинание приведет к оверкапу энергии Водоворота.
-  * У вас есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+  * У вас есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 4. {:.no-mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **1-3** целей и если хватает энергии Водоворота.
 4. {:.mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **1-3** целей и выполняется любое из условий:
   * Следующее заклинание приведет к оверкапу энергии Водоворота.
-  * У вас есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-6. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф от таланта [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
+  * У вас есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+6. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
   * Старайтесь дожидаться также прока [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
-7. {:.mote-apl .tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), если есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-7. {:.mote-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если есть бафф от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+7. {:.mote-apl .tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), если есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
+7. {:.mote-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 6. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
 6. {:.vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) для поддержания на целях [Огненного шока](https://ru.wowhead.com/spell=188389).
 7. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если другие способности недоступны.
