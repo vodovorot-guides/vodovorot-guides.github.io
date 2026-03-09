@@ -207,8 +207,12 @@ custom-javascript-list:
 7. {:.tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634) для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 4. {:.tempest-apl .mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 4. {:.tempest-apl .mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042) для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-6. {:.no-vb-apl .tempest-apl .mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и до спадения осталось менее **5.4** секунд.
-6. {:.vb-apl .tempest-apl .mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и до спадения [Огненного шока](https://ru.wowhead.com/spell=188389) осталось менее **5.4** секунд.
+6. {:.no-vb-apl .tempest-apl .mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и выполняется любое из условий:
+  * До спадения осталось менее **5.4** секунд.
+  * До исчезновения [Элементаля огня](https://www.wowhead.com/ru/spell=378255) осталось менее **2** секунд.
+6. {:.vb-apl .tempest-apl .mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) и выполняется любое из условий:
+  * До спадения осталось менее **5.4** секунд.
+  * До исчезновения [Элементаля огня](https://www.wowhead.com/ru/spell=378255) осталось менее **2** секунд.
 6. {:.no-vb-apl .tempest-apl .no-mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
 6. {:.vb-apl .tempest-apl .no-mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если до спадения осталось менее **5.4** секунд.
 5. {:.mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если выполняется **любое** из условий:
