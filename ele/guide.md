@@ -177,12 +177,9 @@ custom-javascript-list:
 
 **Опенер в бою против одной цели:**
 
-1. {:.tempest-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунды до пула.
-1. {:.no-tempest-apl}[Хранитель бурь](https://ru.wowhead.com/spell=191634) за **3** секунды до пула.
-2. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) за **1.5** секунд до пула.
+1. [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунды до пула.
 3. {:.tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Природной стремительностью](https://www.wowhead.com/ru/spell=378081).
-3. {:.no-tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и зельем.
-4. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861).
+3. {:.no-tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Стремительностью предков](https://ru.wowhead.com/spell=448861).
 2. {:.tempest-apl .mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
 4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
@@ -216,9 +213,12 @@ custom-javascript-list:
   * Без взятого таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/), [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется только по проку [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
 7. {:.tempest-apl .mote-apl}[Буря](https://ru.wowhead.com/spell=454009) для поглощения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 7. {:.tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634) для поглощения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
+7. {:.tempest-apl .no-mote-apl}[Буря](https://ru.wowhead.com/spell=454009).
+7. {:.tempest-apl .no-mote-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 4. {:.tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если хватает энергии Водоворота.
 4. {:.tempest-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если хватает энергии Водоворота.
-7. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) / [Молния](https://ru.wowhead.com/spell=188196), если другие способности недоступны.
+7. {:.tempest-apl .no-mote-apl}[Молния](https://ru.wowhead.com/spell=188196), если другие способности недоступны.
+7. {:.tempest-apl .mote-apl}[Буря](https://ru.wowhead.com/spell=454009) / [Молния](https://ru.wowhead.com/spell=188196), если другие способности недоступны.
 4. {:.no-tempest-apl .no-mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если хватает энергии Водоворота.
 4. {:.no-tempest-apl .no-mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если хватает энергии Водоворота.
 4. {:.no-tempest-apl .mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если выполняется **любое** из условий:
@@ -312,8 +312,6 @@ custom-javascript-list:
 
 * При касте [Бури](https://ru.wowhead.com/spell=454009) на АоЕ, старайтесь выбирать цель без дебаффа от [Грозового разрядника](https://www.wowhead.com/ru/spell=210689). При этом со взятым талантом [Грозовой разрядник](https://www.wowhead.com/ru/spell=210689), [Землетрясение](https://ru.wowhead.com/spell=61882) раскидывает его автоматически на соседние цели без этого дебаффа.
 
-* [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) с талантом [Потрескивающая ярость](https://www.wowhead.com/ru/spell=1269215) очень хорошо себя показывает на АоЕ. Под каждый каст [Гальванического пламени](https://www.wowhead.com/ru/spell=470057/) будет откатываться мгновенный [Выброс лавы](https://ru.wowhead.com/spell=51505) за счет прока [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
-
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
@@ -368,7 +366,16 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Приоритет статов для Вестника шторма и Предсказателя:
+Приоритет статов для Вестника шторма
+
+
+1. **Интеллект**.
+1. **Искусность** до **1200** рейтинга.
+2. **Критический удар**.
+3. **Скорость**.
+3. **Универсальность**.
+
+Приоритет статов для Предсказателя:
 
 1. **Интеллект**.
 1. **Искусность** до **1200** рейтинга.
@@ -495,8 +502,8 @@ custom-javascript-list:
 {: class="bordered"}
 
 Лучшие активные аксессуары:
-* [Перо Алозар](https://www.wowhead.com/ru/item=250144/) – отличный вариант под двухминутное [Перерождение](https://www.wowhead.com/beta/spell=114050). Негативный эффект крайне слаб и в целом его можно игнорировать.
-* [Последний взор Ваэлгора](https://www.wowhead.com/ru/item=249346/) – идеально под трехминутное [Перерождение](https://www.wowhead.com/beta/spell=114050). В случае использования этого аксессуара, можно снизить количество Искусности на экипировке.
+* [Перо Алозар](https://www.wowhead.com/ru/item=250144/) – единственный аксессуар в сезоне с двухминутным кулдауном. Лучший выбор для Элем Шамана.
+* [Последний взор Ваэлгора](https://www.wowhead.com/ru/item=249346/) – в случае использования этого аксессуара, можно снизить количество Искусности на экипировке.
 
 Лучшие пассивные аксессуары:
 * [Взор ясновидца Альн](https://www.wowhead.com/ru/item=249343/) – пассивная Искусность, отличный прок и аптайм. Лучший пассивный тринкет для Элем Шамана.
@@ -520,7 +527,7 @@ custom-javascript-list:
 1. Оружие. 
 2. Лучшие аксессуары. 
 3. Сетовые предметы. 
-4. Предметы с лучшими характеристиками. 
+4. Предметы с наибольшим бюджетом характеристик.
 
 # Расходуемые предметы
 
