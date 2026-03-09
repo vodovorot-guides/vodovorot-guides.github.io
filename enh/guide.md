@@ -67,18 +67,6 @@ custom-javascript-list:
 Текущие актуальные билды на каждого босса в рейде можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/enhancement/shaman/mythic-plus/overview/10/all-dungeons/this-week).
 
 
-## Таланты для Вылазок и прокачки
-
-Билд **Тотемиста** для вылазок и прокачки:
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzYGzAAAAAAAAAALwGMjFN2GAzEsBwsMjZMWWmBmZMWMzMzDYswMAAGYMmZaMzAAjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
-
-<p></p>
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
 
 
 ## Таланты для Рейда
@@ -155,6 +143,18 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+
+## Таланты для Вылазок
+
+Билд **Тотемиста** для вылазок:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzYGzAAAAAAAAAALwGMjFN2GAzEsBwsMjZMWWmBmZMWMzMzDYswMAAGYMmZaMzAAjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
 
