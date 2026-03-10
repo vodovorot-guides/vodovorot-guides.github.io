@@ -140,10 +140,9 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_ele_raid_storm" class="btn btn-primary rotation-btn">Рейд (Вестник шторма)</button>
-    <button type="button" id="build_ele_raid_fs" class="btn btn-primary rotation-btn">Рейд (Предсказатель)</button>
-    <button type="button" id="build_ele_mplus" class="btn btn-primary rotation-btn">Мифик+ (Вестник Шторма)</button>
-    <button type="button" id="build_ele_delve" class="btn btn-primary rotation-btn">Вылазки (Предсказатель)</button>
+    <button type="button" id="build_ele_raid_storm" class="btn btn-primary rotation-btn">Вестник шторма – Рейд</button>
+    <button type="button" id="build_ele_mplus" class="btn btn-primary rotation-btn">Вестник Шторма – Мифик+</button>
+    <button type="button" id="build_ele_raid_fs" class="btn btn-primary rotation-btn">Предсказатель – Рейд</button>
   </div>
 </div>
 
