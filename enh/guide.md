@@ -1,10 +1,10 @@
 ---
 layout: page
-last_update: 2026-02-25
+last_update: 2026-03-14
 title: Гайд на Энх Шамана
 wow: 12.0.1
 toc: true
-author: Amani
+author: Amani, Wordup
 description: Большое руководство по всем аспектам игры за Шамана Совершенствования. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и многое другое.
 image: /assets/img/enh_tb2.png
 custom-javascript-list:
