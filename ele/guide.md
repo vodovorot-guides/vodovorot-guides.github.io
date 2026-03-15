@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-03-09
+last_update: 2026-03-15
 title: Гайд на Элем Шамана
 wow: 12.0.1
 toc: true
@@ -163,7 +163,7 @@ custom-javascript-list:
 <center>Количество целей:</center>
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class = "btn-group btn-group-sm">
-    <button type="button" id="target_1" class="btn btn-primary px-3 rotation-btn active">Одна цель</button>
+    <button type="button" id="target_1" class="btn btn-primary px-3 rotation-btn active">Одна-две цели</button>
     <button type="button" id="target_2" class="btn btn-primary px-3 rotation-btn">АоЕ / 3+ цели</button>
   </div>
 </div>
@@ -173,7 +173,7 @@ custom-javascript-list:
 
 <div id="st" markdown="1">
 
-**Опенер в бою против одной цели:**
+**Опенер в бою против 1-2 целей:**
 
 1. [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунды до пула.
 3. {:.tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Природной стремительностью](https://www.wowhead.com/ru/spell=378081).
@@ -230,7 +230,8 @@ custom-javascript-list:
 7. {:.no-tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196), для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 6. {:.no-vb-apl .no-tempesst-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
 6. {:.vb-apl .no-tempesst-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если до спадения [Огненного шока](https://ru.wowhead.com/spell=188389) осталось менее **5.4** секунд.
-7. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196), если другие способности недоступны.
+7. {:.no-tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) в бою против двух целей, если другие способности недоступны.
+7. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) в бою против одной цели, если другие способности недоступны.
 8. {:.no-tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 8. {:.tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Природная стремительность](https://www.wowhead.com/ru/spell=378081) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 
@@ -256,30 +257,24 @@ custom-javascript-list:
 
 **Приоритет в бою против 3+ целей:**
 
-
-
 1. [Хранитель бурь](https://ru.wowhead.com/spell=191634) по кулдауну.
-2. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861) по кулдауну.
-3. [Перерождение](https://www.wowhead.com/ru/spell=114050/) по кулдауну, но обязательно после активации [Хранителя бурь](https://ru.wowhead.com/spell=191634).
-3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), если у вас **2** заряда этой способности, чтобы не потерять новый заряд.
-4. {:.no-mote-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота.
-4. {:.mote-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если выполняется **любое** из условий:
-  * Следующее заклинание приведет к оверкапу энергии Водоворота.
-  * У вас есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-4. {:.no-mote-apl .eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **4+** целей и если хватает энергии Водоворота.
-4. {:.mote-apl .eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **4+** целей и выполняется **любое** из условий:
-  * Следующее заклинание приведет к оверкапу энергии Водоворота.
-  * У вас есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-4. {:.no-mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **1-3** целей и если хватает энергии Водоворота.
-4. {:.mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **1-3** целей и выполняется **любое** из условий:
-  * Следующее заклинание приведет к оверкапу энергии Водоворота.
-  * У вас есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-6. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
-  * Старайтесь дожидаться также прока [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
-7. {:.mote-apl .tempest-apl}[Буря](https://ru.wowhead.com/spell=454009), если есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-7. {:.mote-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-6. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
-6. {:.vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) для поддержания на целях [Огненного шока](https://ru.wowhead.com/spell=188389).
+1. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861) по кулдауну.
+1. [Перерождение](https://www.wowhead.com/ru/spell=114050/) по кулдауну, но обязательно после активации [Хранителя бурь](https://ru.wowhead.com/spell=191634).
+2. {:.mote-apl .no-vb-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на основной цели нет этого дебаффа.
+2. {:.mote-apl .vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если на основной цели нет дебаффа от [Огненного шока](https://ru.wowhead.com/spell=188389).
+2. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
+3. {:.eb-apl .tempest-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас менее **2** зарядов [Бури](https://ru.wowhead.com/spell=454009) и в бою не более **3** целей.
+3. {:.tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если у вас менее **2** зарядов [Бури](https://ru.wowhead.com/spell=454009) и если есть цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
+4. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
+  * Старайтесь дожидаться прока [Волны лавы](https://www.wowhead.com/ru/spell=77756/), если новое [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) еще не доступно.
+5. {:.mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756/), если есть заряд [Бури](https://ru.wowhead.com/spell=454009) и в бою не более **3** целей.
+5. {:.mote-apl .tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) с баффом [Властелин стихий](https://www.wowhead.com/ru/spell=16166/), если в бою не более **3** целей.
+6. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности и не более **3** зарядов [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
+7. [Цепная молния](https://www.wowhead.com/ru/spell=188443) с баффом [Хранителя бурь](https://www.wowhead.com/ru/spell=191634), если это не приведет к оверкапу энергии Водоворота.
+8. {:.no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если следующее заклинание приведет к оверкапу энергии Водоворота.
+8. {:.eb-apl .no-tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если следующее заклинание приведет к оверкапу энергии Водоворота.
+8. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в приоритетную цель, если на всех целях есть дебафф [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
+7. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
 7. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если другие способности недоступны.
 8. {:.no-tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 8. {:.tempest-apl}Во время передвижения можно использовать следующие способности:
@@ -288,6 +283,7 @@ custom-javascript-list:
   * [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/)
   * [Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756/)
   * [Ледяной шок](https://ru.wowhead.com/spell=196840)
+
 
 
 
