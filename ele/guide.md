@@ -261,8 +261,8 @@ custom-javascript-list:
 1. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861) по кулдауну.
 1. [Перерождение](https://www.wowhead.com/ru/spell=114050/) по кулдауну, но обязательно после активации [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 2. {:.mote-apl .no-vb-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на основной цели нет этого дебаффа.
-2. {:.mote-apl .vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если на основной цели нет дебаффа от [Огненного шока](https://ru.wowhead.com/spell=188389).
 2. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
+2. {:.vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) для поддержания на целях [Огненного шока](https://ru.wowhead.com/spell=188389).
 3. {:.eb-apl .tempest-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас менее **2** зарядов [Бури](https://ru.wowhead.com/spell=454009) и в бою не более **3** целей.
 3. {:.tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если у вас менее **2** зарядов [Бури](https://ru.wowhead.com/spell=454009) и если есть цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
 4. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
