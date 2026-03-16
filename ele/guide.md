@@ -163,9 +163,9 @@ custom-javascript-list:
 <center>Количество целей:</center>
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class = "btn-group btn-group-sm">
-    <button type="button" id="target_1" class="btn btn-primary px-3 rotation-btn active">Одна-две цели</button>
-    <button type="button" id="target_3" class="btn btn-primary px-3 rotation-btn">Три цели</button>    
-    <button type="button" id="target_aoe" class="btn btn-primary px-3 rotation-btn">АоЕ / 3+ цели</button>
+    <button type="button" id="target_1" class="btn btn-primary px-3 rotation-btn active">1-2 цели</button>
+    <button type="button" id="target_3" class="btn btn-primary px-3 rotation-btn">3 цели</button>    
+    <button type="button" id="target_aoe" class="btn btn-primary px-3 rotation-btn">4+ цели</button>
   </div>
 </div>
 
