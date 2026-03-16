@@ -164,7 +164,8 @@ custom-javascript-list:
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class = "btn-group btn-group-sm">
     <button type="button" id="target_1" class="btn btn-primary px-3 rotation-btn active">Одна-две цели</button>
-    <button type="button" id="target_2" class="btn btn-primary px-3 rotation-btn">АоЕ / 3+ цели</button>
+    <button type="button" id="target_3" class="btn btn-primary px-3 rotation-btn">Три цели</button>    
+    <button type="button" id="target_aoe" class="btn btn-primary px-3 rotation-btn">АоЕ / 3+ цели</button>
   </div>
 </div>
 
@@ -237,6 +238,18 @@ custom-javascript-list:
 
 
 </div>
+
+
+
+<div id="3t" markdown="1">
+
+
+
+
+</div>
+
+
+
 
 <div id="aoe" markdown="1" style="display:none;">
 

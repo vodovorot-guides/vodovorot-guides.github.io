@@ -174,12 +174,23 @@ $("button[id^='target_']").on('click', function() {
 
     if (this.id == "target_1") {
         $("div#st").show();
+        $("div#3t").hide();
         $("div#aoe").hide();
-    } else {
+    } 
+    
+        if (this.id == "target_3") {
         $("div#st").hide();
+        $("div#3t").show();
+        $("div#aoe").hide();
+    } 
+
+        if (this.id == "target_aoe") {
+        $("div#st").hide();
+        $("div#3t").hide();
         $("div#aoe").show();
-        process_target_button();
-    }
+    } 
+    
+
 });
 
 function process_target_button() {
