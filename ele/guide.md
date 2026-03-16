@@ -248,7 +248,8 @@ custom-javascript-list:
 1. [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунд до пула.
 4. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861).
 6. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/)
-3. {:.no-tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Стремительностью предков](https://ru.wowhead.com/spell=448861).
+3. {:.tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Природной стремительностью](https://www.wowhead.com/ru/spell=378081).
+3. {:.no-tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и зельем.
 6. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
 7. Продолжайте согласно приоритету заклинаний, указанному ниже.
@@ -299,7 +300,8 @@ custom-javascript-list:
 1. [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунд до пула.
 4. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861).
 6. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/)
-3. {:.no-tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Стремительностью предков](https://ru.wowhead.com/spell=448861).
+3. {:.tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Природной стремительностью](https://www.wowhead.com/ru/spell=378081).
+3. {:.no-tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и зельем.
 6. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
 7. Продолжайте согласно приоритету заклинаний, указанному ниже.
