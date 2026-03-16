@@ -147,7 +147,7 @@ custom-javascript-list:
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class = "btn-group btn-group-sm">
     <button type="button" id="target_1" class="btn btn-primary px-3 rotation-btn active">Лечение</button>
-    <button type="button" id="target_2" class="btn btn-primary px-3 rotation-btn">Нанесение урона</button>
+    <button type="button" id="target_aoe" class="btn btn-primary px-3 rotation-btn">Нанесение урона</button>
   </div>
 </div>
 
