@@ -263,19 +263,19 @@ custom-javascript-list:
 2. {:.mote-apl .no-vb-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на основной цели нет этого дебаффа.
 2. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
 2. {:.vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) для поддержания на целях [Огненного шока](https://ru.wowhead.com/spell=188389).
-3. {:.eb-apl .tempest-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас менее **2** зарядов [Бури](https://ru.wowhead.com/spell=454009) и в бою не более **3** целей.
-3. {:.tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если у вас менее **2** зарядов [Бури](https://ru.wowhead.com/spell=454009) и если есть цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
+3. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности и меньше **4** зарядов [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
+3. {:.eb-apl .tempest-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если в бою не более **3** целей.
+3. {:.tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если есть цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
 4. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
   * Старайтесь дожидаться прока [Волны лавы](https://www.wowhead.com/ru/spell=77756/), если новое [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) еще не доступно.
 5. {:.mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756/), если есть заряд [Бури](https://ru.wowhead.com/spell=454009) и в бою не более **3** целей.
 5. {:.mote-apl .tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) с баффом [Властелин стихий](https://www.wowhead.com/ru/spell=16166/), если в бою не более **3** целей.
-6. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности и не более **3** зарядов [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
 7. [Цепная молния](https://www.wowhead.com/ru/spell=188443) с баффом [Хранителя бурь](https://www.wowhead.com/ru/spell=191634), если это не приведет к оверкапу энергии Водоворота.
 8. {:.no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если следующее заклинание приведет к оверкапу энергии Водоворота.
 8. {:.eb-apl .no-tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если следующее заклинание приведет к оверкапу энергии Водоворота.
 8. {:.eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в приоритетную цель, если на всех целях есть дебафф [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
-7. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
-7. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если другие способности недоступны.
+9. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
+9. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если другие способности недоступны.
 8. {:.no-tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 8. {:.tempest-apl}Во время передвижения можно использовать следующие способности:
   * [Благосклонность предков](https://ru.wowhead.com/spell=79206)
@@ -299,6 +299,13 @@ custom-javascript-list:
 * В Midnight мы лишились нескольких мгновенных кастов, которые позволяли не терять урон во время движения. Для компенсации этих изменений, рекомендуется использовать [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) под перебежки, а если оно на кулдауне, то [Ледяной шок](https://ru.wowhead.com/spell=196840).
 
 * Второе и последующие использования [Перерождения](https://www.wowhead.com/ru/spell=114050) стоит придерживать под [Хранитель бурь](https://www.wowhead.com/ru/spell=191634), если это не приведет к потере его использования за бой.
+
+* Приоритет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) в бою против одной цели в билде Вестника шторма следующий:
+  * [Буря](https://ru.wowhead.com/spell=454009).
+  * [Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
+  * [Удар духов стихий](https://ru.wowhead.com/spell=117014).
+
+* В билде Вестника шторма **не нужно** кастовать [Выброс лавы](https://ru.wowhead.com/spell=51505) перед обычной [Молнией](https://ru.wowhead.com/spell=188196), не усиленной [Хранителем бурь](https://www.wowhead.com/ru/spell=191634).
 
 * [Удар духов стихий](https://ru.wowhead.com/spell=117014) наносит настолько много урона, плюс дает баффы на вторичные характеристики, что его стоит использовать в бою против **1-3** целей, а на **4+** уже переходить на [Землетрясение](https://ru.wowhead.com/spell=61882).
 
