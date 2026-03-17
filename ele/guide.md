@@ -158,7 +158,7 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_pf"> [Очищающее пламя](https://www.wowhead.com/ru/spell=1259471/)</li>  
   <li markdown="span" class="rotation_switch">
-    <input class="form-check-input" type="checkbox" id="rotation_switch_hard"> Продвинутый приоритет.</li>     
+    <input class="form-check-input" type="checkbox" id="rotation_switch_hard"> **Продвинутый приоритет**.</li>     
 </ul>
 
 
