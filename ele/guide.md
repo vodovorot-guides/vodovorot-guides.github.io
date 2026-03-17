@@ -179,6 +179,9 @@ custom-javascript-list:
 </ul>
 
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
 <div id="st" markdown="1">
 
 **Опенер в бою против 1-2 целей:**
