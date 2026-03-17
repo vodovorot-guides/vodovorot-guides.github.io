@@ -325,7 +325,7 @@ custom-javascript-list:
 7. {:.no-hard-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если у вас **4** заряда баффа [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
 6. {:.tempest-apl .no-hard-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности.
 3. {:.tempest-apl .hard-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если есть цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689) и у вас менее **2** зарядов [Бури](https://ru.wowhead.com/spell=454009).
-3. {:.tempest-apl .no-hard-apl}[Землетрясение](https://ru.wowhead.com/spell=61882).
+3. {:.tempest-apl .no-hard-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота.
 4. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
   * Старайтесь дожидаться прока [Волны лавы](https://www.wowhead.com/ru/spell=77756/), если новое [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) еще не доступно.
 6. {:.tempest-apl .hard-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности и меньше **4** зарядов [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
@@ -545,7 +545,7 @@ custom-javascript-list:
 
 ## Комплект классовых доспехов
 
-Сетовый комлпет Шамана Стихии, [Оболочка изначального ядра](https://www.wowhead.com/ru/item-set=1988), дает следующие бонусы:
+Сетовый комплект Шамана Стихии, [Оболочка изначального ядра](https://www.wowhead.com/ru/item-set=1988), дает следующие бонусы:
 
 * **2 части**: [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) повышает Скорость на **15%** на **10** секунд.
 * **4 части**: [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) дает еще один заряд, а также увеличивает урон от [Молнии](https://ru.wowhead.com/spell=188196) и [Цепной молнии](https://www.wowhead.com/ru/spell=188443) на **25%**.
