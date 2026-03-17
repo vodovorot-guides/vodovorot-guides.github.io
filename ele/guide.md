@@ -283,7 +283,7 @@ custom-javascript-list:
 8. {:.no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если следующее заклинание приведет к оверкапу энергии Водоворота.
 8. {:.eb-apl .no-tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если следующее заклинание приведет к оверкапу энергии Водоворота.
 8. {:.eb-apl .hard-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в приоритетную цель, если на всех целях есть дебафф [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
-9. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
+9. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
 9. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если другие способности недоступны.
 8. {:.no-tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 8. {:.tempest-apl}Во время передвижения можно использовать следующие способности:
@@ -333,7 +333,7 @@ custom-javascript-list:
 8. {:.no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если следующее заклинание приведет к оверкапу энергии Водоворота.
 8. {:.eb-apl .no-tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если следующее заклинание приведет к оверкапу энергии Водоворота.
 8. {:.eb-apl .hard-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в приоритетную цель, если на всех целях есть дебафф [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
-9. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
+9. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
 9. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если другие способности недоступны.
 8. {:.no-tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 8. {:.tempest-apl}Во время передвижения можно использовать следующие способности:
