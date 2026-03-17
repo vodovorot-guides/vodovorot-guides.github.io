@@ -157,8 +157,6 @@ custom-javascript-list:
     <input class="form-check-input" type="checkbox" id="rotation_switch_vb"> [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/)</li>  
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_pf"> [Очищающее пламя](https://www.wowhead.com/ru/spell=1259471/)</li>  
-  <li markdown="span" class="rotation_switch">
-    <input class="form-check-input" type="checkbox" id="rotation_switch_hard"> **Активировать продвинутый приоритет**.</li>     
 </ul>
 
 
@@ -173,6 +171,13 @@ custom-javascript-list:
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
+
+<ul class="rotation_switches form-check form-switch mb-2" style="list-style-type: none;">
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_hard"> **Активировать продвинутый приоритет**.</li>     
+</ul>
+
 
 <div id="st" markdown="1">
 
