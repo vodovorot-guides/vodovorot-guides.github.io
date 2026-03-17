@@ -175,7 +175,7 @@ custom-javascript-list:
 
 <ul class="rotation_switches form-check form-switch mb-2" style="list-style-type: none;">
   <li markdown="span" class="rotation_switch">
-    <input class="form-check-input" type="checkbox" id="rotation_switch_hard"> **Активировать продвинутый АоЕ приоритет**.</li>     
+    <input class="form-check-input" type="checkbox" id="rotation_switch_hard"> **Активировать продвинутый приоритет**.</li>     
 </ul>
 
 
@@ -205,7 +205,10 @@ custom-javascript-list:
 2. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861) по кулдауну.
 3. [Перерождение](https://www.wowhead.com/ru/spell=114050/) по кулдауну.
   * Если до кулдауна [Хранителя бурь](https://ru.wowhead.com/spell=191634) осталось менее **15** секунд, стоит придержать [Перерождение](https://www.wowhead.com/ru/spell=114050/) под него.
-6. {:.no-vb-apl .tempest-apl .mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если нет баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/) и выполняется любое из условий:
+6. {:.no-vb-apl .tempest-apl .mote-apl .hard-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если нет баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/) и выполняется любое из условий:
+  * До спадения осталось менее **5.4** секунд и за это время не будет [Перерождения](https://www.wowhead.com/ru/spell=114050/).
+  * До исчезновения [Элементаля огня](https://www.wowhead.com/ru/spell=378255) осталось менее **2** секунд.
+6. {:.no-vb-apl .tempest-apl .mote-apl .no-hard-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если выполняется любое из условий:
   * До спадения осталось менее **5.4** секунд и за это время не будет [Перерождения](https://www.wowhead.com/ru/spell=114050/).
   * До исчезновения [Элементаля огня](https://www.wowhead.com/ru/spell=378255) осталось менее **2** секунд.
 6. {:.no-vb-apl .tempest-apl .no-mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если выполняется любое из условий:
@@ -220,8 +223,8 @@ custom-javascript-list:
 5. {:.mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если нет баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 5. {:.no-mote-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если есть бафф [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
   * Без взятого таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/), [Выброс лавы](https://ru.wowhead.com/spell=51505) кастуется только по проку [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
-7. {:.tempest-apl .mote-apl}[Буря](https://ru.wowhead.com/spell=454009) для поглощения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
-7. {:.tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634) для поглощения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
+7. {:.tempest-apl .mote-apl .hard-apl}[Буря](https://ru.wowhead.com/spell=454009) для поглощения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
+7. {:.tempest-apl .mote-apl .hard-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634) для поглощения баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
 7. {:.tempest-apl .no-mote-apl}[Буря](https://ru.wowhead.com/spell=454009).
 7. {:.tempest-apl .no-mote-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 4. {:.tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если хватает энергии Водоворота.
@@ -368,7 +371,7 @@ custom-javascript-list:
 
 # Важные моменты приоритетов
 
-* Переключатель **Активировать продвинутый АоЕ приоритет**, показывает более сложный, но более эффективный вариант приоритетов. Разница между упрощенным вариантом примерно в **5-7%** урона.
+* Переключатель **Активировать продвинутый приоритет**, показывает более сложный, но более эффективный вариант приоритетов. На АоЕ разница между упрощенным вариантом примерно в **5-7%** урона, а в бою против одной цели – **2%**.
 
 * В Midnight мы лишились нескольких мгновенных кастов, которые позволяли не терять урон во время движения. Для компенсации этих изменений, рекомендуется использовать [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) под перебежки, а если оно на кулдауне, то [Ледяной шок](https://ru.wowhead.com/spell=196840).
 
@@ -595,6 +598,7 @@ custom-javascript-list:
 ## Крафтовые предметы
 
 1. Если к моменту получения четырех [Искр сияния](https://www.wowhead.com/ru/item=232875) у вас еще нет оружия эпохального уровня, то следует скрафтить [Прощание магистра](https://www.wowhead.com/ru/item=237849/%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0?bonus=12214:8960:12497:12066:13622:13667) / [Трость Альн'ары](https://www.wowhead.com/ru/item=245770/%D1%82%D1%80%D0%BE%D1%81%D1%82%D1%8C-%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%80%D1%8B?bonus=12214:8960:12497:12066:13622:13667) с украшением [Символ Новолуния "Охота"](https://www.wowhead.com/ru/item=245875). Это лучшее из возможных украшений Новолуния, вне зависимости от типа противника.
+2. Вторым украшением, до того как вы сможете носить комплект украшений хранителя Древа, стоит использовать [Подкладку из тайной ткани](https://www.wowhead.com/ru/item=240167) в самый слабый слот экипировки, который не будет занят сетовым комплектом.
 2. [Корневые туфли хранителя Древа](https://www.wowhead.com/ru/item=244610/%D0%BA%D0%BE%D1%80%D0%BD%D0%B5%D0%B2%D1%8B%D0%B5-%D1%82%D1%83%D1%84%D0%BB%D0%B8-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-%D0%B4%D1%80%D0%B5%D0%B2%D0%B0?bonus=12214:8960:12497:12066:13622:13667) + [Древесная пряжка хранителя Древа](https://www.wowhead.com/ru/item=244611/%D0%B4%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D1%8F%D0%B6%D0%BA%D0%B0-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-%D0%B4%D1%80%D0%B5%D0%B2%D0%B0?bonus=12214:8960:12497:12066:13622:13667). Лучшая комбинация украшений, которая дает характеристики и не требует для активации особых условий.
 3. Любые предметы низкого уровня.
 
