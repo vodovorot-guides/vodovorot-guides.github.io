@@ -244,7 +244,12 @@ custom-javascript-list:
 7. {:.no-tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) в бою против двух целей, если другие способности недоступны.
 7. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) в бою против одной цели, если другие способности недоступны.
 8. {:.no-tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
-8. {:.tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Природная стремительность](https://www.wowhead.com/ru/spell=378081) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
+8. {:.tempest-apl}Во время передвижения можно использовать следующие способности:
+  * [Благосклонность предков](https://ru.wowhead.com/spell=79206).
+  * [Природная стремительность](https://www.wowhead.com/ru/spell=378081).
+  * [Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756/).
+  * [Огненный шок](https://ru.wowhead.com/spell=188389).
+  * [Ледяной шок](https://ru.wowhead.com/spell=196840).
 
 
 </div>
