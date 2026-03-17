@@ -82,7 +82,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbGmZmZmZGzYsYmFYATwswEYsgZGMLzMGNbLzMMjZhFjZGzYZWGAAMAzMDAmZgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbMzMzMzMGzYGLwGMjNN2GQmB2YMDmlZGjmtlZGmxswiZmZMDzyAAgBYmBmZAgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -92,8 +92,6 @@ custom-javascript-list:
 <p></p>
 
 
-* Основная идея билда мало отличается от версии для рейда, но здесь не используется [Целительный ливень](https://www.wowhead.com/ru/spell=73920/), и вместо него берется талант [Энергия Предков](https://www.wowhead.com/ru/spell=207401/), который отлично подходит под Мифик+.
-* В этом билде также используются таланты на [Щит земли](https://www.wowhead.com/ru/spell=974/), так как он начинает играть более важную роль, чем в рейде.
 * Вспомогательные таланты можно менять в зависимости от подземелья, переключаясь между [Ветрами Ал'акира](https://www.wowhead.com/ru/spell=382215), [Тотемом хватки земли](https://www.wowhead.com/ru/spell=51485/), [Улучшенным возрождением духа](https://www.wowhead.com/ru/spell=383016), [Развеиванием магии](https://www.wowhead.com/ru/spell=370), [Тотемом противоядия](https://www.wowhead.com/ru/spell=383013) и [Тотемом трепета](https://www.wowhead.com/ru/spell=8143).
 
 
@@ -105,7 +103,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMzMzMzMmxYxMLwAmgZhJwYBzMY2mZmRz2yMDmZwyMmZMjlZBAAGgZmBAzMMGM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMW2GzMzMzMzMmxMWgNYGLasNgMDsZGzgZbmZGNbLzMYmBLzMzMmhZBAAAMzMYmBAgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -122,8 +120,7 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_resto_farseer_raid" class="btn btn-primary rotation-btn">Предсказатель (Рейд)</button>
-    <button type="button" id="build_resto_farseer_mplus" class="btn btn-primary rotation-btn">Предсказатель (Мифик+)</button>
+    <button type="button" id="build_resto_farseer_raid" class="btn btn-primary rotation-btn">Предсказатель (Рейд и Мифик+)</button>
     <button type="button" id="build_resto_totem" class="btn btn-primary rotation-btn">Тотемист</button>
   </div>
 </div>
@@ -182,10 +179,10 @@ custom-javascript-list:
 1. {:.asc-apl}[Быстрина](https://ru.wowhead.com/spell=61295).
 1. {:.asc-apl}[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
 2. {:.asc-apl}[Перерождение](https://www.wowhead.com/ru/spell=114052/)
-2. {:.asc-apl}[Волна исцеления](https://www.wowhead.com/ru/spell=77472)
+2. {:.asc-apl}[Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей.
+2. {:.asc-apl}[Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей.
 2. {:.asc-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454)
-2. {:.asc-apl}[Волна исцеления](https://www.wowhead.com/ru/spell=77472) до окончания действия [Перерождения](https://www.wowhead.com/ru/spell=114052/)
-
+2. {:.asc-apl}[Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей до окончания времени действия [Перерождения](https://www.wowhead.com/ru/spell=114052/)
 
 
 
