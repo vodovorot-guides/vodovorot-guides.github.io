@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-03-15
+last_update: 2026-03-20
 title: Гайд на Элем Шамана
 wow: 12.0.1
 toc: true
@@ -288,7 +288,7 @@ custom-javascript-list:
 2. {:.mote-apl .no-vb-apl .hard-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на основной цели нет этого дебаффа.
 2. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
 2. {:.vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) для поддержания на целях [Огненного шока](https://ru.wowhead.com/spell=188389).
-7. {:.no-hard-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если у вас **4** заряда баффа [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
+7. {:.no-hard-apl .tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если у вас **4** заряда баффа [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
 6. {:.tempest-apl .no-hard-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности.
 3. {:.eb-apl .tempest-apl .no-hard-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
 3. {:.eb-apl .tempest-apl .hard-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас менее **2** зарядов [Бури](https://ru.wowhead.com/spell=454009).
@@ -340,7 +340,7 @@ custom-javascript-list:
 1. [Перерождение](https://www.wowhead.com/ru/spell=114050/) по кулдауну, но обязательно после активации [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 2. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
 2. {:.vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) для поддержания на целях [Огненного шока](https://ru.wowhead.com/spell=188389).
-7. {:.no-hard-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если у вас **4** заряда баффа [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
+7. {:.no-hard-apl .tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если у вас **4** заряда баффа [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
 6. {:.tempest-apl .no-hard-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности.
 3. {:.tempest-apl .hard-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если есть цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689) и у вас менее **2** зарядов [Бури](https://ru.wowhead.com/spell=454009).
 3. {:.tempest-apl .no-hard-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота.
@@ -588,10 +588,10 @@ custom-javascript-list:
 * [Последний взор Ваэлгора](https://www.wowhead.com/ru/item=249346/) – в случае использования этого аксессуара, можно снизить количество Искусности на экипировке.
 
 Лучшие пассивные аксессуары:
-* [Взор ясновидца Альн](https://www.wowhead.com/ru/item=249343/) – пассивная Искусность, отличный прок и аптайм. Лучший пассивный тринкет для Элем Шамана.
+* [Сердце ветра](https://www.wowhead.com/ru/item=250256/) – отличный пассивный аксессуар из Мифик+, особенно если у вас не очень много Скорости на экипировке.
 * [Лента Странника](https://www.wowhead.com/ru/item=249809/) – лучший пассивный тринкет на долгие бои, но крайне слаб в Мифик+.
 * [Сосуд замученных душ](https://www.wowhead.com/ru/item=250258/) – альтернатива указанным выше вариантам. Можно нафармить в Мифик+.
-* [Сердце ветра](https://www.wowhead.com/ru/item=250256/) – неплохой пассивный аксессуар, особенно если у вас мало Скорости на экипировке.
+* [Взор ясновидца Альн](https://www.wowhead.com/ru/item=249343/) – пассивная Искусность, неплохой прок.
 
 <p></p>
 
