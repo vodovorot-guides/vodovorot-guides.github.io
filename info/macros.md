@@ -19,12 +19,6 @@ image: /assets/img/logos/macros.png
 
 # Все специализации
 
-* Все баффы на одной кнопке:
-~~~
-#showtooltip
-/castsequence [@player] reset=3 Небесная ярость, Щит молний
-~~~
-
 * Использовать одновременно {{ site.data.spells.waterwalking }} (без ГКД) и призыв случайного избранного маунта: 
 ~~~
 #showtooltip Яростная буря предсказателя
@@ -119,6 +113,12 @@ image: /assets/img/logos/macros.png
 
 
 
+* Все баффы на одной кнопке:
+~~~
+#showtooltip
+/castsequence [@player] reset=3 Небесная ярость, Щит молний
+~~~
+
 
 * Данный макрос позволяет кастовать {{ site.data.spells.quake }} сразу на место под курсором, избавляя от лишнего клика мышкой:  
 ~~~
@@ -136,8 +136,24 @@ image: /assets/img/logos/macros.png
 /cast Природная стремительность
 ~~~
 
+# Совершенствование
+
+* Все баффы на одной кнопке:
+~~~
+#showtooltip
+/castsequence [@player] reset=3 Небесная ярость, Щит молний
+~~~
+
 
 # Исцеление
+
+
+* Все баффы на одной кнопке:
+~~~
+#showtooltip
+/castsequence [@player] reset=3 Небесная ярость, Водный щит
+~~~
+
 
 * [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Цепное исцеление](https://ru.wowhead.com/spell=1064/) на одной кнопке:
 ~~~
