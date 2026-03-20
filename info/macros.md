@@ -107,7 +107,18 @@ image: /assets/img/logos/macros.png
 /use [combat] Сносно работающий кабельный дефибриллятор; [nocombat] Дух предков
 ~~~
 
-
+* Использование недолговечных зелий из котла, если они есть, а затем обычных зелий из сумки:
+~~~
+#showtooltip
+/use item:245898
+/use item:245897
+/use item:245903
+/use item:245902
+/use item:241308
+/use item:241309
+/use item:241288
+/use item:241289
+~~~
 
 # Стихии
 
