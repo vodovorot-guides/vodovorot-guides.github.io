@@ -71,8 +71,21 @@ custom-javascript-list:
 * Также себя отлично показывает [Целительный ливень](https://www.wowhead.com/ru/spell=73920/), особенно если игроки простоят в нем всё время его действия, плюс он усиливает другие заклинания за счет таланта [Наводнение](https://www.wowhead.com/ru/spell=200076).
 * Вспомогательные таланты можно менять в зависимости от босса, переключаясь между [Ветрами Ал'акира](https://www.wowhead.com/ru/spell=382215), [Тотемом хватки земли](https://www.wowhead.com/ru/spell=51485/), [Улучшенным возрождением духа](https://www.wowhead.com/ru/spell=383016), [Развеиванием магии](https://www.wowhead.com/ru/spell=370), [Тотемом противоядия](https://www.wowhead.com/ru/spell=383013) и [Тотемом трепета](https://www.wowhead.com/ru/spell=8143).
 
+<p></p>
 
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
+Альтернативный билд **Тотемиста** в рейде:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzwYmZmZGzYBWgZspx2AyMwGjhZsMGz0stMzwMmFWMzMjZYWGAAYAzMDmZAgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 ## Таланты для Мифик+
 
@@ -94,6 +107,28 @@ custom-javascript-list:
 
 * Вспомогательные таланты можно менять в зависимости от подземелья, переключаясь между [Ветрами Ал'акира](https://www.wowhead.com/ru/spell=382215), [Тотемом хватки земли](https://www.wowhead.com/ru/spell=51485/), [Улучшенным возрождением духа](https://www.wowhead.com/ru/spell=383016), [Развеиванием магии](https://www.wowhead.com/ru/spell=370), [Тотемом противоядия](https://www.wowhead.com/ru/spell=383013) и [Тотемом трепета](https://www.wowhead.com/ru/spell=8143).
 
+<p></p>
+
+
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Альтернативный билд **Тотемиста** в Мифик+:
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbMzMzMzMGzYGLwGMjNN2GQmB2YMDmlZGjmtlZGmxswiZmZMDzyAAgBYmBmZAgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+* Вспомогательные таланты можно менять в зависимости от подземелья, переключаясь между [Ветрами Ал'акира](https://www.wowhead.com/ru/spell=382215), [Тотемом хватки земли](https://www.wowhead.com/ru/spell=51485/), [Улучшенным возрождением духа](https://www.wowhead.com/ru/spell=383016), [Развеиванием магии](https://www.wowhead.com/ru/spell=370), [Тотемом противоядия](https://www.wowhead.com/ru/spell=383013) и [Тотемом трепета](https://www.wowhead.com/ru/spell=8143).
+
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 
 ## Таланты для вылазок
@@ -273,12 +308,22 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Приоритет статов для **Предсказателя** и **Тотемиста** в рейде и Мифик+:
+Приоритет статов для **Предсказателя** и **Тотемиста** в рейде:
 
 1. **Интеллект**.
 3. **Критический удар**.
 2. **Универсальность** = **Искусность**.
 5. **Скорость**.
+
+м
+
+Приоритет статов для **Предсказателя** и **Тотемиста** в рейде:
+
+1. **Интеллект**.
+3. **Критический удар**.
+2. **Универсальность**.
+5. **Скорость**.
+4. **Искусность**.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
