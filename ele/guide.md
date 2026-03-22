@@ -297,7 +297,7 @@ custom-javascript-list:
 5. {:.mote-apl .tempest-apl .hard-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) с проком [Волны лавы](https://www.wowhead.com/ru/spell=77756/), если есть заряд [Бури](https://ru.wowhead.com/spell=454009).
 5. {:.mote-apl .tempest-apl .hard-apl}[Буря](https://ru.wowhead.com/spell=454009) с баффом [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 6. {:.tempest-apl .hard-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности и меньше **4** зарядов [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
-7. {:.hard-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) с баффом [Хранителя бурь](https://www.wowhead.com/ru/spell=191634), если это не приведет к оверкапу энергии Водоворота.
+7. {:.hard-apl .tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) с баффом [Хранителя бурь](https://www.wowhead.com/ru/spell=191634), если это не приведет к оверкапу энергии Водоворота.
 8. {:.no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если следующее заклинание приведет к оверкапу энергии Водоворота.
 8. {:.eb-apl .no-tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если следующее заклинание приведет к оверкапу энергии Водоворота.
 8. {:.eb-apl .hard-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в приоритетную цель, если на всех целях есть дебафф [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
