@@ -216,6 +216,10 @@ custom-javascript-list:
 6. {:.no-vb-apl .tempest-apl .no-mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если выполняется любое из условий:
   * До спадения осталось менее **5.4** секунд и за это время не будет [Перерождения](https://www.wowhead.com/ru/spell=114050/).
   * До исчезновения [Элементаля огня](https://www.wowhead.com/ru/spell=378255) осталось менее **2** секунд.  
+6. {:.no-vb-apl .tempest-apl .no-mote-apl .hard-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если выполняется любое из условий:
+  * До спадения осталось менее **5.4** секунд и за это время не будет [Перерождения](https://www.wowhead.com/ru/spell=114050/).
+  * До исчезновения [Элементаля огня](https://www.wowhead.com/ru/spell=378255) осталось менее **2** секунд.  
+6. {:.no-vb-apl .tempest-apl .no-mote-apl .no-hard-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
 6. {:.vb-apl .tempest-apl .mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если нет баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/) и выполняется любое из условий:
   * До спадения осталось менее **5.4** секунд и за это время не будет [Перерождения](https://www.wowhead.com/ru/spell=114050/).
   * До исчезновения [Элементаля огня](https://www.wowhead.com/ru/spell=378255) осталось менее **2** секунд.
