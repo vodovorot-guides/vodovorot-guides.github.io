@@ -644,7 +644,7 @@ custom-javascript-list:
 
 Расходуемые предметы:
 * **Настой**: [Настой магистров](https://www.wowhead.com/ru/item=241322)
-* **Зелье**: [Зелье безрассудства](https://www.wowhead.com/ru/item=241288/), если у вас мало Искусности. Иначе [Потенциал Света](https://www.wowhead.com/ru/item=241308/). [Симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
+* **Зелье**: [Потенциал Света](https://www.wowhead.com/ru/item=241308/). [Зелье безрассудства](https://www.wowhead.com/ru/item=241288/) может быть эффективнее в некоторых ситуациях, [Симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
 * **Чары на оружие**: [Талассийское масло феникса](https://www.wowhead.com/ru/item=243734) – только в том случае, если **не взят** талант [Оружие языка пламени](https://www.wowhead.com/ru/spell=318038).
 * **Руна**: [Меченная Бездной руна усиления](https://www.wowhead.com/ru/item=259085)
 * **Еда**: [Празднество Харандара](https://www.wowhead.com/ru/item=255846), либо [Невообразимое королевское жаркое](https://www.wowhead.com/ru/item=255847/).
