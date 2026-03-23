@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-03-20
+last_update: 2026-03-23
 title: Гайд на Элем Шамана
 wow: 12.0.1
 toc: true
@@ -80,15 +80,15 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Альтернативный билд **Предсказателя**:
+Билд **Предсказателя** для боя против трех целей:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZbmxMzMbbbjxMmZAAAAAbmZDGwAmNmQmFAYWmZmxYbxEmZWGLzMzMGWsMjFMzMzCAwwAYmxwwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQARUG2fGwHkLP0T7/MoTNl/AAAAAzMLbzMGjZZZbMmhBAAAAYzMbbmZG2MswsNz0QzsAAzyMzMmZbxEmZMWmZmZMsMLjZ5BYMzsMAghBmZmZMMjB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
-* Данный билд проигрывает Вестнику шторма как в бою против одной цели, так и на кливе.
+* Данный билд будет полезен только против Ослепленного авангарда в рейде Шпиль Бездны.
 
 
 
