@@ -630,7 +630,7 @@ custom-javascript-list:
 * **Нагрудник**: [Метка души мира](https://www.wowhead.com/ru/item=243977)
 * **Поножи**: [Чародейская шелковая нить солнечного огня](https://www.wowhead.com/ru/item=240133)
 * **Ботинки**: [Рысья стремительность](https://www.wowhead.com/ru/item=243953)
-* **Кольца**: [Искусность Зул'джина](https://www.wowhead.com/ru/item=243959)
+* **Кольца**: [Глаз орла](https://ru.wowhead.com/item=243957?crafting-quality=5) / [Искусность Зул'джина](https://www.wowhead.com/ru/item=243959). [Симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
 * **Эпический самоцвет**: [Могучий алмаз Вечной Песни](https://www.wowhead.com/ru/item=240967)
 * **Остальные самоцветы**:
   * [Безупречный гранат искусности](https://www.wowhead.com/ru/item=240908)
