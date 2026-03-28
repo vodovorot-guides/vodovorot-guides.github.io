@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-03-23
+last_update: 2026-03-28
 title: Гайд на Элем Шамана
 wow: 12.0.1
 toc: true
@@ -347,6 +347,7 @@ custom-javascript-list:
 2. {:.vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) для поддержания на целях [Огненного шока](https://ru.wowhead.com/spell=188389).
 7. {:.no-hard-apl .tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если у вас **4** заряда баффа [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
 6. {:.tempest-apl .no-hard-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности.
+3. {:.tempest-apl .hard-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если нет ни одного баффа на характеристики от этой способности и у вас менее **2** зарядов [Бури](https://ru.wowhead.com/spell=454009).
 3. {:.tempest-apl .hard-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если есть цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689) и у вас менее **2** зарядов [Бури](https://ru.wowhead.com/spell=454009).
 3. {:.tempest-apl .no-hard-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота.
 4. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
