@@ -91,7 +91,7 @@ custom-javascript-list:
 
 
 
-Основной билд **Предсказателя** для Мифик+:
+Билд **Предсказателя** для Мифик+:
 
 <p></p>
 
@@ -114,12 +114,12 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Альтернативный билд **Тотемиста** в Мифик+:
+Билд **Тотемиста** в Мифик+:
 
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbMzMzMzMGzYGLwGMjNN2GQmB2YMDmlZGjmtlZGmxswiZmZMDzyAAgBYmBmZAgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQARUG2fGwHkLP0T7/MoTNl/AAAAgBAAAAjZmZbZbMzMzMzMGzYGLwGMjNN2GQmB2YMDmlZGjmtlZGmxswiZmZMYWGAAMAzMDmZAgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
