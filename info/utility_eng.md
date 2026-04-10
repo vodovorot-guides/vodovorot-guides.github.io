@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-03-15
+last_update: 2026-04-10
 title: Utility Abilities for Mythic+ Dungeons
 wow: 12.0.1
 toc: true
@@ -8,7 +8,7 @@ author: Nikyou
 description: In this article, you will learn which utility abilities to choose and where to use them in Mythic+ dungeons.
 ---
 
-An addon, that shows which utility abilities you should take and where to use them in Mythic+ dungeon – [Mythic Plus Utility](https://www.curseforge.com/wow/addons/mythic-plus-utility-mpu).
+An addon, that shows which utility abilities you should take and where to use them in Mythic+ dungeon – [Mythic Plus Utility - MPU](https://www.curseforge.com/wow/addons/mythic-plus-utility-mpu).
 {: class="bordered"}
 
 # Utility Abilities
@@ -38,13 +38,15 @@ The main utility abilities available to shaman:
 # Affixes
 
 **Affix [Xal'atath's Bargain: Ascendant](https://www.wowhead.com/affix=148):**
-* [Thunderstorm](https://www.wowhead.com/spell=51490) – destroys all orbs in the radius.
 * [Capacitor Totem](https://www.wowhead.com/spell=192058) – destroys all orbs in the radius.
 * [Purge](https://www.wowhead.com/spell=370/) – purges an orb.
+* [Thunderstorm](https://www.wowhead.com/spell=51490) – destroys all orbs in the radius.
 
 **Affix [Xal'atath's Bargain: Devour](https://www.wowhead.com/affix=160):**
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes a curse from the player.
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – greatly simplifies this affix, one use of the totem will remove poisons from all players (after a period of 1.5 seconds).
+* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes the affix from yourself.
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes the affix from yourself, does not work on other players.
 
 # Dungeons
 
@@ -66,15 +68,15 @@ The main utility abilities available to shaman:
 ## Maisara Caverns
 
 * **!** [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Ritual Sacrifice](https://www.wowhead.com/spell=1259794) inflicted by [Rokh'zal](https://www.wowhead.com/npc=253683).
-* [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) - prevents [Unstable Phantom](https://www.wowhead.com/npc=250443) from reaching players or other [Unstable Phantom](https://www.wowhead.com/npc=250443) on the second boss [Vordaza](https://www.wowhead.com/npc=248595).
-* [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Cries of the Fallen](https://www.wowhead.com/spell=1254175) inflicted by contact with [Lost Soul](https://www.wowhead.com/npc=1531) on last boss [Rak'tul](https://www.wowhead.com/npc=248605).
-* ? [Purge](https://www.wowhead.com/spell=370/) - removes [Grim Ward](https://www.wowhead.com/spell=1270079/) on [Grim Skirmisher](https://www.wowhead.com/npc=248690/).
+* [Purge](https://www.wowhead.com/spell=370/) - removes [Grim Ward](https://www.wowhead.com/spell=1270079/) on [Grim Skirmisher](https://www.wowhead.com/npc=248690/).
+* ? [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Cries of the Fallen](https://www.wowhead.com/spell=1254175) inflicted by contact with [Lost Soul](https://www.wowhead.com/npc=1531) on last boss [Rak'tul](https://www.wowhead.com/npc=248605).
 * ? [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Frost Nova](https://www.wowhead.com/spell=1271623) inflicted by [Hollow Soulrender](https://www.wowhead.com/npc=249024).
 * ? [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Hooked Snare](https://www.wowhead.com/spell=1266381) inflicted by [Keen Headhunter](https://www.wowhead.com/npc=242964). Also, this cast can be interrupted.
 
 ## Nexus-Point Xenas
 
 * [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) - removes [Supression Field](https://www.wowhead.com/spell=249081) inflicted by [Flux Engineer](https://www.wowhead.com/npc=241647).
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Supression Field](https://www.wowhead.com/spell=249081) inflicted by [Flux Engineer](https://www.wowhead.com/npc=241647). Debuff is removed only from yourself.
 * ? [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Creeping Void](https://www.wowhead.com/spell=1281636) inflicted by [Cursed Voidcaller](https://www.wowhead.com/npc=248706).
 * ? [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) - prevents [Smudge](https://www.wowhead.com/npc=248769) from reaching [Nascent Dreadflail](https://www.wowhead.com/npc=252903).
 * ? [Purge](https://www.wowhead.com/spell=370/) - removes [Holy Echo](https://www.wowhead.com/spell=1263785/) on [Flarebat](https://www.wowhead.com/npc=254928/).
@@ -83,14 +85,14 @@ The main utility abilities available to shaman:
 ## Pit of Saron
 
 * **!** [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Shadowbind](https://www.wowhead.com/spell=1264186) inflicted by the second boss [Krick](https://www.wowhead.com/npc=36477).
+* **!** [Spirit Walk](https://www.wowhead.com/spell=58875) - removes [Plungegrip](https://www.wowhead.com/spell=1258997) inflicted by [Plungetalon Gargoyle](https://www.wowhead.com/npc=252707).
 * **!** [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Shadowbind](https://www.wowhead.com/spell=1264186) inflicted by the second boss [Krick](https://www.wowhead.com/npc=36477).
-* **!** [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Shadowbind](https://www.wowhead.com/spell=1264186) inflicted by the second boss [Krick](https://www.wowhead.com/npc=36477).
+* **!** [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Shadowbind](https://www.wowhead.com/spell=1264186) inflicted by the second boss [Krick](https://www.wowhead.com/npc=36477). Debuff is removed only from yourself.
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Curse of Torment](https://www.wowhead.com/spell=1258434) inflicted by [Quarry Tormentor](https://www.wowhead.com/npc=252561).
 * [Spirit Walk](https://www.wowhead.com/spell=58875) - removes [Permeating Cold](https://www.wowhead.com/spell=1258437) inflicted by [Rimebone Coldwraith](https://www.wowhead.com/npc=252566).
-* [Spirit Walk](https://www.wowhead.com/spell=58875) - removes [Plungegrip](https://www.wowhead.com/spell=1258997) inflicted by [Plungetalon Gargoyle](https://www.wowhead.com/npc=252707).
 * [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) - removes [Cryoshards](https://www.wowhead.com/spell=1261921) inflicted by the first boss [Forgemaster Garfrost](https://www.wowhead.com/npc=36494).
-* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Cryoshards](https://www.wowhead.com/spell=1261921) inflicted by the first boss [Forgemaster Garfrost](https://www.wowhead.com/npc=36494).
-* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Permeating Cold](https://www.wowhead.com/spell=1258437) inflicted by [Rimebone Coldwraith](https://www.wowhead.com/npc=252566).
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Cryoshards](https://www.wowhead.com/spell=1261921) inflicted by the first boss [Forgemaster Garfrost](https://www.wowhead.com/npc=36494). Debuff is removed only from yourself.
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Permeating Cold](https://www.wowhead.com/spell=1258437) inflicted by [Rimebone Coldwraith](https://www.wowhead.com/npc=252566). Debuff is removed only from yourself.
 * ? [Purge](https://www.wowhead.com/spell=370/) - removes [Necromantic Infusion](https://www.wowhead.com/spell=1258448/) cast by [Deathwhisper Necrolyte](https://www.wowhead.com/npc=252551/).
 
 ## Seat of the Triumvirate
@@ -99,18 +101,21 @@ The main utility abilities available to shaman:
 * [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) - prevents [Coalesced Void](https://www.wowhead.com/npc=122716) from reaching the first boss [Zuraal the Ascended](https://www.wowhead.com/npc=122313).
 * [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Chains of Subjugation](https://www.wowhead.com/spell=1262509) inflicted by [Merciless Subjugator](https://www.wowhead.com/npc=124171).
 * [Thunderstorm](https://www.wowhead.com/spell=51490) - prevents [Coalesced Void](https://www.wowhead.com/npc=122716) from reaching the first boss [Zuraal the Ascended](https://www.wowhead.com/npc=122313).
-* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Chains of Subjugation](https://www.wowhead.com/spell=1262509) inflicted by [Merciless Subjugator](https://www.wowhead.com/npc=124171).
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Chains of Subjugation](https://www.wowhead.com/spell=1262509) inflicted by [Merciless Subjugator](https://www.wowhead.com/npc=124171). Debuff is removed only from yourself.
 
 ## Skyreach
 
-* ? [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) - slows [Suntalon](https://www.wowhead.com/npc=79093) when they cast [Bloodcrazed](https://www.wowhead.com/spell=1254690/).
+* [Gust of Wind](https://www.wowhead.com/spell=192063) - skips part of the wind maze after the third boss [Rukhran](https://www.wowhead.com/npc=76379).
+* ? [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) - slows [Suntalon](https://www.wowhead.com/npc=79093) when they cast [Bloodcrazed](https://www.wowhead.com/spell=1254690).
 * ? [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) - slows [Sunwings](https://www.wowhead.com/npc=76227) on the third boss [Rukhran](https://www.wowhead.com/npc=76379).
+* ? [Gust of Wind](https://www.wowhead.com/spell=192063) - jump back to the platform if you are thrown off by [Solar Zealot](https://www.wowhead.com/npc=76267) on the last boss [High Sage Viryx](https://www.wowhead.com/npc=76266).
 * ? [Purge](https://www.wowhead.com/spell=370/) - removes [Rushing Winds](https://www.wowhead.com/spell=1254670/) on [Arakkoa Outcast Warrior](https://www.wowhead.com/npc=78096).
 * ? [Purge](https://www.wowhead.com/spell=370/) - removes [Solar Barrier](https://www.wowhead.com/spell=1273356) cast by [Blinding Sun Priestess](https://www.wowhead.com/npc=79462).
 
 ## Windrunner Spire
 
 * **!** [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Curse of Darkness](https://www.wowhead.com/spell=474105) inflicted by the second boss [Kalis](https://www.wowhead.com/npc=231626).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Poison Blades](https://www.wowhead.com/spell=473794) inflicted by [Ardent Cutthroat](https://www.wowhead.com/npc=232171). Also, this cast can be interrupted.
 * ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Poison Spray](https://www.wowhead.com/spell=1216822) inflicted by [Creeping Spindleweb](https://www.wowhead.com/npc=232067).
 * ? [Purge](https://www.wowhead.com/spell=370/) - removes [Bolstering Flames](https://www.wowhead.com/spell=1216860) on [Territorial Dragonhawk](https://www.wowhead.com/npc=236891).
 * ? [Tremor Totem](https://www.wowhead.com/spell=8143) - removes [Intimidating Shout](https://www.wowhead.com/spell=1253030) inflicted by the third boss [Commander Kroluk](https://www.wowhead.com/npc=231631). Also, this debuff can be avoided.
