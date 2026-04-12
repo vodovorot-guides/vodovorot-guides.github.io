@@ -1,7 +1,7 @@
 ---
 title: Макросы для шамана
 layout: page
-last_update: 2026-03-20
+last_update: 2026-04-12
 wow: 12.0.1
 toc: true
 author: Amani
@@ -171,7 +171,7 @@ image: /assets/img/logos/macros.png
 #showtooltip Цепное исцеление
 /cast Природная стремительность
 /cast Стремительность предков
-/cast [@mouseover,harm,exists,nodead][] Цепное исцеление
+/cast [@mouseover,help,exists,nodead][] Цепное исцеление
 ~~~
 
 
