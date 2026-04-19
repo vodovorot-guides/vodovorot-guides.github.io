@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-03-28
+last_update: 2026-04-19
 title: Гайд на Рестор Шамана
 wow: 12.0.1
 toc: true
@@ -49,38 +49,35 @@ custom-javascript-list:
 
 # Билды талантов
 
-В начале первого сезона Midnihgt **Предсказатель** обходит **Тотемиста** во всех типах контента.
+На данный момент играется и **Тотемист**, и **Предсказатель**. У каждой героической ветки свои сильные и слабые стороны.
+
+**Тотемист** гораздо проще в реализации и дает большое количество АоЕ хила, а **Предсказатель** позволяет эффективнее хилить отдельные цели и наносит больше урона.
 
 
 ## Таланты для рейда
 
 
-Основной билд **Предсказателя** для рейда:
+Основной билд **Тотемиста** для рейда:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMmZGzsYmFYATwswEYsYGmBLjxMNbLzMMjZhFzMzYGmlBAAAmZGAMzADG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-* Предсказатель в рейде в большой степени опирается на взаимодействие талантов [Власть Водоворота](https://www.wowhead.com/ru/spell=443447) и [Перерождение](https://www.wowhead.com/ru/spell=114052).
-* Во время  [Перерождения](https://www.wowhead.com/ru/spell=114052), [Волна исцеления](https://www.wowhead.com/ru/spell=77472) становится ощутимо сильнее, к тому же восстанавливает больше маны чем она тратит за счет таланта [Упоение](https://www.wowhead.com/ru/spell=16196/).
-* Также себя отлично показывает [Целительный ливень](https://www.wowhead.com/ru/spell=73920/), особенно если игроки простоят в нем всё время его действия, плюс он усиливает другие заклинания за счет таланта [Наводнение](https://www.wowhead.com/ru/spell=200076).
-* Вспомогательные таланты можно менять в зависимости от босса, переключаясь между [Ветрами Ал'акира](https://www.wowhead.com/ru/spell=382215), [Тотемом хватки земли](https://www.wowhead.com/ru/spell=51485/), [Улучшенным возрождением духа](https://www.wowhead.com/ru/spell=383016), [Развеиванием магии](https://www.wowhead.com/ru/spell=370), [Тотемом противоядия](https://www.wowhead.com/ru/spell=383013) и [Тотемом трепета](https://www.wowhead.com/ru/spell=8143).
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AyMwmZYglxMz0stMzwMmFWmZmZMYWGAAAYmZwMDAMYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Альтернативный билд **Тотемиста** в рейде:
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+Альтернативный билд **Предсказателя** для рейде:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzwYmZmZGzYBWgZspx2AyMwGjhZsMGz0stMzwMmFWMzMjZYWGAAYAzMDmZAgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMmZGzsYmFYATwswEYsYGmBbjxMNbLzMMjZhFzMzYGmlBAAAmZGAMzADG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -90,16 +87,13 @@ custom-javascript-list:
 ## Таланты для Мифик+
 
 
-
-Билд **Предсказателя** для Мифик+:
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbYmZmZmZGzYmFzsADYCmFmAjFGzgZZmxoZbZmhZMLsYMzYGLzyAAgBYmZAwMDMYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+Основной билд **Тотемиста** для Мифик+:
 
 <p></p>
 
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQARUG2fGwHkLP0T7/MoTNl/AAAAgBAAAAjZmZbzMzMzMmZmxMGWgFYGLasNgMDshZGMbzMGNLLzMMjZjFzMzYwsMAAYAMzgZGAMDG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
+<p></p>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -114,12 +108,12 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Билд **Тотемиста** в Мифик+:
+Билд **Тотемиста** для новичков и низких ключей:
 
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbMzMzMzMGzYGLwCMjFN2GQmB2YMDmlZGjmtlZGmxsxiZmZMYWGAAMAzMDmZAgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMmZGzsYmFYATwswEYsYGmBbjxMNbLzMMjZhFzMzYGmlBAAAmZGAMzADG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -129,6 +123,26 @@ custom-javascript-list:
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
+
+
+Альтернативный билд **Предсказателя** для Мифик+:
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbYmZGzMGzYmFzsADYCmFmAjFmZGMbzMGNbLzMMjZhFjZGzYZWGAAMAzMDAmZgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+* Вспомогательные таланты можно менять в зависимости от подземелья, переключаясь между [Ветрами Ал'акира](https://www.wowhead.com/ru/spell=382215), [Тотемом хватки земли](https://www.wowhead.com/ru/spell=51485/), [Улучшенным возрождением духа](https://www.wowhead.com/ru/spell=383016), [Развеиванием магии](https://www.wowhead.com/ru/spell=370), [Тотемом противоядия](https://www.wowhead.com/ru/spell=383013) и [Тотемом трепета](https://www.wowhead.com/ru/spell=8143).
+
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+
 
 
 ## Таланты для вылазок
@@ -155,8 +169,8 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_resto_farseer_raid" class="btn btn-primary rotation-btn">Предсказатель (Рейд и Мифик+)</button>
-    <button type="button" id="build_resto_totem" class="btn btn-primary rotation-btn">Тотемист</button>
+    <button type="button" id="build_resto_totem" class="btn btn-primary rotation-btn">Тотемист (Рейд и Мифик+)</button>
+    <button type="button" id="build_resto_farseer_raid" class="btn btn-primary rotation-btn">Предсказатель</button>
   </div>
 </div>
 

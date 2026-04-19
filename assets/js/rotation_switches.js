@@ -163,7 +163,7 @@ $('button#build_resto_farseer_mplus').on('click', function() {
 });
 
 $('button#build_resto_totem').on('click', function() {
-    on_build_button_click(this, ["totem", "rain", "dp"]);
+    on_build_button_click(this, ["totem", "rain"]);
     return false;
 });
 
