@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-04-21
+last_update: 2026-04-29
 title: Гайд на Элем Шамана
 wow: 12.0.1
 toc: true
@@ -84,7 +84,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLbzMGjZZZbMmhBAAAAYzMbwAGwsxEysAAzyMzMmZbZmYmZwyMzMjBzyYWeAGzMLDAYYAMzYYGD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLbzMGjZZZZwMjBAAAAYzMbwAGwsxEYWAgZZmZmZstYCzMGLzMzMGWmlhlHYmxMzyAAGGAzMGGG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 
 <p></p>
