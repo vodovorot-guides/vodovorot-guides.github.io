@@ -117,7 +117,7 @@ $('button#build_ele_raid_storm').on('click', function() {
 });
 
 $('button#build_ele_raid_fs').on('click', function() {
-    on_build_button_click(this, ["mote", "vb", "pf"]);
+    on_build_button_click(this, ["vb", "pf"]);
     return false;
 });
 
