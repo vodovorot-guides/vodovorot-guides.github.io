@@ -143,12 +143,12 @@ $('button#build_enh_totem_aoe').on('click', function() {
 });
 
 $('button#build_enh_storm_st').on('click', function() {
-    on_build_button_click(this, ["asc"]);
+    on_build_button_click(this, ["sunder", "pw", "asc"]);
     return false;
 });
 
 $('button#build_enh_storm_aoe').on('click', function() {
-    on_build_button_click(this, ["fn", "asc"]);
+    on_build_button_click(this, ["fn", "sunder", "pw", "asc"]);
     return false;
 });
 

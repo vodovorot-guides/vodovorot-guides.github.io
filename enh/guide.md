@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2026-04-21
+last_update: 2026-05-05
 title: Гайд на Энх Шамана
-wow: 12.0.1
+wow: 12.0.5
 toc: true
 author: Amani, Wordup
 description: Большое руководство по всем аспектам игры за Шамана Совершенствования. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и многое другое.
@@ -25,36 +25,6 @@ custom-javascript-list:
 * Дальность действия способностей и атак ближнего боя – **5** метров, дальность атакующих и лечащих заклинаний **40** метров. Некоторые вспомогательные способности имеют радиус действия **30** метров.
 
 
-## Изменения в Midnight
-
-
-Полный список изменений Шамана в патче **12.0** можно найти [по этой ссылке](https://stormkeeper.ru/info/midnight.html).
-{: class="bordered"}
-
-Шаман Совершенствования в Midnight получил ощутимую переработку и вместе с тем, упрощение геймплея. Однако при этом специализация осталась узнаваемой и интересной.
-
-[Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) полностью поменяла свою суть, и теперь это не АоЕ-кнопка для активации баффа и генерации стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880), а полноценная часть ротации, в том числе и в бою против одной цели. [Сокрушающая молния](https://www.wowhead.com/beta/spell=187874/) также усиливается высшими талантами, новой фишкой Midnight, и будет использоваться во всех типах контента и билдах.
-
-Было удалено более **20** талантов и добавлено больше **15** новых.
-
-При этом мы не получили новых активных способностей, если не считать обновленную [Сокрушающую молнию](https://www.wowhead.com/beta/spell=187874/).
-
-Что касается героических веток, то и Вестник шторма, и Тотемист получили заметные нововведения. [Буря](https://ru.wowhead.com/spell=454009) больше не требует специальной WeakAura для отслеживания ресурсов до получения прока, а [Пульсирующий тотем](https://www.wowhead.com/beta/spell=444995/) теперь имеет минутный кулдаун и его не получится держать активным в течение всего боя.
-
-Энх Шаман также лишился некоторых вспомогательных способностей: [Тотем каменной преграды](https://www.wowhead.com/ru/spell=108270) был удален, а [Гром и молния](https://www.wowhead.com/ru/spell=51490) были перенесены в базовые способности Элем Шамана.
-
-Сетовый комплект выглядит как типичный сет из первого сезона нового дополнения, когда он пассивно увеличивает урон отдельных способностей и не является чем-то сложным и мудреным, чтобы игроки могли привыкнуть к обновленным механикам.
-
-
-
-Подробнее про все изменения можно посмотреть в этом видео:
-
-<p></p>
-
-{% include youtube.html id="TR5HzuxSs78" %}
-
-<p></p>
-
 # Билды талантов
 
 ## Общая информация
@@ -71,14 +41,7 @@ custom-javascript-list:
 
 ## Таланты для Рейда
 
-На текущий момент, **Тотемист** показывает себя сильнее и в бою против одной цели, и на кливе.
-
-Основной билда является бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900/), усиливающий урон [Вскипания лавы](https://www.wowhead.com/ru/spell=60103) и сокращающий его кулдаун, который так же можно продлить с помощью таланта [Энергия тотемов](https://www.wowhead.com/ru/spell=1260644/). 
-
-Бурстом в этом билде является сочетание [Пульсирующего тотема](https://www.wowhead.com/ru/spell=444995) и [Ветров рока](https://www.wowhead.com/ru/spell=384352), которые имеют время восстановления **1** минуту и позволяют усиливать свой урон в нужные моменты боя.
-
-**Вестник шторма** проигрывает в плане урона, к тому же у него гораздо более рандомный паттерн урона.
-
+На текущий момент, **Тотемист** показывает себя сильнее и в бою против одной цели, и на кливе. Даже с учетом баффов от **6 мая**, **Вестник шторма** сейчас не является оптимальным выбором.
 
 <p></p>
 <hr style="height:1px;background-color:#bbb">
@@ -95,10 +58,21 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+Рейдовый билд **Вестника шторма**:
+
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzYmZmZmZmZmZmZGAAAAAAAAgNAbmxwGZBmhhGsAwsMjZmxyyMwMzGLzMzMMMmBAYGGGmZCMzAYcBA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
 
 ## Таланты для Мифик+
-
-На старте Midnight **Тотемист** обходит **Вестника шторма** в Мифик+.
 
 
 <hr style="height:1px;background-color:#bbb">
@@ -109,6 +83,18 @@ custom-javascript-list:
 <p></p>
 
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzEsBwsMjZMWWMwMz2YZmZmZwyYGAAgxYGxMDwgxA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
+
+
+Билд **Вестника шторма** для Мифик+:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzYMzMzMzMzMzMzAAAAAAAAAsBYzMG2ILwMM0gFAmlZMjxyiBmZ2GLzMzMDWGzAAYYMDmJwMDGMuAA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
