@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-04-21
+last_update: 2026-05-11
 title: Гайд на Рестор Шамана
 wow: 12.0.1
 toc: true
@@ -531,7 +531,11 @@ custom-javascript-list:
 
 **Рейдовые и групповые фреймы** – один из самых важных инструментов для любого хилера. Они предоставляют информацию о здоровье ваших союзников, облегчая вашу задачу по спасению их жизней.
 
-С учетом изменений Midnight, функционал многих аддонов был ограничен и на данный момент многие параметры фреймов не поддаются настройке, такие как фильтрация баффов/дебаффов и кастомное отображение отдельных аур.
+Рекомендованные аддоны для групповых и рейдовых фреймов:
+1. [Danders Frames](https://www.curseforge.com/wow/addons/danders-frames)
+2. [Harrek's Advanced Raid Frames](https://www.curseforge.com/wow/addons/harreks-advanced-raid-frames)
+3. [Grid2](https://www.curseforge.com/wow/addons/grid2)
+4. [VuhDo](https://www.curseforge.com/wow/addons/vuhdo)
 
 [Мой](https://www.twitch.tv/amanizandalari) настроенный интерфейс доступен на [Boosty](https://boosty.to/amani).
 
@@ -541,11 +545,7 @@ custom-javascript-list:
     <img src="/assets/img/mouseover.png"> 
 </p>
 
-<p></p>
 
-{% include button.html name="Статья про настройку фреймов группы и рейда" link="/resto/raidframes.html" %}  
-
-<p></p>
 
 ## Макросы
 
