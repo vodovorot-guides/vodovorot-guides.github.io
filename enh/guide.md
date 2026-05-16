@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-05-05
+last_update: 2026-05-16
 title: Гайд на Энх Шамана
 wow: 12.0.5
 toc: true
@@ -216,27 +216,29 @@ custom-javascript-list:
 
 
 
+1. {:.pw-apl .no-totem-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) если есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+1. {:.sunder-apl .no-totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
+3. {:.no-totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
 1. {:.dw-apl .no-totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
   * [Ветра рока](https://ru.wowhead.com/spell=384352) не имеет ГКД, старайтесь активировать эту способность одновременно с [Сокрушающей молнией](https://www.wowhead.com/ru/spell=187874/) или [Ударом бури](https://www.wowhead.com/ru/spell=17364).
 1. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 2. {:.asc-apl .no-dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://ru.wowhead.com/spell=114051).
 2. {:.no-asc-apl .dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://ru.wowhead.com/spell=114051).
 4. {:.no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
-3. {:.no-totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
-5. {:.no-totem-apl .dw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) / [Буря](https://www.wowhead.com/ru/spell=454009), если [Ветра рока](https://ru.wowhead.com/spell=384352) не активны и есть **9+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-5. {:.no-totem-apl .asc-apl .no-dre-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) / [Буря](https://www.wowhead.com/ru/spell=454009), если [Перерождение](https://ru.wowhead.com/spell=114051) не активно и есть **9+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
-5. {:.no-totem-apl .no-asc-apl .dre-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) / [Буря](https://www.wowhead.com/ru/spell=454009), если [Перерождение](https://ru.wowhead.com/spell=114051) не активно и есть **9+** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+5. {:.no-totem-apl .dw-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) / [Буря](https://www.wowhead.com/ru/spell=454009), если [Ветра рока](https://ru.wowhead.com/spell=384352) не активны и есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+5. {:.no-totem-apl .asc-apl .no-dre-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) / [Буря](https://www.wowhead.com/ru/spell=454009), если [Перерождение](https://ru.wowhead.com/spell=114051) не активно и есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+5. {:.no-totem-apl .no-asc-apl .dre-apl}[Молния](https://www.wowhead.com/ru/spell=188196/) / [Буря](https://www.wowhead.com/ru/spell=454009), если [Перерождение](https://ru.wowhead.com/spell=114051) не активно и есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 6. {:.no-totem-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 1. {:.totem-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057), если [Огненный шок](https://ru.wowhead.com/spell=188389) отсутствует на цели.
 1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
 1. {:.hh-apl .no-totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если есть бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900).
 1. {:.hh-apl .totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если есть бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900) или [Бушующего урагана](https://www.wowhead.com/ru/spell=453405/).
-1. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
+1. {:.sunder-apl .totem-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
   * {:.totem-apl}Используйте по кулдауну, но каждое второе применение [Раскола](https://www.wowhead.com/ru/spell=197214/) должно выпадать на [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
 2. {:.dw-apl .totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
   * [Ветра рока](https://ru.wowhead.com/spell=384352) не имеет ГКД, старайтесь активировать эту способность одновременно с [Сокрушающей молнией](https://www.wowhead.com/ru/spell=187874/) или [Ударом бури](https://www.wowhead.com/ru/spell=17364).
 3. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
-1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) если есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+1. {:.pw-apl .totem-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) если есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
   * Старайтесь применять [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047/) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
 4. {:.totem-apl .dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
 5. {:.totem-apl}[Молния](https://www.wowhead.com/ru/spell=188196/), если выполняется **любое** из условий:
@@ -278,6 +280,7 @@ custom-javascript-list:
 <p></p>
 
 **Приоритет способностей в бою против 2+ целей:**
+1. {:.pw-apl .no-totem-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) если есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
 1. {:.totem-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057), если [Огненный шок](https://ru.wowhead.com/spell=188389) отсутствует на цели.
 1. {:.totem-apl}[Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
 1. {:.sunder-apl}[Раскол](https://www.wowhead.com/ru/spell=197214/).
@@ -287,10 +290,11 @@ custom-javascript-list:
 1. {:.hh-apl .totem-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103), если есть бафф [Горячей руки](https://www.wowhead.com/ru/spell=201900) или [Бушующего урагана](https://www.wowhead.com/ru/spell=453405/).
 1. {:.dw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
   * [Ветра рока](https://ru.wowhead.com/spell=384352) не имеет ГКД, старайтесь активировать эту способность одновременно с [Сокрушающей молнией](https://www.wowhead.com/ru/spell=187874/).
+1. {:.no-totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) по кулдауну.
 1. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
-1. {:.pw-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) если есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
+1. {:.pw-apl .totem-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) если есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
   * Старайтесь применять [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047/) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
-1. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) по кулдауну.
+1. {:.totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) по кулдауну.
   * {:.dw-apl}Во время активных [Ветров рока](https://ru.wowhead.com/spell=384352), [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) тратит стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) за счет таланта [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444/).
   * {:.asc-apl}Во время активного [Перерождения](https://ru.wowhead.com/spell=114051), [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) тратит стаки [Оружия Водоворота](https://ru.wowhead.com/spell=187880) за счет таланта [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444/).
 2. {:.no-asc-apl .dre-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) во время [Перерождения](https://ru.wowhead.com/spell=114051).
