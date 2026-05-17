@@ -70,6 +70,20 @@ image: /assets/img/logos/macros.png
 /cast [@focus] Пронизывающий ветер
 ~~~
 
+* Автоматический макрос на сбивание кастов. Сбивает цели по фокусу, если фокуса нет – сбивает любому текущему кастующему мобу перед вами:
+~~~
+#showtooltip Пронизывающий ветер
+/cast [@focus,exists,nodead,harm] Пронизывающий ветер
+/stopmacro [@focus,exists,nodead,harm]
+/focus target
+/cleartarget
+/targetenemy
+/cast Пронизывающий ветер
+/target focus
+/clearfocus
+/startattack
+~~~
+
 * Сбивание каста по фокусу, если фокуса нет, то сбивает цели под маусовером. Если там нет врага, то сбивает текущей цели:
 ~~~
 #showtooltip
@@ -155,6 +169,13 @@ image: /assets/img/logos/macros.png
 /castsequence [@player] reset=3 Небесная ярость, Щит молний
 ~~~
 
+* Применяет [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) прямо под курсор, без предварительного выбора цели:
+~~~
+#showtooltip
+/cast [@cursor] Пульсирующий тотем
+~~~
+
+
 
 # Исцеление
 
@@ -166,12 +187,10 @@ image: /assets/img/logos/macros.png
 ~~~
 
 
-* [Природная стремительность](https://ru.wowhead.com/spell=378081) и [Цепное исцеление](https://ru.wowhead.com/spell=1064/) на одной кнопке:
+* Применяет [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995) прямо под курсор, без предварительного выбора цели:
 ~~~
-#showtooltip Цепное исцеление
-/cast Природная стремительность
-/cast Стремительность предков
-/cast [@mouseover,help,exists,nodead][] Цепное исцеление
+#showtooltip
+/cast [@cursor] Пульсирующий тотем
 ~~~
 
 
