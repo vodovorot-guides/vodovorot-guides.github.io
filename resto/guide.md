@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2026-05-11
+last_update: 2026-05-18
 title: Гайд на Рестор Шамана
-wow: 12.0.1
+wow: 12.0.5
 toc: true
 author: Amani, Harreks
 description: Большое руководство по всем аспектам игры за Шамана Исцеления. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и многое другое.
@@ -72,7 +72,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbzMzMzMmZmxMGWgFYGLasNgMDshZGMbzMGNLLzMMjZjFzMzYwsMAAYAMzgZGAMDG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYB2gZsox2AyMwGmZwsNzY0ssMzsZGzGLGzMGWmlBAADgZGMzAwYwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -81,6 +81,7 @@ custom-javascript-list:
 
 
 * Вспомогательные таланты можно менять в зависимости от подземелья, переключаясь между [Ветрами Ал'акира](https://www.wowhead.com/ru/spell=382215), [Тотемом хватки земли](https://www.wowhead.com/ru/spell=51485/), [Улучшенным возрождением духа](https://www.wowhead.com/ru/spell=383016), [Развеиванием магии](https://www.wowhead.com/ru/spell=370), [Тотемом противоядия](https://www.wowhead.com/ru/spell=383013) и [Тотемом трепета](https://www.wowhead.com/ru/spell=8143).
+* Аддон для напоминания о необходимых вспомогательных талантах: [Mythic Plus Utility - MPU](https://www.curseforge.com/wow/addons/mythic-plus-utility-mpu).
 
 <p></p>
 
@@ -99,6 +100,7 @@ custom-javascript-list:
 <p></p>
 
 * Вспомогательные таланты можно менять в зависимости от подземелья, переключаясь между [Ветрами Ал'акира](https://www.wowhead.com/ru/spell=382215), [Тотемом хватки земли](https://www.wowhead.com/ru/spell=51485/), [Улучшенным возрождением духа](https://www.wowhead.com/ru/spell=383016), [Развеиванием магии](https://www.wowhead.com/ru/spell=370), [Тотемом противоядия](https://www.wowhead.com/ru/spell=383013) и [Тотемом трепета](https://www.wowhead.com/ru/spell=8143).
+* Аддон для напоминания о необходимых вспомогательных талантах: [Mythic Plus Utility - MPU](https://www.curseforge.com/wow/addons/mythic-plus-utility-mpu).
 
 <p></p>
 
