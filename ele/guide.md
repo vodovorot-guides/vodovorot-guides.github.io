@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2026-04-29
+last_update: 2026-06-02
 title: Гайд на Элем Шамана
-wow: 12.0.1
+wow: 12.0.5
 toc: true
 author: Amani
 description: Большое руководство по всем аспектам игры за Шамана Стихии. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и многое другое.
@@ -41,7 +41,11 @@ custom-javascript-list:
 
 ## Общая информация
 
-На текущий момент, в первом сезоне Midnight, **Вестник шторма** показывает себя гораздо лучше **Предсказателя** во всех типах контента.
+На текущий момент **Вестник шторма** является основным рейдовым билдом, а также самым эффективным вариантом в Мифик+.
+
+**Предсказатель** играется на некоторых боссах в рейде, в основном где участвует две-три цели, но он крайне неэффективен на большом АоЕ и в Мифик+.
+
+В рейде также важен выбор между двух- и трехминутным [Перерождением](https://www.wowhead.com/ru/spell=114050/). Смотрите по количеству использований за бой и учитывайте моменты, когда бурсты нужно придерживать под выход аддов. Посмотреть эту информацию в удобном формате можно на сайте [Lorrgs.io](https://lorrgs.io/spec_ranking/shaman-elemental/imperator-averzian).
 
 Текущие актуальные билды на каждого босса в рейде можно найти на [Warcraftlogs](https://www.warcraftlogs.com/), а для Мифик+ – на [Archon.gg](https://www.archon.gg/wow/builds/elemental/shaman/mythic-plus/overview/10/all-dungeons/this-week).
 
@@ -56,6 +60,17 @@ custom-javascript-list:
 <iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgFzYYDWgZ0QjNAYWmZmxMbLmwMWGLzMzMGWsMjFzMMzCAwwAzMwwwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
+
+
+Билд **Предсказателя** для боя против одной цели:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMmZmZZZZMmhBAAAAYzMbwAGwsxEysAAzyMzMzYbxEmZMWmZmZMsMLDLmZMzsAAMMAmZMMMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+* Данный билд хорошо себя показывает против Ваэлгора и Эззорака в рейде Шпиль Бездны.
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -92,11 +107,11 @@ custom-javascript-list:
 
 ## Таланты для Вылазок
 
-Билд **Вестника шторма** для вылазок:
+Билд **Предсказателя** для вылазок:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzML2GMjZAAAAAALmxwGsAzohGbAwsMzMjZ2WMtxMMWmZmZMsYxYxMzYmFAgZMwMDMMMA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLbzMGjZZZZwMjBAAAAYzMbwAGwsxEYWAgZZmZmZstYCzMGLzMzMGWmlhlHYmxMzyAAGGAzMGGG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -124,7 +139,8 @@ custom-javascript-list:
   <div class="btn-group" role="group">
     <button type="button" id="build_ele_raid_storm" class="btn btn-primary rotation-btn">Вестник шторма – Рейд</button>
     <button type="button" id="build_ele_mplus" class="btn btn-primary rotation-btn">Вестник Шторма – Мифик+</button>
-    <button type="button" id="build_ele_raid_fs" class="btn btn-primary rotation-btn">Предсказатель – Рейд</button>
+    <button type="button" id="build_ele_raid_fs" class="btn btn-primary rotation-btn">Предсказатель – Одна цель</button>
+    <button type="button" id="build_ele_raid_fs_3t" class="btn btn-primary rotation-btn">Предсказатель – Три цели</button>
   </div>
 </div>
 
@@ -231,6 +247,7 @@ custom-javascript-list:
 7. {:.no-tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196), для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 6. {:.no-vb-apl .no-tempesst-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
 6. {:.vb-apl .no-tempesst-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если до спадения [Огненного шока](https://ru.wowhead.com/spell=188389) осталось менее **5.4** секунд.
+7. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 7. {:.no-tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) в бою против двух целей, если другие способности недоступны.
 7. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) в бою против одной цели, если другие способности недоступны.
 8. {:.no-tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
@@ -271,7 +288,8 @@ custom-javascript-list:
 1. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861) по кулдауну.
 1. [Перерождение](https://www.wowhead.com/ru/spell=114050/) по кулдауну, но обязательно после активации [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 2. {:.mote-apl .no-vb-apl .hard-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если на основной цели нет этого дебаффа.
-2. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
+2. {:.tempest-apl .vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
+2. {:.no-tempest-apl .vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну.
 2. {:.vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) для поддержания на целях [Огненного шока](https://ru.wowhead.com/spell=188389).
 7. {:.no-hard-apl .tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если у вас **4** заряда баффа [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
 6. {:.tempest-apl .no-hard-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности.
@@ -323,7 +341,8 @@ custom-javascript-list:
 1. [Хранитель бурь](https://ru.wowhead.com/spell=191634) по кулдауну.
 1. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861) по кулдауну.
 1. [Перерождение](https://www.wowhead.com/ru/spell=114050/) по кулдауну, но обязательно после активации [Хранителя бурь](https://ru.wowhead.com/spell=191634).
-2. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
+2. {:.tempest-apl .vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну, если [Перерождение](https://www.wowhead.com/ru/spell=114050/) не активно.
+2. {:.no-tempest-apl .vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну.
 2. {:.vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) для поддержания на целях [Огненного шока](https://ru.wowhead.com/spell=188389).
 7. {:.no-hard-apl .tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если у вас **4** заряда баффа [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
 6. {:.tempest-apl .no-hard-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности.

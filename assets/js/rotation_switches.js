@@ -117,10 +117,14 @@ $('button#build_ele_raid_storm').on('click', function() {
 });
 
 $('button#build_ele_raid_fs').on('click', function() {
-    on_build_button_click(this, ["vb", "pf"]);
+    on_build_button_click(this, ["eb", "vb", "pf"]);
     return false;
 });
 
+$('button#build_ele_raid_fs_3t').on('click', function() {
+    on_build_button_click(this, ["vb", "pf"]);
+    return false;
+});
 
 $('button#build_ele_mplus').on('click', function() {
     on_build_button_click(this, ["tempest", "eb", "vb"]);
