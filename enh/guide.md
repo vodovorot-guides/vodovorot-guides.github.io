@@ -74,23 +74,12 @@ custom-javascript-list:
 
 ## Таланты для Мифик+
 
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-Основной билд **Тотемиста** для Мифик+:
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzEsBwsMjZMWWMwMz2YZmZmZwyYGAAgxYGxMDwgxA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
-
-<p></p>
-
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
 
-Билд **Вестника шторма** для Мифик+:
+
+Основной билд **Вестника шторма** для Мифик+:
 
 <p></p>
 
@@ -101,6 +90,19 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
+
+
+
+Билд **Тотемиста** для Мифик+:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzEsBwsMjZMWWMwMz2YZmZmZwyYGAAgxYGxMDwgxA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
+<hr style="height:1px;background-color:#bbb">
+<p></p>
 
 ## Таланты для Вылазок
 
@@ -237,7 +239,7 @@ custom-javascript-list:
   * {:.totem-apl}Используйте по кулдауну, но каждое второе применение [Раскола](https://www.wowhead.com/ru/spell=197214/) должно выпадать на [Пульсирующий тотем](https://www.wowhead.com/ru/spell=444995).
 2. {:.dw-apl .totem-apl}[Ветра рока](https://ru.wowhead.com/spell=384352).
   * [Ветра рока](https://ru.wowhead.com/spell=384352) не имеет ГКД, старайтесь активировать эту способность одновременно с [Сокрушающей молнией](https://www.wowhead.com/ru/spell=187874/) или [Ударом бури](https://www.wowhead.com/ru/spell=17364).
-3. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
+3. {:.totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
 1. {:.pw-apl .totem-apl}[Первозданная буря](https://www.wowhead.com/ru/spell=1218047/) если есть **10** стаков [Оружия Водоворота](https://ru.wowhead.com/spell=187880).
   * Старайтесь применять [Первозданную бурю](https://www.wowhead.com/ru/spell=1218047/) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
 4. {:.totem-apl .dw-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364) во время активных [Ветров рока](https://ru.wowhead.com/spell=384352).
