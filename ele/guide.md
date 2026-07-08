@@ -245,8 +245,8 @@ custom-javascript-list:
 5. {:.no-mote-apl .no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
 5. {:.mote-apl .no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 7. {:.no-tempest-apl .mote-apl}[Молния](https://ru.wowhead.com/spell=188196), для поглощения баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
-6. {:.no-vb-apl .no-tempesst-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
-6. {:.vb-apl .no-tempesst-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если до спадения [Огненного шока](https://ru.wowhead.com/spell=188389) осталось менее **5.4** секунд.
+6. {:.no-vb-apl .no-tempest-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
+6. {:.vb-apl .no-tempest-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если до спадения [Огненного шока](https://ru.wowhead.com/spell=188389) осталось менее **5.4** секунд.
 7. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом [Хранителя бурь](https://ru.wowhead.com/spell=191634).
 7. {:.no-tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443) в бою против двух целей, если другие способности недоступны.
 7. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) в бою против одной цели, если другие способности недоступны.
