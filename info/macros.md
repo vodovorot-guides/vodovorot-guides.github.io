@@ -1,8 +1,8 @@
 ---
 title: Макросы для шамана
 layout: page
-last_update: 2026-04-12
-wow: 12.0.1
+last_update: 2026-07-17
+wow: 12.1
 toc: true
 author: Amani
 description: Здесь вы найдете полезные макросы для Шаманов всех специализаций. Плюс – различные универсальные макросы, которые сделают вашу жизнь лучше и приятнее.
@@ -215,11 +215,11 @@ image: /assets/img/logos/macros.png
 /clearfocus
 ~~~
 
-* Аналогичный макрос, но дополнительно ставит метку на фокус, если на нем до этого не было метки. Цифра **7** отвечает за метку, в данном случае крест:
+* Аналогичный макрос, но дополнительно ставит метку на фокус, если на нем до этого не было метки. Цифра **7** отвечает за метку, в данном случае крест. Данный макрос НЕ стирает метку, если она уже стоит на противнике:
 ~~~
-/focus [target=mouseover,exists][exists]
-/tm [@focus] 7
-/stopmacro [target=mouseover,exists][exists]
+/focus [target=mouseover,harm][harm]
+/tm [@focus] ~7
+/stopmacro [target=mouseover,harm][harm]
 /clearfocus
 ~~~
 
