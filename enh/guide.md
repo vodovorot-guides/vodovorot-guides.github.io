@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-06-17
+last_update: 2026-07-21
 title: Гайд на Энх Шамана
 wow: 12.0.7
 toc: true
@@ -378,9 +378,9 @@ custom-javascript-list:
 
 * Используйте [Бурю](https://www.wowhead.com/ru/spell=454009/) по приоритетам, желательно на **10+** стаках [Оружия Водоворота](https://ru.wowhead.com/spell=187880), иначе кастуйте [Молнию](https://www.wowhead.com/ru/spell=188196/) на **9+** стаках в бою против одной цели или [Цепную молнию](https://www.wowhead.com/ru/spell=188443) на **7+** стаках на АоЕ.
 
-* При активации [Перерождения](https://ru.wowhead.com/spell=114051), **каждое** ГКД нужно тратить на [Удар ветра](https://www.wowhead.com/ru/spell=115356), вне зависимости от других проков. Его кулдаун будет постоянно сбрасываться за счет талантов [Стихийный ритм](https://www.wowhead.com/ru/spell=1250364) и [Воззвание к Ториму](https://www.wowhead.com/ru/spell=384444).
+* В момент активных [Ветров рока](https://ru.wowhead.com/spell=384352) или [Перерождения](https://ru.wowhead.com/spell=114051) необходимо тратить каждый ГКД либо на [Сокрушающую молнию](https://www.wowhead.com/ru/spell=187874), либо на [Удар бури](https://www.wowhead.com/ru/spell=17364), если [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874) на кулдауне. 
 
-* В момент прока [Ветров рока](https://ru.wowhead.com/spell=384352) старайтесь тратить каждый ГКД либо на [Удар бури](https://www.wowhead.com/ru/spell=17364), либо на [Сокрушающую молнию](https://www.wowhead.com/ru/spell=187874). Имейте в виду, что в Midnight [Ветра рока](https://ru.wowhead.com/spell=384352) больше не имеют ГКД.
+* Имейте в виду, что в Midnight [Ветра рока](https://ru.wowhead.com/spell=384352) больше не имеют ГКД, а также могут прокать самостоятельно за счет пассивного эффекта [Перерождения](https://ru.wowhead.com/spell=114051).
 
 * Когда у вас нет более приоритетных заклинаний, порядок филлеров в бою против одной цели выглядит следующим образом:
   * [Удар бури](https://www.wowhead.com/ru/spell=17364).
