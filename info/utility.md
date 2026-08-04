@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2026-04-10
+last_update: 2026-08-11
 title: Вспомогательные способности для Мифик+ подземелий
-wow: 12.0.1
+wow: 12.1.0
 toc: true
 author: Nikyou
 description: Из этой статьи вы узнаете, в какие Мифик+ подземелья стоит выбирать различные вспомогательные способности и где их применять.
@@ -18,107 +18,127 @@ description: Из этой статьи вы узнаете, в какие Ми�
 * [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимает "snare" эффекты замедление при использовании [Призрачного волка](https://www.wowhead.com/ru/spell=2645), ситуативный талант в определённых подземельях. Берётся вместо [Духа волка](https://www.wowhead.com/ru/spell=260878).
 * [Поступь духа](https://www.wowhead.com/ru/spell=58875) – увеличивает скорость передвижения и снимает все ограничивающие передвижение эффекты. Берётся вместо [Порыва ветра](https://www.wowhead.com/ru/spell=192063).
 * [Порыв ветра](https://www.wowhead.com/ru/spell=192063) – "прыжок" с помощью которого которого можно нивелировать некоторые механики отбрасывания. Берётся вместо [Поступи духа](https://www.wowhead.com/ru/spell=58875).
-* [Тотем оков земли](https://www.wowhead.com/ru/spell=2484) - базовая способность. АоЕ замедление противников, полезная способность в определённых подземельях.
+* [Тотем оков земли](https://www.wowhead.com/ru/spell=2484) – базовая способность. АоЕ замедление противников, полезная способность в определённых подземельях.
 * [Тотем хватки земли](https://www.wowhead.com/ru/spell=51485) – улучшение [Тотема оков земли](https://www.wowhead.com/ru/spell=2484), которое дополнительно обездвиживает цели впервые попавшие под воздействие тотема.
 * [Тотем конденсации](https://www.wowhead.com/ru/spell=192058) – АоЕ оглушение противников, крайне полезный талант во всех подземельях.
 * [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снимает эффекты проклятия с союзников, полезная способность в определённых подземельях.
 * [Тотем ветряного порыва](https://www.wowhead.com/ru/spell=192077) – АоЕ увеличение скорости передвижения, ситуативный талант, позволяет экономить время на перебежках между паками.
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) – развеивает магические эффекты с противников, полезная способность в определённых подземельях.
-* [Реактивная струя](https://www.wowhead.com/ru/spell=462817) - ситуативное улучшение [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077), которое добавляет снятие "snare" эффектов замедления. Учитывайте, что снятие эффектов замедления происходит только при наложении баффа и не просходит при обновлении баффа.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – развеивает магические эффекты с противников, полезная способность в определённых подземельях.
+* [Реактивная струя](https://www.wowhead.com/ru/spell=462817) – ситуативное улучшение [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077), которое добавляет снятие "snare" эффектов замедления. Учитывайте, что снятие эффектов замедления происходит только при наложении баффа и не просходит при обновлении баффа.
 * [Сглаз](https://www.wowhead.com/ru/spell=51514) – СС способность которая действует на гуманоидов и животных, очень редко используется в подземельях.
 * [Тотем трепета](https://www.wowhead.com/ru/spell=8143) – снимает эффекты страха, подчинения и сна с союзников, ситуативный талант, так как почти все заклинания страха, подчинения и сна в подземельях можно избежать с помощью прерывания заклинаний или выходом из зоны поражения. Берётся вместо [Тотема противоядия](https://www.wowhead.com/ru/spell=383013).
 * [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает эффекты яда с союзников, полезная способность в определённых подземельях. Берётся вместо [Тотема трепета](https://www.wowhead.com/ru/spell=8143).
-* [Гром и молния](https://www.wowhead.com/ru/spell=51490) - базовая способность доступная только специализации стихии. АоЕ отбрасывание противников, полезная способность чтобы отбросить противников от вас или союзников. Может использоваться как замена оглушения для прерывания способностей (учитывайте отбрасывание).
+* [Гром и молния](https://www.wowhead.com/ru/spell=51490) – базовая способность доступная только специализации стихии. АоЕ отбрасывание противников, полезная способность чтобы отбросить противников от вас или союзников. Может использоваться как замена оглушения для прерывания способностей (учитывайте отбрасывание).
 
 # Легенда
-* **!** - существенная важность, обязательный выбор в большинстве случаев.
-* *без индикации* - средняя важность, рекомендуется взятие и использование способности.
-* ? - малая важность, взятие и использование способности только ради него не стоит того в большинстве случаев.
+* **!** – существенная важность, обязательный выбор в большинстве случаев.
+* *без индикации* – средняя важность, рекомендуется взятие и использование способности.
+* ? – малая важность, взятие и использование способности только ради него не стоит того в большинстве случаев.
 
 # Модификаторы
 
 **Модификатор [Сделка с Ксал'атат: вознесение](https://www.wowhead.com/ru/affix=148):**
 * [Гром и молния](https://www.wowhead.com/ru/spell=51490) – подкидывает шары в радиусе и разрушает их.
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) – развеивает шар и разрушает его.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – развеивает шар и разрушает его.
 * [Тотем конденсации](https://www.wowhead.com/ru/spell=192058) – оглушает шары в радиусе и разрушает их.
 
 **Модификатор [Сделка с Ксал'атат: пожирание](https://www.wowhead.com/ru/affix=160):**
 * [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снимает проклятие с игрока.
 * [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимает с вас модификатор.
-* [Тотем ветряного порыва](https://www.wowhead.com/ru/spell=192077) вместе с [Реактивная струя](https://www.wowhead.com/ru/spell=462817) – снимает с вас модификатор, не работает на других игроков.
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – сильно облегчает данный модификатор, одно использование тотема уберёт яды со всех игроков (через промежуток в 1,5 секунды).
+* [Тотем ветряного порыва](https://www.wowhead.com/ru/spell=192077) вместе с [Реактивная струя](https://www.wowhead.com/ru/spell=462817) – снимает модификатор со всех в зоне действия тотема.
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – сильно облегчает данный модификатор, одно использование тотема уберёт яды со всех игроков.
 
 # Подземелья
 
-## Академия Алгет'ар
+## Алтарь Клыков
 
-* [Порыв ветра](https://www.wowhead.com/ru/spell=192063) - нивелирует эффект [Энергетического вакуума](https://www.wowhead.com/ru/spell=388822) на последнем боссе [Эхо Дорагосы](https://www.wowhead.com/ru/npc=190609).
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Токсин плеточника](https://www.wowhead.com/ru/spell=389033), который накладывают [Голодный плеточник](https://www.wowhead.com/ru/npc=197398) на первом боссе [Заросшее древо](https://www.wowhead.com/ru/npc=196482).
-* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) - снимает [Монотонную лекцию](https://www.wowhead.com/ru/spell=388392), которую накладывает [Хаотичный учебник](https://www.wowhead.com/ru/npc=196044) (треш перед [Вексамом](https://www.wowhead.com/ru/npc=194181)). Также, это заклинание можно прервать.
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимают [Парализующие выстрелы](https://www.wowhead.com/ru/spell=1294569) дебафф, который накладывает [Двуглавый кусатель](https://www.wowhead.com/ru/npc=272271).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Массовое отравление](https://www.wowhead.com/ru/spell=1307567) дебафф, который накладывает [Избранник Ула'тек](https://www.wowhead.com/ru/npc=263109). Также, это заклинание можно прервать.
+* [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Парализующие выстрелы](https://www.wowhead.com/ru/spell=1294569) дебафф, который накладывает [Двуглавый кусатель](https://www.wowhead.com/ru/npc=272271).
+* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимают [Срыгивание](https://www.wowhead.com/ru/spell=1296069) дебафф, который накладывается на первом боссе [Рав'и](https://www.wowhead.com/ru/npc=259445). Также, этот дебафф можно избежать."
+* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимают [Атрофирующий токсин](https://www.wowhead.com/ru/spell=1310358) дебафф, который накладывается на втором боссе [Извивающийся виток](https://www.wowhead.com/ru/npc=259446). Также, это заклинание можно прервать.
+* ? [Тотем оков земли](https://www.wowhead.com/ru/spell=2484) / [Тотем хватки земли](https://www.wowhead.com/ru/spell=51485) – замедляет [Детеныша](https://www.wowhead.com/ru/npc=261556), когда произносит [Голод молодняка](https://www.wowhead.com/ru/spell=1306383).
+* ? [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Отравление](https://www.wowhead.com/ru/spell=389033) дебафф, который накладывает [Верховный мастер эволюции](https://www.wowhead.com/ru/npc=261557). Также, это заклинание можно прервать.
+* ? [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Срыгивание](https://www.wowhead.com/ru/spell=1296069) дебафф, который накладывается на первом боссе [Рав'и](https://www.wowhead.com/ru/npc=259445). Также, этот дебафф можно избежать."
+* ? [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Атрофирующий токсин](https://www.wowhead.com/ru/spell=1310358) дебафф, который накладывается на втором боссе [Извивающийся виток](https://www.wowhead.com/ru/npc=259446). Также, это заклинание можно прервать.
 
-## Терраса Магистров
+## Берлога Налоракка
 
-* [Поступь духа](https://www.wowhead.com/ru/spell=58875) – снимает [Сферу энтропии](https://www.wowhead.com/ru/spell=1269631) при контракте со сферами на последнем боссе [Дегентрий](https://www.wowhead.com/ru/npc=231865).
-* [Поступь духа](https://www.wowhead.com/ru/spell=58875) – снимает [Эфириальные оковы](https://www.wowhead.com/ru/spell=1214038), которые накладывает первый босс [Чаротрон Кустос](https://www.wowhead.com/ru/npc=231861).
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Чародейский клинок](https://www.wowhead.com/ru/spell=1252909/) с [Карателя Солнечного Клинка](https://www.wowhead.com/ru/npc=234124/).
-* [Тотем трепета](https://www.wowhead.com/ru/spell=8143) - снимает [Волну ужаса](https://www.wowhead.com/ru/spell=1264693), которую накладывает [Ужасень Бездны](https://www.wowhead.com/ru/npc=231552) (треш перед [Гемеллусом](https://www.wowhead.com/ru/npc=231864)). Также, это заклинание можно прервать и укрыться от него.
-* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Слово силы: Щит](https://www.wowhead.com/ru/spell=1254306/), которое накладывает [Светоносный целитель](https://www.wowhead.com/ru/npc=234486/).
-* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Ускоряющий оберег](https://www.wowhead.com/ru/spell=1248689/) на втором боссе [Серанель Бич Солнца](https://www.wowhead.com/ru/npc=231863/).
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снимает [Неутолимый голод](https://www.wowhead.com/ru/spell=1238801) дебафф, который накладывает [Идол голода](https://www.wowhead.com/ru/npc=245567), который призван [Духом голода](https://www.wowhead.com/ru/npc=245855).
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) – снимает [Ледяной склеп](https://www.wowhead.com/ru/spell=1241464) дебафф, который накладывает [Аватара решимости](https://www.wowhead.com/ru/npc=241869).
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимает [Леденящий рык](https://www.wowhead.com/ru/spell=1309919) дебафф, который накладывает [Морозный терзатель](https://www.wowhead.com/ru/npc=241872). Также, это заклинание можно прервать.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Исцеляющий бриз](https://www.wowhead.com/ru/spell=1297696), который произносится [Землевещун-хранитель](https://www.wowhead.com/ru/npc=241814). Также, это заклинание можно прервать.
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Отравляющие споры](https://www.wowhead.com/ru/spell=1234846) дебафф, который накладывается на первом боссе [Прозапасник](https://www.wowhead.com/ru/npc=248710).
+* [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Леденящий рык](https://www.wowhead.com/ru/spell=1309919) дебафф, который накладывает [Морозный терзатель](https://www.wowhead.com/ru/npc=241872). Также, это заклинание можно прервать.
+* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) – снимает [Инеевый взрыв](https://www.wowhead.com/ru/spell=1263597) дебафф, который накладывается если не закрыть войд–зону на втором боссе [Часовой зимы](https://www.wowhead.com/ru/npc=261053).
 
-## Пещеры Маисара
+## Гробница королей
 
-* **!** [Поступь духа](https://www.wowhead.com/ru/spell=58875) – снимает [Ритуальное жертвоприношение](https://www.wowhead.com/ru/spell=1259794), которое накладывает [Рок'зал](https://www.wowhead.com/ru/npc=253683).
-* [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Мрачный оберег](https://www.wowhead.com/ru/spell=1270079/) с [Мрачного задиры](https://www.wowhead.com/ru/npc=248690/).
-* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) - снимаeт [Вопли павших](https://www.wowhead.com/ru/spell=1254175), которые накладывает контакт с [Заблудшей душой](https://www.wowhead.com/ru/npc=1531) на последнем боссе [Рак'тул](https://www.wowhead.com/ru/npc=248605).
-* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) – снимает [Кольцо льда](https://www.wowhead.com/ru/spell=1271623), которое накладывает [Опустошенный раздиратель душ](https://www.wowhead.com/ru/npc=249024).
-* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) – снимает [Сеть с крючками](https://www.wowhead.com/ru/spell=1266381), которую накладывает [Внимательная охотница за головами](https://www.wowhead.com/ru/npc=242964). Также, это заклинание можно прервать.
+* **!** [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Связь души](https://www.wowhead.com/ru/spell=270920) дебафф, который накладывает [Королева Уаси](https://www.wowhead.com/ru/npc=137478) (треш перед [Мчимба Бальзамировщик](https://www.wowhead.com/ru/npc=134993)).
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снимает [Колдовской залп](https://www.wowhead.com/ru/spell=269972) дебафф, который накладывает [Тенеликий колдун](https://www.wowhead.com/ru/npc=134174). Также, это заклинание можно прервать.
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снимает [Сглаз](https://www.wowhead.com/ru/spell=270492) дебафф, который накладывает [Призрачный жрец-проклинатель](https://www.wowhead.com/ru/npc=135204) (треш перед третьим боссом). Также, это заклинание можно прервать.
+* [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Нечестивое исцеление](https://www.wowhead.com/ru/spell=270901), который произносится [Сенешаль М'бара](https://www.wowhead.com/ru/npc=134251) (треш перед [Мчимба Бальзамировщик](https://www.wowhead.com/ru/npc=134993)). Также, это заклинание можно прервать.
+* [Тотем оков земли](https://www.wowhead.com/ru/spell=2484) / [Тотем хватки земли](https://www.wowhead.com/ru/spell=51485) – мешает [Ожившему золоту](https://www.wowhead.com/ru/npc=135406) достичь первого босса [Золотой Змей](https://www.wowhead.com/ru/npc=135322).
+* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимает [Остаточная жидкость](https://www.wowhead.com/ru/spell=271564) дебафф, который накладывает [Бальзамировочный состав](https://www.wowhead.com/ru/npc=137989) (треш перед [Мчимба Бальзамировщик](https://www.wowhead.com/ru/npc=134993)).
+* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимает [Стрела темного льда](https://www.wowhead.com/ru/spell=1294815) дебафф, который накладывает [Тенеликий колдун](https://www.wowhead.com/ru/npc=134174). Также, это заклинание можно прервать.
+* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимают [Разящий удар змеи](https://www.wowhead.com/ru/spell=1306763) дебафф, который накладывает [Королева Патлаа](https://www.wowhead.com/ru/npc=137486).
+* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимает [Ледяной шок](https://www.wowhead.com/ru/spell=270499) дебафф, который накладывает [Призрачная шаманка](https://www.wowhead.com/ru/npc=135239) (треш перед третьим боссом).
+* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Бастион капитана](https://www.wowhead.com/ru/spell=1296671), который произносится [Капитан стражи Ату](https://www.wowhead.com/ru/npc=137473).
+* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Узы Тьмы](https://www.wowhead.com/ru/spell=269935) c [Прислужника Зула](https://www.wowhead.com/ru/npc=133943).
+* ? [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Остаточная жидкость](https://www.wowhead.com/ru/spell=271564) дебафф, который накладывает [Бальзамировочный состав](https://www.wowhead.com/ru/npc=137989) (треш перед [Мчимба Бальзамировщик](https://www.wowhead.com/ru/npc=134993)).
+* ? [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Разящий удар змеи](https://www.wowhead.com/ru/spell=1306763) дебафф, который накладывает [Королева Патлаа](https://www.wowhead.com/ru/npc=137486).
+* ? [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Остаточная жидкость](https://www.wowhead.com/ru/spell=271564) дебафф, который накладывает [Бальзамировочный состав](https://www.wowhead.com/ru/npc=137989) (треш перед [Мчимба Бальзамировщик](https://www.wowhead.com/ru/npc=134993)).
+* ? [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Разящий удар змеи](https://www.wowhead.com/ru/spell=1306763) дебафф, который накладывает [Королева Патлаа](https://www.wowhead.com/ru/npc=137486).
+* ? [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Стрела темного льда](https://www.wowhead.com/ru/spell=1294815) дебафф, который накладывает [Тенеликий колдун](https://www.wowhead.com/ru/npc=134174). Также, это заклинание можно прервать.
+* ? [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Ледяной шок](https://www.wowhead.com/ru/spell=270499) дебафф, который накладывает [Призрачная шаманка](https://www.wowhead.com/ru/npc=135239) (треш перед третьим боссом).
+* ? [Тотема трепета](https://www.wowhead.com/ru/spell=8143) – снимает [Бездна отчаяния](https://www.wowhead.com/ru/spell=276031) дебафф, который накладывается контактом с [Прислужникок Зула](https://www.wowhead.com/ru/npc=133943).
+* ? [Тотема трепета](https://www.wowhead.com/ru/spell=8143) – снимает [Смертоносный рык](https://www.wowhead.com/ru/spell=269369) дебафф, который накладывает [Ребан](https://www.wowhead.com/ru/npc=136984) на последнем боссе [Король Дазар](https://www.wowhead.com/ru/npc=136160). Также, это заклинание можно прервать.
 
-## Узел Нексуса Зенас
+## Закоулок душегубов
 
-* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимает [Подавляющее поле](https://www.wowhead.com/ru/spell=249081), которое накладывает [Инженер потока](https://www.wowhead.com/ru/npc=241647).
-* [Тотем ветряного порыва](https://www.wowhead.com/ru/spell=192077) вместе с [Реактивная струя](https://www.wowhead.com/ru/spell=462817) – снимает [Подавляющее поле](https://www.wowhead.com/ru/spell=249081), которое накладывает [Инженер потока](https://www.wowhead.com/ru/npc=241647). Дебафф снимается только с себя.
-* ? [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снимает [Ползучую Бездну](https://www.wowhead.com/ru/spell=1281636), которую накладывает [Проклятый призыватель Бездны](https://www.wowhead.com/ru/npc=248706).
-* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Священный отголосок](https://www.wowhead.com/ru/spell=1263785/) с [Огнетопырь](https://www.wowhead.com/ru/npc=254928/).
-* ? [Тотем оков земли](https://www.wowhead.com/ru/spell=2484) / [Тотем хватки земли](https://www.wowhead.com/ru/spell=51485) - мешает [Черныш](https://www.wowhead.com/ru/npc=248769) достичь [Формирующийся ужасный молотильщик](https://www.wowhead.com/ru/npc=252903).
-* ? [Тотем трепета](https://www.wowhead.com/ru/spell=8143) - снимает [Ужасы сумерек](https://www.wowhead.com/ru/spell=1282724), которые накладывает [Главный нейтрализатор](https://www.wowhead.com/ru/npc=251853). Также, этот дебафф можно избежать.
+* **!** [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снимает [Проклятие рока](https://www.wowhead.com/ru/spell=1217973) дебафф, который накладывает [Порабощенный чернокнижник](https://www.wowhead.com/ru/npc=235265).
+* [Гром и молния](https://www.wowhead.com/ru/spell=51490) – прерывает [Соблазнение](https://www.wowhead.com/ru/spell=1201554) которое направляет [Сайаад-соблазнительница](https://www.wowhead.com/ru/npc=236082). Также, его можно прервать.
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Яд остановки сердца](https://www.wowhead.com/ru/spell=474515) дебафф, который накладывает первый босс [Заэн Траурный Клинок](https://www.wowhead.com/ru/npc=234649).
+* [Тотема трепета](https://www.wowhead.com/ru/spell=8143) – снимает [Соблазнение](https://www.wowhead.com/ru/spell=1201554) которое направляет [Сайаад-соблазнительница](https://www.wowhead.com/ru/npc=236082). Также, его можно прервать.
+* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Безумие Скверны](https://www.wowhead.com/ru/spell=1229433) c [Бесчестного мага](https://www.wowhead.com/ru/npc=236084).
+* ? [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Яд остановки сердца](https://www.wowhead.com/ru/spell=1216590) дебафф, который накладывает [Уличный жулик](https://www.wowhead.com/ru/npc=236091).
 
-## Яма Сарона
+## Рубиновые Омуты Жизни
 
-* **!** [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снимает [Узы Тьмы](https://www.wowhead.com/ru/spell=1264186), которые накладывает второй босс [Крик](https://www.wowhead.com/ru/npc=36477).
-* **!** [Поступь духа](https://www.wowhead.com/ru/spell=58875) - снимает [Воздушный захват](https://www.wowhead.com/ru/spell=1258997), которое накладывает [Когтервущая горгулья](https://www.wowhead.com/ru/npc=252707).
-* **!** [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимает [Узы Тьмы](https://www.wowhead.com/ru/spell=1264186), которые накладывает второй босс [Крик](https://www.wowhead.com/ru/npc=36477).
-* **!** [Тотем ветряного порыва](https://www.wowhead.com/ru/spell=192077) вместе с [Реактивная струя](https://www.wowhead.com/ru/spell=462817) – снимает [Узы Тьмы](https://www.wowhead.com/ru/spell=1264186), которое накладывает второй босс [Крик](https://www.wowhead.com/ru/npc=36477). Дебафф снимается только с себя.
-* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снимает [Проклятие мучений](https://www.wowhead.com/ru/spell=1258434), которое накладывает [Истязатель из каменоломни](https://www.wowhead.com/ru/npc=252561).
-* [Поступь духа](https://www.wowhead.com/ru/spell=58875) - снимает [Пронизывающий холод](https://www.wowhead.com/ru/spell=1258437), который накладывает [Снежнокостный хладный дух](https://www.wowhead.com/ru/npc=252566).
-* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) - снимает [Хладные осколки](https://www.wowhead.com/ru/spell=1261921), которые накладывает первый босс [Начальник кузни Гархлад](https://www.wowhead.com/ru/npc=36494).
-* [Тотем ветряного порыва](https://www.wowhead.com/ru/spell=192077) вместе с [Реактивная струя](https://www.wowhead.com/ru/spell=462817) - снимает [Пронизывающий холод](https://www.wowhead.com/ru/spell=1258437), который накладывает [Снежнокостный хладный дух](https://www.wowhead.com/ru/npc=252566). Дебафф снимается только с себя.
-* [Тотем ветряного порыва](https://www.wowhead.com/ru/spell=192077) вместе с [Реактивная струя](https://www.wowhead.com/ru/spell=462817) - снимает [Хладные осколки](https://www.wowhead.com/ru/spell=1261921), которые накладывает первый босс [Начальник кузни Гархлад](https://www.wowhead.com/ru/npc=36494). Дебафф снимается только с себя.
-* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Некромантическое усиление](https://www.wowhead.com/ru/spell=1258448/), которое накладывает [Некролит из свиты Леди](https://www.wowhead.com/ru/npc=252551/).
+* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Пламя славы](https://www.wowhead.com/ru/spell=373972) c [Воин стихий – танцор пламени](https://www.wowhead.com/ru/npc=190206), что убивает адда (треш перед вторым боссом).
+* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Барьер грозовой тучи](https://www.wowhead.com/ru/spell=391031) c [Изначальная грозовая туча](https://www.wowhead.com/ru/npc=197509) (треш перед последним боссом).
+* ? [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Хладные когти](https://www.wowhead.com/ru/spell=1305234) дебафф, который накладывает [Заряженный дракончик](https://www.wowhead.com/ru/npc=189893).
 
-## Престол Триумвирата
+## Храм Сетралисс
 
-* **!** [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Чародейский клинок](https://www.wowhead.com/ru/spell=1252909/) с [Заклинателя Бездны из Темной Стражи](https://www.wowhead.com/ru/npc=122404/).
-* [Гром и молния](https://www.wowhead.com/ru/spell=51490) - мешает [Сгустку Бездны](https://www.wowhead.com/ru/npc=122716) достичь первого босса [Зураал Перерожденный](https://www.wowhead.com/ru/npc=122313).
-* [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимает [Порабощающие цепи](https://www.wowhead.com/ru/spell=1262509), которые накладывает [Подчинитель из Темной Стражи](https://www.wowhead.com/ru/npc=124171).
-* [Тотем ветряного порыва](https://www.wowhead.com/ru/spell=192077) вместе с [Реактивная струя](https://www.wowhead.com/ru/spell=462817) – снимает [Порабощающие цепи](https://www.wowhead.com/ru/spell=1262509), которые накладывает [Подчинитель из Темной Стражи](https://www.wowhead.com/ru/npc=124171). Дебафф снимается только с себя.
-* [Тотем оков земли](https://www.wowhead.com/ru/spell=2484) / [Тотем хватки земли](https://www.wowhead.com/ru/spell=51485) - мешает [Сгустку Бездны](https://www.wowhead.com/ru/npc=122716) достичь первого босса [Зураал Перерожденный](https://www.wowhead.com/ru/npc=122313).
+* [Гром и молния](https://www.wowhead.com/ru/spell=51490) – прерывает [Залп стрел](https://www.wowhead.com/ru/spell=1308113) которое направляет [Песчаный охотник](https://www.wowhead.com/ru/npc=134600).
+* [Гром и молния](https://www.wowhead.com/ru/spell=51490) – прерывает [Клубок змей](https://www.wowhead.com/ru/spell=263958) которое направляет [Клубок змей](https://www.wowhead.com/ru/npc=134388) на втором боссе [Меректа](https://www.wowhead.com/ru/npc=133384).
+* [Гром и молния](https://www.wowhead.com/ru/spell=51490) – мешает [Мучителю-отступнику](https://www.wowhead.com/ru/npc=268317) достичь вашего лекаря на последнем боссе [Аватара Сетралисс](https://www.wowhead.com/ru/npc=133392).
+* [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снимает [Помутнение разума](https://www.wowhead.com/ru/spell=1314082) дебафф, который накладывает [Отступник-подчинитель](https://www.wowhead.com/ru/npc=134364). Также, это заклинание можно прервать.
+* [Тотем оков земли](https://www.wowhead.com/ru/spell=2484) / [Тотем хватки земли](https://www.wowhead.com/ru/spell=51485) – мешает [Мучителю-отступнику](https://www.wowhead.com/ru/npc=268317) достичь вашего лекаря на последнем боссе [Аватара Сетралисс](https://www.wowhead.com/ru/npc=133392).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый плевок](https://www.wowhead.com/ru/spell=267027) дебафф, который накладывает [Ядовитая гадюка](https://www.wowhead.com/ru/npc=134389) на втором боссе [Меректа](https://www.wowhead.com/ru/npc=133384). Также, это заклинание можно прервать.
+* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Накопление заряда](https://www.wowhead.com/ru/spell=1310739) c [Беспокойное облако](https://www.wowhead.com/ru/npc=136076) (треш перед [Гальваззт](https://www.wowhead.com/ru/npc=133389)).
+* ? [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Отравляющий подлый трюк](https://www.wowhead.com/ru/spell=1308100) дебафф, который накладывает [Скрытный убийца](https://www.wowhead.com/ru/npc=134602). Также, это заклинание можно прервать.
+* ? [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Цитотоксин](https://www.wowhead.com/ru/spell=1308148) дебафф, который накладывает [Ядовитая гадюка](https://www.wowhead.com/ru/npc=135562).
 
-## Небесный Путь
+## Слепящая долина
 
-* [Порыв ветра](https://www.wowhead.com/ru/spell=192063) - Пропускает часть лабиринта ветра после третьего босса [Рухран](https://www.wowhead.com/ru/npc=76379).
-* ? [Порыв ветра](https://www.wowhead.com/ru/spell=192063) - Прыгните обратно на платформу, если вас сбросил [Солнечный ревнитель](https://www.wowhead.com/ru/npc=76267) на последнем боссе [Высший мудрец Вирикс](https://www.wowhead.com/ru/npc=76266).
-* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Порывы ветра](https://www.wowhead.com/ru/spell=1254670/) с [Араккоа-изгой - воин](https://www.wowhead.com/ru/npc=78096).
-* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Солнечный барьер](https://www.wowhead.com/ru/spell=1273356), который накладывает [Жрица Слепящего солнца](https://www.wowhead.com/ru/npc=79462).
-* ? [Тотем оков земли](https://www.wowhead.com/ru/spell=2484) / [Тотем хватки земли](https://www.wowhead.com/ru/spell=51485) - замедляет [Солнечного коготя](https://www.wowhead.com/ru/npc=79093), когда он произносит [Кровавое безумие](https://www.wowhead.com/ru/spell=1254690).
-* ? [Тотем оков земли](https://www.wowhead.com/ru/spell=2484) / [Тотем хватки земли](https://www.wowhead.com/ru/spell=51485) - замедляет [Солнечную вспышку](https://www.wowhead.com/ru/npc=76227) на третьем боссе [Рухран](https://www.wowhead.com/ru/npc=76379).
+* [Поступь духа](https://www.wowhead.com/ru/spell=58875) – снимает [Корни кровошипа](https://www.wowhead.com/ru/spell=1236658) дебафф, который накладывается на втором боссе [Икузз Охотник Света](https://www.wowhead.com/ru/npc=244887).
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Токсичный плевок](https://www.wowhead.com/ru/spell=1250937) дебафф, который накладывает [Бульбожаба-матриарх](https://www.wowhead.com/ru/npc=249756).
+* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимают [Колючки со спор](https://www.wowhead.com/ru/spell=1238084) дебафф, который накладывает [Плеточник](https://www.wowhead.com/ru/npc=245410).
+* ? [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Колючки со спор](https://www.wowhead.com/ru/spell=1238084) дебафф, который накладывает [Плеточник](https://www.wowhead.com/ru/npc=245410).
 
-## Шпили Ветрокрылых
+## Арена Шрама Бездны
 
-* **!** [Очищение духа](https://www.wowhead.com/ru/spell=51886) – снимает [Проклятие тьмы](https://www.wowhead.com/ru/spell=474105), которое накладывает второй босс ([Калис](https://www.wowhead.com/ru/npc=231626)).
-* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Отравленные клинки](https://www.wowhead.com/ru/spell=473794), которые накладывает [Ретивый головорез](https://www.wowhead.com/ru/npc=232171). Также, это заклинание можно прервать.
-* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370/) - снимает [Усиливающее пламя](https://www.wowhead.com/ru/spell=1216860) с [Враждебный дракондор](https://www.wowhead.com/ru/npc=236891).
-* ? [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Брызги яда](https://www.wowhead.com/ru/spell=1216822), которые накладывает [Ползучий паук-прядильщик](https://www.wowhead.com/ru/npc=232067).
-* ? [Тотем трепета](https://www.wowhead.com/ru/spell=8143) - снимает [Устрашающий крик](https://www.wowhead.com/ru/spell=1253030), который накладывает третий босс [Командир Кролук](https://www.wowhead.com/ru/npc=231631). Также, этот дебафф можно избежать.
+* [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Ядовитый всплеск](https://www.wowhead.com/ru/spell=1226031) дебафф, который накладывает второй босс [Атрокс](https://www.wowhead.com/ru/npc=239008).
+* ? [Гром и молния](https://www.wowhead.com/ru/spell=51490) – прерывает [Исцеляющая Бездна](https://www.wowhead.com/ru/spell=1310324) которое направляет [Смотритель Бездны](https://www.wowhead.com/ru/npc=244708).
+* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимает [Концентрированная масса](https://www.wowhead.com/ru/spell=1287450) дебафф, который накладывает [Гравитационная сфера](https://www.wowhead.com/ru/npc=255001) на последнем боссе [Харон](https://www.wowhead.com/ru/npc=248015).
+* ? [Поступь духа](https://www.wowhead.com/ru/spell=58875) / [Громоподобные лапы](https://www.wowhead.com/ru/spell=378075) – снимают [Жестокие пески](https://www.wowhead.com/ru/spell=1249621) дебафф, который накладывает [Злобный кролуск](https://www.wowhead.com/ru/npc=249590).
+* ? [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Разъедающая сущность](https://www.wowhead.com/ru/spell=1289258) дебафф, который накладывает [Взбудораженный серп Бездны](https://www.wowhead.com/ru/npc=263228).
+* ? [Тотем противоядия](https://www.wowhead.com/ru/spell=383013) – снимает [Дурманящий яд](https://www.wowhead.com/ru/spell=1263971) дебафф, который накладывается на втором боссе [Атрокс](https://www.wowhead.com/ru/npc=239008). Также, этот дебафф можно избежать."
+* ? [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Жестокие пески](https://www.wowhead.com/ru/spell=1249621) дебафф, который накладывает [Злобный кролуск](https://www.wowhead.com/ru/npc=249590).
+* ? [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Концентрированная масса](https://www.wowhead.com/ru/spell=1287450) дебафф, который накладывает [Гравитационная сфера](https://www.wowhead.com/ru/npc=255001) на последнем боссе [Харон](https://www.wowhead.com/ru/npc=248015).
+* ? [Тотема трепета](https://www.wowhead.com/ru/spell=8143) – снимает [Безумный визг](https://www.wowhead.com/ru/spell=1233398) дебафф, который накладывает [Килижор-крикун](https://www.wowhead.com/ru/npc=243766). Также, это заклинание можно прервать.
 
 
 <p></p>
