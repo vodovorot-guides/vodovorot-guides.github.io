@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2026-04-10
+last_update: 2026-08-11
 title: Utility Abilities for Mythic+ Dungeons
-wow: 12.0.1
+wow: 12.1.0
 toc: true
 author: Nikyou
 description: In this article, you will learn which utility abilities to choose and where to use them in Mythic+ dungeons.
@@ -18,107 +18,128 @@ The main utility abilities available to shaman:
 * [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes Snare effect when using [Ghost Wolf](https://www.wowhead.com/spell=2645), situational talent in certain dungeons. Choice node with [Spirit Wolf](https://www.wowhead.com/spell=260878).
 * [Spirit Walk](https://www.wowhead.com/spell=58875) – movement speed buff that removes any Slow effects. Choice node with [Gust of Wind](https://www.wowhead.com/spell=192063).
 * [Gust of Wind](https://www.wowhead.com/spell=192063) – "jump" that can be used to mitigate some forced movement mechanics. Choice node with [Spirit Walk](https://www.wowhead.com/spell=58875).
-* [Earthbind Totem](https://www.wowhead.com/spell=2484) - baseline ability. An AoE slow effect, useful in certain dungeons.
+* [Earthbind Totem](https://www.wowhead.com/spell=2484) – baseline ability. An AoE slow effect, useful in certain dungeons.
 * [Earthgrab Totem](https://www.wowhead.com/spell=51485) – an upgrade to [Earthbind Totem](https://www.wowhead.com/spell=2484) that additionally roots targets the first time they are affected by the totem.
 * [Capacitor Totem](https://www.wowhead.com/spell=192058) – an AoE stun, a very useful talent in all dungeons.
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes Curse effect from friendly target, useful ability in certain dungeons.
 * [Wind Rush Totem](https://www.wowhead.com/spell=192077) – an AoE movement speed increase, situational talent that allows you to save time between packs.
-* [Purge](https://www.wowhead.com/spell=370/) – purges Magical effect from an enemy, useful ability in certain dungeons.
-* [Jet Stream](https://www.wowhead.com/spell=462817) - a situational upgrade to [Wind Rush Totem](https://www.wowhead.com/spell=192077) that adds Snare removal. Be mindful that Snare removal only only happens when buff is applied and not when buff is refreshed.
+* [Purge](https://www.wowhead.com/spell=370) – purges Magical effect from an enemy, useful ability in certain dungeons.
+* [Jet Stream](https://www.wowhead.com/spell=462817) – a situational upgrade to [Wind Rush Totem](https://www.wowhead.com/spell=192077) that adds Snare removal. Be mindful that Snare removal only only happens when buff is applied and not when buff is refreshed.
 * [Hex](https://www.wowhead.com/spell=51514) – CC ability that works on Humanoids and Beasts, very rarely used in dungeons.
 * [Tremor Totem](https://www.wowhead.com/spell=8143) – removes Fear, Charm, and Sleep effects from friendly targets, situational talent, as almost all Fear, Charm, and Sleep effects in dungeons can be avoided by interrupting casts or leaving the affected area. Choice node with [Poison Cleansing Totem](https://www.wowhead.com/spell=383013).
 * [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes Poison effects from friendly targets, useful ability in certain dungeons. Choice node with [Tremor Totem](https://www.wowhead.com/spell=8143).
-* [Thunderstorm](https://www.wowhead.com/spell=51490) - elemental only baseline ability. An AoE that knocks away enemies, useful to get enemies away from you or other players. Can also be used as a stun substitude for interrupts (be mindful of a knockback effect).
+* [Thunderstorm](https://www.wowhead.com/spell=51490) – elemental only baseline ability. An AoE that knocks away enemies, useful to get enemies away from you or other players. Can also be used as a stun substitude for interrupts (be mindful of a knockback effect).
 
 # Legend
-* **!** - strong impact, a must have pick in most cases.
-* *no indication* - moderate impact, taking and using this ability is recommended.
-* ? - low impact, taking and using this ability for this alone is not worth in most cases.
+* **!** – strong impact, a must have pick in most cases.
+* *no indication* – moderate impact, taking and using this ability is recommended.
+* ? – low impact, taking and using this ability for this alone is not worth in most cases.
 
 # Affixes
 
 **Affix [Xal'atath's Bargain: Ascendant](https://www.wowhead.com/affix=148):**
 * [Capacitor Totem](https://www.wowhead.com/spell=192058) – destroys all orbs in the radius.
-* [Purge](https://www.wowhead.com/spell=370/) – purges an orb.
+* [Purge](https://www.wowhead.com/spell=370) – purges an orb.
 * [Thunderstorm](https://www.wowhead.com/spell=51490) – destroys all orbs in the radius.
 
 **Affix [Xal'atath's Bargain: Devour](https://www.wowhead.com/affix=160):**
 * [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes a curse from the player.
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – greatly simplifies this affix, one use of the totem will remove poisons from all players (after a period of 1.5 seconds).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – greatly simplifies this affix, one use of the totem will remove poisons from all players.
 * [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes the affix from yourself.
-* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes the affix from yourself, does not work on other players.
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes the affix from everyone affected by the totem.
 
 # Dungeons
 
-## Algeth'ar Academy
+## Altar of Fangs
 
-* [Gust of Wind](https://www.wowhead.com/spell=192063) - mitigates effects of [Power Vacuum](https://www.wowhead.com/spell=388822) on the last boss [Echo of Doragosa](https://www.wowhead.com/npc=190609).
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Lasher Toxin](https://www.wowhead.com/spell=389033) inflicted by [Hungry Lasher](https://www.wowhead.com/npc=197398) on the first boss [Overgrown Ancient](https://www.wowhead.com/npc=196482).
-* [Tremor Totem](https://www.wowhead.com/spell=8143) - removes [Monotonous Lecture](https://www.wowhead.com/spell=388392) inflicted by [Unruly Textbook](https://www.wowhead.com/npc=196044) (trash before [Vexamus](https://www.wowhead.com/npc=194181)). Also, this cast can be interrupted.
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Mass Envenom](https://www.wowhead.com/spell=1307567) debuff inflicted by [Ula'tek's Chosen](https://www.wowhead.com/npc=263109). Also, this cast can be interrupted.
+* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Paralyzing Shots](https://www.wowhead.com/spell=1294569) debuff inflicted by [Twinfang Harrower](https://www.wowhead.com/npc=272271).
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Paralyzing Shots](https://www.wowhead.com/spell=1294569) debuff inflicted by [Twinfang Harrower](https://www.wowhead.com/npc=272271).
+* ? [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) – slows [Hatchling](https://www.wowhead.com/npc=261556) when they cast [Nascent Hunger](https://www.wowhead.com/spell=1306383).
+* ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Envenom](https://www.wowhead.com/spell=389033) debuff inflicted by [High Evolutionist](https://www.wowhead.com/npc=261557). Also, this cast can be interrupted.
+* ? [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Regurgitate](https://www.wowhead.com/spell=1296069) debuff inflicted on the first boss [Rav'i](https://www.wowhead.com/npc=259445). Also, this debuff can be avoided.
+* ? [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Toxic Atrophy](https://www.wowhead.com/spell=1310358) debuff inflicted on the second boss [The Writhing Coil](https://www.wowhead.com/npc=259446). Also, this cast can be interrupted.
+* ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Regurgitate](https://www.wowhead.com/spell=1296069) debuff inflicted on the first boss [Rav'i](https://www.wowhead.com/npc=259445). Also, this debuff can be avoided.
+* ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Toxic Atrophy](https://www.wowhead.com/spell=1310358) debuff inflicted on the second boss [The Writhing Coil](https://www.wowhead.com/npc=259446). Also, this cast can be interrupted.
 
-## Magisters' Terrace
+## Den of Nalorakk
 
-* [Purge](https://www.wowhead.com/spell=370/) - removes [Arcane Blade](https://www.wowhead.com/spell=1252909/) on [Sunblade Enforcer](https://www.wowhead.com/npc=234124/).
-* [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Entropy Orb](https://www.wowhead.com/spell=1269631) by contact with orbs on the last boss [Degentrius](https://www.wowhead.com/npc=231865).
-* [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Ethereal Shackles](https://www.wowhead.com/spell=1214038) inflicted by the first boss [Arcanotron Custos](https://www.wowhead.com/npc=231861).
-* [Tremor Totem](https://www.wowhead.com/spell=8143) - removes [Terror Wave](https://www.wowhead.com/spell=1264693) inflicted by [Void Terror](https://www.wowhead.com/npc=231552) (trash before [Gemellus](https://www.wowhead.com/npc=231864)). Also, this cast can be interrupted and LoS.
-* ? [Purge](https://www.wowhead.com/spell=370/) - removes [Hastening Ward](https://www.wowhead.com/spell=1248689/) on the second boss [Seranel Sunlash](https://www.wowhead.com/npc=231863/).
-* ? [Purge](https://www.wowhead.com/spell=370/) - removes [Power Word: Shield](https://www.wowhead.com/spell=1254306/) cast by [Lightward Healer](https://www.wowhead.com/npc=234486/).
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Insatiable Hunger](https://www.wowhead.com/spell=1238801) debuff inflicted by [Starvation Effigy](https://www.wowhead.com/npc=245567), which is summoned by [Spirit of Hunger](https://www.wowhead.com/npc=245855).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Toxic Spores](https://www.wowhead.com/spell=1234846) debuff inflicted on the first boss [The Hoardmonger](https://www.wowhead.com/npc=248710).
+* [Purge](https://www.wowhead.com/spell=370) – removes [Healing Breeze](https://www.wowhead.com/spell=1297696) cast by [Earthwhisper Tender](https://www.wowhead.com/npc=241814). Also, this cast can be interrupted.
+* [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Glacial Tombn](https://www.wowhead.com/spell=1241464) debuff inflicted by [Avatar of Determination](https://www.wowhead.com/npc=241869).
+* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Frigid Roar](https://www.wowhead.com/spell=1309919) debuff inflicted by [](https://www.wowhead.com/npc=241872). Also, this cast can be interrupted.
+* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Frigid Roar](https://www.wowhead.com/spell=1309919) debuff inflicted by [Frigid Mauler](https://www.wowhead.com/npc=241872). Also, this cast can be interrupted.
+* ? [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Rime Detonation](https://www.wowhead.com/spell=1263597) debuff inflicted by not soaking the void zone on the second boss [Sentinel of Winter](https://www.wowhead.com/npc=261053).
 
-## Maisara Caverns
+## Kings' Rest
 
-* **!** [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Ritual Sacrifice](https://www.wowhead.com/spell=1259794) inflicted by [Rokh'zal](https://www.wowhead.com/npc=253683).
-* [Purge](https://www.wowhead.com/spell=370/) - removes [Grim Ward](https://www.wowhead.com/spell=1270079/) on [Grim Skirmisher](https://www.wowhead.com/npc=248690/).
-* ? [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Cries of the Fallen](https://www.wowhead.com/spell=1254175) inflicted by contact with [Lost Soul](https://www.wowhead.com/npc=1531) on last boss [Rak'tul](https://www.wowhead.com/npc=248605).
-* ? [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Frost Nova](https://www.wowhead.com/spell=1271623) inflicted by [Hollow Soulrender](https://www.wowhead.com/npc=249024).
-* ? [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Hooked Snare](https://www.wowhead.com/spell=1266381) inflicted by [Keen Headhunter](https://www.wowhead.com/npc=242964). Also, this cast can be interrupted.
+* **!** [Purge](https://www.wowhead.com/spell=370) – removes [Bind Soul](https://www.wowhead.com/spell=270920) debuff inflicted by [Queen Wasi](https://www.wowhead.com/npc=137478) (trash before [Mchimba the Embalmer](https://www.wowhead.com/npc=134993)).
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Hex Volley](https://www.wowhead.com/spell=269972) debuff inflicted by [Shadow-Borne Witch Doctor](https://www.wowhead.com/npc=134174). Also, this cast can be interrupted.
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Hex](https://www.wowhead.com/spell=270492) debuff inflicted by [Spectral Hex Priest](https://www.wowhead.com/npc=135204) (trash before the third boss). Also, this cast can be interrupted.
+* [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) – prevents [Animated Gold](https://www.wowhead.com/npc=135406) from reaching the first boss [The Golden Serpent](https://www.wowhead.com/npc=135322).
+* [Purge](https://www.wowhead.com/spell=370) – removes [Unholy Mending](https://www.wowhead.com/spell=270901) cast by [Seneschal M'bara](https://www.wowhead.com/npc=134251) (trash before [Mchimba the Embalmer](https://www.wowhead.com/npc=134993)). Also, this cast can be interrupted.
+* ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Lingering Fluid](https://www.wowhead.com/spell=271564) debuff inflicted by [Embalming Fluid](https://www.wowhead.com/npc=137989) (trash before [Mchimba the Embalmer](https://www.wowhead.com/npc=134993)).
+* ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Poison Nova](https://www.wowhead.com/spell=267273) debuff inflicted on the third boss [Zanazal the Wise](https://www.wowhead.com/npc=135472). Also, this cast can be interrupted.
+* ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Serpent Strike](https://www.wowhead.com/spell=1306763) debuff inflicted by [Queen Patlaa](https://www.wowhead.com/npc=137486).
+* ? [Purge](https://www.wowhead.com/spell=370) – removes [Bound by Shadow](https://www.wowhead.com/spell=269935) on [Minion of Zul](https://www.wowhead.com/npc=133943).
+* ? [Purge](https://www.wowhead.com/spell=370) – removes [Captain's Bulwark](https://www.wowhead.com/spell=1296671) cast by [Guard Captain Atu](https://www.wowhead.com/npc=137473).
+* ? [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Frost Shock](https://www.wowhead.com/spell=270499) debuff inflicted by [Spectral Witch Doctor](https://www.wowhead.com/npc=135239) (trash before the third boss).
+* ? [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Lingering Fluid](https://www.wowhead.com/spell=271564) debuff inflicted by [Embalming Fluid](https://www.wowhead.com/npc=137989) (trash before [Mchimba the Embalmer](https://www.wowhead.com/npc=134993)).
+* ? [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Serpent Strike](https://www.wowhead.com/spell=1306763) debuff inflicted by [Queen Patlaa](https://www.wowhead.com/npc=137486).
+* ? [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Shadowfrost Bolt](https://www.wowhead.com/spell=1294815) debuff inflicted by [Shadow-Borne Witch Doctor](https://www.wowhead.com/npc=134174). Also, this cast can be interrupted.
+* ? [Tremor Totem](https://www.wowhead.com/spell=8143) – removes [Deathly Roar](https://www.wowhead.com/spell=269369) debuff inflicted by [Reban](https://www.wowhead.com/npc=136984) on the last boss [King Dazar](https://www.wowhead.com/npc=136160). Also, this cast can be interrupted.
+* ? [Tremor Totem](https://www.wowhead.com/spell=8143) – removes [Pit of Despair](https://www.wowhead.com/spell=276031) debuff inflicted by contact with [Minion of Zul](https://www.wowhead.com/npc=133943).
+* ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Frost Shock](https://www.wowhead.com/spell=270499) debuff inflicted by [Shadow-Borne Witch Doctor](https://www.wowhead.com/npc=135239) (trash before the third boss).
+* ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Lingering Fluid](https://www.wowhead.com/spell=271564) debuff inflicted by [Embalming Fluid](https://www.wowhead.com/npc=137989) (trash before [Mchimba the Embalmer](https://www.wowhead.com/npc=134993)).
+* ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Serpent Strike](https://www.wowhead.com/spell=1306763) debuff inflicted by [Queen Patlaa](https://www.wowhead.com/npc=137486).
+* ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Shadowfrost Bolt](https://www.wowhead.com/spell=1294815) debuff inflicted by [](https://www.wowhead.com/npc=134174). Also, this cast can be interrupted.
 
-## Nexus-Point Xenas
+## Murder Row
 
-* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) - removes [Supression Field](https://www.wowhead.com/spell=249081) inflicted by [Flux Engineer](https://www.wowhead.com/npc=241647).
-* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Supression Field](https://www.wowhead.com/spell=249081) inflicted by [Flux Engineer](https://www.wowhead.com/npc=241647). Debuff is removed only from yourself.
-* ? [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Creeping Void](https://www.wowhead.com/spell=1281636) inflicted by [Cursed Voidcaller](https://www.wowhead.com/npc=248706).
-* ? [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) - prevents [Smudge](https://www.wowhead.com/npc=248769) from reaching [Nascent Dreadflail](https://www.wowhead.com/npc=252903).
-* ? [Purge](https://www.wowhead.com/spell=370/) - removes [Holy Echo](https://www.wowhead.com/spell=1263785/) on [Flarebat](https://www.wowhead.com/npc=254928/).
-* ? [Tremor Totem](https://www.wowhead.com/spell=8143) - removes [Dusk Frights](https://www.wowhead.com/spell=1282724) inflicted by [Grand Nullifier](https://www.wowhead.com/npc=251853). Also, this debuff can be avoided.
+* **!** [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Curse of Doom](https://www.wowhead.com/spell=1217973) debuff inflicted by [Corrupted Warlock](https://www.wowhead.com/npc=235265).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Heartstop Poison](https://www.wowhead.com/spell=474515) debuff inflicted by the first boss [Zaen Bladesorrow](https://www.wowhead.com/npc=234649).
+* [Thunderstorm](https://www.wowhead.com/spell=51490) – stops [Seduction](https://www.wowhead.com/spell=1201554) channeled by [Seductive Sayaad](https://www.wowhead.com/npc=236082). Also, this channel can be interrupted.
+* [Tremor Totem](https://www.wowhead.com/spell=8143) – removes [Seduction](https://www.wowhead.com/spell=1201554) channeled by [Seductive Sayaad](https://www.wowhead.com/npc=236082). Also, this channel can be interrupted.
+* ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Heartstop Poison](https://www.wowhead.com/spell=1216590) debuff inflicted by [Street Sneak](https://www.wowhead.com/npc=236091).
+* ? [Purge](https://www.wowhead.com/spell=370) – removes [Fel Crazed](https://www.wowhead.com/spell=1229433) on [Felonious Mage](https://www.wowhead.com/npc=236084).
 
-## Pit of Saron
+## Ruby Life Pools
 
-* **!** [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Shadowbind](https://www.wowhead.com/spell=1264186) inflicted by the second boss [Krick](https://www.wowhead.com/npc=36477).
-* **!** [Spirit Walk](https://www.wowhead.com/spell=58875) - removes [Plungegrip](https://www.wowhead.com/spell=1258997) inflicted by [Plungetalon Gargoyle](https://www.wowhead.com/npc=252707).
-* **!** [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Shadowbind](https://www.wowhead.com/spell=1264186) inflicted by the second boss [Krick](https://www.wowhead.com/npc=36477).
-* **!** [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Shadowbind](https://www.wowhead.com/spell=1264186) inflicted by the second boss [Krick](https://www.wowhead.com/npc=36477). Debuff is removed only from yourself.
-* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Curse of Torment](https://www.wowhead.com/spell=1258434) inflicted by [Quarry Tormentor](https://www.wowhead.com/npc=252561).
-* [Spirit Walk](https://www.wowhead.com/spell=58875) - removes [Permeating Cold](https://www.wowhead.com/spell=1258437) inflicted by [Rimebone Coldwraith](https://www.wowhead.com/npc=252566).
-* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) - removes [Cryoshards](https://www.wowhead.com/spell=1261921) inflicted by the first boss [Forgemaster Garfrost](https://www.wowhead.com/npc=36494).
-* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Cryoshards](https://www.wowhead.com/spell=1261921) inflicted by the first boss [Forgemaster Garfrost](https://www.wowhead.com/npc=36494). Debuff is removed only from yourself.
-* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) - removes [Permeating Cold](https://www.wowhead.com/spell=1258437) inflicted by [Rimebone Coldwraith](https://www.wowhead.com/npc=252566). Debuff is removed only from yourself.
-* ? [Purge](https://www.wowhead.com/spell=370/) - removes [Necromantic Infusion](https://www.wowhead.com/spell=1258448/) cast by [Deathwhisper Necrolyte](https://www.wowhead.com/npc=252551/).
+* ? [Purge](https://www.wowhead.com/spell=370) – removes [Blaze of Glory](https://www.wowhead.com/spell=373972) on [Primalist Flamedancer](https://www.wowhead.com/npc=190206), which kills the add (trash before the second boss).
+* ? [Purge](https://www.wowhead.com/spell=370) – removes [Stormcloud Barrier](https://www.wowhead.com/spell=391031) on [Primal Thundercloud](https://www.wowhead.com/npc=197509) (trash before the last boss).
+* ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Cold Claws](https://www.wowhead.com/spell=1305234) debuff inflicted by [](https://www.wowhead.com/npc=189893).
 
-## Seat of the Triumvirate
+## Temple of Sethraliss
 
-* **!** [Purge](https://www.wowhead.com/spell=370/) - removes [Abyssal Enhancement](https://www.wowhead.com/spell=1252909/) on [Dire Voidbender](https://www.wowhead.com/npc=122404/).
-* [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) - prevents [Coalesced Void](https://www.wowhead.com/npc=122716) from reaching the first boss [Zuraal the Ascended](https://www.wowhead.com/npc=122313).
-* [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Chains of Subjugation](https://www.wowhead.com/spell=1262509) inflicted by [Merciless Subjugator](https://www.wowhead.com/npc=124171).
-* [Thunderstorm](https://www.wowhead.com/spell=51490) - prevents [Coalesced Void](https://www.wowhead.com/npc=122716) from reaching the first boss [Zuraal the Ascended](https://www.wowhead.com/npc=122313).
-* [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Chains of Subjugation](https://www.wowhead.com/spell=1262509) inflicted by [Merciless Subjugator](https://www.wowhead.com/npc=124171). Debuff is removed only from yourself.
+* [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Addle Mind](https://www.wowhead.com/spell=1314082) debuff inflicted by [Faithless Tender](https://www.wowhead.com/npc=134364). Also, this cast can be interrupted.
+* [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) – prevents [Faithless Tormentor](https://www.wowhead.com/npc=268317) from reaching your healer on the last boss [Avatar of Sethraliss](https://www.wowhead.com/npc=133392).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Poison Spit](https://www.wowhead.com/spell=267027) debuff inflicted by [Venomous Ophidian](https://www.wowhead.com/npc=134389) on the second boss [Merektha](https://www.wowhead.com/npc=133384). Also, this cast can be interrupted.
+* [Thunderstorm](https://www.wowhead.com/spell=51490) – stops [A Knot of Snakes](https://www.wowhead.com/spell=263958) channeled by [A Knot of Snakes](https://www.wowhead.com/npc=134388) on the second boss [Merektha](https://www.wowhead.com/npc=133384).
+* [Thunderstorm](https://www.wowhead.com/spell=51490) – prevents [Faithless Tormentor](https://www.wowhead.com/npc=268317) from reaching your healer on the last boss [Avatar of Sethraliss](https://www.wowhead.com/npc=133392).
+* [Thunderstorm](https://www.wowhead.com/spell=51490) – stops [Arrow Barrage](https://www.wowhead.com/spell=1308113) channeled by [Sandswept Marksman](https://www.wowhead.com/npc=134600).
+* ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Cytotoxin](https://www.wowhead.com/spell=1308148) debuff inflicted by [Venomous Ophidian](https://www.wowhead.com/npc=135562).
+* ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Poisoned Cheap Shot](https://www.wowhead.com/spell=1308100) debuff inflicted by [Shrouded Fang](https://www.wowhead.com/npc=134602). Also, this cast can be interrupted.
+* ? [Purge](https://www.wowhead.com/spell=370) – removes [Accumulate Charge](https://www.wowhead.com/spell=1310739) on [Agitated Nimbus](https://www.wowhead.com/npc=136076) (trash before [Galvazzt](https://www.wowhead.com/npc=133389)).
 
-## Skyreach
+## The Blinding Vale
 
-* [Gust of Wind](https://www.wowhead.com/spell=192063) - skips part of the wind maze after the third boss [Rukhran](https://www.wowhead.com/npc=76379).
-* ? [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) - slows [Suntalon](https://www.wowhead.com/npc=79093) when they cast [Bloodcrazed](https://www.wowhead.com/spell=1254690).
-* ? [Earthbind Totem](https://www.wowhead.com/spell=2484) / [Earthgrab Totem](https://www.wowhead.com/spell=51485) - slows [Sunwings](https://www.wowhead.com/npc=76227) on the third boss [Rukhran](https://www.wowhead.com/npc=76379).
-* ? [Gust of Wind](https://www.wowhead.com/spell=192063) - jump back to the platform if you are thrown off by [Solar Zealot](https://www.wowhead.com/npc=76267) on the last boss [High Sage Viryx](https://www.wowhead.com/npc=76266).
-* ? [Purge](https://www.wowhead.com/spell=370/) - removes [Rushing Winds](https://www.wowhead.com/spell=1254670/) on [Arakkoa Outcast Warrior](https://www.wowhead.com/npc=78096).
-* ? [Purge](https://www.wowhead.com/spell=370/) - removes [Solar Barrier](https://www.wowhead.com/spell=1273356) cast by [Blinding Sun Priestess](https://www.wowhead.com/npc=79462).
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Toxic Spew](https://www.wowhead.com/spell=1250937) debuff inflicted by [Potatoad Matriarch](https://www.wowhead.com/npc=249756).
+* [Spirit Walk](https://www.wowhead.com/spell=58875) – removes [Bloodthorn Roots](https://www.wowhead.com/spell=1236658) debuff inflicted on the second boss [Ikuzz the Light Hunter](https://www.wowhead.com/npc=244887).
+* ? [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Spore Spines](https://www.wowhead.com/spell=1238084) debuff inflicted by [](https://www.wowhead.com/npc=245410).
+* ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Spore Spines](https://www.wowhead.com/spell=1238084) debuff inflicted by [Lasher](https://www.wowhead.com/npc=245410).
 
-## Windrunner Spire
+## Voidscar Arena
 
-* **!** [Cleanse Spirit](https://www.wowhead.com/spell=51886) – removes [Curse of Darkness](https://www.wowhead.com/spell=474105) inflicted by the second boss [Kalis](https://www.wowhead.com/npc=231626).
-* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Poison Blades](https://www.wowhead.com/spell=473794) inflicted by [Ardent Cutthroat](https://www.wowhead.com/npc=232171). Also, this cast can be interrupted.
-* ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Poison Spray](https://www.wowhead.com/spell=1216822) inflicted by [Creeping Spindleweb](https://www.wowhead.com/npc=232067).
-* ? [Purge](https://www.wowhead.com/spell=370/) - removes [Bolstering Flames](https://www.wowhead.com/spell=1216860) on [Territorial Dragonhawk](https://www.wowhead.com/npc=236891).
-* ? [Tremor Totem](https://www.wowhead.com/spell=8143) - removes [Intimidating Shout](https://www.wowhead.com/spell=1253030) inflicted by the third boss [Commander Kroluk](https://www.wowhead.com/npc=231631). Also, this debuff can be avoided.
+* [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Poison Splash](https://www.wowhead.com/spell=1226031) debuff inflicted by the second boss [Atroxus](https://www.wowhead.com/npc=239008).
+* ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Corrosive Essence](https://www.wowhead.com/spell=1289258) debuff inflicted by [Agitated Voidscythe](https://www.wowhead.com/npc=263228).
+* ? [Poison Cleansing Totem](https://www.wowhead.com/spell=383013) – removes [Mind–Numbing Poison](https://www.wowhead.com/spell=1263971) debuff inflicted on the second boss [Atroxus](https://www.wowhead.com/npc=239008). Also, this debuff can be avoided.
+* ? [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Violent Sand](https://www.wowhead.com/spell=1249621) debuff inflicted by [Angry Krolusk](https://www.wowhead.com/npc=249590).
+* ? [Spirit Walk](https://www.wowhead.com/spell=58875) / [Thunderous Paws](https://www.wowhead.com/spell=378075) – removes [Condensed Mass](https://www.wowhead.com/spell=1287450) debuff inflicted by [Gravitic Orb](https://www.wowhead.com/npc=255001) on the last boss [Charonus](https://www.wowhead.com/npc=248015).
+* ? [Thunderstorm](https://www.wowhead.com/spell=51490) – stops [Mending Void](https://www.wowhead.com/spell=1310324) channeled by [Voidminder](https://www.wowhead.com/npc=244708).
+* ? [Tremor Totem](https://www.wowhead.com/spell=8143) – removes [Mad Shriek](https://www.wowhead.com/spell=1233398) debuff inflicted by [Kilivore Screamer](https://www.wowhead.com/npc=243766). Also, this cast can be interrupted.
+* ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Violent Sand](https://www.wowhead.com/spell=1249621) debuff inflicted by [Angry Krolusk](https://www.wowhead.com/npc=249590).
+* ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Condensed Mass](https://www.wowhead.com/spell=1287450) debuff inflicted by [Gravitic Orb](https://www.wowhead.com/npc=255001) on the last boss [Charonus](https://www.wowhead.com/npc=248015).
 
 
 <p></p>
