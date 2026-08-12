@@ -32,7 +32,7 @@ custom-javascript-list:
 
 <p></p>
 
-{% include button.html name="Полный разбор изменений Элем Шамана в патче 12.1" link="https://stormkeeper.ru/2026/07/02/ptr.html#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80-%D1%88%D0%B0%D0%BC%D0%B0%D0%BD%D0%B0" %}  
+{% include button.html name="Полный разбор изменений Рестор Шамана в патче 12.1" link="https://stormkeeper.ru/2026/07/02/ptr.html#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80-%D1%88%D0%B0%D0%BC%D0%B0%D0%BD%D0%B0" %}  
 
 <p></p>
 
@@ -133,7 +133,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMzMzMzMmxYxMLwAmgZhJwYBzMY2mZmRz2yMDmZwyMmZMjlZBAAGgZmBAzMMGM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsssNzMzMjZGjZMWMzCMgJYWYCMWwMDmtZGjmtlZmNzYWYxYmxwysMAAAwMzAgZGYwM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 

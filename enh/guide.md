@@ -29,7 +29,7 @@ custom-javascript-list:
 
 <p></p>
 
-{% include button.html name="Полный разбор изменений Элем Шамана в патче 12.1" link="https://stormkeeper.ru/2026/07/02/ptr.html#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D1%8D%D0%BD%D1%85-%D1%88%D0%B0%D0%BC%D0%B0%D0%BD%D0%B0" %}  
+{% include button.html name="Полный разбор изменений Энх Шамана в патче 12.1" link="https://stormkeeper.ru/2026/07/02/ptr.html#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D1%8D%D0%BD%D1%85-%D1%88%D0%B0%D0%BC%D0%B0%D0%BD%D0%B0" %}  
 
 <p></p>
 
