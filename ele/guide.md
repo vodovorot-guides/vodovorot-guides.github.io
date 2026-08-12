@@ -113,7 +113,7 @@ custom-javascript-list:
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
     <button type="button" id="build_ele_fs_raid" class="btn btn-primary rotation-btn">Предсказатель – Одна цель</button>
-    <button type="button" id="build_ele_fs_mplus class="btn btn-primary rotation-btn">Предсказатель – Три цели</button>
+    <button type="button" id="build_ele_fs_mplus" class="btn btn-primary rotation-btn">Предсказатель – Три цели</button>
   </div>
 </div>
 
