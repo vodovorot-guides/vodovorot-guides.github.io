@@ -41,7 +41,7 @@ custom-javascript-list:
 
 <p></p>
 
-{% include youtube.html id="sCd7FijSrtA&t" %}
+{% include youtube.html id="sCd7FijSrtA" %}
 
 <p></p>
 
