@@ -111,65 +111,38 @@ function on_build_button_click(button, talent_list) {
 }
 
 
-$('button#build_ele_raid_storm').on('click', function() {
-    on_build_button_click(this, ["tempest", "eb", "mote"]);
+$('button#build_ele_fs_raid').on('click', function() {
+    on_build_button_click(this, ["eb", "mote", "fusion", ]);
     return false;
 });
 
-$('button#build_ele_raid_fs').on('click', function() {
-    on_build_button_click(this, ["eb", "vb", "pf"]);
+$('button#build_ele_fs_mplus').on('click', function() {
+    on_build_button_click(this, ["eb", "vb", "pf", ]);
     return false;
 });
 
-$('button#build_ele_raid_fs_3t').on('click', function() {
-    on_build_button_click(this, ["vb", "pf"]);
+
+$('button#build_enh_storm').on('click', function() {
+    on_build_button_click(this, ["asc"]);
     return false;
 });
 
-$('button#build_ele_mplus').on('click', function() {
-    on_build_button_click(this, ["tempest", "eb", "vb"]);
-    return false;
-});
-
-$('button#build_ele_delve').on('click', function() {
-    on_build_button_click(this, ["vb", "pf"]);
-    return false;
-});
-
-$('button#build_enh_totem_st').on('click', function() {
+$('button#build_enh_totem').on('click', function() {
     on_build_button_click(this, ["totem", "sunder", "pw", "hh", "dw"]);
     return false;
 });
 
-$('button#build_enh_totem_aoe').on('click', function() {
-    on_build_button_click(this, ["totem", "fn", "sunder", "pw", "hh", "dw"]);
-    return false;
-});
 
-$('button#build_enh_storm_st').on('click', function() {
-    on_build_button_click(this, ["sunder", "pw", "asc"]);
-    return false;
-});
-
-$('button#build_enh_storm_aoe').on('click', function() {
-    on_build_button_click(this, ["fn", "sunder", "pw", "asc"]);
-    return false;
-});
-
-$('button#build_resto_farseer_raid').on('click', function() {
-    on_build_button_click(this, ["asc", "dre", "rain"]);
-    return false;
-});
-
-$('button#build_resto_farseer_mplus').on('click', function() {
-    on_build_button_click(this, ["asc", "dre"]);
+$('button#build_resto_farseer').on('click', function() {
+    on_build_button_click(this, ["ul"]);
     return false;
 });
 
 $('button#build_resto_totem').on('click', function() {
-    on_build_button_click(this, ["totem", "rain"]);
+    on_build_button_click(this, ["totem"]);
     return false;
 });
+
 
 $("button[id^='target_']").on('click', function() {
     reset_target_buttons_state();

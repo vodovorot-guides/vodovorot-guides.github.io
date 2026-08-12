@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2026-06-17
+last_update: 2026-08-12
 title: Гайд на Рестор Шамана
-wow: 12.0.7
+wow: 12.1
 toc: true
 author: Amani, Harreks
 description: Большое руководство по всем аспектам игры за Шамана Исцеления. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и многое другое.
@@ -28,11 +28,29 @@ custom-javascript-list:
 
 
 
+# Изменения Рестора в 12.1
+
+<p></p>
+
+{% include button.html name="Полный разбор изменений Элем Шамана в патче 12.1" link="https://stormkeeper.ru/2026/07/02/ptr.html#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80-%D1%88%D0%B0%D0%BC%D0%B0%D0%BD%D0%B0" %}  
+
+<p></p>
+
+
+Видео с разбором изменений:
+
+<p></p>
+
+{% include youtube.html id="sCd7FijSrtA&t" %}
+
+<p></p>
+
+
 # Билды талантов
 
-На данный момент играется в основном **Тотемист**. 
+На старте патча **12.1** обе героические ветки могут играться во всех типах контента, **Тотемист** удобнее в использовании чем **Предсказатель** и его проще отыгрвать эффективно.
 
-**Тотемист** гораздо проще в реализации и дает большое количество АоЕ хила, а **Предсказатель** позволяет эффективнее хилить отдельные цели и наносит больше урона, но его сложнее отыгрывать на высоком уровне.
+
 
 
 ## Таланты для рейда
@@ -42,12 +60,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AyMwmZYglxMz0stMzwMmFWmZmZMYWGAAAYmZwMDAMYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsssNjZGjZGzMDjFYDmxiGbDIzAbmhZw2YMTz2yMzmZMLsYegZGzwsMAAAwMzgZGAYwM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -58,7 +71,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMmZGzsYmFYATwswEYsYGmBbjxMNbLzMMjZhFzMzYGmlBAAAmZGAMzADG?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsssNjZGjZGzMMWMzGMgJY2YCMWMDzgtxYmmtlZmNzYWYxMzMmhZZAAAgZmBAzMwgZA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -72,7 +85,7 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYB2gZsox2AyMwGmZwsNzY0ssMzsZGzGLGzMGWmlBAADgZGMzAwYwA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZGjZgFYDmxiGbDIzAbMzMY2mZMa2WmZ2MjZhFjZGDLzyAAAAzMDmZAgBzA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
@@ -86,23 +99,6 @@ custom-javascript-list:
 <p></p>
 
 
-
-<hr style="height:1px;background-color:#bbb">
-<p></p>
-
-Билд **Тотемиста** для новичков и низких ключей:
-
-
-<p></p>
-
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzMzMzYGzYBWgZsox2AyMwGjZwsNzY0ssMzsZGzGLmHYmxgZZAAwAYmBzMAwgB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
-
-<p></p>
-
-* Вспомогательные таланты можно менять в зависимости от подземелья, переключаясь между [Ветрами Ал'акира](https://www.wowhead.com/ru/spell=382215), [Тотемом хватки земли](https://www.wowhead.com/ru/spell=51485/), [Улучшенным возрождением духа](https://www.wowhead.com/ru/spell=383016), [Развеиванием магии](https://www.wowhead.com/ru/spell=370), [Тотемом противоядия](https://www.wowhead.com/ru/spell=383013) и [Тотемом трепета](https://www.wowhead.com/ru/spell=8143).
-* Аддон для напоминания о необходимых вспомогательных талантах: [Mythic Plus Utility - MPU](https://www.curseforge.com/wow/addons/mythic-plus-utility-mpu).
-
-<p></p>
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -113,11 +109,13 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbYmZGzMGzYmFzsADYCmFmAjFmZGMbzMGNbLzMMjZhFjZGzYZWGAAMAzMDAmZgBD?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsssNzMzMjZGjZMWMzCMgJYWYCMWwMDmtZGjmtlZmNzYWYxYmxwysMAAAwMzAgZGYwM?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
 
-* Вспомогательные таланты можно менять в зависимости от подземелья, переключаясь между [Ветрами Ал'акира](https://www.wowhead.com/ru/spell=382215), [Тотемом хватки земли](https://www.wowhead.com/ru/spell=51485/), [Улучшенным возрождением духа](https://www.wowhead.com/ru/spell=383016), [Развеиванием магии](https://www.wowhead.com/ru/spell=370), [Тотемом противоядия](https://www.wowhead.com/ru/spell=383013) и [Тотемом трепета](https://www.wowhead.com/ru/spell=8143).
+* Вспомогательные таланты можно менять в зависимости от подземелья, переключаясь между [Ветрами Ал'акира](https://www.wowhead.com/ru/spell=382215), [Тотемом хватки земли](https://www.wowhead.com/ru/spell=51485/), [Улучшенным возрождением духа](https://www.wowhead.com/ru/spell=383016), [Развеиванием магии](https://www.wowhead.com/ru/spell=370), [Тотемом противоядия](https://www.wowhead.com/ru/spell=383013) и [Тотемом трепета](https://www.wowhead.com/ru/spell=8143). 
+* Аддон для напоминания о необходимых вспомогательных талантах: [Mythic Plus Utility - MPU](https://www.curseforge.com/wow/addons/mythic-plus-utility-mpu).
+
 
 <p></p>
 
@@ -152,7 +150,7 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_resto_totem" class="btn btn-primary rotation-btn">Тотемист (Рейд и Мифик+)</button>
+    <button type="button" id="build_resto_totem" class="btn btn-primary rotation-btn">Тотемист</button>
     <button type="button" id="build_resto_farseer_raid" class="btn btn-primary rotation-btn">Предсказатель</button>
   </div>
 </div>
@@ -162,13 +160,11 @@ custom-javascript-list:
   <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_totem"> [Пульсирующий тотем](https://ru.wowhead.com/spell=444995)</li>  
   <li markdown="span" class="rotation_switch">
-    <input class="form-check-input" type="checkbox" id="rotation_switch_asc"> [Перерождение](https://www.wowhead.com/ru/spell=114052/)</li>  
-  <li markdown="span" class="rotation_switch">
-    <input class="form-check-input" type="checkbox" id="rotation_switch_dre"> [Укоренившиеся стихии](https://www.wowhead.com/ru/spell=378270/)</li>  
-  <li markdown="span" class="rotation_switch">
-    <input class="form-check-input" type="checkbox" id="rotation_switch_rain"> [Целительный ливень](https://www.wowhead.com/ru/spell=73920/)</li>  
-  <li markdown="span" class="rotation_switch">
     <input class="form-check-input" type="checkbox" id="rotation_switch_dp"> [Ливневый дождь](https://www.wowhead.com/ru/spell=462486/)</li>  
+  <li markdown="span" class="rotation_switch">
+    <input class="form-check-input" type="checkbox" id="rotation_switch_ul"> [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/)</li>  
+
+    
 </ul>
 
 <p></p>
@@ -186,19 +182,19 @@ custom-javascript-list:
 <div id="st" markdown="1">
 
 Обычный приоритет
-1. {:.asc-apl}[Перерождение](https://www.wowhead.com/ru/spell=114052/) и [Тотем духовной связи](https://www.wowhead.com/ru/spell=98008/) следует использовать под самые тяжелые моменты боя.
-2. {:.no-asc-apl}[Тотем целительного прилива](https://www.wowhead.com/ru/spell=108280/) и [Тотем духовной связи](https://www.wowhead.com/ru/spell=98008/) следует использовать под самые тяжелые моменты боя.
+1. [Перерождение](https://www.wowhead.com/ru/spell=114052/) / [Тотем целительного прилива](https://www.wowhead.com/ru/spell=108280/) и [Тотем духовной связи](https://www.wowhead.com/ru/spell=98008/) следует использовать под самые тяжелые моменты боя.
 1. [Тотем потока бури](https://www.wowhead.com/ru/spell=1267068) по проку.
+1. [Быстрина](https://ru.wowhead.com/spell=61295) по кулдауну, желательно на цель без этого баффа.
+2. {:.totem-apl}[Природная стремительность](https://www.wowhead.com/ru/spell=378081) и затем сразу [Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей.
+2. {:.no-totem-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) и затем сразу [Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей.
 1. {:.totem-apl}[Пульсирующий тотем](https://ru.wowhead.com/spell=444995) по кулдауну.
   * Вы можете переставлять [Пульсирующий тотем](https://ru.wowhead.com/spell=444995) с помощью способности [Проецирование тотемов](https://www.wowhead.com/ru/spell=108287) каждые **10** секунд без ГКД.
 3. {:.totem-apl}[Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) по кулдауну.
   * Под определенные моменты боя иногда можно придержать заряды [Тотема исцеляющего потока](https://www.wowhead.com/ru/spell=5394), чтоб потом активировать сразу несколько штук.
 3. {:.dp-apl .totem-apl}[Ливневый дождь](https://www.wowhead.com/ru/spell=462486/), пока не закончился текущий [Пульсирующий тотем](https://ru.wowhead.com/spell=444995).
-1. [Быстрина](https://ru.wowhead.com/spell=61295) по кулдауну, желательно на цель без этого баффа.
-1. {:.no-totem-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) по кулдауну.
-1. [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/) по кулдауну.
+1. {:.ul-apl}[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/) по кулдауну.
 3. {:.dp-apl .no-totem-apl}[Ливневый дождь](https://www.wowhead.com/ru/spell=462486/).
-3. {:.rain-apl .no-totem-apl}[Целительный ливень](https://www.wowhead.com/ru/spell=73920/).
+3. {:.no-totem-apl}[Целительный ливень](https://www.wowhead.com/ru/spell=73920/).
 3. {:.no-totem-apl}[Тотем исцеляющего потока](https://www.wowhead.com/ru/spell=5394) по кулдауну.
 4. [Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей.
 5. Если хилить нечего, то следует наносить урон.
@@ -207,14 +203,14 @@ custom-javascript-list:
 <p></p>
 
 Подготовка к активации [Перерождения](https://www.wowhead.com/ru/spell=114052/) и его отыгрыш:
-1. {:.asc-apl}[Быстрина](https://ru.wowhead.com/spell=61295).
-1. {:.asc-apl}[Быстрина](https://ru.wowhead.com/spell=61295).
-1. {:.asc-apl}[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
-2. {:.asc-apl}[Перерождение](https://www.wowhead.com/ru/spell=114052/)
-2. {:.asc-apl}[Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей.
-2. {:.asc-apl}[Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей.
-2. {:.asc-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454)
-2. {:.asc-apl}[Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей до окончания времени действия [Перерождения](https://www.wowhead.com/ru/spell=114052/)
+1. [Быстрина](https://ru.wowhead.com/spell=61295).
+1. [Быстрина](https://ru.wowhead.com/spell=61295).
+1. {:.ul-apl}[Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/).
+2. [Перерождение](https://www.wowhead.com/ru/spell=114052/)
+2. [Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей.
+2. [Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей.
+2. [Стремительность предков](https://www.wowhead.com/ru/spell=443454)
+2. [Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064), в зависимости от количества раненых целей до окончания времени действия [Перерождения](https://www.wowhead.com/ru/spell=114052/)
 
 
 
@@ -224,7 +220,7 @@ custom-javascript-list:
 <div id="aoe" markdown="1" style="display:none;">
 
 1. {:.totem-apl}Используйте [Пульсирующий тотем](https://ru.wowhead.com/spell=444995) для нанесения урона с талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) по кулдауну.
-3. {:.rain-apl .no-totem-apl}[Целительный ливень](https://www.wowhead.com/ru/spell=73920/) для нанесения урона с талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) по кулдауну.
+3. {:.no-totem-apl}[Целительный ливень](https://www.wowhead.com/ru/spell=73920/) для нанесения урона с талантом [Кислотный дождь](https://www.wowhead.com/ru/spell=378443) по кулдауну.
 2. {:.no-totem-apl}[Стремительность предков](https://www.wowhead.com/ru/spell=443454) и [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685) можно использовать также и для нанесения урона, так как призываемые Предки наносят очень много урона.
   * Предки используют свои версии [Выброса лавы](https://ru.wowhead.com/spell=51505) и [Цепной молнии](https://ru.wowhead.com/spell=188443) в зависимости от того, какие вы применяете заклинания.
 4. {:.no-totem-apl}[Цепная молния](https://ru.wowhead.com/spell=188443), если целей **2** и более ИЛИ если в наличии **3** и более предков.
@@ -243,7 +239,7 @@ custom-javascript-list:
 # Важные моменты 
 
 
-* Постоянное развешивание [Быстрин](https://ru.wowhead.com/spell=61295) – основа игры за Предсказателя. Они дают огромное количество бонусов от различных талантов в ветке специализации и нужно всегда использовать эту способность по кулдауну. Если на всех игроках уже висит бафф [Быстрины](https://ru.wowhead.com/spell=61295), то можно обновлять самый старый из них.
+* Постоянное развешивание [Быстрин](https://ru.wowhead.com/spell=61295) – основа игры за Рестор Шамана. Они дают огромное количество проков и бонусов от различных талантов в ветке специализации и нужно всегда использовать эту способность по кулдауну. Если на всех игроках уже висит бафф [Быстрины](https://ru.wowhead.com/spell=61295), то можно обновлять самый старый из них.
 
 * [Тотем духовной связи](https://ru.wowhead.com/spell=98008) можно использовать как для снижения урона по рейду, так и для спасения отдельных игроков, например танка. Не забывайте использовать [Тотем духовной связи](https://ru.wowhead.com/spell=98008) **перед** получением урона, чтобы снизить его количество на **10%**.
 
@@ -305,22 +301,14 @@ custom-javascript-list:
 <hr style="height:1px;background-color:#bbb">
 <p></p>
 
-Приоритет статов для **Предсказателя** и **Тотемиста** в рейде:
+Приоритет статов для **Предсказателя** и **Тотемиста**:
 
 1. **Интеллект**.
 3. **Критический удар**.
-2. **Универсальность** = **Искусность**.
-5. **Скорость**.
-
-<p></p>
-
-Приоритет статов для **Предсказателя** и **Тотемиста** в Мифик+:
-
-1. **Интеллект**.
-3. **Критический удар**.
+2. **Скорость** 
 2. **Универсальность**.
-5. **Скорость**.
-4. **Искусность**.
+5. **Искусность**.
+
 
 <hr style="height:1px;background-color:#bbb">
 <p></p>
@@ -437,28 +425,41 @@ custom-javascript-list:
 
 
 
-## Туманные сердечники Бездны
-
-Лучшие варианты для бонусных бросков:
-1. **Оружие эпохального уровня** – не важно какое именно, главное повышенный уровень предметов. Для определения лучшего источника добычи оружия учитывайте какие еще предметы нужны вашему персонажу с конкретного босса или подземелья.
-2. Все предметы с Гнилотопа в рейде Споропад.
-3. [Взор ясновидца Альн](https://www.wowhead.com/ru/item=249343/)
-
 ## Комплект классовых доспехов
+Новый сетовый комплект Шамана Исцеления из обновления **12.1**, [Пророчество змеиного оракула](https://www.wowhead.com/ptr/item-set=2065), дает следующие бонусы:
 
-Сетовый комплект Шамана Стихии, [Оболочка изначального ядра](https://www.wowhead.com/ru/item-set=1988), дает следующие бонусы:
+* **2 части**: [Волна исцеления](https://www.wowhead.com/ru/spell=77472) или [Цепное исцеление](https://ru.wowhead.com/spell=1064) с некоторой вероятностью вызывают [Целительный ливень](https://www.wowhead.com/ru/spell=73920/) в области вокруг цели на **8** секунд.
+* **4 части**: Каждую секунду, один союзник в радиусе [Целительного ливня](https://www.wowhead.com/ru/spell=73920/) получает водяной щит на **10** секунд, поглощающий некоторое количество урона.
 
-* **2 части**: Время восстановления заклинания [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/) сокращается на **3** секунды, а его эффект прямого исцеления восстанавливает на **100%** больше здоровья.
-* **4 части**: [Высвободить чары жизни](https://www.wowhead.com/ru/spell=73685/) действует еще на одно заклинание с эффективностью **100%**.
+<p></p>
+
+Сетовые предметы при использовании катализатора теперь сохраняют вторичные характеристики и дополнительные оссобености от оригинального предмета.
+
+Лучшими предметами для сетового комплекта являются [Кираса пробужденного лютоклыка](https://www.wowhead.com/ru/item=271876/%D0%BA%D0%B8%D1%80%D0%B0%D1%81%D0%B0-%D0%BF%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BB%D1%8E%D1%82%D0%BE%D0%BA%D0%BB%D1%8B%D0%BA%D0%B0?bonus=13848:13708/), [Наплеч скользящих душ](https://www.wowhead.com/ru/item=268231/%D0%BD%D0%B0%D0%BF%D0%BB%D0%B5%D1%87-%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D1%85-%D0%B4%D1%83%D1%88?bonus=13848) и [Шоссы расплетенного единства](https://www.wowhead.com/ru/item=268237/). Это самые сильные предметы с последних боссов рейда.
+
+Остальные части сетового комплекта можно использовать любые, желательно без Искусности.
 
 
-Рестор Шаман носит сетовые наплечники, нагрудник, перчатки и штаны, а шлем стоит заменить на предмет с более подходящими характеристиками.
-{: class="bordered"}
 
-## Редкие предметы из рейда
 
-* [Око полуночи](https://www.wowhead.com/ru/item=249920) – данное кольцо дает на одно гнездо для самоцвета больше, чем другие кольца и является отличным вариантом для Рестора. 
-* [Вечная цепь песни Пустоты](https://www.wowhead.com/ru/item=249368) – мы не наносим урон от темной магии, поэтому прок от этого ожерелья будет для нас бесполезен. 
+## Лучшие предметы из рейда
+
+Здесь указаны предметы, которые стоит выбивать в первую очередеь и рассмотреть их получение с помощью [Туманных сердечников Бездны](https://www.wowhead.com/ru/currency=3418):
+1. [Реликварий погибели акиров](https://www.wowhead.com/ru/item=268265/%D1%80%D0%B5%D0%BB%D0%B8%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D0%B9-%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D0%B8-%D0%B0%D0%BA%D0%B8%D1%80%D0%BE%D0%B2?bonus=13335:13708:13848)
+2. [Джан'тразет, клык души](https://www.wowhead.com/ru/item=271092/%D0%B4%D0%B6%D0%B0%D0%BD%D1%82%D1%80%D0%B0%D0%B7%D0%B5%D1%82-%D0%BA%D0%BB%D1%8B%D0%BA-%D0%B4%D1%83%D1%88%D0%B8?bonus=13335:13848)
+2. [Кираса пробужденного лютоклыка](https://www.wowhead.com/ru/item=271876/%D0%BA%D0%B8%D1%80%D0%B0%D1%81%D0%B0-%D0%BF%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BB%D1%8E%D1%82%D0%BE%D0%BA%D0%BB%D1%8B%D0%BA%D0%B0?bonus=13848:13708) 
+4. [Ритуальный сосуд пленительницы душ](https://www.wowhead.com/ru/item=270162/%D1%80%D0%B8%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%81%D0%BE%D1%81%D1%83%D0%B4-%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8B-%D0%B4%D1%83%D1%88?bonus=13335:13848)
+
+## Лучшие предметы из Мифик+
+
+Здесь указаны предметы, которые стоит фармить в Мифик+:
+1. [Фляжка курьера](https://www.wowhead.com/ru/item=250215/%D1%84%D0%BB%D1%8F%D0%B6%D0%BA%D0%B0-%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80%D0%B0?bonus=13440:12806)
+2. [Перстень аманийского вождя](https://www.wowhead.com/ru/item=273792/%D0%BF%D0%B5%D1%80%D1%81%D1%82%D0%B5%D0%BD%D1%8C-%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B2%D0%BE%D0%B6%D0%B4%D1%8F?bonus=13440:13848)
+3. [Украденный драгоценный перстень](https://www.wowhead.com/ru/item=251148/%D1%83%D0%BA%D1%80%D0%B0%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B4%D1%80%D0%B0%D0%B3%D0%BE%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%B5%D1%80%D1%81%D1%82%D0%B5%D0%BD%D1%8C?bonus=13440:12806)
+
+
+
+
 
 
 ## Аксессуары
@@ -468,12 +469,12 @@ custom-javascript-list:
 {: class="bordered"}
 
 Лучшие аксессуары:
-* [Сияющий солнечный камень](https://www.wowhead.com/ru/item=252411) – лучший аксессуар для таргетного сейва в Мифик+.
-* [Лента Странника](https://www.wowhead.com/ru/item=249809/)
-* [Взор ясновидца Альн](https://www.wowhead.com/ru/item=249343/)
-* [Свет космического крещендо](https://www.wowhead.com/ru/item=249811/)
-* [Тигель беспорядочной энергии](https://www.wowhead.com/ru/item=264507/) – только в случае прокачки консоли в Буре Бездны на усиление проков. Обходит многие тринкеты **298** уровня, указанне ниже.
-* [Свисток изумрудного тренера](https://www.wowhead.com/ru/item=193718/) – дает бафф на Искусность союзникам.
+* [Ритуальный сосуд пленительницы душ](https://www.wowhead.com/ru/item=270162/%D1%80%D0%B8%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%81%D0%BE%D1%81%D1%83%D0%B4-%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8B-%D0%B4%D1%83%D1%88?bonus=13335:13848) – самый сильный аксессуар в сезоне для любого типа контента. Абсолютный фаворит в рейде и Мифик+.
+
+* [Фляжка курьера](https://www.wowhead.com/ru/item=250215/%D1%84%D0%BB%D1%8F%D0%B6%D0%BA%D0%B0-%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80%D0%B0?bonus=13440:12806)
+* [Бездонная сумка Геббо](https://www.wowhead.com/ru/item=270164/%D0%B1%D0%B5%D0%B7%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%BC%D0%BA%D0%B0-%D0%B3%D0%B5%D0%B1%D0%B1%D0%BE?bonus=13335:13848)
+* [Морской камень призывателя волн](https://www.wowhead.com/ru/item=270167/%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C-%D0%BF%D1%80%D0%B8%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BD?bonus=13335:13848)
+
 
 <p></p>
 
@@ -481,10 +482,13 @@ custom-javascript-list:
 
 ## Крафтовые предметы
 
-Крафт в начале сезона:
-1. Если у вас нет оружия эпохального уровня, то первым крафтом стоит делать [Трость Альн'ары](https://www.wowhead.com/ru/item=245770/%D1%82%D1%80%D0%BE%D1%81%D1%82%D1%8C-%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%80%D1%8B?bonus=12214:8960:12497:12066:13622:13667) с украшением [Символ Новолуния "Охота"](https://www.wowhead.com/ru/item=245875). 
-2. Наручи / Плащ с [Подкладкой из тайной ткани](https://www.wowhead.com/ru/item=240167/).
-3. Любые предметы низкого уровня.
+
+1. Щит с [Подкладкой из тайной ткани](https://www.wowhead.com/ru/item=240167).
+2. Штаны с [Подкладкой из тайной ткани](https://www.wowhead.com/ru/item=240167).
+
+<p></p>
+
+**Важно!** Если вы осваиваете эпохальный рейд в первых неделях сезона, стоит крафтить предмет с большим бюджетом характеристик, например щит и штаны. Иначе можно скрафтить ботинки или наручи.
 
 
 ## Улучшение предметов за гребни
@@ -530,7 +534,7 @@ custom-javascript-list:
 * **Чары на оружие**: [Оружие жизни земли](https://www.wowhead.com/ru/spell=382021)
 * **Руна**: [Меченная Бездной руна усиления](https://www.wowhead.com/ru/item=259085)
 * **Еда**: [Празднество Харандара](https://www.wowhead.com/ru/item=255846), либо [Невообразимое королевское жаркое](https://www.wowhead.com/ru/item=255847/).
-* **Зелье лечения**: [Луносветское лечебное зелье](https://www.wowhead.com/ru/item=241304)
+* **Зелье лечения**: [Концентрированное луносветское лечебное зелье](https://www.wowhead.com/ru/item=271883)
 
 
 <hr style="height:1px;background-color:#bbb">
