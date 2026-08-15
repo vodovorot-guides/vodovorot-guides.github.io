@@ -169,6 +169,9 @@ custom-javascript-list:
 4. {:.mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 6. {:.no-tempest-apl .no-mote-apl}[Молния](https://ru.wowhead.com/spell=188196).
 5. [Молния](https://ru.wowhead.com/spell=188196).
+6. {:.no-tempest-apl .no-mote-apl}[Молния](https://ru.wowhead.com/spell=188196).
+  * Четыре [Молнии](https://ru.wowhead.com/spell=188196) на старте боя даются затем, чтобы насткать бафф [Порыв ветра](https://www.wowhead.com/ru/spell=263806) от [Гнева бурь](https://www.wowhead.com/ru/spell=191717/).
+  * Если в этот момент прокает [Волна лавы](https://www.wowhead.com/ru/spell=77756/), то стоит сразу же использовать [Выброс лавы](https://ru.wowhead.com/spell=51505).
 5. {:.no-tempest-apl .no-mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 7. Продолжайте согласно приоритету заклинаний, указанному ниже.
 
@@ -237,10 +240,9 @@ custom-javascript-list:
 
 **Опенер в бою против 2+ целей:**
 1. [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунд до пула.
-4. {:.no-tempest-apl}[Стремительность предков](https://ru.wowhead.com/spell=448861).
 6. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/).
 3. {:.tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Природной стремительностью](https://www.wowhead.com/ru/spell=378081).
-3. {:.no-tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром и зельем.
+3. {:.no-tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Стремительностью предков](https://ru.wowhead.com/spell=448861).
 6. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
 7. Продолжайте согласно приоритету заклинаний, указанному ниже.
