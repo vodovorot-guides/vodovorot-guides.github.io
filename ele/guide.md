@@ -1,6 +1,6 @@
 ---
 layout: page
-last_update: 2026-08-12
+last_update: 2026-08-16
 title: Гайд на Элем Шамана
 wow: 12.1
 toc: true
@@ -166,9 +166,10 @@ custom-javascript-list:
 4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
 4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 5. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196).
-4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
-4. {:.tempest-apl .mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
+4. {:.mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
+6. {:.no-tempest-apl .no-mote-apl}[Молния](https://ru.wowhead.com/spell=188196).
 5. [Молния](https://ru.wowhead.com/spell=188196).
+5. {:.no-tempest-apl .no-mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 7. Продолжайте согласно приоритету заклинаний, указанному ниже.
 
 <p></p>
@@ -216,7 +217,9 @@ custom-javascript-list:
 6. {:.vb-apl .no-tempest-apl .mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если нет баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/), если до спадения осталось менее **5.4** секунд.
 6. {:.vb-apl .no-tempest-apl .no-mote-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/), если до спадения осталось менее **5.4** секунд.
 6. {:.no-vb-apl .no-tempest-apl .no-mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если до спадения осталось менее **5.4** секунд.
-6. {:.no-vb-apl .no-tempest-apl .mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389), если нет баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/), если до спадения осталось менее **5.4** секунд.
+  * Старайтесь также обновлять [Огненный шок](https://ru.wowhead.com/spell=188389), если до исчезновения [Элементаля огня](https://www.wowhead.com/ru/spell=378255) осталось менее **2** секунд.  
+6. {:.no-vb-apl .no-tempest-apl .mote-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) если до спадения осталось менее **5.4** секунд и если нет баффа [Властелина стихий](https://www.wowhead.com/ru/spell=16166/).
+  * Старайтесь также обновлять [Огненный шок](https://ru.wowhead.com/spell=188389), если до исчезновения [Элементаля огня](https://www.wowhead.com/ru/spell=378255) осталось менее **2** секунд.  
 7. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) если другие способности недоступны.
 8. {:.no-tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
 8. {:.tempest-apl}Во время передвижения можно использовать следующие способности:
