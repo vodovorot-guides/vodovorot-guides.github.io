@@ -282,7 +282,7 @@ custom-javascript-list:
 4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если выполняется **любое** из условий:
   * {:.vb-apl .pf-apl}У вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
   * Есть прок [Волны лавы](https://www.wowhead.com/ru/spell=77756/) в бою против **3** целей.
-  * В бою против **2** целей.
+  * Вы находитесь в бою против **2** целей.
 2. {:.no-tempest-apl .vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну.
 6. {:.no-vb-apl .no-tempest-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) в бою против **2-3** целей, если до спадения осталось менее **5.4** секунд.
   * В бою против **2** целей стоит поддерживать [Огненный шок](https://ru.wowhead.com/spell=188389) на **каждой** из них.
