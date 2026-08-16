@@ -111,15 +111,22 @@ function on_build_button_click(button, talent_list) {
 }
 
 
-$('button#build_ele_fs_raid').on('click', function() {
+$('button#build_ele_fs_st').on('click', function() {
     on_build_button_click(this, ["eb", "mote", "fusion", ]);
     return false;
 });
 
-$('button#build_ele_fs_mplus').on('click', function() {
+$('button#build_ele_fs_cleave').on('click', function() {
+    on_build_button_click(this, ["eb", "mote", "fusion", "vb", "pf", ]);
+    return false;
+});
+
+
+$('button#build_ele_fs_aoe').on('click', function() {
     on_build_button_click(this, ["eb", "vb", "pf", ]);
     return false;
 });
+
 
 
 $('button#build_enh_storm').on('click', function() {

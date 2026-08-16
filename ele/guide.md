@@ -68,10 +68,19 @@ custom-javascript-list:
 
 <p></p>
 
+
+Билд **Предсказателя** для клива:
+
+<p></p>
+
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMmZmZZbZMmhBAAAAsYmNYADY2YCZWAgZZmZGjtFTYmZZsMzMzYYxyMWMzYmZBAYYAMzYYYA?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+
+<p></p>
+
 ## Билды для Мифик+
 
 
-Билд **Предсказателя** для Мифик+ и клива:
+Билд **Предсказателя** для Мифик+ и АоЕ:
 
 <p></p>
 
@@ -112,8 +121,9 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_ele_fs_raid" class="btn btn-primary rotation-btn">Предсказатель - Рейд</button>
-    <button type="button" id="build_ele_fs_mplus" class="btn btn-primary rotation-btn">Предсказатель – Мифик+</button>
+    <button type="button" id="build_ele_fs_st" class="btn btn-primary rotation-btn">Предсказатель - СТ</button>
+    <button type="button" id="build_ele_fs_cleave" class="btn btn-primary rotation-btn">Предсказатель - Клив</button>
+    <button type="button" id="build_ele_fs_aoe" class="btn btn-primary rotation-btn">Предсказатель – АоЕ</button>
   </div>
 </div>
 
