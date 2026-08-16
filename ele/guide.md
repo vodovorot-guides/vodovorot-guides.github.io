@@ -260,14 +260,17 @@ custom-javascript-list:
 2. {:.tempest-apl .vb-apl .no-pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) для поддержания на целях [Огненного шока](https://ru.wowhead.com/spell=188389).
 7. {:.tempest-apl}[Цепная молния](https://www.wowhead.com/ru/spell=188443), если у вас **4** заряда баффа [Хранителя бурь](https://www.wowhead.com/ru/spell=191634).
 6. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689), если у вас **2** заряда этой способности.
-3. {:.tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота.
+3. {:.tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3+** целей, если хватает энергии Водоворота.
 4. {:.vb-apl .pf-apl .tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
   * Старайтесь дожидаться прока [Волны лавы](https://www.wowhead.com/ru/spell=77756/), если новое [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) еще не доступно.
-8. {:.no-eb-apl .tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если следующее заклинание приведет к оверкапу энергии Водоворота.
+8. {:.no-eb-apl .tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3+** целей, если следующее заклинание приведет к оверкапу энергии Водоворота.
 9. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
-8. {:.no-tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **4+** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
-4. {:.no-tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **2-3** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
+8. {:.no-tempest-apl .eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3+** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
+8. {:.no-tempest-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
+4. {:.no-tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **2** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
+  * Если в бою против **3** целей есть приоритетная цель, или у вас нет ни одного активного предка, то стоит также использовать [Удар духов стихий](https://ru.wowhead.com/spell=117014).
 4. {:.vb-apl .pf-apl .no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
+  * Старайтесь дожидаться прока [Волны лавы](https://www.wowhead.com/ru/spell=77756/), если новое [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) еще не доступно.
 2. {:.no-tempest-apl .vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну.
 9. {:.tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) в бою против **2** целей.
 9. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если другие способности недоступны.
