@@ -121,8 +121,8 @@ custom-javascript-list:
 
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
-    <button type="button" id="build_ele_fs_st" class="btn btn-primary rotation-btn">Предсказатель - СТ</button>
-    <button type="button" id="build_ele_fs_cleave" class="btn btn-primary rotation-btn">Предсказатель - Клив</button>
+    <button type="button" id="build_ele_fs_st" class="btn btn-primary rotation-btn">Предсказатель – СТ</button>
+    <button type="button" id="build_ele_fs_cleave" class="btn btn-primary rotation-btn">Предсказатель – Клив</button>
     <button type="button" id="build_ele_fs_aoe" class="btn btn-primary rotation-btn">Предсказатель – АоЕ</button>
   </div>
 </div>
@@ -279,9 +279,14 @@ custom-javascript-list:
 8. {:.no-tempest-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
 4. {:.no-tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **2** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
   * Если в бою против **3** целей есть приоритетная цель, или у вас нет ни одного активного предка, то стоит также использовать [Удар духов стихий](https://ru.wowhead.com/spell=117014).
-4. {:.vb-apl .pf-apl .no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если у вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
-  * Старайтесь дожидаться прока [Волны лавы](https://www.wowhead.com/ru/spell=77756/), если новое [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) еще не доступно.
-2. {:.no-tempest-apl .vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну.
+4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если выполняется **любое** из условий:
+  * {:.vb-apl .pf-apl}У вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
+  * Есть прок [Волны лавы](https://www.wowhead.com/ru/spell=77756/) в бою против **3** целей.
+  * В бою против **2** целей.
+2. {:.no-tempest-apl .vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну.
+6. {:.no-vb-apl .no-tempest-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) в бою против **2-3** целей, если до спадения осталось менее **5.4** секунд.
+  * В бою против **2** целей стоит поддерживать [Огненный шок](https://ru.wowhead.com/spell=188389) на **каждой** из них.
+  * В бою против **3** целей стоит поддерживать [Огненный шок](https://ru.wowhead.com/spell=188389) на **основной** цели.
 9. {:.tempest-apl}[Молния](https://ru.wowhead.com/spell=188196) с баффом от [Хранителя бурь](https://ru.wowhead.com/spell=191634) в бою против **2** целей.
 9. [Цепная молния](https://www.wowhead.com/ru/spell=188443), если другие способности недоступны.
 8. {:.no-tempest-apl}[Благосклонность предков](https://ru.wowhead.com/spell=79206) / [Ледяной шок](https://ru.wowhead.com/spell=196840) во время передвижения.
