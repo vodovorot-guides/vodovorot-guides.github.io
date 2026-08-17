@@ -4,7 +4,7 @@ last_update: 2026-08-12
 title: Гайд на Рестор Шамана
 wow: 12.1
 toc: true
-author: Amani, Harreks
+author: Amani, на основе гайда от Harreks
 description: Большое руководство по всем аспектам игры за Шамана Исцеления. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и многое другое.
 image: /assets/img/resto_tb2.png
 custom-javascript-list:
