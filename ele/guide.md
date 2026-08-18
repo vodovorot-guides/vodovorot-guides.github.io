@@ -35,12 +35,13 @@ custom-javascript-list:
 
 <p></p>
 
+# Видео-гайд
 
-Видео с разбором изменений:
+Видеогайд на Элема во втором сезоне:
 
 <p></p>
 
-{% include youtube.html id="cY-I_yEfiB4" %}
+{% include youtube.html id="4ZwC-3Iv-dA" %}
 
 <p></p>
 
