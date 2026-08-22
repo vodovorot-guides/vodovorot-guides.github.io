@@ -215,15 +215,15 @@ custom-javascript-list:
 4. {:.tempest-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если хватает энергии Водоворота.
 7. {:.tempest-apl .no-mote-apl}[Молния](https://ru.wowhead.com/spell=188196), если другие способности недоступны.
 7. {:.tempest-apl .mote-apl}[Буря](https://ru.wowhead.com/spell=454009) / [Молния](https://ru.wowhead.com/spell=188196), если другие способности недоступны.
-4. {:.no-tempest-apl .no-mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
-4. {:.no-tempest-apl .no-mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
+4. {:.no-tempest-apl .no-mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
+4. {:.no-tempest-apl .no-mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
 4. {:.no-tempest-apl .mote-apl .no-eb-apl}[Земной шок](https://ru.wowhead.com/spell=8042), если выполняется **любое** из условий:
   * Следующее заклинание приведет к оверкапу энергии Водоворота.
-  * Есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626) на бесплатный каст [Земного шока](https://ru.wowhead.com/spell=8042).
+  * Есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222) на бесплатный каст [Земного шока](https://ru.wowhead.com/spell=8042).
   * Есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 4. {:.no-tempest-apl .mote-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014), если выполняется **любое** из условий:
   * Следующее заклинание приведет к оверкапу энергии Водоворота.
-  * Есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626) на бесплатный каст [Удара духов стихий](https://ru.wowhead.com/spell=117014)
+  * Есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222) на бесплатный каст [Удара духов стихий](https://ru.wowhead.com/spell=117014)
   * Есть бафф [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
 5. {:.no-mote-apl .no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505) по кулдауну.
 5. {:.mote-apl .no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если нет баффа [Властелин стихий](https://www.wowhead.com/ru/spell=16166/).
@@ -276,15 +276,16 @@ custom-javascript-list:
   * Старайтесь дожидаться прока [Волны лавы](https://www.wowhead.com/ru/spell=77756/), если новое [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) еще не доступно.
 8. {:.no-eb-apl .tempest-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3+** целей, если следующее заклинание приведет к оверкапу энергии Водоворота.
 9. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009) на цель без [Грозового разрядника](https://www.wowhead.com/ru/spell=210689).
-8. {:.no-tempest-apl .eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3+** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
-8. {:.no-tempest-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
-4. {:.no-tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **2** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ptr/spell=1296626).
+2. {:.no-tempest-apl .vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну.
+  * [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) используется как во время [Перерождения](https://www.wowhead.com/ru/spell=114050/), так и вне его.
+8. {:.no-tempest-apl .eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3+** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
+8. {:.no-tempest-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
+4. {:.no-tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **2** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
   * Если в бою против **3** целей есть приоритетная цель, или у вас нет ни одного активного предка, то стоит также использовать [Удар духов стихий](https://ru.wowhead.com/spell=117014).
 4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если выполняется **любое** из условий:
   * {:.vb-apl .pf-apl}У вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
   * Есть прок [Волны лавы](https://www.wowhead.com/ru/spell=77756/) в бою против **3** целей.
   * Вы находитесь в бою против **2** целей.
-2. {:.no-tempest-apl .vb-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) по кулдауну.
 6. {:.no-vb-apl .no-tempest-apl}[Огненный шок](https://ru.wowhead.com/spell=188389) в бою против **2-3** целей, если до спадения осталось менее **5.4** секунд.
   * В бою против **2** целей стоит поддерживать [Огненный шок](https://ru.wowhead.com/spell=188389) на **каждой** из них.
   * В бою против **3** целей стоит поддерживать [Огненный шок](https://ru.wowhead.com/spell=188389) на **основной** цели.
