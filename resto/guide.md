@@ -151,7 +151,7 @@ custom-javascript-list:
 <div class="btn-toolbar justify-content-center mt-2 mb-3">
   <div class="btn-group" role="group">
     <button type="button" id="build_resto_totem" class="btn btn-primary rotation-btn">Тотемист</button>
-    <button type="button" id="build_resto_farseer_raid" class="btn btn-primary rotation-btn">Предсказатель</button>
+    <button type="button" id="build_resto_farseer" class="btn btn-primary rotation-btn">Предсказатель</button>
   </div>
 </div>
 
