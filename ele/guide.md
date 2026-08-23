@@ -521,6 +521,15 @@ custom-javascript-list:
 
 Остальные части сетового комплекта можно использовать любые, желательно без Универсальности.
 
+<p></p>
+
+Характеристики предметов из сетового комплекта:
+* [Украшенное клыками облачение змеиного оракула](https://www.wowhead.com/ru/item=271486/%D1%83%D0%BA%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BA%D0%BB%D1%8B%D0%BA%D0%B0%D0%BC%D0%B8-%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%BC%D0%B5%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D1%80%D0%B0%D0%BA%D1%83%D0%BB%D0%B0?bonus=13335:12854)
+* [Проклятые захваты змеиного оракула](https://www.wowhead.com/ru/item=271484/%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5-%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82%D1%8B-%D0%B7%D0%BC%D0%B5%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D1%80%D0%B0%D0%BA%D1%83%D0%BB%D0%B0?bonus=13335:12854)
+* [Аспидова корона змеиного оракула](https://www.wowhead.com/ru/item=271483/%D0%B0%D1%81%D0%BF%D0%B8%D0%B4%D0%BE%D0%B2%D0%B0-%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0-%D0%B7%D0%BC%D0%B5%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D1%80%D0%B0%D0%BA%D1%83%D0%BB%D0%B0?bonus=13335:12854)
+* [Поножи змеиного оракула](https://www.wowhead.com/ru/item=271482/%D0%BF%D0%BE%D0%BD%D0%BE%D0%B6%D0%B8-%D0%B7%D0%BC%D0%B5%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D1%80%D0%B0%D0%BA%D1%83%D0%BB%D0%B0?bonus=13335:12854)
+* [Шипящее оплечье змеиного оракула](https://www.wowhead.com/ru/item=271481/%D1%88%D0%B8%D0%BF%D1%8F%D1%89%D0%B5%D0%B5-%D0%BE%D0%BF%D0%BB%D0%B5%D1%87%D1%8C%D0%B5-%D0%B7%D0%BC%D0%B5%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D1%80%D0%B0%D0%BA%D1%83%D0%BB%D0%B0?bonus=13335:12854)
+
 
 
 ## Туманные сердечники бездны
@@ -546,7 +555,7 @@ custom-javascript-list:
 Первый вариант крафта:
 1. [Трость Альн'ары](https://www.wowhead.com/ru/item=245770/) с украшением [Ритуальный камень охотника](https://www.wowhead.com/ru/item=273060) и характеристиками Скорость + Искусность.
 2. Ваш самый слабый предмет экипировки с украшением [Подкладка из тайной ткани](https://www.wowhead.com/ru/item=240167).
-3. После выбивания [Джан'тразет, клык души](https://www.wowhead.com/ru/item=271092/%D0%B4%D0%B6%D0%B0%D0%BD%D1%82%D1%80%D0%B0%D0%B7%D0%B5%D1%82-%D0%BA%D0%BB%D1%8B%D0%BA-%D0%B4%D1%83%D1%88%D0%B8?bonus=13335:13848) с помощью монетки с героической Ула'тек – замените [Трости Альн'ары](https://www.wowhead.com/ru/item=245770/) на [Светильник Альн'ары](https://www.wowhead.com/ru/item=245769/) с тем же украшением.
+3. После выбивания [Джан'тразет, клык души](https://www.wowhead.com/ru/item=271092/%D0%B4%D0%B6%D0%B0%D0%BD%D1%82%D1%80%D0%B0%D0%B7%D0%B5%D1%82-%D0%BA%D0%BB%D1%8B%D0%BA-%D0%B4%D1%83%D1%88%D0%B8?bonus=13335:13848) с помощью монетки с героической Ула'тек – следует заменить [Трость Альн'ары](https://www.wowhead.com/ru/item=245770/) на [Светильник Альн'ары](https://www.wowhead.com/ru/item=245769/) с тем же украшением.
 
 <p></p>
 
