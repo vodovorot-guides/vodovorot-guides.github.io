@@ -70,10 +70,10 @@ custom-javascript-list:
 <p></p>
 
 * Данный билд используется в бою против следующих боссов рейда:
- * [Погребенные стражи ](https://www.warcraftlogs.com/zone/rankings/53?boss=3379&class=Shaman&spec=Elemental)
- * [Ссзорак](https://www.warcraftlogs.com/zone/rankings/53?boss=3420&class=Shaman&spec=Elemental)
- * [Спиральный алтарь](https://www.warcraftlogs.com/zone/rankings/53?boss=3429&class=Shaman&spec=Elemental)
- * [Ула'тек](https://www.warcraftlogs.com/zone/rankings/53?boss=3492&class=Shaman&spec=Elemental)
+  * [Погребенные стражи ](https://www.warcraftlogs.com/zone/rankings/53?boss=3379&class=Shaman&spec=Elemental)
+  * [Ссзорак](https://www.warcraftlogs.com/zone/rankings/53?boss=3420&class=Shaman&spec=Elemental)
+  * [Спиральный алтарь](https://www.warcraftlogs.com/zone/rankings/53?boss=3429&class=Shaman&spec=Elemental)
+  * [Ула'тек](https://www.warcraftlogs.com/zone/rankings/53?boss=3492&class=Shaman&spec=Elemental)
 
 <p></p>
 
@@ -86,11 +86,11 @@ custom-javascript-list:
 <p></p>
 
 * Данный билд используется в бою против следующих боссов рейда:
- * [Нимрисса Волногон](https://www.warcraftlogs.com/zone/rankings/53?boss=3379&class=Shaman&spec=Elemental)
- * [Нек'зали](https://www.warcraftlogs.com/zone/rankings/53?boss=3470&class=Shaman&spec=Elemental)
- * [Потерявшиеся исследователи](https://www.warcraftlogs.com/zone/rankings/53?boss=3497&class=Shaman&spec=Elemental)
- * [Вашник Тлетворный](https://www.warcraftlogs.com/zone/rankings/53?boss=3455&class=Shaman&spec=Elemental)
- * [Два Клыка](https://www.warcraftlogs.com/zone/rankings/53?boss=3421&class=Shaman&spec=Elemental)
+  * [Нимрисса Волногон](https://www.warcraftlogs.com/zone/rankings/53?boss=3379&class=Shaman&spec=Elemental)
+  * [Нек'зали](https://www.warcraftlogs.com/zone/rankings/53?boss=3470&class=Shaman&spec=Elemental)
+  * [Потерявшиеся исследователи](https://www.warcraftlogs.com/zone/rankings/53?boss=3497&class=Shaman&spec=Elemental)
+  * [Вашник Тлетворный](https://www.warcraftlogs.com/zone/rankings/53?boss=3455&class=Shaman&spec=Elemental)
+  * [Два Клыка](https://www.warcraftlogs.com/zone/rankings/53?boss=3421&class=Shaman&spec=Elemental)
 
 ## Билды для Мифик+
 
