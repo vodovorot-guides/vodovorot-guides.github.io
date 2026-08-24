@@ -99,9 +99,11 @@ custom-javascript-list:
 
 <p></p>
 
-<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMGjZZZZMmhBAAAAsYmNYADY2YCZWAgZbmZGjlFTbMzsNWmxMjhFLzYZmZMzsAAMjBwMjhhB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
+<iframe title="Talent Embed Example 1" src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMGjZZZZMmhZAAAAgFzsBDYAzGTIzCAMbzMzYssYajZmtxyMmZMsYZmZZYMzsAAMjBwMjhhB?width=700&bgcolor=262b39&locale=ru_RU" width="100%" height="470px" style="overflow: hidden"></iframe>
 
 <p></p>
+
+* В этом билде можно заменить таланты [Бурлящий Водоворот](https://www.wowhead.com/ru/spell=381707/) и [Пламя Котла](https://www.wowhead.com/ru/spell=378266/) на [Единство со стихиями](https://www.wowhead.com/ru/spell=462866) и [Вечные стихии](https://www.wowhead.com/ru/spell=462867/) для большего бурста и урона в одну цель.
 
 
 ## Билды для вылазок
