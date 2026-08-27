@@ -117,7 +117,7 @@ $('button#build_ele_fs_st').on('click', function() {
 });
 
 $('button#build_ele_fs_cleave').on('click', function() {
-    on_build_button_click(this, ["eb", "mote", "fusion",с "vb", "pf", ]);
+    on_build_button_click(this, ["eb", "mote", "fusion", "vb", "pf", ]);
     return false;
 });
 
