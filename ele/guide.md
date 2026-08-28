@@ -296,7 +296,9 @@ custom-javascript-list:
   * [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) используется как во время [Перерождения](https://www.wowhead.com/ru/spell=114050/), так и вне его.
 8. {:.no-tempest-apl .eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882) в бою против **3+** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
 8. {:.no-tempest-apl .no-eb-apl}[Землетрясение](https://ru.wowhead.com/spell=61882), если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
-4. {:.no-tempest-apl .eb-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **2** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
+4. {:.no-tempest-apl .eb-apl .no-mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) в бою против **2** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
+  * Если в бою против **3** целей есть приоритетная цель, или у вас нет ни одного активного предка, то стоит также использовать [Удар духов стихий](https://ru.wowhead.com/spell=117014).
+4. {:.no-tempest-apl .eb-apl .mote-apl}[Удар духов стихий](https://ru.wowhead.com/spell=117014) c баффом от таланта [Властелин стихий](https://www.wowhead.com/ru/spell=16166/) в бою против **2** целей, если хватает энергии Водоворота или если есть бафф от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
   * Если в бою против **3** целей есть приоритетная цель, или у вас нет ни одного активного предка, то стоит также использовать [Удар духов стихий](https://ru.wowhead.com/spell=117014).
 4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505), если выполняется **любое** из условий:
   * {:.vb-apl .pf-apl}У вас есть бафф [Очищающее пламя](https://www.wowhead.com/beta/spell=1259471).
