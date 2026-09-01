@@ -107,7 +107,7 @@ The main utility abilities available to shaman:
 
 ## Ruby Life Pools
 
-* ? [Purge](https://www.wowhead.com/spell=370) – removes [Blaze of Glory](https://www.wowhead.com/spell=373972) on [Primalist Flamedancer](https://www.wowhead.com/npc=190206), which kills the add (trash before the second boss).
+* **!** [Purge](https://www.wowhead.com/spell=370) – removes [Blaze of Glory](https://www.wowhead.com/spell=373972) on [Primalist Flamedancer](https://www.wowhead.com/npc=190206), which kills the add (trash before the second boss).
 * ? [Purge](https://www.wowhead.com/spell=370) – removes [Stormcloud Barrier](https://www.wowhead.com/spell=391031) on [Primal Thundercloud](https://www.wowhead.com/npc=197509) (trash before the last boss).
 * ? [Wind Rush Totem](https://www.wowhead.com/spell=192077) with [Jet Stream](https://www.wowhead.com/spell=462817) – removes [Cold Claws](https://www.wowhead.com/spell=1305234) debuff inflicted by [](https://www.wowhead.com/npc=189893).
 
