@@ -106,7 +106,7 @@ description: Из этой статьи вы узнаете, в какие Ми�
 
 ## Рубиновые Омуты Жизни
 
-* ? [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Пламя славы](https://www.wowhead.com/ru/spell=373972) c [Воин стихий – танцор пламени](https://www.wowhead.com/ru/npc=190206), что убивает адда (треш перед вторым боссом).
+* **!** [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Пламя славы](https://www.wowhead.com/ru/spell=373972) c [Воин стихий – танцор пламени](https://www.wowhead.com/ru/npc=190206), что убивает адда (треш перед вторым боссом).
 * ? [Развеивание магии](https://www.wowhead.com/ru/spell=370) – снимает [Барьер грозовой тучи](https://www.wowhead.com/ru/spell=391031) c [Изначальная грозовая туча](https://www.wowhead.com/ru/npc=197509) (треш перед последним боссом).
 * ? [Тотема ветряного порыва](https://www.wowhead.com/ru/spell=192077) с [Реактивной струёй](https://www.wowhead.com/ru/spell=462817) – снимает [Хладные когти](https://www.wowhead.com/ru/spell=1305234) дебафф, который накладывает [Заряженный дракончик](https://www.wowhead.com/ru/npc=189893).
 
