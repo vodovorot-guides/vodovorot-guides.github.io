@@ -640,7 +640,7 @@ custom-javascript-list:
 
 
 **Зачарования** и **самоцветы**:
-* **Оружие**: [Ярость берсерка](https://www.wowhead.com/ru/item=243973) / [Точность Джан'алай](https://www.wowhead.com/ru/item=243971). [Симьтесь](https://stormkeeper.ru/info/sim.html) персонально для точных данных.
+* **Оружие**: [Обряд хаш'эй](https://www.wowhead.com/ru/item=273072)
 * **Шлем**: [Усиленная руна избежания](https://www.wowhead.com/ru/item=244007)
 * **Наплечники**: [Милость Амирдрассила](https://www.wowhead.com/ru/item=243991)
 * **Нагрудник**: [Метка души мира](https://www.wowhead.com/ru/item=243977)

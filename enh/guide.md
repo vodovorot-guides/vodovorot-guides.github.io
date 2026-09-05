@@ -577,7 +577,7 @@ custom-javascript-list:
 
 
 **Зачарования** и **самоцветы**:
-* **Оружие**: [Чародейская искусность](https://www.wowhead.com/ru/item=244031) + [Ярость берсерка](https://www.wowhead.com/ru/item=243973)
+* **Оружие**: [Обряд хаш'эй](https://www.wowhead.com/ru/item=273072)
 * **Шлем**: [Усиленная руна избежания](https://www.wowhead.com/ru/item=244007)
 * **Наплечники**: [Милость Амирдрассила](https://www.wowhead.com/ru/item=243991)
 * **Нагрудник**: [Метка души мира](https://www.wowhead.com/ru/item=243977)
