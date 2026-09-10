@@ -341,7 +341,7 @@ custom-javascript-list:
 
 * В некоторых ситуациях стоит наоборот, придерживать [Хранитель бурь](https://www.wowhead.com/ru/spell=191634) под выход аддов или  [Перерождение](https://www.wowhead.com/ru/spell=114050), сдавая его не раз в **45** секунд, а раз в минуту.
 
-* На АоЕ всегда старайтесь использовать [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) с талантом [Очищающее пламя](https://www.wowhead.com/ru/spell=1259471) перед [Перерождением](https://www.wowhead.com/ru/spell=114050), но после [Хранителя бурь](https://www.wowhead.com/ru/spell=191634) и [Стремительности предков](https://ru.wowhead.com/spell=448861). То есть порядок должен быть примерно такой:
+* На АоЕ всегда старайтесь использовать [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/) с талантом [Очищающее пламя](https://www.wowhead.com/ru/spell=1259471) перед [Перерождением](https://www.wowhead.com/ru/spell=114050). Порядок должен быть примерно такой:
   * [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/)
   * [Хранителя бурь](https://www.wowhead.com/ru/spell=191634)
   * [Перерождение](https://www.wowhead.com/ru/spell=114050) в макросе со [Стремительностью предков](https://ru.wowhead.com/spell=448861).
