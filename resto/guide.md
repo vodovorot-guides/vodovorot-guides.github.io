@@ -576,10 +576,10 @@ custom-javascript-list:
 **Рейдовые и групповые фреймы** – один из самых важных инструментов для любого хилера. Они предоставляют информацию о здоровье ваших союзников, облегчая вашу задачу по спасению их жизней.
 
 Рекомендованные аддоны для групповых и рейдовых фреймов:
-1. [Danders Frames](https://www.curseforge.com/wow/addons/danders-frames)
-2. [Harrek's Advanced Raid Frames](https://www.curseforge.com/wow/addons/harreks-advanced-raid-frames)
-3. [Grid2](https://www.curseforge.com/wow/addons/grid2)
-4. [VuhDo](https://www.curseforge.com/wow/addons/vuhdo)
+1. [EllesmereUI](https://www.curseforge.com/wow/addons/ellesmereui)
+2. [Danders Frames](https://www.curseforge.com/wow/addons/danders-frames)
+
+<p></p>
 
 [Мой](https://www.twitch.tv/amanizandalari) настроенный интерфейс доступен на [Boosty](https://boosty.to/amani).
 
