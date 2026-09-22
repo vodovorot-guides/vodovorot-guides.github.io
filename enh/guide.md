@@ -186,7 +186,7 @@ custom-javascript-list:
 
 
 1. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) за **1** секунду до пула на пути к цели, **не задевая** врагов!
-1. [Зелье безрассудства](https://www.wowhead.com/ru/spell=1236994) до старта боя, чтобы гарантировать прок Искусности.
+1. [Зелье безрассудства](https://www.wowhead.com/ru/spell=1236994) до старта боя, чтобы гарантировать прок Искусности или Критического удара.
   * {:.asc-apl}Если ваш уровень предметов ниже **~320**, стоит использовать [Потенциал Света](https://www.wowhead.com/ru/item=241308/) вместе с [Перерождением](https://ru.wowhead.com/spell=114051).
   * {:.dw-apl}Если ваш уровень предметов ниже **~320**, стоит использовать [Потенциал Света](https://www.wowhead.com/ru/item=241308/) вместе с [Ветрами рока](https://ru.wowhead.com/spell=384352).
 1. [Гальваническое пламя](https://www.wowhead.com/ru/spell=470057).
@@ -196,6 +196,7 @@ custom-javascript-list:
 1. {:.dw-apl .pw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352) и сразу же [Первозданная буря](https://www.wowhead.com/ru/spell=1218047/).
 1. {:.dw-apl .no-pw-apl}[Ветра рока](https://ru.wowhead.com/spell=384352) и сразу же [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
 1. {:.hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+1. {:.asc-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364)
 1. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 1. [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) по кулдауну при первой доступности.
 2. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну, если [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) не доступна.
