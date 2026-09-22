@@ -250,6 +250,7 @@ custom-javascript-list:
 1. {:.hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
 1. {:.totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/).
 1. {:.hh-apl}[Вскипание лавы](https://www.wowhead.com/ru/spell=60103).
+1. {:.asc-apl}[Удар бури](https://www.wowhead.com/ru/spell=17364).
 1. {:.asc-apl}[Перерождение](https://ru.wowhead.com/spell=114051).
 1. {:.no-totem-apl}[Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) по кулдауну при первой доступности.
 2. {:.asc-apl}[Удар ветра](https://www.wowhead.com/ru/spell=115356) по кулдауну, если [Сокрушающая молния](https://www.wowhead.com/ru/spell=187874/) не доступна.
