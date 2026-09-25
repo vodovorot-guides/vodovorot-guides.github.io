@@ -42,6 +42,16 @@ custom-javascript-list:
 
 <p></p>
 
+# Видео-гайд
+
+Видеогайд на Энха во втором сезоне:
+
+<p></p>
+
+{% include youtube.html id="mqPUeoyzJOY" %}
+
+<p></p>
+
 # Билды талантов
 
 ## Общая информация
