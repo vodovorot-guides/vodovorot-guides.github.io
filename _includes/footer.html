@@ -183,7 +183,7 @@
 
   </script>
   {% for javascript in page.custom-javascript-list %}
-    <script src="{{ javascript }}"></script>
+    <script src="{{ javascript }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}"></script>
   {% endfor %}
 
 </footer>
