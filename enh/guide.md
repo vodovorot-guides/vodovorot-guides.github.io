@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2026-08-21
+last_update: 2026-10-13
 title: Гайд на Энх Шамана
-wow: 12.1
+wow: 12.1.5
 toc: true
 author: Amani, на основе гайда от Wordup
 description: Большое руководство по всем аспектам игры за Шамана Совершенствования. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и многое другое.
@@ -529,12 +529,16 @@ custom-javascript-list:
 3. [Реликварий погибели акиров](https://www.wowhead.com/ru/item=268265/%D1%80%D0%B5%D0%BB%D0%B8%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D0%B9-%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D0%B8-%D0%B0%D0%BA%D0%B8%D1%80%D0%BE%D0%B2?bonus=13335:13708:13848)
 3. [Гильотинная атака Зул'джина](https://www.wowhead.com/ru/item=270173/%D0%B3%D0%B8%D0%BB%D1%8C%D0%BE%D1%82%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0-%D0%B7%D1%83%D0%BB%D0%B4%D0%B6%D0%B8%D0%BD%D0%B0?bonus=13848)
 2. [Кираса пробужденного лютоклыка](https://www.wowhead.com/ru/item=271876/%D0%BA%D0%B8%D1%80%D0%B0%D1%81%D0%B0-%D0%BF%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BB%D1%8E%D1%82%D0%BE%D0%BA%D0%BB%D1%8B%D0%BA%D0%B0?bonus=13848:13708/) 
+3. [Рукавицы преображенного командира](https://www.wowhead.com/ru/item=281238/%D1%80%D1%83%D0%BA%D0%B0%D0%B2%D0%B8%D1%86%D1%8B-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D1%80%D0%B0?bonus=13335:12854:14049)
+4. [Кольцо призывателя роя](https://www.wowhead.com/ru/item=281029/%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE-%D0%BF%D1%80%D0%B8%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D1%80%D0%BE%D1%8F?bonus=13335:12854)
+
+
 
 ## Лучшие предметы из Мифик+
 
 Здесь указаны предметы, которые стоит фармить в Мифик+:
 1. [Омерзительная обманчивая отрава](https://www.wowhead.com/ru/item=273796/%D0%BE%D0%BC%D0%B5%D1%80%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BC%D0%B0%D0%BD%D1%87%D0%B8%D0%B2%D0%B0%D1%8F-%D0%BE%D1%82%D1%80%D0%B0%D0%B2%D0%B0?bonus=13440:13848)
-3. [Мерзкая печатка Атрокса](https://www.wowhead.com/ru/item=252258/%D0%BC%D0%B5%D1%80%D0%B7%D0%BA%D0%B0%D1%8F-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B0-%D0%B0%D1%82%D1%80%D0%BE%D0%BA%D1%81%D0%B0?bonus=13440:12806)
+3. [Мерзкая печатка Атрокса](https://www.wowhead.com/ru/item=252258/%D0%BC%D0%B5%D1%80%D0%B7%D0%BA%D0%B0%D1%8F-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B0-%D0%B0%D1%82%D1%80%D0%BE%D0%BA%D1%81%D0%B0?bonus=13440:12806) или любое другое кольцо без Универсальности.
 3. [Зараженная Бездной корона](https://www.wowhead.com/ru/item=251220/%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B1%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9-%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0?bonus=12854)
 4. [Перчатки погребального голема](https://www.wowhead.com/ru/item=160213/%D0%BF%D0%B5%D1%80%D1%87%D0%B0%D1%82%D0%BA%D0%B8-%D0%BF%D0%BE%D0%B3%D1%80%D0%B5%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B3%D0%BE%D0%BB%D0%B5%D0%BC%D0%B0?bonus=12854)
 
@@ -552,8 +556,9 @@ custom-javascript-list:
 
 Лучшие пассивные аксессуары:
 1. [Гильотинная атака Зул'джина](https://www.wowhead.com/ru/item=270173/%D0%B3%D0%B8%D0%BB%D1%8C%D0%BE%D1%82%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0-%D0%B7%D1%83%D0%BB%D0%B4%D0%B6%D0%B8%D0%BD%D0%B0?bonus=13848) – лучше всего показывает себя с сетовым оружием, особенно в бою против **1-2** целей.
-2. [Бездонная сумка Геббо](https://www.wowhead.com/ru/item=270164/%D0%B1%D0%B5%D0%B7%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%BC%D0%BA%D0%B0-%D0%B3%D0%B5%D0%B1%D0%B1%D0%BE?bonus=13335:13848) – лучший пассивный тринкет для Мифик+.
-3. [Раскаленное ядро хранителя](https://www.wowhead.com/ru/item=270165/%D1%80%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D1%8F%D0%B4%D1%80%D0%BE-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8F?bonus=12854) – альтернативный вариант.
+2. [Щупальце искореженного ужаса](https://www.wowhead.com/ru/item=281215/%D1%89%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B5-%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D1%83%D0%B6%D0%B0%D1%81%D0%B0?bonus=13335:12856) – в том случае, если у вас нет варианта выше **344** уровня.
+3. [Бездонная сумка Геббо](https://www.wowhead.com/ru/item=270164/%D0%B1%D0%B5%D0%B7%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%BC%D0%BA%D0%B0-%D0%B3%D0%B5%D0%B1%D0%B1%D0%BE?bonus=13335:13848) – хороший аксессуар, но проигрывает вариантам указанным выше.
+4. [Раскаленное ядро хранителя](https://www.wowhead.com/ru/item=270165/%D1%80%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D1%8F%D0%B4%D1%80%D0%BE-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8F?bonus=12854) – альтернативный вариант.
 
 
 

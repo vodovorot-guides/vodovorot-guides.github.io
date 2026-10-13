@@ -1,8 +1,8 @@
 ---
 layout: page
-last_update: 2026-09-10
+last_update: 2026-10-13
 title: Гайд на Элем Шамана
-wow: 12.1
+wow: 12.1.5
 toc: true
 author: Amani
 description: Большое руководство по всем аспектам игры за Шамана Стихии. Здесь разобраны билды талантов, приоритет заклинаний, подбор экипировки, настройка интерфейса, макросы и многое другое.
@@ -199,20 +199,19 @@ custom-javascript-list:
 **Опенер в бою против одной цели:**
 
 1. [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунд до пула.
-3. {:.tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Природной стремительностью](https://www.wowhead.com/ru/spell=378081).
-3. {:.no-tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Стремительностью предков](https://ru.wowhead.com/spell=448861).
-2. {:.tempest-apl .mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
-4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
-4. {:.no-tempest-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
-5. {:.no-tempest-apl}[Молния](https://ru.wowhead.com/spell=188196).
-4. {:.mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
-6. {:.no-tempest-apl .no-mote-apl}[Молния](https://ru.wowhead.com/spell=188196).
+6. [Стремительность предков](https://ru.wowhead.com/spell=448861) вместе с зельем.
 5. [Молния](https://ru.wowhead.com/spell=188196).
-6. {:.no-tempest-apl .no-mote-apl}[Молния](https://ru.wowhead.com/spell=188196).
-  * Четыре [Молнии](https://ru.wowhead.com/spell=188196) на старте боя даются затем, чтобы насткать бафф [Порыв ветра](https://www.wowhead.com/ru/spell=263806) от [Гнева бурь](https://www.wowhead.com/ru/spell=191717/).
-  * Если в этот момент прокает [Волна лавы](https://www.wowhead.com/ru/spell=77756/), то стоит сразу же использовать [Выброс лавы](https://ru.wowhead.com/spell=51505).
+5. [Молния](https://ru.wowhead.com/spell=188196).
+3. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром
+4. [Выброс лавы](https://ru.wowhead.com/spell=51505).
+5. [Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффом от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
+4. [Выброс лавы](https://ru.wowhead.com/spell=51505).
+5. [Удар духов стихий](https://ru.wowhead.com/spell=117014) с баффом от [Сетового комплекта](https://www.wowhead.com/ru/spell=1300222).
+4. {:.mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
+4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
 5. {:.no-tempest-apl .no-mote-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 7. Продолжайте согласно приоритету заклинаний, указанному ниже.
+
 
 <p></p>
 
@@ -279,9 +278,12 @@ custom-javascript-list:
 
 **Опенер в бою против 2+ целей:**
 1. [Хранитель бурь](https://ru.wowhead.com/spell=191634) за **1.5** секунд до пула.
+2. [Стремительность предков](https://ru.wowhead.com/spell=448861) вместе с зельем.
 6. {:.vb-apl .pf-apl}[Гальваническое пламя](https://www.wowhead.com/ru/spell=470057/).
-3. {:.tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Природной стремительностью](https://www.wowhead.com/ru/spell=378081).
-3. {:.no-tempest-apl}[Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром, зельем и [Стремительностью предков](https://ru.wowhead.com/spell=448861).
+2. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
+2. [Цепная молния](https://www.wowhead.com/ru/spell=188443).
+3. [Перерождение](https://www.wowhead.com/ru/spell=114050/), вместе с прожимным аксессуаром.
+3. [Землетрясение](https://ru.wowhead.com/spell=61882) столько раз, сколько хватает энергии Водоворота. 
 6. {:.vb-apl .pf-apl}[Выброс лавы](https://ru.wowhead.com/spell=51505).
 4. {:.tempest-apl}[Буря](https://ru.wowhead.com/spell=454009).
 7. Продолжайте согласно приоритету заклинаний, указанному ниже.
@@ -573,11 +575,14 @@ custom-javascript-list:
 ## Туманные сердечники бездны
 
 [Туманные сердечники Бездны](https://www.wowhead.com/ru/currency=3418) лучше всего использовать на следующих боссах:
-1. **Героическая Ула'тек**, с добычей на Рестора:
+1. **Ула'тек**, с добычей на Рестора:
   * [Джан'тразет, клык души](https://www.wowhead.com/ru/item=271092/%D0%B4%D0%B6%D0%B0%D0%BD%D1%82%D1%80%D0%B0%D0%B7%D0%B5%D1%82-%D0%BA%D0%BB%D1%8B%D0%BA-%D0%B4%D1%83%D1%88%D0%B8?bonus=13335:13848)
   * [Кираса пробужденного лютоклыка](https://www.wowhead.com/ru/item=271876/%D0%BA%D0%B8%D1%80%D0%B0%D1%81%D0%B0-%D0%BF%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BB%D1%8E%D1%82%D0%BE%D0%BA%D0%BB%D1%8B%D0%BA%D0%B0?bonus=13848:13708) 
   * [Реликварий погибели акиров](https://www.wowhead.com/ru/item=268265/%D1%80%D0%B5%D0%BB%D0%B8%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D0%B9-%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D0%B8-%D0%B0%D0%BA%D0%B8%D1%80%D0%BE%D0%B2?bonus=13335:13708:13848)
-2. **Эпохальные Потерявшиеся Исследователи**, с добычей на Энха, для [Бездонной сумки Геббо](https://www.wowhead.com/ru/item=270164/%D0%B1%D0%B5%D0%B7%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%BC%D0%BA%D0%B0-%D0%B3%D0%B5%D0%B1%D0%B1%D0%BE?bonus=13335:13848).
+3. **Кит'икс**:
+  * [Рукавицы преображенного командира](https://www.wowhead.com/ru/item=281238/%D1%80%D1%83%D0%BA%D0%B0%D0%B2%D0%B8%D1%86%D1%8B-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D1%80%D0%B0?bonus=13335:12854:14049)
+  * [Кольцо призывателя роя](https://www.wowhead.com/ru/item=281029/%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE-%D0%BF%D1%80%D0%B8%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D1%80%D0%BE%D1%8F?bonus=13335:12854)
+  * [Щупальце искореженного ужаса](https://www.wowhead.com/ru/item=281215/%D1%89%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B5-%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D1%83%D0%B6%D0%B0%D1%81%D0%B0?bonus=13335:12856)
 3. **Эпохальные** два финальных босса рейда, для **344** экипировки.
 4. **Эпохальные** боссы или подземелья с теми предметами, которые у вас еще не максимального уровня.
 
@@ -640,8 +645,10 @@ custom-javascript-list:
 <p></p>
 
 Лучшие пассивные аксессуары:
-1. [Бездонная сумка Геббо](https://www.wowhead.com/ru/item=270164/%D0%B1%D0%B5%D0%B7%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%BC%D0%BA%D0%B0-%D0%B3%D0%B5%D0%B1%D0%B1%D0%BE?bonus=13335:13848) – несмотря на полный рандом в количестве и разнообразии проков, это всё еще лучший пассивный аксессуар из возможных.
-2. [Морской камень призывателя волн](https://www.wowhead.com/ru/item=270167/%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C-%D0%BF%D1%80%D0%B8%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BD?bonus=13335:13848) – неплохой аксессуар, хоть и проигрывает варианту выше. Под конец боя можно сдать последний сет бурстов под стаки этого тринкета.
+
+1. [Щупальце искореженного ужаса](https://www.wowhead.com/ru/item=281215/%D1%89%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B5-%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D1%83%D0%B6%D0%B0%D1%81%D0%B0?bonus=13335:12856) – лучший пассивный аксессуар и для боя против одной цели, и на АоЕ.
+1. [Бездонная сумка Геббо](https://www.wowhead.com/ru/item=270164/%D0%B1%D0%B5%D0%B7%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%BC%D0%BA%D0%B0-%D0%B3%D0%B5%D0%B1%D0%B1%D0%BE?bonus=13335:13848) – проигрывает новому аксессуару с Кит'икса.
+2. [Морской камень призывателя волн](https://www.wowhead.com/ru/item=270167/%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C-%D0%BF%D1%80%D0%B8%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B2%D0%BE%D0%BB%D0%BD?bonus=13335:13848) – неплохой аксессуар, хоть и проигрывает вариантам выше. 
 3. В [ключах нет адекватных пассивных аксессуаров](https://bloodmallet.com/chart/shaman/elemental/trinkets/castingpatchwerk), поэтому стоит рассмотреть вариант аксессуаров из рейда.
 
 
